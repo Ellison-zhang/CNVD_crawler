@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-12 16:35:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02732",
+    "spider_time": 1739349322549,
+    "name": "Samsung libsdffextractor库输入验证错误漏洞",
+    "cnvd": "CNVD-2025-02732",
+    "publish": "2025-02-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Samsung Samsung mobile devices Q(10.0)\", \"Samsung Samsung mobile devices R(11.0)\", \"Samsung Samsung mobile devices O(8.1)\", \"Samsung Samsung Mobile devices P(9.*)\"]",
+    "cve": "CVE-2021-25384",
+    "description": "Samsung libsdffextractor库是三星（Samsung）移动设备的一个组件。Samsung libsdffextractor库存在输入验证错误漏洞，该漏洞源于libsapeextractor库中sdfffd_parse_chunk_PROP()存在采样率块的不当输入验证逻辑，攻击者可利用该漏洞在mediaextractor进程上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2021-25384",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.samsungmobile.com/securityUpdate.smsb?year=2021&month=5",
+    "patch": "Samsung libsdffextractor库输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-06-18",
+    "open_time": "2025-02-12",
+    "update_time": "2025-02-12",
+    "data_summary": "7890a7926a2a06c287784b9473a7ed75"
+}

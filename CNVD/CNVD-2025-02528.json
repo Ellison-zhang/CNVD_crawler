@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-12 16:54:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02528",
+    "spider_time": 1739350444655,
+    "name": "Fortinet FortiManager操作系统命令注入漏洞",
+    "cnvd": "CNVD-2025-02528",
+    "publish": "2025-01-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Fortinet FortiManager >=7.6.0\\uff0c<=7.6.1\", \"Fortinet fortimanager cloud >=7.6.0\\uff0c<=7.6.1\", \"Fortinet fortimanager cloud >=7.4.0\\uff0c<=7.4.4\", \"Fortinet fortimanager cloud >=7.2.2\\uff0c<=7.2.7\", \"Fortinet FortiManager >=7.4.0\\uff0c<=7.4.5\", \"Fortinet FortiManager >=7.2.1\\uff0c<=7.2.8\"]",
+    "cve": "CVE-2024-50566",
+    "description": "Fortinet FortiManager是美国飞塔（Fortinet）公司的一套集中化网络安全管理平台。该平台支持集中管理任意数量的Fortinet设备，并能够将设备分组到不同的管理域（ADOM）进一步简化多设备安全部署与管理。Fortinet FortiManager存在操作系统命令注入漏洞，该漏洞源于操作系统命令中使用的特殊元素的不当中和，经过身份验证的远程攻击者可利用该漏洞通过FGFM精心设计的请求执行未经授权的代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-50566",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-24-463",
+    "patch": "Fortinet FortiManager操作系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-23",
+    "open_time": "2025-02-06",
+    "update_time": "2025-02-06",
+    "data_summary": "54515696aee38fb172c690d33a8b5b87"
+}

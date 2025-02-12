@@ -52,7 +52,7 @@ def cnvd_jsl(url, params, proxies, cookies):
             # print('jsl_1')
             cookies = r.cookies.get_dict()
             __jsl_clearance_s = \
-            execjs.eval(re.findall('document.cookie=(.*?);location.', r.text)[0]).split(';')[0].split('=')[1]
+                execjs.eval(re.findall('document.cookie=(.*?);location.', r.text)[0]).split(';')[0].split('=')[1]
             cookies['__jsl_clearance_s'] = __jsl_clearance_s
             r = request_cnvd(url, params, proxies, cookies)
             # print(r.text[::100])
@@ -133,11 +133,17 @@ def get_cnvd(page) -> list[str]:
         trs = table.find('tbody').find_all('tr')
         for tr in trs:
             # 获取a标签的href
-            a = tr.find('a')
-            if a:
-                result_list.append(a['href'].replace('/flaw/show/', ''))
-            else:
-                raise Exception('未找到a标签或a标签href值为空')
+            # 提取漏洞编号
+            a_tag = tr.find("a", href=True)  # 查找 <a> 标签
+            link = a_tag["href"].replace("/flaw/show/", "") if a_tag else "N/A"
+
+            # 提取时间（取 `<tr>` 行中 **最后一个 `<td>`** 作为时间）
+            all_tds = tr.find_all("td")  # 获取当前行的所有 <td>
+            date_td = all_tds[-1] if all_tds else None  # 取最后一个 <td>
+            date_text = date_td.get_text(strip=True) if date_td else "N/A"
+
+            # 存入结果
+            result_list.append((link, date_text))
     return result_list
 
 
@@ -322,8 +328,15 @@ def get_data(data_html, url):
     return item
 
 
+retry_count = 0
+
+
 def main():
     proxy = {
+    }
+    proxy = {
+        "http": "http://192.168.110.27:7890",
+        "https": "http://192.168.110.27:7890",
     }
     page = 0
     size = 100
@@ -342,17 +355,21 @@ def main():
     vul_count = get_current_vul_count(r1.content)
     if not vul_count:
         next_time = random.randint(3, 8)
+        globals()['retry_count'] += 1
+        if globals()['retry_count'] > 10:
+            print(f'[{get_current_time()}][!]获取漏洞总数失败，重试次数过多，退出程序')
+            return
+
         print(f'[{get_current_time()}][!]获取漏洞总数失败，等待{next_time}秒后重试')
+        time.sleep(next_time)
         return main()
     print(f'[{get_current_time()}][+] 获取到漏洞总数：{vul_count}')
     # 每页100 先用总数除以100 然后+1得到循环次数 每次请求页面设置offset为100的倍数
     print(f'[{get_current_time()}][+] cookie设置完成，开始获取漏洞信息')
-    size = 50
     i = 0
     next_time = random.randint(5, 10)
     print(f'[{get_current_time()}][+] 等待{next_time}秒后进行下一次cnvd获取')
     sleep(next_time)
-    print(f'[{get_current_time()}][+] 开始获取第{i + 1}页，每页{size}个漏洞')
     params = {'flag': True, 'numPerPage': size, 'offset': i * size, 'max': size}
     r1, _ = cnvd_jsl("https://www.cnvd.org.cn/flaw/list", params=params, proxies=proxy, cookies=cookies)
     # print('循环内查询到页面内容，html为：' , r1.text[:50])
@@ -366,8 +383,14 @@ def main():
     if '<table class="tlist">' in r1.text:
         cnvd_ids = get_cnvd(r1.content)
         print(f'[{get_current_time()}][+] 获取到漏洞{len(cnvd_ids)}个，原始数据为：\n{cnvd_ids}')
-        for cvnd_id in cnvd_ids:
+        for cvnd_id, update_time in cnvd_ids:
             try:
+                if os.path.exists(f"CNVD/{cvnd_id}.json"):
+                    with open(f"CNVD/{cvnd_id}.json", "r", encoding='utf8') as f:
+                        item = json.load(f)
+                        if item['update_time'] == update_time:
+                            print(f'[{get_current_time()}][+] 漏洞{cvnd_id}未更新，跳过')
+                            continue
                 next_time = random.randint(2, 5)
                 print(f'[{next_time}][+] 等待{next_time}秒后进行下一次cnvd获取:{cvnd_id}')
                 time.sleep(next_time)

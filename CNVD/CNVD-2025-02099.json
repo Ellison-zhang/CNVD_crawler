@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-12 16:54:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02099",
+    "spider_time": 1739350469197,
+    "name": "Linux kernel内存泄露漏洞（CNVD-2025-02099）",
+    "cnvd": "CNVD-2025-02099",
+    "publish": "2025-01-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Linux Linux kernel >=6.7\\uff0c<6.7.11\", \"Linux Linux kernel >=6.8\\uff0c<6.8.2\", \"Linux Linux kernel >=4.20\\uff0c<5.4.273\", \"Linux Linux kernel >=5.5\\uff0c<5.10.214\", \"Linux Linux kernel >=5.11\\uff0c<5.15.153\", \"Linux Linux kernel >=5.16\\uff0c<6.1.83\", \"Linux Linux kernel >=6.2\\uff0c<6.6.23\", \"Linux Linux kernel >=3.10\\uff0c<4.19.311\"]",
+    "cve": "CVE-2024-27388",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在内存泄露漏洞，该漏洞源于gssx_dec_option_array存在内存泄漏漏洞。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-27388",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/dd292e884c649f9b1c18af0ec75ca90b390cd044",
+    "patch": "Linux kernel内存泄露漏洞（CNVD-2025-02099）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-22",
+    "open_time": "2025-01-22",
+    "update_time": "2025-01-22",
+    "data_summary": "8a66f07c63b480f4cb15ad862de00191"
+}

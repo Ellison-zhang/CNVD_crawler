@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-12 16:55:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02129",
+    "spider_time": 1739350527997,
+    "name": "Microsoft Brokering File System权限提升漏洞",
+    "cnvd": "CNVD-2025-02129",
+    "publish": "2025-01-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Microsoft Brokering File System\"]",
+    "cve": "CVE-2025-21315",
+    "description": "Microsoft Brokering File System是美国微软（Microsoft）公司的一个文件系统。Microsoft Brokering File System存在安全漏洞。攻击者利用该漏洞可以提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-21315",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21315",
+    "patch": "Microsoft Brokering File System权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-17",
+    "open_time": "2025-02-06",
+    "update_time": "2025-02-06",
+    "data_summary": "b614510745ffafde799351d0c7c19f56"
+}
