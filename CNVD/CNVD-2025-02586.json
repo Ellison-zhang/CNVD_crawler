@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-12 13:09:52",
+    "parse_time": "2025-02-12 14:07:41",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02586",
-    "spider_time": 1739365792716,
+    "spider_time": 1739369261311,
     "name": "Linksys E8450 id_email_check_btn命令注入漏洞",
     "cnvd": "CNVD-2025-02586",
     "publish": "2025-02-06",
