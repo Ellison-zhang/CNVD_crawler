@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-12 17:28:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02606",
+    "spider_time": 1739352484386,
+    "name": "NVIDIA GPU Display Driver for Windows and Linux输入验证错误漏洞（CNVD-2025-02606）",
+    "cnvd": "CNVD-2025-02606",
+    "publish": "2025-02-10",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"NVIDIA vGPU Software <=13.2\", \"NVIDIA vGPU Software <=11.7\", \"NVIDIA vGPU Software <=14.0\"]",
+    "cve": "CVE-2022-28188",
+    "description": "NVIDIA GPU Display Driver for Windows是美国英伟达（Nvidia）公司的一个用于Windows系统中对显卡显示模块进行交互支持的驱动软件。NVIDIA GPU Display Driver for Windows and Linux的DXGKDDISCAPE的内核模式层（nvlddmkm.sys）处理程序存在输入验证错误漏洞，该漏洞源于程序未正确验证输入是否符合安全处理数据所需的属性。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-28188",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5353",
+    "patch": "NVIDIA GPU Display Driver for Windows and Linux输入验证错误漏洞（CNVD-2025-02606）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-05-19",
+    "open_time": "2025-02-10",
+    "update_time": "2025-02-10",
+    "data_summary": "975c7aca295305eea31edf663740ade2"
+}

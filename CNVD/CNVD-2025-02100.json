@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-12 17:41:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02100",
+    "spider_time": 1739353282716,
+    "name": "Linux kernel除零错误漏洞（CNVD-2025-02100）",
+    "cnvd": "CNVD-2025-02100",
+    "publish": "2025-01-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Linux Linux kernel 6.8\", \"Linux Linux kernel >=6.7\\uff0c<6.7.12\", \"Linux Linux kernel >=5.5\\uff0c<5.10.215\", \"Linux Linux kernel >=5.11\\uff0c<5.15.154\", \"Linux Linux kernel >=5.16\\uff0c<6.1.84\", \"Linux Linux kernel >=6.2\\uff0c<6.6.64\", \"Linux Linux kernel >=4.20\\uff0c<5.4.274\", \"Linux Linux kernel >=2.6.12\\uff0c<4.19.312\"]",
+    "cve": "CVE-2024-27059",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在除零错误漏洞，该漏洞源于isd200_ata_command中存在除以0的错误。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-27059",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/f42ba916689f5c7b1642092266d2f53cf527aaaa",
+    "patch": "Linux kernel除零错误漏洞（CNVD-2025-02100）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-22",
+    "open_time": "2025-01-22",
+    "update_time": "2025-01-22",
+    "data_summary": "d388b24f2c6f5bdca343b8c0b7d4ed9b"
+}

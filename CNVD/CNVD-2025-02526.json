@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-12 17:29:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02526",
+    "spider_time": 1739352562339,
+    "name": "Fortinet FortiClientEMS输入验证错误漏洞",
+    "cnvd": "CNVD-2025-02526",
+    "publish": "2025-01-23",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:N/I:P/A:N",
+    "product": "[\"Fortinet FortiClientEMS Cloud >=7.2.0\\uff0c<=7.2.4\", \"Fortinet FortiClientEms >=7.2.0\\uff0c<=7.2.4\", \"Fortinet FortiClientEms 7.0.*\", \"Fortinet FortiClientEms 6.4.*\", \"Fortinet FortiClientEMS Cloud 7.4.0\", \"Fortinet FortiClientEMS Cloud 7.0.*\", \"Fortinet FortiClientEMS Cloud 6.4.*\", \"Fortinet FortiClientEms 7.4.0\"]",
+    "cve": "CVE-2024-36506",
+    "description": "Fortinet FortiClientEMS是美国飞塔（Fortinet）公司的Fortinet提供的端点管理解决方案的一部分，旨在帮助组织有效地管理其网络中的终端设备，并提供端点安全性的监控和控制。Fortinet FortiClientEMS存在输入验证错误漏洞，该漏洞源于通信渠道漏洞来源验证不当。远程攻击者可利用该漏洞通过会话连接绕过受信任的主机功能。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-36506",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-24-078",
+    "patch": "Fortinet FortiClientEMS输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-23",
+    "open_time": "2025-02-06",
+    "update_time": "2025-02-06",
+    "data_summary": "8fc1c34f5a1920019a251c25046e5d76"
+}

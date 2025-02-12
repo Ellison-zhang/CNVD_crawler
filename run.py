@@ -334,10 +334,10 @@ retry_count = 0
 def main():
     proxy = {
     }
-    proxy = {
-        "http": "http://192.168.110.27:7890",
-        "https": "http://192.168.110.27:7890",
-    }
+    # proxy = {
+    #     "http": "http://192.168.110.27:7890",
+    #     "https": "http://192.168.110.27:7890",
+    # }
     page = 0
     size = 100
     cookies = {}
@@ -347,6 +347,10 @@ def main():
         # 页面不对，重新请求
         next_time = random.randint(3, 8)
         print(f'[{get_current_time()}][+]初始化中，等待{next_time}秒后重定向页面')
+        globals()['retry_count'] += 1
+        if globals()['retry_count'] > 10:
+            print(f'[{get_current_time()}][!]获取漏洞总数失败，重试次数过多，退出程序')
+            return
         sleep(next_time)
         r1, _ = cnvd_jsl("https://www.cnvd.org.cn/flaw/list", params=params, proxies=proxy, cookies=cookies)
     # print('循环外查询到页面内容，html为：' , r1.text[:50])
@@ -356,7 +360,7 @@ def main():
     if not vul_count:
         next_time = random.randint(3, 8)
         globals()['retry_count'] += 1
-        if globals()['retry_count'] > 10:
+        if globals()['retry_count'] > 20:
             print(f'[{get_current_time()}][!]获取漏洞总数失败，重试次数过多，退出程序')
             return
 
@@ -388,9 +392,12 @@ def main():
                 if os.path.exists(f"CNVD/{cvnd_id}.json"):
                     with open(f"CNVD/{cvnd_id}.json", "r", encoding='utf8') as f:
                         item = json.load(f)
+
                         if item['update_time'] == update_time:
                             print(f'[{get_current_time()}][+] 漏洞{cvnd_id}未更新，跳过')
                             continue
+                        else:
+                            print(f'[{get_current_time()}][+] 漏洞{cvnd_id} {item["update_time"]} {update_time} 已更新，开始更新')
                 next_time = random.randint(2, 5)
                 print(f'[{next_time}][+] 等待{next_time}秒后进行下一次cnvd获取:{cvnd_id}')
                 time.sleep(next_time)

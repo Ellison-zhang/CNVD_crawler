@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-12 17:29:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02525",
+    "spider_time": 1739352557150,
+    "name": "Fortinet FortiAP操作系统命令注入漏洞",
+    "cnvd": "CNVD-2025-02525",
+    "publish": "2025-01-23",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Fortinet FortiAP >=7.4.0\\uff0c<=7.4.2\", \"Fortinet FortiAP >=7.2.0\\uff0c<=7.2.3\", \"Fortinet FortiAP 7.0.x\", \"Fortinet FortiAP 6.4.x\", \"Fortinet FortiAP-S >=6.4.0\\uff0c<=6.4.9\", \"Fortinet FortiAP-S 6.2.x\", \"Fortinet FortiAP-W >=7.4.0\\uff0c<=7.4.2\", \"Fortinet FortiAP-W >=7.2.0\\uff0c<=7.2.3\", \"Fortinet FortiAP-W 7.0.x\", \"Fortinet FortiAP-W 6.4.x\"]",
+    "cve": "CVE-2024-26012",
+    "description": "Fortinet FortiAP是美国飞塔（Fortinet）公司的一款用于管理无线接入点设备的控制器。Fortinet FortiAP存在操作系统命令注入漏洞，该漏洞源于操作系统命令中使用的特殊元素的不当中和，攻击者可利用该漏洞通过CLI执行未经授权的代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-26012",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-23-405",
+    "patch": "Fortinet FortiAP操作系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-23",
+    "open_time": "2025-02-06",
+    "update_time": "2025-02-06",
+    "data_summary": "7493ca83c86e7c8e3ca7e09233983e27"
+}

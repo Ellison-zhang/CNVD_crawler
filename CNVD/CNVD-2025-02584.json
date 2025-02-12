@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-12 17:28:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02584",
+    "spider_time": 1739352517351,
+    "name": "Adobe Acrobat Reader XML外部实体注入漏洞",
+    "cnvd": "CNVD-2025-02584",
+    "publish": "2025-02-07",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Adobe Acrobat reader\"]",
+    "cve": "CVE-2024-49535",
+    "description": "Adobe Acrobat Reader是美国奥多比（Adobe）公司的一款PDF查看器。该软件用于打印，签名和注释PDF。Adobe Acrobat Reader存在XML外部实体注入漏洞，该漏洞源于网络系统或产品未设置正确的过滤允许引用外部实体，远程攻击者可利用该漏洞通过发送特制的XML文件读取文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-49535",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/acrobat/apsb24-92.html",
+    "patch": "Adobe Acrobat Reader XML外部实体注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-13",
+    "open_time": "2025-02-07",
+    "update_time": "2025-02-07",
+    "data_summary": "4da22877629f48a0db787b9dcd452e54"
+}
