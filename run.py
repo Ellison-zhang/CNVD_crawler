@@ -324,8 +324,6 @@ def get_data(data_html, url):
 
 def main():
     proxy = {
-        "http": "http://192.168.110.27:7890",
-        "https": "http://192.168.110.27:7890",
     }
     page = 0
     size = 100
