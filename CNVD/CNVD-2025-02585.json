@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-12 18:07:03",
+    "parse_time": "2025-02-12 19:06:14",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02585",
-    "spider_time": 1739383623457,
+    "spider_time": 1739387174722,
     "name": "Linksys E8450 userEmail命令注入漏洞",
     "cnvd": "CNVD-2025-02585",
     "publish": "2025-02-06",
