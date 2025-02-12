@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-12 12:09:21",
+    "parse_time": "2025-02-12 13:09:58",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02100",
-    "spider_time": 1739362161537,
+    "spider_time": 1739365798561,
     "name": "Linux kernel除零错误漏洞（CNVD-2025-02100）",
     "cnvd": "CNVD-2025-02100",
     "publish": "2025-01-22",
@@ -16,7 +16,7 @@
     "patch": "Linux kernel除零错误漏洞（CNVD-2025-02100）的补丁",
     "verify": "(暂无验证信息)",
     "submit_time": "2025-01-22",
-    "open_time": "2025-01-22",
-    "update_time": "2025-01-22",
+    "open_time": "2025-02-06",
+    "update_time": "2025-02-06",
     "data_summary": "d388b24f2c6f5bdca343b8c0b7d4ed9b"
 }
