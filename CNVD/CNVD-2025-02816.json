@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-13 02:24:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02816",
+    "spider_time": 1739413492717,
+    "name": "IBM Cloud Pak System路径遍历漏洞",
+    "cnvd": "CNVD-2025-02816",
+    "publish": "2025-02-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"IBM IBM Cloud Pak System 2.3.3.6\", \"IBM IBM Cloud Pak System 2.3.3.6 iFix1\", \"IBM IBM Cloud Pak System 2.3.3.6 iFix2\", \"IBM IBM Cloud Pak System 2.3.3.7\", \"IBM IBM Cloud Pak System 2.3.3.7 iFix1\", \"IBM IBM Cloud Pak System 2.3.4.0\"]",
+    "cve": "CVE-2023-38012",
+    "description": "IBM Cloud Pak System是美国国际商业机器（IBM）公司的一套具有可配置、预集成软件的全栈、融合基础架构。该产品支持跨混合云部署、管理和移动应用程序环境。IBM Cloud Pak System存在路径遍历漏洞。该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素。攻击者可利用该漏洞查看系统上的任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-38012",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7148474",
+    "patch": "IBM Cloud Pak System路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-02-13",
+    "update_time": "2025-02-13",
+    "data_summary": "e768e3c410309fb00feef25ea788b0ee"
+}

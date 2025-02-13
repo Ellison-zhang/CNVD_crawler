@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-13 02:25:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02819",
+    "spider_time": 1739413501815,
+    "name": "IBM Maximo Application Suite SQL注入漏洞",
+    "cnvd": "CNVD-2025-02819",
+    "publish": "2025-02-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"IBM IBM Maximo Application Suite 9.0\", \"IBM IBM Maximo Application Suite 8.10.10\", \"IBM IBM Maximo Application Suite 8.11.7\"]",
+    "cve": "CVE-2024-35148",
+    "description": "IBM Maximo Application Suite是美国国际商业机器（IBM）公司的一个为智能资产管理、监控、维护、计算机视觉、安全性和可靠性提供的单一平台。IBM Maximo Application Suite存在SQL注入漏洞。该漏洞源于应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞发送特制的SQL语句，从而查看、添加、修改或删除后端数据库中的信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-35148",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7174952",
+    "patch": "IBM Maximo Application Suite SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-02-13",
+    "update_time": "2025-02-13",
+    "data_summary": "0d9901e4d69d1f2f19d9359a200bfd7f"
+}

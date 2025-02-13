@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-13 02:25:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02852",
+    "spider_time": 1739413540904,
+    "name": "TP-LINK TL-WR940N缓冲区溢出漏洞（CNVD-2025-02852）",
+    "cnvd": "CNVD-2025-02852",
+    "publish": "2025-02-13",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TP-Link TL-WR940N\"]",
+    "cve": "CVE-2024-54887",
+    "description": "TP-LINK TL-WR940N是中国普联（TP-LINK）公司的一款无线路由器。TP-LINK TL-WR940N存在缓冲区溢出漏洞，该漏洞源于/userRpm/Wan6to4TunnelCfgRpm.htm中的dnsserver1和dnsserver2参数在处理不受信任的输入时出现边界错误。攻击者可利用该漏洞在root用户环境中在远程设备上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-54887",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttp://tp-link.com",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-16",
+    "open_time": "2025-02-13",
+    "update_time": "2025-02-13",
+    "data_summary": "e04cff29676558d5c77e952bc1d0c2ef"
+}

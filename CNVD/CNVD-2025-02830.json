@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-13 02:25:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02830",
+    "spider_time": 1739413530719,
+    "name": "IBM Jazz Foundation跨站脚本漏洞（CNVD-2025-02830）",
+    "cnvd": "CNVD-2025-02830",
+    "publish": "2025-02-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"IBM IBM Jazz Foundation 6.0.6\", \"IBM IBM Jazz Foundation 6.0.6.1\", \"IBM IBM Jazz Foundation 7.0.2\", \"IBM IBM Jazz Foundation 7.0\", \"IBM IBM Jazz Foundation 7.0.1\"]",
+    "cve": "CVE-2021-29669",
+    "description": "IBM Jazz Foundation是美国国际商业机器（IBM）公司的一个面向软件交付技术的下一代协作平台。IBM Jazz Foundation存在跨站脚本漏洞。攻击者可利用该漏洞在Web UI中嵌入任意JavaScript代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2021-29669",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://www.ibm.com/support/pages/node/7180689",
+    "patch": "IBM Jazz Foundation跨站脚本漏洞（CNVD-2025-02830）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-24",
+    "open_time": "2025-02-13",
+    "update_time": "2025-02-13",
+    "data_summary": "4a2fbad79585bf9dd57c5ef11e563510"
+}

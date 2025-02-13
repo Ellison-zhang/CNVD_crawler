@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-13 02:27:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02841",
+    "spider_time": 1739413653760,
+    "name": "Adobe Connect跨站脚本漏洞（CNVD-2025-02841）",
+    "cnvd": "CNVD-2025-02841",
+    "publish": "2025-02-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Adobe Connect <11.4.9\", \"Adobe Connect >=12.0\\uff0c<12.7\"]",
+    "cve": "CVE-2024-54043",
+    "description": "Adobe Connect是美国奥多比（Adobe）公司的一个用于创建会议环境的软件。Adobe Connect存在安全漏洞，攻击者可利用该漏洞将恶意脚本注入易受攻击的表单字段。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-54043",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/connect/apsb24-99.html",
+    "patch": "Adobe Connect跨站脚本漏洞（CNVD-2025-02841）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-13",
+    "open_time": "2025-02-13",
+    "update_time": "2025-02-13",
+    "data_summary": "e178a1f4a6799e9638686a31465aeabf"
+}

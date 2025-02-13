@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-13 02:25:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02821",
+    "spider_time": 1739413509619,
+    "name": "IBM Maximo Application Suite输入验证错误漏洞",
+    "cnvd": "CNVD-2025-02821",
+    "publish": "2025-02-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"IBM IBM Maximo Application Suite 8.10.12\", \"IBM IBM Maximo Application Suite 8.11.0\", \"IBM IBM Maximo Application Suite 9.0.1\", \"IBM IBM Maximo Application Suite 9.1.0\"]",
+    "cve": "CVE-2024-35150",
+    "description": "IBM Maximo Application Suite是美国国际商业机器（IBM）公司的一个为智能资产管理、监控、维护、计算机视觉、安全性和可靠性提供的单一平台。IBM Maximo Application Suite存在输入验证错误漏洞，该漏洞源于不会中和写入日志的输出。攻击者可利用该漏洞注入虚假日志条目。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-35150",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7180057",
+    "patch": "IBM Maximo Application Suite输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-02-13",
+    "update_time": "2025-02-13",
+    "data_summary": "d5ced371253ff3db87a59a14c20ff1f4"
+}

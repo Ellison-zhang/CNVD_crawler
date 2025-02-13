@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-13 02:26:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02825",
+    "spider_time": 1739413580848,
+    "name": "Cisco Meeting Management权限提升漏洞",
+    "cnvd": "CNVD-2025-02825",
+    "publish": "2025-02-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Cisco Meeting Management\"]",
+    "cve": "CVE-2025-20156",
+    "description": "Cisco Meeting Management是思科公司用于管理和调度会议的软件。Cisco Meeting Management存在安全漏洞，该漏洞源于REST API用户授权不足，远程攻击者可利用该漏洞通过发送API请求到特定端点提升至管理员权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://blog.clamav.net/2025/01/clamav-142-and-108-security-patch.html\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-ole2-H549rphA\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cmm-privesc-uy2Vf8pc",
+    "solution": "目前厂商已发布升级补丁以修复漏洞。补丁获取链接：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cmm-privesc-uy2Vf8pc",
+    "patch": "Cisco Meeting Management权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-24",
+    "open_time": "2025-02-13",
+    "update_time": "2025-02-13",
+    "data_summary": "1e0b6006b400e72201574a3314b813ee"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-13 02:26:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02815",
+    "spider_time": 1739413574737,
+    "name": "IBM Analytics Content Hub缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-02815",
+    "publish": "2025-02-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"IBM IBM Analytics Content Hub v2.0\"]",
+    "cve": "CVE-2024-39750",
+    "description": "IBM Analytics Content Hub是美国国际商业机器（IBM）公司的一种干净的流式体验，通过从IBM和其他分析提供商的提取内容来可视化相关分析内容。IBM Analytics Content Hub存在缓冲区溢出漏洞，该漏洞源于返回长度检查不当。攻击者可利用该漏洞导致溢出缓冲区并在系统上执行任意代码或导致服务器崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-39750",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7172787",
+    "patch": "IBM Analytics Content Hub缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-02-13",
+    "update_time": "2025-02-13",
+    "data_summary": "0d15eb1850988757029af832cb68b6e2"
+}
