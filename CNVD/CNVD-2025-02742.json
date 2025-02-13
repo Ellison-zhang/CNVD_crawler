@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-13 20:03:59",
+    "parse_time": "2025-02-13 21:03:44",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02742",
-    "spider_time": 1739477039791,
+    "spider_time": 1739480624348,
     "name": "Hitachi Energy RTU500 series CMU firmware缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-02742",
     "publish": "2025-02-13",
