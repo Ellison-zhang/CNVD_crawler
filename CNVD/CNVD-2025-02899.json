@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-14 08:04:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02899",
+    "spider_time": 1739520273686,
+    "name": "Tenda AC18命令注入漏洞（CNVD-2025-02899）",
+    "cnvd": "CNVD-2025-02899",
+    "publish": "2025-02-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda AC18 V15.03.05.19\"]",
+    "cve": "CVE-2024-57583",
+    "description": "Tenda AC18是中国腾达（Tenda）公司的一款路由器。Tenda AC18 15.03.05.19版本存在命令注入漏洞，该漏洞源于formSetSambaConf函数的usbName参数未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-57583",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/qijiale/Tenda/tree/main/10",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-23",
+    "open_time": "2025-02-14",
+    "update_time": "2025-02-14",
+    "data_summary": "9fe50940ebc08016b57bed02bbae07e8"
+}
