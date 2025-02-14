@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-14 15:06:48",
+    "parse_time": "2025-02-14 16:07:56",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02723",
-    "spider_time": 1739545608348,
+    "spider_time": 1739549276688,
     "name": "D-Link DAR-7000-40 resmanage.php命令注入漏洞",
     "cnvd": "CNVD-2025-02723",
     "publish": "2025-02-11",
