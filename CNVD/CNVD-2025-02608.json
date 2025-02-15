@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-15 07:08:20",
+    "parse_time": "2025-02-15 08:15:47",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02608",
-    "spider_time": 1739603300391,
+    "spider_time": 1739607347969,
     "name": "OTFCC缓冲区溢出漏洞（CNVD-2025-02608）",
     "cnvd": "CNVD-2025-02608",
     "publish": "2025-02-10",
