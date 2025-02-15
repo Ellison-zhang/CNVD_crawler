@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-14 23:03:28",
+    "parse_time": "2025-02-15 00:12:22",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02897",
-    "spider_time": 1739574208555,
+    "spider_time": 1739578342663,
     "name": "Linksys E8450 wizard_status命令注入漏洞",
     "cnvd": "CNVD-2025-02897",
     "publish": "2025-02-13",
