@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-16 22:04:24",
+    "parse_time": "2025-02-16 23:04:26",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02815",
-    "spider_time": 1739743464707,
+    "spider_time": 1739747066338,
     "name": "IBM Analytics Content Hub缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-02815",
     "publish": "2025-02-11",
