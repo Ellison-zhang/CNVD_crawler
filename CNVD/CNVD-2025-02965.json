@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-17 01:30:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02965",
+    "spider_time": 1739755858063,
+    "name": "Microsoft Office代码问题漏洞（CNVD-2025-02965）",
+    "cnvd": "CNVD-2025-02965",
+    "publish": "2025-02-14",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft 365 Apps\", \"Microsoft Office 2024\"]",
+    "cve": "CVE-2025-21365",
+    "description": "Microsoft Office是美国微软（Microsoft）公司的一款办公软件套件产品。该产品常用组件包括Word、Excel、Access、Powerpoint、FrontPage等。Microsoft Office存在代码问题漏洞。攻击者利用该漏洞可以远程执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-21365",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21365",
+    "patch": "Microsoft Office代码问题漏洞（CNVD-2025-02965）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-14",
+    "open_time": "2025-02-17",
+    "update_time": "2025-02-17",
+    "data_summary": "e0cd095071060b8f55364c84e75d79e7"
+}

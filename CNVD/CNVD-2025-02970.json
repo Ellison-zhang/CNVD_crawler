@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-17 01:32:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02970",
+    "spider_time": 1739755924020,
+    "name": "Microsoft Excel远程代码执行漏洞",
+    "cnvd": "CNVD-2025-02970",
+    "publish": "2025-02-13",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft 365 Apps for Enterprise <https://aka.ms/OfficeSecurityReleases\", \"Microsoft 365 Apps for Enterprise 16.0.1\", \"Microsoft Office LTSC 2021 <https://aka.ms/OfficeSecurityReleases\", \"Microsoft Office LTSC 2021 16.0.1\", \"Microsoft Office LTSC 2024 <https://aka.ms/OfficeSecurityReleases\", \"Microsoft Office LTSC 2024 1.0.0\", \"Microsoft Office Online Server <16.0.10416.20058\", \"Microsoft Office Online Server 1.0.0\", \"Microsoft Office 2019 <https://aka.ms/OfficeSecurityReleases\", \"Microsoft Office 2019 19.0.0\", \"Microsoft Office LTSC for Mac 2021 <16.94.25020927\", \"Microsoft Office LTSC for Mac 2021 16.0.1\", \"Microsoft Office LTSC for Mac 2024 <16.94.25020927\", \"Microsoft Office LTSC for Mac 2024 1.0.0\", \"Microsoft Excel 2016 <16.0.5487.1000\", \"Microsoft Excel 2016 16.0.0.0\"]",
+    "cve": "CVE-2025-21381",
+    "description": "Microsoft Excel是微软公司为使用Windows和macOS操作系统的电脑编写的一款电子表格软件。Microsoft Excel存在远程代码执行漏洞，攻击者可利用该漏洞在目标主机上执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-21381",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2025-21381",
+    "patch": "Microsoft Excel远程代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-13",
+    "open_time": "2025-02-17",
+    "update_time": "2025-02-17",
+    "data_summary": "91fb5a3c4f184b80d991bcd56c6f5bb0"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-17 01:30:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02964",
+    "spider_time": 1739755852054,
+    "name": "Microsoft SharePoint输入验证错误漏洞（CNVD-2025-02964）",
+    "cnvd": "CNVD-2025-02964",
+    "publish": "2025-02-14",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft SharePoint Server 2016\", \"Microsoft SharePoint Server 2019\", \"Microsoft SharePoint Server <16.0.17928.20356\"]",
+    "cve": "CVE-2025-21344",
+    "description": "Microsoft SharePoint是美国微软（Microsoft）公司的一套企业业务协作平台。该平台用于对业务信息进行整合，并能够共享工作、与他人协同工作、组织项目和工作组、搜索人员和信息。Microsoft SharePoint存在输入验证错误漏洞。攻击者利用该漏洞可以远程执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21344\nhttps://nvd.nist.gov/vuln/detail/CVE-2025-21344",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21344",
+    "patch": "Microsoft SharePoint输入验证错误漏洞（CNVD-2025-02964）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-14",
+    "open_time": "2025-02-17",
+    "update_time": "2025-02-17",
+    "data_summary": "25325c63e7144640ccc5883897b10e44"
+}
