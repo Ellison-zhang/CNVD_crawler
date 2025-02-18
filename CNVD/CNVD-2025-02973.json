@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-18 03:07:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02973",
+    "spider_time": 1739848023235,
+    "name": "Google Android信息泄露漏洞（CNVD-2025-02973）",
+    "cnvd": "CNVD-2025-02973",
+    "publish": "2025-02-17",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Google Android\"]",
+    "cve": "CVE-2024-47022",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在信息泄露漏洞，该漏洞是由ACPM组件中的漏洞引起的。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://source.android.com/security/bulletin/pixel/2024-10-01",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/pixel/2024-10-01",
+    "patch": "Google Android信息泄露漏洞（CNVD-2025-02973）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-31",
+    "open_time": "2025-02-17",
+    "update_time": "2025-02-17",
+    "data_summary": "00039c15efcc31a65c5c829bb15a0c76"
+}

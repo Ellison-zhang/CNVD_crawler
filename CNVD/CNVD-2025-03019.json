@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-18 03:06:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03019",
+    "spider_time": 1739847996369,
+    "name": "Google Android拒绝服务漏洞（CNVD-2025-03019）",
+    "cnvd": "CNVD-2025-03019",
+    "publish": "2025-02-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Google Android 7.0\", \"Google Android 7.1.1\", \"Google Android 7.1.2\", \"Google Android 8.0\", \"Google Android 8.1\"]",
+    "cve": "CVE-2018-9353",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在拒绝服务漏洞，该漏洞源于ihevcd_parse_slice.c文件中ihevcd_parse_slice_data函数缺少边界检查，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2018-9353",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://source.android.com/docs/security/bulletin/pixel/2018-06-01",
+    "patch": "Google Android拒绝服务漏洞（CNVD-2025-03019）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-03",
+    "open_time": "2025-02-18",
+    "update_time": "2025-02-18",
+    "data_summary": "cecf140006c4c93b06761a8269e0c9bd"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-18 03:06:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03016",
+    "spider_time": 1739847983952,
+    "name": "Google Chrome DevTools内存错误引用漏洞",
+    "cnvd": "CNVD-2025-03016",
+    "publish": "2025-02-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <132.0.6834.159\"]",
+    "cve": "CVE-2025-0762",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome DevTools存在内存错误引用漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/01/stable-channel-update-for-desktop_28.html",
+    "solution": "用户可参考如下厂商提供的信息以修复该漏洞：\nhttps://chromereleases.googleblog.com/2025/01/stable-channel-update-for-desktop_28.html",
+    "patch": "Google Chrome DevTools内存错误引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-10",
+    "open_time": "2025-02-18",
+    "update_time": "2025-02-18",
+    "data_summary": "2d45eb48c057d07fa5d60b3c0396269e"
+}

@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-18 02:26:26",
+    "parse_time": "2025-02-18 03:08:45",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02900",
-    "spider_time": 1739845586342,
+    "spider_time": 1739848125010,
     "name": "Linksys E7350 vif_disable命令注入漏洞",
     "cnvd": "CNVD-2025-02900",
     "publish": "2025-02-13",
