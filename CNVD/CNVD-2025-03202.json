@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-19 10:07:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03202",
+    "spider_time": 1739959655369,
+    "name": "Juniper Networks Junos OS Evolved内存错误引用漏洞",
+    "cnvd": "CNVD-2025-03202",
+    "publish": "2025-02-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Juniper    Junos OS Evolved >= 23.2-EVO\\uff0c<23.2R2-S2-EVO\", \"Juniper    Junos OS Evolved >= 23.4-EVO\\uff0c<23.4R2-S2-EVO\", \"Juniper    Junos OS Evolved >= 24.2-EVO\\uff0c<24.2R1-S2-EVO\", \"Juniper    Junos OS Evolved >=22.4-EVO\\uff0c<22.4R3-S5-EVO\", \"Juniper    Junos OS Evolved >=24.2R2-EVO\"]",
+    "cve": "CVE-2025-21599",
+    "description": "Juniper Networks Junos OS Evolved是美国瞻博网络（Juniper Networks）公司的Junos OS的升级版系统。Juniper Networks Junos OS Evolved存在内存错误引用漏洞，该漏洞源于处理特定畸形IPv6数据包时未释放内核内存，攻击者可利用该漏洞导致内存耗尽和系统崩溃，从而造成拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-21599",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://supportportal.juniper.net/JSA92869",
+    "patch": "Juniper Networks Junos OS Evolved内存错误引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-08",
+    "open_time": "2025-02-19",
+    "update_time": "2025-02-19",
+    "data_summary": "fd6174525e5d4d602128f6554a540110"
+}

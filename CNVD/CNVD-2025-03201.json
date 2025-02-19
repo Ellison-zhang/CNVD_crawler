@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-19 10:03:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03201",
+    "spider_time": 1739959428571,
+    "name": "Linux kernel存在未明漏洞（CNVD-2025-03201）",
+    "cnvd": "CNVD-2025-03201",
+    "publish": "2025-02-17",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Linux Linux kernel 6.13\", \"Linux Linux kernel >=3.10\\uff0c<=6.12.5\"]",
+    "cve": "CVE-2024-57872",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在安全漏洞，该漏洞源于SCSI ufs模块在移除时未正确释放HBA，可能导致内存泄漏。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://git.kernel.org/stable/c/cd188519d2467ab4c2141587b0551ba030abff0e\nhttps://git.kernel.org/stable/c/897df60c16d54ad515a3d0887edab5c63da06d1f\nhttps://access.redhat.com/security/cve/cve-2024-57872",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://git.kernel.org/stable/c/897df60c16d54ad515a3d0887edab5c63da06d1f",
+    "patch": "Linux kernel存在未明漏洞（CNVD-2025-03201）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-14",
+    "open_time": "2025-02-19",
+    "update_time": "2025-02-19",
+    "data_summary": "fcd3fe32f8c4c638022d58cd2fb5d19e"
+}
