@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-19 04:04:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03109",
+    "spider_time": 1739937868602,
+    "name": "Open5GS oai_nas_5gmm_decode函数存在未明漏洞",
+    "cnvd": "CNVD-2025-03109",
+    "publish": "2025-02-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:N/I:N/A:C",
+    "product": "[\"Open5GS Open5GS <=2.6.4\"]",
+    "cve": "CVE-2024-24428",
+    "description": "Open5GS是Open5GS开源的一个5G Core和Epc的C语言开源实现，即Lte/Nr网络的核心网络。Open5GS oai_nas_5gmm_decode函数存在安全漏洞，攻击者可利用该漏洞通过精心设计的NGAP数据包引发拒绝服务（DoS）。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-24428",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/open5gs/open5gs/releases/tag/v2.7.2",
+    "patch": "Open5GS oai_nas_5gmm_decode函数存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-08",
+    "open_time": "2025-02-19",
+    "update_time": "2025-02-19",
+    "data_summary": "8089b41ee9474d2708683ca711e180ff"
+}
