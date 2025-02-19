@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-19 16:06:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03191",
+    "spider_time": 1739981206166,
+    "name": "Open5GS拒绝服务漏洞（CNVD-2025-03191）",
+    "cnvd": "CNVD-2025-03191",
+    "publish": "2025-02-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Open5GS Open5GS <=2.6.4\"]",
+    "cve": "CVE-2023-37019",
+    "description": "Open5GS是Open5GS开源的一个5G Core和Epc的C语言开源实现，即Lte/Nr网络的核心网络。Open5GS存在拒绝服务漏洞，攻击者可利用该漏洞会发送“ S1SETUP请求”消息缺少所需的tas“字段，以反复撞击MME，从而导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-37019",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://open5gs.org/",
+    "patch": "Open5GS拒绝服务漏洞（CNVD-2025-03191）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-08",
+    "open_time": "2025-02-19",
+    "update_time": "2025-02-19",
+    "data_summary": "919f40a3b5f8ec8b6190b51d3d25446e"
+}
