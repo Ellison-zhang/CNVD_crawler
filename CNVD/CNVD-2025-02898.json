@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-19 18:09:32",
+    "parse_time": "2025-02-19 19:06:18",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02898",
-    "spider_time": 1739988572816,
+    "spider_time": 1739991978989,
     "name": "Linksys E8450 anonymous_protect_status参数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-02898",
     "publish": "2025-02-13",
