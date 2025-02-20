@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-20 01:38:26",
+    "parse_time": "2025-02-20 02:30:20",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02952",
-    "spider_time": 1740015506570,
+    "spider_time": 1740018620841,
     "name": "Linksys E8450 lan_ipaddr参数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-02952",
     "publish": "2025-02-13",
