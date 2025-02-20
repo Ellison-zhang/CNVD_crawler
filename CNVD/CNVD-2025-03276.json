@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-20 09:04:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03276",
+    "spider_time": 1740042270265,
+    "name": "TP-LINK WR845N弱加密漏洞",
+    "cnvd": "CNVD-2025-03276",
+    "publish": "2025-02-20",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TP-LINK WR845N V4_190219\"]",
+    "cve": "CVE-2024-46341",
+    "description": "TP-LINK WR845N是中国普联（TP-LINK）公司的一款无线路由器。TP-LINK WR845N V4_190219版本存在弱加密漏洞，该漏洞源于以base64编码形式传输凭据，攻击者可利用该漏洞通过中间人攻击轻松解码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-46341",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://security.iiita.ac.in/iot/base64-authorization.docx",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-20",
+    "open_time": "2025-02-20",
+    "update_time": "2025-02-20",
+    "data_summary": "5307e8224a72a7a415480c4cf883971f"
+}
