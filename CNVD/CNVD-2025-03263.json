@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-20 08:04:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03263",
+    "spider_time": 1740038685821,
+    "name": "Google Android Intent.java文件输入验证错误漏洞",
+    "cnvd": "CNVD-2025-03263",
+    "publish": "2025-02-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Google Android <12\", \"Google Android <12L\", \"Google Android <13\", \"Google Android <14\"]",
+    "cve": "CVE-2024-40675",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在输入验证错误漏洞，该漏洞源于Intent.java的parseUriInternal函数中不正确的输入验证，攻击者可利用该漏洞导致无限循环，从而造成本地拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/c6b5490ec659b5854fd429f453f75de5befa6359",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2024-10-01",
+    "patch": "Google Android Intent.java文件输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-02-20",
+    "update_time": "2025-02-20",
+    "data_summary": "de963b2f1c09f273f4090d1f61e45e2d"
+}

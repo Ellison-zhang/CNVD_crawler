@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-20 08:04:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03264",
+    "spider_time": 1740038694768,
+    "name": "Google Android onCreate函数授权问题漏洞",
+    "cnvd": "CNVD-2025-03264",
+    "publish": "2025-02-20",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Android <12\", \"Google Android <12L\", \"Google Android <13\", \"Google Android <14\"]",
+    "cve": "CVE-2024-40672",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在授权问题漏洞，该漏洞源于ChooserActivity.java的onCreate函数中缺少权限检查，攻击者可利用该漏洞导致绕过出厂重置保护，从而导致本地权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/packages/modules/IntentResolver/+/ccd29124d0d2276a3071c0418c14dec188cd3727",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2024-10-01",
+    "patch": "Google Android onCreate函数授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-02-20",
+    "update_time": "2025-02-20",
+    "data_summary": "64ed819b993e1228a1adad2a2fab3974"
+}

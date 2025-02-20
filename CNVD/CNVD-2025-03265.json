@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-20 08:08:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03265",
+    "spider_time": 1740038889290,
+    "name": "Google Pixel越界写入漏洞（CNVD-2025-03265）",
+    "cnvd": "CNVD-2025-03265",
+    "publish": "2025-02-13",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android\"]",
+    "cve": "CVE-2018-9397",
+    "description": "Google Pixel是美国谷歌（Google）公司的一款智能手机。Google Pixel存在越界写入漏洞，该漏洞源于WMT_unlocked_ioctl中MTKWMT设备驱动程序边界检查的缺失，攻击者可利用该漏洞导致本地权限升级。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-9397",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://source.android.com/security/bulletin/pixel/2018-06-01",
+    "patch": "Google Pixel越界写入漏洞（CNVD-2025-03265）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-13",
+    "open_time": "2025-02-20",
+    "update_time": "2025-02-20",
+    "data_summary": "bd4aee3801f3110272d3949c8f065f61"
+}
