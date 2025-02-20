@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-20 09:07:41",
+    "parse_time": "2025-02-20 10:08:48",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02951",
-    "spider_time": 1740042461900,
+    "spider_time": 1740046128354,
     "name": "Linksys E8450 action参数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-02951",
     "publish": "2025-02-13",
