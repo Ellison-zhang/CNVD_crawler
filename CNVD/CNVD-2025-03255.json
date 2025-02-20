@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-20 16:07:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03255",
+    "spider_time": 1740067631125,
+    "name": "SunGrow WiNet-S堆栈缓冲区溢出漏洞（CNVD-2025-03255）",
+    "cnvd": "CNVD-2025-03255",
+    "publish": "2025-02-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"SunGrow SunGrow WiNet-S <=V200.001.00.P027\"]",
+    "cve": "CVE-2024-50698",
+    "description": "SunGrow WiNet-S是中国阳光电源（SunGrow）公司的一个局域网通信模块。SunGrow WiNet-S存在堆栈缓冲区溢出漏洞，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://en.sungrowpower.com/security-notice-detail-2/5961",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://en.sungrowpower.com/security-notice-detail-2/5961",
+    "patch": "SunGrow WiNet-S堆栈缓冲区溢出漏洞（CNVD-2025-03255）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-02-20",
+    "update_time": "2025-02-20",
+    "data_summary": "eaf8fffa3c88cd5c62076713e23c8bc8"
+}
