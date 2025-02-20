@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-20 14:09:15",
+    "parse_time": "2025-02-20 15:07:11",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03203",
-    "spider_time": 1740060555163,
+    "spider_time": 1740064031342,
     "name": "Centreon SQL注入漏洞（CNVD-2025-03203）",
     "cnvd": "CNVD-2025-03203",
     "publish": "2025-02-13",
