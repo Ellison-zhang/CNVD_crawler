@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-21 11:05:31",
+    "parse_time": "2025-02-21 12:07:29",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03016",
-    "spider_time": 1740135931472,
+    "spider_time": 1740139649905,
     "name": "Google Chrome DevTools内存错误引用漏洞",
     "cnvd": "CNVD-2025-03016",
     "publish": "2025-02-17",
