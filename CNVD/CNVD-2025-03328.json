@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-21 07:03:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03328",
+    "spider_time": 1740121426631,
+    "name": "Library Card System SQL注入漏洞（CNVD-2025-03328）",
+    "cnvd": "CNVD-2025-03328",
+    "publish": "2025-02-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Library Card System Library Card System 1.0\"]",
+    "cve": "CVE-2025-1356",
+    "description": "Library Card System是一个图书馆管理系统。Library Card System 1.0版本存在SQL注入漏洞，该漏洞源于card.php文件的id参数缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1356",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://vuldb.com/?ctiid.295964",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-02-21",
+    "update_time": "2025-02-21",
+    "data_summary": "087fe4f99427ddb5178463498df9fb7c"
+}
