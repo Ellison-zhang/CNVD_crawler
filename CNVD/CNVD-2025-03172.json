@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-21 19:05:19",
+    "parse_time": "2025-02-21 20:09:04",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03172",
-    "spider_time": 1740164719383,
+    "spider_time": 1740168544293,
     "name": "Student Grading System SQL注入漏洞（CNVD-2025-03172）",
     "cnvd": "CNVD-2025-03172",
     "publish": "2025-02-17",
