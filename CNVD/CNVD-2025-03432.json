@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-21 08:06:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03432",
+    "spider_time": 1740125190733,
+    "name": "Linux kernel vsock_bpf_recvmsg函数拒绝服务漏洞",
+    "cnvd": "CNVD-2025-03432",
+    "publish": "2025-02-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Linux Kernel\"]",
+    "cve": "CVE-2025-21670",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在拒绝服务漏洞，该漏洞源于vsock_bpf_recvmsg函数在未分配传输层时未正确检查vsk->transport，攻击者可利用该漏洞导致在尝试接收数据时可能访问空指针，引发内核崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-21670",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/58e586c30d0b6f5dc0174a41026f2b0a48c9aab6",
+    "patch": "Linux kernel vsock_bpf_recvmsg函数拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-02-21",
+    "update_time": "2025-02-21",
+    "data_summary": "072abf90c308b92ccf65ad32d39864ae"
+}

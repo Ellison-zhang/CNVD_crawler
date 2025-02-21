@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-21 08:04:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03435",
+    "spider_time": 1740125058891,
+    "name": "SAP Approuter验证绕过漏洞",
+    "cnvd": "CNVD-2025-03435",
+    "publish": "2025-02-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"SAP Approuter <=16.7.1\"]",
+    "cve": "CVE-2025-24876",
+    "description": "SAP Approuter是SAP一个关键组件，主要用于处理所有应用的入口请求。SAP Approuter存在验证绕过漏洞，远程攻击者可以利用该漏洞提交特殊的请求，可绕过验证，注入代码并执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-24876",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/february-2025.html",
+    "patch": "SAP Approuter验证绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-02-21",
+    "update_time": "2025-02-21",
+    "data_summary": "3c10e746b52d83357d15c7637f590463"
+}
