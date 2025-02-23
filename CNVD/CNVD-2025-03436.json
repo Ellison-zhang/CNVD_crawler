@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-23 08:07:36",
+    "parse_time": "2025-02-23 09:06:21",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03436",
-    "spider_time": 1740298056365,
+    "spider_time": 1740301581763,
     "name": "Microsoft Azure Monitor Agent权限提升漏洞（CNVD-2025-03436）",
     "cnvd": "CNVD-2025-03436",
     "publish": "2025-02-14",
