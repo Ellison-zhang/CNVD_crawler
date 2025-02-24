@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-24 10:03:53",
+    "parse_time": "2025-02-24 11:03:24",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03253",
-    "spider_time": 1740391433527,
+    "spider_time": 1740395004960,
     "name": "SunGrow WiNet-S存储消息堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-03253",
     "publish": "2025-02-21",
