@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-24 10:08:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03516",
+    "spider_time": 1740391699815,
+    "name": "Fortinet FortiClient访问控制错误漏洞",
+    "cnvd": "CNVD-2025-03516",
+    "publish": "2025-02-19",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Fortinet FortiClientWindows 7.4.0\", \"Fortinet FortiClientWindows >=7.2.0\\uff0c<=7.2.6\", \"Fortinet FortiClientWindows >=7.0.3\\uff0c<=7.0.13\"]",
+    "cve": "CVE-2024-40586",
+    "description": "Fortinet FortiClient是美国飞塔（Fortinet）公司的一套移动终端安全解决方案。该方案与FortiGate防火墙设备连接时可提供IPsec和SSL加密、广域网优化、终端合规和双因子认证等功能。Fortinet FortiClient存在访问控制错误漏洞，该漏洞源于存在不当访问控制。本地攻击者可利用该漏洞通过FortissLVPND服务管道升级其特权。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://fortiguard.fortinet.com/psirt/FG-IR-23-279",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.com/psirt/FG-IR-23-279",
+    "patch": "Fortinet FortiClient访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-02-24",
+    "update_time": "2025-02-24",
+    "data_summary": "438fab07070f64563a12dd445b5ac842"
+}

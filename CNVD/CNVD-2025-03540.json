@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-24 10:08:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03540",
+    "spider_time": 1740391730942,
+    "name": "Apache Ranger跨站脚本漏洞（CNVD-2025-03540）",
+    "cnvd": "CNVD-2025-03540",
+    "publish": "2025-02-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"Apache Apache Ranger 2.4.0\"]",
+    "cve": "CVE-2024-45478",
+    "description": "Apache Ranger是美国阿帕奇（Apache）基金会的一套为Hadoop集群实现全面安全措施的架构。该产品针对授权、结算和数据保护等核心企业安全要求，提供中央安全政策管理。Apache Ranger 2.4.0版本存在跨站脚本漏洞，该漏洞源于Apache Ranger UI的编辑服务页面对用户提供的数据缺乏有效过滤与转义，攻击者利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2025/01/21/3",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cwiki.apache.org/confluence/display/RANGER/Vulnerabilities+found+in+Ranger",
+    "patch": "Apache Ranger跨站脚本漏洞（CNVD-2025-03540）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-08",
+    "open_time": "2025-02-24",
+    "update_time": "2025-02-24",
+    "data_summary": "db8262450cac3ca010b1c32f5db9dadf"
+}

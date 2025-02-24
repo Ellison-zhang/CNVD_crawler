@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-24 10:05:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03529",
+    "spider_time": 1740391509170,
+    "name": "Cisco AsyncOS输入验证错误漏洞（CNVD-2025-03529）",
+    "cnvd": "CNVD-2025-03529",
+    "publish": "2025-02-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:N",
+    "product": "[\"Cisco Asyncos null\"]",
+    "cve": "CVE-2025-20184",
+    "description": "Cisco AsyncOS是美国思科（Cisco）公司的一款应用于思科设备的操作系统。Cisco AsyncOS存在输入验证错误漏洞，该漏洞源于XML配置文件验证不足，经过身份验证的远程攻击者可利用该漏洞上传特制文件并以root权限执行命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20184",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-sma-wsa-multi-yKUJhS34",
+    "patch": "Cisco AsyncOS输入验证错误漏洞（CNVD-2025-03529）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-02-24",
+    "update_time": "2025-02-24",
+    "data_summary": "fb1521970b4f995c1da3a2c6c78ef2e2"
+}

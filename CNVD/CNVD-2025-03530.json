@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-24 10:05:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03530",
+    "spider_time": 1740391518505,
+    "name": "Cisco Identity Services Engine授权绕过漏洞（CNVD-2025-03530）",
+    "cnvd": "CNVD-2025-03530",
+    "publish": "2025-02-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:C",
+    "product": "[\"Cisco Identity Services Engine\"]",
+    "cve": "CVE-2025-20125",
+    "description": "Cisco Identity Services Engine是美国思科(Cisco)公司的一款环境感知平台。Cisco Identity Services Engine API存在授权绕过漏洞，远程攻击者可利用该漏洞提交特殊的请求，可获得敏感信息，修改系统配置，重启设备。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20125",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-multivuls-FTW9AOXF",
+    "patch": "Cisco Identity Services Engine授权绕过漏洞（CNVD-2025-03530）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-10",
+    "open_time": "2025-02-24",
+    "update_time": "2025-02-24",
+    "data_summary": "2b6d8c47e29feb7c8258e30b2f97cdb5"
+}

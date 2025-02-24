@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-24 10:04:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03527",
+    "spider_time": 1740391499401,
+    "name": "Cisco Expressway Series跨站脚本漏洞",
+    "cnvd": "CNVD-2025-03527",
+    "publish": "2025-02-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Cisco Cisco Expressway Series <15.2.2\"]",
+    "cve": "CVE-2025-20179",
+    "description": "Cisco Expressway Series是美国思科（Cisco）公司的一款用于防火墙外访问设备的软件。该软件为防火墙外的用户提供了简单、高度安全的访问功能，帮助远程办公人员在他们选择的设备上更有效地工作。Cisco Expressway Series存在跨站脚本漏洞，该漏洞源于用户输入验证不当，未经身份验证的远程攻击者可利用该漏洞通过特制链接执行任意脚本代码或访问敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20179",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-expressway-xss-uexUZrEW",
+    "patch": "Cisco Expressway Series跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-02-24",
+    "update_time": "2025-02-24",
+    "data_summary": "2b26f39f4e780ca1e76c960962fca4d6"
+}

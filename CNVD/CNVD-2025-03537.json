@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-24 10:04:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03537",
+    "spider_time": 1740391479460,
+    "name": "Apache Linkis输入验证错误漏洞",
+    "cnvd": "CNVD-2025-03537",
+    "publish": "2025-02-20",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Apache Apache Linkis <1.7.0\"]",
+    "cve": "CVE-2024-45627",
+    "description": "Apache Linkis是美国阿帕奇（Apache）基金会的一款中间件产品，可以在上层应用和底层数据引擎之间建立起有效的连接。Apache Linkis 1.7.0之前版本存在输入验证错误漏洞，该漏洞源于DataSource Manager模块中配置恶意的Mysql JDBC参数缺乏有效过滤，攻击者可利用该漏洞从Linkis服务器读取任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-45627",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/0zzx8lldwoqgzq98mg61hojgpvn76xsh",
+    "patch": "Apache Linkis输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-02-24",
+    "update_time": "2025-02-24",
+    "data_summary": "b37f94bd2f410134b27e69f09009dbdb"
+}

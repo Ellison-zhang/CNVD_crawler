@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-24 10:06:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03533",
+    "spider_time": 1740391606473,
+    "name": "Cisco Identity Services Engine跨站脚本漏洞（CNVD-2025-03533）",
+    "cnvd": "CNVD-2025-03533",
+    "publish": "2025-02-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"Cisco Identity Services Engine\"]",
+    "cve": "CVE-2025-20204",
+    "description": "Cisco Identity Services Engine是美国思科(Cisco)公司的一款环境感知平台。Cisco Identity Services Engine WEB接口存在跨站脚本漏洞，远程攻击者可利用该漏洞注入恶意脚本或HTML代码，当恶意数据被查看时，可获取敏感信息或劫持用户会话。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20204",
+    "solution": "用户可参考如下厂商提供的信息以修复该漏洞：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-xss-42tgsdMG",
+    "patch": "Cisco Identity Services Engine跨站脚本漏洞（CNVD-2025-03533）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-10",
+    "open_time": "2025-02-24",
+    "update_time": "2025-02-24",
+    "data_summary": "489ec490ad8f52175bfb60c9fe800851"
+}

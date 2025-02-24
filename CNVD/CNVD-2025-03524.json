@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-24 10:07:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03524",
+    "spider_time": 1740391674550,
+    "name": "Fortinet FortiSandbox操作系统命令注入漏洞（CNVD-2025-03524）",
+    "cnvd": "CNVD-2025-03524",
+    "publish": "2025-02-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Fortinet FortiSandbox >=4.4.0\\uff0c<=4.4.4\", \"Fortinet FortiSandbox >=4.2.0\\uff0c<=4.2.6\", \"Fortinet FortiSandbox <4.0.4\"]",
+    "cve": "CVE-2024-27778",
+    "description": "Fortinet FortiSandbox是美国飞塔（Fortinet）公司的一款APT（高级持续性威胁）防护设备。该设备提供双重沙盒技术、动态威胁智能系统、实时控制面板和报告等功能。Fortinet FortiSandbox存在操作系统命令注入漏洞，该漏洞源于操作系统命令中使用的特殊元素的不当中和，攻击者可利用该漏洞通过精心设计的请求执行未经授权的命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-27778",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-24-061",
+    "patch": "Fortinet FortiSandbox操作系统命令注入漏洞（CNVD-2025-03524）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-23",
+    "open_time": "2025-02-24",
+    "update_time": "2025-02-24",
+    "data_summary": "26413c2ccce38cd5b46263eb3f5282a7"
+}

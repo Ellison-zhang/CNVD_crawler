@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-24 10:08:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03517",
+    "spider_time": 1740391705960,
+    "name": "Fortinet FortiClientMac授权问题漏洞（CNVD-2025-03517）",
+    "cnvd": "CNVD-2025-03517",
+    "publish": "2025-02-19",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Fortinet FortiClientMAC >=7.0.11\\uff0c<=7.2.4\"]",
+    "cve": "CVE-2024-52968",
+    "description": "Fortinet FortiClientMac是美国飞塔（Fortinet）公司的一套移动终端安全解决方案。该方案与FortiGate防火墙设备连接时可提供IPsec和SSL加密、广域网优化、终端合规和双因子认证等功能。Fortinet FortiClientMac存在授权问题漏洞，该漏洞源于不正确的身份验证。未经身份验证的攻击者可利用该漏洞在没有密码作为标准用户的情况下登录。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://fortiguard.fortinet.com/psirt/FG-IR-24-300",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.com/psirt/FG-IR-24-300",
+    "patch": "Fortinet FortiClient授权问题漏洞（CNVD-2025-03517）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-02-24",
+    "update_time": "2025-02-24",
+    "data_summary": "d2c42d68738059ef8b50ccb3a00e5bd2"
+}

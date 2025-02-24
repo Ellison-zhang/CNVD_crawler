@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-24 10:07:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03522",
+    "spider_time": 1740391667461,
+    "name": "Fortinet FortiOS资源管理错误漏洞（CNVD-2025-03522）",
+    "cnvd": "CNVD-2025-03522",
+    "publish": "2025-02-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Fortinet FortiOS >=7.0.0\\uff0c<=7.0.15\", \"Fortinet FortiOS >=6.4.0\\uff0c<=6.4.15\", \"Fortinet FortiOS >=7.2.0\\uff0c<=7.2.8\", \"Fortinet FortiOS >=7.4.0\\uff0c<=7.4.4\"]",
+    "cve": "CVE-2024-46668",
+    "description": "Fortinet FortiOS是美国飞塔（Fortinet）公司的一套专用于FortiGate网络安全平台上的安全操作系统。该系统为用户提供防火墙、防病毒、IPSec/SSLVPN、Web内容过滤和反垃圾邮件等多种安全功能。Fortinet FortiOS存在资源管理错误漏洞，该漏洞源于包含一个资源分配错误问题。未经身份验证的远程攻击者可利用该漏洞通过多个大型文件上传消耗所有系统内存。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-46668",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-24-219",
+    "patch": "Fortinet FortiOS资源管理错误漏洞（CNVD-2025-03522）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-23",
+    "open_time": "2025-02-24",
+    "update_time": "2025-02-24",
+    "data_summary": "b1b1f238ac3e2e8678649e1b78bb8f78"
+}

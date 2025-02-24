@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-24 10:08:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03518",
+    "spider_time": 1740391712223,
+    "name": "Fortinet FortiOS缓冲区溢出漏洞（CNVD-2025-03518）",
+    "cnvd": "CNVD-2025-03518",
+    "publish": "2025-02-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Fortinet FortiOS >=7.2.4\\uff0c<=7.2.8\", \"Fortinet FortiOS >=7.4.0\\uff0c<=7.4.4\"]",
+    "cve": "CVE-2024-35279",
+    "description": "Fortinet FortiOS是美国飞塔（Fortinet）公司的一套专用于FortiGate网络安全平台上的安全操作系统。该系统为用户提供防火墙、防病毒、IPSec/SSLVPN、Web内容过滤和反垃圾邮件等多种安全功能。Fortinet FortiOS存在缓冲区溢出漏洞，该漏洞源于应用在处理不受信任的输入时出现边界错误。远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://fortiguard.fortinet.com/psirt/FG-IR-24-160",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.com/psirt/FG-IR-24-160",
+    "patch": "Fortinet FortiOS缓冲区溢出漏洞（CNVD-2025-03518）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-02-24",
+    "update_time": "2025-02-24",
+    "data_summary": "60e817d84c0c5c89a21ef0c6f5ce40fd"
+}

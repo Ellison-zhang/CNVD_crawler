@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-24 10:08:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03519",
+    "spider_time": 1740391715627,
+    "name": "Fortinet FortiWeb操作系统命令注入漏洞（CNVD-2025-03519）",
+    "cnvd": "CNVD-2025-03519",
+    "publish": "2025-02-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Fortinet FortiWeb >=7.4.0\\uff0c<=7.6.0\"]",
+    "cve": "CVE-2024-50567",
+    "description": "Fortinet FortiWeb是美国飞塔（Fortinet）公司的一款Web应用层防火墙，它能够阻断如跨站点脚本、SQL注入、Cookie中毒、schema中毒等攻击的威胁，保证Web应用程序的安全性并保护敏感的数据库内容。Fortinet FortiWeb存在操作系统命令注入漏洞，该漏洞源于操作系统命令中使用的特殊元素的不当中和导致操作系统命令注入。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://fortiguard.fortinet.com/psirt/FG-IR-24-438",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.com/psirt/FG-IR-24-438",
+    "patch": "Fortinet FortiWeb操作系统命令注入漏洞（CNVD-2025-03519）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-02-24",
+    "update_time": "2025-02-24",
+    "data_summary": "24cdd33671662fdf711ac81e4ae949ad"
+}
