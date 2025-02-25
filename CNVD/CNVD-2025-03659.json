@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-25 10:03:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03659",
+    "spider_time": 1740477832205,
+    "name": "Tenda i12 formSetCfm缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-03659",
+    "publish": "2025-02-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda i12 V1.0.0.10(3805)\"]",
+    "cve": "CVE-2025-25678",
+    "description": "Tenda i12是一款企业商用大功率AP无线接入点。Tenda i12 formSetCfm处理funcpara1参数存在缓冲区溢出漏洞，远程攻击者可利用该漏洞提交特殊的请求，可使应用程序崩溃，造成拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/jangfan/my-vuln/blob/main/Tenda/i12V1/setcfm.md",
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.tenda.com.cn/material/show/102572",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-24",
+    "open_time": "2025-02-25",
+    "update_time": "2025-02-25",
+    "data_summary": "440fa426c4523c7c4b04d7d8476f8cee"
+}
