@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-25 00:12:55",
+    "parse_time": "2025-02-25 01:30:39",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03252",
-    "spider_time": 1740442375878,
+    "spider_time": 1740447039755,
     "name": "SunGrow WiNet-S TLV字段堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-03252",
     "publish": "2025-02-21",
