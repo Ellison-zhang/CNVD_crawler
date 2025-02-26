@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-26 02:29:47",
+    "parse_time": "2025-02-26 03:13:52",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03535",
-    "spider_time": 1740536987635,
+    "spider_time": 1740539632156,
     "name": "Cisco Nexus Dashboard Fabric Controller SQL注入漏洞",
     "cnvd": "CNVD-2025-03535",
     "publish": "2025-02-20",
