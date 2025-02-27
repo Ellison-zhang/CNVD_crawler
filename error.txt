@@ -1,0 +1,2 @@
+HTTPSConnectionPool(host='www.cnvd.org.cn', port=443): Max retries exceeded with url: /flaw/show/CNVD-2025-03630 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)')))
+
