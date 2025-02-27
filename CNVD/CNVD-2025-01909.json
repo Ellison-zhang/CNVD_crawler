@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-27 20:03:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-01909",
+    "spider_time": 1740686628835,
+    "name": "依米康科技集团股份有限公司智慧数据中心一体化管理平台存在目录遍历漏洞",
+    "cnvd": "CNVD-2025-01909",
+    "publish": "2025-02-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u4f9d\\u7c73\\u5eb7\\u79d1\\u6280\\u96c6\\u56e2\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u667a\\u6167\\u6570\\u636e\\u4e2d\\u5fc3\\u4e00\\u4f53\\u5316\\u7ba1\\u7406\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "依米康科技集团股份有限公司是一家专注于数字基础设施全生命周期解决方案服务的公司‌。依米康科技集团股份有限公司智慧数据中心一体化管理平台存在目录遍历漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布漏洞修复程序，请及时关注更新：\nhttp://www.ymk.com.cn",
+    "patch": "依米康科技集团股份有限公司智慧数据中心一体化管理平台存在目录遍历漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2024-12-17",
+    "open_time": "2025-01-21",
+    "update_time": "2025-02-28",
+    "data_summary": "a4589c8b3b5a6284fdef2582b071d699"
+}
