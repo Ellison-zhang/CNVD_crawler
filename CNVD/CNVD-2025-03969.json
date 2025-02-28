@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-28 04:06:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03969",
+    "spider_time": 1740715561018,
+    "name": "IrfanView越界写入漏洞（CNVD-2025-03969）",
+    "cnvd": "CNVD-2025-03969",
+    "publish": "2025-02-28",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"IrfanView IrfanView 4.67\"]",
+    "cve": "CVE-2024-11524",
+    "description": "IrfanView是一款图片浏览器。支持图片浏览、图片编辑、图片格式转换等。IrfanView存在越界写入漏洞，该漏洞源于DXF文件解析功能包含一个内存损坏问题。攻击者可利用该漏洞导致代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-11524",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.irfanview.com/",
+    "patch": "IrfanView越界写入漏洞（CNVD-2025-03969）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-27",
+    "open_time": "2025-02-28",
+    "update_time": "2025-02-28",
+    "data_summary": "60faf0067eeb7b4340adace350983087"
+}
