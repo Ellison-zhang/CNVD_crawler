@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-28 08:06:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03977",
+    "spider_time": 1740730014508,
+    "name": "泛微网络科技股份有限公司泛微OA存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-03977",
+    "publish": "2025-02-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u6cdb\\u5fae\\u7f51\\u7edc\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u6cdb\\u5faeOA\"]",
+    "cve": null,
+    "description": "泛微OA是一款协同管理软件。泛微网络科技股份有限公司泛微OA存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "目前暂无详细的解决方案：\nhttps://www.weaver.com.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-01-09",
+    "open_time": "2025-02-28",
+    "update_time": "2025-02-28",
+    "data_summary": "f476a5cbc3cc807d1dfb78465e4bcda7"
+}
