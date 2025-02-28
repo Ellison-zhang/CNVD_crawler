@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-02-28 13:14:25",
+    "parse_time": "2025-02-28 14:07:16",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03970",
-    "spider_time": 1740748465003,
+    "spider_time": 1740751636324,
     "name": "Travel Management System存在SQL注入漏洞",
     "cnvd": "CNVD-2025-03970",
     "publish": "2025-02-22",
