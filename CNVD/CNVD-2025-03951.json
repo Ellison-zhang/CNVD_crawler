@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-28 03:10:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03951",
+    "spider_time": 1740712213880,
+    "name": "FeMiner wms id参数SQL注入漏洞",
+    "cnvd": "CNVD-2025-03951",
+    "publish": "2025-02-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"FeMiner FeMiner wms v1.0\"]",
+    "cve": "CVE-2025-25994",
+    "description": "FeMiner wms是中国前端矿工（FeMiner）个人开发者的一个仓库管理系统。FeMiner wms 1.0版本存在SQL注入漏洞，该漏洞源于date1, date2, id参数缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-25994",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/FeMiner/wms/issues/20",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-02-28",
+    "update_time": "2025-02-28",
+    "data_summary": "c9423dd9cd62925ad5fa2dd6cdd56f4a"
+}
