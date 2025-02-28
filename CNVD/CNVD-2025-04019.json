@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-28 09:07:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04019",
+    "spider_time": 1740733634127,
+    "name": "FUJIFILM Corporation ApeosPort-IV C3370存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-04019",
+    "publish": "2025-02-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Fujifilm Corporation ApeosPort-IV C3370\"]",
+    "cve": null,
+    "description": "ApeosPort-IV C3370是一款彩色数码复合机，具有多种功能，包括复印、打印、扫描和传真（选配）。FUJIFILM Corporation ApeosPort-IV C3370存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "目前暂无详细的解决方案：\nhttps://global.fujifilm.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-01-09",
+    "open_time": "2025-02-28",
+    "update_time": "2025-02-28",
+    "data_summary": "8f7dc5fd59ee4f607c6db8616d715472"
+}

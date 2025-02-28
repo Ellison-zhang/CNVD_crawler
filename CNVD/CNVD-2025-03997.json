@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-28 09:08:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03997",
+    "spider_time": 1740733688918,
+    "name": "广西普一科技有限公司多御企业安全浏览器存在二进制漏洞",
+    "cnvd": "CNVD-2025-03997",
+    "publish": "2025-02-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u5e7f\\u897f\\u666e\\u4e00\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u591a\\u5fa1\\u4f01\\u4e1a\\u5b89\\u5168\\u6d4f\\u89c8\\u5668 1.0.0.6\"]",
+    "cve": null,
+    "description": "广西普一科技有限公司是一家专注数字化的科技企业，以“政企数字化”为核心，在定制开发多场景应用、网络安全解决方案、安全技术软硬件对接、政企数字化转型等领域深耕，拥有专业的技术研发团队以及多样化的解决方案，助力企业和政府进行数字化转型。广西普一科技有限公司多御企业安全浏览器存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "目前暂无详细的解决方案：\nhttps://www.xduoyu.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-01-08",
+    "open_time": "2025-02-28",
+    "update_time": "2025-02-28",
+    "data_summary": "4823bff0e6edcc056e5fe0df35275a72"
+}

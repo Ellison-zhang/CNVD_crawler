@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-28 09:10:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04025",
+    "spider_time": 1740733821231,
+    "name": "科大讯飞（北京）有限公司北京软件分公司教育云应用中心存在信息泄露漏洞",
+    "cnvd": "CNVD-2025-04025",
+    "publish": "2025-02-22",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u79d1\\u5927\\u8baf\\u98de\\uff08\\u5317\\u4eac\\uff09\\u6709\\u9650\\u516c\\u53f8\\u5317\\u4eac\\u8f6f\\u4ef6\\u5206\\u516c\\u53f8 \\u6559\\u80b2\\u4e91\\u5e94\\u7528\\u4e2d\\u5fc3\"]",
+    "cve": null,
+    "description": "科大讯飞股份有限公司一直从事智能语音、计算机视觉、自然语言处理、认知智能等人工智能核心技术研究并保持国际前沿水平。科大讯飞（北京）有限公司北京软件分公司教育云应用中心存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "目前暂无详细的解决方案：\nhttp://www.lezhiyou.org/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-01-08",
+    "open_time": "2025-02-28",
+    "update_time": "2025-02-28",
+    "data_summary": "170525312a42f5f57f107093d1c7f985"
+}

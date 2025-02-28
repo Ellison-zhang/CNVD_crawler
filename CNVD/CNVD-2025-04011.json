@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-28 09:07:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04011",
+    "spider_time": 1740733658871,
+    "name": "昱能科技股份有限公司昱能科技能量控制软件存在命令执行漏洞",
+    "cnvd": "CNVD-2025-04011",
+    "publish": "2025-02-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u6631\\u80fd\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u6631\\u80fd\\u79d1\\u6280\\u80fd\\u91cf\\u63a7\\u5236\\u8f6f\\u4ef6\"]",
+    "cve": null,
+    "description": "昱能科技股份有限公司专注于组件级电力电子的研发及产业化。昱能科技股份有限公司昱能科技能量控制软件存在命令执行漏洞，攻击者可利用该漏洞获取服务器权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "目前暂无详细的解决方案：\nhttps://www.apsystems.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-01-09",
+    "open_time": "2025-02-28",
+    "update_time": "2025-02-28",
+    "data_summary": "d6f879394eeb7abed650eb10e0654187"
+}
