@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-01 09:03:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04094",
+    "spider_time": 1740819808024,
+    "name": "Ollama未授权访问漏洞",
+    "cnvd": "CNVD-2025-04094",
+    "publish": "2025-03-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Ollama Ollama\"]",
+    "cve": null,
+    "description": "Ollama是一个开源的大语言模型（LLM）运行环境和工具集，旨在帮助开发者轻松部署、管理和使用模型（如 DeepSeek 等）。Ollama存在未授权访问漏洞，攻击者可利用该漏洞访问Ollama服务器，执行包括但不限于显示有关模型的详细信息、生成文本、拉取和删除模型操作，导致潜在的数据泄露与资源滥用。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "目前没有详细解决方案提供：\nhttps://ollama.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-01",
+    "open_time": "2025-03-01",
+    "update_time": "2025-03-01",
+    "data_summary": "a7c60962c725e8125c6ffbad3f5d19b2"
+}
