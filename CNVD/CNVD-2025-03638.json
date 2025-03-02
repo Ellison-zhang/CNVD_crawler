@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-02 18:06:15",
+    "parse_time": "2025-03-02 19:05:30",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03638",
-    "spider_time": 1740938775126,
+    "spider_time": 1740942330458,
     "name": "Adobe InDesign空指针解引用漏洞（CNVD-2025-03638）",
     "cnvd": "CNVD-2025-03638",
     "publish": "2025-02-26",
