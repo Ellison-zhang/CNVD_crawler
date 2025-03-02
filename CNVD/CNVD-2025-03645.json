@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-02 11:05:14",
+    "parse_time": "2025-03-02 12:08:04",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03645",
-    "spider_time": 1740913514355,
+    "spider_time": 1740917284988,
     "name": "Google Android shouldSkipForInitialSUW函数授权问题漏洞",
     "cnvd": "CNVD-2025-03645",
     "publish": "2025-02-27",
