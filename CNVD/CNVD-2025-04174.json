@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-04 02:28:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04174",
+    "spider_time": 1741055302858,
+    "name": "IBM Sterling B2B Integrator跨站请求伪造漏洞（CNVD-2025-04174）",
+    "cnvd": "CNVD-2025-04174",
+    "publish": "2025-03-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"IBM IBM Sterling B2B Integrator >=6.0.0.0\\uff0c<=6.1.2.5\", \"IBM IBM Sterling B2B Integrator >=6.2.0.0\\uff0c<=6.2.0.3\"]",
+    "cve": "CVE-2023-38739",
+    "description": "IBM Sterling B2B Integrator是美国国际商业机器（IBM）公司的一套集成了重要的B2B流程、交易和关系的软件。该软件支持与不同的合作伙伴社区之间实现复杂的B2B流程的安全集成。IBM Sterling B2B Integrator存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。攻击者可利用该漏洞执行从网站信任的用户传输的恶意和未经授权的操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-38739",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7182004",
+    "patch": "IBM Sterling B2B Integrator跨站请求伪造漏洞（CNVD-2025-04174）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-03-04",
+    "update_time": "2025-03-04",
+    "data_summary": "e70689e63f3eb46e8b315b2b0c0209f9"
+}

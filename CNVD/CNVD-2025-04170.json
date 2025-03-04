@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-04 02:28:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04170",
+    "spider_time": 1741055285058,
+    "name": "IBM ApplinX跨站脚本漏洞（CNVD-2025-04170）",
+    "cnvd": "CNVD-2025-04170",
+    "publish": "2025-03-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"IBM IBM ApplinX 11.1\"]",
+    "cve": "CVE-2024-49791",
+    "description": "IBM ApplinX是美国国际商业机器（IBM）公司的一个专注于将绿屏界面转换为基于Web的现代应用程序。IBM ApplinX 11.1版本存在跨站脚本漏洞。该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞在Web UI中嵌入任意JavaScript代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-49791",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7182522",
+    "patch": "IBM ApplinX跨站脚本漏洞（CNVD-2025-04170）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-03-04",
+    "update_time": "2025-03-04",
+    "data_summary": "b68eef40ce197a4e3e91e5708cb52302"
+}

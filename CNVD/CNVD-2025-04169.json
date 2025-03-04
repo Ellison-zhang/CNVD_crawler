@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-04 02:27:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04169",
+    "spider_time": 1741055278554,
+    "name": "IBM ApplinX加密问题漏洞",
+    "cnvd": "CNVD-2025-04169",
+    "publish": "2025-02-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:N/A:N",
+    "product": "[\"IBM IBM ApplinX 11.1\"]",
+    "cve": "CVE-2024-49797",
+    "description": "IBM ApplinX是美国国际商业机器（IBM）公司的一个专注于将绿屏界面转换为基于Web的现代应用程序。IBM ApplinX 11.1版本存在加密问题漏洞，该漏洞源于未正确启用HTTP严格传输。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-49797",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7182522",
+    "patch": "IBM ApplinX加密问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-03-04",
+    "update_time": "2025-03-04",
+    "data_summary": "2e741f74e2517c7072ca54bf4d5dee31"
+}
