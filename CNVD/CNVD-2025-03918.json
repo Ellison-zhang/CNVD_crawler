@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-04 05:05:28",
+    "parse_time": "2025-03-04 06:06:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03918",
-    "spider_time": 1741064728886,
+    "spider_time": 1741068360423,
     "name": "mySCADA myPRO操作系统命令注入漏洞（CNVD-2025-03918）",
     "cnvd": "CNVD-2025-03918",
     "publish": "2025-02-28",
