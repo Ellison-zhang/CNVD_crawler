@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-04 21:04:32",
+    "parse_time": "2025-03-04 22:04:30",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04176",
-    "spider_time": 1741122272327,
+    "spider_time": 1741125870709,
     "name": "ChurchCRM输入验证错误漏洞",
     "cnvd": "CNVD-2025-04176",
     "publish": "2025-02-28",
