@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-04 16:07:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2016-07064",
+    "spider_time": 1741104449157,
+    "name": "广东动易软件自由动力CMS存在通用SQL注入漏洞",
+    "cnvd": "CNVD-2016-07064",
+    "publish": "2025-03-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u5e7f\\u4e1c\\u52a8\\u6613\\u8f6f\\u4ef6\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 CMS\"]",
+    "cve": null,
+    "description": "广东动易软件自由动力CMS存在通用SQL注入漏洞，允许攻击者利用常用SQL注入工具，获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.wooyun.org/bugs/wooyun-2014-086457",
+    "solution": null,
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2015-03-05",
+    "open_time": "2016-09-01",
+    "update_time": "2020-04-08",
+    "data_summary": "47f59f699dd088db5e7380a0f4b489a1"
+}
