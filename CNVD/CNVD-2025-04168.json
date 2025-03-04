@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-04 01:32:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04168",
+    "spider_time": 1741051949788,
+    "name": "IBM App Connect Enterprise路径遍历漏洞",
+    "cnvd": "CNVD-2025-04168",
+    "publish": "2025-02-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:C/A:N",
+    "product": "[\"IBM IBM App Connect Enterprise >=12.0.1.0\\uff0c<=12.0.12.10\", \"IBM IBM App Connect Enterprise >=13.0.1.0\\uff0c<=13.0.2.1\"]",
+    "cve": "CVE-2025-0799",
+    "description": "IBM App Connect Enterprise是美国国际商业机器（IBM）公司的一个操作系统。IBM App Connect Enterprise将现有业界信任的IBM Integration Bus技术与IBM App Connect Professional以及新的云本机技术进行了组合，提供一个可满足现代数字企业全面集成需求的平台。IBM App Connect Enterprise存在路径遍历漏洞，该漏洞源于bar配置部署期间路径限制不当，攻击者可利用该漏洞写入任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-0799",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7182418",
+    "patch": "IBM App Connect Enterprise路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-03-04",
+    "update_time": "2025-03-04",
+    "data_summary": "4d76c08507d119c7a81559275b0e0513"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-04 01:33:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04179",
+    "spider_time": 1741052009319,
+    "name": "Tenda O4 SafeSetMacFilter缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-04179",
+    "publish": "2025-02-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda O4 V3.0\"]",
+    "cve": "CVE-2025-25662",
+    "description": "Tenda O4是一款腾达(Tenda)的路由器产品。Tenda O4 /goform/setMacFilterList处理SafeSetMacFilter参数存在缓冲区溢出漏洞，远程攻击者可以利用该漏洞提交特殊的请求，可使应用程序崩溃，以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/jangfan/my-vuln/blob/main/Tenda/O4V3/setMacFilterList.md",
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-24",
+    "open_time": "2025-03-04",
+    "update_time": "2025-03-04",
+    "data_summary": "7491b14a4493aa56694a92a9e2dd6d1e"
+}
