@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-03-06 08:05:23",
+    "parse_time": "2025-03-06 09:05:23",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03894",
-    "spider_time": 1741248323825,
+    "spider_time": 1741251923215,
     "name": "北京火绒网络科技有限公司火绒安全软件存在权限提升漏洞",
     "cnvd": "CNVD-2025-03894",
-    "publish": "2025-02-14",
+    "publish": "2025-03-05",
     "severity": "高",
     "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
     "product": "[\"\\u5317\\u4eac\\u706b\\u7ed2\\u7f51\\u7edc\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u706b\\u7ed2\\u5b89\\u5168\\u8f6f\\u4ef6 6.0.4.5\"]",
@@ -12,11 +12,11 @@
     "description": "火绒安全软件是一款免费的电脑防御及杀毒类安全软件。北京火绒网络科技有限公司火绒安全软件存在权限提升漏洞，攻击者可利用该漏洞提升权限。",
     "flaw_type": "通用型漏洞",
     "reference": null,
-    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.huorong.cn/",
-    "patch": "(无补丁信息)",
+    "solution": "厂商已提供漏洞修补方案，请用户更新至V1.0.2.1版本，请关注厂商主页及时更新：\nhttp://www.huorong.cn/",
+    "patch": "北京火绒网络科技有限公司火绒安全软件存在权限提升漏洞的补丁",
     "verify": "已验证",
     "submit_time": "2024-12-31",
     "open_time": "2025-02-27",
-    "update_time": "2025-02-27",
-    "data_summary": "6b748a5b67fad33256c14963d05b3baa"
+    "update_time": "2025-03-06",
+    "data_summary": "377b1a3a8a2ef878e9b36d150c0f6462"
 }
