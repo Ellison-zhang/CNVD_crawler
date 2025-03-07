@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-07 06:08:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04493",
+    "spider_time": 1741327733153,
+    "name": "Google Chrome GPU堆溢出代码执行漏洞",
+    "cnvd": "CNVD-2025-04493",
+    "publish": "2025-02-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <133.0.6943.126\"]",
+    "cve": "CVE-2025-1426",
+    "description": "Google Chrome是一款由Google公司开发的WEB浏览器。Google Chrome GPU存在堆溢出漏洞，远程攻击者可利用该漏洞提交特殊的Web请求，诱使用户解析，可以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1426",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://chromereleases.googleblog.com/2025/02/stable-channel-update-for-desktop_18.html",
+    "patch": "Google Chrome GPU堆溢出代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-24",
+    "open_time": "2025-03-07",
+    "update_time": "2025-03-07",
+    "data_summary": "0098c8a71566a58156c41a6c157254d8"
+}
