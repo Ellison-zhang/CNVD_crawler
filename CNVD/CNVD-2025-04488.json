@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-07 04:04:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04488",
+    "spider_time": 1741320253984,
+    "name": "FreeImage AssignPixel函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-04488",
+    "publish": "2025-03-07",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"FreeImage FreeImage v.3.19.0\"]",
+    "cve": "CVE-2024-28566",
+    "description": "FreeImage是一个跨平台的用于支持流行的图形图像格式的开源库。FreeImage存在缓冲区溢出漏洞，该漏洞源于程序未能正确验证输入数据的长度大小，攻击者可利用该漏洞可以溢出缓冲区，在系统上执行任意代码或导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Ruanxingzhi/vul-report/tree/master/freeimage-r1909",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://freeimage.sourceforge.io/",
+    "patch": "FreeImage AssignPixel函数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-22",
+    "open_time": "2025-03-07",
+    "update_time": "2025-03-07",
+    "data_summary": "ffa0a953c9636a3db12bf9cd77fa184f"
+}
