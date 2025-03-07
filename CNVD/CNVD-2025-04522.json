@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-07 08:04:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04522",
+    "spider_time": 1741334655845,
+    "name": "Rockwell Automation controllers拒绝服务漏洞（CNVD-2025-04522）",
+    "cnvd": "CNVD-2025-04522",
+    "publish": "2025-03-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Rockwell Automation Rockwell Automation controllers\"]",
+    "cve": "CVE-2022-3157",
+    "description": "Rockwell Automation controllers是美国罗克韦尔（Rockwell Automation）公司的一系列控制器。Rockwell Automation controllers存在拒绝服务漏洞，该漏洞源于其控制器对于格式错误的CIP请求不当处理，攻击者可利用该漏洞导致重大不可恢复故障（MNRF）和拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-3157",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1137757",
+    "patch": "Rockwell Automation controllers拒绝服务漏洞（CNVD-2025-04522）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-12-20",
+    "open_time": "2025-03-07",
+    "update_time": "2025-03-07",
+    "data_summary": "8f65f958ee367b995d44c70de164cb74"
+}
