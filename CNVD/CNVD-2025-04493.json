@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-07 06:08:53",
+    "parse_time": "2025-03-07 07:10:18",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04493",
-    "spider_time": 1741327733153,
+    "spider_time": 1741331418234,
     "name": "Google Chrome GPU堆溢出代码执行漏洞",
     "cnvd": "CNVD-2025-04493",
     "publish": "2025-02-27",
