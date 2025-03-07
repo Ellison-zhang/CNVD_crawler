@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-07 09:03:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04611",
+    "spider_time": 1741338222426,
+    "name": "emlog文件上传漏洞（CNVD-2025-04611）",
+    "cnvd": "CNVD-2025-04611",
+    "publish": "2025-03-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"emlog emlog v2.5.3\"]",
+    "cve": "CVE-2025-25783",
+    "description": "emlog是一套基于PHP和MySQL的CMS建站系统。emlog v2.5.3版本存在文件上传漏洞，该漏洞源于adminplugin.php组件对上传的文件缺少有效的验证。攻击者可利用该漏洞上传恶意文件从而远程执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-25783",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.emlog.pro/code",
+    "patch": "emlog文件上传漏洞（CNVD-2025-04611）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-04",
+    "open_time": "2025-03-07",
+    "update_time": "2025-03-07",
+    "data_summary": "3ee890e0528400ba12936ddd7f02c5fa"
+}
