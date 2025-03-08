@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-03-08 00:12:21",
+    "parse_time": "2025-03-08 01:31:32",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04175",
-    "spider_time": 1741392741936,
+    "spider_time": 1741397492732,
     "name": "Dreamer CMS跨站脚本漏洞（CNVD-2025-04175）",
     "cnvd": "CNVD-2025-04175",
-    "publish": "2025-03-03",
+    "publish": "2025-02-28",
     "severity": "中",
     "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
     "product": "[\"Dreamer CMS Dreamer CMS 4.1.3\"]",
@@ -18,5 +18,5 @@
     "submit_time": "2025-02-28",
     "open_time": "2025-03-04",
     "update_time": "2025-03-04",
-    "data_summary": "53c348e801de9b551d60c235763a0076"
+    "data_summary": "7348e92d3f76d0190b63b4fb41d94d59"
 }
