@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-03-09 09:08:44",
+    "parse_time": "2025-03-09 10:09:40",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04161",
-    "spider_time": 1741511324334,
+    "spider_time": 1741514980278,
     "name": "Linux kernel空指针解引用漏洞（CNVD-2025-04161）",
     "cnvd": "CNVD-2025-04161",
-    "publish": "2025-03-03",
+    "publish": "2025-02-27",
     "severity": "中",
     "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
     "product": "[\"Linux Linux kernel >=6.7\\uff0c<6.12.5\", \"Linux Linux kernel >=6.2\\uff0c<6.6.66\", \"Linux Linux kernel >=5.16\\uff0c<6.1.120\", \"Linux Linux kernel >=5.0\\uff0c<5.15.174\"]",
@@ -18,5 +18,5 @@
     "submit_time": "2025-02-25",
     "open_time": "2025-03-04",
     "update_time": "2025-03-04",
-    "data_summary": "671cb6b1f83e96ab96b06a057115e4f3"
+    "data_summary": "ffaaef0164103f5df596311aac80ff80"
 }
