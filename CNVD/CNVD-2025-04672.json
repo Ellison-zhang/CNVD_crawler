@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-10 08:04:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04672",
+    "spider_time": 1741593864189,
+    "name": "Linux kernel内存错误引用漏洞（CNVD-2025-04672）",
+    "cnvd": "CNVD-2025-04672",
+    "publish": "2025-03-06",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Linux Kernel\"]",
+    "cve": "CVE-2021-47653",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在安全漏洞，该漏洞源于驱动卸载时未注销平台设备，攻击者可利用该漏洞导致释放后重用。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2021-47653",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/43acb728bbc40169d2e2425e84a80068270974be",
+    "patch": "Linux kernel内存错误引用漏洞（CNVD-2025-04672）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-05",
+    "open_time": "2025-03-10",
+    "update_time": "2025-03-10",
+    "data_summary": "5ba6a436a65e1fe7bed65d374b73dd07"
+}

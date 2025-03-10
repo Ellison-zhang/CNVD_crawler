@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-10 08:04:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04675",
+    "spider_time": 1741593874607,
+    "name": "Linux kernel sysfs trigger内存错误引用漏洞",
+    "cnvd": "CNVD-2025-04675",
+    "publish": "2025-03-06",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Linux Kernel\"]",
+    "cve": "CVE-2022-49685",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在内存错误引用漏洞，该漏洞源于sysfs trigger在移除时负责释放内存的指令发生混乱。攻击者可利用该漏洞导致程序崩溃，任意代码执行等。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://git.kernel.org/stable/c/31ff3309b47d98313c61b8301bf595820cc3cc33",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.kernel.org/",
+    "patch": "Linux kernel sysfs trigger内存错误引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-05",
+    "open_time": "2025-03-10",
+    "update_time": "2025-03-10",
+    "data_summary": "d1f6d61cb1e26b3f3fc8c86610be58df"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-10 08:04:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04673",
+    "spider_time": 1741593866822,
+    "name": "Linux kernel vesafb驱动内存错误引用漏洞",
+    "cnvd": "CNVD-2025-04673",
+    "publish": "2025-03-06",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Linux Kernel\"]",
+    "cve": "CVE-2022-49419",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在内存错误引用漏洞，该漏洞源于vesafb驱动中负责释放内存的指令发生混乱。攻击者可利用该漏洞导致程序崩溃，任意代码执行等。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-49419",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/0fac5f8fb1bc2fc4f8714bf5e743c9cc3f547c63",
+    "patch": "Linux kernel vesafb驱动内存错误引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-05",
+    "open_time": "2025-03-10",
+    "update_time": "2025-03-10",
+    "data_summary": "61397788abe820d196163525622456f3"
+}

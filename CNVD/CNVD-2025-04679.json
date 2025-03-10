@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-10 08:04:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04679",
+    "spider_time": 1741593889407,
+    "name": "Linux kernel macsec内存错误引用漏洞",
+    "cnvd": "CNVD-2025-04679",
+    "publish": "2025-03-06",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Linux Kernel\"]",
+    "cve": "CVE-2022-49390",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在内存错误引用漏洞，该漏洞源于macsec设备未获取real_dev的引用，攻击者可利用该漏洞导致释放后重用。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-49390",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/196a888ca6571deb344468e1d7138e3273206335",
+    "patch": "Linux kernel macsec内存错误引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-05",
+    "open_time": "2025-03-10",
+    "update_time": "2025-03-10",
+    "data_summary": "0c60be721b1550a5795596201f5abb36"
+}

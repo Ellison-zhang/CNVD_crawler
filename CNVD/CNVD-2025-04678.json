@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-10 08:04:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04678",
+    "spider_time": 1741593884463,
+    "name": "Linux kernel panfrost模块内存错误引用漏洞",
+    "cnvd": "CNVD-2025-04678",
+    "publish": "2025-03-06",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Linux Kernel\"]",
+    "cve": "CVE-2022-49359",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在内存错误引用漏洞，该漏洞源于panfrost模块的job结构引用panfrost_priv获取MMU环境，攻击者可利用该漏洞导致释放后重用。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-49359",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/472dd7ea5e19a1aeabf1711ddc756777e05ee7c2",
+    "patch": "Linux kernel panfrost模块内存错误引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-05",
+    "open_time": "2025-03-10",
+    "update_time": "2025-03-10",
+    "data_summary": "dfda15fa10574e73e619ffe574ab51fe"
+}
