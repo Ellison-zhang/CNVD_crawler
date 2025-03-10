@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-10 15:03:50",
+    "parse_time": "2025-03-10 16:03:59",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04672",
-    "spider_time": 1741619030650,
+    "spider_time": 1741622639975,
     "name": "Linux kernel内存错误引用漏洞（CNVD-2025-04672）",
     "cnvd": "CNVD-2025-04672",
     "publish": "2025-03-06",
