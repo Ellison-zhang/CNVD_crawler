@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-10 19:03:43",
+    "parse_time": "2025-03-10 20:04:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04676",
-    "spider_time": 1741633423437,
+    "spider_time": 1741637040221,
     "name": "Linux kernel scsi: libfc内存错误引用漏洞",
     "cnvd": "CNVD-2025-04676",
     "publish": "2025-03-06",
