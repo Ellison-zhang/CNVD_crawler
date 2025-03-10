@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-10 21:03:34",
+    "parse_time": "2025-03-10 22:03:33",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04673",
-    "spider_time": 1741640614655,
+    "spider_time": 1741644213331,
     "name": "Linux kernel vesafb驱动内存错误引用漏洞",
     "cnvd": "CNVD-2025-04673",
     "publish": "2025-03-06",

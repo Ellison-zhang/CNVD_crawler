@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-10 21:03:39",
+    "parse_time": "2025-03-10 22:03:37",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04674",
-    "spider_time": 1741640619015,
+    "spider_time": 1741644217694,
     "name": "Linux kernel tcmu_try_get_data_page内存错误引用漏洞",
     "cnvd": "CNVD-2025-04674",
     "publish": "2025-03-06",
