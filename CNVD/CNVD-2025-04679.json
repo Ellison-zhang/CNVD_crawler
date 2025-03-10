@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-10 12:06:02",
+    "parse_time": "2025-03-10 13:09:43",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04679",
-    "spider_time": 1741608362042,
+    "spider_time": 1741612183293,
     "name": "Linux kernel macsec内存错误引用漏洞",
     "cnvd": "CNVD-2025-04679",
     "publish": "2025-03-06",

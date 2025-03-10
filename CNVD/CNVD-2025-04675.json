@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-10 12:05:41",
+    "parse_time": "2025-03-10 13:09:23",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04675",
-    "spider_time": 1741608341332,
+    "spider_time": 1741612163285,
     "name": "Linux kernel sysfs trigger内存错误引用漏洞",
     "cnvd": "CNVD-2025-04675",
     "publish": "2025-03-06",
