@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-10 17:03:59",
+    "parse_time": "2025-03-10 18:04:55",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04678",
-    "spider_time": 1741626239005,
+    "spider_time": 1741629895068,
     "name": "Linux kernel panfrost模块内存错误引用漏洞",
     "cnvd": "CNVD-2025-04678",
     "publish": "2025-03-06",
