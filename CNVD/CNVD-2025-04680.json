@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-10 20:04:16",
+    "parse_time": "2025-03-10 21:04:03",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04680",
-    "spider_time": 1741637056644,
+    "spider_time": 1741640643191,
     "name": "Linux kernel get_initial_state内存错误引用漏洞",
     "cnvd": "CNVD-2025-04680",
     "publish": "2025-03-06",
