@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-11 09:06:10",
+    "parse_time": "2025-03-11 10:08:04",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04160",
-    "spider_time": 1741683970090,
+    "spider_time": 1741687684008,
     "name": "Linux kernel tmpfs模块竞争条件漏洞",
     "cnvd": "CNVD-2025-04160",
     "publish": "2025-02-28",
