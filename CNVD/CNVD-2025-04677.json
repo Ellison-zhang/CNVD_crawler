@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-10 23:03:46",
+    "parse_time": "2025-03-11 00:13:34",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04677",
-    "spider_time": 1741647826901,
+    "spider_time": 1741652014410,
     "name": "Linux kernel pm runtime resume内存错误引用漏洞",
     "cnvd": "CNVD-2025-04677",
     "publish": "2025-03-06",
