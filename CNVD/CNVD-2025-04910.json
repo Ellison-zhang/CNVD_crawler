@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-11 11:13:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04910",
+    "spider_time": 1741691600280,
+    "name": "广州一碑网络科技有限公司智慧物业平台存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-04910",
+    "publish": "2025-02-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5e7f\\u5dde\\u4e00\\u7891\\u7f51\\u7edc\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u667a\\u6167\\u7269\\u4e1a\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "广州一碑网络科技有限公司是一家专业的房地产、房地产物业、第三方物业整体信息化解决方案提供商。广州一碑网络科技有限公司智慧物业平台存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.ebeitech.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-01-14",
+    "open_time": "2025-03-11",
+    "update_time": "2025-03-11",
+    "data_summary": "efb5a7de06b3ff9c13b432f5e5888ae1"
+}

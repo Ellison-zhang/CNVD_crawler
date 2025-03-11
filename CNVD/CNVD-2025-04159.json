@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-11 10:07:57",
+    "parse_time": "2025-03-11 11:05:56",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04159",
-    "spider_time": 1741687677130,
+    "spider_time": 1741691156269,
     "name": "Linux Kernel空指针解引用漏洞（CNVD-2025-04159）",
     "cnvd": "CNVD-2025-04159",
     "publish": "2025-02-28",
