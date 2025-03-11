@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-11 02:31:44",
+    "parse_time": "2025-03-11 03:15:28",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04182",
-    "spider_time": 1741660304088,
+    "spider_time": 1741662928707,
     "name": "FFmpeg缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-04182",
     "publish": "2025-02-28",
