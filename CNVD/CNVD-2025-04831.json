@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-03-12 21:03:30",
+    "parse_time": "2025-03-12 22:03:28",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04831",
-    "spider_time": 1741813410605,
+    "spider_time": 1741817008717,
     "name": "龙芯中科技术股份有限公司龙芯浏览器存在二进制漏洞",
     "cnvd": "CNVD-2025-04831",
-    "publish": "2025-02-21",
+    "publish": "2025-03-13",
     "severity": "高",
     "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
     "product": "[\"\\u9f99\\u82af\\u4e2d\\u79d1\\u6280\\u672f\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u9f99\\u82af\\u6d4f\\u89c8\\u5668 v3.3.2001.5\"]",
@@ -13,10 +13,10 @@
     "flaw_type": "通用型漏洞",
     "reference": null,
     "solution": "厂商已提供漏洞修补方案，建议用户下载使用：\nhttps://chromium-review.googlesource.com/c/chromium/src/+/5387887",
-    "patch": "(无补丁信息)",
+    "patch": "龙芯中科技术股份有限公司龙芯浏览器存在二进制漏洞的补丁",
     "verify": "已验证",
     "submit_time": "2025-01-07",
     "open_time": "2025-03-11",
-    "update_time": "2025-03-11",
-    "data_summary": "605fcaf9281e28959818bda210a0ee43"
+    "update_time": "2025-03-13",
+    "data_summary": "e92ab5ca986fe687205010a6dd793c77"
 }
