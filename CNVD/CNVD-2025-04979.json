@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-12 02:27:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04979",
+    "spider_time": 1741746478866,
+    "name": "IBM Aspera Shares服务器端请求伪造漏洞",
+    "cnvd": "CNVD-2025-04979",
+    "publish": "2025-03-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"IBM IBM Aspera Shares >=1.9.0\\uff0c<=1.10.0 PL6\"]",
+    "cve": "CVE-2024-56471",
+    "description": "IBM Aspera Shares是美国国际商业机器（IBM）公司的一个Web应用程序。IBM Aspera Shares存在服务器端请求伪造漏洞，该漏洞源于服务器未实现足够的验证机制来确认请求的来源，经过身份验证的攻击者可利用此漏洞从系统发送未经授权的请求，从而可能导致网络枚举或助长其他攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.ibm.com/support/pages/node/7182490",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7182490",
+    "patch": "IBM Aspera Shares服务器端请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-03-12",
+    "update_time": "2025-03-12",
+    "data_summary": "a5b7265a32bab431d534e90aff82f867"
+}
