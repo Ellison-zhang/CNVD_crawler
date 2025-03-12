@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-12 05:07:11",
+    "parse_time": "2025-03-12 06:09:35",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04179",
-    "spider_time": 1741756031012,
+    "spider_time": 1741759775989,
     "name": "Tenda O4 SafeSetMacFilter缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-04179",
     "publish": "2025-02-27",
