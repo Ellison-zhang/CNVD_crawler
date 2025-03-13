@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-13 09:06:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05079",
+    "spider_time": 1741856775733,
+    "name": "Esri ArcGIS Server访问控制错误漏洞",
+    "cnvd": "CNVD-2025-05079",
+    "publish": "2025-03-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:P/A:N",
+    "product": "[\"ESRI ArcGIS Server >=10.9.1\\uff0c<=11.3\"]",
+    "cve": "CVE-2024-51954",
+    "description": "Esri ArcGIS Server是Esri公司的一个面向Web的可用于提供地理位置服务的企业级软件平台。Esri ArcGIS Server 10.9.1至11.3版本存在访问控制错误漏洞，该漏洞源于访问控制不当，远程低权限认证攻击者可利用此漏洞访问安全服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/arcgis-server-security-2025-update-1-patch/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.esri.com/en-us/patches-updates/2025/arcgis-server-security-2025-update-1",
+    "patch": "Esri ArcGIS Server访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-03-13",
+    "update_time": "2025-03-13",
+    "data_summary": "61da4feb2363d86f6bd92137f51d3499"
+}
