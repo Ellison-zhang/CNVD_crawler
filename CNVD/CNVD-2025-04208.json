@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-13 14:07:38",
+    "parse_time": "2025-03-13 15:08:07",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04208",
-    "spider_time": 1741874858924,
+    "spider_time": 1741878487148,
     "name": "iocharger命令注入漏洞",
     "cnvd": "CNVD-2025-04208",
     "publish": "2025-03-06",
