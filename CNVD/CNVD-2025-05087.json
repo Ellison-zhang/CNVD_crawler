@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-13 16:07:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05087",
+    "spider_time": 1741882042807,
+    "name": "Google Chrome代码执行漏洞（CNVD-2025-05087）",
+    "cnvd": "CNVD-2025-05087",
+    "publish": "2025-03-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <134.0.6998.88\"]",
+    "cve": "CVE-2025-2136",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome 134.0.6998.88之前版本存在代码执行漏洞，该漏洞源于Inspector中的释放后重用，攻击者可利用此漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop_10.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop_10.html",
+    "patch": "Google Chrome代码执行漏洞（CNVD-2025-05087）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-03-13",
+    "update_time": "2025-03-13",
+    "data_summary": "3bda33c58f9467426b8d62864e1f96b6"
+}
