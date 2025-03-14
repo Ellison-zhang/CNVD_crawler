@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-14 11:03:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05127",
+    "spider_time": 1741950201460,
+    "name": "Siemens Simcenter Femap内存损坏漏洞",
+    "cnvd": "CNVD-2025-05127",
+    "publish": "2025-03-14",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Siemens Simcenter Femap <V2401.0003\", \"Siemens Simcenter Femap <V2406.0002\"]",
+    "cve": "CVE-2025-25175",
+    "description": "Simcenter Femap是一款高级仿真应用程序，用于创建、编辑和检查复杂产品或系统的有限元模型。Siemens Simcenter Femap存在内存损坏漏洞，漏洞源于应用程序读取.NEU格式的文件时所致，攻击者可利用漏洞通过诱骗用户使用受影响的应用程序打开恶意文件的方式，获取敏感信息，或可能在当前进程的上下文中执行远程代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-920092.html",
+    "solution": "厂商已发布新版本修复漏洞，请广大用户及时下载更新：\nhttps://support.sw.siemens.com/",
+    "patch": "Siemens Simcenter Femap内存损坏漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-03-14",
+    "update_time": "2025-03-14",
+    "data_summary": "f56f532cfddc391427533f7dac595c24"
+}
