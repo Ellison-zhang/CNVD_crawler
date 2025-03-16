@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-16 22:08:15",
+    "parse_time": "2025-03-16 23:07:04",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04207",
-    "spider_time": 1742162895677,
+    "spider_time": 1742166424681,
     "name": "Adobe Substance 3D Stager空指针解引用漏洞",
     "cnvd": "CNVD-2025-04207",
     "publish": "2025-03-06",
