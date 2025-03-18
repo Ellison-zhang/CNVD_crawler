@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-18 22:05:09",
+    "parse_time": "2025-03-18 23:06:57",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05259",
-    "spider_time": 1742335509651,
+    "spider_time": 1742339217774,
     "name": "Tenda TX3 openschedwifi函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-05259",
     "publish": "2025-03-17",
