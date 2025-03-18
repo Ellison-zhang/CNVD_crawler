@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-18 10:03:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05253",
+    "spider_time": 1742292231458,
+    "name": "MonetDB Server SQL注入漏洞",
+    "cnvd": "CNVD-2025-05253",
+    "publish": "2025-03-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"MonetDB MonetDB Server v11.49.1\"]",
+    "cve": "CVE-2024-57631",
+    "description": "MonetDB是MonetDB开源的一个开放源代码的面向列的关系数据库管理系统。MonetDB 11.49.1版本的exp_ref组件存在SQL注入漏洞，攻击者可利用该漏洞通过特制的SQL语句导致系统拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-57631",
+    "solution": "目前厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/MonetDB/MonetDB/issues/7436",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-14",
+    "open_time": "2025-03-18",
+    "update_time": "2025-03-18",
+    "data_summary": "63500f7d64d71193979d5bb7bfc9d158"
+}

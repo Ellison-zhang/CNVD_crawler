@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-18 10:05:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05257",
+    "spider_time": 1742292315953,
+    "name": "WordPress Hero Mega Menu plugin SQL注入漏洞",
+    "cnvd": "CNVD-2025-05257",
+    "publish": "2025-03-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"WordPress Hero Mega Menu plugin <=1.16.5\"]",
+    "cve": "CVE-2024-13778",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress plugin Hero Mega Menu 1.16.5及之前版本存在SQL注入漏洞，该漏洞源于应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-13778",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://codecanyon.net/item/hero-menu-responsive-wordpress-mega-menu-plugin/10324895",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-03-18",
+    "update_time": "2025-03-18",
+    "data_summary": "6eb983c732a6d4b28dad480ab2fd2dfa"
+}

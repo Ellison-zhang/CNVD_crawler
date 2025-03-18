@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-18 10:04:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05261",
+    "spider_time": 1742292288408,
+    "name": "IBM Cognos Analytics路径遍历漏洞",
+    "cnvd": "CNVD-2025-05261",
+    "publish": "2025-03-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"IBM IBM Cognos Analytics >=11.2.0\\uff0c<=11.2.4 FP5\"]",
+    "cve": "CVE-2024-56340",
+    "description": "IBM Cognos Analytics是美国国际商业机器（IBM）公司的一套商业智能软件。该软件包括报表、仪表板和记分卡等，并可通过分析关键因素与关键人等内容，协助企业调整决策。IBM Cognos Analytics 11.2.0至11.2.4 FP5版本存在路径遍历漏洞，该漏洞源于deficon参数未能正确地过滤资源或文件路径中的特殊元素。攻击者可利用该漏洞访问敏感文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-56340",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7183676",
+    "patch": "IBM Cognos Analytics路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-03-18",
+    "update_time": "2025-03-18",
+    "data_summary": "dc9d679e0dac90f94805a93d5e3fca58"
+}
