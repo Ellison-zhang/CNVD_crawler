@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-18 03:14:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05233",
+    "spider_time": 1742267677436,
+    "name": "Google Pixel closeChannel函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-05233",
+    "publish": "2025-03-17",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Google Pixel\"]",
+    "cve": "CVE-2024-56186",
+    "description": "Google Pixel是美国谷歌（Google）公司的一款智能手机。Google Pixel存在缓冲区溢出漏洞，该漏洞源于secureelementimpl.cpp的closeChannel中边界检查不正确，攻击者可利用该漏洞导致本地信息泄露，无需额外执行权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-56186",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/pixel/2025-03-01",
+    "patch": "Google Pixel closeChannel函数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-03-18",
+    "update_time": "2025-03-18",
+    "data_summary": "5eda3edc5d0b8aa71d4e02d82281fbe4"
+}

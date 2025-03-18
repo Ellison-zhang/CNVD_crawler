@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-18 03:14:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05235",
+    "spider_time": 1742267686912,
+    "name": "Google Chrome Profiles内存错误引用代码执行漏洞",
+    "cnvd": "CNVD-2025-05235",
+    "publish": "2025-03-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <134.0.6998.35\"]",
+    "cve": "CVE-2025-1916",
+    "description": "Google Chrome是一款由Google公司开发的WEB浏览器。Google Chrome Profiles存在内存错误引用代码执行漏洞，攻击者可利用该漏洞提交特殊的Web请求，诱使用户解析，可使应用程序崩溃或以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1916",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网:：https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",
+    "patch": "Google Chrome Profiles内存错误引用代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-10",
+    "open_time": "2025-03-18",
+    "update_time": "2025-03-18",
+    "data_summary": "ba429374c2cc173aa29dcd376552e2a8"
+}
