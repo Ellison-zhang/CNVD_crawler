@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-17 23:04:06",
+    "parse_time": "2025-03-18 00:13:35",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05098",
-    "spider_time": 1742252646303,
+    "spider_time": 1742256815308,
     "name": "TOTOlink A3002R static_gw参数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-05098",
     "publish": "2025-03-14",
