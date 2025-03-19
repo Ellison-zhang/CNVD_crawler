@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 09:04:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05376",
+    "spider_time": 1742375044446,
+    "name": "Linux kernel锁定不当漏洞",
+    "cnvd": "CNVD-2025-05376",
+    "publish": "2025-03-19",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"Linux Linux kernel 6.14\", \"Linux Linux kernel >=6.13\\uff0c<6.13.5\", \"Linux Linux kernel >=6.9\\uff0c<6.12.17\", \"Linux Linux kernel 6.9\"]",
+    "cve": "CVE-2025-21851",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在锁定不当漏洞，该漏洞源于arena_map_free在64k页内核上可能导致软锁。攻击者可利用该漏洞进行进一步恶意操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-21851",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/517e8a7835e8cfb398a0aeb0133de50e31cae32b",
+    "patch": "Linux kernel锁定不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-18",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "962a16b2029735495c61e02fc071366c"
+}

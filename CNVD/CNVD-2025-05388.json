@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 09:04:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05388",
+    "spider_time": 1742375097093,
+    "name": "IBM FlashSystem代码执行漏洞",
+    "cnvd": "CNVD-2025-05388",
+    "publish": "2025-03-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"IBM IBM FlashSystem\"]",
+    "cve": "CVE-2025-0160",
+    "description": "IBM FlashSystem是美国国际商业机器（IBM）公司的一系列高性能全闪存和混合闪存存储解决方案。IBM FlashSystem存在代码执行漏洞，该漏洞源于RPCAdapter服务限制不当，远程攻击者可利用该漏洞执行任意Java代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-0160",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7184182",
+    "patch": "IBM FlashSystem代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "020886ba7a438f98826ecacd2cffc6c0"
+}

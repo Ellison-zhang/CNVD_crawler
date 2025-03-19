@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 09:04:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05381",
+    "spider_time": 1742375066567,
+    "name": "Linux kernel空指针解引用漏洞",
+    "cnvd": "CNVD-2025-05381",
+    "publish": "2025-03-19",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Linux Linux kernel 6.14\", \"Linux Linux kernel >=6.13\\uff0c<6.13.5\", \"Linux Linux kernel >=6.7\\uff0c<6.12.17\", \"Linux Linux kernel 5.15.150\", \"Linux Linux kernel 5.10.211\", \"Linux Linux kernel >=6.1.69\\uff0c<6.1.130\", \"Linux Linux kernel >=6.6.8\\uff0c<6.6.80\"]",
+    "cve": "CVE-2025-21844",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在空指针解引用漏洞，该漏洞源于未检查next_buffer返回值，可能导致空指针取消引用。攻击者可利用该漏洞进行进一步恶意操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-21844",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/24e8e4523d3071bc5143b0db9127d511489f7b3b",
+    "patch": "Linux kernel空指针解引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-18",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "bb94b62ed6597125a5a1352687a2177d"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 09:05:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05389",
+    "spider_time": 1742375100289,
+    "name": "IBM MQ代码问题漏洞",
+    "cnvd": "CNVD-2025-05389",
+    "publish": "2025-03-19",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"IBM IBM MQ 9.3 CD\", \"IBM IBM MQ 9.3 LTS\", \"IBM IBM MQ 9.4 LTS\", \"IBM IBM MQ 9.4 CD\"]",
+    "cve": "CVE-2024-54175",
+    "description": "IBM MQ是美国国际商业机器（IBM）公司的一款消息传递中间件产品。该产品主要为面向服务的体系结构（SOA）提供可靠的、经过验证的消息传递主干网。IBM MQ存在代码问题漏洞，该漏洞源于异常条件检查不当，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-54175",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7184453",
+    "patch": "IBM MQ代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "1b40fe6c523095a83b027313a63d1e08"
+}

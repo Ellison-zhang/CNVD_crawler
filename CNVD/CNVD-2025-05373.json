@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 09:05:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05373",
+    "spider_time": 1742375144501,
+    "name": "Tenda W18E SetLoginPassword函数访问控制错误漏洞",
+    "cnvd": "CNVD-2025-05373",
+    "publish": "2025-03-19",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"Tenda W18E 16.01.0.8(1625)\"]",
+    "cve": "CVE-2024-46430",
+    "description": "Tenda W18E是中国腾达（Tenda）公司的一款无线路由器。Tenda W18E 16.01.0.8(1625)版本存在访问控制错误漏洞，该漏洞源于SetLoginPassword函数存在错误访问控制，攻击者可利用该漏洞通过更改管理员密码绕过身份验证机制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-46430",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "dff3e909d2bda2e1e4f5fc7a3e92ea55"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 09:03:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05398",
+    "spider_time": 1742375033883,
+    "name": "Tenda AC8缓冲区溢出漏洞（CNVD-2025-05398）",
+    "cnvd": "CNVD-2025-05398",
+    "publish": "2025-03-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda AC8V4 V16.03.34.06\"]",
+    "cve": "CVE-2025-25664",
+    "description": "Tenda AC8是中国腾达（Tenda）公司的一款无线路由器。Tenda AC8存在缓冲区溢出漏洞，该漏洞源于sub_49E098函数的shareSpeed参数包含一个缓冲区溢出漏洞。攻击者可利用该漏洞损坏内存并可能造成浏览器崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-25664",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-18",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "bd6397a8bef493066a919de4515d360d"
+}

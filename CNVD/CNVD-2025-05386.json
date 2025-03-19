@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 09:09:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05386",
+    "spider_time": 1742375399042,
+    "name": "ChestnutCMS文件上传漏洞（CNVD-2025-05386）",
+    "cnvd": "CNVD-2025-05386",
+    "publish": "2025-03-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"ChestnutCMS ChestnutCMS <=1.5.2\"]",
+    "cve": "CVE-2025-2031",
+    "description": "ChestnutCMS是一个前后端分离的企业级内容管理系统。ChestnutCMS 1.5.2及之前版本存在文件上传漏洞，该漏洞源于参数file对上传的文件缺少有效的验证。攻击者可利用该漏洞上传恶意文件从而远程执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/IceFoxH/VULN/issues/6",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/liweiyi/ChestnutCMS/releases/tag/v1.5.3",
+    "patch": "ChestnutCMS文件上传漏洞（CNVD-2025-05386）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "225ef04d8dae35eb8120ac9ffa767ee5"
+}

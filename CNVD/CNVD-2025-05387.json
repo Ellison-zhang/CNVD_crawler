@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 09:10:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05387",
+    "spider_time": 1742375405422,
+    "name": "NocoDB跨站脚本漏洞（CNVD-2025-05387）",
+    "cnvd": "CNVD-2025-05387",
+    "publish": "2025-03-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"NocoDB NocoDB <0.258.0\"]",
+    "cve": "CVE-2025-27506",
+    "description": "NocoDB是一个开源Airtable替代品。将任何MySql、PostgreSql、Sql Server、Sqlite和MariaDb转换为智能电子表格。NocoDB 0.258.0之前版本存在跨站脚本漏洞，该漏洞源于密码重置功能相关的API端点对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/nocodb/nocodb/blob/ba5a191b33259d984fc92df225f7d82ede2ddb56/packages/nocodb/src/modules/auth/auth.controller.ts#L251",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/nocodb/nocodb/releases/tag/0.262.1",
+    "patch": "NocoDB跨站脚本漏洞（CNVD-2025-05387）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "73ac72fd9a2f93fc1fb7a4a4e2209d2c"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 09:05:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05393",
+    "spider_time": 1742375134977,
+    "name": "Google Chrome缓冲区溢出漏洞（CNVD-2025-05393）",
+    "cnvd": "CNVD-2025-05393",
+    "publish": "2025-03-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <134.0.6998.35\"]",
+    "cve": "CVE-2025-1914",
+    "description": "Google Chrome是一款由Google公司开发的WEB浏览器。Google Chrome存在安全漏洞，远程攻击者可利用该漏洞提交特殊的Web请求，诱使用户解析，可以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1914",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",
+    "patch": "Google Chrome缓冲区溢出漏洞（CNVD-2025-05393）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-10",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "ae853102d20409eb7145df1de350ef1a"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 09:04:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05399",
+    "spider_time": 1742375093207,
+    "name": "Tenda TX3 setstaticRoutecfg函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-05399",
+    "publish": "2025-03-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Tenda tx3 16.03.13.11_multi\"]",
+    "cve": "CVE-2025-1896",
+    "description": "Tenda TX3是中国腾达（Tenda）公司的一款无线路由器。Tenda TX3 16.03.13.11_multi存在缓冲区溢出漏洞，该漏洞源于goform /setstaticRoutecfg的参数list未能正确验证输入数据的长度大小，攻击者可利用该漏洞执行任意代码或导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1896",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "16010b3f95802f1cae091d836fd46f59"
+}

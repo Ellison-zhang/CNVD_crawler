@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 09:05:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05391",
+    "spider_time": 1742375123139,
+    "name": "Google Pixel Watch整数溢出漏洞",
+    "cnvd": "CNVD-2025-05391",
+    "publish": "2025-03-19",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Pixel Watch\"]",
+    "cve": "CVE-2024-56191",
+    "description": "Google Pixel Watch是美国谷歌（Google）公司的一款持久耐用的智能手表。Google Pixel Watch存在整数溢出漏洞，该漏洞源于dhd_pno.c的dhd_process_full_gscan_result中整数溢出，攻击者可利用该漏洞导致本地权限提升，无需额外执行权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-56191",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/docs/security/bulletin/pixel-watch/2025/2025-03-01",
+    "patch": "Google Pixel Watch整数溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "dd15c4a41cc92eb43fbd59e3a61b577c"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 09:08:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05384",
+    "spider_time": 1742375305245,
+    "name": "ZZCMS跨站脚本漏洞",
+    "cnvd": "CNVD-2025-05384",
+    "publish": "2025-03-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"ZZCMS ZZCMS 2025\"]",
+    "cve": "CVE-2025-1949",
+    "description": "ZZCMS是中国ZZCMS团队的一套内容管理系统（CMS）。ZZCMS 2025版本存在跨站脚本漏洞，该漏洞源于参数$_SERVER[ PHP_SELF ]对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1949",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/Sinon2003/cve/blob/main/zzcms/xss-register_nodb.php.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "c3fca497e111f12b14791d345f31a22f"
+}

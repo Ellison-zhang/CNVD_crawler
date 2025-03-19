@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 09:04:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05379",
+    "spider_time": 1742375058574,
+    "name": "Linux kernel资源管理错误漏洞",
+    "cnvd": "CNVD-2025-05379",
+    "publish": "2025-03-19",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Linux Linux kernel 6.14\", \"Linux Linux kernel >=6.13\\uff0c<6.13.5\", \"Linux Linux kernel >=6.12\\uff0c<6.12.17\"]",
+    "cve": "CVE-2025-21845",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在资源管理错误漏洞，该漏洞源于SST写入失败，可能导致内核崩溃。攻击者可利用该漏洞进行进一步恶意操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-21845",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/539bd20352832b9244238a055eb169ccf1c41ff6",
+    "patch": "Linux kernel资源管理错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-18",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "450b074e0d606cfb4fdf27c2d693f7a3"
+}

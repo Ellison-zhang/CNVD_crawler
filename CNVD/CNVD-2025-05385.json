@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 09:09:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05385",
+    "spider_time": 1742375395655,
+    "name": "Art Gallery Management System跨站脚本漏洞",
+    "cnvd": "CNVD-2025-05385",
+    "publish": "2025-03-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"Art Gallery Management System Art Gallery Management System v1.0\"]",
+    "cve": "CVE-2025-2047",
+    "description": "Art Gallery Management System是一个美术馆管理系统。Art Gallery Management System 1.0版本存在跨站脚本漏洞，该漏洞源于参数search对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-2047",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://nvd.nist.gov/vuln/detail/CVE-2025-2047",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "c5be6c19f460215cb22a14ea11b88c73"
+}
