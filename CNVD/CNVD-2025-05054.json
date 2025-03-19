@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-19 07:11:40",
+    "parse_time": "2025-03-19 08:12:48",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05054",
-    "spider_time": 1742368300528,
+    "spider_time": 1742371968237,
     "name": "Esri ArcGIS Server SQL注入漏洞（CNVD-2025-05054）",
     "cnvd": "CNVD-2025-05054",
     "publish": "2025-03-12",
