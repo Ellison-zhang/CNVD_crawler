@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 20:03:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05319",
+    "spider_time": 1742414638078,
+    "name": "四川锐狐网络科技有限公司锐狐站群控件存在信息泄露漏洞",
+    "cnvd": "CNVD-2025-05319",
+    "publish": "2025-03-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u56db\\u5ddd\\u9510\\u72d0\\u7f51\\u7edc\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u9510\\u72d0\\u7ad9\\u7fa4\\u63a7\\u4ef6 4.1\"]",
+    "cve": null,
+    "description": "四川锐狐网络科技有限公司是一家专注医院互联网应用平台的创新技术服务商。四川锐狐网络科技有限公司锐狐站群控件存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://ruifox.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-01-16",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "c5a9d6784d660a026fa53b100a6a1c16"
+}
