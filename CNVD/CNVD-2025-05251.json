@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-19 00:14:10",
+    "parse_time": "2025-03-19 01:31:52",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05251",
-    "spider_time": 1742343250681,
+    "spider_time": 1742347912890,
     "name": "Sante PACS Server EVP_DecryptUpdate缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-05251",
     "publish": "2025-03-17",
