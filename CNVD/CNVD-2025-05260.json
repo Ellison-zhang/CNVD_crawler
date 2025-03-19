@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-19 21:06:27",
+    "parse_time": "2025-03-19 22:06:09",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05260",
-    "spider_time": 1742418387808,
+    "spider_time": 1742421969995,
     "name": "Tenda TX3 setNetControllist函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-05260",
     "publish": "2025-03-17",
