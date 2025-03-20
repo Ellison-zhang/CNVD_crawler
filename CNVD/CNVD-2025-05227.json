@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-03-20 00:14:13",
+    "parse_time": "2025-03-20 01:31:35",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05227",
-    "spider_time": 1742429653121,
+    "spider_time": 1742434295870,
     "name": "MonetDB Server SQL注入漏洞（CNVD-2025-05227）",
     "cnvd": "CNVD-2025-05227",
-    "publish": "2025-03-19",
+    "publish": "2025-03-14",
     "severity": "高",
     "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
     "product": "[\"MonetDB MonetDB Server v11.49.1\"]",
@@ -18,5 +18,5 @@
     "submit_time": "2025-03-14",
     "open_time": "2025-03-18",
     "update_time": "2025-03-18",
-    "data_summary": "fbbc44518421aa1ff5e208c7972276be"
+    "data_summary": "405360bee6571f8cd62af2c090e3fdbe"
 }
