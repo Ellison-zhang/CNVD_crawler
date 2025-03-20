@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-20 06:06:46",
+    "parse_time": "2025-03-20 07:06:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05203",
-    "spider_time": 1742450806291,
+    "spider_time": 1742454360151,
     "name": "Adobe Substance 3D Designer空指针解引用漏洞",
     "cnvd": "CNVD-2025-05203",
     "publish": "2025-03-17",
