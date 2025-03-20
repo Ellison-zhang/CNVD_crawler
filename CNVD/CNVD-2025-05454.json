@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-20 11:04:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05454",
+    "spider_time": 1742468640149,
+    "name": "Google Chromium实现不当漏洞",
+    "cnvd": "CNVD-2025-05454",
+    "publish": "2025-03-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Google Chrome <134.0.6998.35\"]",
+    "cve": "CVE-2025-1923",
+    "description": "Microsoft Edge (Chromium-based)是微软基于Chromium开源项目及其他开源软件开发的网页浏览器。Microsoft Edge (Chromium-based)的Permission Prompts组件存在实现不当漏洞，目前暂无漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1923",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",
+    "patch": "Google Chromium实现不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-03-20",
+    "update_time": "2025-03-20",
+    "data_summary": "a6197b186d1e348a53389fb2bccee41f"
+}
