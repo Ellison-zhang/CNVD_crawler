@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-21 15:12:24",
+    "parse_time": "2025-03-21 16:08:09",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05204",
-    "spider_time": 1742569944053,
+    "spider_time": 1742573289192,
     "name": "Adobe Substance 3D Designer堆缓冲区溢出漏洞（CNVD-2025-05204）",
     "cnvd": "CNVD-2025-05204",
     "publish": "2025-03-17",
