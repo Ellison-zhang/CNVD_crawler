@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-21 14:03:48",
+    "parse_time": "2025-03-21 15:04:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05247",
-    "spider_time": 1742565828180,
+    "spider_time": 1742569440031,
     "name": "Adobe InDesign堆缓冲区溢出漏洞（CNVD-2025-05247）",
     "cnvd": "CNVD-2025-05247",
     "publish": "2025-03-21",
