@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-21 09:04:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05561",
+    "spider_time": 1742547872799,
+    "name": "IBM InfoSphere Information Server和IBM InfoSphere DataStage Flow Designer未明漏洞（CNVD-2025-05561）",
+    "cnvd": "CNVD-2025-05561",
+    "publish": "2025-03-20",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"IBM InfoSphere Information Server 11.7\"]",
+    "cve": "CVE-2023-23472",
+    "description": "IBM InfoSphere Information Server和IBM InfoSphere DataStage Flow Designer都是美国国际商业机器（IBM）公司的产品。IBM InfoSphere Information Server是一套数据整合平台。该平台可用于整合各种渠道获取的数据信息。IBM InfoSphere DataStage Flow Designer是一个基于Web的数据阶段流程设计器。IBM InfoSphere Information Server的IBM InfoSphere DataStage Flow Designer存在未明漏洞。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-23472",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://www.ibm.com/support/pages/node/6988167",
+    "patch": "IBM InfoSphere Information Server和IBM InfoSphere DataStage Flow Designer安全漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-19",
+    "open_time": "2025-03-21",
+    "update_time": "2025-03-21",
+    "data_summary": "713f0df7634827be6a54ee5bfa1d49a1"
+}
