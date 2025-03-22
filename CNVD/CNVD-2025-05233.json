@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-22 04:05:39",
+    "parse_time": "2025-03-22 05:04:58",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05233",
-    "spider_time": 1742616339050,
+    "spider_time": 1742619898788,
     "name": "Google Pixel closeChannel函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-05233",
     "publish": "2025-03-17",
