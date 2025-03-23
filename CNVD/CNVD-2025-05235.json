@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-23 22:09:29",
+    "parse_time": "2025-03-23 23:04:52",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05235",
-    "spider_time": 1742767769260,
+    "spider_time": 1742771092774,
     "name": "Google Chrome Profiles内存错误引用代码执行漏洞",
     "cnvd": "CNVD-2025-05235",
     "publish": "2025-03-17",
