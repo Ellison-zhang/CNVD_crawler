@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-24 13:11:44",
+    "parse_time": "2025-03-24 14:05:39",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05560",
-    "spider_time": 1742821904274,
+    "spider_time": 1742825139684,
     "name": "Microsoft Azure Arc Installer权限提升漏洞",
     "cnvd": "CNVD-2025-05560",
     "publish": "2025-03-20",
