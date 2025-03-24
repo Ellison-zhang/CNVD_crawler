@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-24 11:05:28",
+    "parse_time": "2025-03-24 12:09:26",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05559",
-    "spider_time": 1742814328417,
+    "spider_time": 1742818166981,
     "name": "Microsoft Azure Agent Installer for Backup and Site Recovery权限提升漏洞",
     "cnvd": "CNVD-2025-05559",
     "publish": "2025-03-20",
