@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-24 00:15:58",
+    "parse_time": "2025-03-24 01:33:15",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05227",
-    "spider_time": 1742775358851,
+    "spider_time": 1742779995004,
     "name": "MonetDB Server SQL注入漏洞（CNVD-2025-05227）",
     "cnvd": "CNVD-2025-05227",
     "publish": "2025-03-14",
