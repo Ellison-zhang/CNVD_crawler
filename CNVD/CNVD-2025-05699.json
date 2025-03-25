@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-25 04:08:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05699",
+    "spider_time": 1742875709138,
+    "name": "Apache EventMesh反序列化漏洞（CNVD-2025-05699）",
+    "cnvd": "CNVD-2025-05699",
+    "publish": "2025-03-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apache Apache EventMesh <1.11.0\"]",
+    "cve": "CVE-2024-56180",
+    "description": "Apache EventMesh是美国阿帕奇（Apache）基金会的新一代无服务器事件中间件，用于构建分布式事件驱动应用程序。Apache EventMesh 1.11.0之前版本存在反序列化漏洞，该漏洞源于应用程序在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞通过hessian反序列化rpc协议发送受控消息和远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-56180",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/apache/eventmesh/releases/tag/v1.11.0",
+    "patch": "Apache EventMesh反序列化漏洞（CNVD-2025-05699）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-03-25",
+    "update_time": "2025-03-25",
+    "data_summary": "9fe77e4d9b22da9806e724c2d0a0bca6"
+}

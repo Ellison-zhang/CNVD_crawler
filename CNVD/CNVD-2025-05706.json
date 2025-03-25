@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-25 04:04:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05706",
+    "spider_time": 1742875484753,
+    "name": "Apache Atlas跨站脚本漏洞（CNVD-2025-05706）",
+    "cnvd": "CNVD-2025-05706",
+    "publish": "2025-03-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:C/A:N",
+    "product": "[\"Apache Apache Atlas <=2.3.0\"]",
+    "cve": "CVE-2024-46910",
+    "description": "Apache Atlas是美国阿帕奇（Apache）基金会的一套可伸缩和可扩展的核心功能治理服务。Apache Atlas存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞执行跨站脚本攻击，并可能假冒其他用户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2025/02/12/2",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://atlas.apache.org/#/Downloads",
+    "patch": "Apache Atlas跨站脚本漏洞（CNVD-2025-05706）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-03-25",
+    "update_time": "2025-03-25",
+    "data_summary": "28f23cc7a14fd1d195a3917fb35ef779"
+}

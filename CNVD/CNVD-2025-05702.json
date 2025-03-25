@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-25 04:04:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05702",
+    "spider_time": 1742875475270,
+    "name": "Apache Hive信任管理问题漏洞",
+    "cnvd": "CNVD-2025-05702",
+    "publish": "2025-03-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:C/A:N",
+    "product": "[\"Apache Apache Hive <4.0.0\"]",
+    "cve": "CVE-2024-23953",
+    "description": "Apache Hive是美国阿帕奇（Apache）基金会的一套基于Hadoop（分布式系统基础架构）的数据仓库软件。该软件提供了一个数据集成方法和一种高级的查询语言，以支持在Hadoop上进行大规模数据分析。Apache Hive存在信任管理问题漏洞，该漏洞源于使用Arrays.equals方法比较消息签名时未采用恒定时间算法，攻击者可利用该漏洞逐字节伪造有效签名。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2025/01/28/3",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/0nloywj49nbtlc6l3c6363qvq7o1ztb7",
+    "patch": "Apache Hive信任管理问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-03-25",
+    "update_time": "2025-03-25",
+    "data_summary": "3eba91b9cd4d6dbcda1eec00332eac35"
+}

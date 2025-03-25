@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-25 04:04:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05703",
+    "spider_time": 1742875480576,
+    "name": "Apache Hive授权问题漏洞",
+    "cnvd": "CNVD-2025-05703",
+    "publish": "2025-03-25",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Apache Apache Hive >=1.1.0\\uff0c<4.0.1\"]",
+    "cve": "CVE-2024-29869",
+    "description": "Apache Hive是美国阿帕奇（Apache）基金会的一套基于Hadoop（分布式系统基础架构）的数据仓库软件。该软件提供了一个数据集成方法和一种高级的查询语言，以支持在Hadoop上进行大规模数据分析。Apache Hive存在授权问题漏洞，该漏洞源于未明确设置文件权限时，默认将凭据文件创建为644权限，攻击者可利用该漏洞导致未授权用户可读取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2025/01/28/4",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/h27ohpyrqf9w1m3c0tqr7x8jg59rcrv6",
+    "patch": "Apache Hive授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-03-25",
+    "update_time": "2025-03-25",
+    "data_summary": "e069bd9582cbb91fdbc6289bc66da0ba"
+}
