@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-03-26 22:05:49",
+    "parse_time": "2025-03-26 23:09:22",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05219",
-    "spider_time": 1743026749703,
+    "spider_time": 1743030562120,
     "name": "Google Android权限提升漏洞（CNVD-2025-05219）",
     "cnvd": "CNVD-2025-05219",
-    "publish": "2025-03-21",
+    "publish": "2025-02-28",
     "severity": "高",
     "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
     "product": "[\"Google Android\"]",
@@ -18,5 +18,5 @@
     "submit_time": "2025-02-17",
     "open_time": "2025-03-18",
     "update_time": "2025-03-18",
-    "data_summary": "0e2b32d196d6321386bacb4553a66250"
+    "data_summary": "2e33e109ea15a22b1e8e675d3245e77c"
 }
