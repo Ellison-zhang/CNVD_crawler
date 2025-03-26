@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-03-26 15:08:35",
+    "parse_time": "2025-03-26 16:10:53",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05228",
-    "spider_time": 1743001715436,
+    "spider_time": 1743005453366,
     "name": "ZTE GoldenDB输入验证错误漏洞",
     "cnvd": "CNVD-2025-05228",
-    "publish": "2025-03-19",
+    "publish": "2025-03-14",
     "severity": "中",
     "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:N/A:C",
     "product": "[\"ZTE ZTE GoldenDB >=6.1.03\\uff0c<=6.1.03.04\"]",
@@ -18,5 +18,5 @@
     "submit_time": "2025-03-14",
     "open_time": "2025-03-18",
     "update_time": "2025-03-18",
-    "data_summary": "38c4d28e4add6d51ed615e7aad529a6c"
+    "data_summary": "753fd50fab5372dabec99eb36b7b8aa3"
 }
