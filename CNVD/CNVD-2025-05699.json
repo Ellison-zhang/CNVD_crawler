@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-26 00:19:56",
+    "parse_time": "2025-03-26 01:37:44",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05699",
-    "spider_time": 1742948396487,
+    "spider_time": 1742953064013,
     "name": "Apache EventMesh反序列化漏洞（CNVD-2025-05699）",
     "cnvd": "CNVD-2025-05699",
     "publish": "2025-03-19",
