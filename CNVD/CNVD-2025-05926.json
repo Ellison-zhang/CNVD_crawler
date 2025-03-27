@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-27 16:10:05",
+    "parse_time": "2025-03-27 17:11:11",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05926",
-    "spider_time": 1743091805908,
+    "spider_time": 1743095471176,
     "name": "PerfreeBlog存在XSS漏洞",
     "cnvd": "CNVD-2025-05926",
     "publish": "2025-03-22",
