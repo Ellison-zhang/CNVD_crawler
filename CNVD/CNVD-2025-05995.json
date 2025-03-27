@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-27 11:03:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05995",
+    "spider_time": 1743073418232,
+    "name": "Linux kernel存在内存泄露漏洞（CNVD-2025-05995）",
+    "cnvd": "CNVD-2025-05995",
+    "publish": "2025-03-26",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Linux Kernel >=5.18\\uff0c<5.18.6\", \"Linux Kernel 5.19:rc1\", \"Linux Kernel 5.19:rc2\"]",
+    "cve": "CVE-2022-49718",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在内存泄露漏洞，该漏洞源于apple-aic在初始化时未正确处理节点引用计数，攻击者可利用该漏洞导致内存泄漏。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-49718",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：https://git.kernel.org/stable/c/3d45670fab3c25a7452721e4588cc95c51cda134",
+    "patch": "Linux kernel存在内存泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-05",
+    "open_time": "2025-03-27",
+    "update_time": "2025-03-27",
+    "data_summary": "eb2138741f6cd5cfe5093220e61a3346"
+}
