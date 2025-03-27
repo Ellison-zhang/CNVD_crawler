@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-27 04:04:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05817",
+    "spider_time": 1743048257390,
+    "name": "Vite存在访问控制错误漏洞（CNVD-2025-05817）",
+    "cnvd": "CNVD-2025-05817",
+    "publish": "2025-03-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:N/A:N",
+    "product": "[\"Vite Vite <=4.5.9\", \"Vite Vite >=6.2.0\\uff0c <=6.2.2\", \"Vite Vite >=6.1.0\\uff0c <=6.1.1\", \"Vite Vite >=6.0.0\\uff0c<=6.0.11\", \"Vite Vite >=5.0.0\\uff0c <=5.4.14\"]",
+    "cve": "CVE-2025-30208",
+    "description": "Vite是Vite开源的一种新型的前端构建工具。Vite存在访问控制错误漏洞，攻击者可利用该漏洞绕过开发服务器的保护机制，非法访问项目根目录外的敏感文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-30208",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://github.com/vitejs/vite/releases/tag/v6.2.3",
+    "patch": "Vite存在访问控制错误漏洞（CNVD-2025-05817）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-03-27",
+    "update_time": "2025-03-27",
+    "data_summary": "0b59394a6b7033e3f6e8ccef0fb381fc"
+}
