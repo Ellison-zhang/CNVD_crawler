@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-03-27 04:13:05",
+    "parse_time": "2025-03-27 05:10:36",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05217",
-    "spider_time": 1743048785447,
+    "spider_time": 1743052236540,
     "name": "IBM EntireX路径遍历漏洞",
     "cnvd": "CNVD-2025-05217",
-    "publish": "2025-03-20",
+    "publish": "2025-03-06",
     "severity": "中",
     "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
     "product": "[\"IBM Entirex 11.1\"]",
@@ -18,5 +18,5 @@
     "submit_time": "2025-03-04",
     "open_time": "2025-03-18",
     "update_time": "2025-03-18",
-    "data_summary": "84b7ab9dc94ce1e8254e3c72e1bfaf0b"
+    "data_summary": "a5a7c6d12735eb04ca358ef68e231655"
 }
