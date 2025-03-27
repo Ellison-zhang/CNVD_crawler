@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-27 12:25:00",
+    "parse_time": "2025-03-27 13:15:18",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05921",
-    "spider_time": 1743078300884,
+    "spider_time": 1743081318594,
     "name": "信呼OA存在SQL注入漏洞",
     "cnvd": "CNVD-2025-05921",
     "publish": "2025-03-21",
