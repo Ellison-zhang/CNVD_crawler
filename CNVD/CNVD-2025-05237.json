@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-03-27 02:35:31",
+    "parse_time": "2025-03-27 03:18:43",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05237",
-    "spider_time": 1743042931946,
+    "spider_time": 1743045523784,
     "name": "Tenda AC7栈溢出漏洞（CNVD-2025-05237）",
     "cnvd": "CNVD-2025-05237",
-    "publish": "2025-03-14",
+    "publish": "2025-03-20",
     "severity": "高",
     "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
     "product": "[\"Tenda AC7 <=15.03.06.44\"]",
@@ -18,5 +18,5 @@
     "submit_time": "2025-03-07",
     "open_time": "2025-03-18",
     "update_time": "2025-03-18",
-    "data_summary": "c0ea60059f0f3fe543be449df8cfb556"
+    "data_summary": "bf48fa655814ec98a20f8bb170d8d1ee"
 }

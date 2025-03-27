@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-27 02:36:34",
+    "parse_time": "2025-03-27 03:19:32",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05240",
-    "spider_time": 1743042994046,
+    "spider_time": 1743045572453,
     "name": "Microsoft Windows Hyper-V NT Kernel Integration VSP权限提升漏洞（CNVD-2025-05240）",
     "cnvd": "CNVD-2025-05240",
     "publish": "2025-03-19",
