@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-27 10:08:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05942",
+    "spider_time": 1743070112457,
+    "name": "中联重科股份有限公司智慧商砼ERP存在文件上传漏洞",
+    "cnvd": "CNVD-2025-05942",
+    "publish": "2025-03-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u4e2d\\u8054\\u91cd\\u79d1\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u667a\\u6167\\u5546\\u783cERP 4.5.4.3\", \"\\u4e2d\\u8054\\u91cd\\u79d1\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u667a\\u6167\\u5546\\u783cERP 4.5.4.0\"]",
+    "cve": null,
+    "description": "智慧商砼ERP是一种专门针对混凝土行业开发的管理软件。中联重科股份有限公司智慧商砼ERP存在文件上传漏洞，攻击者可利用该漏洞获取服务器控制权。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.zoomlion.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-03-27",
+    "update_time": "2025-03-27",
+    "data_summary": "b46dd35314d48c108512552ce97ac890"
+}

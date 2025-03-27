@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-27 10:09:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05935",
+    "spider_time": 1743070140041,
+    "name": "杭州上树科技有限公司Ant Design Pro存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-05935",
+    "publish": "2025-03-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u676d\\u5dde\\u4e0a\\u6811\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 Ant Design Pro\"]",
+    "cve": null,
+    "description": "Ant Design Pro是一个企业级中后台前端/设计解决方案。杭州上树科技有限公司Ant Design Pro存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://antdv.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-03-27",
+    "update_time": "2025-03-27",
+    "data_summary": "2192cfcd86649b806f08f1dc77fb25e7"
+}

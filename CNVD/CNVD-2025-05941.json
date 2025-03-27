@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-27 10:08:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05941",
+    "spider_time": 1743070117320,
+    "name": "深圳极速创想科技有限公司fastadmin存在XSS漏洞",
+    "cnvd": "CNVD-2025-05941",
+    "publish": "2025-03-23",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:P/A:N",
+    "product": "[\"\\u6df1\\u5733\\u6781\\u901f\\u521b\\u60f3\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 FastAdmin V1.5.2.20240906\"]",
+    "cve": null,
+    "description": "深圳极速创想科技有限公司是一家以从事互联网和相关服务为主的企业。深圳极速创想科技有限公司fastadmin存在XSS漏洞，攻击者可利用该漏洞获取用户cookie等敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.fastadmin.net/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-03-27",
+    "update_time": "2025-03-27",
+    "data_summary": "ad14a858a0771be6c68944177e5648d4"
+}

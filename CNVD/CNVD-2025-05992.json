@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-27 10:08:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05992",
+    "spider_time": 1743070102192,
+    "name": "Google Chrome V8释放后使用漏洞（CNVD-2025-0599274）",
+    "cnvd": "CNVD-2025-05992",
+    "publish": "2025-03-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <131.0.6778.139\"]",
+    "cve": "CVE-2024-12382",
+    "description": "Google Chrome是一款由Google公司开发的WEB浏览器。Google Chrome V8存在释放后使用漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-12382",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://chromereleases.googleblog.com/2024/12/stable-channel-update-for-desktop_10.html",
+    "patch": "Google Chrome V8释放后使用漏洞（CNVD-2025-0599274）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-17",
+    "open_time": "2025-03-27",
+    "update_time": "2025-03-27",
+    "data_summary": "15fd253bca37def3bbf1ae84921b367c"
+}

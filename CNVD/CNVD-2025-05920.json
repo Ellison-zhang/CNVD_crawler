@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-27 10:10:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05920",
+    "spider_time": 1743070236451,
+    "name": "北京星网锐捷网络技术有限公司RG-EW1200G存在命令执行漏洞",
+    "cnvd": "CNVD-2025-05920",
+    "publish": "2025-03-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u5317\\u4eac\\u661f\\u7f51\\u9510\\u6377\\u7f51\\u7edc\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 RG-EW1200G\"]",
+    "cve": null,
+    "description": "RG-EW1200G是一款家用无线路由器。北京星网锐捷网络技术有限公司RG-EW1200G存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.ruijie.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-04",
+    "open_time": "2025-03-27",
+    "update_time": "2025-03-27",
+    "data_summary": "c05808c53e229b3e20e45b7d9e98cc7b"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-27 10:05:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05932",
+    "spider_time": 1743069951319,
+    "name": "Cisco OpenH264竞争条件漏洞",
+    "cnvd": "CNVD-2025-05932",
+    "publish": "2025-03-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Cisco OpenH264 <=2.5.0\"]",
+    "cve": "CVE-2025-27091",
+    "description": "Cisco OpenH264是美国思科（Cisco）公司的一个开源H.264编解码器。Cisco OpenH264存在竞争条件漏洞，会导致堆溢出及远程代码执行。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-27091",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://github.com/cisco/openh264/releases/tag/v2.6.0",
+    "patch": "Cisco OpenH264竞争条件漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-05",
+    "open_time": "2025-03-27",
+    "update_time": "2025-03-27",
+    "data_summary": "df29c03ab50fd67432804c51f4f66907"
+}

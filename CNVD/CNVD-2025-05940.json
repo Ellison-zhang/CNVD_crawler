@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-27 10:08:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05940",
+    "spider_time": 1743070120441,
+    "name": "希迪智驾科技股份有限公司无人驾驶装运系统存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-05940",
+    "publish": "2025-03-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5e0c\\u8fea\\u667a\\u9a7e\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u65e0\\u4eba\\u9a7e\\u9a76\\u88c5\\u8fd0\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "希迪智驾科技股份有限公司是一家专注于自动驾驶技术和产品的公司。希迪智驾科技股份有限公司无人驾驶装运系统存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://csznjsyjy.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-03-27",
+    "update_time": "2025-03-27",
+    "data_summary": "9f3fb265e0e2e63109912c4678626076"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-27 10:08:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05938",
+    "spider_time": 1743070130170,
+    "name": "太原迅易科技有限公司74cms存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-05938",
+    "publish": "2025-03-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u592a\\u539f\\u8fc5\\u6613\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 74cms 3.5.1\"]",
+    "cve": null,
+    "description": "74cms是一款国内广泛使用的招聘网站管理系统。太原迅易科技有限公司74cms存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.74cms.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-03-27",
+    "update_time": "2025-03-27",
+    "data_summary": "cc1790ff67ffce8b7c6f79184893b4a5"
+}

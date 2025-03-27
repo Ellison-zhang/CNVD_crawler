@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-27 10:09:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05927",
+    "spider_time": 1743070159249,
+    "name": "成都天问互联科技有限公司天问物业ERP系统存在任意文件读取漏洞",
+    "cnvd": "CNVD-2025-05927",
+    "publish": "2025-03-22",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6210\\u90fd\\u5929\\u95ee\\u4e92\\u8054\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u5929\\u95ee\\u7269\\u4e1aERP\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "天问物业ERP系统是一款综合性物业管理软件。成都天问互联科技有限公司天问物业ERP系统存在任意文件读取漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.tw369.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-05",
+    "open_time": "2025-03-27",
+    "update_time": "2025-03-27",
+    "data_summary": "d1ddbbcd4de25c21c97490fe402bb114"
+}

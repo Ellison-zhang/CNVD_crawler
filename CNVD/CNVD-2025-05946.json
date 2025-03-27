@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-27 10:03:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05946",
+    "spider_time": 1743069820627,
+    "name": "Cisco Secure Email Gateway访问控制错误漏洞",
+    "cnvd": "CNVD-2025-05946",
+    "publish": "2025-03-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Cisco Secure Email Gateway 15.0\", \"Cisco Secure Email Gateway 14.2\", \"Cisco Secure Email Gateway 16.0\"]",
+    "cve": "CVE-2025-20153",
+    "description": "Cisco Secure Email Gateway是美国思科（Cisco）公司的一个安全电子邮件网关软件。Cisco Secure Email Gateway存在访问控制错误漏洞，远程攻击者利用漏洞提交特殊的邮件，可以绕过规则，进行恶意攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20153",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-mailpol-bypass-5nVcJZMw",
+    "patch": "Cisco Secure Email Gateway访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-24",
+    "open_time": "2025-03-27",
+    "update_time": "2025-03-27",
+    "data_summary": "2d0720289139e0774808f0d343c6c26f"
+}

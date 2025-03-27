@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-27 10:08:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05939",
+    "spider_time": 1743070124327,
+    "name": "Online Book ShopOnline Book Shop存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-05939",
+    "publish": "2025-03-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Online Book Shop Online Book Shop\"]",
+    "cve": null,
+    "description": "Online Book Shop是一款网络书店‌或‌网上书店系统。Online Book Shop存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\n无",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-03-27",
+    "update_time": "2025-03-27",
+    "data_summary": "7a91b75ef1864d4a37a248322c94ee34"
+}

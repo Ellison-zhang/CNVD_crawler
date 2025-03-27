@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-27 10:09:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05923",
+    "spider_time": 1743070178373,
+    "name": "天津环球磁卡集团有限公司公交IC卡系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-05923",
+    "publish": "2025-03-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u5929\\u6d25\\u73af\\u7403\\u78c1\\u5361\\u96c6\\u56e2\\u6709\\u9650\\u516c\\u53f8 \\u516c\\u4ea4IC\\u5361\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "天津环球磁卡集团有限公司是一家以从事印刷和记录媒介复制业为主的企业。天津环球磁卡集团有限公司公交IC卡系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.tjgmcg.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-05",
+    "open_time": "2025-03-27",
+    "update_time": "2025-03-27",
+    "data_summary": "ea24858e3beec5886bed759e8ed1d11e"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-27 10:08:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05943",
+    "spider_time": 1743070107828,
+    "name": "McAfeeMcAfee mc-wns-client程序存在DLL劫持漏洞",
+    "cnvd": "CNVD-2025-05943",
+    "publish": "2025-03-23",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Mcafee McAfee mc-wns-client\\u7a0b\\u5e8f 1.25.208\"]",
+    "cve": null,
+    "description": "McAfeeMcAfee mc-wns-client程序是杀毒软件的一部分，主要负责网络通信功能。McAfeeMcAfee mc-wns-client程序存在DLL劫持漏洞，攻击者可利用该漏洞获取服务器控制权。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.mcafee.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-03-27",
+    "update_time": "2025-03-27",
+    "data_summary": "434b43daa1870993a705f45527367464"
+}
