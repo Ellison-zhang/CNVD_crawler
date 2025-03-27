@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-27 15:11:40",
+    "parse_time": "2025-03-27 16:09:10",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05943",
-    "spider_time": 1743088300065,
+    "spider_time": 1743091750968,
     "name": "McAfeeMcAfee mc-wns-client程序存在DLL劫持漏洞",
     "cnvd": "CNVD-2025-05943",
     "publish": "2025-03-23",
