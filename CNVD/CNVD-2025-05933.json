@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-28 18:08:53",
+    "parse_time": "2025-03-28 19:06:13",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05933",
-    "spider_time": 1743185333915,
+    "spider_time": 1743188773781,
     "name": "Cisco Application Policy Infrastructure Controller CLI存在命令注入漏洞",
     "cnvd": "CNVD-2025-05933",
     "publish": "2025-03-24",
