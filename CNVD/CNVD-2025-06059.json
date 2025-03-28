@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-28 10:04:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06059",
+    "spider_time": 1743156276830,
+    "name": "Tenda RX3 /goform/setPptpUserList缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-06059",
+    "publish": "2025-03-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda RX3 V16.03.13.11_multi\"]",
+    "cve": "CVE-2025-29362",
+    "description": "Tenda RX3是中国腾达（Tenda）公司的一款双频WiFi 6家用无线路由器。Tenda RX3 /goform/setPptpUserList处理list参数存在缓冲区溢出漏洞，攻击者可利用该漏洞提交特殊的请求，可使服务程序崩溃，造成拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-29362",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://www.tenda.com.cn/",
+    "patch": "Tenda RX3 /goform/setPptpUserList缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-17",
+    "open_time": "2025-03-28",
+    "update_time": "2025-03-28",
+    "data_summary": "e7be94edbe01dee72779d1291b562141"
+}

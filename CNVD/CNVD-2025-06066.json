@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-28 10:04:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06066",
+    "spider_time": 1743156270514,
+    "name": "LibreChat任意文件删除漏洞",
+    "cnvd": "CNVD-2025-06066",
+    "publish": "2025-03-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:C/A:C",
+    "product": "[\"LibreChat LibreChat 0.7.5-rc2\"]",
+    "cve": "CVE-2024-10361",
+    "description": "LibreChat是一个增强的ChatGPT克隆。LibreChat存在任意文件删除漏洞，该漏洞源于/api/files端点输入验证不当，攻击者可利用该漏洞导致任意文件删除。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/danny-avila/librechat/commit/0b744db1e2af31a531ffb761584d85540430639c",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/danny-avila/librechat/commit/0b744db1e2af31a531ffb761584d85540430639c",
+    "patch": "LibreChat任意文件删除漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-03-28",
+    "update_time": "2025-03-28",
+    "data_summary": "35e51e3ae2206d00d80edfc8ceef7cae"
+}
