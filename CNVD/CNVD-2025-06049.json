@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-28 08:04:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06049",
+    "spider_time": 1743149087646,
+    "name": "TRENDnet TEW-929DRU /cbi_addcert.htm页面跨站脚本漏洞",
+    "cnvd": "CNVD-2025-06049",
+    "publish": "2025-03-28",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"TRENDnet TEW-929DRU 1.0.0.10\"]",
+    "cve": "CVE-2025-25430",
+    "description": "TRENDnet TEW-929DRU是美国趋势网络（TRENDnet）公司的一款无线路由器。TRENDnet TEW-929DRU存在跨站脚本漏洞，该漏洞源于/cbi_addcert.htm页面中的configname参数对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://instinctive-acapella-fc7.notion.site/Trendnet-TEW-929DRU-XSS-17a15d9d4d2680fbb72ced0a02a64875",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.trendnet.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-03-28",
+    "update_time": "2025-03-28",
+    "data_summary": "3f2c1b6a490d1f40a7df9711141eb5b6"
+}

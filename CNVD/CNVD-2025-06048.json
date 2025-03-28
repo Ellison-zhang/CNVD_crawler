@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-28 08:05:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06048",
+    "spider_time": 1743149101098,
+    "name": "X2CRM跨站脚本漏洞",
+    "cnvd": "CNVD-2025-06048",
+    "publish": "2025-03-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:N/I:P/A:N",
+    "product": "[\"X2Engine Inc. X2CRM v8.5\"]",
+    "cve": "CVE-2024-48120",
+    "description": "X2CRM是一个面向中小企业的下一代开源社交销售应用程序。X2CRM存在跨站脚本漏洞。该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞在创建列表时将恶意JavaScript代码注入“Name”字段。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://okankurtulus.com.tr/2024/09/12/x2crm-v8-5-stored-cross-site-scripting-xss-authenticated/",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://okankurtulus.com.tr/2024/09/12/x2crm-v8-5-stored-cross-site-scripting-xss-authenticated/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2024-10-17",
+    "open_time": "2025-03-28",
+    "update_time": "2025-03-28",
+    "data_summary": "f5f93bc5ca7e75fc4af7a0f6427aa54d"
+}
