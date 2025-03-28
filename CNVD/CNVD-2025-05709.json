@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-28 08:08:15",
+    "parse_time": "2025-03-28 09:06:31",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05709",
-    "spider_time": 1743149295556,
+    "spider_time": 1743152791277,
     "name": "Cisco IOS XR Software CLI存在本地权限提升漏洞",
     "cnvd": "CNVD-2025-05709",
     "publish": "2025-03-24",

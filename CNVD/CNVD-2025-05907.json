@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-03-28 08:04:28",
+    "parse_time": "2025-03-28 09:04:02",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05907",
-    "spider_time": 1743149068874,
+    "spider_time": 1743152642389,
     "name": "上海上讯信息技术股份有限公司运维管理审计系统存在文件上传漏洞",
     "cnvd": "CNVD-2025-05907",
-    "publish": "2025-03-14",
+    "publish": "2025-03-28",
     "severity": "高",
     "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
     "product": "[\"\\u4e0a\\u6d77\\u4e0a\\u8baf\\u4fe1\\u606f\\u6280\\u672f\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u8fd0\\u7ef4\\u7ba1\\u7406\\u5ba1\\u8ba1\\u7cfb\\u7edf\"]",
@@ -12,11 +12,11 @@
     "description": "上海上讯信息技术股份有限公司是一家专注于信息安全技术的领先供应商。上海上讯信息技术股份有限公司运维管理审计系统存在文件上传漏洞，攻击者可利用该漏洞获取服务器控制权。",
     "flaw_type": "通用型漏洞",
     "reference": null,
-    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.suninfo.com/",
-    "patch": "(无补丁信息)",
+    "solution": "厂商已发布漏洞修复程序，请及时关注更新：\nhttps://www.suninfo.com/",
+    "patch": "上海上讯信息技术股份有限公司运维管理审计系统存在文件上传漏洞的补丁",
     "verify": "已验证",
     "submit_time": "2025-01-28",
     "open_time": "2025-03-27",
-    "update_time": "2025-03-27",
-    "data_summary": "637d1d4a2adfc377fc16683d72e4e055"
+    "update_time": "2025-03-28",
+    "data_summary": "98edd671e9cfc08594dfe569513aea46"
 }
