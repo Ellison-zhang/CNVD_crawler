@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-29 12:08:10",
+    "parse_time": "2025-03-29 13:12:10",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05987",
-    "spider_time": 1743250090580,
+    "spider_time": 1743253930643,
     "name": "Google Android isPackageDeviceAdmin权限提升漏洞",
     "cnvd": "CNVD-2025-05987",
     "publish": "2025-03-24",
@@ -9,7 +9,7 @@
     "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
     "product": "[\"Google Android\"]",
     "cve": "CVE-2024-43769",
-    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android isPackageDeviceAdmin存在权限提升漏洞，攻击者可利用该漏洞提交特殊的请求提升权限。",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android isPackageDeviceAdmin存在权限提升漏洞，攻击者可利用该漏洞提交特殊的请求，提升权限。",
     "flaw_type": "通用型漏洞",
     "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-43769",
     "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/2024-12-01",
@@ -18,5 +18,5 @@
     "submit_time": "2025-01-07",
     "open_time": "2025-03-27",
     "update_time": "2025-03-27",
-    "data_summary": "7d6149bad692593733548223dd3942e8"
+    "data_summary": "2458fd1cd6414ffa43c40a916f5d9030"
 }
