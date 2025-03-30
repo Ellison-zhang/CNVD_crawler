@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-30 19:03:46",
+    "parse_time": "2025-03-30 20:03:55",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05716",
-    "spider_time": 1743361426850,
+    "spider_time": 1743365035671,
     "name": "Vercel Next.js权限绕过漏洞",
     "cnvd": "CNVD-2025-05716",
     "publish": "2025-03-26",
