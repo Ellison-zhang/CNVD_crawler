@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-30 04:07:18",
+    "parse_time": "2025-03-30 05:06:32",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05988",
-    "spider_time": 1743307638104,
+    "spider_time": 1743311192314,
     "name": "Google Android onPrimaryClipChanged权限提升漏洞",
     "cnvd": "CNVD-2025-05988",
     "publish": "2025-03-24",
