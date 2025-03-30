@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-30 21:06:11",
+    "parse_time": "2025-03-30 22:06:38",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05987",
-    "spider_time": 1743368771043,
+    "spider_time": 1743372398534,
     "name": "Google Android isPackageDeviceAdmin权限提升漏洞",
     "cnvd": "CNVD-2025-05987",
     "publish": "2025-03-24",
