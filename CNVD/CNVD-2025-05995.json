@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-03-31 12:05:52",
+    "parse_time": "2025-03-31 13:10:59",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05995",
-    "spider_time": 1743422752028,
+    "spider_time": 1743426659211,
     "name": "Linux kernel存在内存泄露漏洞（CNVD-2025-05995）",
     "cnvd": "CNVD-2025-05995",
     "publish": "2025-03-26",
