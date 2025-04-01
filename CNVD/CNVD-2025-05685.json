@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-01 00:18:37",
+    "parse_time": "2025-04-01 01:35:15",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05685",
-    "spider_time": 1743466717716,
+    "spider_time": 1743471315861,
     "name": "Adobe Illustrator空指针解引用漏洞（CNVD-2025-05685）",
     "cnvd": "CNVD-2025-05685",
     "publish": "2025-03-24",
