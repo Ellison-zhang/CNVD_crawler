@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-01 03:21:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06197",
+    "spider_time": 1743477719166,
+    "name": "Huawei HarmonyOS和EMUI display模块内存错误引用漏洞",
+    "cnvd": "CNVD-2025-06197",
+    "publish": "2025-04-01",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:P/A:C",
+    "product": "[\"Huawei HarmonyOS 4.0.0\", \"Huawei HarmonyOS 4.2.0\", \"Huawei EMUI 14.0.0\", \"Huawei HarmonyOS 5.0.0\", \"Huawei HarmonyOS 4.3.0\"]",
+    "cve": "CVE-2024-57959",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei EMUI是华为公司开发的一种基于Android操作系统的用户界面。Huawei HarmonyOS和EMUI display模块存在内存错误引用漏洞，攻击者可利用该漏洞导致功能异常。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://consumer.huawei.com/en/support/bulletin/2025/2/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2025/2/",
+    "patch": "Huawei HarmonyOS和EMUI display模块内存错误引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-04-01",
+    "update_time": "2025-04-01",
+    "data_summary": "7ddfc2edbb95a293a8bbbcf2cde69360"
+}

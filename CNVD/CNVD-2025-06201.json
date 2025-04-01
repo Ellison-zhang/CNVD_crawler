@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-01 03:22:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06201",
+    "spider_time": 1743477738806,
+    "name": "Huawei HarmonyOS interpreter string模块越界读取漏洞",
+    "cnvd": "CNVD-2025-06201",
+    "publish": "2025-04-01",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:C/A:P",
+    "product": "[\"Huawei HarmonyOS 5.0.0\"]",
+    "cve": "CVE-2024-57956",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS interpreter string模块存在越界读取漏洞，攻击者可利用该漏洞导致可用性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://consumer.huawei.com/en/support/bulletin/2025/2/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2025/2/",
+    "patch": "Huawei HarmonyOS interpreter string模块越界读取漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-04-01",
+    "update_time": "2025-04-01",
+    "data_summary": "422bf5c1702c954f64130c77d77240c2"
+}
