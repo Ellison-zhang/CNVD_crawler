@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-01 02:33:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06195",
+    "spider_time": 1743474812107,
+    "name": "ChuanhuChatGPT资源管理错误漏洞（CNVD-2025-06195）",
+    "cnvd": "CNVD-2025-06195",
+    "publish": "2025-04-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"ChuanhuChatGPT ChuanhuChatGPT 20240628\"]",
+    "cve": "CVE-2024-7807",
+    "description": "ChuanhuChatGPT是一款应用程序，为ChatGPT等多种LLM提供了一个轻快好用的Web图形界面和众多附加功能。ChuanhuChatGPT 20240628版本存在资源管理错误漏洞，该漏洞源于不受控制的资源消耗可能导致服务长时间不可用，攻击者可利用此漏洞造成应用拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://huntr.com/bounties/db67276d-36ee-4487-9165-b621c67ef8a3",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/tag/20240914",
+    "patch": "ChuanhuChatGPT资源管理错误漏洞（CNVD-2025-06195）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-07",
+    "open_time": "2025-04-01",
+    "update_time": "2025-04-01",
+    "data_summary": "fdcaa4f4e6d4970f1eec4721b5f5fc57"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-01 02:33:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06185",
+    "spider_time": 1743474832867,
+    "name": "ChuanhuChatGPT拒绝服务漏洞",
+    "cnvd": "CNVD-2025-06185",
+    "publish": "2025-03-31",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"ChuanhuChatGPT ChuanhuChatGPT 20240918\"]",
+    "cve": "CVE-2024-10650",
+    "description": "ChuanhuChatGPT是一款应用程序，为ChatGPT等多种LLM提供了一个轻快好用的Web图形界面和众多附加功能。ChuanhuChatGPT 20240918版本存在拒绝服务漏洞，攻击者可利用此漏洞通过发送特定格式的数据使系统持续处理字符，导致服务长时间不可用。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://huntr.com/bounties/f820371d-a878-44bf-b1fd-2d837dd58eb4",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://huntr.com/bounties/f820371d-a878-44bf-b1fd-2d837dd58eb4",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-04-01",
+    "update_time": "2025-04-01",
+    "data_summary": "9880f1616edf75f5a856b1f2b17932d3"
+}

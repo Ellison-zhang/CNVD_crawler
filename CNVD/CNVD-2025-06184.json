@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-01 02:33:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06184",
+    "spider_time": 1743474829865,
+    "name": "ChuanhuChatGPT安全绕过漏洞",
+    "cnvd": "CNVD-2025-06184",
+    "publish": "2025-03-31",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:N",
+    "product": "[\"ChuanhuChatGPT ChuanhuChatGPT 3856d4f\"]",
+    "cve": "CVE-2024-9216",
+    "description": "ChuanhuChatGPT是一款应用程序，为ChatGPT等多种LLM提供了一个轻快好用的Web图形界面和众多附加功能。ChuanhuChatGPT存在安全绕过漏洞，该漏洞源于用户名通过客户端HTTP请求提供，攻击者可利用此漏洞导致身份验证绕过，读取和删除其他用户的聊天记录。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://huntr.com/bounties/21e54c3f-e2d7-423b-9890-1f0cb99af4dd",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://huntr.com/bounties/21e54c3f-e2d7-423b-9890-1f0cb99af4dd",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-04-01",
+    "update_time": "2025-04-01",
+    "data_summary": "66a2787118c33f4da585045acff6c896"
+}
