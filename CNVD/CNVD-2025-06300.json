@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-02 08:05:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06300",
+    "spider_time": 1743581149644,
+    "name": "Xiaomi Mi Sound信息泄露漏洞",
+    "cnvd": "CNVD-2025-06300",
+    "publish": "2025-04-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Xiaomi Sound <=2.2.40\"]",
+    "cve": "CVE-2020-14126",
+    "description": "Xiaomi Mi Sound是中国小米（Xiaomi）公司的一款智能音响APP。Xiaomi Mi Sound存在信息泄露漏洞，该漏洞源于部分接口可以被远程调用，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2020-14126",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://trust.mi.com/zh-CN/misrc/bulletins/advisory?cveId=278",
+    "patch": "Xiaomi Mi Sound信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-08-06",
+    "open_time": "2025-04-02",
+    "update_time": "2025-04-02",
+    "data_summary": "031327fe22f0a255391876a5856f4189"
+}

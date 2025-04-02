@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-02 08:05:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06297",
+    "spider_time": 1743581137558,
+    "name": "Xiaomi cloud service Application跨站脚本漏洞",
+    "cnvd": "CNVD-2025-06297",
+    "publish": "2025-04-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Xiaomi Xiaomi cloud service Application <=1.12.0.0.25\"]",
+    "cve": "CVE-2023-26316",
+    "description": "Xiaomi cloud service Application是中国小米（Xiaomi）公司的一款云服务APP。Xiaomi cloud service Application存在跨站脚本漏洞，该漏洞源于白名单检查功能允许加载javascript协议，攻击者可以利用该漏洞窃取帐户的cookie。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-26316",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://trust.mi.com/zh-CN/misrc/bulletins/advisory?cveId=322",
+    "patch": "Xiaomi cloud service Application跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-08-06",
+    "open_time": "2025-04-02",
+    "update_time": "2025-04-02",
+    "data_summary": "3ef809a4339fe24857e67b08b9473916"
+}

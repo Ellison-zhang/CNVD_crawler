@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-02 08:06:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06284",
+    "spider_time": 1743581178617,
+    "name": "NVIDIA Riva访问控制错误漏洞",
+    "cnvd": "CNVD-2025-06284",
+    "publish": "2025-04-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"NVIDIA Riva\"]",
+    "cve": "CVE-2025-23242",
+    "description": "NVIDIA Riva 是NVIDIA发布的一个完全加速的对话式AI 应用框架，用于构建使用端到端的多模态对话式AI服务。NVIDIA Riva存在访问控制错误漏洞，攻击者可利用该漏洞篡改数据，造成服务拒绝或信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-23242",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5625",
+    "patch": "NVIDIA Riva访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-17",
+    "open_time": "2025-04-02",
+    "update_time": "2025-04-02",
+    "data_summary": "1b7e3941fee8f28603668a350f723589"
+}

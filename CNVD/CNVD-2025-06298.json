@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-02 08:05:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06298",
+    "spider_time": 1743581140858,
+    "name": "Xiaomi router命令注入漏洞（CNVD-2025-06298）",
+    "cnvd": "CNVD-2025-06298",
+    "publish": "2025-04-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:C/A:P",
+    "product": "[\"Xiaomi Xiaomi router <2023.2\"]",
+    "cve": "CVE-2023-26317",
+    "description": "Xiaomi router是中国小米（Xiaomi）公司的一系列无线路由器。Xiaomi routers存在命令注入漏洞，该漏洞源于对外接口返回的响应过滤不足，攻击者可以利用该漏洞通过劫持ISP或上层路由器来获取权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-26317",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://trust.mi.com/zh-CN/misrc/bulletins/advisory?cveId=529",
+    "patch": "Xiaomi router命令执行漏洞（CNVD-2025-06298）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-08-06",
+    "open_time": "2025-04-02",
+    "update_time": "2025-04-02",
+    "data_summary": "ea5d3b6d556ae36fc3db9931769bd124"
+}

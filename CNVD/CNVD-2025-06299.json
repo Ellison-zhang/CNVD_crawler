@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-02 08:05:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06299",
+    "spider_time": 1743581146421,
+    "name": "Xiaomi SmartHome APP信息泄露漏洞",
+    "cnvd": "CNVD-2025-06299",
+    "publish": "2025-04-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Xiaomi SmartHome <=6.4.701\"]",
+    "cve": "CVE-2020-14114",
+    "description": "Xiaomi SmartHome APP是中国小米（Xiaomi）公司的一款管理小米智能家居产品的应用。Xiaomi SmartHome APP存在信息泄露漏洞，该漏洞源于部分接口远程调用造成的，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2020-14114",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://trust.mi.com/zh-CN/misrc/bulletins/advisory?cveId=277",
+    "patch": "Xiaomi SmartHome APP信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-08-06",
+    "open_time": "2025-04-02",
+    "update_time": "2025-04-02",
+    "data_summary": "32d795f4237ed38d3519b4274945a484"
+}

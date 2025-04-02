@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-02 08:06:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06286",
+    "spider_time": 1743581195623,
+    "name": "NVIDIA vGPU Software资源管理错误漏洞",
+    "cnvd": "CNVD-2025-06286",
+    "publish": "2025-04-01",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"NVIDIA virtual gpu >=11.0\\uff0c<11.8\", \"NVIDIA virtual gpu >=13.0\\uff0c<13.3\", \"NVIDIA virtual gpu 14.0\", \"NVIDIA virtual gpu 14.1\"]",
+    "cve": "CVE-2022-31614",
+    "description": "NVIDIA vGPU Software是美国英伟达（NVIDIA）公司的一个用于为虚拟机提供GPU功能的管理软件。NVIDIA vGPU Software存在资源管理错误漏洞，该漏洞源于双重释放某些资源，攻击者可利用该漏洞导致拒绝服务、代码执行和信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-31614",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5383",
+    "patch": "NVIDIA vGPU Software资源管理错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-08-10",
+    "open_time": "2025-04-02",
+    "update_time": "2025-04-02",
+    "data_summary": "cb6644d6f931a3e801b61645ef6c7213"
+}
