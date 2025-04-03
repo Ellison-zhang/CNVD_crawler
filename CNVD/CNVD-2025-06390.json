@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-03 02:36:07",
+    "parse_time": "2025-04-03 03:19:13",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06390",
-    "spider_time": 1743647767581,
+    "spider_time": 1743650353027,
     "name": "Real Estate Property Management System存在SQL注入漏洞",
     "cnvd": "CNVD-2025-06390",
     "publish": "2025-03-28",
