@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-03 04:08:01",
+    "parse_time": "2025-04-03 05:13:35",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06391",
-    "spider_time": 1743653281791,
+    "spider_time": 1743657215532,
     "name": "dingfanzu存在SQL注入漏洞",
     "cnvd": "CNVD-2025-06391",
     "publish": "2025-03-28",
