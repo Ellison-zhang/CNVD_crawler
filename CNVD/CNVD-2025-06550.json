@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-03 09:04:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06550",
+    "spider_time": 1743671067828,
+    "name": "Apple macOS资源管理错误漏洞",
+    "cnvd": "CNVD-2025-06550",
+    "publish": "2025-04-03",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"Apple macOS Sequoia <15\"]",
+    "cve": "CVE-2024-54546",
+    "description": "Apple macOS是美国苹果（Apple）公司的一套专为Mac计算机所开发的专用操作系统。Apple macOS Sequoia存在安全漏洞，该漏洞源于内存处理改进，攻击者可利用该漏洞导致系统意外终止或内核内存损坏。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-54546",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.apple.com/en-us/121238",
+    "patch": "Apple macOS资源管理错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-04-03",
+    "update_time": "2025-04-03",
+    "data_summary": "5ddaee734e15103e53346dd9ab035535"
+}

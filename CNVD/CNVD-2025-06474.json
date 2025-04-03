@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-03 09:04:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06474",
+    "spider_time": 1743671050406,
+    "name": "CicadasCMS代码注入漏洞（CNVD-2025-06474）",
+    "cnvd": "CNVD-2025-06474",
+    "publish": "2025-04-03",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"CicadasCMS CicadasCMS 1.0\"]",
+    "cve": "CVE-2025-2623",
+    "description": "CicadasCMS是一款内容管理系统。CicadasCMS代码注入漏洞，攻击者可利用该漏洞进行跨站脚本攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-2623",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新:\nhttps://gitee.com/coolengie/CicadasCMS/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-04-03",
+    "update_time": "2025-04-03",
+    "data_summary": "25ee4960170a7d08ea1904e4ec2778ff"
+}

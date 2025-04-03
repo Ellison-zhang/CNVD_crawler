@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-03 09:04:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06547",
+    "spider_time": 1743671099310,
+    "name": "Tencent Libpag缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-06547",
+    "publish": "2025-04-03",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tencent  Libpag v4.3\"]",
+    "cve": "CVE-2024-33078",
+    "description": "Tencent Libpag是一款腾讯公司推出的动画库。Tencent Libpag存在缓冲区溢出漏洞，攻击者可利用该漏洞提交特殊的请求，可使应用程序崩溃或以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-33078",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tencent.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-06",
+    "open_time": "2025-04-03",
+    "update_time": "2025-04-03",
+    "data_summary": "8bc4daa8c5ffc72bd396067863feb691"
+}
