@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-03 07:13:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06465",
+    "spider_time": 1743664424962,
+    "name": "山东硕创信息科技有限公司农药追溯系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-06465",
+    "publish": "2025-03-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u5c71\\u4e1c\\u7855\\u521b\\u4fe1\\u606f\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u519c\\u836f\\u8ffd\\u6eaf\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "山东硕创信息科技有限公司是专业从事企业产品防伪溯源管理系统信息平台建设、防伪标识生产、软硬件技术开发系统集成的企业。山东硕创信息科技有限公司农药追溯系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.shuochuangkeji.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-10",
+    "open_time": "2025-04-03",
+    "update_time": "2025-04-03",
+    "data_summary": "78b1f66454ac3afebf59bb919a90e7fe"
+}

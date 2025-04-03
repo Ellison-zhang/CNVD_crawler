@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-03 07:13:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06469",
+    "spider_time": 1743664407352,
+    "name": "上海博达数据通信有限公司上网行为管理与审计系统存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-06469",
+    "publish": "2025-03-27",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"\\u4e0a\\u6d77\\u535a\\u8fbe\\u6570\\u636e\\u901a\\u4fe1\\u6709\\u9650\\u516c\\u53f8 \\u4e0a\\u7f51\\u884c\\u4e3a\\u7ba1\\u7406\\u4e0e\\u5ba1\\u8ba1\\u7cfb\\u7edf v5.0\"]",
+    "cve": null,
+    "description": "上海博达数据通信有限公司是一家集研发、生产、销售于一体的高新技术企业。上海博达数据通信有限公司上网行为管理与审计系统存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.bdcom.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-10",
+    "open_time": "2025-04-03",
+    "update_time": "2025-04-03",
+    "data_summary": "354d47d56e9279528bcaae9fe629769a"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-03 07:13:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06467",
+    "spider_time": 1743664416637,
+    "name": "深圳市必联电子有限公司BL-WR1300H存在弱口令漏洞",
+    "cnvd": "CNVD-2025-06467",
+    "publish": "2025-03-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u5fc5\\u8054\\u7535\\u5b50\\u6709\\u9650\\u516c\\u53f8 BL-WR1300H 1.0\"]",
+    "cve": null,
+    "description": "深圳市必联电子有限公司是一家专业生产无线网络设备,提供家用WiFi、商业WiFi设备的优质厂商。深圳市必联电子有限公司BL-WR1300H存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.b-link.net.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-10",
+    "open_time": "2025-04-03",
+    "update_time": "2025-04-03",
+    "data_summary": "9ce75f8e40d832b4692d9456b56f1bb3"
+}
