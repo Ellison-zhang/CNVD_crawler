@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-03 02:37:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06385",
+    "spider_time": 1743647866520,
+    "name": "奥琦玮科技（江苏）有限公司喰星云-数字化餐饮服务系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-06385",
+    "publish": "2025-03-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u5965\\u7426\\u73ae\\u79d1\\u6280\\uff08\\u6c5f\\u82cf\\uff09\\u6709\\u9650\\u516c\\u53f8 \\u55b0\\u661f\\u4e91-\\u6570\\u5b57\\u5316\\u9910\\u996e\\u670d\\u52a1\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "奥琦玮科技（江苏）有限公司是一家以从事科技推广和应用服务业为主的企业。奥琦玮科技（江苏）有限公司喰星云-数字化餐饮服务系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.acewill.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-11",
+    "open_time": "2025-04-03",
+    "update_time": "2025-04-03",
+    "data_summary": "af8fc33a92a215336c85d19005ce550c"
+}

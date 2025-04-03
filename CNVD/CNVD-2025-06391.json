@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-03 02:36:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06391",
+    "spider_time": 1743647763792,
+    "name": "dingfanzu存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-06391",
+    "publish": "2025-03-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"dingfanzu dingfanzu\"]",
+    "cve": null,
+    "description": "‌DingFanzu是一个基于Git的开源项目，旨在提供一个简单易用、功能丰富的代码托管平台‌。dingfanzu存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://github.com/geeeeeeeek/dingfanzu",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-11",
+    "open_time": "2025-04-03",
+    "update_time": "2025-04-03",
+    "data_summary": "211cd383e76de9d2697b0430e8ce2ab3"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-03 02:37:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06384",
+    "spider_time": 1743647870680,
+    "name": "北京三维天地科技股份有限公司主数据管理平台存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-06384",
+    "publish": "2025-03-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u4e09\\u7ef4\\u5929\\u5730\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u4e3b\\u6570\\u636e\\u7ba1\\u7406\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "北京三维天地科技股份有限公司是一家专注于检验检测信息化和数据资产管理领域的软件开发服务商‌。北京三维天地科技股份有限公司主数据管理平台存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.sunwayworld.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-11",
+    "open_time": "2025-04-03",
+    "update_time": "2025-04-03",
+    "data_summary": "7a3752ba0128d3fbc7d4277c75ae8d94"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-03 02:35:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06392",
+    "spider_time": 1743647758415,
+    "name": "熵基科技股份有限公司百傲瑞达5000存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-06392",
+    "publish": "2025-03-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u71b5\\u57fa\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u767e\\u50b2\\u745e\\u8fbe5000\"]",
+    "cve": null,
+    "description": "熵基科技股份有限公司是一家基于“人、车、物”出入口时间和安全管理系统产品及解决方案的全球提供商。熵基科技股份有限公司百傲瑞达5000存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.zkteco.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-11",
+    "open_time": "2025-04-03",
+    "update_time": "2025-04-03",
+    "data_summary": "b730397172231520724821ff2f16e0a3"
+}
