@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-04 12:07:33",
+    "parse_time": "2025-04-04 13:11:41",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06287",
-    "spider_time": 1743768453231,
+    "spider_time": 1743772301351,
     "name": "NVIDIA Windows GPU Display Driver输入验证错误漏洞",
     "cnvd": "CNVD-2025-06287",
     "publish": "2025-04-01",
