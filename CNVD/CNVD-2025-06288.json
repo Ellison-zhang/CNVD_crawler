@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-04 14:07:27",
+    "parse_time": "2025-04-04 15:06:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06288",
-    "spider_time": 1743775647196,
+    "spider_time": 1743779160441,
     "name": "NVIDIA vGPU Software输入验证错误漏洞",
     "cnvd": "CNVD-2025-06288",
     "publish": "2025-04-01",
