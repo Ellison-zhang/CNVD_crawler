@@ -1,15 +1,15 @@
 {
-    "parse_time": "2025-04-07 22:05:52",
+    "parse_time": "2025-04-07 23:05:33",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06292",
-    "spider_time": 1744063552923,
-    "name": "NVIDIA SHIELD Experience缓冲区错误漏洞",
+    "spider_time": 1744067133053,
+    "name": "NVIDIA SHIELD Experience缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-06292",
     "publish": "2025-04-01",
     "severity": "中",
     "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:P/A:P",
     "product": "[\"NVIDIA SHIELD Experience <9.0\"]",
     "cve": "CVE-2021-34402",
-    "description": "NVIDIA SHIELD Experience是美国英伟达（Nvidia）公司的一款流媒体播放器。NVIDIA SHIELD Experience存在缓冲区错误漏洞，该漏洞源于NVIDIA Tegra内核驱动程序中的NVIDIA NVDEC中的边界错误。 攻击者可利用该漏洞触发内存损坏并执行任意代码。",
+    "description": "NVIDIA SHIELD Experience是美国英伟达（Nvidia）公司的一款流媒体播放器。NVIDIA SHIELD Experience存在缓冲区溢出漏洞，该漏洞源于NVIDIA Tegra内核驱动程序中的NVIDIA NVDEC中的边界错误。 攻击者可利用该漏洞触发内存损坏并执行任意代码。",
     "flaw_type": "通用型漏洞",
     "reference": "https://nvd.nist.gov/vuln/detail/CVE-2021-34402",
     "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5259",
@@ -18,5 +18,5 @@
     "submit_time": "2022-01-16",
     "open_time": "2025-04-02",
     "update_time": "2025-04-02",
-    "data_summary": "1fefb9aefe85b6dcfcee70cf04b3d14b"
+    "data_summary": "285eb56f70b4589e38b5db3b7d19a8e8"
 }
