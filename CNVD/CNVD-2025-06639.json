@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-08 09:06:30",
+    "parse_time": "2025-04-08 10:05:33",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06639",
-    "spider_time": 1744103190687,
+    "spider_time": 1744106733521,
     "name": "武汉阿迪克电子股份有限公司抄表收费管理系统存在SQL注入漏洞",
     "cnvd": "CNVD-2025-06639",
     "publish": "2025-04-07",
