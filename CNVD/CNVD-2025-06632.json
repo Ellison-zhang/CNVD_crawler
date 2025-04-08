@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-08 07:09:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06632",
+    "spider_time": 1744096147226,
+    "name": "taocms存在任意文件读取漏洞",
+    "cnvd": "CNVD-2025-06632",
+    "publish": "2025-04-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"TaoCMS taoCMS\", \"TaoCMS taoCMS v3.0.2\"]",
+    "cve": null,
+    "description": "TAOCMS是一个轻量级的内容管理系统（CMS），基于PHP语言开发，支持MySQL和SQLite数据库‌。taocms存在任意文件读取漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://github.com/taogogo/taocms",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-21",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-08",
+    "data_summary": "7733011a1eefa68ece5f13ad41c26e1b"
+}

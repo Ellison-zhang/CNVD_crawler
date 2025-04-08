@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-08 07:09:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06630",
+    "spider_time": 1744096160383,
+    "name": "北京友数聚科技有限公司CPAS审计管理系统存在任意文件读取漏洞",
+    "cnvd": "CNVD-2025-06630",
+    "publish": "2025-04-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u53cb\\u6570\\u805a\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 CPAS\\u5ba1\\u8ba1\\u7ba1\\u7406\\u7cfb\\u7edf 4.6\"]",
+    "cve": null,
+    "description": "北京友数聚科技有限公司是一家专注于社会审计信息化软件产品、解决方案、事务所管理、数据及技术服务的高新技术企业。北京友数聚科技有限公司CPAS审计管理系统存在任意文件读取漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.youdatasum.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-21",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-08",
+    "data_summary": "251a05340685eb5745c1da500516edfa"
+}

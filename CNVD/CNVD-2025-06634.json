@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-08 07:08:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06634",
+    "spider_time": 1744096135416,
+    "name": "瀚高基础软件股份有限公司Highgo JDBC Drive存在命令执行漏洞",
+    "cnvd": "CNVD-2025-06634",
+    "publish": "2025-04-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u701a\\u9ad8\\u57fa\\u7840\\u8f6f\\u4ef6\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 HgdbJdbc 6.2.4\", \"\\u701a\\u9ad8\\u57fa\\u7840\\u8f6f\\u4ef6\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 Highgo JDBC Drive 6.2.4\"]",
+    "cve": null,
+    "description": "瀚高基础软件股份有限公司是一家专注于数据库管理系统研发、销售与服务的公司。瀚高基础软件股份有限公司Highgo JDBC Drive存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.highgo.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-21",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-08",
+    "data_summary": "9bd06b01fad8e9583a0f41d612d0922c"
+}

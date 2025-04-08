@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-08 07:07:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06642",
+    "spider_time": 1744096032440,
+    "name": "北京百度网讯科技有限公司PaddlePaddle存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-06642",
+    "publish": "2025-04-07",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"\\u5317\\u4eac\\u767e\\u5ea6\\u7f51\\u8baf\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 PaddlePaddle 3.0.0-beta0 Release Note\"]",
+    "cve": null,
+    "description": "北京百度网讯科技有限公司是一家以从事互联网和相关服务为主的企业。北京百度网讯科技有限公司PaddlePaddle存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.paddlepaddle.org/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-21",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-08",
+    "data_summary": "979a052a30d05a3d78349cd969befaba"
+}

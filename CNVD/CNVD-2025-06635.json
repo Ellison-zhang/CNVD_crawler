@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-08 07:05:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06635",
+    "spider_time": 1744095947630,
+    "name": "Delta Electronics CNCSoft-B堆栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-06635",
+    "publish": "2025-04-08",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Delta Electronics CNCSoft-B <=1.0.0.4\"]",
+    "cve": "CVE-2024-1941",
+    "description": "Delta Electronics CNCSoft-B是中国台湾台达电子（Delta Electronics）公司的一款数控机床仿真系统软件。Delta Electronics CNCSoft-B存在堆栈缓冲区溢出漏洞，该漏洞源于程序未能正确验证输入数据的长度大小，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-060-01",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://downloadcenter.deltaww.com/en-US/DownloadCenter?v=1&q=cncsoft&sort_expr=cdate&sort_dir=DESC",
+    "patch": "Delta Electronics CNCSoft-B堆栈缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-06",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-08",
+    "data_summary": "b17ee250518426608173803a1c8b6bd7"
+}

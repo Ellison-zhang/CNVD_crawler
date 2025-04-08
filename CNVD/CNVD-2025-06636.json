@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-08 07:08:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06636",
+    "spider_time": 1744096131230,
+    "name": "深圳市乙辰科技股份有限公司JCG路由器存在弱口令漏洞",
+    "cnvd": "CNVD-2025-06636",
+    "publish": "2025-04-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u4e59\\u8fb0\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 JCG\\u8def\\u7531\\u5668\"]",
+    "cve": null,
+    "description": "深圳市乙辰科技股份有限公司是一家集研发、生产及销售为一体的全能型公司，专注于网络通讯产业高端设备制造与技术研发。深圳市乙辰科技股份有限公司JCG路由器存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.jcgcom.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-21",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-08",
+    "data_summary": "624e78627aa31d1f19d4df18db3ef3d6"
+}

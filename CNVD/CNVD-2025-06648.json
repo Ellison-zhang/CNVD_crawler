@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-08 07:06:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06648",
+    "spider_time": 1744096014430,
+    "name": "青岛海信网络科技股份有限公司智能公交企业管理系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-06648",
+    "publish": "2025-04-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u9752\\u5c9b\\u6d77\\u4fe1\\u7f51\\u7edc\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u667a\\u80fd\\u516c\\u4ea4\\u4f01\\u4e1a\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "青岛海信网络科技股份有限公司是海信集团信息产业板块的核心力量，主要从事智慧城市、智慧交通、公共安全、轨道交通和智慧建筑等领域的业务。青岛海信网络科技股份有限公司智能公交企业管理系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.hisense-transtech.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-21",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-08",
+    "data_summary": "8cde738facc150a9aa61062531d88d50"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-08 07:04:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06626",
+    "spider_time": 1744095856490,
+    "name": "Delta Electronics DIAEnergie SQL注入漏洞（CNVD-2025-06626）",
+    "cnvd": "CNVD-2025-06626",
+    "publish": "2025-04-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Delta Electronics DIAEnergie <1.10.00.005\"]",
+    "cve": "CVE-2024-28040",
+    "description": "Delta Electronics DIAEnergie是中国台湾台达电子（Delta Electronics）公司的一个工业能源管理系统，用于实时监控和分析能源消耗、计算能源消耗和负载特性、优化设备性能、改进生产流程并最大限度地提高能源效率。Delta Electronics DIAEnergie v1.10.00.005之前版本存在SQL注入漏洞，攻击者可利用该漏洞查看、添加、修改或删除后端数据库中的信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-28040/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.deltaww.com/",
+    "patch": "Delta Electronics DIAEnergie SQL注入漏洞（CNVD-2025-06626）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-26",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-08",
+    "data_summary": "e1b13e8345953ff97b7dce6b597c15bc"
+}

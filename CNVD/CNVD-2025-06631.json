@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-08 07:09:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06631",
+    "spider_time": 1744096151404,
+    "name": "福建新大陆通信科技股份有限公司应急广播平台存在命令执行漏洞",
+    "cnvd": "CNVD-2025-06631",
+    "publish": "2025-04-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u798f\\u5efa\\u65b0\\u5927\\u9646\\u901a\\u4fe1\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u5e94\\u6025\\u5e7f\\u64ad\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "福建新大陆通信科技股份有限公司是一家专注于提供智慧终端解决方案与服务的高科技企业‌。福建新大陆通信科技股份有限公司应急广播平台存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.newland.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-21",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-08",
+    "data_summary": "9ebd1a59e444a6f2bfcef44689eb48df"
+}

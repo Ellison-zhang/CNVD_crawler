@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-08 07:08:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06638",
+    "spider_time": 1744096121822,
+    "name": "河南新天软件技术有限公司智慧水务营业收费管理系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-06638",
+    "publish": "2025-04-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u6cb3\\u5357\\u65b0\\u5929\\u8f6f\\u4ef6\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 \\u667a\\u6167\\u6c34\\u52a1\\u8425\\u4e1a\\u6536\\u8d39\\u7ba1\\u7406\\u7cfb\\u7edf v3.0\"]",
+    "cve": null,
+    "description": "河南新天软件技术有限公司是一家主要从事计算机软件开发、数据处理、建筑智能化工程设计及施工等业务‌的公司。河南新天软件技术有限公司智慧水务营业收费管理系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.sunaas.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-21",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-08",
+    "data_summary": "3c68b5e8a4476215c9f0ec6a119907a8"
+}

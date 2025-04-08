@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-08 07:08:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06637",
+    "spider_time": 1744096126947,
+    "name": "上海卓卓网络科技有限公司dedecms存在命令执行漏洞",
+    "cnvd": "CNVD-2025-06637",
+    "publish": "2025-04-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u4e0a\\u6d77\\u5353\\u5353\\u7f51\\u7edc\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 DedeCMS v5.7.117\"]",
+    "cve": null,
+    "description": "DEDECMS是一个基于PHP和MySQL的开源内容管理系统。上海卓卓网络科技有限公司dedecms存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.dedecms.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-21",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-08",
+    "data_summary": "022bdcc6130a44924a03d083b3c13ba0"
+}
