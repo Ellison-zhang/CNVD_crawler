@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-08 12:06:26",
+    "parse_time": "2025-04-08 13:12:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06643",
-    "spider_time": 1744113986808,
+    "spider_time": 1744117920164,
     "name": "北京百度网讯科技有限公司PaddlePaddle存在命令执行漏洞",
     "cnvd": "CNVD-2025-06643",
     "publish": "2025-04-07",
