@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-08 11:04:28",
+    "parse_time": "2025-04-08 12:06:12",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06649",
-    "spider_time": 1744110268513,
+    "spider_time": 1744113972026,
     "name": "JeecgBoot存在SQL注入漏洞",
     "cnvd": "CNVD-2025-06649",
     "publish": "2025-04-07",
