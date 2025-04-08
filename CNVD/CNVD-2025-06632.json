@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-08 10:06:07",
+    "parse_time": "2025-04-08 11:05:27",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06632",
-    "spider_time": 1744106767733,
+    "spider_time": 1744110327402,
     "name": "taocms存在任意文件读取漏洞",
     "cnvd": "CNVD-2025-06632",
     "publish": "2025-04-07",
