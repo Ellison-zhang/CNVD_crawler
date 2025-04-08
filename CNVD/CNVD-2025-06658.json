@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-08 16:06:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06658",
+    "spider_time": 1744128418283,
+    "name": "珠海奔图打印科技有限公司Pantum-M6000系列打印机存在弱口令漏洞",
+    "cnvd": "CNVD-2025-06658",
+    "publish": "2025-04-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u73e0\\u6d77\\u5954\\u56fe\\u6253\\u5370\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 Pantum-M6000\\u7cfb\\u5217\\u6253\\u5370\\u673a\"]",
+    "cve": null,
+    "description": "Pantum-M6000是一款多功能激光一体机，具备打印、复印和扫描功能。珠海奔图打印科技有限公司Pantum-M6000系列打印机存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.pantum.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-23",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-08",
+    "data_summary": "a4ac22d8eead14b1da5e07981f31e3c0"
+}

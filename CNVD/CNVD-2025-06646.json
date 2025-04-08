@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-08 16:06:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06646",
+    "spider_time": 1744128396466,
+    "name": "IBM Aspera Shares XML外部实体注入漏洞（CNVD-2025-06646）",
+    "cnvd": "CNVD-2025-06646",
+    "publish": "2025-04-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:P",
+    "product": "[\"IBM IBM Aspera Shares >=1.9.9\\uff0c<=1.10.0 PL7\"]",
+    "cve": "CVE-2025-0162",
+    "description": "IBM Aspera Shares是美国国际商业机器（IBM）公司的一个Web应用程序。IBM Aspera Shares 1.9.9至1.10.0 PL7版本存在XML外部实体注入漏洞，该漏洞源于网络系统或产品未设置正确的过滤允许引用外部实体，攻击者可利用该漏洞暴露敏感信息或消耗内存资源。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-0162",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7185096",
+    "patch": "IBM Aspera Shares XML外部实体注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-08",
+    "data_summary": "92d3ef57530304f3714fb9cf2e47b703"
+}

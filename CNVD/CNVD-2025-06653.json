@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-08 16:07:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06653",
+    "spider_time": 1744128427329,
+    "name": "领航未来（北京）科技有限公司微知库存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-06653",
+    "publish": "2025-04-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u9886\\u822a\\u672a\\u6765\\uff08\\u5317\\u4eac\\uff09\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u5fae\\u77e5\\u5e93\"]",
+    "cve": null,
+    "description": "领航未来（北京）科技有限公司是一家以从事科技推广和应用服务业为主的企业。领航未来（北京）科技有限公司微知库存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.36ve.net",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-23",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-08",
+    "data_summary": "2939b3f11ce60a2f2bc2f400dad2daf8"
+}

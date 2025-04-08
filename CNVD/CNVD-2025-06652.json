@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-08 16:07:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06652",
+    "spider_time": 1744128440689,
+    "name": "DormitoryManager存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-06652",
+    "publish": "2025-04-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"DormitoryManager DormitoryManager\"]",
+    "cve": null,
+    "description": "DormitoryManager是一款网络宿舍管理系统。DormitoryManager存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "暂无",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-23",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-08",
+    "data_summary": "11c9332df6799e0f8029655ec85a0212"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-08 16:06:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06659",
+    "spider_time": 1744128411523,
+    "name": "通州区华丽软件工作室华夏ERP存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-06659",
+    "publish": "2025-04-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u901a\\u5dde\\u533a\\u534e\\u4e3d\\u8f6f\\u4ef6\\u5de5\\u4f5c\\u5ba4 \\u534e\\u590fERP v3.5\"]",
+    "cve": null,
+    "description": "华夏ERP是一款旨在为中小型企业提供功能全面、易用的开源ERP解决方案。通州区华丽软件工作室华夏ERP存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.gyjerp.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-23",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-08",
+    "data_summary": "1bb0e44a7b76f12e83e7d6a5334a0a4f"
+}

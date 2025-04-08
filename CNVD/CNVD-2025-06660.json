@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-08 16:07:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06660",
+    "spider_time": 1744128436326,
+    "name": "DormitorySystem存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-06660",
+    "publish": "2025-04-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"DormitorySystem DormitorySystem\"]",
+    "cve": null,
+    "description": "DormitorySystem是一个宿舍管理系统。DormitorySystem存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://github.com/Joyrocky/DormitoryManager",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-23",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-08",
+    "data_summary": "63f9f31df2e53245a0473e7c1328ca0f"
+}
