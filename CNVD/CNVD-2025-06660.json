@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-08 16:07:16",
+    "parse_time": "2025-04-08 17:04:16",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06660",
-    "spider_time": 1744128436326,
+    "spider_time": 1744131856265,
     "name": "DormitorySystem存在SQL注入漏洞",
     "cnvd": "CNVD-2025-06660",
     "publish": "2025-04-09",
