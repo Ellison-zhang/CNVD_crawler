@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-09 17:05:02",
+    "parse_time": "2025-04-09 19:06:05",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06633",
-    "spider_time": 1744218302090,
+    "spider_time": 1744225565910,
     "name": "用友网络科技股份有限公司数据应用服务器存在SQL注入漏洞",
     "cnvd": "CNVD-2025-06633",
     "publish": "2025-04-07",
