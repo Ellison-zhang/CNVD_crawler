@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-09 02:30:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06811",
+    "spider_time": 1744165843909,
+    "name": "IBM Security ReaQta代码问题漏洞",
+    "cnvd": "CNVD-2025-06811",
+    "publish": "2025-04-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"IBM IBM Security ReaQta 3.12\"]",
+    "cve": "CVE-2024-45644",
+    "description": "IBM Security ReaQta是美国国际商业机器（IBM）公司的一个AI自主检测和响应平台。IBM Security ReaQta 3.12版本存在代码问题漏洞，该漏洞源于应用对上传的文件缺少有效的验证。攻击者可利用该漏洞上传恶意文件从而远程执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.ibm.com/support/pages/node/7186613",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7186613",
+    "patch": "IBM Security ReaQta代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-04-09",
+    "update_time": "2025-04-09",
+    "data_summary": "a6af8a3ad1c5c43955ffa94d2354dbc6"
+}
