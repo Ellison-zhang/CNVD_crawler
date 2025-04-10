@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 16:07:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06944",
+    "spider_time": 1744301243887,
+    "name": "PyTorch torch.nn.utils.rnn.unpack_sequence函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-06944",
+    "publish": "2025-04-11",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Pytorch Pytorch 2.6.0\"]",
+    "cve": "CVE-2025-2999",
+    "description": "PyTorch是PyTorch开源的一个Python包。PyTorch存在缓冲区溢出漏洞，该漏洞源于函数torch.nn.utils.rnn.unpack_sequence未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-2999",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/pytorch/pytorch/issues/149622",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-09",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "c88a16a2354d2134d7d78ab1d450068a"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 16:07:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06934",
+    "spider_time": 1744301255550,
+    "name": "Lunary存在未明漏洞（CNVD-2025-06934）",
+    "cnvd": "CNVD-2025-06934",
+    "publish": "2025-04-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:C/A:N",
+    "product": "[\"lunary lunary <1.6.3\"]",
+    "cve": "CVE-2024-11301",
+    "description": "Lunary是Lunary开源的一个LLM的生产工具包。Lunary 1.6.3之前版本存在安全漏洞，该漏洞源于未强制实施唯一约束，攻击者可利用此漏洞导致数据完整性问题。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/lunary-ai/lunary/commit/79dc370596d979b756f6ea0250d97a2d02385ecd",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/lunary-ai/lunary/releases/tag/v1.9.10",
+    "patch": "Lunary存在未明漏洞（CNVD-2025-06934）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "43b8b181749d2f5b9072d9788195c111"
+}
