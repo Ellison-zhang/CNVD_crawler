@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 09:05:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07020",
+    "spider_time": 1744275959095,
+    "name": "兄弟（中国）商业有限公司DCP-1610W series存在弱口令漏洞",
+    "cnvd": "CNVD-2025-07020",
+    "publish": "2025-04-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5144\\u5f1f\\uff08\\u4e2d\\u56fd\\uff09\\u5546\\u4e1a\\u6709\\u9650\\u516c\\u53f8 DCP-1610W series\"]",
+    "cve": null,
+    "description": "DCP-1610W series无线黑白激光复合机。兄弟（中国）商业有限公司DCP-1610W series存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.brother.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "5d3b143168f85391438b0c0180b52991"
+}

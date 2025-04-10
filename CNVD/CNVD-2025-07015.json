@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 09:06:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07015",
+    "spider_time": 1744275981290,
+    "name": "哈尔滨伟成科技有限公司YidaCMS存在命令执行漏洞",
+    "cnvd": "CNVD-2025-07015",
+    "publish": "2025-04-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u54c8\\u5c14\\u6ee8\\u4f1f\\u6210\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 YidaCMS JS3.8.0 20240312\\uff08ASP\\uff09\"]",
+    "cve": null,
+    "description": "YidaCMS是免费开源网站管理系统，是一款简单、实用、高效的网站建站软件。哈尔滨伟成科技有限公司YidaCMS存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.ourphp.net/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "7e40064744da210d46c1694843e9e369"
+}

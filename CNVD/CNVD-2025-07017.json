@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 09:06:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07017",
+    "spider_time": 1744275971603,
+    "name": "Toshiba e-STUDIO2020AC存在弱口令漏洞",
+    "cnvd": "CNVD-2025-07017",
+    "publish": "2025-04-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Toshiba e-STUDIO2020AC\"]",
+    "cve": null,
+    "description": "e-STUDIO2020AC是一款打印机。Toshiba e-STUDIO2020AC存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.toshiba.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "9afa1a88367d63985f24074844f7f817"
+}

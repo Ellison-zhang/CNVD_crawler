@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 09:06:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07019",
+    "spider_time": 1744275964286,
+    "name": "浙江大华技术股份有限公司智能物联综合管理平台存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-07019",
+    "publish": "2025-04-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"\\u6d59\\u6c5f\\u5927\\u534e\\u6280\\u672f\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u667a\\u80fd\\u7269\\u8054\\u7efc\\u5408\\u7ba1\\u7406\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "浙江大华技术股份有限公司是全球领先的以视频为核心的智慧物联解决方案提供商和运营服务商。浙江大华技术股份有限公司智能物联综合管理平台存在逻辑缺陷漏洞，攻击者可利用该漏洞重置任意用户密码。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.dahuatech.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "e29300307a8a0092f32292c578567c2c"
+}

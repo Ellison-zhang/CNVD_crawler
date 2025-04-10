@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-04-10 09:08:23",
-    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06984",
-    "spider_time": 1744276103223,
+    "parse_time": "2025-04-10 09:06:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07016",
+    "spider_time": 1744275977117,
     "name": "新晨科技股份有限公司黄金通二级系统三代管理端存在SQL注入漏洞",
-    "cnvd": "CNVD-2025-06984",
-    "publish": "2025-04-04",
+    "cnvd": "CNVD-2025-07016",
+    "publish": "2025-04-05",
     "severity": "中",
     "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
     "product": "[\"\\u65b0\\u6668\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u9ec4\\u91d1\\u901a\\u4e8c\\u7ea7\\u7cfb\\u7edf\\u4e09\\u4ee3\\u7ba1\\u7406\\u7aef\"]",
@@ -12,11 +12,11 @@
     "description": "新晨科技股份有限公司是以金融行业为核心，覆盖政府机构及大中型国有企事业单位等行业及领域的专业信息化解决方案与服务的供应商。新晨科技股份有限公司黄金通二级系统三代管理端存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
     "flaw_type": "通用型漏洞",
     "reference": null,
-    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.brilliance.com.cn/",
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.brilliance.com.cn",
     "patch": "(无补丁信息)",
     "verify": "已验证",
-    "submit_time": "2025-02-18",
+    "submit_time": "2025-02-19",
     "open_time": "2025-04-10",
     "update_time": "2025-04-10",
-    "data_summary": "ebac575511e02eefac7645574e54f5fd"
+    "data_summary": "14ffd657d8563aa4ee1237a9440223f6"
 }

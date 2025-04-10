@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 09:05:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07024",
+    "spider_time": 1744275940015,
+    "name": "北京镜舟科技有限公司StarRocks存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-07024",
+    "publish": "2025-04-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u955c\\u821f\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 StarRocks 3.4\"]",
+    "cve": null,
+    "description": "StarRocks是新一代极速全场景MPP数据库。北京镜舟科技有限公司StarRocks存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.mirrorship.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "0a77a914b51a44cb381bab4d81a947bf"
+}

@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-10 08:07:46",
+    "parse_time": "2025-04-10 09:07:55",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06990",
-    "spider_time": 1744272466576,
+    "spider_time": 1744276075295,
     "name": "Responsive Hotel Site Using PHP存在SQL注入漏洞",
     "cnvd": "CNVD-2025-06990",
     "publish": "2025-04-04",
