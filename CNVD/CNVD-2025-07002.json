@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-10 12:10:31",
+    "parse_time": "2025-04-10 13:13:51",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07002",
-    "spider_time": 1744287031773,
+    "spider_time": 1744290831208,
     "name": "Health Care hospital IN PHP存在SQL注入漏洞",
     "cnvd": "CNVD-2025-07002",
     "publish": "2025-04-05",
