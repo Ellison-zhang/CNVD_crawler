@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 08:07:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06999",
+    "spider_time": 1744272425524,
+    "name": "online-quiz-site-using-php-source-code存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-06999",
+    "publish": "2025-04-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"online-quiz-site-using-php-source-code online-quiz-site-using-php-source-code\"]",
+    "cve": null,
+    "description": "online-quiz-site-using-php-source-code是使用php源代码的在线问答网站。online-quiz-site-using-php-source-code存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注主页及时更新：\nhttps://code-projects.org/online-quiz-site-using-php-source-code/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "ce3b2cc65d2ffaf2c41898dfe6865871"
+}

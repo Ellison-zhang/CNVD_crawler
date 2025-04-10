@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 08:06:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07002",
+    "spider_time": 1744272411548,
+    "name": "Health Care hospital IN PHP存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-07002",
+    "publish": "2025-04-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Health Care hospital IN PHP Health Care hospital IN PHP\"]",
+    "cve": null,
+    "description": "Health Care hospital IN PHP旨在管理医院患者、员工和房间的详细信息。Health Care hospital IN PHP存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注主页及时更新：\nhttps://code-projects.org/health-care-hospital-in-php-css-js-and-mysql-free-download/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "efb42decaaba1349eb389ccf58c82d45"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 08:06:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07010",
+    "spider_time": 1744272393048,
+    "name": "TP-LINK TL-WR841ND存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-07010",
+    "publish": "2025-04-05",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:H/Au:S/C:N/I:N/A:C",
+    "product": "[\"TP-LINK TL-WR841ND V11\"]",
+    "cve": null,
+    "description": "TP-LINK TL-WR841ND是中国普联（TP-LINK）公司的一款无线路由器。TP-LINK TL-WR841ND存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.tp-link.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "d70d6a0b20448f89446b28733f59ac3b"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 08:08:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06986",
+    "spider_time": 1744272486506,
+    "name": "SATO CL4NX-JPlus存在弱口令漏洞",
+    "cnvd": "CNVD-2025-06986",
+    "publish": "2025-04-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"SATO CL4NX-JPlus\"]",
+    "cve": null,
+    "description": "CL4NX-Jplus是智能条码打印机。SATO CL4NX-JPlus存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.satochina.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "9295c92b51c5e6a6337badff47c943d6"
+}

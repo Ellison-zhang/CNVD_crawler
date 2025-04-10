@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 08:07:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06989",
+    "spider_time": 1744272469659,
+    "name": "libreoffice存在信息泄露漏洞",
+    "cnvd": "CNVD-2025-06989",
+    "publish": "2025-04-04",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"LibreOffice LibreOffice 24.8.3\"]",
+    "cve": null,
+    "description": "libreoffice是一套开源的办公软件套件。libreoffice存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.libreoffice.org/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "6b624b6e9bf08e532f71d6f45c23874c"
+}

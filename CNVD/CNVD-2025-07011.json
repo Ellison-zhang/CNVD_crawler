@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 08:06:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07011",
+    "spider_time": 1744272387806,
+    "name": "深圳市吉祥腾达科技有限公司AC6存在二进制漏洞",
+    "cnvd": "CNVD-2025-07011",
+    "publish": "2025-04-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u5409\\u7965\\u817e\\u8fbe\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 AC6 15.03.05.16\"]",
+    "cve": null,
+    "description": "AC6是一款专为百兆光纤家庭设计的11ac双频无线路由器。深圳市吉祥腾达科技有限公司AC6存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.tenda.com.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "96948e317904eba497a31e6b1b24bea6"
+}

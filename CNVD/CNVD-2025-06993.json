@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 08:07:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06993",
+    "spider_time": 1744272452955,
+    "name": "深圳市顶讯网络科技有限公司易宝OA系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-06993",
+    "publish": "2025-04-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u9876\\u8baf\\u7f51\\u7edc\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u6613\\u5b9dOA\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "深圳市顶讯网络科技有限公司成立于2003年，是一家专业为电子元器件代理、分销商提供IT整体解决方案的科技公司。深圳市顶讯网络科技有限公司易宝OA系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.topvision.me/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "53cef8c7c63308178db843668e359bdd"
+}

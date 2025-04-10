@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 08:08:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06983",
+    "spider_time": 1744272499351,
+    "name": "浙江湖州华卓信息科技有限公司互联网医生工作站存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-06983",
+    "publish": "2025-04-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6d59\\u6c5f\\u6e56\\u5dde\\u534e\\u5353\\u4fe1\\u606f\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u4e92\\u8054\\u7f51\\u533b\\u751f\\u5de5\\u4f5c\\u7ad9\"]",
+    "cve": null,
+    "description": "浙江湖州华卓信息科技有限公司成立于2015年，是专注于为医院、政府提供数智医疗解决方案的国家高新技术企业、浙江省专精特新中小企业。浙江湖州华卓信息科技有限公司互联网医生工作站存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.wowjoy.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "01e0a8fd3eea2e78b004a6f0cc8c47af"
+}

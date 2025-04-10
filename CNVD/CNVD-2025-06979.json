@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 08:08:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06979",
+    "spider_time": 1744272523646,
+    "name": "惠普贸易（上海）有限公司HP Color LaserJet Pro MFP M479fdw存在弱口令漏洞",
+    "cnvd": "CNVD-2025-06979",
+    "publish": "2025-04-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u60e0\\u666e\\u8d38\\u6613\\uff08\\u4e0a\\u6d77\\uff09\\u6709\\u9650\\u516c\\u53f8 HP Color LaserJet Pro MFP M479fdw\"]",
+    "cve": null,
+    "description": "HP Color LaserJet Pro MFP M479fdw是一款无线彩色激光打印机。惠普贸易（上海）有限公司HP Color LaserJet Pro MFP M479fdw存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.hp.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "77fd53768f0e91f5701f7cfc9f675003"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 08:08:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06985",
+    "spider_time": 1744272490515,
+    "name": "深圳市跨境伙伴网络科技有限公司T6国际物流专线管理系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-06985",
+    "publish": "2025-04-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u8de8\\u5883\\u4f19\\u4f34\\u7f51\\u7edc\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 T6\\u56fd\\u9645\\u7269\\u6d41\\u4e13\\u7ebf\\u7ba1\\u7406\\u7cfb\\u7edf V.25.02.21.03\"]",
+    "cve": null,
+    "description": "深圳市跨境伙伴网络科技有限公司成立于2017年，是一家以从事批发业为主的企业。深圳市跨境伙伴网络科技有限公司T6国际物流专线管理系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.t6soft.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "20487af051192bb521d7a9440f1217e1"
+}

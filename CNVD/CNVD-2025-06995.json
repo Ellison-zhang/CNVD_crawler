@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 08:07:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06995",
+    "spider_time": 1744272442487,
+    "name": "job-portal-using-php-source-code存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-06995",
+    "publish": "2025-04-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"job-portal-using-php-source-code job-portal-using-php-source-code\"]",
+    "cve": null,
+    "description": "job-portal-using-php-source-code是允许求职者和招聘人员建立联系，为求职者提供了创建自己的帐户、上传个人资料 和简历、搜索工作、申请工作的能力。job-portal-using-php-source-code存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注主页及时更新：\nhttps://code-projects.org/job-portal-using-php-source-code/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "566acd35c524038318f9f49ba3e83d0a"
+}

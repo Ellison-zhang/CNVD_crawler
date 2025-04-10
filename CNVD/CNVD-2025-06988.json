@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 08:07:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06988",
+    "spider_time": 1744272476345,
+    "name": "libreoffice存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-06988",
+    "publish": "2025-04-04",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"LibreOffice LibreOffice 24.8.3\"]",
+    "cve": null,
+    "description": "libreoffice是一套开源的办公软件套件。libreoffice存在逻辑缺陷漏洞，攻击者可利用该漏洞写入任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.libreoffice.org/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "8e2aa8d44ba9e69f63f47a28e8352f95"
+}

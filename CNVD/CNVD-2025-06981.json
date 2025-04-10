@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 08:08:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06981",
+    "spider_time": 1744272511914,
+    "name": "北京万户软件技术有限公司万户OA ezoffice存在任意文件下载漏洞",
+    "cnvd": "CNVD-2025-06981",
+    "publish": "2025-04-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u4e07\\u6237\\u8f6f\\u4ef6\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 \\u4e07\\u6237ezOFFICE\\u534f\\u540c\\u7ba1\\u7406\\u5e73\\u53f0 11.2.0.53\", \"\\u5317\\u4eac\\u4e07\\u6237\\u8f6f\\u4ef6\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 \\u4e07\\u6237OA ezoffice\"]",
+    "cve": null,
+    "description": "北京万户软件技术有限公司是一家专注于数字化办公协同领域的公司。北京万户软件技术有限公司万户OA ezoffice存在任意文件下载漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.whir.net/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "202eabc4a288aaa19f75e8b858b8cb60"
+}
