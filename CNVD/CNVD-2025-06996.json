@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-10 16:12:30",
+    "parse_time": "2025-04-10 17:13:25",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06996",
-    "spider_time": 1744301550268,
+    "spider_time": 1744305205479,
     "name": "pos-inventory-system-using-php-source-code存在SQL注入漏洞",
     "cnvd": "CNVD-2025-06996",
     "publish": "2025-04-05",
