@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 04:04:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06929",
+    "spider_time": 1744257855438,
+    "name": "phpIPAM跨站脚本漏洞（CNVD-2025-06929）",
+    "cnvd": "CNVD-2025-06929",
+    "publish": "2025-04-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:P/A:N",
+    "product": "[\"phpIPAM phpipam 1.7.3\"]",
+    "cve": "CVE-2024-55093",
+    "description": "phpIPAM是phpIPAM开源的一套开源的基于PHP和MySQL的IP地址管理应用程序（IPAM）。phpIPAM存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者利用该漏洞可以通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-55093",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://nvd.nist.gov/vuln/detail/CVE-2024-55093",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-09",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "1e6a55a649c51e4687cee6b7274d7cd3"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 04:04:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06931",
+    "spider_time": 1744257886734,
+    "name": "phpIPAM Device Management部分跨站脚本漏洞",
+    "cnvd": "CNVD-2025-06931",
+    "publish": "2025-04-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:C/A:C",
+    "product": "[\"phpIPAM phpipam 1.5.2\"]",
+    "cve": "CVE-2024-10720",
+    "description": "phpIPAM是phpIPAM开源的一套开源的基于PHP和MySQL的IP地址管理应用程序（IPAM）。phpIPAM 1.5.2版本存在跨站脚本漏洞，该漏洞源于Device Management部分对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/phpipam/phpipam/commit/c1697bb6c4e4a6403d69c0868e1eb1040f98b731",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/phpipam/phpipam/releases/tag/v1.7.3",
+    "patch": "phpIPAM Device Management部分跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "5b6b310964e1de758768ffc4a873734a"
+}

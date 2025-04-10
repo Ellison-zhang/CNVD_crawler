@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 04:04:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06928",
+    "spider_time": 1744257866024,
+    "name": "Mattermost授权问题漏洞",
+    "cnvd": "CNVD-2025-06928",
+    "publish": "2025-04-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"Mattermost Mattermost >=9.11.*\\uff0c<9.11.8\"]",
+    "cve": "CVE-2025-1472",
+    "description": "Mattermost是美国Mattermost公司的一个开源协作平台。Mattermost存在授权问题漏洞，该漏洞源于对Viewer角色的授权不当，攻击者可利用此漏洞仍能查看团队和站点统计信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1472",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://mattermost.com/security-updates/",
+    "patch": "Mattermost授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "69f5b530aefceecf16f2d193654ced5c"
+}

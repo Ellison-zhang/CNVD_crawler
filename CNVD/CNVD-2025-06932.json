@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 04:04:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06932",
+    "spider_time": 1744257870148,
+    "name": "Lunary /api/v1/data-warehouse/bigquery端点访问控制错误漏洞",
+    "cnvd": "CNVD-2025-06932",
+    "publish": "2025-04-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"lunary lunary v1.4.25\"]",
+    "cve": "CVE-2024-8999",
+    "description": "Lunary是Lunary开源的一个LLM的生产工具包。Lunary存在访问控制错误漏洞，该漏洞源于POST /api/v1/data-warehouse/bigquery端点未进行适当的访问控制，攻击者可利用此漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/lunary-ai/lunary/commit/aa0fd22952d1d84a717ae563eb1ab564d94a9e2b",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/lunary-ai/lunary/commit/aa0fd22952d1d84a717ae563eb1ab564d94a9e2b",
+    "patch": "Lunary /api/v1/data-warehouse/bigquery端点访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "b54d6ccae5628df4e8e3f2ba5644a00f"
+}
