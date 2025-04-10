@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-10 11:10:22",
+    "parse_time": "2025-04-10 12:10:50",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06998",
-    "spider_time": 1744283422639,
+    "spider_time": 1744287050939,
     "name": "online-polling-using-php-source-code存在SQL注入漏洞",
     "cnvd": "CNVD-2025-06998",
     "publish": "2025-04-05",
