@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-10 09:06:07",
+    "parse_time": "2025-04-10 10:09:15",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07018",
-    "spider_time": 1744275967444,
+    "spider_time": 1744279755363,
     "name": "TRAVEL_MANAGEMENT_SYSTEM_USING_PHP_WITH_SOURCE_CODE存在SQL注入漏洞",
     "cnvd": "CNVD-2025-07018",
     "publish": "2025-04-05",
