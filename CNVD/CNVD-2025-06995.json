@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-10 13:14:29",
+    "parse_time": "2025-04-10 14:18:02",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06995",
-    "spider_time": 1744290869157,
+    "spider_time": 1744294682992,
     "name": "job-portal-using-php-source-code存在SQL注入漏洞",
     "cnvd": "CNVD-2025-06995",
     "publish": "2025-04-05",
