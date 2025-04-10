@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-10 00:14:06",
+    "parse_time": "2025-04-10 01:32:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06613",
-    "spider_time": 1744244046717,
+    "spider_time": 1744248720125,
     "name": "Dell Unity OS命令注入漏洞（CNVD-2025-06613）",
     "cnvd": "CNVD-2025-06613",
     "publish": "2025-04-07",
