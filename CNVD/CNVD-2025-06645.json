@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-04-11 05:04:54",
+    "parse_time": "2025-04-11 06:05:19",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06645",
-    "spider_time": 1744347894378,
+    "spider_time": 1744351519976,
     "name": "Cisco IOS XR数据伪造问题漏洞",
     "cnvd": "CNVD-2025-06645",
-    "publish": "2025-04-09",
+    "publish": "2025-04-07",
     "severity": "中",
     "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
     "product": "[\"Cisco Cisco IOS XR\"]",
@@ -18,5 +18,5 @@
     "submit_time": "2025-03-24",
     "open_time": "2025-04-08",
     "update_time": "2025-04-08",
-    "data_summary": "e3e8a9106909cfb53018130dfec41215"
+    "data_summary": "2e6dbb5c41752b37eb9d950da8e7e2db"
 }
