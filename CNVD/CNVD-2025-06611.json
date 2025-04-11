@@ -1,22 +1,22 @@
 {
-    "parse_time": "2025-04-11 09:05:13",
+    "parse_time": "2025-04-11 10:07:22",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06611",
-    "spider_time": 1744362313004,
-    "name": "Dell Unity操作系统命令注入漏洞",
+    "spider_time": 1744366042684,
+    "name": "Dell Unity OS命令注入漏洞",
     "cnvd": "CNVD-2025-06611",
     "publish": "2025-04-07",
     "severity": "高",
     "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
     "product": "[\"DELL Dell Unity <=5.4\"]",
     "cve": "CVE-2024-49601",
-    "description": "Dell Unity是美国戴尔（Dell）公司的一套虚拟Unity存储环境。Dell Unity 5.4及之前版本存在操作系统命令注入漏洞，该漏洞源于应用未能正确过滤构造命令特殊字符、命令等。攻击者可利用此漏洞导致任意命令执行。",
+    "description": "Dell Unity是美国戴尔（Dell）公司的一套虚拟Unity存储环境。Dell Unity 5.4及之前版本存在OS命令注入漏洞，该漏洞源于应用未能正确过滤构造命令特殊字符、命令等。攻击者可利用此漏洞导致任意命令执行。",
     "flaw_type": "通用型漏洞",
     "reference": "https://www.dell.com/support/kbdoc/en-us/000300090/dsa-2025-116-security-update-for-dell-unity-dell-unityvsa-and-dell-unity-xt-security-update-for-multiple-vulnerabilities",
     "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000300090/dsa-2025-116-security-update-for-dell-unity-dell-unityvsa-and-dell-unity-xt-security-update-for-multiple-vulnerabilities",
-    "patch": "Dell Unity操作系统命令注入漏洞的补丁",
+    "patch": "Dell Unity OS命令注入漏洞的补丁",
     "verify": "(暂无验证信息)",
     "submit_time": "2025-04-03",
     "open_time": "2025-04-08",
     "update_time": "2025-04-08",
-    "data_summary": "f31cdfcaed28af65d42691bf87bb56cf"
+    "data_summary": "d1a71acd1de6ebfc37d295a920e268fd"
 }
