@@ -1,12 +1,12 @@
 {
-    "parse_time": "2025-04-12 06:07:34",
+    "parse_time": "2025-04-12 07:05:17",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06615",
-    "spider_time": 1744438054431,
+    "spider_time": 1744441517738,
     "name": "Dell Unity OS命令注入漏洞（CNVD-2025-06615）",
     "cnvd": "CNVD-2025-06615",
     "publish": "2025-04-07",
-    "severity": "高",
-    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
     "product": "[\"DELL Dell Unity <=5.4\"]",
     "cve": "CVE-2025-24378",
     "description": "Dell Unity是美国戴尔（Dell）公司的一套虚拟Unity存储环境。Dell Unity 5.4及之前版本存在OS命令注入漏洞，攻击者可利用此漏洞在系统上执行任意操作系统命令。",
@@ -18,5 +18,5 @@
     "submit_time": "2025-04-03",
     "open_time": "2025-04-08",
     "update_time": "2025-04-08",
-    "data_summary": "7ab5364f2d9204ac9badbdb61ca6bdb7"
+    "data_summary": "1d12a9c59ad83a56d6ad5be817699b63"
 }
