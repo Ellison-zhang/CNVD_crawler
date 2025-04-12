@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-12 21:03:28",
+    "parse_time": "2025-04-12 22:03:19",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06942",
-    "spider_time": 1744491808378,
+    "spider_time": 1744495399884,
     "name": "PyTorch torch.lstm_cell函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-06942",
     "publish": "2025-04-11",
