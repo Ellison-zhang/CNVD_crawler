@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-13 14:13:31",
+    "parse_time": "2025-04-13 16:07:17",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06478",
-    "spider_time": 1744553611822,
+    "spider_time": 1744560437840,
     "name": "WordPress Shuffle plugin SQL注入漏洞",
     "cnvd": "CNVD-2025-06478",
     "publish": "2025-04-02",
