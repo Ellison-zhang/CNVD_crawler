@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-13 03:01:33",
+    "parse_time": "2025-04-13 03:56:32",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06864",
-    "spider_time": 1744513293463,
+    "spider_time": 1744516592744,
     "name": "TOTOLINK CP900L setMacFilterRules函数堆栈溢出漏洞",
     "cnvd": "CNVD-2025-06864",
     "publish": "2025-04-10",
