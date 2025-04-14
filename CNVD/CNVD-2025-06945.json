@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-14 21:04:05",
+    "parse_time": "2025-04-14 22:04:05",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06945",
-    "spider_time": 1744664645716,
+    "spider_time": 1744668245827,
     "name": "StudentServlet-JSP跨站脚本漏洞",
     "cnvd": "CNVD-2025-06945",
     "publish": "2025-04-11",
