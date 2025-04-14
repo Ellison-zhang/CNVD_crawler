@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-14 09:04:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07178",
+    "spider_time": 1744621459740,
+    "name": "Tenda FH1202访问控制不当漏洞",
+    "cnvd": "CNVD-2025-07178",
+    "publish": "2025-04-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Tenda FH1202 1.2.0.14(408)\"]",
+    "cve": "CVE-2025-3237",
+    "description": "Tenda FH1202是一款由中国腾达公司生产的无线路由器。Tenda FH1202存在访问控制不当漏洞。该漏洞源于对文件/goform/wrlwpsset的处理导致访问控制不当。攻击者可利用该漏洞发起远程攻击以获取访问权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-3237",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-10",
+    "open_time": "2025-04-14",
+    "update_time": "2025-04-14",
+    "data_summary": "4638a31907e6c99fc59089019feede49"
+}

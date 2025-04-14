@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-14 09:04:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07179",
+    "spider_time": 1744621463630,
+    "name": "深圳市吉祥腾达科技有限公司AC23拒绝服务漏洞",
+    "cnvd": "CNVD-2025-07179",
+    "publish": "2025-04-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u5409\\u7965\\u817e\\u8fbe\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 AC23 16.03.07.52\"]",
+    "cve": "CVE-2025-3167",
+    "description": "AC23是一款无线路由器，提供高速的无线网络连接。深圳市吉祥腾达科技有限公司AC23存在拒绝服务漏洞。该漏洞源于/goform/VerAPIMant组件对getuid参数处理不当。攻击者可利用该漏洞发送特制的请求导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-3167",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-10",
+    "open_time": "2025-04-14",
+    "update_time": "2025-04-14",
+    "data_summary": "7b540a98bfba34e067e2fc4ad332533b"
+}
