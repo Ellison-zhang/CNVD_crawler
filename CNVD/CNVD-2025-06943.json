@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-14 09:04:36",
+    "parse_time": "2025-04-14 10:04:24",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06943",
-    "spider_time": 1744621476246,
+    "spider_time": 1744625064954,
     "name": "PyTorch torch.nn.utils.rnn.pad_packed_sequence函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-06943",
     "publish": "2025-04-11",
