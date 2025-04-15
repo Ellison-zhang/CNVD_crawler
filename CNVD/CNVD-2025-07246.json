@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-15 08:04:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07246",
+    "spider_time": 1744704294372,
+    "name": "Adobe Animate堆缓冲区溢出漏洞（CNVD-2025-07246）",
+    "cnvd": "CNVD-2025-07246",
+    "publish": "2025-04-15",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Adobe Animate 2023 <=23.0.10\", \"Adobe Adobe Animate 2024 <=24.0.7\"]",
+    "cve": "CVE-2025-27199",
+    "description": "Adobe Animate是美国奥多比（Adobe）公司的一套Flash动画制作软件。Adobe Animate存在堆缓冲区溢出漏洞，攻击者可利用该漏洞在当前用户的上下文中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/animate/apsb25-31.html",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://helpx.adobe.com/security/products/animate/apsb25-31.html",
+    "patch": "Adobe Animate堆缓冲区溢出漏洞（CNVD-2025-07246）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-14",
+    "open_time": "2025-04-15",
+    "update_time": "2025-04-15",
+    "data_summary": "37a712e70bb8afc79cd354515eac12b8"
+}

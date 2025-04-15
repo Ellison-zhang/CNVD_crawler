@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-15 08:04:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07244",
+    "spider_time": 1744704286031,
+    "name": "Adobe FrameMaker越界写入漏洞（CNVD-2025-07244）",
+    "cnvd": "CNVD-2025-07244",
+    "publish": "2025-04-14",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Framemaker <=2020 Release Update 7\", \"Adobe Framemaker <=2022 Release Update 5\"]",
+    "cve": "CVE-2025-30304",
+    "description": "Adobe Framemaker是美国奥多比（Adobe）公司的一套用于编写和编辑大型或复杂文档（包括结构化文档）的页面排版软件。Adobe FrameMaker存在越界写入漏洞，攻击者可利用该漏洞在当前用户的上下文中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/framemaker/apsb25-33.html",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://helpx.adobe.com/security/products/framemaker/apsb25-33.html",
+    "patch": "Adobe FrameMaker越界写入漏洞（CNVD-2025-07244）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-14",
+    "open_time": "2025-04-15",
+    "update_time": "2025-04-15",
+    "data_summary": "f45ec53173672fd1acacc9237a9adccb"
+}

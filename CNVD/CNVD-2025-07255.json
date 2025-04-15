@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-15 08:05:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07255",
+    "spider_time": 1744704332265,
+    "name": "Huawei HarmonyOS media library模块权限校验漏洞（CNVD-2025-07255）",
+    "cnvd": "CNVD-2025-07255",
+    "publish": "2025-04-14",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Huawei HarmonyOS 5.0.0\"]",
+    "cve": "CVE-2024-58049",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS media library模块存在权限校验漏洞，攻击者可利用该漏洞导致机密性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-58049",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2025/3/",
+    "patch": "Huawei HarmonyOS media library模块权限校验漏洞（CNVD-2025-07255）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-11",
+    "open_time": "2025-04-15",
+    "update_time": "2025-04-15",
+    "data_summary": "1f4e19af195dabb450b3fd3c7b428d9b"
+}
