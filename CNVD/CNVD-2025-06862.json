@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-16 03:19:47",
+    "parse_time": "2025-04-16 04:05:28",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06862",
-    "spider_time": 1744773587462,
+    "spider_time": 1744776328713,
     "name": "D-Link DI-8100 ipsec_road_asp函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-06862",
     "publish": "2025-04-10",
