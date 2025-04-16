@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-16 09:04:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07320",
+    "spider_time": 1744794267015,
+    "name": "F5 BIG-IP APM访问配置文件漏洞",
+    "cnvd": "CNVD-2025-07320",
+    "publish": "2025-04-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"F5 BIG-IP (APM) >=17.1.0\\uff0c<=17.1.1\", \"F5 BIG-IP (APM) >=16.1.3\\uff0c<=16.1.4\"]",
+    "cve": "CVE-2025-23412",
+    "description": "F5 BIG-IP APM是美国F5公司的一套访问和安全解决方案。该产品提供统一访问关键业务应用和网络的功能。F5 BIG-IP APM存在访问配置文件漏洞，攻击者可利用该漏洞导致流量管理微内核（TMM）终止。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://my.f5.com/manage/s/article/K000141003",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://my.f5.com/manage/s/article/K000141003",
+    "patch": "F5 BIG-IP APM访问配置文件漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-04-16",
+    "update_time": "2025-04-16",
+    "data_summary": "cce2b0ad39c582f16696362eed620d9e"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-16 09:04:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07319",
+    "spider_time": 1744794260968,
+    "name": "F5 BIG-IP AFM拒绝服务漏洞（CNVD-2025-07319）",
+    "cnvd": "CNVD-2025-07319",
+    "publish": "2025-04-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"F5 BIG-IP (AFM) >=17.1.0\\uff0c<=17.1.1\", \"F5 BIG-IP (AFM) >=16.1.0\\uff0c<=16.1.5\", \"F5 BIG-IP (AFM) >=15.1.0\\uff0c<=15.1.10\"]",
+    "cve": "CVE-2025-24312",
+    "description": "F5 BIG-IP AFM是美国F5公司的一款用于防护DDos攻击的高级防火墙产品。F5 BIG-IP AFM存在拒绝服务漏洞，该漏洞源于协议检查配置不当，攻击者可利用该漏洞导致CPU资源利用率增加。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://my.f5.com/manage/s/article/K000141380",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://my.f5.com/manage/s/article/K000141380",
+    "patch": "F5 BIG-IP AFM拒绝服务漏洞（CNVD-2025-07319）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-04-16",
+    "update_time": "2025-04-16",
+    "data_summary": "647860cad795e1ca56d2c094233d1259"
+}

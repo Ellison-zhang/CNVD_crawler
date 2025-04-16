@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-16 09:04:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07322",
+    "spider_time": 1744794277072,
+    "name": "F5 BIG-IP Next Central Manager输入验证错误漏洞",
+    "cnvd": "CNVD-2025-07322",
+    "publish": "2025-04-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"F5 BIG-IP Next Central Manager >=20.2.0\\uff0c<=20.2.1\"]",
+    "cve": "CVE-2025-24319",
+    "description": "F5 BIG-IP Next Central Manager是美国F5公司的一个集中式控制台。F5 BIG-IP Next Central Manager存在输入验证错误漏洞，该漏洞源于API请求处理不当，攻击者可利用此漏洞通过未公开的请求可导致Kubernetes服务终止。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://my.f5.com/manage/s/article/K000148412",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://my.f5.com/manage/s/article/K000148412",
+    "patch": "F5 BIG-IP Next Central Manager输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-04-16",
+    "update_time": "2025-04-16",
+    "data_summary": "5f3fc34f33f7936a92ca3588a2d98695"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-16 09:04:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07321",
+    "spider_time": 1744794273002,
+    "name": "F5 BIG-IP Next Central Manager日志信息泄露漏洞",
+    "cnvd": "CNVD-2025-07321",
+    "publish": "2025-04-16",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"F5 BIG-IP Next Central Manager >=20.2.0\\uff0c<=20.2.1\"]",
+    "cve": "CVE-2025-23413",
+    "description": "F5 BIG-IP Next Central Manager是美国F5公司的一个集中式控制台。F5 BIG-IP Next Central Manager存在日志信息泄露漏洞，该漏洞源于当用户通过webUI或API使用本地认证登录时，可能会在日志文件中记录敏感信息。攻击者可利用此漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://my.f5.com/manage/s/article/K000149185",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://my.f5.com/manage/s/article/K000149185",
+    "patch": "F5 BIG-IP Next Central Manager日志信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-04-16",
+    "update_time": "2025-04-16",
+    "data_summary": "bc20844dd8c870cc53b63bba826287e3"
+}
