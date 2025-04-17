@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-17 19:03:48",
+    "parse_time": "2025-04-17 20:04:17",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07258",
-    "spider_time": 1744916628546,
+    "spider_time": 1744920257209,
     "name": "Huawei HarmonyOS UIExtension跨进程页面堆叠漏洞",
     "cnvd": "CNVD-2025-07258",
     "publish": "2025-04-14",
