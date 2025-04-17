@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-17 04:05:57",
+    "parse_time": "2025-04-17 05:08:55",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06863",
-    "spider_time": 1744862757020,
+    "spider_time": 1744866535563,
     "name": "TOTOLINK CP900L setIpPortFilterRules函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-06863",
     "publish": "2025-04-10",
