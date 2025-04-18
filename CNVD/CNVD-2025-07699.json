@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 09:08:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07699",
+    "spider_time": 1744967334379,
+    "name": "北京泰鲜达农产品有限公司礼信易购存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-07699",
+    "publish": "2025-04-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u6cf0\\u9c9c\\u8fbe\\u519c\\u4ea7\\u54c1\\u6709\\u9650\\u516c\\u53f8 \\u793c\\u4fe1\\u6613\\u8d2d\"]",
+    "cve": null,
+    "description": "北京泰鲜达农产品有限公司是一家以从事批发业为主的企业。北京泰鲜达农产品有限公司礼信易购存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "暂无",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-28",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "0e58f0a819e5d6a96e09b5fa9118a996"
+}

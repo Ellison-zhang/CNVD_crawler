@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 09:09:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07696",
+    "spider_time": 1744967345217,
+    "name": "杭州瀚洋科技有限公司深澜计费管理系统存在任意文件读取漏洞",
+    "cnvd": "CNVD-2025-07696",
+    "publish": "2025-04-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u676d\\u5dde\\u701a\\u6d0b\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u6df1\\u6f9c\\u8ba1\\u8d39\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "杭州瀚洋科技有限公司（深澜软件）是全球领先且企业高端用户最多的认证计费技术厂商之一。杭州瀚洋科技有限公司深澜计费管理系统存在任意文件读取漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.srun.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-28",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "ef1172ec47742bfadcd9170a3af10305"
+}
