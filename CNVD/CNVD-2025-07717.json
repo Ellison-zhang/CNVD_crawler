@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 08:13:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07717",
+    "spider_time": 1744964001039,
+    "name": "惠普（中国）有限公司HP LaserJet Pro MFP M428fdn存在弱口令漏洞",
+    "cnvd": "CNVD-2025-07717",
+    "publish": "2025-04-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u60e0\\u666e\\uff08\\u4e2d\\u56fd\\uff09\\u6709\\u9650\\u516c\\u53f8 HP LaserJet Pro MFP M428fdn\"]",
+    "cve": null,
+    "description": "HP LaserJet Pro MFP M428fdn是一款打印机。惠普（中国）有限公司HP LaserJet Pro MFP M428fdn存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.hp.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-28",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "f14d563c3bdbfbc60732a95d2d0b2e27"
+}

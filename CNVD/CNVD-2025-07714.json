@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 08:09:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07714",
+    "spider_time": 1744963778449,
+    "name": "深圳市亿玛信诺科技有限公司亿玛智慧能源管理平台存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-07714",
+    "publish": "2025-04-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u4ebf\\u739b\\u4fe1\\u8bfa\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u4ebf\\u739b\\u667a\\u6167\\u80fd\\u6e90\\u7ba1\\u7406\\u5e73\\u53f0 SZYMRM1000-V1.00\"]",
+    "cve": null,
+    "description": "深圳市亿玛信诺科技有限公司是一家致力于电子计量产品及抄表收费管理系统平台的研发、生产、销售、服务于一体的高新技术企业。深圳市亿玛信诺科技有限公司亿玛智慧能源管理平台存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.ymsino.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-28",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "9fd504f88b2780d94a8c55e7131bc5e0"
+}

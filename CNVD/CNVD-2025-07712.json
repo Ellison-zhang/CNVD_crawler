@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 08:09:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07712",
+    "spider_time": 1744963787787,
+    "name": "网是科技股份有限公司Netcore NAP871存在命令执行漏洞",
+    "cnvd": "CNVD-2025-07712",
+    "publish": "2025-04-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u7f51\\u662f\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 netcore NAP871 1.2.31207\"]",
+    "cve": null,
+    "description": "Netcore NAP871是一款150M入墙式AP。网是科技股份有限公司Netcore NAP871存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.netcoretec.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-28",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "27dc0098103d1ad4c0129928b81ff6a8"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 08:10:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07707",
+    "spider_time": 1744963810187,
+    "name": "网是科技股份有限公司Netis WF2471存在命令执行漏洞",
+    "cnvd": "CNVD-2025-07707",
+    "publish": "2025-04-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u7f51\\u662f\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 Netis WF2471 1.2.22040\"]",
+    "cve": null,
+    "description": "Netis WF2471是双频黑极光无线宽带路由器。网是科技股份有限公司Netis WF2471存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.netis-systems.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-28",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "ec2b005ce321d159235d891fd17c3cc9"
+}

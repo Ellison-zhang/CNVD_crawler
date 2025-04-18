@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 08:13:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07716",
+    "spider_time": 1744964004531,
+    "name": "理光(中国)投资有限公司MP 305+存在弱口令漏洞",
+    "cnvd": "CNVD-2025-07716",
+    "publish": "2025-04-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u7406\\u5149(\\u4e2d\\u56fd)\\u6295\\u8d44\\u6709\\u9650\\u516c\\u53f8 MP 305+\"]",
+    "cve": null,
+    "description": "MP 305+是一款彩色数码复合机。理光(中国)投资有限公司MP 305+存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.ricoh.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-28",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "2ef20ac9ffbc55ebda53c68436872b52"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 08:09:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07713",
+    "spider_time": 1744963783387,
+    "name": "TRENDnet TEW-640MB存在命令执行漏洞",
+    "cnvd": "CNVD-2025-07713",
+    "publish": "2025-04-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TRENDnet TEW-640MB 1.0.0.0\"]",
+    "cve": null,
+    "description": "TEW-640MB是一款N300无线4端口媒体桥接器。TRENDnet TEW-640MB存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://trendnet.com.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-28",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "d90408437226617efe4bff9359f08ec6"
+}

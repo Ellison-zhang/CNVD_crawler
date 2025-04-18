@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 08:12:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07703",
+    "spider_time": 1744963929195,
+    "name": "上海上讯信息技术股份有限公司运维管理审计系统存在命令执行漏洞",
+    "cnvd": "CNVD-2025-07703",
+    "publish": "2025-04-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u4e0a\\u6d77\\u4e0a\\u8baf\\u4fe1\\u606f\\u6280\\u672f\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u8fd0\\u7ef4\\u7ba1\\u7406\\u5ba1\\u8ba1\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "上海上讯信息技术股份有限公司（以下简称“上讯信息”），是数据、智能安全运维、移动安全、安全服务等领域国内领先供应商之一。上海上讯信息技术股份有限公司运维管理审计系统存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布新版本修复漏洞，请广大用户及时下载更新：\nhttps://www.suninfo.com",
+    "patch": "上海上讯信息技术股份有限公司运维管理审计系统存在命令执行漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-02-28",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "fbd15f12dbd7dc942cd9308bddae6ef5"
+}

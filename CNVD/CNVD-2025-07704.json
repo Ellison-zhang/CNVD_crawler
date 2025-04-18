@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 08:12:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07704",
+    "spider_time": 1744963921766,
+    "name": "竞优（广州）信息技术有限公司商业租赁管理系统存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-07704",
+    "publish": "2025-04-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u7ade\\u4f18\\uff08\\u5e7f\\u5dde\\uff09\\u4fe1\\u606f\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 \\u5546\\u4e1a\\u79df\\u8d41\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "竞优 (广州) 信息技术有限公司是一家以从事计算机、通信和其他电子设备制造业为主的企业。竞优（广州）信息技术有限公司商业租赁管理系统存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.ifca.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-28",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "87ad9c4567c3f378ade3586abe54c9e3"
+}
