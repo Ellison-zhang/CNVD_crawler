@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 04:06:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07621",
+    "spider_time": 1744949215105,
+    "name": "Huawei HarmonyOS竞争条件问题漏洞（CNVD-2025-07621）",
+    "cnvd": "CNVD-2025-07621",
+    "publish": "2025-04-16",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Huawei HarmonyOS 5.0.0\"]",
+    "cve": "CVE-2024-58048",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS存在竞争条件问题漏洞，该漏洞源于多线程问题，影响可用性。攻击者可利用该漏洞获得根权限，并执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-58048",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://consumer.huawei.com/en/support/bulletin/2025/3/",
+    "patch": "Huawei HarmonyOS竞争条件问题漏洞（CNVD-2025-07621）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-11",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "d597089cf33d3e11ec3ca068cbdde902"
+}

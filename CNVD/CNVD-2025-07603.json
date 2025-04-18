@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 04:04:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07603",
+    "spider_time": 1744949067533,
+    "name": "lunary授权问题漏洞（CNVD-2025-07603）",
+    "cnvd": "CNVD-2025-07603",
+    "publish": "2025-04-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:C/A:N",
+    "product": "[\"lunary lunary <1.4.26\"]",
+    "cve": "CVE-2024-9000",
+    "description": "lunary是lunary开源的一个LLM的生产工具包。lunary存在授权问题漏洞，该漏洞源于checklists.post端点未进行适当的权限验证，攻击者可利用该漏洞导致未授权创建或修改检查清单。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-9000",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://github.com/lunary-ai/lunary/commit/a02861ef9bb6ce860a35f7b8f178d58859cd85f0",
+    "patch": "lunary授权问题漏洞（CNVD-2025-07603）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "fff4437acda02407089d1cbd26c20818"
+}

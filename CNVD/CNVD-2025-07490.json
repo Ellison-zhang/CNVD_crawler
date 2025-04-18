@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-18 03:19:56",
+    "parse_time": "2025-04-18 04:12:05",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07490",
-    "spider_time": 1744946396639,
+    "spider_time": 1744949525428,
     "name": "exam-form-submission-in-php-with-source-code存在SQL注入漏洞",
     "cnvd": "CNVD-2025-07490",
     "publish": "2025-04-13",
