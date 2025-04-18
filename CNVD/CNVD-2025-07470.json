@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:28:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07470",
+    "spider_time": 1744946904609,
+    "name": "南昌市西湖区平凡电脑商行平凡考试系统存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-07470",
+    "publish": "2025-04-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5357\\u660c\\u5e02\\u897f\\u6e56\\u533a\\u5e73\\u51e1\\u7535\\u8111\\u5546\\u884c \\u5e73\\u51e1\\u8003\\u8bd5\\u7cfb\\u7edf 5\"]",
+    "cve": null,
+    "description": "南昌市西湖区平凡电脑商行是一家主要从事电脑及配件、软件、耗材的批发和零售业务的个体工商户。南昌市西湖区平凡电脑商行平凡考试系统存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.jxpfexam.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-26",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "a32591544102524806d7875c37ebd6a9"
+}

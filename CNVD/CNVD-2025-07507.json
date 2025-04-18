@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:17:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07507",
+    "spider_time": 1744946222091,
+    "name": "Adobe Photoshop Desktops堆缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-07507",
+    "publish": "2025-04-14",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Photoshop Desktops <=26.4.1\", \"Adobe Photoshop Desktops 25.12.1\"]",
+    "cve": "CVE-2025-27198",
+    "description": "Adobe Photoshop是美国奥多比（Adobe）公司的一套图片处理软件。该软件主要用于处理图片。Adobe Photoshop Desktops存在堆缓冲区溢出漏洞。该漏洞是由于在处理用户提交的特定文件格式时，未对内存分配进行严格校验。攻击者可利用该漏洞覆盖关键内存结构，控制程序执行流，最终实现任意代码执行 。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-27198",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://helpx.adobe.com/security/products/photoshop/apsb25-30.html",
+    "patch": "Adobe Photoshop Desktops堆缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-11",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "ee0b3f57a200624951a988d8b315c67f"
+}

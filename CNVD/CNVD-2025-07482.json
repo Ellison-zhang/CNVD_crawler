@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:22:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07482",
+    "spider_time": 1744946547012,
+    "name": "东芝（中国）有限公司TOSHIBA e-STUDIO2510AC存在弱口令漏洞",
+    "cnvd": "CNVD-2025-07482",
+    "publish": "2025-04-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u4e1c\\u829d\\uff08\\u4e2d\\u56fd\\uff09\\u6709\\u9650\\u516c\\u53f8 TOSHIBA e-STUDIO2510AC\"]",
+    "cve": null,
+    "description": "TOSHIBA e-STUDIO2510AC是一款彩色A3复印机，主要用于办公打印和文印处理。‌东芝（中国）有限公司TOSHIBA e-STUDIO2510AC存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.toshiba.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-27",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "27f8db019410027f55727770d88df9fe"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:20:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07487",
+    "spider_time": 1744946406529,
+    "name": "online-clothing-store-using-php-source-code存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-07487",
+    "publish": "2025-04-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"online-clothing-store-using-php-source-code online-clothing-store-using-php-source-code\"]",
+    "cve": null,
+    "description": "online-clothing-store-using-php-source-code是一款WEB应用系统。online-clothing-store-using-php-source-code存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://code-projects.org/online-clothing-store-using-php-source-code/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-27",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "55dbff31a344b1c8f7252dd2c57f2b7f"
+}

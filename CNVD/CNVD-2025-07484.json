@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:22:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07484",
+    "spider_time": 1744946538704,
+    "name": "爱普生（中国）有限公司WF-C20600 Series存在命令执行漏洞",
+    "cnvd": "CNVD-2025-07484",
+    "publish": "2025-04-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"\\u7231\\u666e\\u751f\\uff08\\u4e2d\\u56fd\\uff09\\u6709\\u9650\\u516c\\u53f8 WF-C20600 Series\"]",
+    "cve": null,
+    "description": "WF-C20600 Series是系列生产级墨仓式阵列复合机。爱普生（中国）有限公司WF-C20600 Series存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.epson.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-27",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "99df4938eb6fa4b56cf0d3e7e69a0e98"
+}

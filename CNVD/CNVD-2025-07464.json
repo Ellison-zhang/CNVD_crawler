@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:28:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07464",
+    "spider_time": 1744946934266,
+    "name": "wordpressWordPress插件wp-auctions存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-07464",
+    "publish": "2025-04-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"WordPress WordPress\\u63d2\\u4ef6wp-auctions 3.7\"]",
+    "cve": null,
+    "description": "WordPress wp-auctions是一个WordPress插件，主要用于拍卖功能。WordPress wp-auctions存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://plugins.svn.wordpress.org/wp-auctions/trunk/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-26",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "7b5e61ace2ece8781831bf04776bc9b1"
+}

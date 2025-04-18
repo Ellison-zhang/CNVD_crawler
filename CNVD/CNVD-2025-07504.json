@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:16:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07504",
+    "spider_time": 1744946198359,
+    "name": "SAP ERP BW Business Content代码注入漏洞",
+    "cnvd": "CNVD-2025-07504",
+    "publish": "2025-04-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"SAP ERP BW Business Content\"]",
+    "cve": "CVE-2025-30013",
+    "description": "SAP ERP BW Business Content是一款基于云的电商平台，能够帮助企业为客户打造个性化的无缝购买体验。SAP ERP BW Business Content存代码注入漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-30013",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://me.sap.com/notes/3571093",
+    "patch": "SAP ERP BW Business Content代码注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-14",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "55f19477ec4a6f3608ab6d4ba683b775"
+}

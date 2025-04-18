@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:22:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07480",
+    "spider_time": 1744946554193,
+    "name": "深圳市托托联科技有限公司Totolink A3002R存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-07480",
+    "publish": "2025-04-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u5409\\u7fc1\\u7535\\u5b50\\uff08\\u6df1\\u5733\\uff09\\u6709\\u9650\\u516c\\u53f8 Totolink A3002R 1.1.1-B20200824.0128\"]",
+    "cve": null,
+    "description": "‌TOTOLINK A3002R是一款家用无线路由器，主要功能是提供无线网络连接。‌吉翁电子（深圳）有限公司Totolink A3002R存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.totolink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-27",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "ca9264e77e6ae8a7b9db73c580557735"
+}

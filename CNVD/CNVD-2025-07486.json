@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:20:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07486",
+    "spider_time": 1744946411428,
+    "name": "online-complaint-site-using-php-source-code存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-07486",
+    "publish": "2025-04-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"online-complaint-site-using-php-source-code online-complaint-site-using-php-source-code\"]",
+    "cve": null,
+    "description": "online-complaint-site-using-php-source-code是一款WEB应用系统。online-complaint-site-using-php-source-code存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://code-projects.org/online-complaint-site-using-php-source-code/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-27",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "e692cecb436832af0894bf97a77eb072"
+}

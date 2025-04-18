@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:22:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07483",
+    "spider_time": 1744946542851,
+    "name": "深圳市思迅软件股份有限公司思迅商慧盈通商业管理系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-07483",
+    "publish": "2025-04-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u601d\\u8fc5\\u8f6f\\u4ef6\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u601d\\u8fc5\\u5546\\u6167\\u76c8\\u901a\\u5546\\u4e1a\\u7ba1\\u7406\\u7cfb\\u7edf 11\"]",
+    "cve": null,
+    "description": "深圳市思迅软件股份有限公司是一家专注于商业信息化、数字门店和数字餐厅方案供应商与践行者。深圳市思迅软件股份有限公司思迅商慧盈通商业管理系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.siss.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-27",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "7146d7ff2746d49243f57433a2274c63"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:28:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07473",
+    "spider_time": 1744946890046,
+    "name": "广东中兴新支点技术有限公司中兴新支点桌面操作系统存在二进制漏洞",
+    "cnvd": "CNVD-2025-07473",
+    "publish": "2025-04-13",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u5e7f\\u4e1c\\u4e2d\\u5174\\u65b0\\u652f\\u70b9\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 \\u4e2d\\u5174\\u65b0\\u652f\\u70b9\\u684c\\u9762\\u64cd\\u4f5c\\u7cfb\\u7edf 4.5.2\"]",
+    "cve": null,
+    "description": "‌中兴新支点桌面操作系统是基于Linux内核研发的操作系统，主要用于日常办公、开发等多种场景‌。广东中兴新支点技术有限公司中兴新支点桌面操作系统存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.gd-linux.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-27",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "35dbf5b21b19fc3ee0c6ffd6a7f6a1b6"
+}

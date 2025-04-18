@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:19:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07534",
+    "spider_time": 1744946349016,
+    "name": "Google gVisor权限提升漏洞（CNVD-2025-07534）",
+    "cnvd": "CNVD-2025-07534",
+    "publish": "2025-04-14",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Google gVisor\"]",
+    "cve": "CVE-2025-2713",
+    "description": "‌Google gVisor‌是一种由Google开发的容器沙盒技术，旨在为容器提供更强的隔离和安全性。Google gVisor存在权限提升漏洞，攻击者可利用该漏洞访问受限文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-2713",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://github.com/google/gvisor/commit/586c38d70081b13b2ed494cef48e99b93956843e",
+    "patch": "Google gVisor权限提升漏洞（CNVD-2025-07534）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-31",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "b5c2b126eb19b2ca6dbfa6d87668596c"
+}
