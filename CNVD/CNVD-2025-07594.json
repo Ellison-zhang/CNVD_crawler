@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 19:11:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07594",
+    "spider_time": 1745003514112,
+    "name": "深圳市吉祥腾达科技有限公司AC8缓冲区溢出漏洞（CNVD-2025-07594）",
+    "cnvd": "CNVD-2025-07594",
+    "publish": "2025-04-11",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u5409\\u7965\\u817e\\u8fbe\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 AC8 V16.03.34.06\"]",
+    "cve": "CVE-2025-29118",
+    "description": "深圳市吉祥腾达科技有限公司AC8是一款无线路由器。深圳市吉祥腾达科技有限公司AC8存在缓冲区溢出漏洞，该漏洞源于sub_47D878函数的src参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞造成拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-29118",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "0788a2c330a0d11e644ed586ad099e6b"
+}
