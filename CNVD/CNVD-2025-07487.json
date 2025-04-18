@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-18 06:10:44",
+    "parse_time": "2025-04-18 07:08:17",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07487",
-    "spider_time": 1744956644280,
+    "spider_time": 1744960097642,
     "name": "online-clothing-store-using-php-source-code存在SQL注入漏洞",
     "cnvd": "CNVD-2025-07487",
     "publish": "2025-04-13",
