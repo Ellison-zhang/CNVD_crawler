@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-19 10:08:26",
+    "parse_time": "2025-04-19 11:07:49",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07534",
-    "spider_time": 1745057306112,
+    "spider_time": 1745060869809,
     "name": "Google gVisor权限提升漏洞（CNVD-2025-07534）",
     "cnvd": "CNVD-2025-07534",
     "publish": "2025-04-14",
