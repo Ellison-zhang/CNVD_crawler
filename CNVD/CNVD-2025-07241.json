@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-20 21:04:29",
+    "parse_time": "2025-04-20 22:04:32",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07241",
-    "spider_time": 1745183069925,
+    "spider_time": 1745186672524,
     "name": "Adobe FrameMaker越界写入漏洞（CNVD-2025-07241）",
     "cnvd": "CNVD-2025-07241",
     "publish": "2025-04-14",
@@ -13,10 +13,10 @@
     "flaw_type": "通用型漏洞",
     "reference": "https://helpx.adobe.com/security/products/framemaker/apsb25-33.html",
     "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://helpx.adobe.com/security/products/framemaker/apsb25-33.html",
-    "patch": "Adobe FrameMaker越界写入漏洞（CNVD-2025-07241）的补丁",
+    "patch": "Adobe FrameMaker越界写代码执行漏洞的补丁",
     "verify": "(暂无验证信息)",
     "submit_time": "2025-04-14",
     "open_time": "2025-04-15",
     "update_time": "2025-04-15",
-    "data_summary": "622449478db2808366471da846a92474"
+    "data_summary": "4ecdd3342aebf8a820bdd653ccac6ca0"
 }
