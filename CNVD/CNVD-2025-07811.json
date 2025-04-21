@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-21 16:08:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07811",
+    "spider_time": 1745251682580,
+    "name": "Siemens SENTRON 7KT PAC1260 Data Manager访问控制错误漏洞",
+    "cnvd": "CNVD-2025-07811",
+    "publish": "2025-04-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"SIEMENS SENTRON 7KT PAC1260 Data Manager null\"]",
+    "cve": "CVE-2024-41793",
+    "description": "Siemens SENTRON 7KT PAC1260 Data Manager是德国西门子（Siemens）公司的一款用于电力监测和能耗管理的设备。Siemens SENTRON 7KT PAC1260 Data Manager存在访问控制错误漏洞，该漏洞源于未认证启用SSH服务的端点，未授权远程攻击者可利用此漏洞通过SSH远程访问设备。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-187636.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-187636.html",
+    "patch": "Siemens SENTRON 7KT PAC1260 Data Manager访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-04-21",
+    "update_time": "2025-04-21",
+    "data_summary": "3b2a596cfd4ef55167f34bd6d7ea2142"
+}
