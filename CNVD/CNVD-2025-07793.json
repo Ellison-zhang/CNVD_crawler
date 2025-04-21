@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-21 07:04:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07793",
+    "spider_time": 1745219047202,
+    "name": "NETGEAR WNR854T cmd.cgi文件命令执行漏洞",
+    "cnvd": "CNVD-2025-07793",
+    "publish": "2025-04-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR WNR854T 1.5.2\"]",
+    "cve": "CVE-2024-54806",
+    "description": "NETGEAR WNR854T是美国网件（NETGEAR）公司的一款无线路由器。NETGEAR WNR854T 1.5.2版本存在命令执行漏洞，该漏洞源于cmd.cgi文件未能正确过滤构造命令特殊字符、命令等。攻击者可利用此漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-54806",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\n目前没有详细解决方案提供：",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-21",
+    "open_time": "2025-04-21",
+    "update_time": "2025-04-21",
+    "data_summary": "74990ce3e49e9a3456404f0564178621"
+}
