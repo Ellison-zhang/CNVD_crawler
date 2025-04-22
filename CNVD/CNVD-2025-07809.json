@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-22 10:04:34",
+    "parse_time": "2025-04-22 11:04:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07809",
-    "spider_time": 1745316274003,
+    "spider_time": 1745319840211,
     "name": "Siemens SENTRON 7KT PAC1260 Data Manager OS命令注入漏洞（CNVD-2025-07809）",
     "cnvd": "CNVD-2025-07809",
     "publish": "2025-04-22",
