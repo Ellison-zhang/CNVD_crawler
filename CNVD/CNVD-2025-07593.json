@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-22 14:05:53",
+    "parse_time": "2025-04-22 15:06:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07593",
-    "spider_time": 1745330753696,
+    "spider_time": 1745334360240,
     "name": "Tenda AC7缓冲区溢出漏洞（CNVD-2025-07593）",
     "cnvd": "CNVD-2025-07593",
     "publish": "2025-04-16",
