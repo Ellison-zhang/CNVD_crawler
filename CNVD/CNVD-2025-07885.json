@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-22 04:04:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07885",
+    "spider_time": 1745294649892,
+    "name": "Apple多款产品内存释放后再利用漏洞",
+    "cnvd": "CNVD-2025-07885",
+    "publish": "2025-04-22",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apple macOS Sequoia <15.3\", \"Apple iOS <18.3\", \"Apple iPadOS <18.3\", \"Apple visionOS <2.3\", \"Apple watchOS <11.3\", \"Apple tvOS <18.3\"]",
+    "cve": "CVE 2025-24085",
+    "description": "visionOS是苹果公司于2023年6月6日在2023苹果全球开发者大会上发布的AR眼镜系统，Apple Vision Pro将首次搭载该系统。tvOS是苹果公司研发的基于iOS的电视操作系统。watchOS是苹果公司基于iOS系统开发的一套使用于Apple Watch的手表操作系统。iOS是由苹果公司开发的移动操作系统。iPadOS‌是苹果公司为iPad设备开发的移动端操作系统，它是基于iOS开发的，专门针对iPad进行优化。macOS是一套由苹果开发的运行于Macintosh系列电脑上的操作系统。‌Apple多款产品存在内存释放后再利用漏洞，攻击者可利用漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://support.apple.com/en-us/122066",
+    "solution": "厂商已发布补丁修复漏洞，请广大用户及时下载更新：\nhttps://support.apple.com",
+    "patch": "Apple多款产品内存释放后再利用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-04-22",
+    "update_time": "2025-04-22",
+    "data_summary": "744f3ff5a1bb294e5954feb337b39baa"
+}
