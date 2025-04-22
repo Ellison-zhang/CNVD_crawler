@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-04-22 16:11:09",
+    "parse_time": "2025-04-22 17:07:58",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07616",
-    "spider_time": 1745338269798,
+    "spider_time": 1745341678272,
     "name": "Adobe Experience Manager跨站脚本漏洞（CNVD-2025-07616）",
     "cnvd": "CNVD-2025-07616",
-    "publish": "2025-04-14",
+    "publish": "2025-04-17",
     "severity": "中",
     "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
     "product": "[\"Adobe Adobe Experience Manager <=6.5.21\"]",
@@ -18,5 +18,5 @@
     "submit_time": "2024-12-13",
     "open_time": "2025-04-18",
     "update_time": "2025-04-18",
-    "data_summary": "3ec8b1357b7382408ed696ae3d864fcb"
+    "data_summary": "434010990312f5e6148469fcff44ff1c"
 }
