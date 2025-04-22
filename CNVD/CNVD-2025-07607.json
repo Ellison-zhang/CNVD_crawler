@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-22 00:14:45",
+    "parse_time": "2025-04-22 01:34:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07607",
-    "spider_time": 1745280885186,
+    "spider_time": 1745285640484,
     "name": "Tenda AX12缓冲区溢出漏洞（CNVD-2025-07607）",
     "cnvd": "CNVD-2025-07607",
     "publish": "2025-04-17",
