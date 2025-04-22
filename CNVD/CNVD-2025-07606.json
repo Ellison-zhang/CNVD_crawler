@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-22 01:35:37",
+    "parse_time": "2025-04-22 02:34:46",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07606",
-    "spider_time": 1745285737256,
+    "spider_time": 1745289286192,
     "name": "Tenda AC8栈缓冲区溢出漏洞（CNVD-2025-07606）",
     "cnvd": "CNVD-2025-07606",
     "publish": "2025-04-16",
