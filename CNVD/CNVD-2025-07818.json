@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-23 16:04:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07818",
+    "spider_time": 1745424277852,
+    "name": "TOTOLINK A6000R action_passwd命令注入漏洞",
+    "cnvd": "CNVD-2025-07818",
+    "publish": "2025-04-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK A6000R V1.0.1-B20201211.2000\"]",
+    "cve": "CVE-2024-57213",
+    "description": "TOTOLINK A6000R是一款性能卓越的无线路由器，采用先进的技术和设计,为用户提供出色的网络体验。TOTOLINK A6000R action_passwd函数处理newpasswd参数存在安全漏洞，远程攻击者可利用该漏洞提交特殊的请求，可以应用程序上下文执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/yanggao017/vuln/blob/main/TOTOLINK/A6000R/CI_9_action_passwd/README.md",
+    "solution": "厂商尚未提供漏洞修复方案，请及时关注厂商更新：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/202/ids/36.html",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-13",
+    "open_time": "2025-04-21",
+    "update_time": "2025-04-21",
+    "data_summary": "f49f8fb26ba236868a5d07868ebbc3ac"
+}
