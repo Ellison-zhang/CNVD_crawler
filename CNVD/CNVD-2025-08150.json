@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:07:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08150",
+    "spider_time": 1745485673288,
+    "name": "TOSHIBA e-STUDIO4508A存在弱口令漏洞",
+    "cnvd": "CNVD-2025-08150",
+    "publish": "2025-04-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Toshiba TOSHIBA e-STUDIO4508A\"]",
+    "cve": null,
+    "description": "TOSHIBA e-STUDIO4508A是一款高性能的黑白数码复合机，适用于办公环境，提供打印、复印和扫描功能。‌TOSHIBA e-STUDIO4508A存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.toshiba.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "ff36b934446702df2e9363868b13a4ce"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:07:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08155",
+    "spider_time": 1745485648374,
+    "name": "舆情监测网络监控系统存在信息泄露漏洞",
+    "cnvd": "CNVD-2025-08155",
+    "publish": "2025-04-22",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u8206\\u60c5\\u76d1\\u6d4b\\u7f51\\u7edc\\u76d1\\u63a7\\u7cfb\\u7edf \\u8206\\u60c5\\u76d1\\u6d4b\\u7f51\\u7edc\\u76d1\\u63a7\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "舆情监测网络监控系统‌是一种利用搜索引擎技术和网络信息挖掘技术，通过网页内容的自动采集处理、敏感词过滤、智能聚类分类、主题检测、专题聚焦和统计分析，实现对网络舆情的全面监控和管理。舆情监测网络监控系统存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://gitee.com/stonedtx/yuqing",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-08",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "444961679fe281c5e057997124d1b42f"
+}

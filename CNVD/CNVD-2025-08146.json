@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:08:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08146",
+    "spider_time": 1745485692488,
+    "name": "网是科技股份有限公司W1系列路由器存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-08146",
+    "publish": "2025-04-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u7f51\\u662f\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 W1\\u7cfb\\u5217\\u8def\\u7531\\u5668 3.2.42989\"]",
+    "cve": null,
+    "description": "网是科技股份有限公司成立于2016年，是一家专注于数据通讯网络设备研发、生产和销售的高新技术企业。网是科技股份有限公司W1系列路由器存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.netcoretec.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "4570fa90e2d5582da68eb17f14bb94b2"
+}

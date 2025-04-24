@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:11:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08124",
+    "spider_time": 1745485909078,
+    "name": "四川省文化大数据有限责任公司文化AI管理系统存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-08124",
+    "publish": "2025-04-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u56db\\u5ddd\\u7701\\u6587\\u5316\\u5927\\u6570\\u636e\\u6709\\u9650\\u8d23\\u4efb\\u516c\\u53f8 \\u6587\\u5316AI\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "四川省文化大数据有限责任公司主要从事大数据服务、数据处理和存储支持服务、互联网数据服务、云计算装备技术服务、人工智能基础资源与技术平台、人工智能公共数据平台、人工智能公共服务平台技术咨询服务等业务。四川省文化大数据有限责任公司文化AI管理系统存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.scws.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-06",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "4731403eb085f27920b087b911466891"
+}

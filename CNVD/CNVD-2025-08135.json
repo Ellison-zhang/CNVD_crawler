@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:10:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08135",
+    "spider_time": 1745485846213,
+    "name": "MOBOTIX D22存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-08135",
+    "publish": "2025-04-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"MOBOTIX D22\"]",
+    "cve": null,
+    "description": "MOBOTIX D22是一款摄像机。MOBOTIX D22存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新\r：\nhttps://www.mobotix.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-06",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "f2cef89174fa8473e38f26594e2ddfd7"
+}

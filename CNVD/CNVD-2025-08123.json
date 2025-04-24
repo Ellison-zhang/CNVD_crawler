@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:11:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08123",
+    "spider_time": 1745485913323,
+    "name": "青岛海信网络科技股份有限公司车辆远程监控平台存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08123",
+    "publish": "2025-04-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u9752\\u5c9b\\u6d77\\u4fe1\\u7f51\\u7edc\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u8f66\\u8f86\\u8fdc\\u7a0b\\u76d1\\u63a7\\u5e73\\u53f0 2.0.0.R1\"]",
+    "cve": null,
+    "description": "青岛海信网络科技股份有限公司成立于1998年，公司主要从事城市交通、公共交通、智慧公路、交通枢纽、智慧停车、智能网联、大数据管理、城市治理、应急管理、轨道交通智能化和医院、校园、园区等智能化建设领域的产品和解决方案开发、应用、推广。青岛海信网络科技股份有限公司车辆远程监控平台存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新\r：\nhttps://www.hisense-transtech.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-06",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "83748a4378fd610737d25d1f9c6f654a"
+}

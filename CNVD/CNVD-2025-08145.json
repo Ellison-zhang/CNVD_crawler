@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:08:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08145",
+    "spider_time": 1745485696177,
+    "name": "南京三商电脑软件开发有限公司智能管网综合管理系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08145",
+    "publish": "2025-04-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u5357\\u4eac\\u4e09\\u5546\\u7535\\u8111\\u8f6f\\u4ef6\\u5f00\\u53d1\\u6709\\u9650\\u516c\\u53f8 \\u667a\\u80fd\\u7ba1\\u7f51\\u7efc\\u5408\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "南京三商电脑软件开发有限公司（以下简称“三商电脑软件”）成立于2002年，是一家专业从事互联网系统软件开发及信息安全服务的高新技术软件企业。南京三商电脑软件开发有限公司智能管网综合管理系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.mds-sn.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "6d20398080da30d226be793172f39952"
+}

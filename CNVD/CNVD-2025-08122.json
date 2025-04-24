@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:11:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08122",
+    "spider_time": 1745485917591,
+    "name": "深圳市腾讯计算机系统有限公司腾讯元宝APP存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-08122",
+    "publish": "2025-04-20",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u817e\\u8baf\\u8ba1\\u7b97\\u673a\\u7cfb\\u7edf\\u6709\\u9650\\u516c\\u53f8 \\u817e\\u8baf\\u5143\\u5b9dAPP\"]",
+    "cve": null,
+    "description": "腾讯元宝APP‌是腾讯推出的一款AI助手应用，主要功能包括智能互动、内容解析和日常陪伴。深圳市腾讯计算机系统有限公司腾讯元宝APP存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新\r：\nhttps://www.tencent.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-06",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "51a81f1c568d295c738a9fd360d658bb"
+}

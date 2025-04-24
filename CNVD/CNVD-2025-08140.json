@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:08:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08140",
+    "spider_time": 1745485720070,
+    "name": "MOBOTIX S14存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-08140",
+    "publish": "2025-04-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"MOBOTIX S14\"]",
+    "cve": null,
+    "description": "MOBOTIX S14是一款摄像机。MOBOTIX S14存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.mobotix.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-06",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "67040c94cbb3a3d0efdef0f4cd3b492f"
+}

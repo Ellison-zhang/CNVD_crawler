@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:10:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08133",
+    "spider_time": 1745485857546,
+    "name": "深圳市吉祥腾达科技有限公司A15存在二进制漏洞",
+    "cnvd": "CNVD-2025-08133",
+    "publish": "2025-04-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u5409\\u7965\\u817e\\u8fbe\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 A15 V15.13.07.13\"]",
+    "cve": null,
+    "description": "A15是一款适合1000兆以内光纤家庭的双频三千兆无线路由器。深圳市吉祥腾达科技有限公司A15存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新\r：\nhttps://www.tenda.com.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-06",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "33fac81b0d63d1bb1df8c51d47088ad3"
+}

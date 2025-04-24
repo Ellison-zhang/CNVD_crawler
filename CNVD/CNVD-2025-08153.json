@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:07:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08153",
+    "spider_time": 1745485657584,
+    "name": "北京智芯微电子科技有限公司智能融合终端存在工控设备漏洞",
+    "cnvd": "CNVD-2025-08153",
+    "publish": "2025-04-21",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u5317\\u4eac\\u667a\\u82af\\u5fae\\u7535\\u5b50\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u667a\\u80fd\\u878d\\u5408\\u7ec8\\u7aef SCT230A\"]",
+    "cve": null,
+    "description": "北京智芯微电子科技有限公司是一家专注于微电子领域的高新技术企业。北京智芯微电子科技有限公司智能融合终端存在工控设备漏洞，攻击者可利用该漏洞获取服务器权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.zxwdz.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "8da2bff019cdc9c88d13af24b7aa6e81"
+}

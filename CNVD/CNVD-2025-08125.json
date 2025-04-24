@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:11:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08125",
+    "spider_time": 1745485903915,
+    "name": "北京金和网络股份有限公司金和OA存在XML实体注入漏洞",
+    "cnvd": "CNVD-2025-08125",
+    "publish": "2025-04-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u91d1\\u548c\\u7f51\\u7edc\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u91d1\\u548cOA\"]",
+    "cve": null,
+    "description": "金和OA是一款协同办公管理系统。北京金和网络股份有限公司金和OA存在XML实体注入漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新\r：\nhttps://www.jinher.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-06",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "7752a7122204e9583380907f32efe89d"
+}

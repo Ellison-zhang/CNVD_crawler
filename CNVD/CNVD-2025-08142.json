@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:08:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08142",
+    "spider_time": 1745485712050,
+    "name": "湖南众合百易信息技术有限公司百易云存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08142",
+    "publish": "2025-04-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u6e56\\u5357\\u4f17\\u5408\\u767e\\u6613\\u4fe1\\u606f\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 \\u767e\\u6613\\u4e91\"]",
+    "cve": null,
+    "description": "湖南众合百易信息技术有限公司（简称：百易云）成立于2017年是一家专注于不动产领域数字化研发及服务的国家高新技术企业。湖南众合百易信息技术有限公司百易云存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.baiyishequ.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "28c306cbc7522b62802ff2fd5aca03fa"
+}

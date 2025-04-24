@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:11:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08129",
+    "spider_time": 1745485881154,
+    "name": "厦门科拓通讯技术股份有限公司找车机系统后台管理存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08129",
+    "publish": "2025-04-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u53a6\\u95e8\\u79d1\\u62d3\\u901a\\u8baf\\u6280\\u672f\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u627e\\u8f66\\u673a\\u7cfb\\u7edf\\u540e\\u53f0\\u7ba1\\u7406 2.2000000000000002\"]",
+    "cve": null,
+    "description": "厦门科拓通讯技术股份有限公司是专业的智慧停车价值运营商，旗下拥有速泊、速停车、泊视等多个子品牌，业务涵盖智慧停车解决方案、车场运营管理服务、互联网智慧停车平台等版块。厦门科拓通讯技术股份有限公司找车机系统后台管理存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新\r：\nhttps://keytop.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-06",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "bc4646969d6cc8ee9ff5b62a28758b11"
+}

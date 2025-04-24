@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:08:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08138",
+    "spider_time": 1745485730055,
+    "name": "MOBOTIX P25存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-08138",
+    "publish": "2025-04-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"MOBOTIX P25\"]",
+    "cve": null,
+    "description": "MOBOTIX P25是一款高性能的智能网络摄像机。MOBOTIX P25存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新\r：\nhttps://www.mobotix.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-06",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "05095b68d4a340caded9ad27e7db2078"
+}

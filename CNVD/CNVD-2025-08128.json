@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:11:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08128",
+    "spider_time": 1745485887476,
+    "name": "深圳市必联电子有限公司BL-LTE300存在二进制漏洞",
+    "cnvd": "CNVD-2025-08128",
+    "publish": "2025-04-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u5fc5\\u8054\\u7535\\u5b50\\u6709\\u9650\\u516c\\u53f8 BL-LTE300 1.2.3\"]",
+    "cve": null,
+    "description": "BL-LTE300是一款家庭路由器。深圳市必联电子有限公司BL-LTE300存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新\r：\nhttps://www.b-link.net.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-06",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "30134a29cf900b07e94a9bc666ca216b"
+}

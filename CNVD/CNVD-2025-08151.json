@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:07:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08151",
+    "spider_time": 1745485667148,
+    "name": "正元智慧集团股份有限公司门联网后台管理系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08151",
+    "publish": "2025-04-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u6b63\\u5143\\u667a\\u6167\\u96c6\\u56e2\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u95e8\\u8054\\u7f51\\u540e\\u53f0\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "正元智慧集团股份有限公司致力于成为国内领先的智慧校园、智慧园区整体解决方案提供商及综合服务运营商。正元智慧集团股份有限公司门联网后台管理系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.hzsun.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "78e248915bd7471f91b49b8084aebeef"
+}

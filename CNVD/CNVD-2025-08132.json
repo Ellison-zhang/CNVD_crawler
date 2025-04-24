@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:11:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08132",
+    "spider_time": 1745485864582,
+    "name": "新天科技股份有限公司智能管理平台存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08132",
+    "publish": "2025-04-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u65b0\\u5929\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u667a\\u80fd\\u7ba1\\u7406\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "新天科技股份有限公司是水表，电能表，气表的专业生产厂家和供应商。新天科技股份有限公司智能管理平台存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新\r：\nhttps://www.suntront.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-06",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "fcbc93aef7a3e914ff99b1ca246bbf9b"
+}

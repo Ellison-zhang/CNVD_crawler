@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 09:11:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08131",
+    "spider_time": 1745485869546,
+    "name": "馥鴻科技股份有限公司IP Network Camera存在弱口令漏洞",
+    "cnvd": "CNVD-2025-08131",
+    "publish": "2025-04-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u99a5\\u9d3b\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 IP Network Camera\"]",
+    "cve": null,
+    "description": "馥鴻科技股份有限公司成立于1991年，一直以来以专业研发和完善销售服务为核心导向，致力发展及制造图像监控系统，产品系统包含环境监控和移动监控，以系统整合与解决方案的视野，达到安防全面守护。馥鴻科技股份有限公司IP Network Camera存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新\r：\nhttps://www.vacron.com.tw/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-06",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "7ef802f783ac692793c68bfa9c8ad448"
+}
