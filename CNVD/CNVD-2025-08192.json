@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 10:04:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08192",
+    "spider_time": 1745489056616,
+    "name": "郑州三晖电气股份有限公司居民用电管理系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08192",
+    "publish": "2025-04-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u90d1\\u5dde\\u4e09\\u6656\\u7535\\u6c14\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u5c45\\u6c11\\u7528\\u7535\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "郑州三晖电气股份有限公司(以下称“三晖电气”)创建于1996年，主要从事电能计量仪器仪表的研发、设计、生产和销售，能为智能电网计量器具用户、生产企业和检定机构提供标准与校验综合解决方案。郑州三晖电气股份有限公司居民用电管理系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.cnsms.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-10",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "4c8b4ac26c1b9f659175f570afe3df90"
+}

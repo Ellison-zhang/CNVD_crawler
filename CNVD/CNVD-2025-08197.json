@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 10:03:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08197",
+    "spider_time": 1745489035948,
+    "name": "D-Link DCS-960L存在二进制漏洞",
+    "cnvd": "CNVD-2025-08197",
+    "publish": "2025-04-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"D-Link DCS-960L 1.0900000000000001\"]",
+    "cve": null,
+    "description": "D-Link DCS-960L是中国友讯（D-Link）公司的一款网络摄像头产品。D-Link DCS-960L存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.dlink.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-10",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "58c737125afa54bb6b17247024175e3a"
+}

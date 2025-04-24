@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 10:03:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08199",
+    "spider_time": 1745489026208,
+    "name": "摩莎科技（上海）有限公司OnCell_3120-LTE-1存在弱口令漏洞",
+    "cnvd": "CNVD-2025-08199",
+    "publish": "2025-04-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6469\\u838e\\u79d1\\u6280\\uff08\\u4e0a\\u6d77\\uff09\\u6709\\u9650\\u516c\\u53f8 OnCell_3120-LTE-1\"]",
+    "cve": null,
+    "description": "OnCell 3120-LTE-1是一款低功耗LTE调制解调器，支持全球先进的LTE Cat 1技术‌。摩莎科技（上海）有限公司OnCell_3120-LTE-1存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://moxa.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-10",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "5afc8c8f626263d9d347fea3e1fdef09"
+}

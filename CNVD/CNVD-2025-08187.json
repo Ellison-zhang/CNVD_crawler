@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 10:05:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08187",
+    "spider_time": 1745489152935,
+    "name": "Brother MFC-J491DW存在弱口令漏洞",
+    "cnvd": "CNVD-2025-08187",
+    "publish": "2025-04-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Brother MFC-J491DW\"]",
+    "cve": null,
+    "description": "Brother MFC-J491DW是一款多功能彩色喷墨打印机，适合各种办公和个人使用场景。Brother MFC-J491DW存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.brother.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-10",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "5a8a194dbf16443acd6ebe93b05efc9c"
+}

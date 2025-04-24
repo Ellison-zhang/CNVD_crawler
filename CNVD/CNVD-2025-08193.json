@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 10:04:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08193",
+    "spider_time": 1745489052236,
+    "name": "北京谷翔信息技术有限公司TensorBoard存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-08193",
+    "publish": "2025-04-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u8c37\\u7fd4\\u4fe1\\u606f\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 Tensorboard\"]",
+    "cve": null,
+    "description": "TensorBoard‌是一款可视化工具，主要用于机器学习实验的可视化，支持跟踪训练指标、分析模型结构及调试数据分布。北京谷翔信息技术有限公司TensorBoard存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.google.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-10",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "2ee46f0df2faea274e75a47c42c7c404"
+}

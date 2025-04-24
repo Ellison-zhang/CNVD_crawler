@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 10:06:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08183",
+    "spider_time": 1745489172582,
+    "name": "富士施乐（中国）有限公司Xerox® VersaLink® B7030 MFP存在弱口令漏洞",
+    "cnvd": "CNVD-2025-08183",
+    "publish": "2025-04-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5bcc\\u58eb\\u65bd\\u4e50\\uff08\\u4e2d\\u56fd\\uff09\\u6709\\u9650\\u516c\\u53f8 Xerox\\u00ae VersaLink\\u00ae B7030 MFP\"]",
+    "cve": null,
+    "description": "Xerox® VersaLink® B7030 MFP是一款多功能打印机，具有多种功能和性能特点。富士施乐（中国）有限公司Xerox® VersaLink® B7030 MFP存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.fujifilm.com.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-10",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "d665b994d257a4bca2c1edcf61daf147"
+}
