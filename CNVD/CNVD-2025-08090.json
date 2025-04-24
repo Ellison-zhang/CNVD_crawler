@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 05:04:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08090",
+    "spider_time": 1745471089938,
+    "name": "兄弟（中国）商业有限公司MFC-L9570CDW存在弱口令漏洞",
+    "cnvd": "CNVD-2025-08090",
+    "publish": "2025-04-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5144\\u5f1f\\uff08\\u4e2d\\u56fd\\uff09\\u5546\\u4e1a\\u6709\\u9650\\u516c\\u53f8 MFC-L9570CDW\"]",
+    "cve": null,
+    "description": "MFC-L9570CDW是一款专业、商务用途的彩色激光多功能打印机。兄弟（中国）商业有限公司MFC-L9570CDW存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.brother.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-09",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "e57e4e779c24355bd86acc7babb5a597"
+}

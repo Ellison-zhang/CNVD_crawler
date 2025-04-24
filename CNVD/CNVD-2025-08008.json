@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-24 04:21:17",
+    "parse_time": "2025-04-24 05:09:05",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08008",
-    "spider_time": 1745468477012,
+    "spider_time": 1745471345220,
     "name": "ThinkSAAS存在任意文件删除漏洞",
     "cnvd": "CNVD-2025-08008",
     "publish": "2025-04-17",
