@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 04:21:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08010",
+    "spider_time": 1745468466652,
+    "name": "langflowLangflow平台存在命令执行漏洞",
+    "cnvd": "CNVD-2025-08010",
+    "publish": "2025-04-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"langflow langflow <=1.0.18\", \"langflow Langflow\\u5e73\\u53f0 <=1.0.19\"]",
+    "cve": null,
+    "description": "Langflow是一个面向开发者的低代码工具网站。langflow Langflow平台存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.langflow.org/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-04",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "8602de6511c63eacb46741184461b1c2"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 04:14:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08036",
+    "spider_time": 1745468074358,
+    "name": "镇江市云优网络科技有限公司YUNUCMS存在命令执行漏洞",
+    "cnvd": "CNVD-2025-08036",
+    "publish": "2025-04-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u9547\\u6c5f\\u5e02\\u4e91\\u4f18\\u7f51\\u7edc\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 YUNUCMS v2.3.4\"]",
+    "cve": null,
+    "description": "YUNUCMS是一款开源的内容管理系统。镇江市云优网络科技有限公司YUNUCMS存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.yunucms.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-05",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "f7fc518aba80b820aec6c5fdabd14f7a"
+}

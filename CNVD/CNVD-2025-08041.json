@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 04:14:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08041",
+    "spider_time": 1745468050617,
+    "name": "东华医为科技有限公司东华医疗协同办公系统存在文件上传漏洞",
+    "cnvd": "CNVD-2025-08041",
+    "publish": "2025-04-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u4e1c\\u534e\\u533b\\u4e3a\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u4e1c\\u534e\\u533b\\u7597\\u534f\\u540c\\u529e\\u516c\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "东华医为科技有限公司是一家专注于医疗信息化的高新技术企业。东华医为科技有限公司东华医疗协同办公系统存在文件上传漏洞，攻击者可利用该漏洞获取服务器控制权。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.imedway.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-05",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "512ed7c1a338605d64f44ee20e9cb0f7"
+}

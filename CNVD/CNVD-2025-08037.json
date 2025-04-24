@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 04:14:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08037",
+    "spider_time": 1745468068400,
+    "name": "武汉舜通智能科技有限公司QTouch存在二进制漏洞",
+    "cnvd": "CNVD-2025-08037",
+    "publish": "2025-04-19",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u6b66\\u6c49\\u821c\\u901a\\u667a\\u80fd\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 Qtouch V3.0\"]",
+    "cve": null,
+    "description": "武汉舜通智能科技有限公司是一家专业从事跨平台组态软件、嵌入式硬件平台的研发、生产和销售的高科技企业‌。武汉舜通智能科技有限公司QTouch存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.qtouchtech.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-05",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "d4aa42d821878abe13df9f7fc39a51be"
+}

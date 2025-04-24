@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 04:14:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08042",
+    "spider_time": 1745468044446,
+    "name": "广州华壹智能科技有限公司JeeWMS存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08042",
+    "publish": "2025-04-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u5e7f\\u5dde\\u534e\\u58f9\\u667a\\u80fd\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 JeeWMS\"]",
+    "cve": null,
+    "description": "JeeWMS是广州华壹智能科技有限公司开发的一款基于JAVA的智能仓储管理系统。广州华壹智能科技有限公司JeeWMS存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.huayi-tec.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-05",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "c9eec5b4285a3b006f85e2ccb41fc40e"
+}

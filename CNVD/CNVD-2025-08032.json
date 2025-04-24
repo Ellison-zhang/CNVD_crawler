@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 04:14:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08032",
+    "spider_time": 1745468092977,
+    "name": "青岛东胜伟业软件有限公司东胜订舱平台存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-08032",
+    "publish": "2025-04-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"\\u9752\\u5c9b\\u4e1c\\u80dc\\u4f1f\\u4e1a\\u8f6f\\u4ef6\\u6709\\u9650\\u516c\\u53f8 \\u4e1c\\u80dc\\u8ba2\\u8231\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "青岛东胜伟业软件有限公司是一家主要业务包括计算机软件开发、网络工程设计、网页设计、综合布线、软件技术服务、电子设备的安装与维护及技术服务、物流信息服务等的公司。青岛东胜伟业软件有限公司东胜订舱平台存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.dongshengsoft.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-05",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "f011c199ec5d5da494319c6b40ee59b5"
+}

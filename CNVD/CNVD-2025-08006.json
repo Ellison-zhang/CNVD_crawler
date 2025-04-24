@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 04:21:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08006",
+    "spider_time": 1745468489908,
+    "name": "Ivanti.Ivanti Cloud Service Appliance存在命令执行漏洞",
+    "cnvd": "CNVD-2025-08006",
+    "publish": "2025-04-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Ivanti. Ivanti Cloud Service Appliance 4.6.0-519\"]",
+    "cve": null,
+    "description": "Ivanti Cloud Service Appliance是一款本地部署的虚拟设备，旨在简化和增强Ivanti产品与云服务的集成。Ivanti. Ivanti Cloud Service Appliance存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.ivanti.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-03",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "81271d42a43332a4c92a0acd37b0d670"
+}

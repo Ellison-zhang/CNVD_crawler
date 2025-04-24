@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 04:13:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08043",
+    "spider_time": 1745468039454,
+    "name": "NetgearNetgear WNR3500Lv2存在命令执行漏洞",
+    "cnvd": "CNVD-2025-08043",
+    "publish": "2025-04-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"NETGEAR Netgear WNR3500Lv2\"]",
+    "cve": null,
+    "description": "‌Netgear WNR3500Lv2是一款N300 Wireless Gigabit Router，主要功能包括提供高速无线网络和有线网络连接、USB存储共享以及智能网络管理。Netgear WNR3500Lv2存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.netgear.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-05",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "8a13feb80a5ee3bc357a3a870fe685c4"
+}

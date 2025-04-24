@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 04:19:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08027",
+    "spider_time": 1745468374609,
+    "name": "理光（中国）投资有限公司IM C350打印机存在弱口令漏洞",
+    "cnvd": "CNVD-2025-08027",
+    "publish": "2025-04-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u7406\\u5149\\uff08\\u4e2d\\u56fd\\uff09\\u6295\\u8d44\\u6709\\u9650\\u516c\\u53f8 IM C350\\u6253\\u5370\\u673a\"]",
+    "cve": null,
+    "description": "理光（中国）投资有限公司是一家提供办公影像设备、生产型印刷系统、文档管理系统以及相关IT服务的全球性科技企业‌。理光（中国）投资有限公司IM C350打印机存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.ricoh.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-04",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "392584ebdcc4fdbadf32dfaa2b1565c2"
+}

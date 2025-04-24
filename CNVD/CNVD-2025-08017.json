@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 04:20:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08017",
+    "spider_time": 1745468430071,
+    "name": "深圳市腾讯计算机系统有限公司TDSQL 自动化运维平台存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-08017",
+    "publish": "2025-04-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u817e\\u8baf\\u8ba1\\u7b97\\u673a\\u7cfb\\u7edf\\u6709\\u9650\\u516c\\u53f8 TDSQL\\u81ea\\u52a8\\u5316\\u8fd0\\u7ef4\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "深圳市腾讯计算机系统有限公司是一家以互联网为基础的平台公司，致力于通过技术丰富互联网用户的生活。‌深圳市腾讯计算机系统有限公司TDSQL自动化运维平台存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://cloud.tencent.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-04",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "c8d88a15b0e808c504e970e341247820"
+}

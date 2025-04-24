@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 04:21:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08007",
+    "spider_time": 1745468483275,
+    "name": "北京蓝谷极狐汽车科技有限公司ARCFOX极狐存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-08007",
+    "publish": "2025-04-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u84dd\\u8c37\\u6781\\u72d0\\u6c7d\\u8f66\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 ARCFOX\\u6781\\u72d0 3.0.1\"]",
+    "cve": null,
+    "description": "北京蓝谷极狐汽车科技有限公司是一家专注于高端智能新能源汽车研发和销售的公司。北京蓝谷极狐汽车科技有限公司ARCFOX极狐存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.arcfox.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-03",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "d923e869740195538e37d252017ab3bc"
+}

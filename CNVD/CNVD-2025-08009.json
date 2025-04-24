@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 04:21:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08009",
+    "spider_time": 1745468471873,
+    "name": "索尼（中国）有限公司Sony SNC-CH210存在弱口令漏洞",
+    "cnvd": "CNVD-2025-08009",
+    "publish": "2025-04-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u7d22\\u5c3c\\uff08\\u4e2d\\u56fd\\uff09\\u6709\\u9650\\u516c\\u53f8 Sony SNC-CH210\"]",
+    "cve": null,
+    "description": "Sony SNC-CH210是一款紧凑型高清网络摄像机，适用于中小企业和广泛的监控应用‌。索尼（中国）有限公司Sony SNC-CH210存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.sony.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-04",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "a631624ac1190f049cae3629c879c620"
+}

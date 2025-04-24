@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 04:14:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08033",
+    "spider_time": 1745468088608,
+    "name": "深圳市蓝宇网络技术有限公司EnGenius EAP1250存在弱口令漏洞",
+    "cnvd": "CNVD-2025-08033",
+    "publish": "2025-04-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u84dd\\u5b87\\u7f51\\u7edc\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 EnGenius EAP1250 V3\"]",
+    "cve": null,
+    "description": "EnGenius EAP1250是一款Wi-Fi 5 Wave 2 AC1300标准的Compact Indoor Wireless AP（无线接入点），主要用于提供室内无线覆盖和接入服务。深圳市蓝宇网络技术有限公司EnGenius EAP1250存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.lynet.net.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-05",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "12813b6d9491c6b712337045f1ba31ef"
+}

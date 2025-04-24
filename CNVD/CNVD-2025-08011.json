@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 04:21:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08011",
+    "spider_time": 1745468460428,
+    "name": "北京硕人时代科技股份有限公司Homs监控中心存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-08011",
+    "publish": "2025-04-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u7855\\u4eba\\u65f6\\u4ee3\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 Homs5.0\\u76d1\\u63a7\\u4e2d\\u5fc3 5.0.6521.28344\", \"\\u5317\\u4eac\\u7855\\u4eba\\u65f6\\u4ee3\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 HOMS\\u76d1\\u63a7\\u4e2d\\u5fc3 V5.0\"]",
+    "cve": null,
+    "description": "北京硕人时代科技股份有限公司是一家专注于集中供热领域的高新技术企业，致力于提供安全、节能、高效的产品与服务。北京硕人时代科技股份有限公司Homs监控中心存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.shuoren.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-04",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "b6a8bce21b9623f6ed49879a2ea020db"
+}

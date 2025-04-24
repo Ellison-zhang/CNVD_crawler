@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 04:14:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08034",
+    "spider_time": 1745468085566,
+    "name": "Teaching在线教学平台存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-08034",
+    "publish": "2025-04-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Teaching\\u5728\\u7ebf\\u6559\\u5b66\\u5e73\\u53f0 Teaching\\u5728\\u7ebf\\u6559\\u5b66\\u5e73\\u53f0 V2.7\"]",
+    "cve": null,
+    "description": "Teaching在线教学平台是一款WEB应用系统。Teaching在线教学平台存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://github.com/open-scratch/teaching-open",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-05",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "73d268826524d86b0de9f30e3260d580"
+}
