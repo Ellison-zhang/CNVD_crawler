@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-24 16:11:37",
+    "parse_time": "2025-04-24 17:12:08",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08137",
-    "spider_time": 1745511097592,
+    "spider_time": 1745514728275,
     "name": "ChestnutCMS存在任意文件读取漏洞",
     "cnvd": "CNVD-2025-08137",
     "publish": "2025-04-20",
