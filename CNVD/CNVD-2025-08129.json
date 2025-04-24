@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-24 11:07:47",
+    "parse_time": "2025-04-24 12:09:44",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08129",
-    "spider_time": 1745492867108,
+    "spider_time": 1745496584619,
     "name": "厦门科拓通讯技术股份有限公司找车机系统后台管理存在SQL注入漏洞",
     "cnvd": "CNVD-2025-08129",
     "publish": "2025-04-20",
