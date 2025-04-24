@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 20:03:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07994",
+    "spider_time": 1745525039747,
+    "name": "科大讯飞（北京）有限公司科大讯飞智慧云平台存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-07994",
+    "publish": "2025-04-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u79d1\\u5927\\u8baf\\u98de\\uff08\\u5317\\u4eac\\uff09\\u6709\\u9650\\u516c\\u53f8 \\u79d1\\u5927\\u8baf\\u98de\\u667a\\u6167\\u4e91\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "科大讯飞（北京）有限公司是一家主要从事技术开发、技术推广、技术转让、技术咨询、技术服务等业务‌的公司。科大讯飞（北京）有限公司科大讯飞智慧云平台存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.iflytek.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-03",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "7c4717c3d9d6fa1066588d69f63b32ca"
+}
