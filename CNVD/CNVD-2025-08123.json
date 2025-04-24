@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-24 13:17:49",
+    "parse_time": "2025-04-24 14:08:38",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08123",
-    "spider_time": 1745500669095,
+    "spider_time": 1745503718449,
     "name": "青岛海信网络科技股份有限公司车辆远程监控平台存在SQL注入漏洞",
     "cnvd": "CNVD-2025-08123",
     "publish": "2025-04-20",

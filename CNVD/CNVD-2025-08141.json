@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-24 13:16:22",
+    "parse_time": "2025-04-24 14:07:05",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08141",
-    "spider_time": 1745500582415,
+    "spider_time": 1745503625659,
     "name": "东莞市通天星软件科技有限公司CMSV6车载定位监控平台存在逻辑缺陷漏洞",
     "cnvd": "CNVD-2025-08141",
     "publish": "2025-04-20",
@@ -9,14 +9,14 @@
     "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
     "product": "[\"\\u4e1c\\u839e\\u5e02\\u901a\\u5929\\u661f\\u8f6f\\u4ef6\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 CMSV6\\u8f66\\u8f7d\\u5b9a\\u4f4d\\u76d1\\u63a7\\u5e73\\u53f0\"]",
     "cve": null,
-    "description": "东莞市通天星软件科技有限公司成立于2012年，是以无线视频和位置为核心的车联网平台解决方案提供商。东莞市通天星软件科技有限公司CMSV6车载定位监控平台存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "description": "东莞市通天星软件科技有限公司成立于2012年，是以无线视频和位置为核心的车联网平台解决方案提供商。东莞市通天星软件科技有限公司CMSV6车载定位监控平台存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息，执行未授权操作。",
     "flaw_type": "通用型漏洞",
     "reference": null,
-    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新\r：\nhttp://www.g-sky.cn/",
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新\n：\nhttp://www.g-sky.cn/",
     "patch": "(无补丁信息)",
     "verify": "已验证",
     "submit_time": "2025-03-06",
     "open_time": "2025-04-24",
     "update_time": "2025-04-24",
-    "data_summary": "81f9316261472c5e38def2b774f5d5d9"
+    "data_summary": "426f18448c173c148316b10551adffd0"
 }
