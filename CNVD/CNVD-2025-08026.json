@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-04-25 01:31:01",
+    "parse_time": "2025-04-25 02:31:34",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08026",
-    "spider_time": 1745544661764,
+    "spider_time": 1745548294197,
     "name": "北京网动网络科技股份有限公司网动统一通信平台存在SQL注入漏洞",
     "cnvd": "CNVD-2025-08026",
-    "publish": "2025-04-18",
+    "publish": "2025-04-25",
     "severity": "高",
     "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
     "product": "[\"\\u5317\\u4eac\\u7f51\\u52a8\\u7f51\\u7edc\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u7f51\\u52a8\\u7edf\\u4e00\\u901a\\u4fe1\\u5e73\\u53f0 V1.0.210125\"]",
@@ -12,11 +12,11 @@
     "description": "北京网动网络科技股份有限公司是全球领先的云视讯解决方案及服务提供商‌。北京网动网络科技股份有限公司网动统一通信平台存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
     "flaw_type": "通用型漏洞",
     "reference": null,
-    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.iactive.com.cn/",
-    "patch": "(无补丁信息)",
+    "solution": "厂商已发布漏洞修复程序，请及时关注更新：\nhttp://www.iactive.com.cn/",
+    "patch": "北京网动网络科技股份有限公司网动统一通信平台存在SQL注入漏洞的补丁",
     "verify": "已验证",
     "submit_time": "2025-03-04",
     "open_time": "2025-04-24",
-    "update_time": "2025-04-24",
-    "data_summary": "1a02b5e7e482d24a7ec65f7a696b3f3b"
+    "update_time": "2025-04-25",
+    "data_summary": "a004587de191e331ca64b11461d08364"
 }
