@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-25 06:10:56",
+    "parse_time": "2025-04-25 07:14:03",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08310",
-    "spider_time": 1745561456720,
+    "spider_time": 1745565243370,
     "name": "GNU GRUB缓冲区溢出漏洞（CNVD-2025-08310）",
     "cnvd": "CNVD-2025-08310",
     "publish": "2025-04-21",
