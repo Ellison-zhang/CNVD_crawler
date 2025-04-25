@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-25 05:13:23",
+    "parse_time": "2025-04-25 06:11:10",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08319",
-    "spider_time": 1745558003420,
+    "spider_time": 1745561470415,
     "name": "GNU GRUB2缓冲区溢出漏洞（CNVD-2025-08319）",
     "cnvd": "CNVD-2025-08319",
     "publish": "2025-04-21",
