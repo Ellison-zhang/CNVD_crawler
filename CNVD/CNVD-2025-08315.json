@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-25 03:33:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08315",
+    "spider_time": 1745552023208,
+    "name": "Dell NetWorker开放重定向漏洞",
+    "cnvd": "CNVD-2025-08315",
+    "publish": "2025-04-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"DELL Dell NetWorker <19.12.0.1\", \"DELL Dell NetWorker <19.11.0.4\"]",
+    "cve": "CVE-2025-21104",
+    "description": "Dell NetWorker是美国戴尔（Dell）公司的一个应用程序。提供戴尔公司的论坛讨论功能。Dell NetWorker存在开放重定向漏洞，该漏洞源于系统未对目标跳转做合理处理，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-21104",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-us/000294392/dsa-2025-124-security-update-for-dell-networker-management-console-for-http-host-header-injection-vulnerability",
+    "patch": "Dell NetWorker开放重定向漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-24",
+    "open_time": "2025-04-25",
+    "update_time": "2025-04-25",
+    "data_summary": "8f35652144142e25834f0a2ccc49d810"
+}

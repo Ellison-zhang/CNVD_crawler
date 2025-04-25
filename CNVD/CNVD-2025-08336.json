@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-25 03:30:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08336",
+    "spider_time": 1745551854894,
+    "name": "GNU Wget代码问题漏洞",
+    "cnvd": "CNVD-2025-08336",
+    "publish": "2025-04-22",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:P/A:P",
+    "product": "[\"Gnu GNU Wget <=1.24.5\"]",
+    "cve": "CVE-2024-10524",
+    "description": "GNU Wget是美国GNU社区的一套用于在网络上进行下载的自由软件，它支持通过HTTP、HTTPS以及FTP这三个最常见的TCP/IP协议下载。GNU Wget存在代码问题漏洞，该漏洞源于应用程序使用Wget访问远程资源时使用简写URL，并在URL中传递任意用户凭证，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-10524",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.gnu.org/software/wget/manual/",
+    "patch": "GNU Wget代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-21",
+    "open_time": "2025-04-25",
+    "update_time": "2025-04-25",
+    "data_summary": "34d1df215e9c6785182ee364854a0896"
+}

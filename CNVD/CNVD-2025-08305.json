@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-25 03:33:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08305",
+    "spider_time": 1745552008246,
+    "name": "Dell PowerEdge FX2和Dell PowerEdge VRTX缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-08305",
+    "publish": "2025-04-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"DELL Dell PowerEdge FX2 <2.40.200.202101130302\", \"DELL Dell PowerEdge VRTX <3.41.200.202209300499\"]",
+    "cve": "CVE-2025-26336",
+    "description": "Dell PowerEdge FX2和Dell PowerEdge VRTX都是美国戴尔（Dell）公司的产品。Dell PowerEdge FX2是一个2U混合机架式计算平台。Dell PowerEdge VRTX是一款内置存储系统的迷你服务器。Dell PowerEdge FX2和Dell PowerEdge VRTX存在缓冲区溢出漏洞，该漏洞源于应用在处理不受信任的输入时出现边界错误。攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-26336",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-us/000297463/dsa-2025-123-security-update-for-dell-chassis-management-controller-firmware-for-dell-poweredge-fx2-and-vrtx-vulnerabilities",
+    "patch": "Dell PowerEdge FX2和Dell PowerEdge VRTX缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-04-25",
+    "update_time": "2025-04-25",
+    "data_summary": "9dd1c86b90e58d0ccb381c92d80a2496"
+}

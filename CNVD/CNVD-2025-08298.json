@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-25 03:32:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08298",
+    "spider_time": 1745551972642,
+    "name": "Dell Wyse Management Suite代码问题漏洞",
+    "cnvd": "CNVD-2025-08298",
+    "publish": "2025-04-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"DELL Wyse Management Suite <=5.1\"]",
+    "cve": "CVE-2025-27692",
+    "description": "Dell Wyse Management Suite是一款用于管理和优化Wyse端点的可扩展解决方案，提供集中管理、资产追踪和自动设备发现等功能。Dell Wyse Management Suite中存在代码问题漏洞。该漏洞源于程序未能对上传文件类型进行充分的验证和限制。攻击者可利用该漏洞上传恶意文件，从而导致拒绝服务、信息泄露和远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-27692",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-us/000296515/dsa-2025-135",
+    "patch": "Dell Wyse Management Suite代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-15",
+    "open_time": "2025-04-25",
+    "update_time": "2025-04-25",
+    "data_summary": "40a3654fbbf155b116a32bfe7ee752b1"
+}

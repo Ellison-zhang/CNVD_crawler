@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-25 03:33:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08300",
+    "spider_time": 1745551982184,
+    "name": "Dell Wyse Management Suite拒绝服务漏洞",
+    "cnvd": "CNVD-2025-08300",
+    "publish": "2025-04-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"DELL Dell Wyse Management Suite <5.1\"]",
+    "cve": "CVE-2025-27694",
+    "description": "Dell Wyse Management Suite是美国戴尔（Dell）公司的一套用于管理和优化Wyse端点的、可扩展的解决方案，包括Wyse端点集中管理、资产追踪和自动设备发现等功能。Dell Wyse Management Suite存在拒绝服务漏洞。该漏洞源于资源池不足。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-27694",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-us/000296515/dsa-2025-135",
+    "patch": "Dell Wyse Management Suite拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-11",
+    "open_time": "2025-04-25",
+    "update_time": "2025-04-25",
+    "data_summary": "c8870cdb945453ba3390a7e10fe8f4cf"
+}

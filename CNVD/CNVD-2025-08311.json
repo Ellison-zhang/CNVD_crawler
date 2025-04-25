@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-25 03:33:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08311",
+    "spider_time": 1745552019029,
+    "name": "GNU GRUB缓冲区溢出漏洞（CNVD-2025-08311）",
+    "cnvd": "CNVD-2025-08311",
+    "publish": "2025-04-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:M/C:C/I:C/A:C",
+    "product": "[\"GNU GRUB\"]",
+    "cve": "CVE-2025-1125",
+    "description": "GNU GRUB是GNU社区的一款Linux系统引导程序。GRUB中存在缓冲区溢出漏洞。该漏洞源于fs/hfs模块包含一个整数溢出问题，导致基于堆的越界写入。攻击者可利用该漏洞在启动过程中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1125",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.gnu.org/software/grub/grub-download.html",
+    "patch": "GNU GRUB缓冲区溢出漏洞（CNVD-2025-08311）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-26",
+    "open_time": "2025-04-25",
+    "update_time": "2025-04-25",
+    "data_summary": "5b8c73d302a529665ccced5dab3af183"
+}

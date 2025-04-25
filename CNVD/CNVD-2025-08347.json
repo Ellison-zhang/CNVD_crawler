@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-25 03:28:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08347",
+    "spider_time": 1745551706266,
+    "name": "Triangle MicroWorks SCADA Data Gateway任意文件创建漏洞",
+    "cnvd": "CNVD-2025-08347",
+    "publish": "2025-04-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Triangle MicroWorks SCADA Data Gateway\"]",
+    "cve": "CVE-2023-39460",
+    "description": "Triangle MicroWorks SCADA Data Gateway是美国Triangle MicroWorks公司的一款SCADA数据网关产品。Triangle MicroWorks SCADA Data Gateway存在任意文件创建漏洞，攻击者可利用该漏洞提交特殊的请求执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-39460",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.trianglemicroworks.com/products/scada-data-gateway/what's-new",
+    "patch": "Triangle MicroWorks SCADA Data Gateway任意文件创建漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-08-07",
+    "open_time": "2025-04-25",
+    "update_time": "2025-04-25",
+    "data_summary": "8fdf7bb32d14197d26aa26aaf2dd9502"
+}

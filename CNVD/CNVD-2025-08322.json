@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-25 03:34:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08322",
+    "spider_time": 1745552041211,
+    "name": "GNU GRUB2缓冲区溢出漏洞（CNVD-2025-08322）",
+    "cnvd": "CNVD-2025-08322",
+    "publish": "2025-04-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"GNU GRUB2\"]",
+    "cve": "CVE-2024-45778",
+    "description": "GRUB2是GNU项目的多重引导加载程序。GNU GRUB2存在缓冲区溢出漏洞，该漏洞源于读取BFS文件系统时包含一个缓冲区溢出问题。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-45778",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.gnu.org/software/grub/grub-download.html",
+    "patch": "GNU GRUB2缓冲区溢出漏洞（CNVD-2025-08322）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-11",
+    "open_time": "2025-04-25",
+    "update_time": "2025-04-25",
+    "data_summary": "31c9352157afed5188d8af4fb5929276"
+}
