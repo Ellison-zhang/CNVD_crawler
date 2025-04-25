@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-25 10:12:10",
+    "parse_time": "2025-04-25 11:06:58",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08320",
-    "spider_time": 1745575930366,
+    "spider_time": 1745579218060,
     "name": "GNU GRUB2越界写入漏洞（CNVD-2025-08320）",
     "cnvd": "CNVD-2025-08320",
     "publish": "2025-04-22",
