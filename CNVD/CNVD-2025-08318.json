@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-26 13:08:05",
+    "parse_time": "2025-04-26 14:03:52",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08318",
-    "spider_time": 1745672885149,
+    "spider_time": 1745676232120,
     "name": "Tenda RX3缓存区溢出漏洞（CNVD-2025-08318）",
     "cnvd": "CNVD-2025-08318",
     "publish": "2025-04-24",
