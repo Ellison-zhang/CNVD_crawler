@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-27 17:04:24",
+    "parse_time": "2025-04-27 18:05:27",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08452",
-    "spider_time": 1745773464104,
+    "spider_time": 1745777127511,
     "name": "浙江兰德纵横网络技术股份有限公司O2OA开发平台存在SSRF漏洞",
     "cnvd": "CNVD-2025-08452",
     "publish": "2025-04-28",

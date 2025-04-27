@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-27 17:03:29",
+    "parse_time": "2025-04-27 18:04:27",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08465",
-    "spider_time": 1745773409442,
+    "spider_time": 1745777067251,
     "name": "Online Class and Exam Scheduling System存在SQL注入漏洞",
     "cnvd": "CNVD-2025-08465",
     "publish": "2025-04-28",
