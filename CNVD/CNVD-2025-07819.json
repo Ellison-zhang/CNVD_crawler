@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-27 22:06:29",
+    "parse_time": "2025-04-27 23:05:15",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07819",
-    "spider_time": 1745791589749,
+    "spider_time": 1745795115045,
     "name": "D-Link DI-8300 msp_info_htm函数命令注入漏洞",
     "cnvd": "CNVD-2025-07819",
     "publish": "2025-04-10",
