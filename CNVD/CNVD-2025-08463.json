@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 16:06:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08463",
+    "spider_time": 1745770016222,
+    "name": "兄弟商业（中国）有限公司MFC-J497DW存在弱口令漏洞",
+    "cnvd": "CNVD-2025-08463",
+    "publish": "2025-04-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5144\\u5f1f\\u5546\\u4e1a\\uff08\\u4e2d\\u56fd\\uff09\\u6709\\u9650\\u516c\\u53f8 MFC-J497DW\"]",
+    "cve": null,
+    "description": "兄弟商业（中国）有限公司MFC-J497DW是一款多功能彩色喷墨一体机‌，具备打印、复印、扫描和传真功能。兄弟商业（中国）有限公司MFC-J497DW存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.brother.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-14",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "572369768ee753bf2a2c188486e257c9"
+}

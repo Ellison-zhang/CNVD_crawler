@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 16:07:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08452",
+    "spider_time": 1745770064634,
+    "name": "浙江兰德纵横网络技术股份有限公司O2OA开发平台存在SSRF漏洞",
+    "cnvd": "CNVD-2025-08452",
+    "publish": "2025-04-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6d59\\u6c5f\\u5170\\u5fb7\\u7eb5\\u6a2a\\u7f51\\u7edc\\u6280\\u672f\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 O2OA\\u5f00\\u53d1\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "O2OA开发平台是一个基于JavaEE分布式架构的开源企业应用开发平台，主要用于企业信息化建设。浙江兰德纵横网络技术股份有限公司O2OA开发平台存在SSRF漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.zoneland.net/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-14",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "55421dcbb3da1a78d3f8e27337461165"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 16:07:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08462",
+    "spider_time": 1745770021493,
+    "name": "上海卓卓网络科技有限公司DedeCMS存在XSS漏洞",
+    "cnvd": "CNVD-2025-08462",
+    "publish": "2025-04-28",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"\\u4e0a\\u6d77\\u5353\\u5353\\u7f51\\u7edc\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 DedeCMS\"]",
+    "cve": null,
+    "description": "DEDECMS是一个基于PHP和MySQL的开源内容管理系统。上海卓卓网络科技有限公司DedeCMS存在XSS漏洞，攻击者可利用该漏洞获取用户cookie等敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.dedecms.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-14",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "9f2023a822a7fc818f24f3f1da114f04"
+}

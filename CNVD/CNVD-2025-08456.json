@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 16:07:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08456",
+    "spider_time": 1745770047998,
+    "name": "西安博达软件股份有限公司网站群管理平台存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08456",
+    "publish": "2025-04-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u897f\\u5b89\\u535a\\u8fbe\\u8f6f\\u4ef6\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u7f51\\u7ad9\\u7fa4\\u7ba1\\u7406\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "西安博达软件股份有限公司是一家专注于全媒体数字内容智能服务的公司，主要业务涉及大型网站群构建、移动互联、云计算、Web安全服务等领域。西安博达软件股份有限公司网站群管理平台存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.chinawebber.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-14",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "8124d762ed6104ea60a0c4f68564af04"
+}

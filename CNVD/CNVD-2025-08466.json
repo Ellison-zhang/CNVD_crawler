@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 16:06:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08466",
+    "spider_time": 1745769996725,
+    "name": "深圳市米进科技有限公司RFID智慧图书馆存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08466",
+    "publish": "2025-04-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u7c73\\u8fdb\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 RFID\\u667a\\u6167\\u56fe\\u4e66\\u9986\"]",
+    "cve": null,
+    "description": "深圳市米进科技有限公司是一家主要从事物联网智能终端产品、物联网信息系统的开发、销售，以及物联网项目设计、施工、管理的公司。深圳市米进科技有限公司RFID智慧图书馆存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://mijin.linkearths.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-14",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "851a451cd146b7187fab5763401a5363"
+}

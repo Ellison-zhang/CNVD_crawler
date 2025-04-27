@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 16:06:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08467",
+    "spider_time": 1745769991509,
+    "name": "上海安讯士网络通讯设备贸易有限公司AXIS M2014-E存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-08467",
+    "publish": "2025-04-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u4e0a\\u6d77\\u5b89\\u8baf\\u58eb\\u7f51\\u7edc\\u901a\\u8baf\\u8bbe\\u5907\\u8d38\\u6613\\u6709\\u9650\\u516c\\u53f8 AXIS M2014-E\"]",
+    "cve": null,
+    "description": "AXIS M2014-E是一款紧凑的高性能子弹型网络摄像机。上海安讯士网络通讯设备贸易有限公司AXIS M2014-E存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.axis.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-14",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "9305419f730e35beb3ca781468be152a"
+}

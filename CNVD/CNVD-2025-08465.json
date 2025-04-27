@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 16:06:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08465",
+    "spider_time": 1745770001734,
+    "name": "Online Class and Exam Scheduling System存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08465",
+    "publish": "2025-04-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"Payroll Management System Online Class and Exam Scheduling System\"]",
+    "cve": null,
+    "description": "Online Class and Exam Scheduling System是一种集在线课程安排和考试调度于一体的系统，主要用于管理和调度在线课程和考试。Online Class and Exam Scheduling System存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-14",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "bd2fab653368d21b15f95d3fb2cd9306"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 16:06:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08469",
+    "spider_time": 1745769982713,
+    "name": "北京天融信科技有限公司天融信上网行为管理系统存在二进制漏洞",
+    "cnvd": "CNVD-2025-08469",
+    "publish": "2025-04-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u5317\\u4eac\\u5929\\u878d\\u4fe1\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u5929\\u878d\\u4fe1\\u4e0a\\u7f51\\u884c\\u4e3a\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "天融信上网行为管理系统是一款网络行为管理产品，旨在满足各行各业进行网络行为管理和内容审计的需求。北京天融信科技有限公司天融信上网行为管理系统存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.topsec.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-14",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "4e6c79cba212275fa94bd3c6896a3976"
+}

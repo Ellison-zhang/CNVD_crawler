@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 16:07:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08455",
+    "spider_time": 1745770052005,
+    "name": "上海夏普电器有限公司MX-5070N存在弱口令漏洞",
+    "cnvd": "CNVD-2025-08455",
+    "publish": "2025-04-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u4e0a\\u6d77\\u590f\\u666e\\u7535\\u5668\\u6709\\u9650\\u516c\\u53f8 MX-5070N\"]",
+    "cve": null,
+    "description": "上海夏普电器有限公司MX-5070N是一款彩色数码复合机‌，具备复印、打印和扫描功能。上海夏普电器有限公司MX-5070N存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://shjava.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-14",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "42b960de36a424537d513c5dd6caf97c"
+}

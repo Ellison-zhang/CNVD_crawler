@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 16:07:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08454",
+    "spider_time": 1745770056252,
+    "name": "HP Development Company L.P.HP Color LaserJet Pro M501n存在弱口令漏洞",
+    "cnvd": "CNVD-2025-08454",
+    "publish": "2025-04-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"HP Development Company L.P. HP Color LaserJet Pro M501n\"]",
+    "cve": null,
+    "description": "HP Color LaserJet Pro M501n是一款黑白激光打印机‌，主要用于办公和商用场景。它的主要功能包括打印、复印和扫描，适用于中小企业和办公室环境。HP Color LaserJet Pro M501n存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.hp.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-14",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "b2a29df62977cd9d514c7146f2d94b4a"
+}

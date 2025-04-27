@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 16:06:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08464",
+    "spider_time": 1745770009980,
+    "name": "研华科技（中国）有限公司Advantech WebAccess存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-08464",
+    "publish": "2025-04-28",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"\\u7814\\u534e\\u79d1\\u6280\\uff08\\u4e2d\\u56fd\\uff09\\u6709\\u9650\\u516c\\u53f8 Advantech WebAccess 8.2\"]",
+    "cve": null,
+    "description": "Advantech WebAccess是一款基于网络浏览器的软件包，适合人机界面（HMI）和监控与数据采集（SCADA）应用‌。研华科技（中国）有限公司Advantech WebAccess存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.advantech.com.cn/llama.cpp",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-14",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "def6d150aae5240248f178440f4f8255"
+}

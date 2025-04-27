@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 16:07:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08459",
+    "spider_time": 1745770034538,
+    "name": "小米科技有限责任公司小爱同学存在二进制漏洞",
+    "cnvd": "CNVD-2025-08459",
+    "publish": "2025-04-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5c0f\\u7c73\\u79d1\\u6280\\u6709\\u9650\\u8d23\\u4efb\\u516c\\u53f8 \\u5c0f\\u7231\\u540c\\u5b66 6.127.8.0317\"]",
+    "cve": null,
+    "description": "小米科技有限责任公司是一家主要从事智能手机、物联网和生活消费产品的研发和销售，并提供互联网服务及投资业务‌的公司。小米科技有限责任公司小爱同学存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.mi.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-14",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "95794ce5da713425a676ba609855f31b"
+}

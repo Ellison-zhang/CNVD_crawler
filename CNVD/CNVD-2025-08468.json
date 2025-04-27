@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 16:06:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08468",
+    "spider_time": 1745769987983,
+    "name": "EasyAdmin8存在文件上传漏洞",
+    "cnvd": "CNVD-2025-08468",
+    "publish": "2025-04-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"EasyAdmin8 EasyAdmin8\"]",
+    "cve": null,
+    "description": "EasyAdmin8是一款基于ThinkPHP 8.0和Layui 2.9.x的快速开发后台管理系统。EasyAdmin8存在文件上传漏洞，攻击者可利用该漏洞获取服务器控制权。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://easyadmin8.top/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-14",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "a7036b9bdfb140c6eadad6d318b374e5"
+}
