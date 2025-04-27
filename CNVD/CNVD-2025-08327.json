@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-27 19:12:07",
+    "parse_time": "2025-04-27 20:06:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08327",
-    "spider_time": 1745781127768,
+    "spider_time": 1745784360921,
     "name": "WAVLINK AC3000命令注入漏洞（CNVD-2025-08327）",
     "cnvd": "CNVD-2025-08327",
     "publish": "2025-04-23",
