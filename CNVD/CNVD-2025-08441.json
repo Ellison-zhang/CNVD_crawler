@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 09:04:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08441",
+    "spider_time": 1745744698608,
+    "name": "惠普贸易（上海）有限公司HP LaserJet MFP M132nw存在弱口令漏洞",
+    "cnvd": "CNVD-2025-08441",
+    "publish": "2025-04-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u60e0\\u666e\\u8d38\\u6613\\uff08\\u4e0a\\u6d77\\uff09\\u6709\\u9650\\u516c\\u53f8 HP LaserJet MFP M132nw\"]",
+    "cve": null,
+    "description": "HP LaserJet MFP M132nw是一款黑白激光多功能一体机，主要用于打印、复印和扫描。‌惠普贸易（上海）有限公司HP LaserJet MFP M132nw存在弱口令漏洞,攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.hp.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "b794201e035801a3949515562455b260"
+}

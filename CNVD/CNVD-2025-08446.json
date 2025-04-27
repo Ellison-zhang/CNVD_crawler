@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 09:04:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08446",
+    "spider_time": 1745744673342,
+    "name": "广东保伦电子股份有限公司教育云平台存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08446",
+    "publish": "2025-04-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u5e7f\\u4e1c\\u4fdd\\u4f26\\u7535\\u5b50\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u6559\\u80b2\\u4e91\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "广东保伦电子股份有限公司是一家集声光电视讯系统整体解决方案产品研发、设计、生产、销售、服务的高新技术企业。广东保伦电子股份有限公司教育云平台存在SQL注入漏洞,攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.itc.vip/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "96e58a02ec55ddcab3eeef4c0d1754f1"
+}

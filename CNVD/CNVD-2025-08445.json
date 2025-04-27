@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 09:04:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08445",
+    "spider_time": 1745744676628,
+    "name": "和利时科技集团有限公司LE5118可编程逻辑控制器存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-08445",
+    "publish": "2025-04-27",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u548c\\u5229\\u65f6\\u79d1\\u6280\\u96c6\\u56e2\\u6709\\u9650\\u516c\\u53f8 LE5118\\u53ef\\u7f16\\u7a0b\\u903b\\u8f91\\u63a7\\u5236\\u5668 V2.0.2\"]",
+    "cve": null,
+    "description": "‌和利时科技集团有限公司是一家主要从事自动化控制系统平台和行业解决方案的高科技企业集团‌。和利时科技集团有限公司LE5118可编程逻辑控制器存在拒绝服务漏洞,攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.hollysys.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "c02cce7bb9b4e58beca963fba18b1537"
+}

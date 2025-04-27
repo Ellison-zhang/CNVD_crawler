@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 09:04:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08450",
+    "spider_time": 1745744650283,
+    "name": "厦门科拓通讯技术股份有限公司车场服务器管理面板存在命令执行漏洞",
+    "cnvd": "CNVD-2025-08450",
+    "publish": "2025-04-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u53a6\\u95e8\\u79d1\\u62d3\\u901a\\u8baf\\u6280\\u672f\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u8f66\\u573a\\u670d\\u52a1\\u5668\\u7ba1\\u7406\\u9762\\u677f\"]",
+    "cve": null,
+    "description": "厦门科拓通讯技术股份有限公司是一家专业的智慧停车解决方案提供商，专注于智慧停车行业多年。厦门科拓通讯技术股份有限公司车场服务器管理面板存在命令执行漏洞,攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.keytop.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "275f8de715483e5de7bcb3065c929198"
+}

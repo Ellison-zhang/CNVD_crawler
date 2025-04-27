@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 09:04:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08442",
+    "spider_time": 1745744693331,
+    "name": "索尼（中国）有限公司SONY SNC-CH260摄像头存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-08442",
+    "publish": "2025-04-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u7d22\\u5c3c\\uff08\\u4e2d\\u56fd\\uff09\\u6709\\u9650\\u516c\\u53f8 SONY SNC-CH260\\u6444\\u50cf\\u5934\"]",
+    "cve": null,
+    "description": "索尼（中国）有限公司是一家从事电子信息行业的投资、产品市场推广、顾客售后服务联络等的公司。索尼（中国）有限公司SONY SNC-CH260摄像头存在未授权访问漏洞,攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.sony.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "21148ee69af825c1374fa531b2655a96"
+}

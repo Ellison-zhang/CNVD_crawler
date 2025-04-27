@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 09:05:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08439",
+    "spider_time": 1745744704616,
+    "name": "Payroll Management System存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08439",
+    "publish": "2025-04-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"Payroll Management System Payroll Management System\"]",
+    "cve": null,
+    "description": "Payroll Management System是一种专门用于管理工资和薪酬的软件系统‌。Payroll Management System存在SQL注入漏洞,攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://code-projects.org/payroll-management-system-in-php-with-source-code/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "c56091e4e954ee1c313aef555dd57e6d"
+}
