@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-28 14:09:47",
+    "parse_time": "2025-04-28 15:12:13",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08434",
-    "spider_time": 1745849387610,
+    "spider_time": 1745853133119,
     "name": "GNU gettext跨站脚本漏洞",
     "cnvd": "CNVD-2025-08434",
     "publish": "2025-04-22",
