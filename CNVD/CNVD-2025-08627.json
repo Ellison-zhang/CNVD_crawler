@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-28 06:13:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08627",
+    "spider_time": 1745820811518,
+    "name": "理光（中国）投资有限公司IM C4500存在弱口令漏洞",
+    "cnvd": "CNVD-2025-08627",
+    "publish": "2025-04-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u7406\\u5149\\uff08\\u4e2d\\u56fd\\uff09\\u6295\\u8d44\\u6709\\u9650\\u516c\\u53f8 IM C4500\"]",
+    "cve": null,
+    "description": "IM C4500是一款中速彩色数码复合机。理光（中国）投资有限公司IM C4500存在弱口令漏洞,攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.ricoh.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-11",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "e9e8b6b1d4a42c313e757b8f569e4351"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-28 06:13:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08628",
+    "spider_time": 1745820804996,
+    "name": "Blood Bank Management System存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08628",
+    "publish": "2025-04-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Blood Bank Management System Blood Bank Management System\"]",
+    "cve": null,
+    "description": "Blood Bank Management System是一款内容管理系统。Blood Bank Management System存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注主页及时更新：\nhttps://code-projects.org/blood-bank-management-system-in-php-with-source-code/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-11",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "831ef05007a2d2d5ff4c4f3d0df25862"
+}

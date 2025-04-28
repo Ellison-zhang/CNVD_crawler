@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-28 06:09:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08654",
+    "spider_time": 1745820562747,
+    "name": "厦门科拓通讯技术股份有限公司科拓全智能停车视频收费系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08654",
+    "publish": "2025-04-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u53a6\\u95e8\\u79d1\\u62d3\\u901a\\u8baf\\u6280\\u672f\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u79d1\\u62d3\\u5168\\u667a\\u80fd\\u505c\\u8f66\\u89c6\\u9891\\u6536\\u8d39\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "厦门科拓通讯技术股份有限公司是专业的智慧停车价值运营商，旗下拥有速泊、速停车、泊视等多个子品牌，业务涵盖智慧停车解决方案、车场运营管理服务、互联网智慧停车平台等版块。厦门科拓通讯技术股份有限公司科拓全智能停车视频收费系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.keytop.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "3b0249e277d752368216454d9e16072e"
+}

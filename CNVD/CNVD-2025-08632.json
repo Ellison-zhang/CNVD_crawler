@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-28 06:13:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08632",
+    "spider_time": 1745820780488,
+    "name": "Brother MFC-9340CDW存在弱口令漏洞",
+    "cnvd": "CNVD-2025-08632",
+    "publish": "2025-04-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Brother MFC-9340CDW\"]",
+    "cve": null,
+    "description": "Brother MFC-9340CDW是一款旗舰级数字一体机。Brother MFC-9340CDW存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.brother.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-11",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "43f7916b1d651afdf8a0cc7f0e000497"
+}

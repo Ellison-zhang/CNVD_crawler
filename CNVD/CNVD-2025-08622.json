@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-28 06:13:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08622",
+    "spider_time": 1745820839537,
+    "name": "友讯电子设备（上海）有限公司AC集中管理平台存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-08622",
+    "publish": "2025-04-25",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"\\u53cb\\u8baf\\u7535\\u5b50\\u8bbe\\u5907\\uff08\\u4e0a\\u6d77\\uff09\\u6709\\u9650\\u516c\\u53f8 AC\\u96c6\\u4e2d\\u7ba1\\u7406\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "友讯电子设备（上海）有限公司是一家以从事计算机、通信和其他电子设备制造业为主的企业。友讯电子设备（上海）有限公司AC集中管理平台存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.dlink.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-11",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "5cef945f49e6b111b66120420f048b46"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-28 06:13:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08631",
+    "spider_time": 1745820786759,
+    "name": "信呼协同办公OA系统存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-08631",
+    "publish": "2025-04-25",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"\\u4fe1\\u547c \\u4fe1\\u547c\\u534f\\u540c\\u529e\\u516cOA\\u7cfb\\u7edf 2.6.7\"]",
+    "cve": null,
+    "description": "信呼协同办公OA系统是开源的一款办公系统，跨平台的系统，支持APP，pc网页版，pc客户端等。信呼协同办公OA系统存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://down.chinaz.com/soft/38078.htm",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-11",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "5fd461ab503ddc30f35127387354d831"
+}

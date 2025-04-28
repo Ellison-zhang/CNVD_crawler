@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-28 06:10:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08644",
+    "spider_time": 1745820621061,
+    "name": "浙江大华技术股份有限公司DSS存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08644",
+    "publish": "2025-04-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u6d59\\u6c5f\\u5927\\u534e\\u6280\\u672f\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 DSS\"]",
+    "cve": null,
+    "description": "浙江大华技术股份有限公司是全球领先的以视频为核心的智慧物联解决方案提供商和运营服务商。浙江大华技术股份有限公司DSS存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "据厂商提供的信息，该产品已经退市，请升级至最新版本：\nhttps://support.dahuatech.com/bulletin/info?IsDpValue=XJZWgKobkuMik0PhwVoPsjg6hGbLYAQKuf5hnmPaK9M%3D",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "c71633039c88a08c7ee1e883e9fe8f86"
+}

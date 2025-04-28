@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-28 06:12:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08633",
+    "spider_time": 1745820775376,
+    "name": "Baby Care system存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08633",
+    "publish": "2025-04-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"Baby Care System Baby Care System\"]",
+    "cve": null,
+    "description": "Baby Care System是一个婴儿护理系统。Baby Care system存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注主页及时更新：\nhttps://code-projects.org/baby-care-in-php-css-js-and-mysql-free-download/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-11",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "da4da00c5ff062d6fbff31e534b720c0"
+}

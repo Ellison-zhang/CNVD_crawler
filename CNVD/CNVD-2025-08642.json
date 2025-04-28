@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-28 06:10:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08642",
+    "spider_time": 1745820631009,
+    "name": "北京极推科技有限公司调问存在XSS漏洞",
+    "cnvd": "CNVD-2025-08642",
+    "publish": "2025-04-26",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u6781\\u63a8\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u8c03\\u95ee\"]",
+    "cve": null,
+    "description": "调问是免费的开源问卷表单系统。北京极推科技有限公司调问存在XSS漏洞，攻击者可利用该漏洞获取用户cookie等敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.diaowen.net/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "b90c4666a07ce58b529c7c1f44bd18ce"
+}

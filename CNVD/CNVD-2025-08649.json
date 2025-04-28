@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-28 06:09:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08649",
+    "spider_time": 1745820590578,
+    "name": "深圳达实物联网技术有限公司停车场管理系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08649",
+    "publish": "2025-04-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u8fbe\\u5b9e\\u7269\\u8054\\u7f51\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 \\u505c\\u8f66\\u573a\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "深圳达实物联网技术有限公司致力于物联网技术的创新、研发及应用，在智慧建筑空间场景应用领域成为全球领先的物联网产品及解决方案服务商。深圳达实物联网技术有限公司停车场管理系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.csdas.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "9a2d5cd2841fcb4175342efe4230b3e1"
+}

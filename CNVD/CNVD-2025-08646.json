@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-28 06:10:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08646",
+    "spider_time": 1745820608360,
+    "name": "VIVOTEK Network Camera Series存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-08646",
+    "publish": "2025-04-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Vivotek VIVOTEK Network Camera Series\"]",
+    "cve": null,
+    "description": "VIVOTEK Network Camera Series是网络摄像机产品。VIVOTEK Network Camera Series存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.vivotek.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "a82e8fae0e8a5dcbeb492a127fb81517"
+}
