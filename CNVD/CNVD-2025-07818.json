@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-28 16:15:21",
+    "parse_time": "2025-04-28 17:10:08",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07818",
-    "spider_time": 1745856921570,
+    "spider_time": 1745860208051,
     "name": "TOTOLINK A6000R action_passwd命令注入漏洞",
     "cnvd": "CNVD-2025-07818",
     "publish": "2025-04-10",
