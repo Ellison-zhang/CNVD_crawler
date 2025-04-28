@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-28 11:20:55",
+    "parse_time": "2025-04-28 12:08:09",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08433",
-    "spider_time": 1745839255644,
+    "spider_time": 1745842089428,
     "name": "Tenda AC6 formWifiWpsOOB函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-08433",
     "publish": "2025-04-25",
