@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-29 11:07:31",
+    "parse_time": "2025-04-29 12:13:01",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08774",
-    "spider_time": 1745924851991,
+    "spider_time": 1745928781139,
     "name": "Tenda AC10 AdvSetMacMtuWan缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-08774",
     "publish": "2025-04-25",
