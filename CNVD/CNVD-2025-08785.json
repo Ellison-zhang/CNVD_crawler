@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-29 09:05:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08785",
+    "spider_time": 1745917534991,
+    "name": "Adobe XMP Toolkit缓冲区溢出漏洞（CNVD-2025-08785）",
+    "cnvd": "CNVD-2025-08785",
+    "publish": "2025-04-29",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Adobe XMP Toolkit <=2023.12\"]",
+    "cve": "CVE-2025-30305",
+    "description": "Adobe XMP Toolkit是美国奥多比（Adobe）公司的一个工具包。用于将Xmp功能集成到产品或解决方案中。Adobe XMP Toolkit存在缓冲区溢出漏洞，该漏洞源于越界读取，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-30305",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/magento/apsb25-26.html",
+    "patch": "Adobe XMP Toolkit缓冲区溢出漏洞（CNVD-2025-08785）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-04-29",
+    "update_time": "2025-04-29",
+    "data_summary": "6e04216dde554176cb96c4cbf9dca2e4"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-29 09:05:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08784",
+    "spider_time": 1745917527018,
+    "name": "Esri Portal for ArcGIS硬编码凭据漏洞",
+    "cnvd": "CNVD-2025-08784",
+    "publish": "2025-04-29",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"esri Esri Portal For ArcGis <=11.4\"]",
+    "cve": "CVE-2025-2538",
+    "description": "Esri Portal for ArcGIS‌是一个基于Web的地理信息系统（GIS）平台。Esri Portal for ArcGIS存在硬编码凭据漏洞，攻击者可利用该漏洞获得对系统的管理访问权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-2538",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://support.esri.com/en-us/patches-updates/2025/portal-for-arcgis-security-2025-update-1-patch",
+    "patch": "Esri Portal for ArcGIS硬编码凭据漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-04-29",
+    "update_time": "2025-04-29",
+    "data_summary": "2e79001985b6f6a17eac36779924f25a"
+}
