@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-29 00:22:53",
+    "parse_time": "2025-04-29 01:36:40",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08333",
-    "spider_time": 1745886173784,
+    "spider_time": 1745890600888,
     "name": "WAVLINK AC3000缓冲区溢出漏洞（CNVD-2025-08333）",
     "cnvd": "CNVD-2025-08333",
     "publish": "2025-04-23",
