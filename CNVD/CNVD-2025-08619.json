@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-29 16:07:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08619",
+    "spider_time": 1745942834814,
+    "name": "Siemens TeleControl Server Basic SQL注入漏洞（CNVD-2025-08619）",
+    "cnvd": "CNVD-2025-08619",
+    "publish": "2025-04-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Siemens TeleControl Server Basic <V3.1.2.2\"]",
+    "cve": "CVE-2025-32831",
+    "description": "Siemens TeleControl Server Basic是德国西门子（Siemens）公司的一个工业远程控制器。Siemens TeleControl Server Basic存在SQL注入漏洞，该漏洞源于内部方法UpdateProjectUserRights存在SQL注入，攻击者可利用该漏洞导致绕过授权控制和执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-443402.html",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://cert-portal.siemens.com/productcert/html/ssa-443402.html",
+    "patch": "Siemens TeleControl Server Basic SQL注入漏洞（CNVD-2025-08619）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "8bc7bd3e82c81af8472af287f551fcf9"
+}

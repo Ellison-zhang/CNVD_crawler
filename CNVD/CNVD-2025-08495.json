@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-29 16:07:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08495",
+    "spider_time": 1745942852430,
+    "name": "四川迅睿云软件开发有限公司迅睿CMS存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08495",
+    "publish": "2025-04-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u56db\\u5ddd\\u8fc5\\u777f\\u4e91\\u8f6f\\u4ef6\\u5f00\\u53d1\\u6709\\u9650\\u516c\\u53f8 \\u8fc5\\u777fCMS\"]",
+    "cve": null,
+    "description": "迅睿CMS是一款基于CodeIgniter4开发的内容管理框架，主要用于网站建设和内容管理。‌四川迅睿云软件开发有限公司迅睿CMS存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布漏洞修复程序，请及时关注更新：\nhttps://www.xunruicms.com/",
+    "patch": "四川迅睿云软件开发有限公司迅睿CMS存在SQL注入漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-03-16",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-29",
+    "data_summary": "6a3f19252e4e94540f7377f583e44d8a"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-29 16:07:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08499",
+    "spider_time": 1745942846810,
+    "name": "上海商派网络科技有限公司ECShop存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-08499",
+    "publish": "2025-04-30",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:P/A:N",
+    "product": "[\"\\u4e0a\\u6d77\\u5546\\u6d3e\\u7f51\\u7edc\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 ECShop\"]",
+    "cve": null,
+    "description": "ECShop是一款B2C独立网店系统，适合企业及个人快速构建个性化网上商店‌。上海商派网络科技有限公司ECShop存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.ecshop.com",
+    "patch": "上海商派网络科技有限公司ECShop存在逻辑缺陷漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-03-16",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-28",
+    "data_summary": "f17fe1afaa260f82543d7f7c021d6b04"
+}
