@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-29 10:07:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08815",
+    "spider_time": 1745921225470,
+    "name": "Esri ArcGIS Enterprise信息泄露漏洞",
+    "cnvd": "CNVD-2025-08815",
+    "publish": "2025-04-29",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"esri ArcGIS Enterprise <=11.0\"]",
+    "cve": "CVE-2023-25848",
+    "description": "Esri ArcGIS Enterprise是美国环境系统研究所（Esri）公司的一套GIS（地理信息系统）的基础软件。Esri ArcGIS Enterprise存在信息泄露漏洞，该漏洞源于程序对敏感信息保护不足，攻击者可利用该漏洞提交精心设计的查询导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-25848",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.esri.com/arcgis-blog/products/trust-arcgis/announcements/arcgis-server-map-and-feature-service-security-2023-update-1-patch/",
+    "patch": "Esri ArcGIS Enterprise信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-08-29",
+    "open_time": "2025-04-29",
+    "update_time": "2025-04-29",
+    "data_summary": "8bd765fee6c05e9adcaa812ef63ee046"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-29 10:07:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08802",
+    "spider_time": 1745921261990,
+    "name": "Esri Portal For ArcGIS跨站脚本漏洞",
+    "cnvd": "CNVD-2025-08802",
+    "publish": "2025-04-29",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"esri Portal for ArcGIS <=11.1\"]",
+    "cve": "CVE-2023-25835",
+    "description": "Esri Portal For ArcGIS是Esri公司的一种允许在组织内与其他人共享地图、场景、应用程序和其他地理信息的组件。Esri Portal For ArcGIS存在跨站脚本漏洞，攻击者可利用该漏洞执行任意JavaScript代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-25835",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.esri.com/arcgis-blog/products/trust-arcgis/administration/portal-for-arcgis-enterprise-sites-security-patch-is-now-available/",
+    "patch": "Esri Portal For ArcGIS跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-07-21",
+    "open_time": "2025-04-29",
+    "update_time": "2025-04-29",
+    "data_summary": "3ec4b0154089a4ed2f666d1b0fc4ae5a"
+}

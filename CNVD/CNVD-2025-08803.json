@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-29 10:10:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08803",
+    "spider_time": 1745921419892,
+    "name": "Open5GS拒绝服务漏洞（CNVD-2025-08803）",
+    "cnvd": "CNVD-2025-08803",
+    "publish": "2025-04-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Open5GS Open5GS GTP library >=2.4.13\\uff0c<2.5.7\"]",
+    "cve": "CVE-2023-23846",
+    "description": "Open5GS是一个5G Core和Epc的C语言开源实现，即Lte/Nr网络的核心网络。Open5GS存在拒绝服务漏洞，该漏洞源于对扩展标头长度验证不足，攻击者可利用该漏洞导致拒绝服务和过度资源消耗。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-23846",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.synopsys.com/blogs/software-security/cyrc-advisory-open5gs-gtp-library/",
+    "patch": "Open5GS拒绝服务漏洞（CNVD-2025-08803）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-02-09",
+    "open_time": "2025-04-29",
+    "update_time": "2025-04-29",
+    "data_summary": "70468dae3252195be2bc6538386ad560"
+}
