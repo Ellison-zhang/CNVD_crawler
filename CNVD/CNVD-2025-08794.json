@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-29 10:10:52",
+    "parse_time": "2025-04-29 11:07:53",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08794",
-    "spider_time": 1745921452629,
+    "spider_time": 1745924873080,
     "name": "Tenda AC6 fromAddressNat函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-08794",
     "publish": "2025-04-25",
