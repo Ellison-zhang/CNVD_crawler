@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-30 11:06:06",
+    "parse_time": "2025-04-30 12:16:24",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08767",
-    "spider_time": 1746011166832,
+    "spider_time": 1746015384090,
     "name": "Tenda AC10 cloneType2参数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-08767",
     "publish": "2025-04-27",
