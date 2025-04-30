@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-30 05:08:02",
+    "parse_time": "2025-04-30 06:18:01",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08905",
-    "spider_time": 1745989682137,
+    "spider_time": 1745993881220,
     "name": "Tenda W6-S setcfm函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-08905",
     "publish": "2025-04-28",
