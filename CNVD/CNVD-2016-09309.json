@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-30 16:06:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2016-09309",
+    "spider_time": 1746029203760,
+    "name": "广西建工存在sql注入漏洞",
+    "cnvd": "CNVD-2016-09309",
+    "publish": "2025-05-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"(\\u6682\\u65e0)\"]",
+    "cve": null,
+    "description": "详情看poc",
+    "flaw_type": "事件型漏洞",
+    "reference": null,
+    "solution": "调用防注入文件",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2016-05-29",
+    "open_time": "2016-10-18",
+    "update_time": "2016-12-23",
+    "data_summary": "74cc3468e6e1f1a036b0c9009bfb4c32"
+}
