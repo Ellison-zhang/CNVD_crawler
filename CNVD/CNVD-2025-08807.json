@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-30 01:36:55",
+    "parse_time": "2025-04-30 02:38:48",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08807",
-    "spider_time": 1745977015421,
+    "spider_time": 1745980728551,
     "name": "Open5GS /lib/pfcp/context.c接口缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-08807",
     "publish": "2025-04-27",
