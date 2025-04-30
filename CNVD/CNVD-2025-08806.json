@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-04-30 17:11:57",
+    "parse_time": "2025-04-30 18:10:17",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08806",
-    "spider_time": 1746033117532,
+    "spider_time": 1746036617247,
     "name": "Open5GS /lib/core/abts.c接口缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-08806",
     "publish": "2025-04-27",
