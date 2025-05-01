@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-01 16:06:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08697",
+    "spider_time": 1746115590469,
+    "name": "用友网络科技股份有限公司用友BIP存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08697",
+    "publish": "2025-05-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u7528\\u53cb\\u7f51\\u7edc\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u7528\\u53cbBIP\"]",
+    "cve": null,
+    "description": "用友网络科技股份有限公司是亚太本土管理软件、ERP软件、集团管理软件、人力资源管理软件、客户关系管理软件、小型企业管理软件、财政及行政事业单位管理软件、汽车行业管理软件、烟草行业管理软件、内部审计软件及服务提供商，也是中国领先的企业云服务、医疗卫生信息化、管理咨询及管理信息化人才提供商。用友网络科技股份有限公司用友BIP存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修补方案，建议用户下载使用：\nhttps://security.yonyou.com/#/noticeInfo?id=688",
+    "patch": "用友网络科技股份有限公司用友BIP存在SQL注入漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-03-18",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "b7b96f5a29c9313626086cc241f372a8"
+}
