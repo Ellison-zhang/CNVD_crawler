@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-01 05:08:58",
+    "parse_time": "2025-05-01 06:09:22",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08770",
-    "spider_time": 1746076138277,
+    "spider_time": 1746079762944,
     "name": "Tenda AC10 serverName2参数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-08770",
     "publish": "2025-04-27",
