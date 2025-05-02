@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-02 04:10:19",
+    "parse_time": "2025-05-02 05:10:31",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08912",
-    "spider_time": 1746159019065,
+    "spider_time": 1746162631045,
     "name": "Tenda AC9 formAdvSetMacMtuWan函数的cloneType参数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-08912",
     "publish": "2025-04-28",
