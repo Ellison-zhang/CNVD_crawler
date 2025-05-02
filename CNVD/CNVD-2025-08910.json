@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-02 18:19:52",
+    "parse_time": "2025-05-02 19:12:12",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08910",
-    "spider_time": 1746209992739,
+    "spider_time": 1746213132698,
     "name": "lunary /v1/templates/{id}/versions端点访问控制错误漏洞",
     "cnvd": "CNVD-2025-08910",
     "publish": "2025-04-27",
