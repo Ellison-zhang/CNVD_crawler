@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-02 08:12:14",
+    "parse_time": "2025-05-02 09:10:21",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08798",
-    "spider_time": 1746173534016,
+    "spider_time": 1746177021415,
     "name": "Open5GS UE Context Release Request数据包拒绝服务漏洞",
     "cnvd": "CNVD-2025-08798",
     "publish": "2025-04-27",
