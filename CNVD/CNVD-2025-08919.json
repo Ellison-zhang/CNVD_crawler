@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-03 20:05:06",
+    "parse_time": "2025-05-03 21:05:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08919",
-    "spider_time": 1746302706367,
+    "spider_time": 1746306300706,
     "name": "ESRI ArcGIS AllSource不可信搜索路径漏洞",
     "cnvd": "CNVD-2025-08919",
     "publish": "2025-04-29",
