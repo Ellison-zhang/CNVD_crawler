@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-04 23:11:06",
+    "parse_time": "2025-05-05 00:19:41",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08769",
-    "spider_time": 1746400266732,
+    "spider_time": 1746404381056,
     "name": "Tenda AC10 mac2参数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-08769",
     "publish": "2025-04-27",
