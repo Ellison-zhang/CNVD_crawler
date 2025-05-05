@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-05 10:15:51",
+    "parse_time": "2025-05-05 11:10:40",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08768",
-    "spider_time": 1746440151566,
+    "spider_time": 1746443440442,
     "name": "Tenda AC10 wanSpeed2参数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-08768",
     "publish": "2025-04-27",
