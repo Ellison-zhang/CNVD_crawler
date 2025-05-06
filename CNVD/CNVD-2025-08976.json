@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-06 16:06:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08976",
+    "spider_time": 1746547594573,
+    "name": "PowerDNS存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-08976",
+    "publish": "2025-05-07",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"PowerDNS PowerDNS\"]",
+    "cve": null,
+    "description": "PowerDNS是一个跨平台的开源DNS服务组件。PowerDNS存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.powerdns.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-23",
+    "open_time": "2025-05-06",
+    "update_time": "2025-05-06",
+    "data_summary": "9948dc08f0f1f7b5d9f10ca663e553eb"
+}

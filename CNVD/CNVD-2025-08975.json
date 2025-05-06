@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-06 16:06:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08975",
+    "spider_time": 1746547600881,
+    "name": "tar存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-08975",
+    "publish": "2025-05-07",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tar tar 1.35\"]",
+    "cve": null,
+    "description": "tar‌是一种在Unix和类Unix系统（如Linux）中广泛使用的文件打包格式，支持处理包含符号链接（即软连接）的文件或目录。tar存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.gnu.org/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-23",
+    "open_time": "2025-05-06",
+    "update_time": "2025-05-06",
+    "data_summary": "c62608d6b9142208d78e680ee60fb8f7"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-06 16:06:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08977",
+    "spider_time": 1746547586934,
+    "name": "北京希瑞亚斯科技有限公司智能化招聘管理系统存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-08977",
+    "publish": "2025-05-07",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:P/A:N",
+    "product": "[\"\\u5317\\u4eac\\u5e0c\\u745e\\u4e9a\\u65af\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u667a\\u80fd\\u5316\\u62db\\u8058\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "北京希瑞亚斯科技有限公司是一家专注于提供智能化HR SaaS服务的公司。北京希瑞亚斯科技有限公司智能化招聘管理系统存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.mokahr.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-23",
+    "open_time": "2025-05-06",
+    "update_time": "2025-05-06",
+    "data_summary": "dc4c6352bf9435f13ccc4557da513205"
+}
