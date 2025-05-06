@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-06 11:03:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09063",
+    "spider_time": 1746529411921,
+    "name": "WordPress插件abcsubmit代码注入漏洞",
+    "cnvd": "CNVD-2025-09063",
+    "publish": "2025-05-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"WordPress abcsubmit plugin <=1.2.4\"]",
+    "cve": "CVE-2025-2801",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress插件abcsubmit 1.2.4及之前版本存在代码注入漏洞，该漏洞源于未正确验证值，攻击者可利用此漏洞导致任意代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/abcsubmit/tags/1.2.4/abcsubmit.php#L86",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/abcsubmit",
+    "patch": "WordPress插件abcsubmit代码注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-30",
+    "open_time": "2025-05-06",
+    "update_time": "2025-05-06",
+    "data_summary": "d5b835ff11859ff2075129e80f08998e"
+}

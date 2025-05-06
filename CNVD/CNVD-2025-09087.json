@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-06 11:03:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09087",
+    "spider_time": 1746529420804,
+    "name": "WordPress插件Add custom page template代码注入漏洞",
+    "cnvd": "CNVD-2025-09087",
+    "publish": "2025-05-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"WordPress Add custom page template plugin <=2.0.1\"]",
+    "cve": "CVE-2025-3491",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress插件Add custom page template 2.0.1及之前版本存在代码注入漏洞，该漏洞源于template_name参数清理不足，攻击者可利用此漏洞导致远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.svn.wordpress.org/add-custom-page-template/trunk/index.php",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/add-custom-page-template",
+    "patch": "WordPress插件Add custom page template代码注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-30",
+    "open_time": "2025-05-06",
+    "update_time": "2025-05-06",
+    "data_summary": "6fc63b27a46bc992b19c781b7f4f87b2"
+}
