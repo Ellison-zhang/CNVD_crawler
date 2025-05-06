@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-06 20:03:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08493",
+    "spider_time": 1746561831902,
+    "name": "东软集团股份有限公司Neusoft NetEye Firewall Software存在弱口令漏洞",
+    "cnvd": "CNVD-2025-08493",
+    "publish": "2025-05-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u4e1c\\u8f6f\\u96c6\\u56e2\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 Neusoft NetEye Firewall Software 3.2.4\"]",
+    "cve": null,
+    "description": "Neusoft NetEye Firewall Software是一款集成了多项尖端安全技术的下一代防火墙产品。东软集团股份有限公司Neusoft NetEye Firewall Software存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布漏洞修复程序，请及时关注更新：\nhttps://www.neusoft.com/",
+    "patch": "东软集团股份有限公司Neusoft NetEye Firewall Software存在弱口令漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-03-16",
+    "open_time": "2025-04-27",
+    "update_time": "2025-05-07",
+    "data_summary": "7da1137adde949aa2ad08e931855adc3"
+}
