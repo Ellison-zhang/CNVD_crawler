@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-07 22:05:08",
+    "parse_time": "2025-05-07 23:05:07",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09169",
-    "spider_time": 1746655508822,
+    "spider_time": 1746659107966,
     "name": "Tenda i12 formWifiMacFilterSet缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09169",
     "publish": "2025-04-30",
