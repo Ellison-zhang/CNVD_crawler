@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-07 08:05:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09156",
+    "spider_time": 1746605137897,
+    "name": "Google Chrome堆缓冲区溢出漏洞（CNVD-2025-09156）",
+    "cnvd": "CNVD-2025-09156",
+    "publish": "2025-05-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <135.0.7049.95\"]",
+    "cve": "CVE-2025-3619",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome存在堆缓冲区溢出漏洞，攻击者可利用该漏洞提交特殊的Web请求，诱使用户解析，使应用程序崩溃或执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-3619",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.google.com/chrome/",
+    "patch": "Google Chrome堆缓冲区溢出漏洞（CNVD-2025-09156）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-21",
+    "open_time": "2025-05-07",
+    "update_time": "2025-05-07",
+    "data_summary": "dffcb1df1e3b0e5b52b5eb8733f3fd76"
+}

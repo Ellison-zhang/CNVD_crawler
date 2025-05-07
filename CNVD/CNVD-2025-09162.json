@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-07 08:06:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09162",
+    "spider_time": 1746605215281,
+    "name": "Tenda RX3缓冲区溢出漏洞（CNVD-2025-09162）",
+    "cnvd": "CNVD-2025-09162",
+    "publish": "2025-04-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda RX3 V16.03.13.11_multi\", \"Tenda RX3 1.0\"]",
+    "cve": "CVE-2025-29360",
+    "description": "Tenda RX3是中国腾达（Tenda）公司的一款家用无线路由器。Tenda RX3存在缓冲区溢出漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-29360",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-17",
+    "open_time": "2025-05-07",
+    "update_time": "2025-05-07",
+    "data_summary": "c054b7717ac71d5f4ef8c551b573a95b"
+}

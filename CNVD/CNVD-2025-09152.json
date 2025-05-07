@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-07 08:05:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09152",
+    "spider_time": 1746605106371,
+    "name": "Google Chrome OS信息泄露漏洞（CNVD-2025-09152）",
+    "cnvd": "CNVD-2025-09152",
+    "publish": "2025-05-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Google Chrome OS 16002.23.0\"]",
+    "cve": "CVE-2025-1566",
+    "description": "Google Chrome OS是美国谷歌（Google）公司的一套基于Web的轻量型开源操作系统。Google Chrome OS存在信息泄露漏洞，该漏洞源于VPN状态转换期间未能正确隧道DNS流量，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1566",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://chromeos.google/",
+    "patch": "Google Chrome OS信息泄露漏洞（CNVD-2025-09152）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-05-07",
+    "update_time": "2025-05-07",
+    "data_summary": "b949df3bc8504f119acd04c917ec31a2"
+}
