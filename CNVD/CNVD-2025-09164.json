@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-07 21:06:26",
+    "parse_time": "2025-05-07 22:04:48",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09164",
-    "spider_time": 1746651986688,
+    "spider_time": 1746655488383,
     "name": "Tenda tx3缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09164",
     "publish": "2025-04-30",
