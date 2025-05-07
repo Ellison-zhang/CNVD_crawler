@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-07 05:10:28",
+    "parse_time": "2025-05-07 06:13:28",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08367",
-    "spider_time": 1746594628836,
+    "spider_time": 1746598408914,
     "name": "Siemens TeleControl Server Basic SQL注入漏洞（CNVD-2025-08367）",
     "cnvd": "CNVD-2025-08367",
     "publish": "2025-04-27",
