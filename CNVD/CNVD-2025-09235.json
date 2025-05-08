@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-08 08:04:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09235",
+    "spider_time": 1746691474141,
+    "name": "Moodle跨站脚本漏洞（CNVD-2025-09235）",
+    "cnvd": "CNVD-2025-09235",
+    "publish": "2025-05-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"moodle Moodle\"]",
+    "cve": "CVE-2025-3643",
+    "description": "Moodle是Moodle开源的一套免费的电子学习软件平台，也称课程管理系统、学习管理系统或虚拟学习环境。Moodle存在跨站脚本漏洞，该漏洞源于策略工具中的返回URL清理不足，攻击者可利用该漏洞导致反射型跨站脚本攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-3643",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://download.moodle.org/releases/latest/",
+    "patch": "Moodle跨站脚本漏洞（CNVD-2025-09235）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-07",
+    "open_time": "2025-05-08",
+    "update_time": "2025-05-08",
+    "data_summary": "01ebea5f5c6f0e6237e3e7fc9a98f483"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-08 08:04:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09238",
+    "spider_time": 1746691490187,
+    "name": "Moodle授权问题漏洞（CNVD-2025-09238）",
+    "cnvd": "CNVD-2025-09238",
+    "publish": "2025-05-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"moodle Moodle\"]",
+    "cve": "CVE-2025-32045",
+    "description": "Moodle是Moodle开源的一套免费的电子学习软件平台，也称课程管理系统、学习管理系统或虚拟学习环境。Moodle存在授权问题漏洞，该漏洞源于某些成绩报告中的能力检查不足，攻击者可利用该漏洞导致未经授权的用户访问隐藏成绩。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.redhat.com/show_bug.cgi?id=2356835",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2356835",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-30",
+    "open_time": "2025-05-08",
+    "update_time": "2025-05-08",
+    "data_summary": "7e436351b57dc127b6939daff37cb68a"
+}
