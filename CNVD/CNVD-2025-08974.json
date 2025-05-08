@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-08 01:31:24",
+    "parse_time": "2025-05-08 03:21:21",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08974",
-    "spider_time": 1746667884321,
+    "spider_time": 1746674481280,
     "name": "新华三技术有限公司NX15存在二进制漏洞",
     "cnvd": "CNVD-2025-08974",
     "publish": "2025-05-07",
@@ -9,14 +9,14 @@
     "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
     "product": "[\"\\u65b0\\u534e\\u4e09\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 NX15 <=V100R014\"]",
     "cve": null,
-    "description": "新华三技术有限公司是一家全球领先的数字化解决方案领导者。新华三技术有限公司NX15存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "description": "新华三技术有限公司是一家全球领先的数字化解决方案领导者。新华三技术有限公司NX15存在二进制漏洞，攻击者可利用该漏洞获取服务器控制权。",
     "flaw_type": "通用型漏洞",
     "reference": null,
-    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.h3c.com",
-    "patch": "(无补丁信息)",
+    "solution": "厂商已发布漏洞修复程序，请及时关注更新：\nhttps://www.h3c.com",
+    "patch": "新华三技术有限公司NX15存在二进制漏洞的补丁",
     "verify": "已验证",
     "submit_time": "2025-03-23",
     "open_time": "2025-05-06",
-    "update_time": "2025-05-06",
-    "data_summary": "a00aa6d01428882e14b8852a521b5c12"
+    "update_time": "2025-05-07",
+    "data_summary": "767240acbccef02b70589076a0b5e1e0"
 }

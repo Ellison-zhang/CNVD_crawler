@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-08 01:33:52",
+    "parse_time": "2025-05-08 03:23:20",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09168",
-    "spider_time": 1746668032101,
+    "spider_time": 1746674600246,
     "name": "Tenda AC8 get_parentControl_list_Info函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09168",
     "publish": "2025-04-30",
