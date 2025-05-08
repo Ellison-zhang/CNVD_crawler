@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-08 17:03:34",
+    "parse_time": "2025-05-08 18:04:42",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09239",
-    "spider_time": 1746723814823,
+    "spider_time": 1746727482904,
     "name": "FoxCMS Field.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-09239",
     "publish": "2025-05-07",
