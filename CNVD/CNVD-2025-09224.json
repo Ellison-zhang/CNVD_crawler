@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-08 01:33:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09224",
+    "spider_time": 1746668025961,
+    "name": "Tenda AC6代码执行漏洞",
+    "cnvd": "CNVD-2025-09224",
+    "publish": "2025-04-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Tenda AC6 15.03.05.16_multi\"]",
+    "cve": "CVE-2025-25507",
+    "description": "Tenda AC6是中国腾达（Tenda）公司的一款无线路由器。Tenda AC6存在代码执行漏洞，该漏洞源于formexeCommand函数的cmdinput参数未能正确过滤构造代码段的特殊元素。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-25507",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-28",
+    "open_time": "2025-05-08",
+    "update_time": "2025-05-08",
+    "data_summary": "d5a00bbd77691ad4e31e6763c0d675bc"
+}

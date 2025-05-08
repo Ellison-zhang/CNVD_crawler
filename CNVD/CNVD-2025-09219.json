@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-08 01:33:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09219",
+    "spider_time": 1746668001371,
+    "name": "Tenda AC10命令注入漏洞（CNVD-2025-09219）",
+    "cnvd": "CNVD-2025-09219",
+    "publish": "2025-04-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda AC10 15.03.06.23\", \"Tenda AC10 1.0\"]",
+    "cve": "CVE-2025-25675",
+    "description": "Tenda AC10是中国腾达（Tenda）公司的一款无线路由器。Tenda AC10存在命令注入漏洞，该漏洞源于formexeCommand函数中包含一个命令注入漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-25675",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-05-08",
+    "update_time": "2025-05-08",
+    "data_summary": "26e0971aa8f9695afd9f969e90010d0a"
+}
