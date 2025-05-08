@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-08 09:04:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09243",
+    "spider_time": 1746695048483,
+    "name": "Mattermost输入验证错误漏洞（CNVD-2025-09243）",
+    "cnvd": "CNVD-2025-09243",
+    "publish": "2025-05-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Mattermost Mattermost\"]",
+    "cve": "CVE-2025-41395",
+    "description": "Mattermost是美国Mattermost公司的一个开源协作平台。Mattermost存在输入验证错误漏洞，该漏洞源于props验证不足，攻击者可利用该漏洞导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-41395",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://mattermost.com/security-updates",
+    "patch": "Mattermost输入验证错误漏洞（CNVD-2025-09243）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-07",
+    "open_time": "2025-05-08",
+    "update_time": "2025-05-08",
+    "data_summary": "234a04927f912a729a1a24381bf69c43"
+}

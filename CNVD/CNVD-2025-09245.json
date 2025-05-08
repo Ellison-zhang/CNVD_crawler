@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-08 09:04:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09245",
+    "spider_time": 1746695060161,
+    "name": "SAP NetWeaver Visual Composer Metadata Uploader文件上传漏洞",
+    "cnvd": "CNVD-2025-09245",
+    "publish": "2025-05-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"SAP SAP NetWeaver Visual Composer Metadata Uploader 7.5.0\"]",
+    "cve": "CVE-2025-31324",
+    "description": "SAP NetWeaver Visual Composer Metadata Uploader是德国思爱普（SAP）公司的一个用于辅助建模的工具。SAP NetWeaver Visual Composer Metadata Uploader存在文件上传漏洞。该漏洞是由于受影响组件未进行适当的授权检查，未经身份验证的代理上传潜在的恶意可执行二进制文件。攻击者可利用该漏洞上传并执行恶意代码，从而完全控制受影响的系统。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-31324",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://support.sap.com/en/my-support/software-downloads.html",
+    "patch": "SAP NetWeaver Visual Composer Metadata Uploader文件上传漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-05-08",
+    "update_time": "2025-05-08",
+    "data_summary": "02ebfe22911e8f4d55f0f8c03b77856e"
+}

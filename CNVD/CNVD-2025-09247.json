@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-08 09:04:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09247",
+    "spider_time": 1746695070338,
+    "name": "SAP NetWeaver Server ABAP授权问题漏洞",
+    "cnvd": "CNVD-2025-09247",
+    "publish": "2025-05-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"SAP SAP NetWeaver Server ABAP\"]",
+    "cve": "CVE-2025-27437",
+    "description": "SAP NetWeaver Server ABAP是德国思爱普（SAP）公司的一个应用服务器。SAP NetWeaver Server ABAP存在授权问题漏洞，该漏洞源于病毒扫描接口缺少授权检查，攻击者可利用该漏洞访问敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-27437",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://me.sap.com/notes/3568778",
+    "patch": "SAP NetWeaver Server ABAP授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-05-08",
+    "update_time": "2025-05-08",
+    "data_summary": "cd18f534fb4721e190dfb0a53aacaf10"
+}
