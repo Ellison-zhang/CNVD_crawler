@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-09 08:06:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09391",
+    "spider_time": 1746777986722,
+    "name": "Linux kernel存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-09391",
+    "publish": "2025-05-06",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Linux Linux kernel\"]",
+    "cve": null,
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.linux.org/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-22",
+    "open_time": "2025-05-09",
+    "update_time": "2025-05-09",
+    "data_summary": "a39273953e0e37141a742dd7ab4dd2ea"
+}

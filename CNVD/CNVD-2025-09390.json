@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-09 08:06:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09390",
+    "spider_time": 1746777990449,
+    "name": "Mozilla Firefox存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-09390",
+    "publish": "2025-05-06",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Mozilla Firefox\"]",
+    "cve": null,
+    "description": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Firefox存在逻辑缺陷漏洞，攻击者可利用该漏洞查看明文密码。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.firefox.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-22",
+    "open_time": "2025-05-09",
+    "update_time": "2025-05-09",
+    "data_summary": "587ef32e2fab60696894a2ea1872f6c5"
+}
