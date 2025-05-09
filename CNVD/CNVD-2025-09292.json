@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-09 07:07:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09292",
+    "spider_time": 1746774434146,
+    "name": "上海三川爱水科技有限公司水务网上营业厅系统存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-09292",
+    "publish": "2025-05-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"\\u4e0a\\u6d77\\u4e09\\u5ddd\\u7231\\u6c34\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u6c34\\u52a1\\u7f51\\u4e0a\\u8425\\u4e1a\\u5385\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "上海三川爱水科技有限公司是一家以从事专业技术服务业为主的企业。上海三川爱水科技有限公司水务网上营业厅系统存在逻辑缺陷漏洞，攻击者可利用该漏洞重置任意用户账号密码。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "暂无",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-22",
+    "open_time": "2025-05-09",
+    "update_time": "2025-05-09",
+    "data_summary": "ea1c52dde17ff47db86e8cf2e3840747"
+}
