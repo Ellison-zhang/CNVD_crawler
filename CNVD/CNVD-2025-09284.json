@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-09 02:33:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09284",
+    "spider_time": 1746758007820,
+    "name": "Apache Roller代码问题漏洞",
+    "cnvd": "CNVD-2025-09284",
+    "publish": "2025-05-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apache Apache Roller <=6.1.4\"]",
+    "cve": "CVE-2025-24859",
+    "description": "Apache Roller是美国阿帕奇（Apache）基金会的一套基于Java的多用户开源博客系统。Apache Roller 6.1.4及之前版本存在代码问题漏洞，该漏洞源于密码更改后会话未正确失效，攻击者可利用该漏洞导致未授权访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2025/04/11/1",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://roller.apache.org/downloads/downloads.html",
+    "patch": "Apache Roller代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-05-09",
+    "update_time": "2025-05-09",
+    "data_summary": "60a1f59ea19dab2fb707b3101c63ea9a"
+}

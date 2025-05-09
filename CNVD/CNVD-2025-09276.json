@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-09 02:32:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09276",
+    "spider_time": 1746757974719,
+    "name": "IBM InfoSphere Information Server访问控制错误漏洞",
+    "cnvd": "CNVD-2025-09276",
+    "publish": "2025-05-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"IBM IBM InfoSphere Information Server 11.7\"]",
+    "cve": "CVE-2024-22351",
+    "description": "IBM InfoSphere Information Server是美国国际商业机器（IBM）公司的一套数据整合平台。该平台可用于整合各种渠道获取的数据信息。IBM InfoSphere Information Server 11.7版本存在访问控制错误漏洞，该漏洞源于注销后未使会话失效，攻击者利用该漏洞导致已认证用户冒充其他用户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-22351",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7229921",
+    "patch": "IBM InfoSphere Information Server访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-07",
+    "open_time": "2025-05-09",
+    "update_time": "2025-05-09",
+    "data_summary": "c6e84fe0ec87ec1d90e96bcf1a8c6d9b"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-09 02:32:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09285",
+    "spider_time": 1746757955856,
+    "name": "IBM Sterling Control Center跨站脚本漏洞（CNVD-2025-09285）",
+    "cnvd": "CNVD-2025-09285",
+    "publish": "2025-05-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"IBM IBM Sterling Control Center 6.2.1\", \"IBM IBM Sterling Control Center 6.3.1\", \"IBM IBM Sterling Control Center 6.4.0\"]",
+    "cve": "CVE-2023-42007",
+    "description": "IBM Sterling Control Center是美国国际商业机器（IBM）公司的一个应用系统。一个集中的监视和管理系统。IBM Sterling Control Center存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-42007",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7230560",
+    "patch": "IBM Sterling Control Center跨站脚本漏洞（CNVD-2025-09285）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-05-09",
+    "update_time": "2025-05-09",
+    "data_summary": "7ef6a11aca9b306cbe1f77334d739be8"
+}

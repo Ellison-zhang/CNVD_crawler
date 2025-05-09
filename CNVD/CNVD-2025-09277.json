@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-09 02:32:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09277",
+    "spider_time": 1746757978885,
+    "name": "IBM InfoSphere Information Server明文传输漏洞",
+    "cnvd": "CNVD-2025-09277",
+    "publish": "2025-05-07",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:N/A:N",
+    "product": "[\"IBM IBM InfoSphere Information Server 11.7\"]",
+    "cve": "CVE-2025-25046",
+    "description": "IBM InfoSphere Information Server是美国国际商业机器（IBM）公司的一套数据整合平台。该平台可用于整合各种渠道获取的数据信息。IBM InfoSphere Information Server 11.7版本存在明文传输漏洞，该漏洞源于通过URL或查询参数传输敏感信息，攻击者利用该漏洞导致中间人攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-25046",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7231333",
+    "patch": "IBM InfoSphere Information Server明文传输漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-07",
+    "open_time": "2025-05-09",
+    "update_time": "2025-05-09",
+    "data_summary": "4f7e06a4bf38e1d86594479ae83ef72e"
+}

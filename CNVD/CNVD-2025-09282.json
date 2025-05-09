@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-09 02:32:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09282",
+    "spider_time": 1746757951769,
+    "name": "TOTOLINK A800R v25参数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-09282",
+    "publish": "2025-05-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK A800R V4.1.2cu.5137_B20200730\"]",
+    "cve": "CVE-2025-28020",
+    "description": "TOTOLINK A800R是中国吉翁电子（TOTOLINK）公司的一款无线路由器。TOTOLINK A800R V4.1.2cu.5137_B20200730版本存在缓冲区溢出漏洞，该漏洞源于downloadFile.cgi中v25参数未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-28020",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://locrian-lightning-dc7.notion.site/BufferOverflow3-1948e5e2b1a280c28ef5c6e54b49324d?pvs=73",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-07",
+    "open_time": "2025-05-09",
+    "update_time": "2025-05-09",
+    "data_summary": "c187001c08101f4cbc9223474936db23"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-09 02:32:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09275",
+    "spider_time": 1746757970310,
+    "name": "IBM Operational Decision Manager跨站脚本漏洞",
+    "cnvd": "CNVD-2025-09275",
+    "publish": "2025-05-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"IBM IBM Operational Decision Manager 8.11.0.1\", \"IBM IBM Operational Decision Manager 8.11.1.0\", \"IBM IBM Operational Decision Manager 8.12.0.1\", \"IBM IBM Operational Decision Manager 9.0.0.1\"]",
+    "cve": "CVE-2025-1551",
+    "description": "IBM Operational Decision Manager是美国国际商业机器（IBM）公司的一种决策管理解决方案，用于帮助组织更好地管理和执行业务规则和决策。IBM Operational Decision Manager存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1551",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7232032",
+    "patch": "IBM Operational Decision Manager跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-07",
+    "open_time": "2025-05-09",
+    "update_time": "2025-05-09",
+    "data_summary": "50b2383a5852b6cf79e2227c919505cc"
+}

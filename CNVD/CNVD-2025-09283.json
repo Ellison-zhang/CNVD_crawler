@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-09 02:33:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09283",
+    "spider_time": 1746757998560,
+    "name": "IBM Maximo Asset Management跨站脚本漏洞（CNVD-2025-09283）",
+    "cnvd": "CNVD-2025-09283",
+    "publish": "2025-05-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"IBM IBM Maximo Asset Management 7.6.1.3\"]",
+    "cve": "CVE-2025-2986",
+    "description": "IBM Maximo Asset Management是美国国际商业机器（IBM）公司的一套综合性资产生命周期和维护管理解决方案。该方案能够在一个平台上管理所有类型的资产，如设施、交通运输等，并对这些资产实现单点控制。IBM Maximo Asset Management 7.6.1.3版本存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-2986",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7231785",
+    "patch": "IBM Maximo Asset Management跨站脚本漏洞（CNVD-2025-09283）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-30",
+    "open_time": "2025-05-09",
+    "update_time": "2025-05-09",
+    "data_summary": "326401a2bb2d84298a45a5dd1d2e9653"
+}
