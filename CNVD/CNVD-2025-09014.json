@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-09 16:06:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09014",
+    "spider_time": 1746806800529,
+    "name": "新华三技术有限公司H3C Magic R3000千兆双频Wi-Fi 6路由器存在二进制漏洞",
+    "cnvd": "CNVD-2025-09014",
+    "publish": "2025-05-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u65b0\\u534e\\u4e09\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 H3C Magic R3000\\u5343\\u5146\\u53cc\\u9891Wi-Fi 6\\u8def\\u7531\\u5668 V100R009\"]",
+    "cve": null,
+    "description": "新华三技术有限公司是一家全球领先的数字化解决方案领导者。新华三技术有限公司H3C Magic R3000千兆双频Wi-Fi 6路由器存在二进制漏洞，攻击者可利用该漏洞绕过登录限制。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布漏洞修复程序，请及时关注更新：\nhttps://www.h3c.com/",
+    "patch": "新华三技术有限公司H3C Magic R3000千兆双频Wi-Fi 6路由器存在二进制漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-03-26",
+    "open_time": "2025-05-06",
+    "update_time": "2025-05-07",
+    "data_summary": "6e61e4db0f8e9683913cc0d08dd551f9"
+}

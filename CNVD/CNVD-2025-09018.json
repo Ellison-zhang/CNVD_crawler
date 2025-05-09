@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-09 16:06:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09018",
+    "spider_time": 1746806791806,
+    "name": "用友网络科技股份有限公司用友U8 CRM存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-09018",
+    "publish": "2025-05-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u7528\\u53cb\\u7f51\\u7edc\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u7528\\u53cbU8 CRM\"]",
+    "cve": null,
+    "description": "用友U8 CRM‌是用友公司推出的一款客户关系管理解决方案。用友网络科技股份有限公司用友U8 CRM存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布漏洞修复程序，请及时关注更新：\nhttps://www.yonyou.com/",
+    "patch": "用友网络科技股份有限公司用友U8 CRM存在SQL注入漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-03-26",
+    "open_time": "2025-05-06",
+    "update_time": "2025-05-07",
+    "data_summary": "b0a6b276864683733224b2fae9ce0460"
+}
