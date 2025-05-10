@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-10 15:03:57",
+    "parse_time": "2025-05-10 16:04:20",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09265",
-    "spider_time": 1746889437150,
+    "spider_time": 1746893060743,
     "name": "Adobe XMP Toolkit缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09265",
     "publish": "2025-05-07",
