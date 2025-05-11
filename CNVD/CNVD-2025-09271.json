@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-10 23:04:39",
+    "parse_time": "2025-05-11 00:16:17",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09271",
-    "spider_time": 1746918279468,
+    "spider_time": 1746922577912,
     "name": "Adobe Framemaker堆缓冲区溢出（CNVD-2025-09271）",
     "cnvd": "CNVD-2025-09271",
     "publish": "2025-05-07",
