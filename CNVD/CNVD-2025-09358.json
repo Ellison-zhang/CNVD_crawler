@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-12 02:39:49",
+    "parse_time": "2025-05-12 03:24:24",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09358",
-    "spider_time": 1747017589503,
+    "spider_time": 1747020264165,
     "name": "浙江大华技术股份有限公司DSS存在SQL注入漏洞",
     "cnvd": "CNVD-2025-09358",
     "publish": "2025-05-04",
@@ -13,10 +13,10 @@
     "flaw_type": "通用型漏洞",
     "reference": null,
     "solution": "据厂商提供的信息，该产品已退市，用户可以升级至最新版本：\nhttps://support.dahuatech.com/bulletin/info?IsDpValue=XJZWgKobkuMik0PhwVoPsjg6hGbLYAQKuf5hnmPaK9M%3D",
-    "patch": "(无补丁信息)",
+    "patch": "浙江大华技术股份有限公司DSS存在SQL注入漏洞的补丁",
     "verify": "已验证",
     "submit_time": "2025-03-20",
     "open_time": "2025-05-09",
     "update_time": "2025-05-09",
-    "data_summary": "9ac37c4082cb83369a49f5be03bf4991"
+    "data_summary": "bc799ca831cf13e117c9722ab81635f6"
 }
