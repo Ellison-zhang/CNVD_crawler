@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-12 08:05:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09394",
+    "spider_time": 1747037111220,
+    "name": "Dell PowerProtect Data Manager Reporting权限提升漏洞",
+    "cnvd": "CNVD-2025-09394",
+    "publish": "2025-05-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL PowerProtect Data Manager Reporting 19.17\"]",
+    "cve": "CVE-2025-23375",
+    "description": "Dell PowerProtect Data Manager Reporting是一款数据保护管理软件。Dell PowerProtect Data Manager Reporting存在权限提升漏洞，该漏洞源于程序未能正确限制API权限，攻击者可利用该漏洞获取更高权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-23375",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000311083/dsa-2025-062-security-update-for-dell-powerprotect-data-manager-multiple-security-vulnerabilities",
+    "patch": "Dell PowerProtect Data Manager权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-30",
+    "open_time": "2025-05-12",
+    "update_time": "2025-05-12",
+    "data_summary": "4b4ab2b26a09fdedadcbbb5613321829"
+}

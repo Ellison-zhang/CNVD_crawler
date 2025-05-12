@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-12 08:06:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09403",
+    "spider_time": 1747037181690,
+    "name": "Tenda W18E信任管理问题漏洞（CNVD-2025-09403）",
+    "cnvd": "CNVD-2025-09403",
+    "publish": "2025-05-09",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda W18E 16.01.0.8(1625)\"]",
+    "cve": "CVE-2024-46429",
+    "description": "Tenda W18E是中国腾达（Tenda）公司的一款无线路由器。Tenda W18E存在信任管理问题漏洞，攻击者可利用该漏洞访问Web管理门户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-46429",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-05-12",
+    "update_time": "2025-05-12",
+    "data_summary": "cea8384153fe3e2ac6f74cb43ddf4069"
+}
