@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-13 17:05:41",
+    "parse_time": "2025-05-13 18:05:17",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09581",
-    "spider_time": 1747155941023,
+    "spider_time": 1747159517786,
     "name": "Blue Fish IN PHP存在SQL注入漏洞",
     "cnvd": "CNVD-2025-09581",
     "publish": "2025-05-14",
