@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-13 16:07:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09581",
+    "spider_time": 1747152456056,
+    "name": "Blue Fish IN PHP存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-09581",
+    "publish": "2025-05-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"Blue Fish IN PHP Blue Fish IN PHP\"]",
+    "cve": null,
+    "description": "Blue Fish IN PHP是一个鱼类孵化场管理系统。Blue Fish IN PHP存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://code-projects.org/blue-fish-in-php-css-js-and-mysql-free-download/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-30",
+    "open_time": "2025-05-13",
+    "update_time": "2025-05-13",
+    "data_summary": "da23b8e2eb84df3aab6e6cc987d27c81"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-13 16:06:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09589",
+    "spider_time": 1747152408592,
+    "name": "慧之安信息技术股份有限公司慧安蜂巢存在弱口令漏洞",
+    "cnvd": "CNVD-2025-09589",
+    "publish": "2025-05-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6167\\u4e4b\\u5b89\\u4fe1\\u606f\\u6280\\u672f\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u6167\\u5b89\\u8702\\u5de2\"]",
+    "cve": null,
+    "description": "慧之安信息技术股份有限公司（简称“慧之安”），是提供本质安全的物联网产品及解决方案和服务供应商。慧之安信息技术股份有限公司慧安蜂巢存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.csisecurity.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-30",
+    "open_time": "2025-05-13",
+    "update_time": "2025-05-13",
+    "data_summary": "71c60557bf994490341d96f79350ba4c"
+}

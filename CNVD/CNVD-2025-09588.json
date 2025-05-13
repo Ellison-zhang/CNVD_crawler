@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-13 16:06:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09588",
+    "spider_time": 1747152412970,
+    "name": "Netis Systems Netis W1存在命令执行漏洞",
+    "cnvd": "CNVD-2025-09588",
+    "publish": "2025-05-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Netis Systems Netis W1 3.5\"]",
+    "cve": null,
+    "description": "Netis Systems是一家全球领先的网络通信设备和解决方案提供商，专注于数据通信行业。Netis Systems Netis W1存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.netis-systems.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-30",
+    "open_time": "2025-05-13",
+    "update_time": "2025-05-13",
+    "data_summary": "66ca1a0c466b38b756ef6d3d01d82281"
+}

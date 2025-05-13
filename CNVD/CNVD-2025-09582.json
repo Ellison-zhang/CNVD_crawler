@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-13 16:07:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09582",
+    "spider_time": 1747152445561,
+    "name": "杭州海康威视数字技术股份有限公司视频编码设备接入网关存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-09582",
+    "publish": "2025-05-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u676d\\u5dde\\u6d77\\u5eb7\\u5a01\\u89c6\\u6570\\u5b57\\u6280\\u672f\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u89c6\\u9891\\u7f16\\u7801\\u8bbe\\u5907\\u63a5\\u5165\\u7f51\\u5173 2.6.0.286772\"]",
+    "cve": null,
+    "description": "杭州海康威视数字技术股份有限公司（Hikvision）是一家专注于技术创新和智能物联领域的科技公司\r。杭州海康威视数字技术股份有限公司视频编码设备接入网关存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.hikvision.com/cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-30",
+    "open_time": "2025-05-13",
+    "update_time": "2025-05-13",
+    "data_summary": "5b323b698b7c7333e00c005d44b44e43"
+}

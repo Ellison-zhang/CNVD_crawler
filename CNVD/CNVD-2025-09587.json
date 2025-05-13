@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-13 16:06:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09587",
+    "spider_time": 1747152419200,
+    "name": "Netis Systems Netis W1存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-09587",
+    "publish": "2025-05-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:P",
+    "product": "[\"Netis Systems Netis W1 3.5\"]",
+    "cve": null,
+    "description": "Netis Systems是一家全球领先的网络通信设备和解决方案提供商，专注于数据通信行业。Netis-systemsNetis W1存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息，远程关闭路由器。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.netis-systems.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-30",
+    "open_time": "2025-05-13",
+    "update_time": "2025-05-13",
+    "data_summary": "83db874893b5b99aaa0ae654eb06168b"
+}
