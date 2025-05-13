@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-13 02:34:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09464",
+    "spider_time": 1747103642834,
+    "name": "杭州雄伟科技开发股份有限公司餐厅数字化综合管理平台存在弱口令漏洞",
+    "cnvd": "CNVD-2025-09464",
+    "publish": "2025-05-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u676d\\u5dde\\u96c4\\u4f1f\\u79d1\\u6280\\u5f00\\u53d1\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u9910\\u5385\\u6570\\u5b57\\u5316\\u7efc\\u5408\\u7ba1\\u7406\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "杭州雄伟科技开发股份有限公司是一家专注于软件研发和系统集成的公司，主要业务涵盖商业连锁管理、RFID集成应用、卡支付、农业信息化工程建设服务等领域。杭州雄伟科技开发股份有限公司餐厅数字化综合管理平台存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.sovell.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-28",
+    "open_time": "2025-05-13",
+    "update_time": "2025-05-13",
+    "data_summary": "ab2d24bd22de9079fa2601f85e857835"
+}

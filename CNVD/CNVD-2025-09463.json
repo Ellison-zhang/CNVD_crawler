@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-13 02:34:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09463",
+    "spider_time": 1747103647898,
+    "name": "山东金钟科技集团股份有限公司一卡通物流系统存在信息泄露漏洞",
+    "cnvd": "CNVD-2025-09463",
+    "publish": "2025-05-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5c71\\u4e1c\\u91d1\\u949f\\u79d1\\u6280\\u96c6\\u56e2\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u4e00\\u5361\\u901a\\u7269\\u6d41\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "山东金钟科技集团股份有限公司是一家以称重技术为基础，结合物联网和信息化技术，提供综合性解决方案的高科技企业。山东金钟科技集团股份有限公司一卡通物流系统存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.jinzhong.com.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-28",
+    "open_time": "2025-05-13",
+    "update_time": "2025-05-13",
+    "data_summary": "26776b0d79a4174ffdd844d483c46ece"
+}

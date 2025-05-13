@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-13 02:34:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09459",
+    "spider_time": 1747103664484,
+    "name": "广东保伦电子股份有限公司中心管理服务器存在命令执行漏洞",
+    "cnvd": "CNVD-2025-09459",
+    "publish": "2025-05-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u5e7f\\u4e1c\\u4fdd\\u4f26\\u7535\\u5b50\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u4e2d\\u5fc3\\u7ba1\\u7406\\u670d\\u52a1\\u5668\"]",
+    "cve": null,
+    "description": "广东保伦电子股份有限公司是一家集声光电视讯系统整体解决方案产品研发、设计、生产、销售、服务的高新技术企业。广东保伦电子股份有限公司中心管理服务器存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.itc.vip/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-05-13",
+    "update_time": "2025-05-13",
+    "data_summary": "bd37cfb9e22b31b2bcb6b250d0832beb"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-13 02:36:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09452",
+    "spider_time": 1747103771381,
+    "name": "北京致远互联软件股份有限公司致远互联-FE存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-09452",
+    "publish": "2025-05-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u81f4\\u8fdc\\u4e92\\u8054\\u8f6f\\u4ef6\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u81f4\\u8fdc\\u4e92\\u8054-FE\"]",
+    "cve": null,
+    "description": "致远互联-FE是一款为企业提供全方位协同办公解决方案的产品‌。北京致远互联软件股份有限公司致远互联-FE存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.seeyon.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-05-13",
+    "update_time": "2025-05-13",
+    "data_summary": "05e89e0be8f378f7307a0f8a14d6c828"
+}

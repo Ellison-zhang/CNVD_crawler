@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-13 02:36:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09454",
+    "spider_time": 1747103764202,
+    "name": "新华三技术有限公司H3C NX54存在信息泄露漏洞",
+    "cnvd": "CNVD-2025-09454",
+    "publish": "2025-05-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u65b0\\u534e\\u4e09\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 H3C NX54\"]",
+    "cve": null,
+    "description": "H3C NX54是一款支持Wi-Fi 6（802.11ax）协议的千兆双频路由器。新华三技术有限公司H3C NX54存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.h3c.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-05-13",
+    "update_time": "2025-05-13",
+    "data_summary": "1bdb9cf782e0e88b2b37d2c2d64ea187"
+}

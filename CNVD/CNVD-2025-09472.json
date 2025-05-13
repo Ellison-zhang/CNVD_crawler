@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-13 02:33:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09472",
+    "spider_time": 1747103593334,
+    "name": "爱普生（中国）有限公司上海分公司EPSON L655 Series打印机存在弱口令漏洞",
+    "cnvd": "CNVD-2025-09472",
+    "publish": "2025-05-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u7231\\u666e\\u751f\\uff08\\u4e2d\\u56fd\\uff09\\u6709\\u9650\\u516c\\u53f8\\u4e0a\\u6d77\\u5206\\u516c\\u53f8 EPSON L655 Series\\u6253\\u5370\\u673a\"]",
+    "cve": null,
+    "description": "EPSON L655 Series是一款商用墨仓式彩色传真一体机。爱普生（中国）有限公司上海分公司EPSON L655 Series打印机存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.epson.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-29",
+    "open_time": "2025-05-13",
+    "update_time": "2025-05-13",
+    "data_summary": "0e9f0b0fda30dabff8470efcf0f4af7e"
+}

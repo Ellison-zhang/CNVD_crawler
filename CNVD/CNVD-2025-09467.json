@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-13 02:33:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09467",
+    "spider_time": 1747103622609,
+    "name": "兄弟（中国）商业有限公司MFC-L5700DN series存在弱口令漏洞",
+    "cnvd": "CNVD-2025-09467",
+    "publish": "2025-05-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5144\\u5f1f\\uff08\\u4e2d\\u56fd\\uff09\\u5546\\u4e1a\\u6709\\u9650\\u516c\\u53f8 MFC-L5700DN series\"]",
+    "cve": null,
+    "description": "MFC-L5700DN series是系列打印机产品。兄弟（中国）商业有限公司MFC-L5700DN series存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.brother.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-28",
+    "open_time": "2025-05-13",
+    "update_time": "2025-05-13",
+    "data_summary": "82f5de1995febaf66a683c91d9776e8a"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-13 02:34:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09462",
+    "spider_time": 1747103653000,
+    "name": "浙江天捷智能科技有限公司天捷MES软件存在弱口令漏洞",
+    "cnvd": "CNVD-2025-09462",
+    "publish": "2025-05-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6d59\\u6c5f\\u5929\\u6377\\u667a\\u80fd\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u5929\\u6377MES\\u8f6f\\u4ef6 v1.0\"]",
+    "cve": null,
+    "description": "天捷MES软件是一款制造执行系统（MES）软件。浙江天捷智能科技有限公司天捷MES软件存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\n无",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-28",
+    "open_time": "2025-05-13",
+    "update_time": "2025-05-13",
+    "data_summary": "11e54e564e588688aa67432bc942ef86"
+}

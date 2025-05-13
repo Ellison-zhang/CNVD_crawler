@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-13 02:33:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09470",
+    "spider_time": 1747103609183,
+    "name": "友讯电子设备（上海）有限公司D-Link DAR-7000-20存在命令执行漏洞",
+    "cnvd": "CNVD-2025-09470",
+    "publish": "2025-05-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u53cb\\u8baf\\u7535\\u5b50\\u8bbe\\u5907\\uff08\\u4e0a\\u6d77\\uff09\\u6709\\u9650\\u516c\\u53f8 D-Link DAR-7000-20 V3.2\"]",
+    "cve": null,
+    "description": "D-Link DAR-7000-20是一款上网行为审计网关。友讯电子设备（上海）有限公司D-Link DAR-7000-20存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.dlink.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-28",
+    "open_time": "2025-05-13",
+    "update_time": "2025-05-13",
+    "data_summary": "07d611c5fef5edb81f3d0c1a459c3002"
+}
