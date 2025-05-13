@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-13 03:24:57",
+    "parse_time": "2025-05-13 04:08:36",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09456",
-    "spider_time": 1747106697934,
+    "spider_time": 1747109316422,
     "name": "Wifisoft wifi-soft Unibox存在SQL注入漏洞",
     "cnvd": "CNVD-2025-09456",
     "publish": "2025-05-11",
