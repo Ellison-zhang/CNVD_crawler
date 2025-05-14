@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-14 02:33:03",
+    "parse_time": "2025-05-14 03:21:46",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08294",
-    "spider_time": 1747189983790,
+    "spider_time": 1747192906327,
     "name": "金蝶软件（中国）有限公司金蝶Apusic应用服务器存在IIOP反序列化远程代码执行漏洞",
     "cnvd": "CNVD-2025-08294",
     "publish": "2025-05-09",
