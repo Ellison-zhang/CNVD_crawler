@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-14 21:18:17",
+    "parse_time": "2025-05-14 22:10:34",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09686",
-    "spider_time": 1747257497355,
+    "spider_time": 1747260634408,
     "name": "GNU Binutils缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09686",
     "publish": "2025-05-12",
