@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-14 19:05:36",
+    "parse_time": "2025-05-14 20:08:29",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09675",
-    "spider_time": 1747249536348,
+    "spider_time": 1747253309108,
     "name": "GNU Mailman目录遍历漏洞（CNVD-2025-09675）",
     "cnvd": "CNVD-2025-09675",
     "publish": "2025-05-12",
