@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-14 04:06:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09674",
+    "spider_time": 1747195613515,
+    "name": "GNU GRUB2缓冲区溢出漏洞（CNVD-2025-09674）",
+    "cnvd": "CNVD-2025-09674",
+    "publish": "2025-05-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:M/C:C/I:C/A:C",
+    "product": "[\"GNU GRUB2\"]",
+    "cve": "CVE-2025-0684",
+    "description": "GNU GRUB2是GNU社区的一款Linux系统引导程序。GNU GRUB2存在缓冲区溢出漏洞，该漏洞源于reiserfs fs模块未正确检查整数溢出问题，攻击者可利用该漏洞导致堆越界写入，损坏内部关键数据并执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-0684",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/software/grub/grub-download.html",
+    "patch": "GNU GRUB2缓冲区溢出漏洞（CNVD-2025-09674）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-29",
+    "open_time": "2025-05-14",
+    "update_time": "2025-05-14",
+    "data_summary": "9d72a201bf01aada956a99db6cc07f12"
+}

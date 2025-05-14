@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-14 04:07:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09680",
+    "spider_time": 1747195641943,
+    "name": "Dell PowerScale OneFS资源消耗漏洞",
+    "cnvd": "CNVD-2025-09680",
+    "publish": "2025-05-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"DELL Dell PowerScale OneFS >=9.5.0.0\\uff0c<=9.10.0.0\"]",
+    "cve": "CVE-2025-26480",
+    "description": "Dell PowerScale OneFS是美国戴尔（Dell）公司的一个操作系统。Dell PowerScale OneFS存在资源消耗漏洞，该漏洞源于资源消耗不受控制，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-26480",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000300860/dsa-2025-119-security-update-for-dell-powerscale-onefs-for-multiple-security-vulnerabilities",
+    "patch": "Dell PowerScale OneFS资源消耗漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-05-14",
+    "update_time": "2025-05-14",
+    "data_summary": "4c340a9c61c2d09a7cfa0b55da0cdb12"
+}

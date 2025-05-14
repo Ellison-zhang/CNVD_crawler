@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-14 04:04:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09694",
+    "spider_time": 1747195487001,
+    "name": "NVIDIA ConnectX权限问题漏洞",
+    "cnvd": "CNVD-2025-09694",
+    "publish": "2025-05-14",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:P/I:C/A:C",
+    "product": "[\"NVIDIA NVIDIA ConnectX\"]",
+    "cve": "CVE-2024-0105",
+    "description": "NVIDIA ConnectX是一系列智能网络接口卡。NVIDIA ConnectX存在权限问题漏洞，该漏洞源于权限问题处理不当，攻击者可利用该漏洞导致拒绝服务、数据篡改和信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-0105",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5562",
+    "patch": "NVIDIA ConnectX权限问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-07",
+    "open_time": "2025-05-14",
+    "update_time": "2025-05-14",
+    "data_summary": "699a5a71216530342af9d9b6c4bd81cc"
+}

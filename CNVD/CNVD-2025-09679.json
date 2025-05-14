@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-14 04:07:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09679",
+    "spider_time": 1747195635414,
+    "name": "Dell PowerScale OneFS整数溢出漏洞",
+    "cnvd": "CNVD-2025-09679",
+    "publish": "2025-05-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"DELL PowerScale OneFS >=9.4.0.0\\uff0c<=9.10.0.1\"]",
+    "cve": "CVE-2025-22471",
+    "description": "Dell PowerScale OneFS是美国戴尔（Dell）公司的一个操作系统。Dell PowerScale OneFS存在整数溢出漏洞，该漏洞源于未能正确验证用户输入，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-22471",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000300860/dsa-2025-119-security-update-for-dell-powerscale-onefs-for-multiple-security-vulnerabilities",
+    "patch": "Dell PowerScale OneFS整数溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-05-14",
+    "update_time": "2025-05-14",
+    "data_summary": "85d0bf4d12f64ac30efcc89810de267e"
+}

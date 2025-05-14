@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-14 04:07:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09685",
+    "spider_time": 1747195668805,
+    "name": "GNU Binutils内存损坏漏洞（CNVD-2025-09685）",
+    "cnvd": "CNVD-2025-09685",
+    "publish": "2025-05-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:P/A:P",
+    "product": "[\"Gnu GNU Binutils 2.43\"]",
+    "cve": "CVE-2025-1182",
+    "description": "GNU Binutils是美国GNU社区的开发的一组编程语言工具程序。GNU Binutils存在内存损坏漏洞，该漏洞源于bfd/elflink.c中的函数bfd_elf_reloc_symbol_deleted_p，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1182",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/software/binutils/",
+    "patch": "GNU Binutils内存损坏漏洞（CNVD-2025-09685）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-05-14",
+    "update_time": "2025-05-14",
+    "data_summary": "28be7688d2ca29e110732bc4c0301bc0"
+}

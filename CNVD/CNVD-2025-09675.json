@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-14 04:06:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09675",
+    "spider_time": 1747195616551,
+    "name": "GNU Mailman目录遍历漏洞（CNVD-2025-09675）",
+    "cnvd": "CNVD-2025-09675",
+    "publish": "2025-05-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"GNU Mailman 2.1.39\"]",
+    "cve": "CVE-2025-43919",
+    "description": "GNU Mailman是美国GNU社区的一套免费的用于管理电子邮件讨论和电子邮件列表的软件。GNU Mailman存在目录遍历漏洞，该漏洞源于目录遍历，导致任意文件读取。攻击者可利用该漏洞访问应用程序之外的目录或文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43919",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://list.org/download.html",
+    "patch": "GNU Mailman目录遍历漏洞（CNVD-2025-09675）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-28",
+    "open_time": "2025-05-14",
+    "update_time": "2025-05-14",
+    "data_summary": "4e7ff488f6a5310fddd2186ed1dcf06a"
+}

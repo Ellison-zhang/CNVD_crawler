@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-14 04:06:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09701",
+    "spider_time": 1747195584016,
+    "name": "lunary跨站脚本漏洞",
+    "cnvd": "CNVD-2025-09701",
+    "publish": "2025-05-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"lunary lunary 1.2.7\"]",
+    "cve": "CVE-2024-5478",
+    "description": "lunary是lunary开源的一个LLM的生产工具包。lunary存在跨站脚本漏洞，该漏洞源于未能转义或验证用户提供的orgId参数，攻击者可利用该漏洞窃取用户cookie或身份验证令牌。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-5478",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://github.com/lunary-ai/lunary/releases/tag/v1.2.29",
+    "patch": "lunary跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-13",
+    "open_time": "2025-05-14",
+    "update_time": "2025-05-14",
+    "data_summary": "975b67556b8ddba7f8b142ff67bf382e"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-14 04:07:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09683",
+    "spider_time": 1747195645976,
+    "name": "Dell Wyse Management Suite WMS授权问题漏洞",
+    "cnvd": "CNVD-2025-09683",
+    "publish": "2025-05-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:C/A:C",
+    "product": "[\"DELL Dell Wyse Management Suite WMS <5.1\"]",
+    "cve": "CVE-2025-29982",
+    "description": "Dell Wyse Management Suite WMS是美国戴尔（Dell）公司的一个云端与本地管理平台。Dell Wyse Management Suite WMS存在授权问题漏洞，该漏洞源于继承权限不安全，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-29982",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000296515/dsa-2025-135",
+    "patch": "Dell Wyse Management Suite WMS授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-21",
+    "open_time": "2025-05-14",
+    "update_time": "2025-05-14",
+    "data_summary": "7e9a94f24b7d6d82767a9e97265cd0bd"
+}

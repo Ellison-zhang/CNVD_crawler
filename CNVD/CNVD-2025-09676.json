@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-14 04:07:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09676",
+    "spider_time": 1747195625716,
+    "name": "GNU Mailman未授权创建列表漏洞（CNVD-2025-09676）",
+    "cnvd": "CNVD-2025-09676",
+    "publish": "2025-05-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"GNU Mailman 2.1.39\"]",
+    "cve": "CVE-2025-43921",
+    "description": "GNU Mailman是美国GNU社区的一套免费的用于管理电子邮件讨论和电子邮件列表的软件。GNU Mailman存在未授权创建列表漏洞，该漏洞源于未授权创建列表，可能导致资源滥用。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43921",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://list.org/download.html",
+    "patch": "GNU Mailman未授权创建列表漏洞（CNVD-2025-09676）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-28",
+    "open_time": "2025-05-14",
+    "update_time": "2025-05-14",
+    "data_summary": "8cac471e2f6533abe0abff313cbea5f0"
+}

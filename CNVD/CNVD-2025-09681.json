@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-14 04:05:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09681",
+    "spider_time": 1747195530853,
+    "name": "Tenda W12和i24 cgiSysScheduleRebootSet栈溢出漏洞",
+    "cnvd": "CNVD-2025-09681",
+    "publish": "2025-05-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda i24 3.0.0.5(3644)\", \"Tenda W12 3.0.0.4(2887)\"]",
+    "cve": "CVE-2025-3803",
+    "description": "Tenda W12和i24是腾达公司生产的一款无线路由器。Tenda W12和i24存在栈溢出漏洞。该漏洞源于/bin/httpd文件中的cgiSysScheduleRebootSet函数对rebootDate参数处理不当。攻击者可利用该漏洞执行代码，控制受影响的设备。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-3803",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-24",
+    "open_time": "2025-05-14",
+    "update_time": "2025-05-14",
+    "data_summary": "18986daac1a0ceee1523461a14882be4"
+}

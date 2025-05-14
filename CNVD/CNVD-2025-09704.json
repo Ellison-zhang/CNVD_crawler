@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-14 04:06:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09704",
+    "spider_time": 1747195600360,
+    "name": "lunary访问控制错误漏洞（CNVD-2025-09704）",
+    "cnvd": "CNVD-2025-09704",
+    "publish": "2025-05-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:P",
+    "product": "[\"lunary lunary <=1.2.2\"]",
+    "cve": "CVE-2024-5128",
+    "description": "lunary是lunary开源的一个LLM的生产工具包。lunary存在访问控制错误漏洞，攻击者可利用该漏洞造成信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-5128",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://github.com/lunary-ai/lunary/commit/0755dde1afc2a74ec23b55eee03e4416916cf48f",
+    "patch": "lunary访问控制错误漏洞（CNVD-2025-09704）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-13",
+    "open_time": "2025-05-14",
+    "update_time": "2025-05-14",
+    "data_summary": "b03e671297c65542eba207191cfaf305"
+}
