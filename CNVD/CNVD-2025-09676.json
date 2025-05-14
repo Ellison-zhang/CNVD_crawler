@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-14 14:06:08",
+    "parse_time": "2025-05-14 15:05:46",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09676",
-    "spider_time": 1747231568213,
+    "spider_time": 1747235146534,
     "name": "GNU Mailman未授权创建列表漏洞（CNVD-2025-09676）",
     "cnvd": "CNVD-2025-09676",
     "publish": "2025-05-12",

@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-14 14:06:15",
+    "parse_time": "2025-05-14 15:05:53",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09679",
-    "spider_time": 1747231575954,
+    "spider_time": 1747235153375,
     "name": "Dell PowerScale OneFS整数溢出漏洞",
     "cnvd": "CNVD-2025-09679",
     "publish": "2025-05-12",
