@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-14 04:05:30",
+    "parse_time": "2025-05-14 05:04:25",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09681",
-    "spider_time": 1747195530853,
+    "spider_time": 1747199065587,
     "name": "Tenda W12和i24 cgiSysScheduleRebootSet栈溢出漏洞",
     "cnvd": "CNVD-2025-09681",
     "publish": "2025-05-13",
