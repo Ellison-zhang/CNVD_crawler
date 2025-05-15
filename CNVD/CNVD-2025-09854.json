@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-15 08:10:27",
+    "parse_time": "2025-05-15 09:07:19",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09854",
-    "spider_time": 1747296627859,
+    "spider_time": 1747300039841,
     "name": "TOTOLINK N150RT /boafrm/formVlan文件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09854",
     "publish": "2025-05-13",
