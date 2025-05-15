@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-14 23:12:41",
+    "parse_time": "2025-05-15 00:20:19",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09687",
-    "spider_time": 1747264361376,
+    "spider_time": 1747268419889,
     "name": "GNU Binutils内存损坏漏洞（CNVD-2025-09687）",
     "cnvd": "CNVD-2025-09687",
     "publish": "2025-05-12",

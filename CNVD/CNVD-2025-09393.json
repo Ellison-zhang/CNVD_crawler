@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-14 23:13:46",
+    "parse_time": "2025-05-15 00:23:24",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09393",
-    "spider_time": 1747264426191,
+    "spider_time": 1747268604845,
     "name": "Tenda AC15缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09393",
     "publish": "2025-05-08",
