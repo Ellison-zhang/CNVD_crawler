@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-15 05:07:44",
+    "parse_time": "2025-05-15 06:10:20",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09678",
-    "spider_time": 1747285664549,
+    "spider_time": 1747289420193,
     "name": "GNU Mailman命令注入漏洞",
     "cnvd": "CNVD-2025-09678",
     "publish": "2025-05-12",

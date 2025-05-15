@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-15 05:05:52",
+    "parse_time": "2025-05-15 06:06:57",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09853",
-    "spider_time": 1747285552228,
+    "spider_time": 1747289217607,
     "name": "TOTOLINK N150RT /boafrm/formStaticDHCP文件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09853",
     "publish": "2025-05-13",
