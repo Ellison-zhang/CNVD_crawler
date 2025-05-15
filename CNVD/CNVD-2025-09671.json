@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-15 14:04:40",
+    "parse_time": "2025-05-15 15:05:04",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09671",
-    "spider_time": 1747317880768,
+    "spider_time": 1747321504675,
     "name": "Tenda AC9 /goform/SetSysAutoRebbotCfg接口缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09671",
     "publish": "2025-05-13",
