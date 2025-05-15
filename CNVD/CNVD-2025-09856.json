@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-15 19:05:42",
+    "parse_time": "2025-05-15 20:06:23",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09856",
-    "spider_time": 1747335942025,
+    "spider_time": 1747339583941,
     "name": "TOTOLINK N150RT /boafrm/formWlwds文件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09856",
     "publish": "2025-05-13",
