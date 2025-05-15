@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-15 04:10:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09867",
+    "spider_time": 1747282247219,
+    "name": "TOTOLINK AC1200 T8和AC1200 T10 cstecgi.cgi文件setParentalRules函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-09867",
+    "publish": "2025-05-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK AC1200 T8 4.1.5cu.861_B20230220\", \"TOTOLINK AC1200 T10 4.1.8cu.5207\"]",
+    "cve": "CVE-2024-8573",
+    "description": "TOTOLINK AC1200 T8和AC1200 T10是无线路由器设备。TOTOLINK AC1200 T8和AC1200 T10 cstecgi.cgi文件setParentalRules函数存在缓冲区溢出漏洞，该漏洞源于desc参数未经过适当的长度验证。攻击者可利用该漏洞执行任意代码或导致设备崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-8573",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/222/ids/36.html?__K=323b1e87e299e3f143d9305e11742ee181725850226_702288726",
+    "patch": "TOTOLINK AC1200 T8和AC1200 T10 cstecgi.cgi文件setParentalRules函数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-09-09",
+    "open_time": "2025-05-15",
+    "update_time": "2025-05-15",
+    "data_summary": "c9b150c6aeb075e9a70d7248a55a2bee"
+}

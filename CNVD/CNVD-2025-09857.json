@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-15 04:08:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09857",
+    "spider_time": 1747282097599,
+    "name": "TOTOLINK N150RT缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-09857",
+    "publish": "2025-05-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK N150RT 3.4.0-B20190525\"]",
+    "cve": "CVE-2025-3993",
+    "description": "TOTOLINK N150RT是一款TOTOLINK公司生产的无线路由器。TOTOLINK N150RT存在缓冲区溢出漏洞，该漏洞源于对文件/boafrm/formWsc中参数submit-url的处理不当。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-3993",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/153/ids/36.html",
+    "patch": "TOTOLINK N150RT缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-30",
+    "open_time": "2025-05-15",
+    "update_time": "2025-05-15",
+    "data_summary": "6ca95d55da41cb1da929128de77aba57"
+}
