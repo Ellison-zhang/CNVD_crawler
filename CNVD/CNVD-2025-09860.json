@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-15 18:05:53",
+    "parse_time": "2025-05-15 19:04:46",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09860",
-    "spider_time": 1747332353779,
+    "spider_time": 1747335886157,
     "name": "TOTOLINK A800R downloadFile.cgi组件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09860",
     "publish": "2025-05-13",
