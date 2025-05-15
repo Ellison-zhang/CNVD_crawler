@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-15 15:10:17",
+    "parse_time": "2025-05-15 16:12:41",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09488",
-    "spider_time": 1747321817903,
+    "spider_time": 1747325561024,
     "name": "Siemens OpenV2G缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09488",
     "publish": "2025-05-12",

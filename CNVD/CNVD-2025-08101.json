@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-15 16:06:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08101",
+    "spider_time": 1747325219408,
+    "name": "HDF5 H5FS__sinfo_serialize_sect_cb函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-08101",
+    "publish": "2025-05-16",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"HDF5 HDF5 1.14.6\"]",
+    "cve": "CVE-2025-2914",
+    "description": "HDF5(Hierarchical Data Format version 5)是一个用于存储和组织大量数据的开源库和文件格式。HDF5 H5FS__sinfo_serialize_sect_cb函数存在缓冲区溢出漏洞。漏洞源于该函数未能正确检查缓冲区边界，导致写入操作超出分配的内存。攻击者可利用漏洞导致越界写入和潜在的应用程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/HDFGroup/hdf5/releases",
+    "patch": "HDF5 H5FS__sinfo_serialize_sect_cb函数缓冲区溢出漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-04-14",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "3112ab3ecc7ecb9f7013c7cac45827ef"
+}
