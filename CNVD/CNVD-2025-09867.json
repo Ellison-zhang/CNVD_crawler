@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-16 07:10:58",
+    "parse_time": "2025-05-16 08:08:49",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09867",
-    "spider_time": 1747379458061,
+    "spider_time": 1747382929757,
     "name": "TOTOLINK AC1200 T8和AC1200 T10 cstecgi.cgi文件setParentalRules函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09867",
     "publish": "2025-05-13",
