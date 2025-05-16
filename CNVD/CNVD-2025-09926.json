@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-16 03:23:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09926",
+    "spider_time": 1747365798054,
+    "name": "Tenda DAP-1520 set_ws_action函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-09926",
+    "publish": "2025-05-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda DAP-1520 1.10B04_BETA02\"]",
+    "cve": "CVE-2025-4355",
+    "description": "Tenda DAP-1520是中国腾达（Tenda）公司的一款双频无线接入点。Tenda DAP-1520存在缓冲区溢出漏洞，该漏洞源于文件/dws/api中函数set_ws_action未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-4355",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-16",
+    "update_time": "2025-05-16",
+    "data_summary": "b1f757818a0caff22a1af77c40f752b7"
+}

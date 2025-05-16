@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-16 03:23:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09931",
+    "spider_time": 1747365822636,
+    "name": "Tenda RX2 Pro访问控制错误漏洞",
+    "cnvd": "CNVD-2025-09931",
+    "publish": "2025-05-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Tenda RX2 Pro 16.03.30.14\"]",
+    "cve": "CVE-2025-46630",
+    "description": "Tenda RX2 Pro是中国腾达（Tenda）公司的一款高性能WiFi 6信号放大器。Tenda RX2 Pro存在访问控制错误漏洞，攻击者可利用该漏洞启用ate管理二进制文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-46630",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tendacn.com/us/download/detail-5715.html",
+    "patch": "Tenda RX2 Pro访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-16",
+    "update_time": "2025-05-16",
+    "data_summary": "fbd255608bc344528197e9c6339e2aeb"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-16 03:27:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09938",
+    "spider_time": 1747366060822,
+    "name": "Tenda AC18 formSetSpeedWan函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-09938",
+    "publish": "2025-05-14",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Tenda AC18 15.03.05.19\"]",
+    "cve": "CVE-2024-57577",
+    "description": "Tenda AC18是中国腾达（Tenda）公司的一款路由器。Tenda AC18存在缓冲区溢出漏洞，该漏洞源于formSetSpeedWan函数的speed_dir参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-57577",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-23",
+    "open_time": "2025-05-16",
+    "update_time": "2025-05-16",
+    "data_summary": "54058d8bb6f7a565bf5540890de1a3cb"
+}
