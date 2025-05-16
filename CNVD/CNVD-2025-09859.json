@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-16 12:07:15",
+    "parse_time": "2025-05-16 13:13:14",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09859",
-    "spider_time": 1747397235148,
+    "spider_time": 1747401194524,
     "name": "Tenda AC18 form_fast_setting_wifi_set函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09859",
     "publish": "2025-05-14",
