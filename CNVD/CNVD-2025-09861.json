@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-15 23:04:53",
+    "parse_time": "2025-05-16 00:15:48",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09861",
-    "spider_time": 1747350293711,
+    "spider_time": 1747354548797,
     "name": "TOTOLINK A810R cstecgi.cgi组件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09861",
     "publish": "2025-05-13",
