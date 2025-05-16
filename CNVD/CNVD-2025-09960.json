@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-16 10:07:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09960",
+    "spider_time": 1747390039430,
+    "name": "Siemens Teamcenter Visualization缓冲区溢出漏洞（CNVD-2025-09960）",
+    "cnvd": "CNVD-2025-09960",
+    "publish": "2025-05-16",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Siemens Teamcenter Visualization V14.3 <14.3.0.13\", \"Siemens Teamcenter Visualization V2312 <2312.0009\", \"SIEMENS Teamcenter Visualization V2406 <2406.0007\", \"Siemens Teamcenter Visualization V2412 <2412.0002\", \"Siemens Tecnomatix Plant Simulation V2302 <2302.0021\"]",
+    "cve": "CVE-2025-23397",
+    "description": "Siemens Teamcenter Visualization是一个可为设计2D、3D场景提供团队协作功能的软件。该软件通过从多种机械计算机辅助设计（MCAD）格式创建虚拟原型，可简化了工程和制造流程。Siemens Tecnomatix Plant Simulation是一个工控设备。利用离散事件仿真的强大功能进行生产量分析和优化，进而改善制造系统性能。Siemens Teamcenter Visualization和Siemens Tecnomatix Plant Simulation存在缓冲区溢出漏洞，该漏洞源于解析特制WRL文件时存在内存破坏，攻击者可利用该漏洞在当前进程环境中执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-050438.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-050438.html",
+    "patch": "Siemens Teamcenter Visualization缓冲区溢出漏洞（CNVD-2025-09960）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-05-16",
+    "update_time": "2025-05-16",
+    "data_summary": "4c88aa477afc918240d66803f30fafc0"
+}
