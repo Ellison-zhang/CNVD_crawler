@@ -1,22 +1,22 @@
 {
-    "parse_time": "2025-05-16 01:34:53",
+    "parse_time": "2025-05-16 02:37:52",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09523",
-    "spider_time": 1747359293984,
-    "name": "Siemens Teamcenter Visualization和Siemens Tecnomatix Plant Simulation资源管理错误漏洞",
+    "spider_time": 1747363072261,
+    "name": "Siemens Teamcenter资源管理错误漏洞",
     "cnvd": "CNVD-2025-09523",
     "publish": "2025-05-12",
     "severity": "高",
     "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
     "product": "[\"Siemens Teamcenter Visualization V14.3 <14.3.0.13\", \"Siemens Teamcenter Visualization V2312 <2312.0009\", \"SIEMENS Teamcenter Visualization V2406 <2406.0007\", \"Siemens Teamcenter Visualization V2412 <2412.0002\", \"Siemens Tecnomatix Plant Simulation V2302 <2302.0021\", \"Siemens Tecnomatix Plant Simulation V2404 <2404.0010\"]",
     "cve": "CVE-2025-23402",
-    "description": "Siemens Teamcenter Visualization是一个可为设计2D、3D场景提供团队协作功能的软件。该软件通过从多种机械计算机辅助设计（MCAD）格式创建虚拟原型，可简化了工程和制造流程。Siemens Tecnomatix Plant Simulation是一个工控设备。利用离散事件仿真的功能进行生产量分析和优化，进而改善制造系统性能。Siemens Teamcenter Visualization和Siemens Tecnomatix Plant Simulation存在资源管理错误漏洞，该漏洞源于解析特制WRL文件时存在释放后重用，攻击者可利用该漏洞执行任意代码。",
+    "description": "Siemens Teamcenter是德国西门子（Siemens）公司的一套产品生命周期管理计算机软件应用程序。Siemens Teamcenter存在资源管理错误漏洞，该漏洞源于解析特制WRL文件时存在释放后重用，攻击者可利用该漏洞执行任意代码。",
     "flaw_type": "通用型漏洞",
     "reference": "https://cert-portal.siemens.com/productcert/html/ssa-050438.htmlhttps://nvd.nist.gov/vuln/detail/CVE-2025-23402",
     "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://cert-portal.siemens.com/productcert/html/ssa-050438.html",
-    "patch": "Siemens Teamcenter Visualization和Siemens Tecnomatix Plant Simulation资源管理错误漏洞的补丁",
+    "patch": "Siemens Teamcenter资源管理错误漏洞的补丁",
     "verify": "(暂无验证信息)",
     "submit_time": "2025-03-28",
     "open_time": "2025-05-13",
     "update_time": "2025-05-13",
-    "data_summary": "f7571e29919519d0b9fdf5d0ef21f65c"
+    "data_summary": "efe2b54ec365d1312ce39a0227043b35"
 }
