@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-16 04:05:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09948",
+    "spider_time": 1747368358225,
+    "name": "Ivanti Endpoint Manager Mobile代码执行漏洞",
+    "cnvd": "CNVD-2025-09948",
+    "publish": "2025-05-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Ivanti. Ivanti Endpoint Manager Mobile <=12.5.0.0\"]",
+    "cve": "CVE-2025-4428",
+    "description": "Ivanti Endpoint Manager Mobile（EPMM）是一款企业级的移动设备管理解决方案，用于集中管理和保护企业中的移动设备，支持设备注册、应用分发、安全策略实施等功能。Ivanti Endpoint Manager Mobile存在代码执行漏洞，经过身份验证的攻击者可利用该漏洞通过精心构造的API请求执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "Ivanti已发布安全更新，用户应立即升级到修复版本：\nhttps://forums.ivanti.com/s/product-downloads",
+    "patch": "Ivanti Endpoint Manager Mobile代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-16",
+    "open_time": "2025-05-16",
+    "update_time": "2025-05-16",
+    "data_summary": "cb101f7c32a24961e812dd22d10bed6e"
+}
