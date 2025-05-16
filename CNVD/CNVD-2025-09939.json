@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-16 22:05:42",
+    "parse_time": "2025-05-16 23:05:39",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09939",
-    "spider_time": 1747433142096,
+    "spider_time": 1747436739670,
     "name": "Tenda AC8 setSchedWifi函数的schedEndTime参数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09939",
     "publish": "2025-05-14",
