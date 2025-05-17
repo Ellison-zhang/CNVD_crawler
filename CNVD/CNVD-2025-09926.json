@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-17 17:04:11",
+    "parse_time": "2025-05-17 18:06:38",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09926",
-    "spider_time": 1747501451306,
+    "spider_time": 1747505198012,
     "name": "Tenda DAP-1520 set_ws_action函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09926",
     "publish": "2025-05-15",
