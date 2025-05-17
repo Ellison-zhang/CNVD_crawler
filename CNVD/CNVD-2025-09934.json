@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-17 01:32:36",
+    "parse_time": "2025-05-17 02:33:04",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09934",
-    "spider_time": 1747445556896,
+    "spider_time": 1747449184524,
     "name": "Tenda AC18 formSetPPTPServer函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09934",
     "publish": "2025-05-14",
