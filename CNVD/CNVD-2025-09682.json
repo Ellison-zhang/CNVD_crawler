@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-17 09:07:32",
+    "parse_time": "2025-05-17 10:07:19",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09682",
-    "spider_time": 1747472852400,
+    "spider_time": 1747476439452,
     "name": "Tenda W12/i24 cgiSysUplinkCheckSet栈溢出漏洞",
     "cnvd": "CNVD-2025-09682",
     "publish": "2025-05-13",
