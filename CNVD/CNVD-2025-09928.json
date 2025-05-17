@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-17 13:09:21",
+    "parse_time": "2025-05-17 14:03:58",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09928",
-    "spider_time": 1747487361068,
+    "spider_time": 1747490638199,
     "name": "Tenda AC9 formsetUsbUnload函数命令注入漏洞",
     "cnvd": "CNVD-2025-09928",
     "publish": "2025-05-15",
