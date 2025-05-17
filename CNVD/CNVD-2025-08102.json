@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-17 02:31:47",
+    "parse_time": "2025-05-17 03:19:55",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08102",
-    "spider_time": 1747449107343,
+    "spider_time": 1747451995422,
     "name": "HDF5 H5FL__blk_gc_list函数释放后堆使用漏洞",
     "cnvd": "CNVD-2025-08102",
     "publish": "2025-05-16",
