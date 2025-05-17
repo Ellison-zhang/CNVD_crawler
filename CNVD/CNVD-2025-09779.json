@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-17 16:06:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09779",
+    "spider_time": 1747498019304,
+    "name": "江西铭软科技有限公司MCMS存在文件上传漏洞",
+    "cnvd": "CNVD-2025-09779",
+    "publish": "2025-05-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u6c5f\\u897f\\u94ed\\u8f6f\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 MCMS 5.4.4\"]",
+    "cve": null,
+    "description": "MCMS是一款基于java开发的一套轻量级开源内容管理系统。江西铭软科技有限公司MCMS存在文件上传漏洞，攻击者可利用该漏洞获取服务器控制权。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.mingsoft.net/",
+    "patch": "江西铭软科技有限公司MCMS存在文件上传漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-04-03",
+    "open_time": "2025-05-14",
+    "update_time": "2025-05-16",
+    "data_summary": "8969bd3359ff0dfed65cd69a62526268"
+}
