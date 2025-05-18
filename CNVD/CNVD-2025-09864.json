@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-18 22:08:43",
+    "parse_time": "2025-05-18 23:06:52",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09864",
-    "spider_time": 1747606123051,
+    "spider_time": 1747609612563,
     "name": "TOTOLINK A810R setParentalRules函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09864",
     "publish": "2025-05-13",
