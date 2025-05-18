@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-18 18:08:57",
+    "parse_time": "2025-05-18 19:08:08",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09666",
-    "spider_time": 1747591737186,
+    "spider_time": 1747595288828,
     "name": "Tenda W18E栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09666",
     "publish": "2025-05-13",
