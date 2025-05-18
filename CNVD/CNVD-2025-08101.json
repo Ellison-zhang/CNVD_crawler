@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-18 16:04:17",
+    "parse_time": "2025-05-18 17:03:33",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08101",
-    "spider_time": 1747584257341,
+    "spider_time": 1747587813761,
     "name": "HDF5 H5FS__sinfo_serialize_sect_cb函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-08101",
     "publish": "2025-05-16",
