@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-17 23:04:58",
+    "parse_time": "2025-05-18 00:17:31",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09936",
-    "spider_time": 1747523098698,
+    "spider_time": 1747527451186,
     "name": "Tenda AC18 formSetDeviceName函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09936",
     "publish": "2025-05-14",

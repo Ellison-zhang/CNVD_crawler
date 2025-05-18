@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-17 23:03:56",
+    "parse_time": "2025-05-18 00:16:16",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09924",
-    "spider_time": 1747523036009,
+    "spider_time": 1747527376246,
     "name": "Tenda DAP-1520 check_dws_cookie函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09924",
     "publish": "2025-05-15",

@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-17 23:05:37",
+    "parse_time": "2025-05-18 00:18:16",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09945",
-    "spider_time": 1747523137614,
+    "spider_time": 1747527496991,
     "name": "Tenda AC6 setDoublePppoeConfig模块缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09945",
     "publish": "2025-05-14",
