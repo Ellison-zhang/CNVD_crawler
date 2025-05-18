@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-18 07:08:19",
+    "parse_time": "2025-05-18 08:09:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09665",
-    "spider_time": 1747552099752,
+    "spider_time": 1747555740280,
     "name": "Tenda RX3 fromSetWifiGusetBasic栈溢出漏洞",
     "cnvd": "CNVD-2025-09665",
     "publish": "2025-05-13",

@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-18 07:08:14",
+    "parse_time": "2025-05-18 08:08:57",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09664",
-    "spider_time": 1747552094812,
+    "spider_time": 1747555737261,
     "name": "Tenda RX3 GetParentControlInfo栈溢出漏洞",
     "cnvd": "CNVD-2025-09664",
     "publish": "2025-05-13",
