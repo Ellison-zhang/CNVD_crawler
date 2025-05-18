@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-18 08:09:19",
+    "parse_time": "2025-05-18 09:10:04",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09672",
-    "spider_time": 1747555759992,
+    "spider_time": 1747559404920,
     "name": "Tenda AC9 /goform/WifiWpsStart接口缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09672",
     "publish": "2025-05-13",
