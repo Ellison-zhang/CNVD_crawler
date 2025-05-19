@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-19 15:04:41",
+    "parse_time": "2025-05-19 16:07:55",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09925",
-    "spider_time": 1747667081433,
+    "spider_time": 1747670875162,
     "name": "Tenda DAP-1520 mod_graph_auth_uri_handler函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-09925",
     "publish": "2025-05-15",

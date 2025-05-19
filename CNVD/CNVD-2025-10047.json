@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-19 16:06:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10047",
+    "spider_time": 1747670803716,
+    "name": "RT-Labs P-Net存在未明漏洞（CNVD-2025-10047）",
+    "cnvd": "CNVD-2025-10047",
+    "publish": "2025-05-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"RT-Labs P-Net <=1.0.1\"]",
+    "cve": "CVE-2025-32401",
+    "description": "RT-Labs P-Net是RT-Labs公司的一个开源PROFINET协议栈，实现工业设备与PROFINET控制器的标准通信。RT-Labs P-Net 1.0.1及之前版本存在安全漏洞，攻击者可利用该漏洞导致IO设备内存破坏。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.nozominetworks.com/labs/vulnerability-advisories-cve-2025-32401",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://rt-labs.com/product/p-net/",
+    "patch": "RT-Labs P-Net存在未明漏洞（CNVD-2025-10047）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-19",
+    "update_time": "2025-05-19",
+    "data_summary": "98f44695bac62c4d92d64e8ece251d95"
+}
