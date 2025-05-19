@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-19 10:04:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10033",
+    "spider_time": 1747649060638,
+    "name": "Apache ActiveMQ NMS OpenWire Client反序列化漏洞",
+    "cnvd": "CNVD-2025-10033",
+    "publish": "2025-05-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apache Apache ActiveMQ NMS OpenWire Client <2.1.1\"]",
+    "cve": "CVE-2025-29953",
+    "description": "Apache ActiveMQ NMS OpenWire Client是美国阿帕奇（Apache）基金会的一个.NET客户端。Apache ActiveMQ NMS OpenWire Client 2.1.1之前版本存在反序列化漏洞，该漏洞源于应用程序在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞导致代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2025/04/18/3",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://activemq.apache.org/components/nms/providers/activemq/downloads/",
+    "patch": "Apache ActiveMQ NMS OpenWire Client反序列化漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-30",
+    "open_time": "2025-05-19",
+    "update_time": "2025-05-19",
+    "data_summary": "f0cde43974596a9330944217f5ddff35"
+}

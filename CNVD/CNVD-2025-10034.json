@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-19 10:04:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10034",
+    "spider_time": 1747649064848,
+    "name": "Apache Answer信息泄露漏洞",
+    "cnvd": "CNVD-2025-10034",
+    "publish": "2025-04-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Apache Apache Answer <=1.4.2\"]",
+    "cve": "CVE-2025-29868",
+    "description": "Apache Answer是美国阿帕奇（Apache）基金会的一个社区平台。Apache Answer 1.4.2及之前版本存在信息泄露漏洞，该漏洞源于公共方法返回私有数据结构，攻击者可利用该漏洞导致IP地址泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-29868",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/l7pohw5g03g3qsvrz8pqc9t29mdv5lhf",
+    "patch": "Apache Answer信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-09",
+    "open_time": "2025-05-19",
+    "update_time": "2025-05-19",
+    "data_summary": "ae4e086220a4bf27741a121a34c20489"
+}

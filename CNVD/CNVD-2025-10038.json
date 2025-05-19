@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-19 10:04:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10038",
+    "spider_time": 1747649084903,
+    "name": "Apache Commons VFS路径遍历漏洞",
+    "cnvd": "CNVD-2025-10038",
+    "publish": "2025-05-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Apache Apache Commons VFS <2.10.0\"]",
+    "cve": "CVE-2025-27553",
+    "description": "Apache Commons VFS是美国阿帕奇（Apache）基金会的一个公共虚拟文件系统。Apache Commons VFS 2.10.0之前版本存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素。攻击者可利用该漏洞导致返回非基础文件后代的文件对象。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2025/03/23/1",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/cnzqowyw9r2pl263cylmxhnvh41hyjcb",
+    "patch": "Apache Commons VFS路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-05-19",
+    "update_time": "2025-05-19",
+    "data_summary": "3158d6e7560e381ba38f2e47d91c5dac"
+}

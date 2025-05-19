@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-19 10:04:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10037",
+    "spider_time": 1747649078754,
+    "name": "Apache Kylin代码注入漏洞",
+    "cnvd": "CNVD-2025-10037",
+    "publish": "2025-04-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Apache Kylin >=4.0.0\\uff0c<=5.0.1\"]",
+    "cve": "CVE-2025-30067",
+    "description": "Apache Kylin是一个开源的分布式分析引擎，旨在提供 SQL 接口以及为超大型数据集的Hadoop和Alluxio的多维分析提供支持。Apache Kylin 4.0.0版本至5.0.1版本存在代码注入漏洞，远程攻击者可利用该漏洞可以提交特殊的请求，可以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/apache/kylin/commit/21d98f3ef29f71b50dacabbf039905f9f0f71b95",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/apache/kylin/releases/tag/kylin-5.0.2",
+    "patch": "Apache Kylin代码注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-31",
+    "open_time": "2025-05-19",
+    "update_time": "2025-05-19",
+    "data_summary": "15e7fd64e714ebf3c20cc3bb00300b47"
+}

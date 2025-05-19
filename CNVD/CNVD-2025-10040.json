@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-19 10:04:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10040",
+    "spider_time": 1747649096304,
+    "name": "Apache Oozie跨站脚本漏洞",
+    "cnvd": "CNVD-2025-10040",
+    "publish": "2025-04-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Apache Oozie\"]",
+    "cve": "CVE-2025-26796",
+    "description": "Apache Oozie是美国阿帕奇（Apache）基金会的一个应用软件。提供一个工作流调度程序系统，用于管理Apache Hadoop作业功能。Apache Oozie存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2025/03/21/1",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/fzrmsslnrpl0vpp0jr73fosmfjv4omdq",
+    "patch": "Apache Oozie跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-05-19",
+    "update_time": "2025-05-19",
+    "data_summary": "387b1af098a0adf2a909b784efeb579c"
+}
