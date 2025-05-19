@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-18 23:04:29",
+    "parse_time": "2025-05-19 00:16:20",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09930",
-    "spider_time": 1747609469395,
+    "spider_time": 1747613780465,
     "name": "Tenda RX2 Pro setLanCfg API端点输入验证错误漏洞",
     "cnvd": "CNVD-2025-09930",
     "publish": "2025-05-15",
