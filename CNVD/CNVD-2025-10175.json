@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-20 07:06:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10175",
+    "spider_time": 1747724775082,
+    "name": "Linux kernel竞争条件漏洞（CNVD-2025-10175）",
+    "cnvd": "CNVD-2025-10175",
+    "publish": "2025-05-14",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Linux Linux kernel 6.1\", \"Linux Linux kernel >=5.17.15\\uff0c<5.18\", \"Linux Linux kernel >=5.10.122\\uff0c<5.10.154\", \"Linux Linux kernel >=5.15.47\\uff0c<5.15.78\", \"Linux Linux kernel >=5.4.198\\uff0c<5.4.224\", \"Linux Linux kernel >=5.18.4\\uff0c<6.0.8\"]",
+    "cve": "CVE-2022-49919",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在竞争条件漏洞，该漏洞源于nf_tables未及时释放流规则对象，可能导致内存泄漏。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-49919",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/b2d7a92aff0fbd93c29d2aa6451fb99f050e2c4e",
+    "patch": "Linux kernel竞争条件漏洞（CNVD-2025-10175）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-05-20",
+    "update_time": "2025-05-20",
+    "data_summary": "cc8ede0d09366d253d2a86d78c04cf81"
+}

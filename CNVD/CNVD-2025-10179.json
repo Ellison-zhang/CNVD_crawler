@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-20 07:06:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10179",
+    "spider_time": 1747724791604,
+    "name": "Linux kernel空指针解引用漏洞（CNVD-2025-10179）",
+    "cnvd": "CNVD-2025-10179",
+    "publish": "2025-05-14",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Linux Linux kernel 6.1\", \"Linux Linux kernel >=6.0\\uff0c<6.0.8\"]",
+    "cve": "CVE-2022-49894",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在空指针解引用漏洞，该漏洞源于未验证区域HPA顺序，可能导致空指针解引用。攻击者可利用该漏洞来执行恶意代码或获取未授权的访问权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-49894",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/a90accb358ae33ea982a35595573f7a045993f8b",
+    "patch": "Linux kernel空指针解引用漏洞（CNVD-2025-10179）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-05-20",
+    "update_time": "2025-05-20",
+    "data_summary": "7ed620813070e0eaea608d9062cfeb6a"
+}

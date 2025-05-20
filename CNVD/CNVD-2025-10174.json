@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-20 07:06:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10174",
+    "spider_time": 1747724772295,
+    "name": "Linux kernel内存泄露漏洞（CNVD-2025-10174）",
+    "cnvd": "CNVD-2025-10174",
+    "publish": "2025-05-14",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Linux Linux kernel 6.1\", \"Linux Linux kernel >=5.11\\uff0c<5.15.78\", \"Linux Linux kernel >=5.16\\uff0c<6.0.8\", \"Linux Linux kernel >=5.5\\uff0c<5.10.154\", \"Linux Linux kernel >=4.20\\uff0c<5.4.224\", \"Linux Linux kernel >=4.15\\uff0c<4.19.265\", \"Linux Linux kernel >=4.10\\uff0c<4.14.299\", \"Linux Linux kernel >=4.4\\uff0c<4.9.333\"]",
+    "cve": "CVE-2022-49922",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在内存泄露漏洞，该漏洞源于nfcmrvl_i2c_nci_send未释放skb，可能导致内存泄漏。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-49922",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/f30060efcf18883748a0541aa41acef183cd9c0e",
+    "patch": "Linux kernel内存泄露漏洞（CNVD-2025-10174）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-05-20",
+    "update_time": "2025-05-20",
+    "data_summary": "3d1f419f8369a8aba20e846018bfaa35"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-20 07:06:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10178",
+    "spider_time": 1747724786312,
+    "name": "Linux kernel空指针解引用漏洞（CNVD-2025-10178）",
+    "cnvd": "CNVD-2025-10178",
+    "publish": "2025-05-14",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Linux Linux kernel 6.1\", \"Linux Linux kernel >=5.11\\uff0c<5.15.80\", \"Linux Linux kernel >=5.16\\uff0c<6.0.10\", \"Linux Linux kernel >=2.6.14\\uff0c<5.10.157\"]",
+    "cve": "CVE-2022-49839",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在空指针解引用漏洞，该漏洞源于sas_phy_add中未检查transport_add_device返回值，可能导致空指针取消引用。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-49839",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/c736876ee294bb4f271d76a25cc7d70c8537bc5d",
+    "patch": "Linux kernel空指针解引用漏洞（CNVD-2025-10178）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-05-20",
+    "update_time": "2025-05-20",
+    "data_summary": "d82c087d2394634ab2dcd03f62fb5f03"
+}

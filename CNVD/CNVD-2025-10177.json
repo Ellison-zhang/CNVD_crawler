@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-20 07:06:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10177",
+    "spider_time": 1747724782052,
+    "name": "Linux kernel释放后使用漏洞（CNVD-2025-10177）",
+    "cnvd": "CNVD-2025-10177",
+    "publish": "2025-05-14",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Linux Linux kernel 6.1\", \"Linux Linux kernel >=4.9.326\\uff0c<4.9.333\", \"Linux Linux kernel >=4.14.291\\uff0c<4.14.299\", \"Linux Linux kernel >=4.19.255\\uff0c<4.19.265\", \"Linux Linux kernel >=5.4.209\\uff0c<5.4.224\", \"Linux Linux kernel >=5.10.135\\uff0c<5.10.154\", \"Linux Linux kernel >=5.15.59\\uff0c<5.15.78\", \"Linux Linux kernel >=5.18.16\\uff0c<6.0.8\"]",
+    "cve": "CVE-2022-49909",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在释放后重用漏洞，该漏洞源于Bluetooth L2CAP释放后重用，可能导致任意代码执行。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-49909",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/db4a0783ed78beb2ebaa32f5f785bfd79c580689",
+    "patch": "Linux kernel释放后使用漏洞（CNVD-2025-10177）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-05-20",
+    "update_time": "2025-05-20",
+    "data_summary": "1420624faeb60895b63b690785178ffb"
+}
