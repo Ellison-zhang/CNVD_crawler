@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-19 23:04:13",
+    "parse_time": "2025-05-20 00:15:28",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10042",
-    "spider_time": 1747695853542,
+    "spider_time": 1747700128993,
     "name": "FreeImage缓冲区溢出漏洞（CNVD-2025-10042）",
     "cnvd": "CNVD-2025-10042",
     "publish": "2025-05-20",
