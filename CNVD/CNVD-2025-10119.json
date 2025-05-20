@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-20 03:22:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10119",
+    "spider_time": 1747711333955,
+    "name": "Wazifa System存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-10119",
+    "publish": "2025-05-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"Wazifa System Wazifa System\"]",
+    "cve": null,
+    "description": "Wazifa System是一款祈祷或仪式系统。Wazifa System存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-05",
+    "open_time": "2025-05-20",
+    "update_time": "2025-05-20",
+    "data_summary": "b3d9a395bdff2313b945bfc6c60c8e1d"
+}
