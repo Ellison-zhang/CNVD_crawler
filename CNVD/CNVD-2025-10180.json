@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-20 17:08:42",
+    "parse_time": "2025-05-20 18:15:35",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10180",
-    "spider_time": 1747760922107,
+    "spider_time": 1747764935282,
     "name": "SonicWall SMA100 SSL-VPN远程命令注入漏洞",
     "cnvd": "CNVD-2025-10180",
     "publish": "2025-05-14",
