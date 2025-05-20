@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-20 09:07:05",
+    "parse_time": "2025-05-20 10:08:20",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09927",
-    "spider_time": 1747732025833,
+    "spider_time": 1747735700029,
     "name": "Tenda AC9 formSetSambaConf函数命令注入漏洞",
     "cnvd": "CNVD-2025-09927",
     "publish": "2025-05-15",
