@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-21 11:06:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10396",
+    "spider_time": 1747825577476,
+    "name": "IBM Semeru Runtime拒绝服务漏洞",
+    "cnvd": "CNVD-2025-10396",
+    "publish": "2025-05-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"IBM IBM Semeru Runtime >=8.0.302.0\\uff0c<=8.0.442.0\", \"IBM IBM Semeru Runtime >=17.0.0.0\\uff0c<=17.0.14.0\", \"IBM IBM Semeru Runtime >=21.0.0.0\\uff0c<=12.0.6.0\", \"IBM IBM Semeru Runtime >=11.0.12.0\\uff0c<=11.0.26.0\"]",
+    "cve": "CVE-2025-2900",
+    "description": "IBM Semeru Runtime是IBM提供的开源Java运行时环境，基于Eclipse Adoptium项目，支持多种操作系统和架构，为Java应用程序提供高性能和高可靠性的运行平台。IBM Semeru Runtime存在拒绝服务漏洞，该漏洞是由于AES/CBC加密实现中存在缺陷，当进行加密操作时，发生缓冲区溢出。攻击者可利用该漏洞导致受影响的应用程序崩溃，从而引发拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-2900",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://developer.ibm.com/languages/java/semeru-runtimes/downloads/",
+    "patch": "IBM Semeru Runtime拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-16",
+    "open_time": "2025-05-21",
+    "update_time": "2025-05-21",
+    "data_summary": "ac75243af1c310e9ba2cddca1abc69b6"
+}

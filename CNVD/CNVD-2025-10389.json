@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-21 11:06:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10389",
+    "spider_time": 1747825564697,
+    "name": "Adobe ColdFusion输入验证错误漏洞",
+    "cnvd": "CNVD-2025-10389",
+    "publish": "2025-05-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Adobe Adobe ColdFusion <=2021.19\", \"Adobe Adobe ColdFusion 2025.1\", \"Adobe Adobe ColdFusion 2023.13\"]",
+    "cve": "CVE-2025-43559",
+    "description": "Adobe ColdFusion是一款由Adobe开发的用于创建和部署互联网应用程序的服务器软件。Adobe ColdFusion存在输入验证错误漏洞，该漏洞源于系统未能正确处理特定输入。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43559",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/coldfusion/apsb25-52.html",
+    "patch": "Adobe ColdFusion输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-19",
+    "open_time": "2025-05-21",
+    "update_time": "2025-05-21",
+    "data_summary": "ff4223dc1c586e73401416548f972495"
+}

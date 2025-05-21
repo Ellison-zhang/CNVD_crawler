@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-21 11:07:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10401",
+    "spider_time": 1747825655878,
+    "name": "NETGEAR JWNR2000v2 sub_41A914函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-10401",
+    "publish": "2025-05-16",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"NETGEAR JWNR2000v2 1.0.0.11\"]",
+    "cve": "CVE-2025-4117",
+    "description": "NETGEAR JWNR2000v2是美国网件（NETGEAR）公司的一款无线路由器。NETGEAR JWNR2000v2存在缓冲区溢出漏洞，该漏洞源于sub_41A914函数参数host未能正确验证输入数据的长度大小，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-4117",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-21",
+    "update_time": "2025-05-21",
+    "data_summary": "47650a7dee39b3f04358ad3ee28d6b84"
+}

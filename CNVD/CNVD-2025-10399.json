@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-21 11:06:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10399",
+    "spider_time": 1747825594005,
+    "name": "IBM Sterling Partner Engagement Manager密钥存储不当漏洞",
+    "cnvd": "CNVD-2025-10399",
+    "publish": "2025-05-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"IBM IBM Sterling Partner Engagement Manager 6.2.0\", \"IBM IBM Sterling Partner Engagement Manager 6.2.2\", \"IBM IBM Sterling Partner Engagement Manager 6.1.0\"]",
+    "cve": "CVE-2025-33093",
+    "description": "IBM Sterling Partner Engagement Manager是美国国际商业机器（IBM）公司的一个自动化管理工具。IBM Sterling Partner Engagement Manager存在密钥存储不当漏洞，该漏洞源于JWT密钥存储不当。攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-33093",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.ibm.com/support/pages/node/7232762",
+    "patch": "IBM Sterling Partner Engagement Manager密钥存储不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-21",
+    "update_time": "2025-05-21",
+    "data_summary": "2fb817902f81028282947566d3cae3fc"
+}
