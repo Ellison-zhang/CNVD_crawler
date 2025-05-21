@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-21 22:04:09",
+    "parse_time": "2025-05-21 23:04:19",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10062",
-    "spider_time": 1747865049916,
+    "spider_time": 1747868659292,
     "name": "PCMan FTP Server 'BELL'缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10062",
     "publish": "2025-05-21",
