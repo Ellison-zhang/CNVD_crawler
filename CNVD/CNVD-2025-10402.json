@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-21 13:18:35",
+    "parse_time": "2025-05-21 15:08:23",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10402",
-    "spider_time": 1747833515887,
+    "spider_time": 1747840103718,
     "name": "NETGEAR JWNR2000v2 sub_4238E8函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10402",
     "publish": "2025-05-16",
