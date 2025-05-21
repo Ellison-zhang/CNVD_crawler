@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-21 09:08:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10324",
+    "spider_time": 1747818539052,
+    "name": "D-Link DIR-823x存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-10324",
+    "publish": "2025-05-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:N/I:N/A:C",
+    "product": "[\"D-Link DIR-823X 240126\"]",
+    "cve": null,
+    "description": "D-Link DIR-823X是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-823x存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修补方案，建议用户下载使用：\nhttps://www.dlink.com.cn/home/product?id=3118",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-04",
+    "open_time": "2025-05-21",
+    "update_time": "2025-05-21",
+    "data_summary": "ed8eb0e56cb9f5bc7e6f1b4131085f55"
+}

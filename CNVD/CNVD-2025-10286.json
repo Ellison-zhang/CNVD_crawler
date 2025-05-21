@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-21 09:08:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10286",
+    "spider_time": 1747818529975,
+    "name": "多款LB-LINK路由器存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-10286",
+    "publish": "2025-05-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"LB-LINK BL-G1200_V2.0 1.0.20\", \"LB-LINK BL-AX5400P 1.0.19\", \"LB-LINK BL-AX1800 1.0.19\", \"LB-LINK BL-AC3600 1.0.22\", \"LB-LINK BL-AC2600 1.0.22\", \"LB-LINK BL-X-PRO_V2.0 1.0.22\"]",
+    "cve": null,
+    "description": "LB-LINK是专门从事物联网模块和基于模块的系统集成组件或产品的设计、生产和销售。多款LB-LINK路由器存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.lb-link.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-04",
+    "open_time": "2025-05-21",
+    "update_time": "2025-05-21",
+    "data_summary": "4ea52301120231fbc70906d39454296b"
+}

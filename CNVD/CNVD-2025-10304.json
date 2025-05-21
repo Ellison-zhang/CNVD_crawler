@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-21 09:08:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10304",
+    "spider_time": 1747818523852,
+    "name": "TOTOLINK A3100R存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-10304",
+    "publish": "2025-05-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A3100R 5.9c.1527\"]",
+    "cve": null,
+    "description": "TOTOLINK A3100R是一款AC1200双频千兆无线路由器。TOTOLINK A3100R存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-04",
+    "open_time": "2025-05-21",
+    "update_time": "2025-05-21",
+    "data_summary": "af11a12af0d0e9ce485d145a00419c39"
+}
