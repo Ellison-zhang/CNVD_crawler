@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-22 09:15:23",
+    "parse_time": "2025-05-22 10:13:03",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10418",
-    "spider_time": 1747905323855,
+    "spider_time": 1747908783532,
     "name": "NETGEAR EX6200 sub_503FC函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10418",
     "publish": "2025-05-16",

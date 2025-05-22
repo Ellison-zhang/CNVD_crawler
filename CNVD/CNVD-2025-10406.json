@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-22 09:13:10",
+    "parse_time": "2025-05-22 10:09:34",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10406",
-    "spider_time": 1747905190302,
+    "spider_time": 1747908574611,
     "name": "WordPress Accept Donations with PayPal plugin跨站请求伪造漏洞",
     "cnvd": "CNVD-2025-10406",
     "publish": "2025-05-19",
