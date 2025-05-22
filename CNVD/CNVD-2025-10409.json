@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-22 03:30:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10409",
+    "spider_time": 1747884653277,
+    "name": "WordPress Ajax Load More plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-10409",
+    "publish": "2025-05-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"WordPress Ajax Load More plugin <=7.3.1\"]",
+    "cve": "CVE-2025-47630",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Ajax Load More plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-47630",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/ajax-load-more/",
+    "patch": "WordPress Ajax Load More plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-22",
+    "update_time": "2025-05-22",
+    "data_summary": "405a4c0404bd38fd8dff89f324f88bb2"
+}

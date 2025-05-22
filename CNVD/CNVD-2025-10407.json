@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-22 03:30:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10407",
+    "spider_time": 1747884644400,
+    "name": "WordPress Advanced File Manager plugin缺少授权漏洞",
+    "cnvd": "CNVD-2025-10407",
+    "publish": "2025-05-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Advanced File Manager plugin <=5.3.1\"]",
+    "cve": "CVE-2025-47688",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Advanced File Manager plugin存在缺少授权漏洞，该漏洞源于缺少授权，攻击者可利用该漏洞利用错误配置修改控制安全级别。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-47688",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/file-manager-advanced/",
+    "patch": "WordPress Advanced File Manager plugin缺少授权漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-22",
+    "update_time": "2025-05-22",
+    "data_summary": "469e6496f922452ee831d71d4b2a11d6"
+}
