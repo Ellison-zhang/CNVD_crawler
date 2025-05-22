@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-22 07:08:34",
+    "parse_time": "2025-05-22 08:13:30",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10417",
-    "spider_time": 1747897714218,
+    "spider_time": 1747901610040,
     "name": "NETGEAR EX6200 sub_47F7C函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10417",
     "publish": "2025-05-16",
