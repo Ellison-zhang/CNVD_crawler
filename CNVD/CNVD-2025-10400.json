@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-22 08:12:55",
+    "parse_time": "2025-05-22 09:14:51",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10400",
-    "spider_time": 1747901575858,
+    "spider_time": 1747905291637,
     "name": "NETGEAR JWNR2000v2 get_cur_lang_ver函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10400",
     "publish": "2025-05-16",

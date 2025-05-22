@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-22 08:13:00",
+    "parse_time": "2025-05-22 09:14:55",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10401",
-    "spider_time": 1747901580591,
+    "spider_time": 1747905295655,
     "name": "NETGEAR JWNR2000v2 sub_41A914函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10401",
     "publish": "2025-05-16",
