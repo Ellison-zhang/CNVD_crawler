@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-23 02:32:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10496",
+    "spider_time": 1747967577374,
+    "name": "TP-Link Corporation PTE. Ltd.TL-R473GP-AC###XDR6020###TL-R479GP-AC###TL-R4239G###TL-WAR1200L###TL-R476G存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-10496",
+    "publish": "2025-05-23",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"TP-Link Corporation PTE. Ltd. TL-R473GP-AC\"]",
+    "cve": null,
+    "description": "TP-Link Corporation PTE. Ltd是一家全球领先的ICT设备与解决方案供应商，主要提供网络通讯设备和服务。‌TP-Link Corporation PTE. Ltd.TL-R473GP-AC、XDR6020、TL-R479GP-AC、TL-R4239G、TL-WAR1200L和TL-R476G存在逻辑缺陷漏洞,攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.tp-link.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-08",
+    "open_time": "2025-05-23",
+    "update_time": "2025-05-23",
+    "data_summary": "acbcbc2ef3681022e66766288412eec5"
+}

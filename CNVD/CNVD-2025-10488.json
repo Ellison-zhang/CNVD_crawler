@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-23 02:37:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10488",
+    "spider_time": 1747967868737,
+    "name": "大路网络科技有限公司出口保理平台存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-10488",
+    "publish": "2025-05-22",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u5927\\u8def\\u7f51\\u7edc\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u51fa\\u53e3\\u4fdd\\u7406\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "大路网络科技有限公司是一家以大数据和人工智能技术为核心的企业，主要业务包括技术开发、计算机系统服务、数据处理等。大路网络科技有限公司出口保理平台存在SQL注入漏洞,攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.ooway.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-07",
+    "open_time": "2025-05-23",
+    "update_time": "2025-05-23",
+    "data_summary": "86fd68340a536eb02edf32b0c9a56665"
+}

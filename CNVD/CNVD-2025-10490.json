@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-23 02:37:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10490",
+    "spider_time": 1747967856177,
+    "name": "LogitechLAN-W301NR存在命令执行漏洞",
+    "cnvd": "CNVD-2025-10490",
+    "publish": "2025-05-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Logitech LAN-W301NR\"]",
+    "cve": null,
+    "description": "Logitech LAN-W301NR是一款无线路由器。Logitech LAN-W301NR存在命令执行漏洞,攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.logitech.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-07",
+    "open_time": "2025-05-23",
+    "update_time": "2025-05-23",
+    "data_summary": "14b25de268ef26cd6f8d1a137884c9c6"
+}
