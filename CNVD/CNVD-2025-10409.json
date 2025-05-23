@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-23 21:09:30",
+    "parse_time": "2025-05-23 22:07:14",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10409",
-    "spider_time": 1748034570096,
+    "spider_time": 1748038034203,
     "name": "WordPress Ajax Load More plugin跨站脚本漏洞",
     "cnvd": "CNVD-2025-10409",
     "publish": "2025-05-19",
