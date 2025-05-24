@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-24 12:11:45",
+    "parse_time": "2025-05-24 14:12:15",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09797",
-    "spider_time": 1748088705805,
+    "spider_time": 1748095935380,
     "name": "武汉依云软件有限公司工资查询系统存在SQL注入漏洞",
     "cnvd": "CNVD-2025-09797",
     "publish": "2025-05-18",
