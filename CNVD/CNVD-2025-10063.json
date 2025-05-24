@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-24 18:06:56",
+    "parse_time": "2025-05-24 19:06:15",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10063",
-    "spider_time": 1748110016810,
+    "spider_time": 1748113575607,
     "name": "PCMan FTP Server 'GLOB'缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10063",
     "publish": "2025-05-21",
