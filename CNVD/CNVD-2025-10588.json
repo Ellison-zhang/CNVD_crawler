@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-26 07:04:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10588",
+    "spider_time": 1748243096098,
+    "name": "Moodle权限问题漏洞",
+    "cnvd": "CNVD-2025-10588",
+    "publish": "2025-05-26",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:N/I:P/A:N",
+    "product": "[\"moodle Moodle\"]",
+    "cve": "CVE-2025-26531",
+    "description": "Moodle是Moodle开源的一套免费的电子学习软件平台，也称课程管理系统、学习管理系统或虚拟学习环境。Moodle中存在权限问题漏洞。该漏洞源于权限检查不足，允许用户禁用其无权访问的徽章。攻击者可利用该漏洞禁用其他用户的徽章。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://git.moodle.org/gw?p=moodle.git&a=search&h=HEAD&st=commit&s=MDL-84239\nhttps://moodle.org/mod/forum/discuss.php?d=466148\nhttps://access.redhat.com/security/cve/cve-2025-26531",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://download.moodle.org/releases/latest/",
+    "patch": "Moodle权限问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-03",
+    "open_time": "2025-05-26",
+    "update_time": "2025-05-26",
+    "data_summary": "a43419cc2eb1a962323df5198ee4f897"
+}
