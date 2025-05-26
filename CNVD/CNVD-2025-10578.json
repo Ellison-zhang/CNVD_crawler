@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-26 18:09:20",
+    "parse_time": "2025-05-26 19:08:25",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10578",
-    "spider_time": 1748282960496,
+    "spider_time": 1748286505567,
     "name": "Triangle MicroWorks SCADA Data Gateway任意代码执行漏洞",
     "cnvd": "CNVD-2025-10578",
     "publish": "2025-05-21",

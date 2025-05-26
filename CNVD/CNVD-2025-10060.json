@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-26 18:09:03",
+    "parse_time": "2025-05-26 19:05:30",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10060",
-    "spider_time": 1748282943782,
+    "spider_time": 1748286330160,
     "name": "PCMan FTP Server 'APPEND'缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10060",
     "publish": "2025-05-21",
