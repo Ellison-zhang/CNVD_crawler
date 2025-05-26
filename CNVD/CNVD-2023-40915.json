@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-26 02:34:10",
+    "parse_time": "2025-05-26 04:07:51",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2023-40915",
-    "spider_time": 1748226850076,
+    "spider_time": 1748232471929,
     "name": "OpenEMR访问控制错误漏洞（CNVD-2023-40915）",
     "cnvd": "CNVD-2023-40915",
     "publish": "2025-05-24",
