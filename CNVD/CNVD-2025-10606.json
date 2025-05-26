@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-26 10:07:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10606",
+    "spider_time": 1748254076073,
+    "name": "TOTOLINK CA300-PoE命令注入漏洞（CNVD-2025-10606）",
+    "cnvd": "CNVD-2025-10606",
+    "publish": "2025-05-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"TOTOLINK CA300-PoE V6.2c.884_B20180522\"]",
+    "cve": "CVE-2025-44863",
+    "description": "TOTOLINK CA300-PoE是中国吉翁电子（TOTOLINK）公司的一款无线接入点。TOTOLINK CA300-PoE存在命令注入漏洞，该漏洞源于msg_process函数Url参数未能正确过滤构造命令特殊字符、命令等，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-44863",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-26",
+    "update_time": "2025-05-26",
+    "data_summary": "f80e59b2256c78c916fae4cd91cdc848"
+}
