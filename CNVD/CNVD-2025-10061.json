@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-26 07:06:13",
+    "parse_time": "2025-05-26 08:12:03",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10061",
-    "spider_time": 1748243173953,
+    "spider_time": 1748247123042,
     "name": "PCMan FTP Server 'ASCII'缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10061",
     "publish": "2025-05-21",

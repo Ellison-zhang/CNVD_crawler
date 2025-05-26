@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-26 08:08:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10596",
+    "spider_time": 1748246922194,
+    "name": "Tenda FH451代码执行漏洞",
+    "cnvd": "CNVD-2025-10596",
+    "publish": "2025-05-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Tenda FH451 V1.0.0.9\"]",
+    "cve": "CVE-2025-44176",
+    "description": "Tenda FH451是中国腾达（Tenda）公司的一款路由器。Tenda FH451存在代码执行漏洞，该漏洞源于formSafeEmailFilter函数未能正确过滤构造代码段的特殊元素。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/xubeining/Cve_report/blob/main/Notification%20of%20Remote%20Code%20Execution%20Vulnerability%20in%20Tenda%20FH451%20Router%20%28Version%20V1.0.0.9%29%20by%20Shenzhen%20Jixiang%20Tenda%20Technology.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-05-26",
+    "update_time": "2025-05-26",
+    "data_summary": "d4f5a9c9820bb7fc3816ad0e9403df41"
+}

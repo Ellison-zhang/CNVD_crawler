@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-26 08:11:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10598",
+    "spider_time": 1748247098284,
+    "name": "Tenda RX3命令注入漏洞",
+    "cnvd": "CNVD-2025-10598",
+    "publish": "2025-05-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"Tenda RX3 16.03.13.11_multi\"]",
+    "cve": "CVE-2025-4357",
+    "description": "Tenda RX3是中国腾达（Tenda）公司的一款双频WiFi 6家用无线路由器。用于家庭网络覆盖，支持高速无线连接。Tenda RX3存在命令注入漏洞，该漏洞源于文件/goform/telnet未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?submit.564727",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-26",
+    "update_time": "2025-05-26",
+    "data_summary": "f31c04bc13170d68c893b47e9fe8755b"
+}

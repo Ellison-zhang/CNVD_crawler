@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-26 08:06:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10599",
+    "spider_time": 1748246768120,
+    "name": "Tenda AC7 ate_ifconfig_set函数命令注入漏洞",
+    "cnvd": "CNVD-2025-10599",
+    "publish": "2025-05-26",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC7 15.03.06.44\"]",
+    "cve": "CVE-2024-48825",
+    "description": "Tenda AC7是中国腾达（Tenda）公司的一款无线路由器。Tenda AC7存在命令注入漏洞，该漏洞源于ate_ifconfig_set未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/ixout/iotVuls/blob/main/Tenda/ac7_005/report.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-31",
+    "open_time": "2025-05-26",
+    "update_time": "2025-05-26",
+    "data_summary": "2084f6a3ca3123c22d35fa3474da312c"
+}

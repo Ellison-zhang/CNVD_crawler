@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-26 08:11:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10597",
+    "spider_time": 1748247092877,
+    "name": "Tenda FH451缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-10597",
+    "publish": "2025-05-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Tenda FH451 V1.0.0.9\"]",
+    "cve": "CVE-2025-45514",
+    "description": "Tenda FH451是中国腾达（Tenda）公司的一款路由器。Tenda FH451存在缓冲区溢出漏洞，该漏洞源于function.frmL7ImForm未能正确验证输入数据的长度大小，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Eu21ka/cve_report/blob/master/The_router_Tenda_FH451_V1.0.0.9_of_Shenzhen_Jixiang_Tenda_Technology_Co.%2C_Ltd._has_a_stack_overflow_vulnerability_2.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-26",
+    "update_time": "2025-05-26",
+    "data_summary": "be511bd7403ed2de429f0ea2e6ab0cfa"
+}
