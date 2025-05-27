@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-27 17:08:33",
+    "parse_time": "2025-05-27 18:10:11",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10708",
-    "spider_time": 1748365713677,
+    "spider_time": 1748369411396,
     "name": "PCMan FTP Server RMDIR命令处理程序缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10708",
     "publish": "2025-05-23",
