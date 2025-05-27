@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-27 09:04:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10689",
+    "spider_time": 1748336677928,
+    "name": "PCMan FTP Server缓冲区溢出漏洞（CNVD-2025-10689）",
+    "cnvd": "CNVD-2025-10689",
+    "publish": "2025-05-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"PCMan PCMan FTP Server <=2.0.7\"]",
+    "cve": "CVE-2025-4079",
+    "description": "PCMan FTP Server是PCMan开源的一套内容管理系统。PCMan FTP Server存在缓冲区溢出漏洞，该漏洞源于组件RENAME Command Handler未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://fitoxs.com/exploit/exploit-9e107d9d372bb6826bd81d3542a419d6.txt",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://pcman.openfoundry.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-07",
+    "open_time": "2025-05-27",
+    "update_time": "2025-05-27",
+    "data_summary": "c4625a62be03296b740afb5b4ed95338"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-27 09:09:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10698",
+    "spider_time": 1748336983484,
+    "name": "PCMan FTP Server HASH命令处理程序缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-10698",
+    "publish": "2025-05-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"PCMan PCMan FTP Server 2.0.7\"]",
+    "cve": "CVE-2025-4253",
+    "description": "PCMan FTP Server是PCMan开源的一套FTP服务器软件。PCMan FTP Server存在缓冲区溢出漏洞，该漏洞源于HASH命令处理程序未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://fitoxs.com/exploit/exploit-6a5b279ed51b35667909c1b56d4d85d71d41bc6e73d4fbbf3de2b1f59ebd6d08.txt",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://ilovepcman.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-27",
+    "update_time": "2025-05-27",
+    "data_summary": "5eb664e669ae86d8296dc8699799f786"
+}

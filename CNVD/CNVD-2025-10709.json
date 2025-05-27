@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-27 09:10:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10709",
+    "spider_time": 1748337032122,
+    "name": "PCMan FTP Server RMD命令处理程序缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-10709",
+    "publish": "2025-05-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"PCMan PCMan FTP Server 2.0.7\"]",
+    "cve": "CVE-2025-4255",
+    "description": "PCMan FTP Server是PCMan开源的一套FTP服务器软件。PCMan FTP Server存在缓冲区溢出漏洞，该漏洞源于RMD命令处理程序未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://fitoxs.com/exploit/exploit-52a33c7f018ae348f748582eae6aa7d38b2b5f1f3dc5d3b6793772e1f8223eb0.txt",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://ilovepcman.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-27",
+    "update_time": "2025-05-27",
+    "data_summary": "0199fcb1a4948ea87ed3503a850cbb03"
+}
