@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-27 10:04:45",
+    "parse_time": "2025-05-27 11:04:08",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10781",
-    "spider_time": 1748340285569,
+    "spider_time": 1748343848732,
     "name": "Tenda O3 time参数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10781",
     "publish": "2025-05-26",
