@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-27 04:07:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10682",
+    "spider_time": 1748318849409,
+    "name": "Netgear DGND3700信息泄露漏洞",
+    "cnvd": "CNVD-2025-10682",
+    "publish": "2025-05-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"NETGEAR Netgear DGND3700 1.1.00.15_1.00.15\"]",
+    "cve": "CVE-2025-4980",
+    "description": "Netgear DGND3700是一款集成了多种功能的无线路由器，适用于家庭和小型办公室环境。Netgear DGND3700存在信息泄露漏洞。该漏洞源于mini_http组件文件/currentsetting.htm的未知代码。攻击者可利用该漏洞通过网络远程操纵该文件，导致敏感信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-4980",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-23",
+    "open_time": "2025-05-27",
+    "update_time": "2025-05-27",
+    "data_summary": "7ef0a0fccfac552b688ac2da02395fc2"
+}
