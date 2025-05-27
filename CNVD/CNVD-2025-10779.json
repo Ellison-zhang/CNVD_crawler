@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-27 10:04:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10779",
+    "spider_time": 1748340278413,
+    "name": "Tenda i22缓冲区溢出漏洞（CNVD-2025-10779）",
+    "cnvd": "CNVD-2025-10779",
+    "publish": "2025-05-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda i22 1.0.0.3(4687)\"]",
+    "cve": "CVE-2024-7583",
+    "description": "Tenda i22是中国腾达（Tenda）公司的一款无线接入点。Tenda i22存在缓冲区溢出漏洞，该漏洞源于/goform/apPortalOneKeyAuth的函数formApPortalOneKey Auth的参数导致缓冲区溢出。目前没有详细的漏洞细节提供应。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-7583",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-08",
+    "open_time": "2025-05-27",
+    "update_time": "2025-05-27",
+    "data_summary": "b0a386666b5d8e740884a456e3466d08"
+}

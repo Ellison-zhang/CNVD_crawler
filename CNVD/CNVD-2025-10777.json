@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-27 10:04:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10777",
+    "spider_time": 1748340268329,
+    "name": "Tenda A301缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-10777",
+    "publish": "2025-05-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda A301 15.13.08.12\"]",
+    "cve": "CVE-2024-7581",
+    "description": "Tenda A301是中国腾达（Tenda）公司的一款无线信号扩展器。Tenda A301存在缓冲区溢出漏洞，该漏洞源于/goform/WifiBasicSet的函数formWifiBasitSet，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-7581",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-08",
+    "open_time": "2025-05-27",
+    "update_time": "2025-05-27",
+    "data_summary": "4316d9681d527a4a100bdc8498f0887e"
+}
