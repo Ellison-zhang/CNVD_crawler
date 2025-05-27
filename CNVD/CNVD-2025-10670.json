@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-27 16:07:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10670",
+    "spider_time": 1748362034375,
+    "name": "Adobe Bridge缓冲区溢出漏洞（CNVD-2025-10670）",
+    "cnvd": "CNVD-2025-10670",
+    "publish": "2025-05-28",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Adobe Bridge <=15.0.3\", \"Adobe Adobe Bridge <=14.1.6\"]",
+    "cve": "CVE-2025-43545",
+    "description": "Adobe Bridge是美国奥多比（Adobe）公司的一款文件查看器。Adobe Bridge存在缓冲区溢出漏洞，该漏洞源于未初始化指针访问，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43545",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/bridge/apsb25-44.html",
+    "patch": "Adobe Bridge缓冲区溢出漏洞（CNVD-2025-10670）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-05-27",
+    "update_time": "2025-05-27",
+    "data_summary": "41338e47c55e1b49f6d0acf1aaaa5db5"
+}

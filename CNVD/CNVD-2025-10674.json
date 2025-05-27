@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-27 16:07:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10674",
+    "spider_time": 1748362058043,
+    "name": "Adobe Connect跨站脚本漏洞（CNVD-2025-10674）",
+    "cnvd": "CNVD-2025-10674",
+    "publish": "2025-05-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Adobe Adobe Connect <=12.8\"]",
+    "cve": "CVE-2025-30315",
+    "description": "Adobe Connect是美国奥多比（Adobe）公司的一个用于创建会议环境的软件。Adobe Connect存在跨站脚本漏洞，攻击者可利用该漏洞执行恶意JavaScript。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/connect/apsb25-36.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/connect/apsb25-36.html",
+    "patch": "Adobe Connect跨站脚本漏洞（CNVD-2025-10674）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-05-27",
+    "update_time": "2025-05-27",
+    "data_summary": "cf1ad024151836c8d93d72a7973a8002"
+}

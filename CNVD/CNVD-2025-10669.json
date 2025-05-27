@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-27 16:07:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10669",
+    "spider_time": 1748362027722,
+    "name": "Adobe Animate数字错误漏洞（CNVD-2025-10669）",
+    "cnvd": "CNVD-2025-10669",
+    "publish": "2025-05-28",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Adobe Animate 2023 <=23.0.11\", \"Adobe Adobe Animate 2024 <=24.0.8\"]",
+    "cve": "CVE-2025-43555",
+    "description": "Adobe Animate是美国奥多比（Adobe）公司的一套Flash动画制作软件。Adobe Animate存在数字错误漏洞，该漏洞源于整数下溢，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/animate/apsb25-42.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/animate/apsb25-42.html",
+    "patch": "Adobe Animate数字错误漏洞（CNVD-2025-10669）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-05-27",
+    "update_time": "2025-05-27",
+    "data_summary": "7e9a46af712af70ecf0c60dec7f12a9f"
+}

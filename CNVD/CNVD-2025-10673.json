@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-27 16:07:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10673",
+    "spider_time": 1748362053846,
+    "name": "Adobe ColdFusion路径遍历漏洞（CNVD-2025-10673）",
+    "cnvd": "CNVD-2025-10673",
+    "publish": "2025-05-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"Adobe ColdFusion 2025 Update 1\", \"Adobe ColdFusion 2023 <=Update 13\", \"Adobe ColdFusion 2021 <=Update 19\"]",
+    "cve": "CVE-2025-43566",
+    "description": "Adobe ColdFusion是美国奥多比（Adobe）公司的一套快速应用程序开发平台。该平台包括集成开发环境和脚本语言。Adobe ColdFusion存在路径遍历漏洞，该漏洞源于路径名限制不当，攻击者可利用该漏洞读取任意文件系统。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/coldfusion/apsb25-52.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/coldfusion/apsb25-52.html",
+    "patch": "Adobe ColdFusion路径遍历漏洞（CNVD-2025-10673）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-05-27",
+    "update_time": "2025-05-27",
+    "data_summary": "c9e1a3e1fd4ca9362ddc1a728d2338b1"
+}
