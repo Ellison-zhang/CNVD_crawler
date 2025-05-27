@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-27 00:15:31",
+    "parse_time": "2025-05-27 01:32:24",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10595",
-    "spider_time": 1748304931835,
+    "spider_time": 1748309544419,
     "name": "Tenda AC10 GetParentControlInfo函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10595",
     "publish": "2025-05-21",
