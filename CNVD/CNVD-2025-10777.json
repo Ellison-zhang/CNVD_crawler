@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-27 22:04:50",
+    "parse_time": "2025-05-27 23:06:01",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10777",
-    "spider_time": 1748383490175,
+    "spider_time": 1748387161251,
     "name": "Tenda A301缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10777",
     "publish": "2025-05-26",
