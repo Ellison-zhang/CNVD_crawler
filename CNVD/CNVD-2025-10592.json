@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-27 06:05:45",
+    "parse_time": "2025-05-27 07:04:58",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10592",
-    "spider_time": 1748325945374,
+    "spider_time": 1748329498357,
     "name": "Tenda AC7 /goform/setMacFilterCfg文件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10592",
     "publish": "2025-05-22",
