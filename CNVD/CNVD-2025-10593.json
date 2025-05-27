@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-27 01:32:10",
+    "parse_time": "2025-05-27 02:34:19",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10593",
-    "spider_time": 1748309530531,
+    "spider_time": 1748313259665,
     "name": "Tenda AC7 /goform/SetRebootTimer文件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10593",
     "publish": "2025-05-22",
