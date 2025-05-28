@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-28 14:06:50",
+    "parse_time": "2025-05-28 15:08:26",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10864",
-    "spider_time": 1748441210872,
+    "spider_time": 1748444906014,
     "name": "PCMan FTP Server CCC Command Handler缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10864",
     "publish": "2025-05-27",
