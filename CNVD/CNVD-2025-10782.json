@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-28 08:08:57",
+    "parse_time": "2025-05-28 09:09:42",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10782",
-    "spider_time": 1748419737309,
+    "spider_time": 1748423382808,
     "name": "Tenda FH1201 cmdinput参数命令注入漏洞",
     "cnvd": "CNVD-2025-10782",
     "publish": "2025-05-26",
