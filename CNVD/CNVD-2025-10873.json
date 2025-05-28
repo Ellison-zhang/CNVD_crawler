@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-28 22:10:41",
+    "parse_time": "2025-05-28 23:16:01",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10873",
-    "spider_time": 1748470241014,
+    "spider_time": 1748474161299,
     "name": "PCMan FTP Server EPRT命令缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10873",
     "publish": "2025-05-27",
