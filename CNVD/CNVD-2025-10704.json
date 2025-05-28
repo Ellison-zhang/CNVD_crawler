@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-28 03:25:08",
+    "parse_time": "2025-05-28 04:09:57",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10704",
-    "spider_time": 1748402708405,
+    "spider_time": 1748405397238,
     "name": "PCMan FTP Server MGET命令处理程序缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10704",
     "publish": "2025-05-23",
