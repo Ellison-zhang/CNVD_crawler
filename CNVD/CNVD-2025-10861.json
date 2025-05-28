@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-28 10:07:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10861",
+    "spider_time": 1748426860492,
+    "name": "PCMan FTP Server MIC Command缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-10861",
+    "publish": "2025-05-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"PCMan PCMan FTP Server 2.0.7\"]",
+    "cve": "CVE-2025-3725",
+    "description": "PCMan FTP Server是一款用于文件传输协议的服务器软件，提供文件上传和下载功能。PCMan FTP Server存在缓冲区溢出漏洞，该漏洞源于MIC Command Handler组件处理特定请求时未能正确管理内存。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.305071",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://pcman.openfoundry.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-05-28",
+    "update_time": "2025-05-28",
+    "data_summary": "3d235a733b326c6f6c25e9cc7979e9f5"
+}

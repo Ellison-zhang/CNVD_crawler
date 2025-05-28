@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-28 10:07:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10877",
+    "spider_time": 1748426833484,
+    "name": "PCMan FTP Server拒绝服务漏洞（CNVD-2025-10877）",
+    "cnvd": "CNVD-2025-10877",
+    "publish": "2025-05-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"PCMan PCMan FTP Server 2.0.7\"]",
+    "cve": "CVE-2024-0731",
+    "description": "PCMan FTP Server是PCMan开源的一套FTP服务器软件‌。PCMan FTP Server存在拒绝服务漏洞，该漏洞源于组件PUT Command Handler，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.251554",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://pcman.openfoundry.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-01-26",
+    "open_time": "2025-05-28",
+    "update_time": "2025-05-28",
+    "data_summary": "6337274269f36fc12064acf4e7d33e53"
+}
