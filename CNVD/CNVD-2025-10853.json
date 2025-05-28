@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-28 16:06:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10853",
+    "spider_time": 1748448416736,
+    "name": "ZTE GoldenDB SQL注入漏洞",
+    "cnvd": "CNVD-2025-10853",
+    "publish": "2025-05-29",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"ZTE ZXCLOUD GoldenDB >=6.1.03\\uff0c<=6.1.03.10\", \"ZTE ZXCLOUD GoldenDB 7.2.01.01\"]",
+    "cve": "CVE-2025-46577",
+    "description": "ZTE GoldenDB是中国中兴通讯（ZTE）公司的一款金融级交易型分布式数据库。用于金融、政企、电信等行业，提供高可用数据服务。ZTE GoldenDB存在SQL注入漏洞，该漏洞源于应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://support.zte.com.cn/zte-iccp-isupport-webui/bulletin/detail/1036467615091601469",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.zte.com.cn/zte-iccp-isupport-webui/bulletin/detail/1036467615091601469",
+    "patch": "ZTE GoldenDB SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-30",
+    "open_time": "2025-05-28",
+    "update_time": "2025-05-28",
+    "data_summary": "63a36cbbeac4fd04f57698636dbf385c"
+}

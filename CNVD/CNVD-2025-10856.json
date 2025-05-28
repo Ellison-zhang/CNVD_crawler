@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-28 16:07:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10856",
+    "spider_time": 1748448432210,
+    "name": "ZTE GoldenDB拒绝服务漏洞",
+    "cnvd": "CNVD-2025-10856",
+    "publish": "2025-05-29",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"ZTE ZXCLOUD GoldenDB >=6.1.03\\uff0c<=6.1.03.10\"]",
+    "cve": "CVE-2025-46580",
+    "description": "ZTE GoldenDB是中国中兴通讯（ZTE）公司的一款金融级交易型分布式数据库。用于金融、政企、电信等行业，提供高可用数据服务。ZTE GoldenDB存在安全漏洞，攻击者可利用该漏洞导致业务SQL中断。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://support.zte.com.cn/zte-iccp-isupport-webui/bulletin/detail/4828497866583347285",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.zte.com.cn/zte-iccp-isupport-webui/bulletin/detail/4828497866583347285",
+    "patch": "ZTE GoldenDB拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-30",
+    "open_time": "2025-05-28",
+    "update_time": "2025-05-28",
+    "data_summary": "399896058fe4f6918cb8965350c5b7f3"
+}

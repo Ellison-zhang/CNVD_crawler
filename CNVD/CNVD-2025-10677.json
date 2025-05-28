@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-28 16:07:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10677",
+    "spider_time": 1748448464744,
+    "name": "Huawei EMUI和HarmonyOS权限绕过漏洞",
+    "cnvd": "CNVD-2025-10677",
+    "publish": "2025-05-29",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Huawei EMUI 12.0.0\", \"Huawei HarmonyOS 3.0.0\", \"Huawei HarmonyOS 2.1.0\", \"Huawei HarmonyOS 2.0.0\", \"Huawei HarmonyOS 3.1.0\", \"Huawei EMUI 13.0.0\", \"Huawei HarmonyOS 4.0.0\", \"Huawei HarmonyOS 4.2.0\", \"Huawei EMUI 14.0.0\", \"Huawei HarmonyOS 4.3.0\"]",
+    "cve": "CVE-2024-58043",
+    "description": "Huawei EMUI是一款基于Android开发的移动端操作系统。Huawei HarmonyOS是一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei EMUI和HarmonyOS存在权限绕过漏洞，攻击者可利用该漏洞导致机密性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-58043",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2025/3/",
+    "patch": "Huawei EMUI和HarmonyOS权限绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-11",
+    "open_time": "2025-05-27",
+    "update_time": "2025-05-27",
+    "data_summary": "0b93e7135d3c2b9af9e4b249f0de91b6"
+}

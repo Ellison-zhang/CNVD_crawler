@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-28 16:07:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10855",
+    "spider_time": 1748448425582,
+    "name": "ZTE GoldenDB DDE注入漏洞",
+    "cnvd": "CNVD-2025-10855",
+    "publish": "2025-05-29",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"ZTE ZXCLOUD GoldenDB >=6.1.03\\uff0c<=6.1.03.10\", \"ZTE ZXCLOUD GoldenDB 7.2.01.01\", \"ZTE ZXCLOUD GoldenDB Lite7.2.01.01\"]",
+    "cve": "CVE-2025-46579",
+    "description": "ZTE GoldenDB是中国中兴通讯（ZTE）公司的一款金融级交易型分布式数据库。用于金融、政企、电信等行业，提供高可用数据服务。ZTE GoldenDB存在DDE注入漏洞，攻击者可利用该漏洞通过接口注入DDE表达式，当用户下载并打开受影响的文件时，可以执行DDE命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://support.zte.com.cn/zte-iccp-isupport-webui/bulletin/detail/1036467615091601474",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.zte.com.cn/zte-iccp-isupport-webui/bulletin/detail/1036467615091601474",
+    "patch": "ZTE GoldenDB DDE注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-30",
+    "open_time": "2025-05-28",
+    "update_time": "2025-05-28",
+    "data_summary": "bd909798e988ae471bde0cf86b6a779e"
+}
