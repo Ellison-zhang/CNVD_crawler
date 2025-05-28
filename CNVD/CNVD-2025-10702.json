@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-27 23:07:03",
+    "parse_time": "2025-05-28 00:17:01",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10702",
-    "spider_time": 1748387223018,
+    "spider_time": 1748391421836,
     "name": "PCMan FTP Server MDELETE命令处理程序缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10702",
     "publish": "2025-05-23",
