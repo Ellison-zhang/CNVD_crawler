@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-28 20:05:04",
+    "parse_time": "2025-05-28 21:04:51",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10830",
-    "spider_time": 1748462704743,
+    "spider_time": 1748466291076,
     "name": "Fuji Electric Monitouch V-SFT V9C文件解析越界写代码执行漏洞",
     "cnvd": "CNVD-2025-10830",
     "publish": "2025-05-29",
