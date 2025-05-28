@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-28 13:14:33",
+    "parse_time": "2025-05-28 14:07:09",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10867",
-    "spider_time": 1748438073604,
+    "spider_time": 1748441229522,
     "name": "PCMan FTP Server MKDIR Command Handler缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10867",
     "publish": "2025-05-27",
