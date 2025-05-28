@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-28 16:11:34",
+    "parse_time": "2025-05-28 17:07:59",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10866",
-    "spider_time": 1748448694887,
+    "spider_time": 1748452079009,
     "name": "PCMan FTP Server DELETE Command Handler缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10866",
     "publish": "2025-05-27",
