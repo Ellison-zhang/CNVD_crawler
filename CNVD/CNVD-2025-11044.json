@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 16:07:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11044",
+    "spider_time": 1748534821939,
+    "name": "PowerDNS存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-11044",
+    "publish": "2025-05-30",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"PowerDNS PowerDNS\"]",
+    "cve": null,
+    "description": "PowerDNS是一个跨平台的开源DNS服务组件。PowerDNS存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.powerdns.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-15",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "fe94060b111723e1282162a791f10e5d"
+}

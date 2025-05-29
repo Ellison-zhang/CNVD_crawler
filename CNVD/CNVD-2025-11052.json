@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 16:07:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11052",
+    "spider_time": 1748534879621,
+    "name": "Music Class Enrollment System存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-11052",
+    "publish": "2025-05-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Music Class Enrollment System Music Class Enrollment System\"]",
+    "cve": null,
+    "description": "Music Class Enrollment System是一个基于PHP和MySQL数据库开发的基于Web的应用程序项目。Music Class Enrollment System存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.sourcecodester.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-15",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "7e05a2a0b02dd4e3fc25b1c3a406b1a8"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 16:07:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10924",
+    "spider_time": 1748534836375,
+    "name": "Google Chrome安全绕过漏洞（CNVD-2025-10924）",
+    "cnvd": "CNVD-2025-10924",
+    "publish": "2025-05-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Google Chrome <137.0.7151.55\"]",
+    "cve": "CVE-2025-5065",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome存在安全绕过漏洞，该漏洞是由于FileSystemAccess API中的不适当实现，攻击者可利用该漏洞通过特制的HTML页面执行用户界面欺骗。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/05/early-stable-update-for-desktop.html",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://chromereleases.googleblog.com/2025/05/early-stable-update-for-desktop.html",
+    "patch": "Google Chrome安全绕过漏洞（CNVD-2025-10924）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-27",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "70d0b2dcc2a0e5455438889103303239"
+}

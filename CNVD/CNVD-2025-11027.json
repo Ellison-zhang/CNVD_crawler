@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 16:07:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11027",
+    "spider_time": 1748534833332,
+    "name": "北京神州视翰科技有限公司多媒体综合业务显示系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-11027",
+    "publish": "2025-05-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u795e\\u5dde\\u89c6\\u7ff0\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u591a\\u5a92\\u4f53\\u7efc\\u5408\\u4e1a\\u52a1\\u663e\\u793a\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "北京神州视翰科技有限公司成立于2010年，是一家专注于智慧医院、商业智能屏、智慧教育等领域的信息化产品和方案解决商。北京神州视翰科技有限公司多媒体综合业务显示系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.china-shine.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-15",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "31e277348adf185ef6eb3dde7339b6a2"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 16:07:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11056",
+    "spider_time": 1748534844479,
+    "name": "Emlog存在文件上传漏洞",
+    "cnvd": "CNVD-2025-11056",
+    "publish": "2025-05-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"emlog emlog\"]",
+    "cve": null,
+    "description": "emlog是轻量开源建站系统。Emlog存在文件上传漏洞，攻击者可利用该漏洞获取服务器控制权。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.emlog.net/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-15",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "279f3d7fa3ea6edb5b0820f837466add"
+}

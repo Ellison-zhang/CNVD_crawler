@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 16:07:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11039",
+    "spider_time": 1748534826203,
+    "name": "Unbound存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-11039",
+    "publish": "2025-05-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Unbound Unbound\"]",
+    "cve": null,
+    "description": "Unbound是一款开源DNS服务器。Unbound存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.nlnetlabs.nl/projects/unbound/download/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-15",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "a23c94aec950965e5520f2f6c56a34c2"
+}

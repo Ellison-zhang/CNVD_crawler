@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 16:09:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11001",
+    "spider_time": 1748534999014,
+    "name": "广州纽云网络科技有限公司视频接入网关存在命令执行漏洞",
+    "cnvd": "CNVD-2025-11001",
+    "publish": "2025-05-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u5e7f\\u5dde\\u7ebd\\u4e91\\u7f51\\u7edc\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u89c6\\u9891\\u63a5\\u5165\\u7f51\\u5173\"]",
+    "cve": null,
+    "description": "广州纽云网络科技有限公司是⼀家以从事科学研究和技术服务业为主的企业。广州纽云网络科技有限公司视频接入网关存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.yunfenji.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-15",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "54beaa51318cb0f6c4b2720f5b5e9e85"
+}

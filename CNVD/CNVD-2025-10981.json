@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 16:07:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10981",
+    "spider_time": 1748534860771,
+    "name": "上海千彗科技有限公司Cherry Studio存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-10981",
+    "publish": "2025-05-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"\\u4e0a\\u6d77\\u5343\\u5f57\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 Cherry Studio\"]",
+    "cve": null,
+    "description": "Cherry Studio是一款跨平台的AI客户端软件，支持Windows、macOS和Linux系统，主要功能包括多模型交互、知识库管理及AI助手集成‌。上海千彗科技有限公司Cherry Studio存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息，执行未授权操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.cherry-ai.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-15",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "5ac73459825c60fc9e738dad5b2b63d2"
+}

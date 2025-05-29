@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 16:07:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11041",
+    "spider_time": 1748534830299,
+    "name": "Technitium存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-11041",
+    "publish": "2025-05-30",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Technitium Technitium 13.3\"]",
+    "cve": null,
+    "description": "Technitium是一款开源的跨平台DNS服务器软件。Technitium存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://technitium.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-15",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "a249eeddb505dfad1f36543282a74071"
+}

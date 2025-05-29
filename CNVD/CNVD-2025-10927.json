@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 16:08:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10927",
+    "spider_time": 1748534903371,
+    "name": "Google Chrome安全绕过漏洞（CNVD-2025-10927）",
+    "cnvd": "CNVD-2025-10927",
+    "publish": "2025-05-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Google Chrome <135.0.7049.52\"]",
+    "cve": "CVE-2025-3072",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome存在安全绕过漏洞，该漏洞源于Custom Tabs中的不当实现。攻击者可利用该漏洞绕过安全限制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/04/stable-channel-update-for-desktop.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://chromereleases.googleblog.com/2025/04/stable-channel-update-for-desktop.html",
+    "patch": "Google Chrome安全绕过漏洞（CNVD-2025-10927）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-09",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "fb22f5dd004c92351322b9ac5dcaa540"
+}
