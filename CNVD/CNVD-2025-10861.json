@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-29 01:35:51",
+    "parse_time": "2025-05-29 02:37:51",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10861",
-    "spider_time": 1748482551682,
+    "spider_time": 1748486271411,
     "name": "PCMan FTP Server MIC Command缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10861",
     "publish": "2025-05-27",
