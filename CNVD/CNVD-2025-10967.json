@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 09:26:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10967",
+    "spider_time": 1748510810877,
+    "name": "新华三技术有限公司H3C GR-1200W存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-10967",
+    "publish": "2025-05-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u65b0\\u534e\\u4e09\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 H3C GR-1200W\"]",
+    "cve": null,
+    "description": "H3C GR-1200W是新华三技术有限公司（简称H3C）推出的高性能企业级千兆无线路由器。新华三技术有限公司H3C GR-1200W存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.h3c.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-13",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "3d8e7bec90d8bd1320551b37812d871d"
+}

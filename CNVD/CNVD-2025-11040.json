@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 09:26:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11040",
+    "spider_time": 1748510804746,
+    "name": "TRENDnet TEW-751DR存在信息泄露漏洞",
+    "cnvd": "CNVD-2025-11040",
+    "publish": "2025-05-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"TRENDnet TEW-751DR <1.03B03\"]",
+    "cve": null,
+    "description": "TEW-751DR是一款无线千兆路由器。TRENDnet TEW-751DR存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.trendnet.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-13",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "3aec85259ef10f9acd86b9e4c8c6b19b"
+}

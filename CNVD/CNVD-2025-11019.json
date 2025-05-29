@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 09:26:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11019",
+    "spider_time": 1748510776870,
+    "name": "北京通宇泰克科技股份有限公司燃气生态圈APP存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-11019",
+    "publish": "2025-05-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u901a\\u5b87\\u6cf0\\u514b\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u71c3\\u6c14\\u751f\\u6001\\u5708APP\"]",
+    "cve": null,
+    "description": "燃气生态圈APP是一款燃气安全管理的软件。北京通宇泰克科技股份有限公司燃气生态圈APP存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.tecocity.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-13",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "9f6d9f559bd14c37b998ffcfac179e4f"
+}

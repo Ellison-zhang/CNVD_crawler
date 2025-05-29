@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 09:26:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10953",
+    "spider_time": 1748510791312,
+    "name": "筑田建设集团有限公司人材机APP存在服务参数注入漏洞",
+    "cnvd": "CNVD-2025-10953",
+    "publish": "2025-05-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u7b51\\u7530\\u5efa\\u8bbe\\u96c6\\u56e2\\u6709\\u9650\\u516c\\u53f8 \\u4eba\\u6750\\u673aAPP\"]",
+    "cve": null,
+    "description": "人材机APP是一款专注于建筑行业的综合服务平台。筑田建设集团有限公司人材机APP存在服务参数注入漏洞，攻击者可利用该漏洞执行系统命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.rencaiji.net/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-13",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "c9e32dd0ef12b69adb2a9df9161f2144"
+}

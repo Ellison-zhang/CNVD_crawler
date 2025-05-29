@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 09:26:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10994",
+    "spider_time": 1748510813889,
+    "name": "金蝶软件（中国）有限公司bbc分销门户系统存在命令执行漏洞",
+    "cnvd": "CNVD-2025-10994",
+    "publish": "2025-05-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u91d1\\u8776\\u8f6f\\u4ef6\\uff08\\u4e2d\\u56fd\\uff09\\u6709\\u9650\\u516c\\u53f8 bbc\\u5206\\u9500\\u95e8\\u6237\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "金蝶软件（中国）有限公司是专业的ERP管理系统及SaaS云服务商。金蝶软件（中国）有限公司bbc分销门户系统存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.kingdee.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-13",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "7f0357fe0487f50ae2c639f595d5b7fe"
+}

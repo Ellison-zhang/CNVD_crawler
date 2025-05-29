@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 09:26:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10977",
+    "spider_time": 1748510768801,
+    "name": "深圳市吉祥腾达科技有限公司AC10存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-10977",
+    "publish": "2025-05-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u5409\\u7965\\u817e\\u8fbe\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 AC10 V16.03.10.13\"]",
+    "cve": null,
+    "description": "AC10是一款WAN口和LAN口均采用千兆端口设计的高性能路由器。深圳市吉祥腾达科技有限公司AC10存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-13",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "3e0730dc73291af841417744942b2f4f"
+}

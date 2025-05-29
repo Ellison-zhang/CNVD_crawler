@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 09:26:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10954",
+    "spider_time": 1748510771815,
+    "name": "重庆坤典科技有限公司智慧农场系统存在文件上传漏洞",
+    "cnvd": "CNVD-2025-10954",
+    "publish": "2025-05-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u91cd\\u5e86\\u5764\\u5178\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u667a\\u6167\\u519c\\u573a\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "重庆坤典科技有限公司专注于计算机软硬件技术开发与咨询服务，业务涵盖云计算、区块链、大数据及人工智能领域，主要产品为智慧农场系统‌。重庆坤典科技有限公司智慧农场系统存在文件上传漏洞，攻击者可利用该漏洞获取服务器控制权。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://cqkd.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-13",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "c308c57e3bc3b07fb84f2bf4efe7c543"
+}

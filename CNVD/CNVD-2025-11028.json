@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 09:25:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11028",
+    "spider_time": 1748510744627,
+    "name": "北京酷德啄木鸟信息技术有限公司源代码缺陷分析系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-11028",
+    "publish": "2025-05-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u9177\\u5fb7\\u5544\\u6728\\u9e1f\\u4fe1\\u606f\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 \\u6e90\\u4ee3\\u7801\\u7f3a\\u9677\\u5206\\u6790\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "北京酷德啄木鸟信息技术有限公司专注于软件安全开发及软件供应链安全技术。北京酷德啄木鸟信息技术有限公司源代码缺陷分析系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://codepecker.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-13",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "c9f5b0b215518cb2d7bb34bf661055ae"
+}

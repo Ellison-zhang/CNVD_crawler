@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 09:25:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11035",
+    "spider_time": 1748510756467,
+    "name": "zziplib存在二进制漏洞",
+    "cnvd": "CNVD-2025-11035",
+    "publish": "2025-05-28",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"ZZIPlib ZZIPlib 0.13.78\"]",
+    "cve": null,
+    "description": "zziplib是一个广泛使用的开源库，用于处理ZIP文件的读取和未打包数据的处理。zziplib存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://github.com/gdraheim/zziplib/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-13",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "87ce74cc2cba8e58dbe3faac84e18702"
+}

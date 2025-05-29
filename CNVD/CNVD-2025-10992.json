@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 09:26:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10992",
+    "spider_time": 1748510794322,
+    "name": "普联技术有限公司TP-Link VN020-F3v存在二进制漏洞",
+    "cnvd": "CNVD-2025-10992",
+    "publish": "2025-05-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u666e\\u8054\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 TP-Link VN020-F3v\"]",
+    "cve": null,
+    "description": "普联技术有限公司是领先的ICT设备与解决方案供应商。普联技术有限公司TP-Link VN020-F3v存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.tp-link.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-13",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "8838df9d9cd2638b4ca9fff66a995ee0"
+}
