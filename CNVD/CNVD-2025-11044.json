@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-29 17:03:52",
+    "parse_time": "2025-05-29 18:04:29",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11044",
-    "spider_time": 1748538232603,
+    "spider_time": 1748541869756,
     "name": "PowerDNS存在拒绝服务漏洞",
     "cnvd": "CNVD-2025-11044",
     "publish": "2025-05-30",
