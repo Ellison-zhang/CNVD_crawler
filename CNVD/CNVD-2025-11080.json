@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 10:06:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11080",
+    "spider_time": 1748513202213,
+    "name": "Huawei HarmonyOS越界读写漏洞",
+    "cnvd": "CNVD-2025-11080",
+    "publish": "2025-05-28",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:M/C:C/I:C/A:C",
+    "product": "[\"Huawei HarmonyOS 5.0.0\"]",
+    "cve": "CVE-2025-46585",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。Huawei HarmonyOS存在越界读写漏洞。该漏洞源于内核模块在处理某些数据时，未能正确检查数组边界。攻击者可利用该漏洞对目标有针对性的发起攻击，危害站点系统安全。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-46585",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://consumer.huawei.com/cn/support/bulletin/2025/5/",
+    "patch": "Huawei HarmonyOS越界读写漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-09",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "d53f6e73f38c45edf47391102c52459f"
+}

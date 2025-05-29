@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 10:06:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11077",
+    "spider_time": 1748513189997,
+    "name": "Huawei HarmonyOS未授权访问漏洞（CNVD-2025-11077）",
+    "cnvd": "CNVD-2025-11077",
+    "publish": "2025-05-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Huawei HarmonyOS 5.0.0\"]",
+    "cve": "CVE-2025-46590",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。Huawei HarmonyOS存在未授权访问漏洞，该漏洞源于网络搜索指令认证模块绕过。攻击者可利用该漏洞验证和访问未经授权的资源。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-46590",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://consumer.huawei.com/cn/support/bulletin/2025/5/",
+    "patch": "Huawei HarmonyOS未授权访问漏洞（CNVD-2025-11077）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "2151c1119308ba786878d870e7e37282"
+}
