@@ -1,13 +1,13 @@
 {
-    "parse_time": "2025-05-29 13:21:00",
+    "parse_time": "2025-05-29 14:09:05",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11015",
-    "spider_time": 1748524860265,
+    "spider_time": 1748527745781,
     "name": "北京致远互联软件股份有限公司致远A8+协同管理软件存在命令执行漏洞",
     "cnvd": "CNVD-2025-11015",
     "publish": "2025-05-28",
     "severity": "高",
     "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
-    "product": "[\"\\u5317\\u4eac\\u81f4\\u8fdc\\u4e92\\u8054\\u8f6f\\u4ef6\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u81f4\\u8fdcA8+\\u534f\\u540c\\u7ba1\\u7406\\u8f6f\\u4ef6 8.1999999999999993\"]",
+    "product": "[\"\\u5317\\u4eac\\u81f4\\u8fdc\\u4e92\\u8054\\u8f6f\\u4ef6\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u81f4\\u8fdcA8+\\u534f\\u540c\\u7ba1\\u7406\\u8f6f\\u4ef6 8.2\"]",
     "cve": null,
     "description": "致远A8+协同管理软件是面向集团化、国际化、产业链和大型组织机构、涉外工作组织及组织群，针对其组织范围内外协作应用设计的集团化管控和业务管控的一体化门户平台和工作入口。北京致远互联软件股份有限公司致远A8+协同管理软件存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
     "flaw_type": "通用型漏洞",
@@ -18,5 +18,5 @@
     "submit_time": "2025-04-13",
     "open_time": "2025-05-29",
     "update_time": "2025-05-29",
-    "data_summary": "ef6b9cc4f5a5e07fd39d736ff579a058"
+    "data_summary": "5aae369856866f1faeb5c0f0fb399887"
 }
