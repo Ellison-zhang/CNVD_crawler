@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-29 11:05:16",
+    "parse_time": "2025-05-29 12:07:42",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10672",
-    "spider_time": 1748516716500,
+    "spider_time": 1748520462650,
     "name": "Adobe Bridge访问未初始化指针漏洞",
     "cnvd": "CNVD-2025-10672",
     "publish": "2025-05-28",
