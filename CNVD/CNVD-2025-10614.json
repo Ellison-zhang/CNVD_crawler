@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-29 02:38:38",
+    "parse_time": "2025-05-29 03:28:12",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10614",
-    "spider_time": 1748486318456,
+    "spider_time": 1748489292768,
     "name": "Microsoft Office代码执行漏洞（CNVD-2025-10614",
     "cnvd": "CNVD-2025-10614",
     "publish": "2025-05-27",
@@ -13,10 +13,10 @@
     "flaw_type": "通用型漏洞",
     "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-26642",
     "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2025-26642",
-    "patch": "Microsoft Office代码执行漏洞（CNVD-2025-10614的补丁",
+    "patch": "Microsoft Office代码执行漏洞（CNVD-2025-10614）的补丁",
     "verify": "(暂无验证信息)",
     "submit_time": "2025-04-09",
     "open_time": "2025-05-26",
     "update_time": "2025-05-26",
-    "data_summary": "a744b6b931709b4f82586aa91f9bcb96"
+    "data_summary": "ad04c92dfcf8612dbe6b4bd07cb4bfd9"
 }

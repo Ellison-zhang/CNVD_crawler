@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-29 02:38:21",
+    "parse_time": "2025-05-29 03:27:54",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10868",
-    "spider_time": 1748486301457,
+    "spider_time": 1748489274917,
     "name": "PCMan FTP Server SITE CHMOD Command Handler缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10868",
     "publish": "2025-05-27",
