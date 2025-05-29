@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-29 16:11:52",
+    "parse_time": "2025-05-29 17:12:28",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10932",
-    "spider_time": 1748535112011,
+    "spider_time": 1748538748797,
     "name": "TOTOLINK NR1800X setWiFiGuestCfg函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10932",
     "publish": "2025-05-28",

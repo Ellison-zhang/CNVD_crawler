@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-29 16:07:59",
+    "parse_time": "2025-05-29 17:06:33",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11052",
-    "spider_time": 1748534879621,
+    "spider_time": 1748538393788,
     "name": "Music Class Enrollment System存在SQL注入漏洞",
     "cnvd": "CNVD-2025-11052",
     "publish": "2025-05-30",
