@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-30 07:04:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11210",
+    "spider_time": 1748588650130,
+    "name": "IceWarp Mail Server跨站脚本漏洞",
+    "cnvd": "CNVD-2025-11210",
+    "publish": "2025-05-30",
+    "severity": "低",
+    "cvss_vector": "AV:A/AC:H/Au:N/C:P/I:P/A:N",
+    "product": "[\"IceWarp IceWarp Mail Server 11.4.0\"]",
+    "cve": "CVE-2025-40632",
+    "description": "IceWarp Mail Server是捷克爱思华宝（IceWarp）公司的一款邮件服务器产品。该产品支持电子邮件归档、SmartAttach附件、自动迁移等。IceWarp Mail Server存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.incibe.es/en/incibe-cert/notices/aviso/multiple-vulnerabilities-icewarp-mail-server",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.icewarp.com/downloads/",
+    "patch": "IceWarp Mail Server跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-22",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "0074cb2535f2cd0cbd5ebd3332aacffc"
+}
