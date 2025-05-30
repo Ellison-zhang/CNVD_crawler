@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-30 03:34:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11192",
+    "spider_time": 1748576050996,
+    "name": "D-Link DI-8100堆栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11192",
+    "publish": "2025-05-29",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:M/C:C/I:C/A:C",
+    "product": "[\"D-Link DI-8100 16.07.26A1\"]",
+    "cve": "CVE-2025-4544",
+    "description": "D-Link DI-8100是一款网络设备，主要用于提供网络连接和管理功能。D-Link DI-8100存在堆栈缓冲区溢出漏洞，该漏洞源于jhttpd组件的/ddos.asp文件中对参数def_max/def_time/def_tcp_max/def_tcp_time/def_udp_max/def_udp_time/def_icmp_max的处理不足。攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.308291",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.dlink.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-19",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "2dc1b0400ebd8fad38fd80aba89e6d5c"
+}

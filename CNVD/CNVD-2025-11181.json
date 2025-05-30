@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-30 03:23:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11181",
+    "spider_time": 1748575432093,
+    "name": "CampCodes Sales and Inventory System /pages/purchase_delete.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-11181",
+    "publish": "2025-05-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Campcodes Sales and Inventory System v1.0\"]",
+    "cve": "CVE-2025-4746",
+    "description": "CampCodes Sales and Inventory System是CampCodes公司的一个销售和库存系统。CampCodes Sales and Inventory System存在SQL注入漏洞，该漏洞源于文件/pages/purchase_delete.php中参数pr_id缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/snkercyber/CVE/issues/2",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.campcodes.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-22",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "77e10a3170b01c3a4beb7f922f5aac37"
+}

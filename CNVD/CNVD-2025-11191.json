@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-30 03:34:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11191",
+    "spider_time": 1748576047681,
+    "name": "D-Link DIR-619L wake_on_lan函数命令注入漏洞",
+    "cnvd": "CNVD-2025-11191",
+    "publish": "2025-05-29",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"D-Link DIR-619L 2.04B04\"]",
+    "cve": "CVE-2025-4454",
+    "description": "D-Link DIR-619L是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-619L存在命令注入漏洞，该漏洞源于wake_on_lan函数mac参数未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/jylsec/vuldb/blob/main/D-Link/dlink_dir619l/Command_injection-wake_on_lan-mac/README.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.dlink.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "7e38bf5f530d93203ded8d8f4cdfb7ef"
+}
