@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-30 04:05:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11201",
+    "spider_time": 1748577947192,
+    "name": "TOTOLINK A3100R setMacFilterRules函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11201",
+    "publish": "2025-05-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"TOTOLINK A3100R V5.9c.1527\"]",
+    "cve": "CVE-2025-45788",
+    "description": "TOTOLINK A3100R是中国吉翁电子（TOTOLINK）公司的一系列无线路由器。TOTOLINK A3100R存在缓冲区溢出漏洞，该漏洞源于setMacFilterRules中comment参数未能正确验证输入数据的长度大小，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/ToTolink/A3100R-2/README.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/170/ids/36.html",
+    "patch": "TOTOLINK A3100R setMacFilterRules函数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "c8a60b8f97a341203dbcd2088253de16"
+}
