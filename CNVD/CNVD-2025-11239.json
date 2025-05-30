@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-30 11:03:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11239",
+    "spider_time": 1748603012295,
+    "name": "WAVLINK WL-WN579A3 /cgi-bin/adm.cgi命令注入漏洞",
+    "cnvd": "CNVD-2025-11239",
+    "publish": "2025-05-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WAVLINK WL-WN579A3 v1.0\"]",
+    "cve": "CVE-2025-44880",
+    "description": "WAVLINK WL-WN579A3是中国睿因（WAVLINK）公司的一款高性能双频无线网卡。WAVLINK WL-WN579A3 /cgi-bin/adm.cgi存在命令注入漏洞，攻击者可利用该漏洞提交特殊的请求，执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lafdrew.github.io/2025/03/27/Remote-Command-Execution-in-adm-cgi-of-wavlink-WL-WN579A3-Device/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.wavlink.com/en_us/index.html",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-27",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "bacdf5ac336b2d8b0032ac9871116eb7"
+}
