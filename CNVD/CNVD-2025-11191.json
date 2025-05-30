@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-30 16:06:18",
+    "parse_time": "2025-05-30 17:05:01",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11191",
-    "spider_time": 1748621178696,
+    "spider_time": 1748624701152,
     "name": "D-Link DIR-619L wake_on_lan函数命令注入漏洞",
     "cnvd": "CNVD-2025-11191",
     "publish": "2025-05-29",
