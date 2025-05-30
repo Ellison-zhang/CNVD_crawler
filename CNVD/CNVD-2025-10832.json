@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-05-30 01:33:32",
+    "parse_time": "2025-05-30 02:34:57",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10832",
-    "spider_time": 1748568812625,
+    "spider_time": 1748572497997,
     "name": "Fuji Electric Monitouch V-SFT V10文件解析缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-10832",
     "publish": "2025-05-29",
