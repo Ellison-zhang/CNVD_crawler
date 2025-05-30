@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-30 10:04:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11228",
+    "spider_time": 1748599476449,
+    "name": "D-Link DIR-880L /htdocs/ssdpcgi文件命令注入漏洞",
+    "cnvd": "CNVD-2025-11228",
+    "publish": "2025-05-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"D-Link DIR-880L <=104WWb01\"]",
+    "cve": "CVE-2025-4341",
+    "description": "D-Link DIR-880L是中国友讯（D-Link）公司的一款双频千兆无线路由器。D-Link DIR-880L存在命令注入漏洞，该漏洞源于组件Request Header Handler中文件/htdocs/ssdpcgi对参数HTTP_ST/REMOTE_ADDR/REMOTE_PORT/SERVER_ID未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.307459",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.dlink.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "904c40196e7a071d220e774c5303d7e3"
+}

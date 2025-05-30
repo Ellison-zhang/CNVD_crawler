@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-30 10:04:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11230",
+    "spider_time": 1748599490012,
+    "name": "D-Link DIR-816 A2命令注入漏洞",
+    "cnvd": "CNVD-2025-11230",
+    "publish": "2025-05-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"D-Link DIR-816 A2 V1.1.0B05\"]",
+    "cve": "CVE-2025-44835",
+    "description": "D-Link DIR-816 A2是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-816 A2存在命令注入漏洞，该漏洞源于iptablesWebsFilterRun未能正确过滤构造命令特殊字符、命令等，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/n0wstr/IOTVuln/tree/main/DIR-816/IptablesWebsFilterRun",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com.cn/techsupport/ProductInfo.aspx?m=DIR-816",
+    "patch": "D-Link DIR-816 A2命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "966eaab1eb0770f654413fbefb127a44"
+}

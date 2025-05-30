@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-30 10:04:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11227",
+    "spider_time": 1748599473050,
+    "name": "D-Link DIR-600L wake_on_lan函数命令注入漏洞",
+    "cnvd": "CNVD-2025-11227",
+    "publish": "2025-05-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-600L <=2.07B01\"]",
+    "cve": "CVE-2025-4350",
+    "description": "D-Link DIR-600L是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-600L存在命令注入漏洞，该漏洞源于wake_on_lan函数参数host未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?ctiid.307468",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.dlink.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "8837244aad26840418f5ea2513b77d41"
+}
