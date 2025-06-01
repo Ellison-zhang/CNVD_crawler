@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-01 05:05:43",
+    "parse_time": "2025-06-01 06:05:52",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11186",
-    "spider_time": 1748754343640,
+    "spider_time": 1748757952692,
     "name": "D-Link DIR-605L sysCmd参数命令注入漏洞",
     "cnvd": "CNVD-2025-11186",
     "publish": "2025-05-29",
