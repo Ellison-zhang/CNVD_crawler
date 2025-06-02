@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-02 06:07:54",
+    "parse_time": "2025-06-02 07:07:40",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11185",
-    "spider_time": 1748844474529,
+    "spider_time": 1748848060613,
     "name": "D-Link DIR-605L mac参数命令注入漏洞",
     "cnvd": "CNVD-2025-11185",
     "publish": "2025-05-29",
