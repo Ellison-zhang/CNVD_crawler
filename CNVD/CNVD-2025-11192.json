@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-02 10:06:06",
+    "parse_time": "2025-06-02 11:05:18",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11192",
-    "spider_time": 1748858766288,
+    "spider_time": 1748862318131,
     "name": "D-Link DI-8100堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-11192",
     "publish": "2025-05-29",
