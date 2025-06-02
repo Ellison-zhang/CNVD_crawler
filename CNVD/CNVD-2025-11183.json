@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-02 14:04:44",
+    "parse_time": "2025-06-02 15:05:26",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11183",
-    "spider_time": 1748873084727,
+    "spider_time": 1748876726839,
     "name": "D-Link DIR-605L formSetWAN_Wizard534函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-11183",
     "publish": "2025-05-29",
