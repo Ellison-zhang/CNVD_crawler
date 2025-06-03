@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-03 08:05:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11254",
+    "spider_time": 1748937909520,
+    "name": "Adobe Photoshop缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11254",
+    "publish": "2025-06-03",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Adobe Photoshop <=26.5\", \"Adobe Adobe Photoshop <=25.12.2\"]",
+    "cve": "CVE-2025-30326",
+    "description": "Adobe Photoshop是美国奥多比（Adobe）公司的一套图片处理软件。该软件主要用于处理图片。Adobe Photoshop存在缓冲区溢出漏洞，该漏洞源于访问未初始化指针，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/photoshop/apsb25-40.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/photoshop/apsb25-40.html",
+    "patch": "Adobe Photoshop缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-06-03",
+    "update_time": "2025-06-03",
+    "data_summary": "f0ce856f3492b2debe2435d5f70d496e"
+}

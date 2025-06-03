@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-03 08:05:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11256",
+    "spider_time": 1748937915760,
+    "name": "Adobe Photoshop数字错误漏洞",
+    "cnvd": "CNVD-2025-11256",
+    "publish": "2025-06-03",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Adobe Photoshop <=26.5\", \"Adobe Adobe Photoshop <=25.12.2\"]",
+    "cve": "CVE-2025-30324",
+    "description": "Adobe Photoshop是美国奥多比（Adobe）公司的一套图片处理软件。该软件主要用于处理图片。Adobe Photoshop存在数字错误漏洞，该漏洞源于整数下溢，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/photoshop/apsb25-40.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/photoshop/apsb25-40.html",
+    "patch": "Adobe Photoshop数字错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-06-03",
+    "update_time": "2025-06-03",
+    "data_summary": "2ab5d573f88d2bdc08793abe21f424a8"
+}
