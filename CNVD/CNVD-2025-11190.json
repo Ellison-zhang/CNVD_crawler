@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-03 22:05:18",
+    "parse_time": "2025-06-03 23:06:48",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11190",
-    "spider_time": 1748988318426,
+    "spider_time": 1748992008027,
     "name": "D-Link DIR-619L formSysCmd函数命令注入漏洞",
     "cnvd": "CNVD-2025-11190",
     "publish": "2025-05-29",
