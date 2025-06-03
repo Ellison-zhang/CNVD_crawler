@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-03 03:24:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11249",
+    "spider_time": 1748921079395,
+    "name": "Google Chrome资源管理错误漏洞（CNVD-2025-11249）",
+    "cnvd": "CNVD-2025-11249",
+    "publish": "2025-06-03",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <137.0.7151.40\"]",
+    "cve": "CVE-2025-5063",
+    "description": "Google Chrome是一款由Google公司开发的WEB浏览器。Google Chrome存在资源管理错误漏洞，该漏洞源于释放后重用，攻击者可利用该漏洞提交特殊的Web请求，诱使用户解析，执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/05/early-stable-update-for-desktop.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.google.com/chrome/",
+    "patch": "Google Chrome资源管理错误漏洞（CNVD-2025-11249）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-27",
+    "open_time": "2025-06-03",
+    "update_time": "2025-06-03",
+    "data_summary": "f9041281fd7b134e3a004d1fb3648142"
+}

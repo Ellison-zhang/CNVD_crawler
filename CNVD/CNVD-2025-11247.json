@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-03 03:24:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11247",
+    "spider_time": 1748921069187,
+    "name": "Google Pixel信息泄露漏洞（CNVD-2025-11247）",
+    "cnvd": "CNVD-2025-11247",
+    "publish": "2025-06-03",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Google Pixel\"]",
+    "cve": "CVE-2024-56193",
+    "description": "Google Pixel是美国谷歌（Google）公司的一款智能手机。Google Pixel存在信息泄露漏洞，攻击者可利用该漏洞导致蓝牙适配器详细信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://source.android.com/security/bulletin/pixel/2025-05-01",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://source.android.com/security/bulletin/pixel/2025-05-01",
+    "patch": "Google Pixel信息泄露漏洞（CNVD-2025-11247）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-30",
+    "open_time": "2025-06-03",
+    "update_time": "2025-06-03",
+    "data_summary": "a217e9fbe009cfda5c96e453d86a10f3"
+}

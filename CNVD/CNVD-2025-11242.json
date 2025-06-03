@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-03 03:24:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11242",
+    "spider_time": 1748921042414,
+    "name": "Google Chrome信息泄露漏洞",
+    "cnvd": "CNVD-2025-11242",
+    "publish": "2025-06-03",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Google Chrome <137.0.7151.55\"]",
+    "cve": "CVE-2025-5281",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome存在信息泄露漏洞，攻击者可利用该漏洞获取用户信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://issues.chromium.org/issues/417215501",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.google.com/chrome/",
+    "patch": "Google Chrome信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-30",
+    "open_time": "2025-06-03",
+    "update_time": "2025-06-03",
+    "data_summary": "4835b0bb4df3d14c14738d6e99b00c51"
+}
