@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-04 04:08:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11302",
+    "spider_time": 1749010083163,
+    "name": "WAVLINK WN701AE硬编码漏洞",
+    "cnvd": "CNVD-2025-11302",
+    "publish": "2025-06-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WAVLINK WN701AE M01AE_V240305\"]",
+    "cve": "CVE-2024-54745",
+    "description": "WAVLINK WN701AE是中国睿因科技(WAVLINK)公司开发的一款路由器。WAVLINK WN701AE存在硬编码漏洞，攻击者可利用该漏洞提交特殊的请求，以root身份访问系统。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://colorful-meadow-5b9.notion.site/WN701AE_HardCode_vuln-14ac216a1c308015b571e68810d83e16?pvs=4",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.wavlink.com‌",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-09",
+    "open_time": "2025-06-04",
+    "update_time": "2025-06-04",
+    "data_summary": "3336a5ce5b6afd3a02c15e3d0046d367"
+}

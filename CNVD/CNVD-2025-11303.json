@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-04 04:08:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11303",
+    "spider_time": 1749010086275,
+    "name": "WAVLINK WN531P3硬编码漏洞",
+    "cnvd": "CNVD-2025-11303",
+    "publish": "2025-06-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WAVLINK WN531P3 202383\"]",
+    "cve": "CVE-2024-54747",
+    "description": "WAVLINK WN531P3是中国睿因科技(WAVLINK)公司开发的一款路由器。WAVLINK WN531P3存在硬编码漏洞，攻击者可利用该漏洞提交特殊的请求，以root身份访问系统。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://colorful-meadow-5b9.notion.site/WN531P3_HardCode_vuln-14ac216a1c30805c9b4dd59028d866cc?pvs=73",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.wavlink.com‌",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-09",
+    "open_time": "2025-06-04",
+    "update_time": "2025-06-04",
+    "data_summary": "a04cc0516dceed036c756092d7e1286d"
+}
