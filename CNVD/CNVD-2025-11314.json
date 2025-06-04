@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-04 10:03:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11314",
+    "spider_time": 1749031430019,
+    "name": "D-Link DIR-832x 0x417234函数命令注入漏洞",
+    "cnvd": "CNVD-2025-11314",
+    "publish": "2025-06-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-832x 240802\"]",
+    "cve": "CVE-2025-29043",
+    "description": "D-Link DIR-823X是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-832x存在命令注入漏洞，该漏洞源于函数0x417234未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://gist.github.com/xyqer1/d5a5b18743b7a2fcbc0f93001d8e2ad9",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.dlink.com.cn/‌",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-06-04",
+    "update_time": "2025-06-04",
+    "data_summary": "1b03722dccf12605eff3814fb4e5aedf"
+}

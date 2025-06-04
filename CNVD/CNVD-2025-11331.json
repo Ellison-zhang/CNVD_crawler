@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-04 10:06:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11331",
+    "spider_time": 1749031615576,
+    "name": "D-Link DSL-3782 public_type参数OS命令注入漏洞",
+    "cnvd": "CNVD-2025-11331",
+    "publish": "2025-06-04",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DSL-3782 v1.01\"]",
+    "cve": "CVE-2025-25895",
+    "description": "D-Link DSL-3782是友讯公司的一款无线路由器。D-Link DSL-3782存在OS命令注入漏洞，该漏洞源于处理public_type参数，攻击者可利用该漏洞提交特殊的请求，执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/2664521593/mycve/blob/main/CJ_in_D-Link_DSL-3782_3_en.pdf",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.dlink.com.cn/‌",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-24",
+    "open_time": "2025-06-04",
+    "update_time": "2025-06-04",
+    "data_summary": "eb55be66a2069e0570026a72240b40f4"
+}
