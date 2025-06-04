@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-04 02:38:32",
+    "parse_time": "2025-06-04 03:25:48",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11189",
-    "spider_time": 1749004712652,
+    "spider_time": 1749007548425,
     "name": "D-Link DIR-619L formSetWizard2函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-11189",
     "publish": "2025-05-29",
