@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 09:04:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11480",
+    "spider_time": 1749114273324,
+    "name": "SAMSUNG Smart Switch PC DLL劫持漏洞",
+    "cnvd": "CNVD-2025-11480",
+    "publish": "2025-06-05",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Samsung SAMSUNG Smart Switch PC <4.3.22083_3\"]",
+    "cve": "CVE-2022-39846",
+    "description": "SAMSUNG Smart Switch PC是韩国三星（SAMSUNG）公司的一款Windows软件。用于数据传输。SAMSUNG Smart Switch PC存在DLL劫持漏洞，该漏洞源于进程尝试加载一个DLL时未指定DLL的绝对路径。攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://security.samsungmobile.com/serviceWeb.smsb?year==2022&month=09",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://security.samsungmobile.com/serviceWeb.smsb",
+    "patch": "SAMSUNG Smart Switch PC DLL劫持漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-09-15",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "63fb777218ca7b122f2b9b2ac02264c9"
+}
