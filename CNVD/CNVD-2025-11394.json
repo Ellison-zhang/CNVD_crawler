@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 07:04:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11394",
+    "spider_time": 1749107047884,
+    "name": "NVIDIA TensorRT-LLM python执行器代码问题漏洞",
+    "cnvd": "CNVD-2025-11394",
+    "publish": "2025-06-05",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"NVIDIA TensorRT-LLM\"]",
+    "cve": "CVE-2025-23254",
+    "description": "NVIDIA TensorRT-LLM是NVIDIA推出的一个高性能推理加速库，用于定义、优化和执行大型语言模型 (LLM) 在生产环境的推理。NVIDIA TensorRT-LLM存在代码问题漏洞，该漏洞源于数据验证不足，攻击者可利用该漏洞提交特殊的请求，执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvidia.custhelp.com/app/answers/detail/a_id/5648",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5648",
+    "patch": "NVIDIA TensorRT-LLM python执行器代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-07",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "1ee3266036f784ed1787746721715f06"
+}
