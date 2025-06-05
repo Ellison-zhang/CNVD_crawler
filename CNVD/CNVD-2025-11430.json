@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:08:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11430",
+    "spider_time": 1749110895068,
+    "name": "Google Android拒绝服务漏洞",
+    "cnvd": "CNVD-2025-11430",
+    "publish": "2025-06-03",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Google Android 12.0\", \"Google Android 12.1\", \"Google Android 13.0\", \"Google Android 14.0\", \"Google Android 15.0\"]",
+    "cve": "CVE-2024-43763",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在拒绝服务漏洞，该漏洞源于gatt_sr.cc文件的build_read_multi_rsp函数包含一个逻辑错误，攻击者可利用该漏洞导致系统拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-43763",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://source.android.com/security/bulletin/2025-01-01",
+    "patch": "Google Android拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-07",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "12012e8304c7eb595a9249c5a8c7a204"
+}

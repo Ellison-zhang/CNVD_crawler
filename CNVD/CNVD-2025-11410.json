@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:07:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11410",
+    "spider_time": 1749110820826,
+    "name": "SAP S4CORE信息泄露漏洞",
+    "cnvd": "CNVD-2025-11410",
+    "publish": "2025-06-03",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"SAP S4CORE\"]",
+    "cve": "CVE-2025-43002",
+    "description": "SAP S4CORE是德国思爱普（SAP）公司的一个管理采购合同应用程序。SAP S4CORE存在信息泄露漏洞，该漏洞源于缺少授权检查，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://me.sap.com/notes/3227940",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2025.html",
+    "patch": "SAP S4CORE信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "91ebac4da679730907b2d7e01cb29943"
+}

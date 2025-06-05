@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:06:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11407",
+    "spider_time": 1749110808545,
+    "name": "SAP Landscape Transformation授权问题漏洞",
+    "cnvd": "CNVD-2025-11407",
+    "publish": "2025-06-03",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"SAP Landscape Transformation\"]",
+    "cve": "CVE-2025-43011",
+    "description": "SAP Landscape Transformation是德国思爱普（SAP）公司的一个用于系统数据迁移与整合的工具。SAP Landscape Transformation存在授权问题漏洞，该漏洞源于缺少授权检查，攻击者可利用该漏洞访问受限功能或数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://me.sap.com/notes/3591978",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2025.html",
+    "patch": "SAP Landscape Transformation授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "6d12155c63aab27afc0667f85cbcc001"
+}

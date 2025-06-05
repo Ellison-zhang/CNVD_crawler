@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:08:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11456",
+    "spider_time": 1749110929440,
+    "name": "SAP BusinessObjects Business Intelligence Platform代码注入漏洞",
+    "cnvd": "CNVD-2025-11456",
+    "publish": "2025-06-03",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:N",
+    "product": "[\"SAP BusinessObjects Business Intelligence Platform\"]",
+    "cve": "CVE-2025-0060",
+    "description": "SAP BusinessObjects Business Intelligence Platform是德国思爱普（SAP）公司的一款完备的商务分析平台，集市场领先的SAP数据整合产品、数据管理产品和商务智能产品于一身，可消除系统集成难题，快速、轻松地部署高性能的商务分析软件。SAP BusinessObjects Business Intelligence Platform存在代码注入漏洞，攻击者可利用该漏洞注入恶意JS代码，读取服务器上的敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-0060",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/january-2025.html",
+    "patch": "SAP BusinessObjects Business Intelligence Platform代码注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-21",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "fe747e4fc4d703ee768b7418ed8a19b6"
+}

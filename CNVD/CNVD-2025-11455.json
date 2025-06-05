@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:08:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11455",
+    "spider_time": 1749110925033,
+    "name": "SAP NetWeaver Application Server Java授权问题漏洞",
+    "cnvd": "CNVD-2025-11455",
+    "publish": "2025-06-03",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"SAP SAP NetWeaver Application Server Java null\"]",
+    "cve": "CVE-2025-0067",
+    "description": "SAP NetWeaver Application Server Java是德国思爱普（SAP）公司的一款应用程序服务器。SAP NetWeaver Application Server Java存在授权问题漏洞，该漏洞源于程序未正确检查服务端点的授权，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-0067",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/january-2025.html",
+    "patch": "SAP NetWeaver Application Server Java授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-21",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "f0154c9def64fc25502b7fb621bb1a45"
+}

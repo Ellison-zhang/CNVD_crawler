@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:07:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11416",
+    "spider_time": 1749110848473,
+    "name": "Adobe Lightroom Desktop缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11416",
+    "publish": "2025-06-03",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Adobe Lightroom Desktop <=8.2\"]",
+    "cve": "CVE-2025-27197",
+    "description": "Adobe Lightroom Desktop是美国奥多比（Adobe）公司的一款专业的照片管理和编辑软件，旨在为摄影师和图像编辑人员提供强大的工作流程和编辑工具。Adobe Lightroom Desktop存在缓冲区溢出漏洞，该漏洞源于越界写入，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/lightroom/apsb25-29.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/lightroom/apsb25-29.html",
+    "patch": "Adobe Lightroom Desktop缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "cf3d4d017810e27f200237bb94a0ab06"
+}

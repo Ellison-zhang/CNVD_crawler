@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:07:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11412",
+    "spider_time": 1749110831521,
+    "name": "SAP Gateway Client信息泄露漏洞",
+    "cnvd": "CNVD-2025-11412",
+    "publish": "2025-06-03",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"SAP Gateway Client\"]",
+    "cve": "CVE-2025-42997",
+    "description": "SAP Gateway Client是德国思爱普（SAP）公司的一个OData服务测试与调试工具，集成于SAP NetWeaver网关。SAP Gateway Client存在信息泄露漏洞，该漏洞源于权限管理不当，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://me.sap.com/notes/3577300",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2025.html",
+    "patch": "SAP Gateway Client信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "be5aceb48f8e7ef779c25b3ea9b11bf5"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:06:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11408",
+    "spider_time": 1749110814704,
+    "name": "SAP NetWeaver信息泄露漏洞",
+    "cnvd": "CNVD-2025-11408",
+    "publish": "2025-06-03",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"SPA NetWeaver\"]",
+    "cve": "CVE-2025-31329",
+    "description": "SAP NetWeaver是德国思爱普（SAP）公司的一套面向服务的集成化应用平台。该平台主要为SAP应用程序提供开发和运行环境。SAP NetWeaver存在信息泄露漏洞，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://me.sap.com/notes/3577287",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2025.html",
+    "patch": "SAP NetWeaver信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "15e656f37b23681deacceb083192b19a"
+}

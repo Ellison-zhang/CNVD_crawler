@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:08:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11424",
+    "spider_time": 1749110882989,
+    "name": "Google Android信息泄露漏洞",
+    "cnvd": "CNVD-2025-11424",
+    "publish": "2025-06-03",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Google Android 12.0\", \"Google Android 12.1\", \"Google Android 13.0\", \"Google Android 14.0\"]",
+    "cve": "CVE-2023-40108",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的操作系统。Google Android存在信息泄露漏洞，该漏洞源于缺少权限检查，能访问属于其他用户的媒体内容，攻击者可利用该漏洞获取受影响组件敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-40108",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://source.android.com/security/bulletin/2025-01-01",
+    "patch": "Google Android信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-28",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "cf08440101f41daa8edaef0f5b6eecf3"
+}

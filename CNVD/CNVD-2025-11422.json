@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:07:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11422",
+    "spider_time": 1749110871599,
+    "name": "Google ChromeOS释放后使用漏洞",
+    "cnvd": "CNVD-2025-11422",
+    "publish": "2025-06-03",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google ChromeOS 5.4\"]",
+    "cve": "CVE-2025-1290",
+    "description": "Google ChromeOS是基于Linux内核的操作系统。Google ChromeOS存在释放后使用漏洞，该漏洞源于virtio_transport_space_update函数存在竞争条件释放后重用，攻击者可利用该漏洞导致任意内核代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://issues.chromium.org/issues/b/301886931\nhttps://issuetracker.google.com/issues/301886931",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://chromium.googlesource.com/chromiumos/third_party/kernel",
+    "patch": "Google ChromeOS释放后使用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-08",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "36b6293be4ef3e72447b1ae969e97938"
+}

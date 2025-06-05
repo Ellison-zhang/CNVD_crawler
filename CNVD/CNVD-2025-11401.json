@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:05:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11401",
+    "spider_time": 1749110713017,
+    "name": "JetBrains IntelliJ IDEA日志信息泄露漏洞",
+    "cnvd": "CNVD-2025-11401",
+    "publish": "2025-06-05",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"JetBrains JetBrains IntelliJ IDEA <2024.3\", \"JetBrains JetBrains IntelliJ IDEA 2024.2.4\"]",
+    "cve": "CVE-2025-32054",
+    "description": "JetBrains IntelliJ IDEA是捷克JetBrains公司的一套适用于Java语言的集成开发环境。JetBrains IntelliJ IDEA存在日志信息泄露漏洞，该漏洞源于源代码被记录在idea.log文件中。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.jetbrains.com/privacy-security/issues-fixed/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains IntelliJ IDEA日志信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-12",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "4b1b7a61da07e562a9f35eac4c44f7c6"
+}

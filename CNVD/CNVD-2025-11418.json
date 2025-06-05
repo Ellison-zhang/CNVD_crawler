@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:07:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11418",
+    "spider_time": 1749110859740,
+    "name": "Adobe Connect跨站脚本漏洞",
+    "cnvd": "CNVD-2025-11418",
+    "publish": "2025-06-03",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Adobe Adobe Connect <=12.8\"]",
+    "cve": "CVE-2025-43567",
+    "description": "Adobe Connect是一款由Adobe提供的多功能在线会议和协作工具，主要用于数字化培训、网络研讨会和团队协作。Adobe Connect存在跨站脚本漏洞。该漏洞是由于Adobe Connect未能对用户提供的输入进行有效的转义和过滤。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43567",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/connect/apsb25-36.html",
+    "patch": "Adobe Connect跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-16",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "1cd39c23ae6af841bb327dafbdbd891d"
+}

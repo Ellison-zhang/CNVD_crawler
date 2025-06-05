@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:08:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11454",
+    "spider_time": 1749110920127,
+    "name": "SAP Netweaver Application Server ABAP信息泄露漏洞",
+    "cnvd": "CNVD-2025-11454",
+    "publish": "2025-06-03",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"SAP Netweaver Application Server ABAP\"]",
+    "cve": "CVE-2025-0068",
+    "description": "SAP Netweaver Application Server ABAP是SAP系统的核心组件，负责业务处理和数据交互‌。SAP Netweaver Application Server ABAP存在信息泄露漏洞，该漏洞源于未执行必要的授权检查，攻击者可利用该漏洞获取信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-0068",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/january-2025.html",
+    "patch": "SAP Netweaver Application Server ABAP信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-21",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "4f7ad41d21efb2c000133a98b4a24ca1"
+}

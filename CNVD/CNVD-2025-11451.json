@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:06:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11451",
+    "spider_time": 1749110791154,
+    "name": "WAVLINK WL-WN531AX2代码问题漏洞",
+    "cnvd": "CNVD-2025-11451",
+    "publish": "2025-06-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"WAVLINK WAVLINK WL-WN531AX2 <2023526\"]",
+    "cve": "CVE-2023-32621",
+    "description": "WAVLINK WL-WN531AX2是中国WAVLINK公司的一款无线路由器。WAVLINK WL-WN531AX2存在代码问题漏洞，该漏洞源于存在文件上传漏洞。攻击者可利用该漏洞以root权限上传任意文件并执行系统命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://jvndb.jvn.jp/en/contents/2023/JVNDB-2023-000065.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.wavlink.com/en_us/firmware/details/932108ffc5.html",
+    "patch": "WAVLINK WL-WN531AX2代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-06-30",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "b6448315035b4e11135d66f1344c7808"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:06:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11406",
+    "spider_time": 1749110803376,
+    "name": "SAP ERP HCM和SAP S/4HANA授权问题漏洞",
+    "cnvd": "CNVD-2025-11406",
+    "publish": "2025-06-03",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:M/C:C/I:N/A:N",
+    "product": "[\"SAP ERP HCM\", \"SAP S/4HANA\"]",
+    "cve": "CVE-2025-43008",
+    "description": "SAP ERP HCM和SAP S/4HANA都是德国思爱普（SAP）公司的产品。SAP ERP HCM是一套企业人力资源管理解决方案。SAP S/4HANA是一个基于SAP HANA内存数据库系统的的企业资源管理软件。SAP ERP HCM和SAP S/4HANA存在授权问题漏洞，该漏洞源于缺少授权检查，攻击者可利用该漏洞导致员工个人信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://me.sap.com/notes/3585992",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2025.html",
+    "patch": "SAP ERP HCM和SAP S/4HANA授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "246ce1a5f2ddc5283fef3382fd605348"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:08:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11425",
+    "spider_time": 1749110886905,
+    "name": "Google Chrome OS越界读取漏洞",
+    "cnvd": "CNVD-2025-11425",
+    "publish": "2025-06-03",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Chrome OS 6.1(Kernel)\", \"Google Chrome OS 5.15(Kernel)\", \"Google Chrome OS 5.10(Kernel)\", \"Google Chrome OS 5.4(Kernel)\", \"Google Chrome OS 4.19(Kernel)\"]",
+    "cve": "CVE-2025-2073",
+    "description": "Google Chrome OS是美国谷歌（Google）公司的一套基于Web的轻量型开源操作系统。Google Chrome OS存在越界读取漏洞，该漏洞源于ip_set_bitmap_ip.c对用户提供的数据缺乏适当的验证，攻击者可利用该漏洞导致内存损坏和权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://issues.chromium.org/issues/b/380043638",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://chromeos.google/",
+    "patch": "Google Chrome OS越界读取漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "a353d6fd79e2227d8a5ed5040d078a1e"
+}

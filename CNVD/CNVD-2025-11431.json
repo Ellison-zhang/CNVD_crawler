@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:08:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11431",
+    "spider_time": 1749110901201,
+    "name": "Google Android权限提升漏洞（CNVD-2025-11431）",
+    "cnvd": "CNVD-2025-11431",
+    "publish": "2025-06-03",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android 13.0\", \"Google Android 14.0\", \"Google Android 15.0\"]",
+    "cve": "CVE-2024-49737",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在权限提升漏洞，该漏洞源于WindowOrganizerController.java文件的applyTaskFragmentOperation函数包含一个逻辑错误，攻击者可利用该漏洞以系统UID的身份启动任意活动。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-49737",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://source.android.com/security/bulletin/2025-01-01",
+    "patch": "Google Android权限提升漏洞（CNVD-2025-11431）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-07",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "d9f945084694841b43d35aa11b0c05d4"
+}

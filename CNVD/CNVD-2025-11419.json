@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:07:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11419",
+    "spider_time": 1749110865027,
+    "name": "Adobe Dimension越界写入漏洞",
+    "cnvd": "CNVD-2025-11419",
+    "publish": "2025-06-03",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Dimension <=4.1.2\"]",
+    "cve": "CVE-2025-43572",
+    "description": "Adobe Dimension是一款用于3D设计和渲染的应用程序。Adobe Dimension存在越界写入漏洞。该漏洞是由于程序的某个组件在处理特定输入时，未能正确地管理内存边界。攻击者可利用该漏洞通过构造恶意的输入文件或数据，执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43572",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/dimension/apsb25-45.html",
+    "patch": "Adobe Dimension越界写入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-16",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "71c280014ce9e9b2453426f2eb3978f6"
+}

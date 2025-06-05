@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:04:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11397",
+    "spider_time": 1749110695671,
+    "name": "JetBrains YouTrack访问控制错误漏洞",
+    "cnvd": "CNVD-2025-11397",
+    "publish": "2025-06-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:C/A:N",
+    "product": "[\"JetBrains YouTrack <2025.1.76253\"]",
+    "cve": "CVE-2025-48391",
+    "description": "JetBrains YouTrack是捷克JetBrains公司的一套基于浏览器的错误跟踪和项目管理软件。该软件具有错误跟踪、创建工作流程和监控项目进度等功能。JetBrains YouTrack存在访问控制错误漏洞，该漏洞源于API中缺少权限检查，攻击者可利用该漏洞导致问题被删除。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.jetbrains.com/privacy-security/issues-fixed/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains YouTrack访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "92206a516b714714042df58b8c95c266"
+}
