@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-05 21:03:28",
+    "parse_time": "2025-06-05 22:03:15",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11434",
-    "spider_time": 1749157408557,
+    "spider_time": 1749160995040,
     "name": "D-Link DAP-1620堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-11434",
     "publish": "2025-06-04",
