@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-05 16:04:19",
+    "parse_time": "2025-06-05 17:03:17",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11438",
-    "spider_time": 1749139459782,
+    "spider_time": 1749142997146,
     "name": "WAVLINK AC3000 wireless.cgi set_wifi_basic函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-11438",
     "publish": "2025-06-04",
