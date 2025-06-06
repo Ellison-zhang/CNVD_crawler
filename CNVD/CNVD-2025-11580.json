@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 20:04:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11580",
+    "spider_time": 1749240252998,
+    "name": "北京快手科技有限公司快影APP存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-11580",
+    "publish": "2025-06-02",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u5317\\u4eac\\u5feb\\u624b\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u5feb\\u5f71APP\"]",
+    "cve": null,
+    "description": "快影APP是一款视频拍摄、视频剪辑和视频制作工具。北京快手科技有限公司快影APP存在逻辑缺陷漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布漏洞修复程序，请及时关注更新：\nhttps://www.kuaishou.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "3942bde03758f3b2429cf272a2732a38"
+}
