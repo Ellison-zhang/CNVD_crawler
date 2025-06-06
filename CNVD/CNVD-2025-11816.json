@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 11:07:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11816",
+    "spider_time": 1749208038007,
+    "name": "深圳达实物联网技术有限公司停车场管理系统存在任意文件读取漏洞",
+    "cnvd": "CNVD-2025-11816",
+    "publish": "2025-06-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u8fbe\\u5b9e\\u7269\\u8054\\u7f51\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 \\u505c\\u8f66\\u573a\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "深圳达实物联网技术有限公司专注于物联网平台整体解决方案，涵盖智慧建筑、医疗、交通等领域。深圳达实物联网技术有限公司停车场管理系统存在任意文件读取漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.csdas.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-21",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "607eac8c9881b5f0d20bc76e579fed21"
+}

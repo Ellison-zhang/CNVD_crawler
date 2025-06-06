@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 11:03:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11898",
+    "spider_time": 1749207822566,
+    "name": "深圳建广数字科技有限公司BeEver业务中台存在信息泄露漏洞",
+    "cnvd": "CNVD-2025-11898",
+    "publish": "2025-06-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u5efa\\u5e7f\\u6570\\u5b57\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 BeEver\\u4e1a\\u52a1\\u4e2d\\u53f0\"]",
+    "cve": null,
+    "description": "深圳建广数字科技有限公司多年从事国内专业的ERP实施服务，是提供传统产业数字化转型完整IT解决方案和端到端IT服务的提供商。深圳建广数字科技有限公司BeEver业务中台存在信息泄露漏洞，攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.e2yun.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "93ddecce5c80a7b82b405b0f0716febe"
+}

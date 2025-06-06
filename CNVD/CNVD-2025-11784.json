@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 11:03:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11784",
+    "spider_time": 1749207801161,
+    "name": "上海埃林哲软件系统股份有限公司YAPI存在命令执行漏洞",
+    "cnvd": "CNVD-2025-11784",
+    "publish": "2025-06-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u4e0a\\u6d77\\u57c3\\u6797\\u54f2\\u8f6f\\u4ef6\\u7cfb\\u7edf\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 YAPI\"]",
+    "cve": null,
+    "description": "YAPI是一款高效、易用且功能强大的开源API管理平台，专为开发、产品和测试人员设计，旨在提供优雅的接口管理服务‌。上海埃林哲软件系统股份有限公司YAPI存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.elitesland.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "d76c93c4eaf88da1c2f9b50994b78764"
+}

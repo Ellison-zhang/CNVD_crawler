@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 11:04:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11906",
+    "spider_time": 1749207887230,
+    "name": "Samsung Email访问控制错误漏洞",
+    "cnvd": "CNVD-2025-11906",
+    "publish": "2025-06-06",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Samsung Samsung Email <6.1.97.1\"]",
+    "cve": "CVE-2025-20894",
+    "description": "Samsung Email是韩国三星（SAMSUNG）公司开发的一款电子邮件应用程序，旨在为用户提供一个方便的界面来管理和处理电子邮件。Samsung Email存在访问控制错误漏洞，该漏洞源于Samsung Email中包含一个访问控制不当问题，攻击者可利用该漏洞跨多个用户配置文件访问数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=01",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=01",
+    "patch": "Samsung Email访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "72a98037f5ee364b2197047d5bc87ee3"
+}

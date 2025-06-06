@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 11:07:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11847",
+    "spider_time": 1749208076664,
+    "name": "惠普贸易（上海）有限公司HP PageWide Pro 477dn MFP存在弱口令漏洞",
+    "cnvd": "CNVD-2025-11847",
+    "publish": "2025-06-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u60e0\\u666e\\u8d38\\u6613\\uff08\\u4e0a\\u6d77\\uff09\\u6709\\u9650\\u516c\\u53f8 HP PageWide Pro 477dn MFP\"]",
+    "cve": null,
+    "description": "HP PageWide Pro 477dn MFP是一款多功能商用一体机，集打印、复印、扫描和传真功能于一体。惠普贸易（上海）有限公司HP PageWide Pro 477dn MFP存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.hp.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-21",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "6075f87df53039f6f47bdb9fc27acf6b"
+}

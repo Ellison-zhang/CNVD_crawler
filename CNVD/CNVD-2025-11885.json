@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 11:03:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11885",
+    "spider_time": 1749207807592,
+    "name": "柯尼卡美能达（中国）投资有限公司bizhub 4050i存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-11885",
+    "publish": "2025-06-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u67ef\\u5c3c\\u5361\\u7f8e\\u80fd\\u8fbe\\uff08\\u4e2d\\u56fd\\uff09\\u6295\\u8d44\\u6709\\u9650\\u516c\\u53f8 bizhub 4050i\"]",
+    "cve": null,
+    "description": "柯尼卡美能达（中国）投资有限公司是以光学影像、办公设备、医疗和工业设备为主营业务的有限公司。柯尼卡美能达（中国）投资有限公司bizhub 4050i存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.konicaminolta.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "b525da854d9ab95f5920a2c56b2317c0"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 11:05:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11859",
+    "spider_time": 1749207942408,
+    "name": "HP Development Company, L.P. HP Color LaserJet M455存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-11859",
+    "publish": "2025-06-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"HP Development Company, L.P. HP Color LaserJet M455\"]",
+    "cve": null,
+    "description": "HP Color LaserJet M455是一款企业级彩色激光打印机‌。HP Development Company， L.P.  HP Color LaserJet M455存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.hp.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-21",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "d1ad20a89bff4e2366b1abd71e777c1c"
+}

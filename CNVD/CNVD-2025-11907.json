@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 11:04:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11907",
+    "spider_time": 1749207896889,
+    "name": "Tenda FH1206 ip/goform/DhcpListClient的list1参数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11907",
+    "publish": "2025-06-06",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda FH1206 V1.2.0.8(8155)_EN\"]",
+    "cve": "CVE-2024-34944",
+    "description": "Tenda FH1206是中国腾达（Tenda）公司的一款无线路由器。Tenda FH1206存在缓冲区溢出漏洞，该漏洞源于ip/goform/DhcpListClient的list1参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.tendacn.com/hk/download/detail-2344.html",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-22",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "90b26819873cc42a05d8314eaacb9520"
+}

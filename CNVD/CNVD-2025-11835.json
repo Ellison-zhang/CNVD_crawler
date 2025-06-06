@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 11:04:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11835",
+    "spider_time": 1749207859911,
+    "name": "Samsung Galaxy Wearable访问控制错误漏洞",
+    "cnvd": "CNVD-2025-11835",
+    "publish": "2025-06-06",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:N/I:P/A:P",
+    "product": "[\"Samsung SAMSUNG Galaxy Wearable <2.2.61.24112961\"]",
+    "cve": "CVE-2025-20923",
+    "description": "Samsung Galaxy Wearable是韩国三星（SAMSUNG）公司官方出品的一款应用程序，主要用于管理和连接三星旗下的智能穿戴设备。Samsung  Galaxy Wearable存在访问控制错误漏洞，该漏洞源于访问控制不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=03",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=03",
+    "patch": "SAMSUNG Galaxy Wearable访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "a5f653172e145c6ae721ad4d892d093d"
+}

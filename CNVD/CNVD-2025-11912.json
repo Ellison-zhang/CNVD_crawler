@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 11:04:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11912",
+    "spider_time": 1749207891576,
+    "name": "Tenda FH1206 mac参数命令注入漏洞",
+    "cnvd": "CNVD-2025-11912",
+    "publish": "2025-06-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda FH1206 1.2.0.8(8155)\"]",
+    "cve": "CVE-2024-35339",
+    "description": "Tenda FH1206是中国腾达（Tenda）公司的一款无线路由器。Tenda FH1206存在命令注入漏洞，该漏洞源于ip/goform/WriteFacMac的mac参数未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://palm-vertebra-fe9.notion.site/formWriteFacMac_RCE-d70cf636739e4a769b1f919ffed4a2a0",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-30",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "db844900f95001f4eddffeb3ae388121"
+}

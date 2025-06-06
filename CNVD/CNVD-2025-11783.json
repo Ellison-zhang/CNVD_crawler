@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 11:08:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11783",
+    "spider_time": 1749208086221,
+    "name": "Foxcms存在命令执行漏洞",
+    "cnvd": "CNVD-2025-11783",
+    "publish": "2025-06-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"FoxCMS FoxCMS\"]",
+    "cve": null,
+    "description": "Foxcms是一套可免费商用开源的内容管理系统，采用PHP+MySQL架构。Foxcms存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.foxcms.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-21",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "acfe3eb009a0dbda3c1d18d9e0b78ce8"
+}

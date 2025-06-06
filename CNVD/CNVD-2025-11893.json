@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 11:07:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11893",
+    "spider_time": 1749208066018,
+    "name": "青岛海信网络科技股份有限公司智能公交企业管理系统存在文件上传漏洞",
+    "cnvd": "CNVD-2025-11893",
+    "publish": "2025-06-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u9752\\u5c9b\\u6d77\\u4fe1\\u7f51\\u7edc\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u667a\\u80fd\\u516c\\u4ea4\\u4f01\\u4e1a\\u7ba1\\u7406\\u7cfb\\u7edf 7.0.0.0.R3\"]",
+    "cve": null,
+    "description": "青岛海信网络科技股份有限公司是海信集团信息产业板块的核心力量，专注于智慧城市、智能交通、公共安全、轨道交通、智慧建筑领域产品和解决方案的开发。青岛海信网络科技股份有限公司智能公交企业管理系统存在文件上传漏洞，攻击者可利用该漏洞获取服务器控制权。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.hisense-transtech.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-21",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "977472417f9c355811fabb4b07023b50"
+}
