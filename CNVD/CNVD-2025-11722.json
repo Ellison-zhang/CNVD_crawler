@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 10:04:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11722",
+    "spider_time": 1749204294117,
+    "name": "天闻数媒科技（北京）有限公司名师工作室系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-11722",
+    "publish": "2025-06-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u5929\\u95fb\\u6570\\u5a92\\u79d1\\u6280\\uff08\\u5317\\u4eac\\uff09\\u6709\\u9650\\u516c\\u53f8 \\u540d\\u5e08\\u5de5\\u4f5c\\u5ba4\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "‌天闻数媒科技(北京)有限公司是一家专注于数字教育及数字文化领域的创新型文化科技企业。天闻数媒科技（北京）有限公司名师工作室系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.zncmjt.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "0f9384dcc9ea5259fd711d954c8768bd"
+}

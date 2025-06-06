@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 10:04:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11701",
+    "spider_time": 1749204283092,
+    "name": "cltphp存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-11701",
+    "publish": "2025-06-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"CLTPHP CLTPHP 6.0\"]",
+    "cve": null,
+    "description": "cltphp是一款高效建站的PHP内容管理系统，同时也是一款开源CMS系统。cltphp存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.cltphp.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "890ea2aeaa3df69c4dd9c44af8e9717d"
+}

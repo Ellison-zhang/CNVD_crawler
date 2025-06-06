@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 10:04:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11682",
+    "spider_time": 1749204260426,
+    "name": "Samsung libsavscmn越界写入漏洞",
+    "cnvd": "CNVD-2025-11682",
+    "publish": "2025-06-06",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Samsung SAMSUNG libsavscmn <Android 15\"]",
+    "cve": "CVE-2025-20979",
+    "description": "Samsung libsavscmn是韩国三星（SAMSUNG）公司的一个手机应用程序。Samsung libsavscmn存在越界写入漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=05",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=05",
+    "patch": "Samsung libsavscmn越界写入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "51b2c378048ef998bd2fd3464562960c"
+}

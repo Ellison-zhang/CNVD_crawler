@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 10:04:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11766",
+    "spider_time": 1749204251623,
+    "name": "联奕科技股份有限公司统一身份认证平台存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-11766",
+    "publish": "2025-06-06",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:P/A:N",
+    "product": "[\"\\u8054\\u5955\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u7edf\\u4e00\\u8eab\\u4efd\\u8ba4\\u8bc1\\u5e73\\u53f0\", \"\\u8054\\u5955\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u7edf\\u4e00\\u8eab\\u4efd\\u8ba4\\u8bc1\\u5e73\\u53f0 V1.0.20190101-10000\"]",
+    "cve": null,
+    "description": "联奕科技股份有限公司是一家深耕教育信息化领域的科技企业。联奕科技股份有限公司统一身份认证平台存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.ly-sky.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "224d0488b6a502b76438286113010fc1"
+}

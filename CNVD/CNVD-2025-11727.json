@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 10:04:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11727",
+    "spider_time": 1749204274082,
+    "name": "中版行知（广州）数字传媒有限公司电子图书阅读平台存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-11727",
+    "publish": "2025-06-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u4e2d\\u7248\\u884c\\u77e5\\uff08\\u5e7f\\u5dde\\uff09\\u6570\\u5b57\\u4f20\\u5a92\\u6709\\u9650\\u516c\\u53f8 \\u7535\\u5b50\\u56fe\\u4e66\\u9605\\u8bfb\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "中版行知（广州）数字传媒有限公司是一家成立于2017年11月23日的数字传媒企业。中版行知（广州）数字传媒有限公司电子图书阅读平台存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.zbxingzhi.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "5bc3f96e69fe0f09882af8e76425d346"
+}

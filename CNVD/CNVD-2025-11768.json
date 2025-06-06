@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 10:05:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11768",
+    "spider_time": 1749204304055,
+    "name": "研华科技（中国）有限公司WebAccess存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-11768",
+    "publish": "2025-06-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u7814\\u534e\\u79d1\\u6280\\uff08\\u4e2d\\u56fd\\uff09\\u6709\\u9650\\u516c\\u53f8 webaccess\"]",
+    "cve": null,
+    "description": "WebAccess是一款基于B/S架构的HMI/SCADA软件。研华科技（中国）有限公司WebAccess存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.advantech.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-21",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "f1949a3484c95c378ab28b3362970086"
+}

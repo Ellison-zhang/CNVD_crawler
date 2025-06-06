@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 10:05:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11721",
+    "spider_time": 1749204330344,
+    "name": "深圳市众联医信科技有限公司医疗设备资产管理系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-11721",
+    "publish": "2025-06-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u4f17\\u8054\\u533b\\u4fe1\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u533b\\u7597\\u8bbe\\u5907\\u8d44\\u4ea7\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "深圳市众联医信科技有限公司是一家专注于医疗软件技术开发与升级服务的高科技企业。深圳市众联医信科技有限公司医疗设备资产管理系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.zlianyx.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-21",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "7eb811b355b7752a6df2f71730fc6116"
+}

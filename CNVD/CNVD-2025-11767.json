@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 10:14:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11767",
+    "spider_time": 1749204898443,
+    "name": "天津市基理科技股份有限公司大型仪器共享应用存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-11767",
+    "publish": "2025-06-04",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"\\u5929\\u6d25\\u5e02\\u57fa\\u7406\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u5927\\u578b\\u4eea\\u5668\\u5171\\u4eab\\u5e94\\u7528\"]",
+    "cve": null,
+    "description": "天津市基理科技股份有限公司是一家成立于2008年的智能化科研管理解决方案提供商。天津市基理科技股份有限公司大型仪器共享应用存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.geneegroup.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-20",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "6cec86832dc6e6a724ec06b97ff1d98a"
+}

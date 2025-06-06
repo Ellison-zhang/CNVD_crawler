@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 10:05:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11774",
+    "spider_time": 1749204309260,
+    "name": "NUUO Inc.Network Video Recorder存在命令执行漏洞",
+    "cnvd": "CNVD-2025-11774",
+    "publish": "2025-06-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NUUO Inc. Network Video Recorder\"]",
+    "cve": null,
+    "description": "NUUO Inc.是一家专业生产网络视频录像机（Network Video Recorder，简称NVR）的公司。NUUO Inc.Network Video Recorder存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://nuuo.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-21",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "bcc5cdf0fe559157b53352fc978ec015"
+}
