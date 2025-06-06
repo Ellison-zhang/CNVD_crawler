@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 07:04:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11676",
+    "spider_time": 1749193458856,
+    "name": "Planet IGS-4215-16T2S信息泄露漏洞",
+    "cnvd": "CNVD-2025-11676",
+    "publish": "2025-06-06",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Planet IGS-4215-16T2S 1.305b210528\"]",
+    "cve": "CVE-2024-2740",
+    "description": "Planet IGS-4215-16T2S是一款工业级交换机设备。Planet IGS-4215-16T2S存在信息泄露漏洞，该漏洞源于Switch Web界面缺乏适当的管理。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.incibe.es/en/incibe-cert/notices/aviso-sci/multiple-vulnerabilities-planet-igs-4215-16t2s",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.planet.com.tw/en/product/igs-4215-16t2s",
+    "patch": "Planet IGS-4215-16T2S信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-15",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "78d96654b824217cacbd2637521025f1"
+}
