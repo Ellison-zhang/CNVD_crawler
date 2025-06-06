@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-06 08:05:38",
+    "parse_time": "2025-06-06 09:05:25",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11536",
-    "spider_time": 1749197138092,
+    "spider_time": 1749200725951,
     "name": "友讯科技DIR-605L formSetDomainFilter函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-11536",
     "publish": "2025-06-05",
