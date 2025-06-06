@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 02:38:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11435",
+    "spider_time": 1749177503280,
+    "name": "Adobe InCopy整数下溢漏洞",
+    "cnvd": "CNVD-2025-11435",
+    "publish": "2025-06-03",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe InCopy <=20.0\", \"Adobe InCopy <=19.5.1\"]",
+    "cve": "CVE-2025-21156",
+    "description": "Adobe InCopy是美国奥多比（Adobe）公司的一款用于创作的文本编辑软件。Adobe InCopy存在整数下溢漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/incopy/apsb25-10.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/incopy/apsb25-10.html",
+    "patch": "Adobe InCopy整数下溢漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "7ab3f217cc1363faa10b8f40799afae6"
+}

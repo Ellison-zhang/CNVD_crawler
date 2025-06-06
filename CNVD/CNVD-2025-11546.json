@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 02:34:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11546",
+    "spider_time": 1749177263411,
+    "name": "D-Link DIR-823G Web Management Interface HNAP1 SetVirtualServerSettings访问控制不当漏洞",
+    "cnvd": "CNVD-2025-11546",
+    "publish": "2025-06-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"D-Link DIR-823G 1.0.2B05_20181207\"]",
+    "cve": "CVE-2024-13030",
+    "description": "D-Link DIR-823G是一款无线路由器，提供家庭和小型办公室的网络连接和管理功能。D-Link DIR-823G存在访问控制不当漏洞，该漏洞源于Web Management Interface组件的SetAutoRebootSettings、SetClientInfo、SetDMZSettings、SetFirewallSettings、SetParentsControlInfo、SetQoSSettings和SetVirtualServerSettings对特定请求的处理不当。攻击者可利用该漏洞导致未经授权的访问控制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.289763",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-30",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "413f4777427108fe67cb84b147a6f21b"
+}

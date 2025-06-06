@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 02:34:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11541",
+    "spider_time": 1749177259909,
+    "name": "D-Link DIR-853 SetVirtualServerSettings模块命令注入漏洞",
+    "cnvd": "CNVD-2025-11541",
+    "publish": "2025-06-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-853 FW1.20B07\", \"D-Link DIR-853 A1\"]",
+    "cve": "CVE-2025-25743",
+    "description": "D-Link DIR-853是中国友讯（D-Link）公司的一款路由器。D-Link DIR-853存在命令注入漏洞，该漏洞源于SetVirtualServerSettings模块未正确处理用户输入。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://dear-sunshine-ba5.notion.site/D-Link-DIR-853-1812386a664480229910c137ded2d3f1",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "2ccc452212abd37e0040825dc4615470"
+}

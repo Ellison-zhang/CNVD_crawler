@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 02:35:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11550",
+    "spider_time": 1749177322597,
+    "name": "Cisco Catalyst SD-WAN Manager权限提升漏洞",
+    "cnvd": "CNVD-2025-11550",
+    "publish": "2025-06-05",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Cisco Cisco Catalyst SD-WAN Manager\"]",
+    "cve": "CVE-2025-20122",
+    "description": "Cisco Catalyst SD-WAN Manager是思科公司推出的一款用于管理和配置SD-WAN（软件定义广域网）设备的API接口。Cisco Catalyst SD-WAN Manager存在权限提升漏洞，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-priviesc-WCk7bmmt",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.cisco.com/c/en/us/support/index.html",
+    "patch": "Cisco Catalyst SD-WAN Manager权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "cb5f5def5051037bf9c4b4c177dde901"
+}

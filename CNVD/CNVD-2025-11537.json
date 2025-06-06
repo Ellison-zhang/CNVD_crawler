@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 02:34:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11537",
+    "spider_time": 1749177282275,
+    "name": "友讯科技DIR-605L formSetEasy_Wizard函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11537",
+    "publish": "2025-06-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u53cb\\u8baf\\u79d1\\u6280 DIR-605L 2.13B01 BETA\"]",
+    "cve": "CVE-2024-9555",
+    "description": "友讯科技DIR-605L是中国友讯（D-Link）公司的一款无线路由器。友讯科技DIR-605L存在缓冲区溢出漏洞，该漏洞源于/goform/formSetEasy_Wizard页面中的formSetEasy_Wizard函数的curTime参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.279362",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-13",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "e6a35b5e964f040b7d8562c4402f14b6"
+}

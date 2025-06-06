@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 02:35:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11545",
+    "spider_time": 1749177328958,
+    "name": "D-Link DIR-816 A2访问控制不当漏洞",
+    "cnvd": "CNVD-2025-11545",
+    "publish": "2025-06-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"D-Link DIR-816 A2 1.10CNB05_R1B011D88210\"]",
+    "cve": "CVE-2024-13102",
+    "description": "D-Link DIR-816 A2是中国台湾友讯（D-Link）公司的一款无线路由器。D-Link DIR-816 A2存在访问控制不当漏洞。该漏洞源于DDNS Service组件的/goform/DDNS，攻击者可利用该漏洞访问和操作受影响的路由器的DDNS服务，篡改DDNS设置、获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-13102",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-06",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "4b23fac9139164e252c357e17cba3806"
+}
