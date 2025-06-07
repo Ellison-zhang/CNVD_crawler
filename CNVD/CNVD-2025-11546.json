@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-07 02:35:36",
+    "parse_time": "2025-06-07 03:23:36",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11546",
-    "spider_time": 1749263736817,
+    "spider_time": 1749266616971,
     "name": "D-Link DIR-823G Web Management Interface HNAP1 SetVirtualServerSettings访问控制不当漏洞",
     "cnvd": "CNVD-2025-11546",
     "publish": "2025-06-05",
