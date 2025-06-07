@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-07 03:23:19",
+    "parse_time": "2025-06-07 04:05:26",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11541",
-    "spider_time": 1749266599288,
+    "spider_time": 1749269126762,
     "name": "D-Link DIR-853 SetVirtualServerSettings模块命令注入漏洞",
     "cnvd": "CNVD-2025-11541",
     "publish": "2025-06-05",
