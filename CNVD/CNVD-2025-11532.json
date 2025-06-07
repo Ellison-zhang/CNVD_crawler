@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-07 22:04:43",
+    "parse_time": "2025-06-07 23:04:45",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11532",
-    "spider_time": 1749333883510,
+    "spider_time": 1749337485701,
     "name": "友讯科技DIR-605L formEasySetPassword函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-11532",
     "publish": "2025-06-05",
