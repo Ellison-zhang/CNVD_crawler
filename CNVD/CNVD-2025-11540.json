@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-08 09:03:54",
+    "parse_time": "2025-06-08 10:03:49",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11540",
-    "spider_time": 1749373434798,
+    "spider_time": 1749377029165,
     "name": "D-Link DIR-853 SetSysEmailSettings模块缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-11540",
     "publish": "2025-06-05",
