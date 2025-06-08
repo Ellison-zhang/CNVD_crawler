@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-08 06:04:40",
+    "parse_time": "2025-06-08 07:03:34",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11786",
-    "spider_time": 1749362680034,
+    "spider_time": 1749366214091,
     "name": "新华三技术有限公司NX15000存在命令执行漏洞",
     "cnvd": "CNVD-2025-11786",
     "publish": "2025-06-05",
@@ -12,11 +12,11 @@
     "description": "NX15000是一款高端路由器。新华三技术有限公司NX15000存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
     "flaw_type": "通用型漏洞",
     "reference": null,
-    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.h3c.com/",
-    "patch": "(无补丁信息)",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.h3c.com/",
+    "patch": "新华三技术有限公司NX15000存在命令执行漏洞的补丁",
     "verify": "已验证",
     "submit_time": "2025-04-21",
     "open_time": "2025-06-06",
     "update_time": "2025-06-06",
-    "data_summary": "38dcd32b590d52c7730348e714d2ea5c"
+    "data_summary": "e8645c86aba4bd059718b39f1d1751dd"
 }
