@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-09 07:04:47",
+    "parse_time": "2025-06-09 08:06:28",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11539",
-    "spider_time": 1749452687517,
+    "spider_time": 1749456388017,
     "name": "D-Link DIR-853 SetIPv6PppoeSettings模块缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-11539",
     "publish": "2025-06-05",

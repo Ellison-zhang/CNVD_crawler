@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-09 08:05:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11918",
+    "spider_time": 1749456353317,
+    "name": "Dell ECS信息泄露漏洞",
+    "cnvd": "CNVD-2025-11918",
+    "publish": "2025-06-09",
+    "severity": "低",
+    "cvss_vector": "AV:A/AC:H/Au:N/C:P/I:N/A:N",
+    "product": "[\"DELL Dell ECS <=3.8.1.4\"]",
+    "cve": "CVE-2025-26478",
+    "description": "Dell ECS是戴尔科技公司推出的一款企业级对象存储解决方案‌。Dell ECS存在信息泄露漏洞，该漏洞源于系统未能正确验证证书。攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dell.com/support/kbdoc/en-in/000300068/dsa-2025-097-security-update-for-dell-objectscale-4-0-multiple-vulnerabilities",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-in/000300068/dsa-2025-097-security-update-for-dell-objectscale-4-0-multiple-vulnerabilities",
+    "patch": "Dell ECS信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-09",
+    "update_time": "2025-06-09",
+    "data_summary": "f03628aff1ddfeda5234d11136d5371f"
+}

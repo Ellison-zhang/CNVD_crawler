@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-09 08:05:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11917",
+    "spider_time": 1749456350127,
+    "name": "Dell PowerScale OneFS越界写入漏洞",
+    "cnvd": "CNVD-2025-11917",
+    "publish": "2025-06-09",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:N/I:P/A:N",
+    "product": "[\"DELL Dell PowerScale OneFS >=9.4.0.0\\uff0c<=9.10.0.0\"]",
+    "cve": "CVE-2025-26479",
+    "description": "Dell PowerScale OneFS是美国戴尔（Dell）公司的一个操作系统。提供横向扩展NAS的PowerScale OneFS操作系统。Dell PowerScale OneFS存在越界写入漏洞，该漏洞源于应用在处理不受信任的输入时出现边界错误。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dell.com/support/kbdoc/en-us/000300860/dsa-2025-119-security-update-for-dell-powerscale-onefs-for-multiple-security-vulnerabilities",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000300860/dsa-2025-119-security-update-for-dell-powerscale-onefs-for-multiple-security-vulnerabilities",
+    "patch": "Dell PowerScale OneFS越界写入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-06-09",
+    "update_time": "2025-06-09",
+    "data_summary": "1e19b20efea7b7cbb41ea9d7318c588b"
+}
