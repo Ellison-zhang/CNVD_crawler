@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-09 10:04:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11928",
+    "spider_time": 1749463453578,
+    "name": "GNU PSPP缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11928",
+    "publish": "2025-06-09",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:N/I:N/A:P",
+    "product": "[\"Gnu GNU PSPP <=2.0.1\"]",
+    "cve": "CVE-2025-48188",
+    "description": "GNU PSPP是美国GNU社区的一款用于数据采样、统计和分析的应用程序。GNU PSPP存在缓冲区溢出漏洞，该漏洞源于在处理不受信任的输入时出现边界错误。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://savannah.gnu.org/bugs/?67079",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/software/pspp/get.html",
+    "patch": "GNU PSPP缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-22",
+    "open_time": "2025-06-09",
+    "update_time": "2025-06-09",
+    "data_summary": "5e7e1e278aaa615f0390a706e55ea88c"
+}
