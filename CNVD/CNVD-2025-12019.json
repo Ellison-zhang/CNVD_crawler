@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-10 09:05:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12019",
+    "spider_time": 1749546326176,
+    "name": "TOTOLINK A3700R访问控制错误漏洞（CNVD-2025-12019）",
+    "cnvd": "CNVD-2025-12019",
+    "publish": "2025-06-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"TOTOLINK A3700R 9.1.2u.5822_B20200513\"]",
+    "cve": "CVE-2025-3666",
+    "description": "TOTOLINK A3700R是一款无线路由器，提供家庭和小型办公室的网络连接功能。TOTOLINK A3700R存在访问控制错误漏洞，该漏洞源于/cgi-bin/cstecgi.cgi文件setDdnsCfg函数访问控制不当。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.304844",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://m.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-10",
+    "update_time": "2025-06-10",
+    "data_summary": "6e0cfdf7789cf41308b790c61b21c5ca"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-10 09:05:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12014",
+    "spider_time": 1749546303953,
+    "name": "TOTOLINK EX1200T代码执行漏洞",
+    "cnvd": "CNVD-2025-12014",
+    "publish": "2025-06-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK TOTOLINK EX1200T V4.1.2cu.5232_B20210713\"]",
+    "cve": "CVE-2025-28039",
+    "description": "TOTOLINK EX1200T是一款双频无线信号放大器，主要用于扩展现有无线网络的覆盖范围。TOTOLINK EX1200T存在代码执行漏洞。该漏洞源于setUpgradeFW函数中FileName参数进行预授权远程命令执行。攻击者可利用该漏在目标系统上执行任意代码，从而获得对系统的完全控制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-28039",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://m.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-06-10",
+    "update_time": "2025-06-10",
+    "data_summary": "7483adaa82fb1a09171c2ba90c8fedf5"
+}
