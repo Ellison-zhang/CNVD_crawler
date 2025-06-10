@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-10 09:07:36",
+    "parse_time": "2025-06-10 14:06:06",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12009",
-    "spider_time": 1749546456453,
+    "spider_time": 1749564366351,
     "name": "Tenda O3 formQosSet函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-12009",
     "publish": "2025-06-06",
