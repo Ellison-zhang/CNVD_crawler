@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-10 08:07:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11993",
+    "spider_time": 1749542843109,
+    "name": "Dell ECS输入验证错误漏洞",
+    "cnvd": "CNVD-2025-11993",
+    "publish": "2025-06-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"DELL Dell ECS <=3.8.1.4\"]",
+    "cve": "CVE-2025-26477",
+    "description": "Dell ECS是戴尔科技公司推出的一款企业级对象存储解决方案‌。Dell ECS存在输入验证错误漏洞，该漏洞源于系统未能正确处理特定输入。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-26477",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-in/000300068/dsa-2025-097-security-update-for-dell-objectscale-4-0-multiple-vulnerabilities",
+    "patch": "Dell ECS输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-10",
+    "update_time": "2025-06-10",
+    "data_summary": "1d038d9e0a763e88a9db67e437547d5f"
+}

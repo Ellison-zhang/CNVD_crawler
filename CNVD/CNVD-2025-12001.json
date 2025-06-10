@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-10 08:05:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12001",
+    "spider_time": 1749542735428,
+    "name": "TOTOLINK CA600-PoE setWebWlanIdx函数命令注入漏洞",
+    "cnvd": "CNVD-2025-12001",
+    "publish": "2025-06-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK CA600-PoE V5.3c.6665_B20180820\"]",
+    "cve": "CVE-2025-44847",
+    "description": "TOTOLINK CA600-PoE是中国吉翁电子（TOTOLINK）公司的一款户外无线AP/CPE设备。TOTOLINK CA600-PoE存在命令注入漏洞，该漏洞源于setWebWlanIdx函数未能正确过滤构造命令特殊字符、命令等，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Summermu/VulnForIoT/tree/main/Totolink_CA600-PoE/setWebWlanIdx/readme.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://m.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-10",
+    "update_time": "2025-06-10",
+    "data_summary": "97f4b717b0785418a83e6ed07ddaacb1"
+}

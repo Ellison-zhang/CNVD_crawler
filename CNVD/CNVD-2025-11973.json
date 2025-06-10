@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-10 08:06:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11973",
+    "spider_time": 1749542782488,
+    "name": "GNU C Library代码问题漏洞",
+    "cnvd": "CNVD-2025-11973",
+    "publish": "2025-06-09",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Gnu GNU C Library >=2.27\\uff0c<=2.38\"]",
+    "cve": "CVE-2025-4802",
+    "description": "GNU C Library是GNU社区的一种按照LGPL许可协议发布的开源免费的C语言编译程序。GNU C Library存在代码问题漏洞，攻击者可利用该漏洞导致动态共享库加载。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2025/05/16/7",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/software/libc/",
+    "patch": "GNU C Library代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-22",
+    "open_time": "2025-06-10",
+    "update_time": "2025-06-10",
+    "data_summary": "db6da1236b257757f2324da2db4a4199"
+}

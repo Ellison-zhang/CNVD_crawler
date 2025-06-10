@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-10 08:07:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12004",
+    "spider_time": 1749542866377,
+    "name": "GNU Emacs代码执行漏洞",
+    "cnvd": "CNVD-2025-12004",
+    "publish": "2025-06-09",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Gnu GNU Emacs <=30.1\"]",
+    "cve": "CVE-2024-53920",
+    "description": "GNU Emacs是美国GNU社区的一个文本编辑器家族。GNU Emacs存在代码执行漏洞，该漏洞源于选择在不受信任的源代码上调用elisp-completion-at-point的用户可能会触发不安全的宏扩展，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://access.redhat.com/security/cve/cve-2024-53920",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/software/emacs/download.html",
+    "patch": "GNU Emacs代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-06",
+    "open_time": "2025-06-10",
+    "update_time": "2025-06-10",
+    "data_summary": "2cf181bcb2824c20d2043598494493b2"
+}

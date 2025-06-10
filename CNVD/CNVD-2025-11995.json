@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-10 08:07:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11995",
+    "spider_time": 1749542851681,
+    "name": "Dell PowerProtect Cyber Recovery信息泄露漏洞",
+    "cnvd": "CNVD-2025-11995",
+    "publish": "2025-06-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:M/C:C/I:N/A:N",
+    "product": "[\"DELL PowerProtect Cyber Recovery <19.18.0.2\"]",
+    "cve": "CVE-2025-26335",
+    "description": "Dell PowerProtect Cyber Recovery是一款用于保护和恢复关键数据的网络安全解决方案。Dell PowerProtect Cyber Recovery中存在信息泄露漏洞。该漏洞源于未能正确处理敏感信息，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-26335",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000306005/dsa-2025-113-security-update-for-dell-powerprotect-cyber-recovery",
+    "patch": "Dell PowerProtect Cyber Recovery信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-06-10",
+    "update_time": "2025-06-10",
+    "data_summary": "ecc4a62ba3d2616ab65a2742e0ee883a"
+}

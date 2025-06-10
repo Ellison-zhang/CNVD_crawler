@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-10 08:05:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11981",
+    "spider_time": 1749542750701,
+    "name": "TOTOLINK CP900 setUpgradeUboot函数命令注入漏洞",
+    "cnvd": "CNVD-2025-11981",
+    "publish": "2025-06-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK CP900 V6.3c.1144_B20190715\"]",
+    "cve": "CVE-2025-44854",
+    "description": "TOTOLINK CP900是中国吉翁电子（TOTOLINK）公司的一个无线路由器。TOTOLINK CP900存在命令注入漏洞，该漏洞源于setUpgradeUboot函数未能正确过滤构造命令特殊字符、命令等，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Summermu/VulnForIoT/tree/main/Totolink_CP900/setUpgradeUboot/readme.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://m.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-10",
+    "update_time": "2025-06-10",
+    "data_summary": "2cc0996e6ec54979b36a70aaa6144afd"
+}

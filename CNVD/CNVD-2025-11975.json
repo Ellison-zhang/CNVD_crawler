@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-10 08:06:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11975",
+    "spider_time": 1749542795275,
+    "name": "Dell PowerScale InsightIQ拒绝服务漏洞",
+    "cnvd": "CNVD-2025-11975",
+    "publish": "2025-06-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"DELL Dell PowerScale InsightIQ 5.2\"]",
+    "cve": "CVE-2025-30476",
+    "description": "Dell PowerScale InsightIQ是美国戴尔（Dell）公司的一个强大的性能监控和报告工具。Dell PowerScale InsightIQ存在拒绝服务漏洞，该漏洞源于资源消耗不受控制，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dell.com/support/kbdoc/en-us/000317889/dsa-2025-186-security-update-for-dell-powerscale-inightiq-multiple-security-vulnerabilities",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000317889/dsa-2025-186-security-update-for-dell-powerscale-inightiq-multiple-security-vulnerabilities",
+    "patch": "Dell PowerScale InsightIQ拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-06-10",
+    "update_time": "2025-06-10",
+    "data_summary": "2bce45f8549abfa12693011502cb3c61"
+}

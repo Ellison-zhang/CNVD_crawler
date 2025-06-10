@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-10 08:07:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12003",
+    "spider_time": 1749542862094,
+    "name": "GNU GRUB缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12003",
+    "publish": "2025-06-09",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:M/C:C/I:C/A:C",
+    "product": "[\"GNU GRUB\"]",
+    "cve": "CVE-2025-0689",
+    "description": "GNU GRUB是GNU社区的一款Linux系统引导程序。GNU GRUB存在缓冲区溢出漏洞，该漏洞源于udf模块包含一个grub_udf_read_block中的基于堆的缓冲区溢出问题。攻击者可利用该漏洞破坏关键数据，并绕过安全启动保护机制执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://access.redhat.com/security/cve/CVE-2025-0689\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2346122",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/software/grub/grub-download.html",
+    "patch": "GNU GRUB缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-06-10",
+    "update_time": "2025-06-10",
+    "data_summary": "fe31e3396f726a609a4a6e3a15d5eb3f"
+}

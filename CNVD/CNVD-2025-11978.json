@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-10 08:05:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11978",
+    "spider_time": 1749542706591,
+    "name": "TOTOLINK  A3002R和A3002RU缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11978",
+    "publish": "2025-06-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A3002R 3.0.0-B20230809.1615\", \"TOTOLINK A3002RU 3.0.0-B20230809.1615\"]",
+    "cve": "CVE-2025-4731",
+    "description": "TOTOLINK A3002R和A3002RU是TOTOLINK公司生产的路由器，支持多种网络功能和服务。TOTOLINK A3002R和A3002RU存在缓冲区溢出漏洞，该漏洞源于组件HTTP POST请求处理程序的/boafrm/formPortFw文件的错误操作。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/CH13hh/tmp_store_cc/blob/main/tt/ta/4.md\nhttps://vuldb.com/?ctiid.309033\nhttps://vuldb.com/?id.309033\nhttps://vuldb.com/?submit.570688\nhttps://www.totolink.net/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://m.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-06-10",
+    "update_time": "2025-06-10",
+    "data_summary": "9789ce31ecbab57847800fdc16b0f22a"
+}

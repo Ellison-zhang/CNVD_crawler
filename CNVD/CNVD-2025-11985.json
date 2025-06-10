@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-10 08:06:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11985",
+    "spider_time": 1749542815472,
+    "name": "Dell Storage Manager命令注入漏洞",
+    "cnvd": "CNVD-2025-11985",
+    "publish": "2025-06-09",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"DELL Dell Storage Manager 20.1.20\"]",
+    "cve": "CVE-2025-22476",
+    "description": "Dell Storage Manager是美国戴尔（Dell）公司的一个集中式存储管理平台。Dell Storage Manager存在命令注入漏洞，该漏洞源于命令中特殊元素中和不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dell.com/support/kbdoc/en-us/000317318/dsa-2025-191-security-update-for-storage-center-dell-storage-manager-vulnerabilities",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/product-details/en-us/product/storage-scv3000/drivers",
+    "patch": "Dell Storage Manager命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-12",
+    "open_time": "2025-06-10",
+    "update_time": "2025-06-10",
+    "data_summary": "2557372369264461df4e3719706b0ab3"
+}
