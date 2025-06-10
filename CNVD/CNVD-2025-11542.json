@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-10 00:15:07",
+    "parse_time": "2025-06-10 01:32:18",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11542",
-    "spider_time": 1749514507849,
+    "spider_time": 1749519138727,
     "name": "D-Link DIR-853 SetWanSettings模块缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-11542",
     "publish": "2025-06-05",

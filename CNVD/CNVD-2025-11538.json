@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-10 00:14:52",
+    "parse_time": "2025-06-10 01:32:04",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11538",
-    "spider_time": 1749514492261,
+    "spider_time": 1749519124294,
     "name": "D-Link DIR-853 SetDynamicDNSSettings模块缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-11538",
     "publish": "2025-06-05",
