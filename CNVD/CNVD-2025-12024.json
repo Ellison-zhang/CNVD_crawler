@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-10 10:04:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12024",
+    "spider_time": 1749549859904,
+    "name": "TOTOLINK X18命令执行漏洞",
+    "cnvd": "CNVD-2025-12024",
+    "publish": "2025-06-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK X18 V9.1.0cu.2024_B20220329\"]",
+    "cve": "CVE-2025-29209",
+    "description": "TOTOLINK X18是TOTOLINK公司生产的一款无线路由器，提供高速稳定的无线网络连接。TOTOLINK X18存在命令执行漏洞，该漏洞源于cstecgi.cgi文件的sub_41105C函数的enable参数中。攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/LZY0522/CVE/blob/main/X18-sub_41105c.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://m.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-06-10",
+    "update_time": "2025-06-10",
+    "data_summary": "af33236a49407204b3840d06c43206ba"
+}
