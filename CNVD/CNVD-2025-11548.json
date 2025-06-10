@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-10 01:33:53",
+    "parse_time": "2025-06-10 02:37:28",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11548",
-    "spider_time": 1749519233459,
+    "spider_time": 1749523048744,
     "name": "友讯科技DIR-605L formDeviceReboot函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-11548",
     "publish": "2025-06-05",
