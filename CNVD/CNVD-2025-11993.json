@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-11 00:17:20",
+    "parse_time": "2025-06-11 01:32:45",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11993",
-    "spider_time": 1749601040735,
+    "spider_time": 1749605565318,
     "name": "Dell ECS输入验证错误漏洞",
     "cnvd": "CNVD-2025-11993",
     "publish": "2025-06-09",
