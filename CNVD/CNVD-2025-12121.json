@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-11 10:06:15",
+    "parse_time": "2025-06-11 11:14:14",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12121",
-    "spider_time": 1749636375899,
+    "spider_time": 1749640454161,
     "name": "Gnu Coreutils缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-12121",
     "publish": "2025-06-10",

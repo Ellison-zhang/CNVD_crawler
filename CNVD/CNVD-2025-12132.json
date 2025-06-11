@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-11 11:03:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12132",
+    "spider_time": 1749639836603,
+    "name": "SonicWall SMA100 SSL-VPN路径遍历漏洞",
+    "cnvd": "CNVD-2025-12132",
+    "publish": "2025-06-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"SonicWall SMA100\"]",
+    "cve": "CVE-2025-32820",
+    "description": "SonicWall SMA100是美国SonicWall公司的一款安全访问网关设备。SonicWall SMA100存在路径遍历漏洞，该漏洞源于具有SSLVPN权限用户可注入路径遍历序列，攻击者可利用该漏洞使任意目录可写。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0011",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0011",
+    "patch": "SonicWall SMA100 SSL-VPN路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-12",
+    "open_time": "2025-06-11",
+    "update_time": "2025-06-11",
+    "data_summary": "d8d0a53b9c517e3977bddc7d135738bd"
+}
