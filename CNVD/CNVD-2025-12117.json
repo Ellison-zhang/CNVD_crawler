@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-11 14:05:17",
+    "parse_time": "2025-06-11 15:05:40",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12117",
-    "spider_time": 1749650717516,
+    "spider_time": 1749654340458,
     "name": "lunary输入验证错误漏洞",
     "cnvd": "CNVD-2025-12117",
     "publish": "2025-06-10",
