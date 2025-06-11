@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-11 09:04:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12122",
+    "spider_time": 1749632656039,
+    "name": "TOTOLINK A3002RU IP Port Filtering Page组件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12122",
+    "publish": "2025-06-11",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:P/A:N",
+    "product": "[\"TOTOLINK A3002RU 2.1.1-B20230720.1011\"]",
+    "cve": "CVE-2025-5508",
+    "description": "TOTOLINK A3002RU是中国吉翁电子（TOTOLINK）公司的一款无线路由器产品。TOTOLINK A3002RU存在跨站脚本漏洞，该漏洞源于IP Port Filtering Page组件参数Comment对用户提供的数据缺乏有效过滤与转义，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/fizz-is-on-the-way/Iot_vuls/tree/main/A3002RU_V2/XSS_IP_Port_Filtering",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://m.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-11",
+    "update_time": "2025-06-11",
+    "data_summary": "4166583c91af4e2bc067dddd4f934899"
+}

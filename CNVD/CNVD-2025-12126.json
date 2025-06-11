@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-11 09:04:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12126",
+    "spider_time": 1749632670233,
+    "name": "TOTOLINK X15命令注入漏洞",
+    "cnvd": "CNVD-2025-12126",
+    "publish": "2025-06-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK X15 1.0.0-B20230714.1105\"]",
+    "cve": "CVE-2025-5502",
+    "description": "TOTOLINK X15是中国吉翁电子（TOTOLINK）公司的一款网络无线扩展器。TOTOLINK X15存在命令注入漏洞，该漏洞源于参数deviceMacAddr未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Yhuanhuan01/TOTOlink/blob/main/TOTOlink-x15.md#poc1-code-injection",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://m.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-11",
+    "update_time": "2025-06-11",
+    "data_summary": "bc97bf8735dd9da99bbbec3067af99ea"
+}
