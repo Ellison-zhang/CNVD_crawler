@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-11 18:05:38",
+    "parse_time": "2025-06-11 19:03:50",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12094",
-    "spider_time": 1749665138417,
+    "spider_time": 1749668630808,
     "name": "TOTOLINK EX1800T setDmzCfg OS命令注入漏洞",
     "cnvd": "CNVD-2025-12094",
     "publish": "2025-06-10",
