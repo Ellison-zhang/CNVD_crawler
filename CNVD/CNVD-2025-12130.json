@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-11 10:04:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12130",
+    "spider_time": 1749636256076,
+    "name": "Pimcore跨站脚本漏洞（CNVD-2025-12130）",
+    "cnvd": "CNVD-2025-12130",
+    "publish": "2025-06-11",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:P/A:N",
+    "product": "[\"Pimcore Pimcore 11.4.2\"]",
+    "cve": "CVE-2024-11954",
+    "description": "Pimcore是奥地利Pimcore公司的一套开源的用于创建和管理Web应用程序的Web内容管理平台。该平台集成了Web内容管理、电子商务框架和产品信息管理等应用。Pimcore存在跨站脚本漏洞，该漏洞源于组件Search Document对用户提供的数据缺乏有效过滤与转义，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/pimcore/pimcore/security/advisories/GHSA-xr3m-6gq6-22cg",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://github.com/pimcore/pimcore/releases/tag/v11.5.3",
+    "patch": "Pimcore跨站脚本漏洞（CNVD-2025-12130）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-06-11",
+    "update_time": "2025-06-11",
+    "data_summary": "11025bfa92aae1f2bd6896e52dc35d16"
+}
