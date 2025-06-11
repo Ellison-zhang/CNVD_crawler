@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-11 04:21:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12120",
+    "spider_time": 1749615712260,
+    "name": "GNU GRUB2释放后重用漏洞",
+    "cnvd": "CNVD-2025-12120",
+    "publish": "2025-06-10",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"GNU GRUB2\"]",
+    "cve": "CVE-2024-2312",
+    "description": "GNU GRUB2是美国GNU社区的一款Linux系统引导程序。GNU GRUB2存在释放后重用漏洞，该漏洞源于程序负责释放内存的指令发生混乱。攻击者可利用该漏洞导致程序崩溃，任意代码执行等。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.autodesk.com/trust/security-advisories/adsk-sa-2024-0004",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://bugs.launchpad.net/ubuntu/+source/grub2-unsigned/+bug/2054127",
+    "patch": "GNU GRUB2释放后重用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-10",
+    "open_time": "2025-06-11",
+    "update_time": "2025-06-11",
+    "data_summary": "8132d7250b23217ea4304d760344b0df"
+}

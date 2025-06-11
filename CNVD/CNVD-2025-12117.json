@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-11 04:21:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12117",
+    "spider_time": 1749615700751,
+    "name": "lunary输入验证错误漏洞",
+    "cnvd": "CNVD-2025-12117",
+    "publish": "2025-06-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"lunary lunary\"]",
+    "cve": "CVE-2024-1739",
+    "description": "lunary是一个LLM的生产工具包。lunary存在输入验证错误漏洞，该漏洞源于在注册过程中电子邮件地址验证不当，攻击者可利用该漏洞通过改变电子邮件字符的大小写来创建具有相同电子邮件地址的多个帐户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-1739",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://github.com/lunary-ai/lunary/commit/7351157a21e5acd0162b4528bcae9d65b1c95695",
+    "patch": "lunary输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-07",
+    "open_time": "2025-06-11",
+    "update_time": "2025-06-11",
+    "data_summary": "b7d389786b3886210c4ce2064f0ed7d5"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-11 04:21:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12109",
+    "spider_time": 1749615670119,
+    "name": "lunary跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-12109",
+    "publish": "2025-06-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"lunary lunary\"]",
+    "cve": "CVE-2024-5328",
+    "description": "lunary是一个 LLM 的生产工具包。lunary存在跨站请求伪造漏洞，该漏洞源于用户提供的URL未能对其进行验证，攻击者可利用该漏洞导致敏感信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-5328",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://github.com/lunary-ai/lunary/releases/tag/v1.2.29",
+    "patch": "lunary跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-13",
+    "open_time": "2025-06-11",
+    "update_time": "2025-06-11",
+    "data_summary": "a9b0c5d5aa361b9210b54605d076b3d5"
+}

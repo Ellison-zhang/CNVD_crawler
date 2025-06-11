@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-11 04:20:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12091",
+    "spider_time": 1749615639472,
+    "name": "TOTOLINK A800R命令执行漏洞",
+    "cnvd": "CNVD-2025-12091",
+    "publish": "2025-06-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A800R <=4.1.2cu.5137_B20200730\"]",
+    "cve": "CVE-2025-28138",
+    "description": "TOTOLINK A800R是一款由TOTOLINK公司生产的无线路由器。TOTOLINK A800R存在命令执行漏洞。该漏洞源于setNoticeCfg函数通过NoticeUrl参数处理用户输入时存在缺陷，攻击者可利用该漏洞执行任意命令，从而控制受影响的设备。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://sudsy-eyeliner-a59.notion.site/RCE2-1ac72b8cd95f8055a76ee0ca262aac1a?pvs=4",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://m.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-03",
+    "open_time": "2025-06-11",
+    "update_time": "2025-06-11",
+    "data_summary": "adb45968741be71f85f32f5d0b6f5b40"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-11 04:20:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12090",
+    "spider_time": 1749615629415,
+    "name": "TOTOLINK A810R缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12090",
+    "publish": "2025-06-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"TOTOLINK A810R V4.1.2cu.5182_B20201026\"]",
+    "cve": "CVE-2025-28135",
+    "description": "TOTOLINK A810R是中国吉翁电子（TOTOLINK）公司的一款无线双频路由器。TOTOLINK A810R存在缓冲区溢出漏洞，该漏洞源于downloadFile.cgi未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://sudsy-eyeliner-a59.notion.site/BufferOverflow-V4-1-2cu-5182_B20201026-19872b8cd95f80808902fac8449fee64",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://m.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-03",
+    "open_time": "2025-06-11",
+    "update_time": "2025-06-11",
+    "data_summary": "18987cd1edb6cefd0066f462eb532635"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-11 04:15:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12087",
+    "spider_time": 1749615341384,
+    "name": "TOTOLINK A3000RU访问控制错误漏洞",
+    "cnvd": "CNVD-2025-12087",
+    "publish": "2025-06-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"TOTOLINK A3000RU <=5.9c.5185\"]",
+    "cve": "CVE-2025-2955",
+    "description": "TOTOLINK A3000RU是中国吉翁电子（TOTOLINK）公司的一款无线路由器。TOTOLINK A3000RU存在访问控制错误漏洞，该漏洞源于IBMS配置文件处理组件存在访问控制不当问题。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lavender-bicycle-a5a.notion.site/TOTOLINK-A3000RU-ExportIbmsConfig-1b953a41781f80b89397e8c34717eb94?pvs=4",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://m.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-03",
+    "open_time": "2025-06-11",
+    "update_time": "2025-06-11",
+    "data_summary": "da6ba6360b798393f73f3e8ade6b1264"
+}

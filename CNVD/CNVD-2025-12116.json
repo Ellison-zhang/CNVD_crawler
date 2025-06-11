@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-11 04:21:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12116",
+    "spider_time": 1749615695594,
+    "name": "lunary不安全的直接对象引用漏洞",
+    "cnvd": "CNVD-2025-12116",
+    "publish": "2025-06-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"lunary lunary 0.3.0\"]",
+    "cve": "CVE-2024-1626",
+    "description": "lunary是一个LLM的生产工具包。lunary存在不安全的直接对象引用漏洞，该漏洞源于端点不会验证提供的项目ID是否属于当前经过身份验证的用户，攻击者可利用该漏洞导致跨不同组织项目进行未经授权的修改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-1626",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://github.com/lunary-ai/lunary/commit/9eb9e526edff8bf82ae032f7a04867c8d58572bc",
+    "patch": "lunary不安全的直接对象引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-07",
+    "open_time": "2025-06-11",
+    "update_time": "2025-06-11",
+    "data_summary": "ddcb2f6351342f4a32e75ffe804f2c92"
+}

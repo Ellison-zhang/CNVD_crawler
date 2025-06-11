@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-11 04:20:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12092",
+    "spider_time": 1749615645315,
+    "name": "TOTOLINK EX1800T缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12092",
+    "publish": "2025-06-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK EX1800T 9.1.0cu.2112_B20220316\"]",
+    "cve": "CVE-2025-2097",
+    "description": "TOTOLINK EX1800T是中国吉翁电子（TOTOLINK）公司的一款Wi-Fi范围扩展器。TOTOLINK EX1800T存在缓冲区溢出漏洞，该漏洞源于参数loginpass未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/kn0sky/cve/blob/main/TOTOLINK%20EX1800T/Stack-based%20Buffer%20Overflow%2001%20setRptWizardCfg-_loginpass.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://m.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-06-11",
+    "update_time": "2025-06-11",
+    "data_summary": "bf375832e015909ba37ee4ea5ebe0dce"
+}
