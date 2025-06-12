@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-12 21:04:22",
+    "parse_time": "2025-06-12 22:04:15",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12184",
-    "spider_time": 1749762262395,
+    "spider_time": 1749765855841,
     "name": "TOTOLINK CP450 setIpPortFilterRules方法缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-12184",
     "publish": "2025-06-11",

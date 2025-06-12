@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-12 08:07:51",
+    "parse_time": "2025-06-12 22:04:35",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12095",
-    "spider_time": 1749715671296,
+    "spider_time": 1749765875521,
     "name": "TOTOLINK EX1800T setRebootScheCfg OS命令注入漏洞",
     "cnvd": "CNVD-2025-12095",
     "publish": "2025-06-10",
