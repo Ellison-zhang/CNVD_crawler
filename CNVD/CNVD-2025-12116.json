@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-12 03:25:48",
+    "parse_time": "2025-06-12 04:14:14",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12116",
-    "spider_time": 1749698748699,
+    "spider_time": 1749701654627,
     "name": "lunary不安全的直接对象引用漏洞",
     "cnvd": "CNVD-2025-12116",
     "publish": "2025-06-10",
