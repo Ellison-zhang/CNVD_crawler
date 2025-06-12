@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-12 09:08:20",
+    "parse_time": "2025-06-12 10:04:22",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12183",
-    "spider_time": 1749719300271,
+    "spider_time": 1749722662063,
     "name": "TOTOLINK CPE CP450 NTPSyncWithHost方法命令注入漏洞",
     "cnvd": "CNVD-2025-12183",
     "publish": "2025-06-11",

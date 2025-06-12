@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-12 09:08:02",
+    "parse_time": "2025-06-12 10:04:05",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12179",
-    "spider_time": 1749719282182,
+    "spider_time": 1749722645239,
     "name": "TOTOLINK CP450 CloudACMunualUpdate方法缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-12179",
     "publish": "2025-06-11",
