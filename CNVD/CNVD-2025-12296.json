@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-12 09:04:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12296",
+    "spider_time": 1749719083627,
+    "name": "IBM Security Guardium信息泄露漏洞（CNVD-2025-12296）",
+    "cnvd": "CNVD-2025-12296",
+    "publish": "2025-06-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"IBM IBM Security Guardium 12.1\", \"IBM IBM Security Guardium 12.0\"]",
+    "cve": "CVE-2025-25029",
+    "description": "IBM Security Guardium是美国国际商业机器（IBM）公司的一套提供数据保护功能的平台。该平台包括自定义UI、报告管理和流线化的审计流程构建等功能。IBM Security Guardium存在信息泄露漏洞，攻击者可利用该漏洞导致特权用户下载系统上的任何文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.ibm.com/support/pages/node/7234827",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7234827",
+    "patch": "IBM Security Guardium信息泄露漏洞（CNVD-2025-12296）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-12",
+    "update_time": "2025-06-12",
+    "data_summary": "e37e64f5eaaa8da0eaa77b25dbb5bec5"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-12 09:04:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12291",
+    "spider_time": 1749719074290,
+    "name": "IBM Db2堆栈缓冲溢出漏洞",
+    "cnvd": "CNVD-2025-12291",
+    "publish": "2025-06-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"(\\u6682\\u65e0)\"]",
+    "cve": "CVE-2024-49350",
+    "description": "IBM Db2是美国国际商业机器（IBM）公司的一套关系型数据库管理系统。该系统的执行环境主要有UNIX、Linux、IBMi、z/OS以及Windows服务器版本。IBM Db2存在堆栈缓冲溢出漏洞，攻击者可利用该漏洞导致服务器崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.ibm.com/support/pages/node/7235069",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7235069",
+    "patch": "IBM Db2堆栈缓冲溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-12",
+    "update_time": "2025-06-12",
+    "data_summary": "18954aecb323dbd904b7239678fdd660"
+}

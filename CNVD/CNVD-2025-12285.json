@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-12 09:04:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12285",
+    "spider_time": 1749719056703,
+    "name": "IBM Cloud Pak for Security/QRadar Suite会话固定漏洞",
+    "cnvd": "CNVD-2025-12285",
+    "publish": "2025-06-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:P/A:N",
+    "product": "[\"IBM IBM Cloud Pak for Security >=1.10.0.0\\uff0c<=1.10.11.0\", \"IBM IBM QRadar Suite >=1.10.12.0\\uff0c<=1.11.2.0\"]",
+    "cve": "CVE-2025-25019",
+    "description": "IBM Cloud Pak for Security是一款应用软件。一个开放的安全平台，可连接到您现有的数据源以产生更深刻的见解，并使您能够更快地采取自动化行动。IBM QRadar Suite是一款集成式的安全信息与事件管理（SIEM）解决方案，用于监控和分析组织中的网络活动以检测潜在的安全威胁。IBM Cloud Pak for Security 1.10.0.0至1.10.11.0版本和IBM QRadar Suite 1.10.12.0至1.11.2.0版本存在IBM漏洞，该漏洞源于注销后未使会话失效，攻击者可利用该漏洞导致用户冒充其他用户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.ibm.com/support/pages/node/7235432",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7235432",
+    "patch": "IBM Cloud Pak for Security/QRadar Suite会话固定漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-12",
+    "update_time": "2025-06-12",
+    "data_summary": "3eb0b819e9c9961a31d59f77e0c037a9"
+}
