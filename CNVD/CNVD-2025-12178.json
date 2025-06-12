@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-12 07:03:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12178",
+    "spider_time": 1749711818665,
+    "name": "TOTOLINK CP450 addWlProfileClientMode方法缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12178",
+    "publish": "2025-06-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:P",
+    "product": "[\"TOTOLINK CP450 4.1.0cu.747_B20191224\"]",
+    "cve": "CVE-2024-34217",
+    "description": "TOTOLINK CP450是中国吉翁电子（TOTOLINK）公司的一款无线网桥。TOTOLINK CP450存在缓冲区溢出漏洞，该漏洞源于addWlProfileClientMode方法未能正确验证输入数据的长度大小，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/n0wstr/IOTVuln/tree/main/CP450/addWlProfileClientMode",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "TOTOLINK CP450 addWlProfileClientMode方法缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-22",
+    "open_time": "2025-06-12",
+    "update_time": "2025-06-12",
+    "data_summary": "a576d0c0e10219f9fd855df2054398de"
+}

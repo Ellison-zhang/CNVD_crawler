@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-12 07:10:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12197",
+    "spider_time": 1749712219200,
+    "name": "新都（青岛）办公系统有限公司SINDOH CM2103存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-12197",
+    "publish": "2025-06-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u65b0\\u90fd\\uff08\\u9752\\u5c9b\\uff09\\u529e\\u516c\\u7cfb\\u7edf\\u6709\\u9650\\u516c\\u53f8 SINDOH CM2103\"]",
+    "cve": null,
+    "description": "新都（青岛）办公系统有限公司是一家集研究开发、生产销售和售后为一体的专业办公设备企业。新都（青岛）办公系统有限公司SINDOH CM2103存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.sindoh-solution.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-06-12",
+    "update_time": "2025-06-12",
+    "data_summary": "2f6a689c956de53cacb46a2aeb7ee2b9"
+}

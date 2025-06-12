@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-12 06:07:04",
+    "parse_time": "2025-06-12 07:09:56",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12118",
-    "spider_time": 1749708424200,
+    "spider_time": 1749712196608,
     "name": "GNU C Library缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-12118",
     "publish": "2025-06-10",

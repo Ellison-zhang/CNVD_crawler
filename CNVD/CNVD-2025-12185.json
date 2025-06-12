@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-12 07:04:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12185",
+    "spider_time": 1749711855928,
+    "name": "lunary信息泄露漏洞（CNVD-2025-12185）",
+    "cnvd": "CNVD-2025-12185",
+    "publish": "2025-06-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"lunary lunary 1.0.1\"]",
+    "cve": "CVE-2024-1740",
+    "description": "lunary是一个LLM的生产工具包。lunary存在信息泄露漏洞。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://huntr.com/bounties/c1a51f71-628e-4eb5-ac35-50bf64832cfdhttps://github.com/lunary-ai/lunary/commit/c57cd50fa0477fd2a2efe60810c0099eebd66f54https://cxsecurity.com/cveshow/CVE-2024-1740/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://github.com/lunary-ai/lunary/commit/c57cd50fa0477fd2a2efe60810c0099eebd66f54",
+    "patch": "lunary信息泄露漏洞（CNVD-2025-12185）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-22",
+    "open_time": "2025-06-12",
+    "update_time": "2025-06-12",
+    "data_summary": "c438bfa36d7b6a5e70d0d5b0e2e4d250"
+}
