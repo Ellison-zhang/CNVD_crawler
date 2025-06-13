@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 02:37:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12336",
+    "spider_time": 1749782262847,
+    "name": "Adobe Media Encoder堆缓冲区溢出漏洞（CNVD-2025-12336）",
+    "cnvd": "CNVD-2025-12336",
+    "publish": "2025-06-10",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Media Encoder <=24.6.4\", \"Adobe Media Encoder 25.1\"]",
+    "cve": "CVE-2025-27195",
+    "description": "Adobe Media Encoder是美国奥多比（Adobe）公司的一款音、视频编码应用程序。Adobe Media Encoder 25.1版本和24.6.4及之前版本存在安全漏洞，该漏洞源于堆缓冲区溢出漏洞，可能导致任意代码执行。攻击者可以利用该漏洞诱导受害者打开恶意文件，从而在当前用户的上下文中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-27195",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://helpx.adobe.com/security/products/media-encoder/apsb25-24.html",
+    "patch": "Adobe Media Encoder堆缓冲区溢出漏洞（CNVD-2025-12336）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-11",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "bf4e4632afb5cba7d94ea2e52d448e93"
+}

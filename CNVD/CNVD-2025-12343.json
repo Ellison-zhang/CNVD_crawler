@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 02:34:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12343",
+    "spider_time": 1749782051621,
+    "name": "Cisco Unified Communications命令注入漏洞",
+    "cnvd": "CNVD-2025-12343",
+    "publish": "2025-06-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:N",
+    "product": "[\"Cisco Unified Communications\"]",
+    "cve": "CVE-2025-20278",
+    "description": "Cisco Unified Communications是美国思科（Cisco）公司的一个企业呼叫控制和会话管理平台，可使用任何设备连接任何地方的人们。Cisco Unified Communications存在命令注入漏洞，该漏洞源于命令参数验证不足，攻击者可利用该漏洞导致执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20278",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vos-command-inject-65s2UCYy",
+    "patch": "Cisco Unified Communications命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "d1a4112b1d540fac59034a92e31f6570"
+}
