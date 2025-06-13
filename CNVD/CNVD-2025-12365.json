@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 04:09:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12365",
+    "spider_time": 1749787790507,
+    "name": "SonicWall SMA100路径遍历漏洞",
+    "cnvd": "CNVD-2025-12365",
+    "publish": "2025-06-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"SonicWall SMA100\"]",
+    "cve": "CVE-2025-32819",
+    "description": "SonicWall SMA100是美国SonicWall公司的一款安全访问网关设备。SonicWall SMA100存在路径遍历漏洞，攻击者可利用该漏洞删除任意文件，导致重启出厂设置。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0011",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0011",
+    "patch": "SonicWall SMA100路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-12",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "e533ee081572d25be5c09a0bfac144b8"
+}

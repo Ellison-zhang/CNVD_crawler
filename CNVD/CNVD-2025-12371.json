@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 04:09:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12371",
+    "spider_time": 1749787744476,
+    "name": "Delta Electronics ISPSoft越界写入漏洞",
+    "cnvd": "CNVD-2025-12371",
+    "publish": "2025-06-13",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Delta Electronics ISPSoft v3.20\"]",
+    "cve": "CVE-2025-4125",
+    "description": "Delta Electronics ISPSoft是中国台达电子（Delta Electronics）公司的一套PLC（可编程逻辑控制器）编程软件。Delta Electronics ISPSoft存在越界写入漏洞，攻击者可利用该漏洞在解析ISP文件时执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2025-00004_ISPSoft%20-%20Multiple%20Vulnerabilities_v2.pdf",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://downloadcenter.deltaww.com/en-US/DownloadCenter?v=1&q=ISPSoft%20&sort_expr=cdate&sort_dir=DESC",
+    "patch": "Delta Electronics ISPSoft越界写入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "dae22a11c3eb73a04ac8842b5e9c80c4"
+}

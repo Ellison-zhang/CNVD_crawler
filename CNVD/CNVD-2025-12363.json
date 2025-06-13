@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 04:09:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12363",
+    "spider_time": 1749787779350,
+    "name": "Delta Electronics CNCSoft越界写入漏洞（CNVD-2025-12363）",
+    "cnvd": "CNVD-2025-12363",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Delta Electronics CNCSoft <=v1.01.34\"]",
+    "cve": "CVE-2025-47724",
+    "description": "Delta Electronics CNCSoft是中国台达电子（Delta Electronics）公司的一款数控机床仿真系统软件。Delta Electronics CNCSoft存在越界写入漏洞，攻击者利用此漏洞可能导致在当前进程环境中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2025-00006_CNCSoft%20-%20Out-of-bounds%20Write.pdf",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2025-00006_CNCSoft%20-%20Out-of-bounds%20Write.pdf",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "cdc5a13e9319999bbed358a2fb1af21e"
+}
