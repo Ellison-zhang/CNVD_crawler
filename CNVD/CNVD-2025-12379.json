@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 06:05:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12379",
+    "spider_time": 1749794750647,
+    "name": "Google Chrome内存错误引用漏洞（CNVD-2025-12379）",
+    "cnvd": "CNVD-2025-12379",
+    "publish": "2025-06-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <137.0.7151.68\"]",
+    "cve": "CVE-2025-5068",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome存在内存错误引用漏洞，该漏洞是由于Blink中的免费使用引起的。攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5068",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.google.com/chrome/",
+    "patch": "Google Chrome内存错误引用漏洞（CNVD-2025-12379）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-06",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "b352a21b56aec0b422bf13580efa5c26"
+}

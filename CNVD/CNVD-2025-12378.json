@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 06:05:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12378",
+    "spider_time": 1749794717652,
+    "name": "Google Android权限提升漏洞（CNVD-2025-12378）",
+    "cnvd": "CNVD-2025-12378",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android 12.1\", \"Google Android 13.0\", \"Google Android 12.0\", \"Google Android 14.0\", \"Google Android 15.0\"]",
+    "cve": "CVE-2024-49724",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在权限提升漏洞，该漏洞是由于AccountManagerService.java中多个函数中的竞争条件缺陷，攻击者可利用该漏洞在系统上获得更高的权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-49724",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://source.android.com/docs/security/bulletin/2025-01-01",
+    "patch": "Google Android权限提升漏洞（CNVD-2025-12378）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-07",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "a4e0c6a475ba45706247a0f81cdf17da"
+}

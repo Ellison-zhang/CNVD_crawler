@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 06:05:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12381",
+    "spider_time": 1749794739186,
+    "name": "Google Chrome类型混淆漏洞（CNVD-2025-12381）",
+    "cnvd": "CNVD-2025-12381",
+    "publish": "2025-06-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <131.0.6778.264\"]",
+    "cve": "CVE-2025-0291",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome存在类型混淆漏洞，攻击者可利用该漏洞通过特制的HTML页面在沙盒内执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-0291",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://chromereleases.googleblog.com/2025/01/stable-channel-update-for-desktop.html",
+    "patch": "Google Chrome类型混淆漏洞（CNVD-2025-12381）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "786c86b96252d7dfd98e26ad77495d44"
+}

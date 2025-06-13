@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 06:05:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12383",
+    "spider_time": 1749794734186,
+    "name": "Google Chrome安全绕过漏洞（CNVD-2025-12383）",
+    "cnvd": "CNVD-2025-12383",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Google Android\", \"Google Chrome <134.0.6998.35\"]",
+    "cve": "CVE-2025-1922",
+    "description": "Google Chrome是一款由Google公司开发的WEB浏览器。Google Chrome存在安全绕过漏洞，该漏洞是由于选择中的实施不当造成的。攻击者可利用该漏洞绕过安全限制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1922",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",
+    "patch": "Google Chrome安全绕过漏洞（CNVD-2025-12383）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-10",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "01a438f872fd99441fe5d67678dceffc"
+}
