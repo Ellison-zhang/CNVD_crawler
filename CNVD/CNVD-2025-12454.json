@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 09:04:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12454",
+    "spider_time": 1749805464852,
+    "name": "WordPress Golo plugin权限提升漏洞",
+    "cnvd": "CNVD-2025-12454",
+    "publish": "2025-06-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Golo plugin <=1.7.0\"]",
+    "cve": "CVE-2025-4797",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Golo plugin存在权限提升漏洞，该漏洞源于未正确验证用户身份，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://themeforest.net/item/golo-directory-listing-travel-wordpress-theme/25397810",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/themes/",
+    "patch": "WordPress Golo plugin权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "a89f8ea7c0f51334622dca9d7e4b693a"
+}

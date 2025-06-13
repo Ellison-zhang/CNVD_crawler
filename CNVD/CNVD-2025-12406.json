@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 09:04:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12406",
+    "spider_time": 1749805469856,
+    "name": "Tenda AC10缓冲区溢出漏洞（CNVD-2025-12406）",
+    "cnvd": "CNVD-2025-12406",
+    "publish": "2025-06-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC10 <=15.03.06.47\"]",
+    "cve": "CVE-2025-5629",
+    "description": "Tenda AC10是中国腾达（Tenda）公司的一款无线路由器。Tenda AC10 15.03.06.47及之前版本存在缓冲区溢出漏洞，该漏洞源于组件HTTP Handler中函数formSetPPTPServer参数startIp和endIp未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5629",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/pfwqdxwdd/cve/blob/main/4.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "2c9f23c220d06285e3f103ec4f1c466d"
+}

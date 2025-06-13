@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 09:06:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12413",
+    "spider_time": 1749805609269,
+    "name": "Dell PowerScale OneFS信息泄露漏洞",
+    "cnvd": "CNVD-2025-12413",
+    "publish": "2025-06-13",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"DELL PowerScale OneFS >=9.4.0.0\\uff0c<=9.10.0.0\"]",
+    "cve": "CVE-2025-23378",
+    "description": "Dell PowerScale OneFS是美国戴尔（Dell）公司提供横向扩展NAS的操作系统。PowerScale OneFS中存在信息泄露漏洞。该漏洞源于目录列表信息泄露。攻击者可以利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dell.com/support/kbdoc/en-us/000300860/dsa-2025-119-security-update-for-dell-powerscale-onefs-for-multiple-security-vulnerabilities",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.dell.com/support/security/zh-cn/advisories",
+    "patch": "Dell PowerScale OneFS信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "bfcbb811d468f800031cc46daab070f2"
+}

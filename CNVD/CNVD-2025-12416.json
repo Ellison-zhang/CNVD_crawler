@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 09:04:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12416",
+    "spider_time": 1749805453365,
+    "name": "WordPress Broken Link Checker plugin未授权访问漏洞",
+    "cnvd": "CNVD-2025-12416",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"WordPress  Broken Link Checker Plugin <=2.4.4\"]",
+    "cve": "CVE-2025-4047",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Broken Link Checker plugin存在未授权访问漏洞，该漏洞源于缺少能力检查，攻击者可利用该漏洞导致未授权数据访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/broken-link-checker/tags/2.4.2/legacy/core/core.php#L3272",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/broken-link-checker/",
+    "patch": "WordPress Broken Link Checker plugin未授权访问漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "c03d54c4933e9936ab0d875bdbc0bcc7"
+}

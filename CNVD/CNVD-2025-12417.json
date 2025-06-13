@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 09:06:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12417",
+    "spider_time": 1749805617719,
+    "name": "D-Link DIR-605L缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12417",
+    "publish": "2025-06-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-605L 2.13B01\"]",
+    "cve": "CVE-2024-11959",
+    "description": "D-Link DIR-605L是一款D-Link公司生产的无线路由器，支持多种网络连接方式和安全设置。D-Link DIR-605L存在缓冲区溢出漏洞，该漏洞源于文件/goform/formResetStatistic参数curTime，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/offshore0315/loT-vulnerable/blob/main/D-Link/formResetStatistic.md\nhttps://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10393\nhttps://vuldb.com/?ctiid.286341\nhttps://vuldb.com/?id.286341\nhttps://vuldb.com/?submit.447484\nhttps://www.dlink.com/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10393",
+    "patch": "D-Link DIR-605L缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-29",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "c2a1ee9e2c7d2b28a9787614cbdba128"
+}
