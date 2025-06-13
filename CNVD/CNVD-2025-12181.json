@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-12 23:03:49",
+    "parse_time": "2025-06-13 00:15:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12181",
-    "spider_time": 1749769429800,
+    "spider_time": 1749773700149,
     "name": "TOTOLINK CP450 download_firmware方法命令注入漏洞",
     "cnvd": "CNVD-2025-12181",
     "publish": "2025-06-11",

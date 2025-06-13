@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-12 23:04:03",
+    "parse_time": "2025-06-13 00:15:11",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12178",
-    "spider_time": 1749769443271,
+    "spider_time": 1749773711812,
     "name": "TOTOLINK CP450 addWlProfileClientMode方法缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-12178",
     "publish": "2025-06-11",
