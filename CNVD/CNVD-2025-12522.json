@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 10:03:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12522",
+    "spider_time": 1749809033466,
+    "name": "WordPress Newsletter plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12522",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"WordPress Newsletter plugin <8.8.2\"]",
+    "cve": "CVE-2025-3584",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Newsletter plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wpscan.com/vulnerability/76937bdd-7ffa-4b5e-ade1-60da095a03a3/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/newsletter/",
+    "patch": "WordPress Newsletter plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "94f6321a6a9252250fa0874d49b1e972"
+}

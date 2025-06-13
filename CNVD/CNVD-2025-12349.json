@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-13 09:07:43",
+    "parse_time": "2025-06-13 10:04:49",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12349",
-    "spider_time": 1749805663641,
+    "spider_time": 1749809089709,
     "name": "D-Link DIR-823G SetNetworkTomographySettings函数命令注入漏洞",
     "cnvd": "CNVD-2025-12349",
     "publish": "2025-06-12",

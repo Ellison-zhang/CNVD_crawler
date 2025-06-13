@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-13 09:07:37",
+    "parse_time": "2025-06-13 10:04:46",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12471",
-    "spider_time": 1749805657887,
+    "spider_time": 1749809086174,
     "name": "D-Link DI-8003 upgrade_filter.asp文件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-12471",
     "publish": "2025-06-12",
