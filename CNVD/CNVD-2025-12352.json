@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 03:28:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12352",
+    "spider_time": 1749785306124,
+    "name": "D-Link DI_8200命令注入漏洞",
+    "cnvd": "CNVD-2025-12352",
+    "publish": "2025-06-12",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DI_8200 16.07.26A1\"]",
+    "cve": "CVE-2024-44413",
+    "description": "D-Link DI_8200是中国友讯（D-Link）公司的一款企业级路由器。D-Link DI_8200存在命令注入漏洞，该漏洞源于对文件upgrade_filter.asp中参数path的操作。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-44413/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-14",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "f396ebe4716fb6185b04a1270854d138"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 03:26:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12348",
+    "spider_time": 1749785195455,
+    "name": "D-Link DI-8100缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12348",
+    "publish": "2025-06-12",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"D-Link DI-8100 v16.07.26A1\"]",
+    "cve": "CVE-2024-52711",
+    "description": "D-Link DI-8100是中国友讯（D-Link）公司的一款专为中小型网络环境设计的无线宽带路由器。D-Link DI-8100存在缓冲区溢出漏洞，该漏洞源于ip_position_asp函数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/CLan-nad/CVE/blob/main/D-Link/ip_position_asp/1.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-21",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "88b2046206898bd17ffe4ebbcf615157"
+}

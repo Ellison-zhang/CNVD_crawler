@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-13 02:36:57",
+    "parse_time": "2025-06-13 03:29:39",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12093",
-    "spider_time": 1749782217915,
+    "spider_time": 1749785379327,
     "name": "TOTOLINK EX1800T setWiFiExtenderConfig OS命令注入漏洞",
     "cnvd": "CNVD-2025-12093",
     "publish": "2025-06-10",

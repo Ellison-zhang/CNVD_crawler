@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 03:28:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12354",
+    "spider_time": 1749785312273,
+    "name": "D-Link COVR-2600R缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12354",
+    "publish": "2025-06-12",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:N/I:C/A:N",
+    "product": "[\"D-Link COVR-2600R FW101b05\"]",
+    "cve": "CVE-2024-44674",
+    "description": "D-Link COVR-2600R是中国友讯（D-Link）公司的一款无线路由器。D-Link COVR-2600R存在缓冲区溢出漏洞，该漏洞源于应用在处理不受信任的输入时出现边界错误。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dlink.com/en/security-bulletin/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-13",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "acb0d6b3c9a12abc7cdcd10f8c53505d"
+}

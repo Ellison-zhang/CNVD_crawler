@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-13 02:36:28",
+    "parse_time": "2025-06-13 03:29:10",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12182",
-    "spider_time": 1749782188983,
+    "spider_time": 1749785350618,
     "name": "TOTOLINK CP450 getSaveConfig方法缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-12182",
     "publish": "2025-06-11",

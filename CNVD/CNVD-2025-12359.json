@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 03:26:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12359",
+    "spider_time": 1749785162502,
+    "name": "FreeFloat FTP Server 'HOST'远程缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12359",
+    "publish": "2025-06-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Freefloat Freefloat FTP Server 1.0\"]",
+    "cve": "CVE-2025-5593",
+    "description": "FreeFloat FTP Server是FreeFloat公司的一个FTP服务。FreeFloat FTP Server存在远程缓冲区溢出漏洞，该漏洞源于组件HOST Command Handler未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://fitoxs.com/exploit/exploit-9e0f802ba8eab46db6ff5f0c634f96412286b66b33c50a420dd57c1329e3a20d1.txt",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.linkedin.com/in/fernando-mengali-273504142/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "d776878cdc331c07e3247b8411acb120"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 03:26:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12350",
+    "spider_time": 1749785199551,
+    "name": "D-Link DSL6740C存在未明漏洞",
+    "cnvd": "CNVD-2025-12350",
+    "publish": "2025-06-12",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"D-Link DSL6740C v6.TR069.20211230\"]",
+    "cve": "CVE-2024-48272",
+    "description": "D-Link DSL6740C是一款D-link公司开发的无线路由器。D-Link DSL6740C存在安全漏洞，该漏洞源于使用不安全的默认wifi密码，攻击者可利用该漏洞未授权访问系统。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://gist.github.com/stevenyu113228/e264c145d6e6e6b59cf53fddc27409ad#2--predictable-wifi-password-in-d-link-dsl6740c-modem",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-04",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "e3ab2b77dc7f93af427c1448d1034f5e"
+}
