@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 08:05:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12402",
+    "spider_time": 1749801944477,
+    "name": "TOTOLINK X6000R存在未明漏洞",
+    "cnvd": "CNVD-2025-12402",
+    "publish": "2025-06-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK X6000R 9.4.0cu.1041_B20240224\"]",
+    "cve": "CVE-2024-52723",
+    "description": "TOTOLINK X6000R是中国吉翁电子（TOTOLINK）公司的一款无线路由器。TOTOLINK X6000R存在安全漏洞，该漏洞源于未对Uci_Set Str函数的参数进行严格过滤，攻击者可利用该漏洞通过构造payload执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://gist.github.com/M4rg4tr01d/e84f8ed8dc27960d7c56ad289f6fb0ff",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-25",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "5de5f6b43c0fe58f9a40d4358bc0d3d5"
+}

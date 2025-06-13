@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 08:05:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12389",
+    "spider_time": 1749801933968,
+    "name": "TOTOLINK X18命令注入漏洞",
+    "cnvd": "CNVD-2025-12389",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK X18 9.1.0cu.2024_B20220329\"]",
+    "cve": "CVE-2025-1829",
+    "description": "TOTOLINK X18是中国吉翁电子（TOTOLINK）公司的一款千兆路由器。TOTOLINK X18存在命令注入漏洞，该漏洞源于/cgi-bin/cstecgi.cgi文件的setMtknatCfg函数的mtkhnatEnable参数未对命令参数进行过滤。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.298096\nhttps://vuldb.com/?ctiid.298096\nhttps://vuldb.com/?submit.504983\nhttps://github.com/sjwszt/CVE/blob/main/CVE_2.md\nhttps://www.totolink.net/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "aa29c163b693c086741497281052d4d2"
+}

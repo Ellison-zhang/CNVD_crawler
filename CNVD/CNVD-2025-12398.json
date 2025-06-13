@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 08:06:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12398",
+    "spider_time": 1749801971472,
+    "name": "TOTOLINK X5000R setWiFiScheduleCfg函数的eMinute参数命令注入漏洞",
+    "cnvd": "CNVD-2025-12398",
+    "publish": "2025-06-13",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK X5000R V9.1.0cu.2350_B20230313\"]",
+    "cve": "CVE-2024-57024",
+    "description": "TOTOLINK X5000R是中国吉翁电子（TOTOLINK）公司的一个路由器。TOTOLINK X5000R存在命令注入漏洞，该漏洞源于setWiFiScheduleCfg中的“eMinute”参数未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-57024",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-17",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "23557e0a9ef3de4294941105201406bd"
+}

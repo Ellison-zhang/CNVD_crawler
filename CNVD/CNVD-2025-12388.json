@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 08:05:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12388",
+    "spider_time": 1749801958237,
+    "name": "TOTOLINK EX1200T命令执行漏洞",
+    "cnvd": "CNVD-2025-12388",
+    "publish": "2025-06-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK TOTOLINK EX1200T 4.1.2cu.5232_B20210713\"]",
+    "cve": "CVE-2025-28038",
+    "description": "TOTOLINK EX1200T是TOTOLINK公司的一款无线路由器，提供便捷的网络连接和管理功能。TOTOLINK EX1200T存在命令执行漏洞，该该漏洞源于setWebWlanIdx函数中webWlanIdx参数存在预认证远程命令执行，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://locrian-lightning-dc7.notion.site/RCE1-1ad8e5e2b1a28030a1c8febac89935a0",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "a2df14cdefe7e38b95c661a0f8baeb77"
+}

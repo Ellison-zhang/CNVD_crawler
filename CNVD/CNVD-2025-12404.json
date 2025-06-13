@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 08:05:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12404",
+    "spider_time": 1749801940259,
+    "name": "TOTOLINK LR350授权问题漏洞",
+    "cnvd": "CNVD-2025-12404",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"TOTOLINK LR350 <=9.3.5u.6369\"]",
+    "cve": "CVE-2024-10654",
+    "description": "TOTOLINK LR350是中国吉翁电子（TOTOLINK）公司的一款无线路由器。TOTOLINK LR350存在授权问题漏洞，该漏洞源于/formLoginAuth.htm的参数authCode的输入值为1时，会导致授权绕过。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/c0nyy/IoT_vuln/blob/main/TOTOLINK%20LR350%20Vuln.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-05",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "c859dae3fcb42390b0f2bb447dbbca72"
+}
