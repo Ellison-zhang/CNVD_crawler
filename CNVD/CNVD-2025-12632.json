@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 10:05:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12632",
+    "spider_time": 1750068327615,
+    "name": "Mattermost权限问题漏洞",
+    "cnvd": "CNVD-2025-12632",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"Mattermost Mattermost >=10.5.x\\uff0c<=10.5.2\", \"Mattermost Mattermost >=9.11.x\\uff0c<=9.11.11\"]",
+    "cve": "CVE-2025-2527",
+    "description": "Mattermost是美国Mattermost公司的一个开源协作平台。Mattermost存在权限问题漏洞，该漏洞源于权限验证不足，攻击者可利用该漏洞通过API请求查看群组信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://mattermost.com/security-updates",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/download/",
+    "patch": "Mattermost权限问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "59f7c9a73bdcbf479e600df2dd35ce69"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 10:05:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12628",
+    "spider_time": 1750068301436,
+    "name": "WordPress WP Info Card plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12628",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress WP Info Card plugin <=5.3.1\"]",
+    "cve": "CVE-2025-5116",
+    "description": "‌WordPress WP Info Card plugin是一个用于在WordPress网站中展示插件和主题信息的插件。WordPress WP Info Card plugin存在跨站脚本漏洞，该漏洞源于输入清理和输出转义不足，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/DLXPlugins/wp-plugin-info-card/blob/dev/php/Shortcodes.php#L893",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/wp-plugin-info-card/#developers",
+    "patch": "WordPress WP Info Card plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "c586df546f5071fd9b381ee9ddadfd71"
+}

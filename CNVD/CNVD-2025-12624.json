@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 10:04:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12624",
+    "spider_time": 1750068282955,
+    "name": "WordPress Recover Abandoned Cart for WooCommerce  SQL注入漏洞",
+    "cnvd": "CNVD-2025-12624",
+    "publish": "2025-06-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:P",
+    "product": "[\"WordPress Recover Abandoned Cart for WooCommerce <=2.5\"]",
+    "cve": "CVE-2025-47608",
+    "description": "WordPress Recover Abandoned Cart for WooCommerce是一个专门用于恢复WooCommerce中未完成的订单的插件。WordPress Recover Abandoned Cart for WooCommerce存在SQL注入漏洞。该漏洞源于特殊元素中和不当。攻击者可利用该漏洞执行恶意SQL查询，获取敏感信息，甚至控制受影响的网站。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/recover-wc-abandoned-cart/vulnerability/wordpress-recover-abandoned-cart-for-woocommerce-2-5-sql-injection-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/recover-wc-abandoned-cart/",
+    "patch": "WordPress Recover Abandoned Cart for WooCommerce  SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "24875085396fd01c1e3d474b8f4890b6"
+}

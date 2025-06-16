@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 10:05:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12630",
+    "spider_time": 1750068310898,
+    "name": "WordPress WP User Frontend Pro plugin路径遍历漏洞",
+    "cnvd": "CNVD-2025-12630",
+    "publish": "2025-06-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:C/A:C",
+    "product": "[\"WordPress WP User Frontend Pro plugin <=4.1.3\"]",
+    "cve": "CVE-2025-3055",
+    "description": "WordPress‌ WP User Frontend Pro plugin是一款WordPress前端用户中心插件，提供了强大的前端管理功能。WordPress‌ WP User Frontend Pro plugin存在路径遍历漏洞，该漏洞源于delete_avatar_ajax函数文件路径验证不足。攻击者可利用该漏洞导致任意文件删除。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://headwayapp.co/wp-user-frontend-changelog",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/wp-user-frontend/",
+    "patch": "WordPress WP User Frontend Pro plugin路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "9995059d1b62b8e083a2258f4877c8c2"
+}
