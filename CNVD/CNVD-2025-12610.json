@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 07:04:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12610",
+    "spider_time": 1750057491776,
+    "name": "WordPress WP YouTube Video Optimizer插件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12610",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress WP YouTube Video Optimizer <=1.2\"]",
+    "cve": "CVE-2025-4217",
+    "description": "WordPress WP YouTube Video Optimizer是一款用于优化WordPress网站上YouTube视频的插件。WordPress WP YouTube Video Optimizer存在跨站脚本漏洞。该漏洞源于ib_youtube短码对用户提供属性输入清理和转义不足。攻击者可利用该漏洞注入任意Web脚本，当用户访问被注入的页面时，这些脚本将被执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/wp-youtube-video-optimizer/trunk/wp-youtube-video-optimizer.php#L20\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/71a933ef-f49d-4520-90d5-9957f72d7452?source=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "cb77c05853a27d47a731fe331faf7d43"
+}

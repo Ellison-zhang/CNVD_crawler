@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 07:04:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12611",
+    "spider_time": 1750057495970,
+    "name": "WordPress Network Posts Extended跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12611",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Network Posts Extended <=7.7.1\"]",
+    "cve": "CVE-2025-3750",
+    "description": "WordPress Network Posts Extended是一款WordPress插件，用于增强WordPress网站上的文章发布和管理功能。WordPress Network Posts Extended存在跨站脚本漏洞。该漏洞源于post_height参数输入清理和转义不足。攻击者可利用该漏洞注入任意Web脚本，这些脚本会在用户访问被注入的页面时执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/network-posts-extended/trunk/network-posts-extended.php#L663\nhttps://wordpress.org/plugins/network-posts-extended/#developers\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/64a15397-0bd6-4be9-90e3-6cb1f56394ad?source=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "755a2d22450fcfc400f09df1166bdb2c"
+}
