@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 04:11:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12609",
+    "spider_time": 1750047072035,
+    "name": "Roundcube Webmail反序列化漏洞",
+    "cnvd": "CNVD-2025-12609",
+    "publish": "2025-06-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Roundcube webmail Roundcube Webmail <1.5.10\", \"Roundcube webmail Roundcube Webmail >=1.6.* \\uff0c<1.6.11\"]",
+    "cve": "CVE-2025-49113",
+    "description": "RoundCube Webmail是一款基于浏览器的开源多语言IMAP客户端，采用PHP+Ajax开发，提供类似桌面应用程序的操作界面和完整的邮件管理功能‌。Roundcube Webmail存在反序列化漏洞，该漏洞源于未对actions/settings/upload.php中的_from参数进行校验所致，攻击者可利用该漏洞导致PHP对象反序列化，进一步获取服务器权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2025/06/02/3",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://roundcube.net/news/2025/06/01/security-updates-1.6.11-and-1.5.10",
+    "patch": "Roundcube Webmail反序列化漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-06-06",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "5615e1f7f2f24fae2cfa57985d1b85f8"
+}
