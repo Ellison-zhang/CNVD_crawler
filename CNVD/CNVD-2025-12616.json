@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 09:05:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12616",
+    "spider_time": 1750064736225,
+    "name": "WordPress Abbie Expander plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12616",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"WordPress Abbie Expander plugin <=1.0.1\"]",
+    "cve": "CVE-2025-49427",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Abbie Expander plugin存在跨站脚本漏洞，该漏洞源于网页生成时输入处理不当，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/abbie-expander/vulnerability/wordpress-abbie-expander-1-0-1-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-10",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "37af54e3e87397ee04bf8b6b73fbce8a"
+}

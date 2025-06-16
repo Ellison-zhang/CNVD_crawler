@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 09:05:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12617",
+    "spider_time": 1750064739235,
+    "name": "WordPress Accessibility Suite plugin授权问题漏洞",
+    "cnvd": "CNVD-2025-12617",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:P",
+    "product": "[\"WordPress Accessibility Suite plugin <=4.19\"]",
+    "cve": "CVE-2025-30636",
+    "description": "WordPress Accessibility Suite plugin‌ 是一个专门用于提升网站无障碍性的插件。WordPress Accessibility Suite plugin存在授权问题漏洞，该漏洞源于授权缺失，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/online-accessibility/vulnerability/wordpress-accessibility-suite-4-19-broken-access-control-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-10",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "5ca08f9712d6cdaae0c01a3353640f7f"
+}

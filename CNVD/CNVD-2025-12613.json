@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 09:05:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12613",
+    "spider_time": 1750064722056,
+    "name": "WordPress Element Pack Pro plugin访问控制不当漏洞",
+    "cnvd": "CNVD-2025-12613",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Element Pack Pro plugin <8.0.0\"]",
+    "cve": "CVE-2025-46258",
+    "description": "WordPress Element Pack Pro plugin ‌是一个 WordPress编辑器插件的扩展插件，主要用于增强和扩展WordPress网站的功能和设计能力。WordPress Element Pack Pro plugin存在访问控制不当漏洞，该漏洞源于访问控制不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/bdthemes-element-pack/vulnerability/wordpress-element-pack-pro-plugin-7-18-12-broken-access-control-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "75618a1758dc7c2b93f11f4f00425ca0"
+}

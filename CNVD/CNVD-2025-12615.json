@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 09:05:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12615",
+    "spider_time": 1750064730897,
+    "name": "WordPress 6Storage Rentals plugin授权问题漏洞",
+    "cnvd": "CNVD-2025-12615",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"WordPress 6Storage Rentals plugin <=2.19.5\"]",
+    "cve": "CVE-2023-26002",
+    "description": "‌WordPress 6Storage Rentals plugin是一个易于使用的插件，允许租户在您的网站上预订所需的存储设施。‌WordPress 6Storage Rentals plugin存在授权问题漏洞，该漏洞源于缺少授权，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/6storage-rentals/vulnerability/wordpress-6storage-rentals-2-19-5-broken-access-control-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-10",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "cb6b7da24b235da268694b6ed4243ca6"
+}
