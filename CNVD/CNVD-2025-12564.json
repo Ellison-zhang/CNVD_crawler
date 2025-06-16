@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 02:36:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12564",
+    "spider_time": 1750041415102,
+    "name": "Cisco Nexus Dashboard Fabric Controller信任管理问题漏洞",
+    "cnvd": "CNVD-2025-12564",
+    "publish": "2025-06-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:N",
+    "product": "[\"Cisco nexus dashboard fabric controller 3.1\", \"Cisco nexus dashboard fabric controller 3.2\"]",
+    "cve": "CVE-2025-20163",
+    "description": "Cisco Nexus Dashboard Fabric Controller是美国思科（Cisco）公司的一种用于管理Cisco NX-OS部署的综合网络管理平台，适用于数据中心的LAN、SAN和IP Fabric for Media (IPFM) 网络。Cisco Nexus Dashboard Fabric Controller存在信任管理问题漏洞，该漏洞源于SSH主机密钥验证不足，攻击者可利用该漏洞导致中间人攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20163",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ndfc-shkv-snQJtjrp",
+    "patch": "Cisco Nexus Dashboard Fabric Controller信任管理问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "4e6aa702b083c11366681cfcbec6115c"
+}

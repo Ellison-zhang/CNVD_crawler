@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 02:36:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12562",
+    "spider_time": 1750041408921,
+    "name": "Dell PowerStore信任管理问题漏洞",
+    "cnvd": "CNVD-2025-12562",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"DELL Dell PowerStore 4.0.0.0\"]",
+    "cve": "CVE-2025-36572",
+    "description": "Dell PowerStore是美国戴尔（Dell）公司的一个可扩展全闪存阵列存储。Dell PowerStore 4.0.0.0版本存在信任管理问题漏洞，该漏洞源于使用硬编码凭据，攻击者可利用该漏洞导致未经授权的访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36572",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000325205/dsa-2025-223-dell-powerstore-t-security-update-for-multiple-vulnerabilities",
+    "patch": "Dell PowerStore信任管理问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "9c3a90597f9a1bcfd823de2840a04ad2"
+}

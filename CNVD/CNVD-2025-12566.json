@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 02:37:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12566",
+    "spider_time": 1750041465390,
+    "name": "Auto Taxi Stand Management System SQL注入漏洞",
+    "cnvd": "CNVD-2025-12566",
+    "publish": "2025-06-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Auto Taxi Stand Management System Auto Taxi Stand Management System 1.0\"]",
+    "cve": "CVE-2025-5663",
+    "description": "Auto Taxi Stand Management System是一个汽车出租车站管理系统。Auto Taxi Stand Management System存在SQL注入漏洞，该漏洞源于参数searchdata缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Pjwww13447/pjwww/issues/20",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "a75c2ba7ca0b45e363be4f11a2df36cd"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 02:36:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12565",
+    "spider_time": 1750041419257,
+    "name": "Cisco ThousandEyes Endpoint Agent路径遍历漏洞",
+    "cnvd": "CNVD-2025-12565",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Cisco ThousandEyes Endpoint Agent <2.3.3\"]",
+    "cve": "CVE-2025-20259",
+    "description": "Cisco ThousandEyes Endpoint Agent是美国思科（Cisco）公司的一个端点代理程序。Cisco ThousandEyes Endpoint Agent存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素，攻击者可利用该漏洞导致删除任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20259",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-te-endagent-filewrt-zNcDqNRJ",
+    "patch": "Cisco ThousandEyes Endpoint Agent路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "370725e2c6efe5b36a3e50c4936f09b3"
+}

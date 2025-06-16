@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-16 01:32:03",
+    "parse_time": "2025-06-16 02:37:23",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12411",
-    "spider_time": 1750037523419,
+    "spider_time": 1750041443965,
     "name": "Apache InLong反序列化漏洞（CNVD-2025-12411）",
     "cnvd": "CNVD-2025-12411",
     "publish": "2025-06-12",

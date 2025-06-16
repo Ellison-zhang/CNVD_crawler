@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 02:37:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12604",
+    "spider_time": 1750041435896,
+    "name": "Dell SmartFabric OS10授权问题漏洞",
+    "cnvd": "CNVD-2025-12604",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL SmartFabric OS10 10.5.6.*\", \"DELL SmartFabric OS10 10.5.4.*\", \"DELL SmartFabric OS10 10.5.5.*\", \"DELL SmartFabric OS10 10.6.0.*\"]",
+    "cve": "CVE-2024-49561",
+    "description": "Dell SmartFabric OS10是美国戴尔（Dell）公司的一套基于Linux的网络交换机操作系统。Dell SmartFabric OS10存在授权问题漏洞，该漏洞源于权限分配不当，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-49561",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000289970/dsa-2025-070-security-update-for-dell-networking-os10-vulnerabilities",
+    "patch": "Dell SmartFabric OS10授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-19",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "10118686bf62e1a3ab9eed04989877e1"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 02:37:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12605",
+    "spider_time": 1750041439105,
+    "name": "Dell Update Package Framework本地特权提升漏洞",
+    "cnvd": "CNVD-2025-12605",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL update package framework <22.01.02\"]",
+    "cve": "CVE-2025-22395",
+    "description": "Dell Update Package Framework是美国戴尔（Dell）公司的一款用于更新系统组件的框架。该产品主要提供驱动程序、应用程序、BIOS和固件的安装程序。Dell Update Package Framework存在本地特权提升漏洞，该漏洞源于本地特权升级，本地攻击者可利用该漏洞执行任意远程脚本，进而导致服务拒绝。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-22395",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000269079/dsa-2025-034-security-update-for-dell-update-package-dup-framework-vulnerability",
+    "patch": "Dell Update Package Framework本地特权提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "05d9d3568fcca7daf7bc54fc5eabcfb7"
+}

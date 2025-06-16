@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 02:37:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12599",
+    "spider_time": 1750041426040,
+    "name": "Dell Common Event Enabler未授权访问漏洞",
+    "cnvd": "CNVD-2025-12599",
+    "publish": "2025-06-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"DELL Dell Common Event Enabler 9.0.0.0\"]",
+    "cve": "CVE-2025-29986",
+    "description": "Dell Common Event Enabler是美国戴尔（Dell）公司的一个框架。Dell Common Event Enabler中存在未授权访问漏洞。该漏洞源于通信通道未正确限制目标端点，导致未授权访问。攻击者可利用该漏洞获得未授权访问权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-29986",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.dell.com/support/kbdoc/en-us/000303931/dsa-2025-158-security-update-for-dell-common-event-enabler-vulnerabilities",
+    "patch": "Dell Common Event Enabler未授权访问漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "29c39679bef7c0416447592cc9b550eb"
+}
