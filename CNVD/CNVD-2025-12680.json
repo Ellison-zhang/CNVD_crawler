@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 03:25:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12680",
+    "spider_time": 1750130745583,
+    "name": "Tenda CH22栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12680",
+    "publish": "2025-06-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda Tenda CH22 1.0.0.1\"]",
+    "cve": "CVE-2025-5619",
+    "description": "Tenda CH22是一款企业级无线路由器，适用于中小型企业或家庭办公环境。它支持单频2.4GHz无线网络，最高传输速率可达450Mbps。Tenda CH22存在栈缓冲区溢出漏洞。该漏洞源于文件/goform/addUserName中参数Password的错误操作。攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5619",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-06",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "a29e78e608fce409754f30db2d44791d"
+}
