@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-17 16:04:46",
+    "parse_time": "2025-06-17 17:04:32",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12689",
-    "spider_time": 1750176286819,
+    "spider_time": 1750179872893,
     "name": "Mattermost输入验证错误漏洞",
     "cnvd": "CNVD-2025-12689",
     "publish": "2025-06-16",
