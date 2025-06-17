@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 11:04:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12711",
+    "spider_time": 1750158244394,
+    "name": "TOTOLINK A720R exportOvpn操作系统命令注入漏洞",
+    "cnvd": "CNVD-2025-12711",
+    "publish": "2025-06-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK A720R 4.1.5\"]",
+    "cve": "CVE-2024-8869",
+    "description": "TOTOLINK A720R是一款无线路由器。TOTOLINK A720R存在操作系统命令注入漏洞。该漏洞源于函数exportOvpn，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.277506\nhttps://vuldb.com/?ctiid.277506\nhttps://vuldb.com/?submit.403211\nhttps://www.totolink.net/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-09-18",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "165b6f925131656098f5cb6fefca015f"
+}

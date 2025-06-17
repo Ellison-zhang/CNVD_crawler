@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 11:03:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12707",
+    "spider_time": 1750158225659,
+    "name": "WordPress WooCommerce跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12707",
+    "publish": "2025-06-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress WooCommerce <=9.4.2\"]",
+    "cve": "CVE-2025-5062",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress WooCommerce存在跨站脚本漏洞，该漏洞源于PostMessage数据输入清理和输出转义不足，攻击者可利用该漏洞注入任意Web脚本。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://developer.woocommerce.com/2024/12/03/woocommerce-9-4-3-and-woocommerce-9-3-4-available-now/\nhttps://github.com/woocommerce/woocommerce/blob/08dbc3b7dea140dd5dc19ee9c9ecd47dac0605b6/plugins/woocommerce/client/admin/client/customize-store/utils.js#L39C1-L56C2\nhttps://github.com/woocommerce/woocommerce/pull/53405/files\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/cc2ee5bb-eeb8-4134-8f3f-b411e56457f0?source=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/woocommerce/",
+    "patch": "WordPress WooCommerce跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "2c6babf72ec90d7064fec6aa2a9398c2"
+}

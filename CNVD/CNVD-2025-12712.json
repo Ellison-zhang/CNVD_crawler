@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 11:05:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12712",
+    "spider_time": 1750158321982,
+    "name": "TOTOLINK CP450 cstecgi.cgi文件loginauth函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12712",
+    "publish": "2025-06-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK CP450 4.1.0cu.747_B20191224\"]",
+    "cve": "CVE-2024-7465",
+    "description": "‌ TOTOLINK CP450是一款由中国吉翁电子（TOTOLINK）公司生产的无线网桥。TOTOLINK CP450存在缓冲区溢出漏洞，该漏洞源于文件/cgi-bin/cstecgi.cgi的loginauth函数对参数http_hos处理不当有关。 攻击者可利用该漏洞导致设备崩溃、执行任意代码、设备控制权获取，甚至可能进一步攻击设备所在的网络环境。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/TOTOLINK/CP450/loginauth.md\nhttps://vuldb.com/?submit.381340\nhttps://vuldb.com/?ctiid.273558",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-05",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "b1e06f64fc15442fbf5a4ce667464c9e"
+}

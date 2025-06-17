@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 11:03:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12704",
+    "spider_time": 1750158214829,
+    "name": "WordPress Affiliate Sales in Google Analytics and other tools输入验证错误漏洞",
+    "cnvd": "CNVD-2025-12704",
+    "publish": "2025-06-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress Affiliate Sales in Google Analytics and other tools <=1.4.9\"]",
+    "cve": "CVE-2024-12561",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Affiliate Sales in Google Analytics and other tools存在输入验证错误漏洞，该漏洞源于对afflink参数提供的重定向URL验证不足，攻击者可利用该漏洞将用户重定向到恶意网站。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/wecantrack/trunk/WecantrackApp.php#L66\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/a4b205ab-f042-46d9-a331-f18809477384?source=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "776ae99a78a07fde50f2516f387cebe7"
+}

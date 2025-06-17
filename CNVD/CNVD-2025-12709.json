@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 11:03:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12709",
+    "spider_time": 1750158236101,
+    "name": "WordPress File Provider plugin SQL注入漏洞",
+    "cnvd": "CNVD-2025-12709",
+    "publish": "2025-06-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress File Provider plugin <=1.2.3\"]",
+    "cve": "CVE-2025-4578",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress File Provider plugin存在SQL注入漏洞，该漏洞源于应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wpscan.com/vulnerability/3aa76b96-40b7-4bde-a39c-c1aa6f8278fc/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "a98f426629b576347031722c20583118"
+}

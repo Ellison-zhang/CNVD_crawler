@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 11:03:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12705",
+    "spider_time": 1750158218822,
+    "name": "WordPress Hot Random Image跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12705",
+    "publish": "2025-06-17",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Hot Random Image <=1.9.2\"]",
+    "cve": "CVE-2025-4405",
+    "description": "‌WordPress Hot Random Image是一个基本的插件，用于显示从指定文件夹中随机选取的图片。WordPress Hot Random Image存在跨站脚本漏洞，该漏洞源于link参数输入清理和转义不足，攻击者可利用该漏洞注入任意Web脚本。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/hot-random-image/tags/1.9.2/hot_random_image.php#L43\nhttps://plugins.trac.wordpress.org/changeset/3298033/\nhttps://wordpress.org/plugins/hot-random-image/#developers\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/c5cff14e-e891-4569-afd8-2885ebb26401?source=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/hot-random-image/",
+    "patch": "WordPress Hot Random Image跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "fd1e56de6ffe37dc7af92a91a69e4947"
+}
