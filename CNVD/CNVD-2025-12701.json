@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 10:04:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12701",
+    "spider_time": 1750154657849,
+    "name": "WordPress Glossary by WPPedia代码问题漏洞",
+    "cnvd": "CNVD-2025-12701",
+    "publish": "2025-06-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"WordPress Glossary by WPPedia <=1.3.0\"]",
+    "cve": "CVE-2025-4803",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Glossary by WPPedia存在代码问题漏洞，该漏洞源于posttypes参数反序列化不当，攻击者可利用该漏洞导致PHP对象注入。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/bfiessinger/wppedia/blob/1d0b8568349c9c9479372f845a812eb2aa4b3d09/core/classes/traits/trait-sanitizes-data.php#L64\nhttps://plugins.trac.wordpress.org/browser/wppedia/tags/1.3.0/core/classes/class-options.php#L396\nhttps://plugins.trac.wordpress.org/browser/wppedia/tags/1.3.0/core/classes/traits/trait-sanitizes-data.php#L64\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/53fb54bc-6eaa-4e99-a41c-e59a9bae81e5?source=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "df59070ab46e17137871fdb4d0ebe5e4"
+}

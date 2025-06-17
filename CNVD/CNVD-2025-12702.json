@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 10:04:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12702",
+    "spider_time": 1750154661330,
+    "name": "WordPress Animated Buttons跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12702",
+    "publish": "2025-06-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Animated Buttons <=1.0.0\"]",
+    "cve": "CVE-2025-4221",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Animated Buttons存在跨站脚本漏洞，该漏洞源于auto-downloader短码对用户提供属性输入清理和转义不足，攻击者可利用该漏洞注入任意Web脚本。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/animated-buttons/trunk/Animated_Buttons.php#L52\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/e778399f-f7fe-47c5-9722-b833d78f475c?source=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/animated-buttons/",
+    "patch": "WordPress Animated Buttons跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "f0dd6f298e846813e61762fc22593aa0"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 10:04:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12696",
+    "spider_time": 1750154684525,
+    "name": "Tenda 4G300缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12696",
+    "publish": "2025-06-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda 4G300 1.01.42\"]",
+    "cve": "CVE-2024-4170",
+    "description": "Tenda 4G300 是一款便携式无线路由器，主要面向需要移动上网场景的用户‌。Tenda 4G300存在缓冲区溢出漏洞，该漏洞源于对参数list1的错误操作，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-26",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "a10bbaeef06faf1c4b8f2c5887d893f9"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 10:04:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12694",
+    "spider_time": 1750154675382,
+    "name": "Tenda G3缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12694",
+    "publish": "2025-06-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda G3 15.11.0.17(9502)\"]",
+    "cve": "CVE-2024-4164",
+    "description": "Tenda G3是一款专为中小型企业、餐饮和连锁酒店设计的多WAN路由器。Tenda G3存在缓冲区溢出漏洞。该漏洞源于文件/goform/ModifyPppAuthWhiteMac的函数formModifyPppAuthWhiteMac的参数pppoeServerWhiteMacIndex。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-4164",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-26",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "a908beed2705d68eab2bf828ee867025"
+}
