@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 04:09:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12681",
+    "spider_time": 1750133358824,
+    "name": "Fortinet FortiClientWindows信息泄露漏洞",
+    "cnvd": "CNVD-2025-12681",
+    "publish": "2025-06-17",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:N/A:N",
+    "product": "[\"Fortinet FortiClientWindows >=7.2.0\\uff0c<=7.2.1\"]",
+    "cve": "CVE-2025-24473",
+    "description": "Fortinet FortiClientWindows是美国飞塔（Fortinet）公司的一套基于Windows平台的移动终端安全解决方案。该方案与FortiGate防火墙设备连接时可提供IPsec和SSL加密、广域网优化、终端合规和双因子认证等功能。Fortinet FortiClientWindows 7.2.0至7.2.1版本存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用该漏洞查看应用程序信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-24473",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-24-548",
+    "patch": "Fortinet FortiClientWindows信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "9c24327facc2418345165773b867cccd"
+}

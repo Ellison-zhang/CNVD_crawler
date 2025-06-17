@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 04:09:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12685",
+    "spider_time": 1750133386879,
+    "name": "SAP Data Services Management Console跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12685",
+    "publish": "2025-06-16",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:P/A:N",
+    "product": "[\"SAP Data Services Management Console\"]",
+    "cve": "CVE-2025-26662",
+    "description": "SAP Data Services Management Console是一款用于管理和监控数据服务的控制台。SAP Data Services Management Console存在跨站脚本漏洞，该漏洞源于系统未能充分编码用户控制的输入。攻击者可以利用该漏洞注入恶意脚本。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-26662",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttps://me.sap.com/notes/3558755",
+    "patch": "SAP Data Services Management Console跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-19",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "0107fba637e7aaba8af2aa1233242e72"
+}

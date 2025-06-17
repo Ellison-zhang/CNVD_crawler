@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 04:09:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12684",
+    "spider_time": 1750133382126,
+    "name": "IBM Security Qradar信息泄露漏洞",
+    "cnvd": "CNVD-2025-12684",
+    "publish": "2025-06-16",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"IBM IBM Security QRadar 3.12 EDR\"]",
+    "cve": "CVE-2024-45638",
+    "description": "IBM Security QRadar是美国国际商业机器（IBM）公司的一个现代化的威胁检测和响应解决方案。旨在统一整合安全分析师体验，提高他们在整个事件生命周期中的响应速度。IBM Security QRadar 3.12 EDR版本存在信息泄露漏洞，该漏洞源于以明文存储用户凭据，攻击者可利用该漏洞读取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-45638",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7185938",
+    "patch": "IBM Security Qradar信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "af6b8e68294f2eb41f72386780c04130"
+}

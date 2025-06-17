@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 04:09:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12686",
+    "spider_time": 1750133375064,
+    "name": "Fortinet FortiClient跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12686",
+    "publish": "2025-06-17",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:P/A:N",
+    "product": "[\"Fortinet FortiClient <7.4.1\"]",
+    "cve": "CVE-2025-22855",
+    "description": "Fortinet FortiClient是美国飞塔（Fortinet）公司的一套移动终端安全解决方案。该方案与FortiGate防火墙设备连接时可提供IPsec和SSL加密、广域网优化、终端合规和双因子认证等功能。Fortinet FortiClient存在跨站脚本漏洞，该漏洞源于网页生成时输入中和不当，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-22855",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-23-344",
+    "patch": "Fortinet FortiClient跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "d4e22cca083b03c006a8a63a7b0a13a7"
+}

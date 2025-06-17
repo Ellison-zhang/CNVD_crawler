@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 04:09:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12687",
+    "spider_time": 1750133366813,
+    "name": "Tenda FH451栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12687",
+    "publish": "2025-06-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda Tenda FH451 1.0.0.9\"]",
+    "cve": "CVE-2025-5080",
+    "description": "Tenda FH451是腾达公司推出的一款450Mbps家用无线路由器。Tenda FH451存在栈缓冲区溢出漏洞。该漏洞源于/goform/webExcptypemanFilter文件的webExcptypemanFilter函数中。攻击者可利用该漏洞执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5080",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-23",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "a7935898a63d8777a1c3bcf720f5e5d0"
+}
