@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 07:03:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12690",
+    "spider_time": 1750143839625,
+    "name": "Tenda AX1806 formSetIptv栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12690",
+    "publish": "2025-06-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda AX1806 v1.0.0.1\"]",
+    "cve": "CVE-2024-35580",
+    "description": "Tenda AX1806是一款家用无线路由器设备。Tenda AX1806存在栈缓冲区溢出漏洞，该漏洞源于通过函数formSetIptv中的adv.iptv.stbpvid参数，攻击者可利用该漏洞使应用程序崩溃或以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://detailed-stetson-767.notion.site/Tenda-AX1806-Buffer-Overflow-in-formSetIptv-cebf9202122a4582ae86c5253b3f6da3?pvs=4",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-28",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "4bd8353139d1b9032b3b7b061cb92138"
+}

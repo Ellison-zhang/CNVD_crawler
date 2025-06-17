@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 07:04:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12691",
+    "spider_time": 1750143845578,
+    "name": "Tenda AC18缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12691",
+    "publish": "2025-06-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:C",
+    "product": "[\"Tenda AC18 15.03.05.19\"]",
+    "cve": "CVE-2024-34974",
+    "description": "Tenda AC18是中国腾达（Tenda）公司的一款路由器。Tenda AC18存在缓冲区溢出漏洞，该漏洞源于formSetPPTPServer函数中endIp参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/hunzi0/Vullnfo/tree/main/Tenda/AC18/formSetPPTPServer",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-22",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "147f1534249acda686fb59ba62b31944"
+}
