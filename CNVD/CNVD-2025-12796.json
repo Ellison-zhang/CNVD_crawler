@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 08:06:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12796",
+    "spider_time": 1750233964537,
+    "name": "Fortinet FortiWeb跨站脚本漏洞（CNVD-2025-12796）",
+    "cnvd": "CNVD-2025-12796",
+    "publish": "2025-06-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:M/C:P/I:C/A:C",
+    "product": "[\"Fortinet FortiWeb 7.0.x\", \"Fortinet FortiWeb >=7.2.0\\uff0c<=7.2.10\", \"Fortinet FortiWeb >=7.4.0\\uff0c<=7.4.6\", \"Fortinet FortiWeb >=7.6.0\\uff0c<=7.6.2\"]",
+    "cve": "CVE-2024-46671",
+    "description": "Fortinet FortiWeb是美国飞塔（Fortinet）公司的一款Web应用层防火墙，它能够阻断如跨站点脚本、SQL注入、Cookie中毒、schema中毒等攻击的威胁，保证Web应用程序的安全性并保护敏感的数据库内容。Fortinet FortiWeb存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-46671",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-24-184",
+    "patch": "Fortinet FortiWeb跨站脚本漏洞（CNVD-2025-12796）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "6a5cb58f42d51e3ff3af23fe1c2a51de"
+}

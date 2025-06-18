@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 08:06:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12799",
+    "spider_time": 1750233981381,
+    "name": "Fortinet FortiNAC-F信任管理问题漏洞",
+    "cnvd": "CNVD-2025-12799",
+    "publish": "2025-06-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:P/A:N",
+    "product": "[\"Fortinet FortiNAC-F <=7.2.4\"]",
+    "cve": "CVE-2023-48785",
+    "description": "Fortinet FortiNAC-F是美国飞塔（Fortinet）公司的一套网络访问控制解决方案。该产品主要用于网络访问控制和物联网安全防护。Fortinet FortiNAC-F存在信任管理问题漏洞，该漏洞源于证书验证不当，远程攻击者可利用该漏洞在FortiOS设备、清单和FortiNAC-F之间的HTTPS通信通道上执行中间人攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-48785",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.fortiguard.com/psirt/FG-IR-23-288",
+    "patch": "Fortinet FortiNAC-F信任管理问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "c39bcd0844e259e1957fe6017af464d8"
+}

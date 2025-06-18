@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 08:04:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12759",
+    "spider_time": 1750233885379,
+    "name": "Mattermost访问控制错误漏洞",
+    "cnvd": "CNVD-2025-12759",
+    "publish": "2025-06-18",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"Mattermost Mattermost >=10.7.x\\uff0c<=10.7.0\", \"Mattermost Mattermost >=10.5.x\\uff0c<=10.5.3\", \"Mattermost Mattermost >=9.11.x\\uff0c<=9.11.12\"]",
+    "cve": "CVE-2025-3611",
+    "description": "Mattermost是美国Mattermost公司的一个开源协作平台。Mattermost存在访问控制错误漏洞，该漏洞源于访问控制限制不当，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://mattermost.com/security-updates",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/download/",
+    "patch": "Mattermost访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-06",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "951642805991fdff8b24b39500967dd2"
+}

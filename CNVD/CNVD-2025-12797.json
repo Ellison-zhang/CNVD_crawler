@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 08:06:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12797",
+    "spider_time": 1750233970361,
+    "name": "Fortinet FortiSOAR代码注入漏洞（CNVD-2025-12797）",
+    "cnvd": "CNVD-2025-12797",
+    "publish": "2025-06-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Fortinet FortiSOAR 7.2.*\", \"Fortinet FortiSOAR 7.0.*\", \"Fortinet FortiSOAR 6.4.*\", \"Fortinet FortiSOAR 7.3.*\", \"Fortinet FortiSOAR 7.4.*\"]",
+    "cve": "CVE-2024-21760",
+    "description": "Fortinet FortiSOAR是美国飞塔（Fortinet）公司的一种安全编排、自动化和响应(SOAR) 解决方案。Fortinet FortiSOAR存在代码注入漏洞，该漏洞源于代码生成控制不当，攻击者可利用该漏洞导致执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-21760",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-23-420",
+    "patch": "Fortinet FortiSOAR代码注入漏洞（CNVD-2025-12797）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "aa876fa9c6b8828d68c112429df0a7ef"
+}

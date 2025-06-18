@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 08:05:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12793",
+    "spider_time": 1750233952375,
+    "name": "Fortinet FortiAnalyzer输入验证错误漏洞（CNVD-2025-12793）",
+    "cnvd": "CNVD-2025-12793",
+    "publish": "2025-06-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Fortinet FortiAnalyzer >=7.6.0\\uff0c<=7.6.1\", \"Fortinet FortiManager >=7.6.0\\uff0c<=7.6.1\", \"Fortinet FortiManager >=7.4.0\\uff0c<=7.4.5\", \"Fortinet FortiAnalyzer >=7.0.0\\uff0c<=7.0.13\", \"Fortinet FortiManager >=7.0.0\\uff0c<=7.0.13\", \"Fortinet FortiAnalyzer >=7.4.0\\uff0c<=7.4.5\", \"Fortinet FortiAnalyzer >=7.2.0\\uff0c<=7.2.8\", \"Fortinet FortiManager >=7.2.0\\uff0c<=7.2.8\"]",
+    "cve": "CVE-2024-52962",
+    "description": "Fortinet FortiAnalyzer是美国飞塔（Fortinet）公司的一套集中式网络安全报告解决方案。该产品主要用于收集网络日志数据，并通过报告套件对日志中的安全事件、网络流量、Web内容等进行分析、报告、归档操作。Fortinet FortiAnalyzer存在输入验证错误漏洞，该漏洞源于日志输出中和不当，攻击者可利用该漏洞导致日志污染。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-52962",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-24-453",
+    "patch": "Fortinet FortiAnalyzer输入验证错误漏洞（CNVD-2025-12793）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "63714aac9ba1da2bd44ac9185e4c2e8d"
+}

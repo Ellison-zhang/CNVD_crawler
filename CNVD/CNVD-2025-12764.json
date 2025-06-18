@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 08:05:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12764",
+    "spider_time": 1750233935413,
+    "name": "SAMSUNG Cloud for Galaxy Watch存在未明漏洞",
+    "cnvd": "CNVD-2025-12764",
+    "publish": "2025-06-17",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:C/A:N",
+    "product": "[\"Samsung SAMSUNG Cloud for Galaxy Watch <SMR Jun-2025 Release 1\"]",
+    "cve": "CVE-2025-20984",
+    "description": "SAMSUNG Cloud for Galaxy Watch是韩国三星（SAMSUNG）公司的一款数据备份工具。SAMSUNG Cloud for Galaxy Watch存在安全漏洞，该漏洞源于默认权限不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://security.samsungmobile.com/securityUpdate.smsb?year=2025&month=06",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.samsung.com/us/support/owners/app/samsung-cloud",
+    "patch": "SAMSUNG Cloud for Galaxy Watch存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "7b42ce4d223e94e669113816d99df322"
+}

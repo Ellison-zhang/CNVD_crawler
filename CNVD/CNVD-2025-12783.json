@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 08:04:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12783",
+    "spider_time": 1750233893473,
+    "name": "Mattermost存在未明漏洞",
+    "cnvd": "CNVD-2025-12783",
+    "publish": "2025-06-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"Mattermost Mattermost >=10.5.x\\uff0c<=10.5.2\", \"Mattermost Mattermost >=9.11.x\\uff0c<=9.11.11\", \"Mattermost Mattermost >=10.6.x\\uff0c<=10.6.1\", \"Mattermost Mattermost >=10.4.x\\uff0c<=10.4.4\"]",
+    "cve": "CVE-2025-31947",
+    "description": "Mattermost是美国Mattermost公司的一个开源协作平台。Mattermost存在安全漏洞，该漏洞源于未能锁定LDAP用户，攻击者可利用该漏洞通过重复登录失败锁定外部LDAP账户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://mattermost.com/security-updates",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/download/",
+    "patch": "Mattermost存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "39e7a77cc515c277b708b3493876abb5"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 08:07:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12775",
+    "spider_time": 1750234027179,
+    "name": "Tenda FH1201缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12775",
+    "publish": "2025-06-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda FH1201 1.2.0.14 (408)\"]",
+    "cve": "CVE-2024-42954",
+    "description": "Tenda FH1201是中国腾达（Tenda）公司的一款无线路由器。Tenda FH1201存在缓冲区溢出漏洞。该漏洞源于fromwebExcptypemanFilter函数中的page参数，攻击者可利用该漏洞造成拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-42954",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tendacn.com/download/detail-3322.html",
+    "patch": "Tenda FH1201缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-16",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "22dea120d1e7ca62cf5d0e5caea5ba81"
+}

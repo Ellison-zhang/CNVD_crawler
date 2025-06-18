@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 08:07:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12790",
+    "spider_time": 1750234051378,
+    "name": "Fortinet FortiClientMAC授权问题漏洞（CNVD-2025-12790）",
+    "cnvd": "CNVD-2025-12790",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Fortinet FortiClientMAC >=7.4.0\\uff0c<=7.4.2\", \"Fortinet FortiClientMAC >=7.2.0\\uff0c<=7.2.8\", \"Fortinet FortiClientMAC 7.0.x\"]",
+    "cve": "CVE-2025-25251",
+    "description": "Fortinet FortiClientMAC是美国飞塔（Fortinet）公司的一款基于macOS平台的安全防护工具。Fortinet FortiClientMAC存在授权问题漏洞，该漏洞源于授权不当，攻击者可利用该漏洞导致通过特制XPC消息提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-25251",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-25-016",
+    "patch": "Fortinet FortiClientMAC授权问题漏洞（CNVD-2025-12790）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "9eff04584e004f383546f1e25d01dc6f"
+}
