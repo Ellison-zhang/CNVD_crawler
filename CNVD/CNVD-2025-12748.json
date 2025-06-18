@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 07:04:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12748",
+    "spider_time": 1750230296845,
+    "name": "TOTOLINK T10缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12748",
+    "publish": "2025-06-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK T10 4.1.8cu.5207\"]",
+    "cve": "CVE-2025-5902",
+    "description": "TOTOLINK T10是一款由TOTOLINK公司生产的无线路由器。TOTOLINK T10 4.1.8cu.5207版本中存在缓冲区溢出漏洞。此漏洞影响了POST请求处理组件中/cgi-bin/cstecgi.cgi文件的setUpgradeFW函数。远程攻击者可以利用该漏洞通过操控参数slaveIpList触发缓冲区溢出。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://candle-throne-f75.notion.site/TOTOLINK-T10-setUpgradeFW-20bdf0aa11858089bc28f634bb140d00\nhttps://vuldb.com/?ctiid.311675\nhttps://vuldb.com/?id.311675\nhttps://vuldb.com/?submit.592246\nhttps://www.totolink.net/",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://candle-throne-f75.notion.site/TOTOLINK-T10-setUpgradeFW-20bdf0aa11858089bc28f634bb140d00",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "1a4e21f1f2d7e19d3eff309b464edb38"
+}

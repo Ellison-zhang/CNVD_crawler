@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 07:04:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12742",
+    "spider_time": 1750230277914,
+    "name": "Tenda AC7缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12742",
+    "publish": "2025-06-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda Tenda AC7 15.03.06.44\"]",
+    "cve": "CVE-2025-5862",
+    "description": "Tenda AC7是一款专为大户型设计的高性能双频无线路由器，具有强大的信号覆盖能力和稳定的网络性能。Tenda AC7存在缓冲区溢出漏洞。该漏洞源于文件/goform/setPptpUserList中的formSetPPTPUserList函数。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5862",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "28504e8797027bee17f49045d3a1563e"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 07:05:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12752",
+    "spider_time": 1750230315555,
+    "name": "SAP Business Objects Business Intelligence Platform访问控制错误漏洞（CNVD-2025-12752）",
+    "cnvd": "CNVD-2025-12752",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:P/A:P",
+    "product": "[\"SAP Business Objects Business Intelligence Platform\"]",
+    "cve": "CVE-2025-43000",
+    "description": "SAP Business Objects Business Intelligence Platform是德国思爱普（SAP）公司的一套商业智能软件和企业绩效解决方案套件。该产品具有报告生成、分析和数据可视化等功能。SAP Business Objects Business Intelligence Platform存在访问控制错误漏洞，该漏洞源于访问控制不当，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://me.sap.com/notes/3586013",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2025.html",
+    "patch": "SAP Business Objects Business Intelligence Platform访问控制错误漏洞（CNVD-2025-12752）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "f9af7a3b50b2cddd64717f4ff1b9fa7e"
+}
