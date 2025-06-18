@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 09:04:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12802",
+    "spider_time": 1750237461729,
+    "name": "Mattermost存在未明漏洞",
+    "cnvd": "CNVD-2025-12802",
+    "publish": "2025-06-18",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:N/I:P/A:N",
+    "product": "[\"Mattermost Mattermost >=10.5.x\\uff0c<=10.5.1\", \"Mattermost Mattermost >=10.4.x\\uff0c<=10.4.3\", \"Mattermost Mattermost >=9.11.x\\uff0c<=9.11.9\"]",
+    "cve": "CVE-2025-24839",
+    "description": "Mattermost是美国Mattermost公司的一个开源协作平台。Mattermost存在安全漏洞，该漏洞源于Wrangler插件可绕过AI访问控制。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://mattermost.com/security-updates",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/download/",
+    "patch": "Mattermost存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-12",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "54069809ce3037749ffc6f38213a2512"
+}
