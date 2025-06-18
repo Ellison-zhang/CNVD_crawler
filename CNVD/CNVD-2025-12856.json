@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 11:03:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12856",
+    "spider_time": 1750244608050,
+    "name": "WordPress Abandoned Cart Pro for WooCommerce plugin文件上传漏洞",
+    "cnvd": "CNVD-2025-12856",
+    "publish": "2025-06-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress Abandoned Cart Pro for WooCommerce plugin <=9.16.0\"]",
+    "cve": "CVE-2025-4387",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Abandoned Cart Pro for WooCommerce plugin存在文件上传漏洞，该漏洞源于wcap_add_to_cart_popup_upload_files函数中缺少文件类型验证，攻击者可利用该漏洞上传任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.tychesoftwares.com/docs/docs/abandoned-cart-pro-for-woocommerce-new/changelog-abandoned-cart-pro/#changelog-abandon-cart-pro-for-woocommerce-9-17-0-release-date-m",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/axle-demo-importer/",
+    "patch": "WordPress Abandoned Cart Pro for WooCommerce plugin文件上传漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "a14deb955728fe0c67733c77faa1656e"
+}
