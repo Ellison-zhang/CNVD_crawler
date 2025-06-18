@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 10:04:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12813",
+    "spider_time": 1750241084314,
+    "name": "用友网络科技股份有限公司YonBIP任意文件读取漏洞",
+    "cnvd": "CNVD-2025-12813",
+    "publish": "2025-06-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u7528\\u53cb\\u7f51\\u7edc\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 YonBIP v3_23.05\"]",
+    "cve": "CVE-2023-51926",
+    "description": "用友网络科技股份有限公司YonBIP是用友研发的全新一代的产品，作为全球领先的企业数智化平台与应用软件。用友网络科技股份有限公司YonBIP存在任意文件读取漏洞，攻击者可利用该漏洞读取系统文件内容。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-51926",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://yonyou.com.mo/zh/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-01-30",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "f8bbe8f1ad23860c617f473499cfc90b"
+}
