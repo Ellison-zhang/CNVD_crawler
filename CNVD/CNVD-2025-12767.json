@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-18 19:04:40",
+    "parse_time": "2025-06-18 20:09:24",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12767",
-    "spider_time": 1750273480609,
+    "spider_time": 1750277364272,
     "name": "Samsung Notes二进制应用越界读取漏洞",
     "cnvd": "CNVD-2025-12767",
     "publish": "2025-06-17",
