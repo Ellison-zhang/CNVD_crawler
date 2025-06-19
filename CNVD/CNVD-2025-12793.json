@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-19 09:06:03",
+    "parse_time": "2025-06-19 10:04:25",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12793",
-    "spider_time": 1750323963391,
+    "spider_time": 1750327465115,
     "name": "Fortinet FortiAnalyzer输入验证错误漏洞（CNVD-2025-12793）",
     "cnvd": "CNVD-2025-12793",
     "publish": "2025-06-17",
