@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-19 09:04:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12884",
+    "spider_time": 1750323873327,
+    "name": "WordPress Elementor Website Builder Pro plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12884",
+    "publish": "2025-06-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Elementor Website Builder Pro plugin <=3.29.0\"]",
+    "cve": "CVE-2025-3076",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Elementor Website Builder Pro plugin存在跨站脚本漏洞，该漏洞源于对button_text参数输入清理和输出转义不足，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://elementor.com/pro/changelog/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/0c796ee7-5394-40f3-9158-1a006efbf085?source=cve",
+    "patch": "WordPress Elementor Website Builder Pro plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-19",
+    "update_time": "2025-06-19",
+    "data_summary": "7281664e7f1cc42f3fcd6adaae94c21e"
+}

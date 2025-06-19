@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-19 09:05:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12891",
+    "spider_time": 1750323904451,
+    "name": "TOTOLINK EX1200L缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12891",
+    "publish": "2025-06-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK ex1200l firmware 9.3.5u.6146_b20201023\", \"TOTOLINK EX1200L\"]",
+    "cve": "CVE-2024-7908",
+    "description": "TOTOLINK EX1200L是中国吉翁电子（TOTOLINK）公司的一款无线中继器。TOTOLINK EX1200L存在缓冲区溢出漏洞，该漏洞源于文件/www/cgi-bin/cstecgi.cgi的参数IpAddress会导致基于堆栈的缓冲区溢出。攻击者可利用该漏洞损坏内存并可能造成浏览器崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-7908",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-20",
+    "open_time": "2025-06-19",
+    "update_time": "2025-06-19",
+    "data_summary": "becbd2827139801d374ccd00aa123023"
+}

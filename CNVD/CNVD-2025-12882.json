@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-19 09:04:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12882",
+    "spider_time": 1750323864776,
+    "name": "WordPress CraftXtore plugin文件包含漏洞",
+    "cnvd": "CNVD-2025-12882",
+    "publish": "2025-06-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress CraftXtore plugin <=1.7\"]",
+    "cve": "CVE-2025-24770",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress CraftXtore plugin存在文件包含漏洞，该漏洞源于未对本地文件资源的调用做有效过滤，攻击者可利用该漏洞导致PHP本地文件包含。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/theme/bw-craftxtore/vulnerability/wordpress-craftxtore-1-7-local-file-inclusion-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-19",
+    "update_time": "2025-06-19",
+    "data_summary": "a006499abc10cb630905f74372f7412f"
+}
