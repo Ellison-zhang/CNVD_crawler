@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-19 00:16:51",
+    "parse_time": "2025-06-19 01:34:38",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12769",
-    "spider_time": 1750292211184,
+    "spider_time": 1750296878345,
     "name": "Samsung Notes SPen字符串越界读取漏洞",
     "cnvd": "CNVD-2025-12769",
     "publish": "2025-06-17",

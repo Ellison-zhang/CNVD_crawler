@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-19 00:15:36",
+    "parse_time": "2025-06-19 01:32:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12765",
-    "spider_time": 1750292136394,
+    "spider_time": 1750296720075,
     "name": "Tenda AC5 /goform/AdvSetLanip文件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-12765",
     "publish": "2025-06-17",
