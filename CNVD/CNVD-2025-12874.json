@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-19 07:05:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12874",
+    "spider_time": 1750316710473,
+    "name": "TOTOLINK T10缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12874",
+    "publish": "2025-06-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK TOTOLINK T10 4.1.8cu.5207\"]",
+    "cve": "CVE-2025-5903",
+    "description": "TOTOLINK T10是一款由TOTOLINK公司生产的双频Mesh组网路由器，适用于家庭和办公网络的全覆盖需求。TOTOLINK T10存在缓冲区溢出漏洞。该漏洞源于对文件/cgi-bin/cstecgi.cgi中参数desc的错误操作。攻击者可利用该漏洞导致访问敏感数据、修改数据、完全拒绝服务等。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5903",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-06-19",
+    "update_time": "2025-06-19",
+    "data_summary": "daa759d57cc0ede64dfd6fc861acc91e"
+}

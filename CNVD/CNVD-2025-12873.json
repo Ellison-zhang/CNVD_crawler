@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-19 07:05:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12873",
+    "spider_time": 1750316704527,
+    "name": "TOTOLINK EX1200T formReflashClientTbl缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12873",
+    "publish": "2025-06-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK EX1200T  4.1.2cu.5232_B20210713\"]",
+    "cve": "CVE-2025-5909",
+    "description": "TOTOLINK EX1200T是中国吉翁电子（TOTOLINK）公司的一款无线路由器。TOTOLINK EX1200T存在缓冲区溢出漏洞，该漏洞源于HTTP POST Request Handler组件中文件/boafrm/formReflashClientTbl，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/byxs0x0/cve2/blob/main/5.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-19",
+    "update_time": "2025-06-19",
+    "data_summary": "3d908f452ee158201e611a6dce5216f3"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-19 07:04:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12868",
+    "spider_time": 1750316694712,
+    "name": "WordPress CLEVER plugin路径遍历漏洞",
+    "cnvd": "CNVD-2025-12868",
+    "publish": "2025-06-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress CLEVER plugin <=2.6\"]",
+    "cve": "CVE-2025-31635",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress CLEVER plugin存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素。攻击者可利用该漏洞导致任意文件读取。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/lbg-audio11-html5-shoutcast_history/vulnerability/wordpress-clever-2-6-arbitrary-file-download-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-19",
+    "update_time": "2025-06-19",
+    "data_summary": "f881a1f872c763fd83525ea35b6a539c"
+}

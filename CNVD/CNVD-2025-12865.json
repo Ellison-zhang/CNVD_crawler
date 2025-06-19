@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-19 07:04:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12865",
+    "spider_time": 1750316679011,
+    "name": "WordPress Broadstreet plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12865",
+    "publish": "2025-06-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress Broadstreet plugin <1.51.8\"]",
+    "cve": "CVE-2025-4652",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Broadstreet plugin存在跨站脚本漏洞，该漏洞源于未清理和转义参数，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wpscan.com/vulnerability/2a18ab96-ba95-4599-824f-df12e4851e6d/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/broadstreet",
+    "patch": "WordPress Broadstreet plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-19",
+    "update_time": "2025-06-19",
+    "data_summary": "d26b8e6d2eb1deddd769fa125716ab81"
+}

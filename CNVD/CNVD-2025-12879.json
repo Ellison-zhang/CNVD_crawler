@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-19 07:05:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12879",
+    "spider_time": 1750316733716,
+    "name": "TOTOLINK AC1200缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12879",
+    "publish": "2025-06-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK AC1200 T8 4.1.5cu.861_B20230220\", \"TOTOLINK AC1200 T10 4.1.8cu.5207\"]",
+    "cve": "CVE-2024-8577",
+    "description": "TOTOLINK AC1200是中国吉翁电子（TOTOLINK）公司的一款双频Wi-Fi路由器。TOTOLINK AC1200存在缓冲区溢出漏洞，该漏洞源于/cgi-bin/cstecgi.cgi页面的setStaticDhcpRules方法中的desc参数包含一个缓冲区溢出漏洞。攻击者可利用该漏洞损坏内存并造成浏览器崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-8577",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-09-11",
+    "open_time": "2025-06-19",
+    "update_time": "2025-06-19",
+    "data_summary": "01dee90c82dec1749738eaf550f9d4c1"
+}
