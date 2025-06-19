@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-19 08:06:22",
+    "parse_time": "2025-06-19 11:04:32",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12780",
-    "spider_time": 1750320382735,
+    "spider_time": 1750331072629,
     "name": "Samsung Notes jpeg图像解析越界读取漏洞",
     "cnvd": "CNVD-2025-12780",
     "publish": "2025-06-17",

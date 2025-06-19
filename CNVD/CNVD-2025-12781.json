@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-19 08:06:25",
+    "parse_time": "2025-06-19 11:04:28",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12781",
-    "spider_time": 1750320385887,
+    "spider_time": 1750331068435,
     "name": "Samsung Notes wbmp图像解析功能越界读取漏洞",
     "cnvd": "CNVD-2025-12781",
     "publish": "2025-06-17",
