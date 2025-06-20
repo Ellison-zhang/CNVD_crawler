@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-20 22:03:49",
+    "parse_time": "2025-06-20 23:03:45",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12954",
-    "spider_time": 1750457029437,
+    "spider_time": 1750460625962,
     "name": "Fuji Electric V-SFT CGamenDataRom::set_mr400_strc函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-12954",
     "publish": "2025-06-19",
