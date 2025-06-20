@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-20 07:04:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13070",
+    "spider_time": 1750403057186,
+    "name": "D-Link DAP-1562空指针取消引用漏洞",
+    "cnvd": "CNVD-2025-13070",
+    "publish": "2025-06-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"D-Link D-Link DAP-1562 1.10\"]",
+    "cve": "CVE-2025-1877",
+    "description": "D-Link DAP-1562是中国友讯（D-Link）公司的一款无线网桥。D-Link DAP-1562存在空指针取消引用漏洞，该漏洞源于HTTP POST Request Handler的函数pure_auth_check对参数a1存在空指针取消引用，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?ctiid.298191",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "ba3f567850ae65f3ea3d076ed16ea5eb"
+}
