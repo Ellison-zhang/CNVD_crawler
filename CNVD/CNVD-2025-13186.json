@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-20 10:04:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13186",
+    "spider_time": 1750413849898,
+    "name": "WordPress Password Policy Manager plugin存在未明漏洞",
+    "cnvd": "CNVD-2025-13186",
+    "publish": "2025-06-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress Password Policy Manager plugin <=2.0.4\"]",
+    "cve": "CVE-2025-31019",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Password Policy Manager plugin存在安全漏洞，该漏洞源于容易受到身份验证绕过攻击，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/password-policy-manager/vulnerability/wordpress-password-policy-manager-plugin-2-0-4-account-takeover-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/password-policy-manager/",
+    "patch": "WordPress Password Policy Manager plugin存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "11ff7e8aebbc95f33d9578402e56325d"
+}

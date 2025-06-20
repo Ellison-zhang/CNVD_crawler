@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-20 10:04:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13158",
+    "spider_time": 1750413885717,
+    "name": "富士胶片（中国）投资有限公司Fujifilm Apeos C4571存在弱口令漏洞",
+    "cnvd": "CNVD-2025-13158",
+    "publish": "2025-06-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5bcc\\u58eb\\u80f6\\u7247\\uff08\\u4e2d\\u56fd\\uff09\\u6295\\u8d44\\u6709\\u9650\\u516c\\u53f8 Fujifilm Apeos C4571\"]",
+    "cve": null,
+    "description": "Fujifilm Apeos C4571是一款高速彩色多功能复合一体机。富士胶片（中国）投资有限公司Fujifilm Apeos C4571存在弱口令漏洞，攻击者可利用漏洞登录系统，获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "目前没有详细的解决方案提供：\nhttps://www.fujifilm.com.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-04",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "8c9915052b734ef9210c4ae4ff343831"
+}

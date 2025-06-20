@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-20 10:04:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13201",
+    "spider_time": 1750413854961,
+    "name": "WordPress PayU India plugin存在未明漏洞",
+    "cnvd": "CNVD-2025-13201",
+    "publish": "2025-06-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress PayU India plugin <=3.8.5\"]",
+    "cve": "CVE-2025-31022",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress PayU India plugin存在安全漏洞，该漏洞源于容易受到身份验证绕过攻击，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/payu-india/vulnerability/wordpress-payu-india-plugin-3-8-5-account-takeover-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/payu-india/",
+    "patch": "WordPress PayU India plugin存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "e53a9cc0a85ce7b1ef1e1730d331d380"
+}
