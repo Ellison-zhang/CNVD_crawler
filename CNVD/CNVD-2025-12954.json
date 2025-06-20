@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-20 03:25:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12954",
+    "spider_time": 1750389909845,
+    "name": "Fuji Electric V-SFT CGamenDataRom::set_mr400_strc函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12954",
+    "publish": "2025-06-19",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Fuji Electric Fuji Electric V-SFT <=v6.2.5.0\"]",
+    "cve": "CVE-2025-47756",
+    "description": "Fuji Electric V-SFT是日本富士电机（Fuji Electric）公司的一款屏幕配置软件。Fuji Electric V-SFT存在缓冲区溢出漏洞，该漏洞源于VS6EditData中CGamenDataRom::set_mr400_strc函数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://jvn.jp/en/vu/JVNVU97228144/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://monitouch.fujielectric.com/site/download-e/09vsft6_inf/Search.php",
+    "patch": "Fuji Electric V-SFT CGamenDataRom::set_mr400_strc函数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-22",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "92e9c7fb3ca154b58906f05ca9664190"
+}
