@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-06-20 20:04:25",
+    "parse_time": "2025-06-20 21:03:18",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13031",
-    "spider_time": 1750449865408,
+    "spider_time": 1750453398506,
     "name": "北京网动网络科技股份有限公司网动统一通信平台存在信息泄露漏洞",
     "cnvd": "CNVD-2025-13031",
-    "publish": "2025-06-12",
+    "publish": "2025-06-21",
     "severity": "中",
     "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
     "product": "[\"\\u5317\\u4eac\\u7f51\\u52a8\\u7f51\\u7edc\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u7f51\\u52a8\\u7edf\\u4e00\\u901a\\u4fe1\\u5e73\\u53f0\"]",
@@ -12,11 +12,11 @@
     "description": "北京网动网络科技股份有限公司为业内领先的“信创·数智”视讯产品及解决方案提供商。北京网动网络科技股份有限公司网动统一通信平台存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
     "flaw_type": "通用型漏洞",
     "reference": null,
-    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://iactive.com.cn/",
-    "patch": "(无补丁信息)",
+    "solution": "厂商已发布漏洞修复程序，请及时关注更新：\nhttps://iactive.com.cn/",
+    "patch": "北京网动网络科技股份有限公司网动统一通信平台存在信息泄露漏洞的补丁",
     "verify": "已验证",
     "submit_time": "2025-04-28",
     "open_time": "2025-06-20",
-    "update_time": "2025-06-20",
-    "data_summary": "59b9d18677d571c46b60fa2a973377f8"
+    "update_time": "2025-06-21",
+    "data_summary": "b80b3d9ad5d70fb2ad3864a942cbbd57"
 }
