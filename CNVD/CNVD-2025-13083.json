@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-20 08:05:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13083",
+    "spider_time": 1750406709792,
+    "name": "Dell ThinOS授权问题漏洞",
+    "cnvd": "CNVD-2025-13083",
+    "publish": "2025-06-20",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL Dell ThinOS <=2408\"]",
+    "cve": "CVE-2025-27688",
+    "description": "Dell ThinOS是美国戴尔（Dell）公司的一个客户端操作系统。Dell ThinOS 2408及之前版本存在授权问题漏洞，该漏洞源于权限设置不当，本地低权限攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-27688",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000289886/dsa-2025-107",
+    "patch": "Dell ThinOS授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "1a795829ef98e889257b0c6ecf9c74ab"
+}

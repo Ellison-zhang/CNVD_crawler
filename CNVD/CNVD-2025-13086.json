@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-20 08:05:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13086",
+    "spider_time": 1750406752923,
+    "name": "Dell BSAFE信任管理问题漏洞",
+    "cnvd": "CNVD-2025-13086",
+    "publish": "2025-06-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:N/A:N",
+    "product": "[\"DELL Dell BSAFE <6.6\"]",
+    "cve": "CVE-2024-29171",
+    "description": "Dell BSAFE是美国戴尔（Dell）公司的一款安全软件产品，它支持加密算法、证书链验证和传输层安全性（TLS）加密套件等，以帮助用户实现其应用程序的各种安全目标。Dell BSAFE SSL-J 6.6之前版本存在信任管理问题漏洞，该漏洞源于存在证书验证不当，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dell.com/support/kbdoc/en-us/000226620/dsa-2024-221-security-update-for-dell-bsafe-ssl-j-multiple-vulnerabilities",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000226622/dell-bsafe-ssl-j-6-6-release-advisory",
+    "patch": "Dell BSAFE信任管理问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "f9f29e2b5441fa474fa116d69b5ef5cd"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-20 08:05:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13081",
+    "spider_time": 1750406700426,
+    "name": "Dell Wyse Management Suite WMS路径遍历漏洞",
+    "cnvd": "CNVD-2025-13081",
+    "publish": "2025-06-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:P/A:N",
+    "product": "[\"DELL Wyse Management Suite WMS <5.2\"]",
+    "cve": "CVE-2025-36574",
+    "description": "Dell Wyse Management Suite WMS是美国戴尔（Dell）公司的一个云端与本地管理平台。用于集中管理Wyse轻量级终端设备，支持远程配置、固件更新、安全策略管理等功能。Dell Wyse Management Suite WMS 5.2之前版本存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素，攻击者可利用该漏洞导致信息泄露和未授权访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dell.com/support/kbdoc/en-us/000325679/dsa-2025-226",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=xw9mt&oscode=naa&productcode=wyse-wms",
+    "patch": "Dell Wyse Management Suite WMS路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "5ff55c2995f0518904a5aec866dc5ed8"
+}

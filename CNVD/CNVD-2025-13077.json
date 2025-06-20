@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-20 08:05:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13077",
+    "spider_time": 1750406748009,
+    "name": "D-Link DIR-823X空指针取消引用漏洞",
+    "cnvd": "CNVD-2025-13077",
+    "publish": "2025-06-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"D-Link DIR-823X 240126\", \"D-Link DIR-823X 240802\"]",
+    "cve": "CVE-2025-1103",
+    "description": "D-Link DIR-823X是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-823X存在空指针取消引用漏洞，该漏洞源于组件HTTP POST请求处理程序的文件/goform/set_wifi_blacklists的set_wifi_blacklists函数中的参数macList会导致空指针取消引用。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://tasty-foxtrot-3a8.notion.site/D-link-DIR-823X-set_wifi_blacklists-Vulnerability-1870448e619580e5bf09cf628692f7a9",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "0b0ad6712486cded76ee89df7385ad58"
+}
