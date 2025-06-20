@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-20 09:04:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13126",
+    "spider_time": 1750410283970,
+    "name": "WordPress inprosysmedia-likes-dislikes-post plugin SQL注入漏洞",
+    "cnvd": "CNVD-2025-13126",
+    "publish": "2025-06-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress inprosysmedia-likes-dislikes-post plugin <=1.0.0\"]",
+    "cve": "CVE-2025-4840",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress inprosysmedia-likes-dislikes-post plugin存在SQL注入漏洞，该漏洞源于应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wpscan.com/vulnerability/85dc579d-edc4-421e-9bb1-09629dec527b/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "87ac23c8a70ea1f025ef98f72ea8d24d"
+}
