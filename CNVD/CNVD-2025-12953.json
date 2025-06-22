@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-22 20:03:41",
+    "parse_time": "2025-06-22 21:03:25",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12953",
-    "spider_time": 1750622621957,
+    "spider_time": 1750626205791,
     "name": "Fuji Electric V-SFT CDrawSLine::GetRectArea函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-12953",
     "publish": "2025-06-19",
