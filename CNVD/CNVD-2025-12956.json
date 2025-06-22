@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-22 11:03:31",
+    "parse_time": "2025-06-22 12:05:37",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12956",
-    "spider_time": 1750590211019,
+    "spider_time": 1750593937671,
     "name": "Fuji Electric V-SFT CTxSubFile::get_ProgramFile_name函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-12956",
     "publish": "2025-06-19",
