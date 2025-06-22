@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-22 08:04:20",
+    "parse_time": "2025-06-22 09:03:37",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12952",
-    "spider_time": 1750579460638,
+    "spider_time": 1750583017625,
     "name": "Fuji Electric V-SFT CDataRomErrorCheck::MacroCommandCheck函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-12952",
     "publish": "2025-06-19",
