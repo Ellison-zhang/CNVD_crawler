@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-23 07:04:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13264",
+    "spider_time": 1750662289679,
+    "name": "NETGEAR R6850 c4-IPAddr参数命令注入漏洞",
+    "cnvd": "CNVD-2025-13264",
+    "publish": "2025-06-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR Netgear R6850 v1.1.0.88\"]",
+    "cve": "CVE-2024-30568",
+    "description": "NETGEAR R6850是美国网件（NETGEAR）公司的一款无线路由器。NETGEAR R6850存在命令注入漏洞，该漏洞源于c4-IPAddr参数未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.netgear.com/about/security/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-10",
+    "open_time": "2025-06-23",
+    "update_time": "2025-06-23",
+    "data_summary": "13766c7c89ffd7c0b5b66e55ea5ecef8"
+}
