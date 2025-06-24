@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 02:36:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13324",
+    "spider_time": 1750732566131,
+    "name": "Adobe InCopy堆缓冲区溢出漏洞（CNVD-2025-13324）",
+    "cnvd": "CNVD-2025-13324",
+    "publish": "2025-06-24",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Adobe InCopy <=20.2\", \"Adobe Adobe InCopy <=19.5.3\"]",
+    "cve": "CVE-2025-47107",
+    "description": "Adobe InCopy是美国奥多比（Adobe）公司的一款用于创作的文本编辑软件。Adobe InCopy存在堆缓冲区溢出漏洞，攻击者可利用该漏洞在系统上执行任意代码或导致应用程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/incopy/apsb25-41.html",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://helpx.adobe.com/security/products/incopy/apsb25-41.html",
+    "patch": "Adobe InCopy堆缓冲区溢出漏洞（CNVD-2025-13324）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-24",
+    "update_time": "2025-06-24",
+    "data_summary": "96d4f48263c0d13af984e0d2f9fc3a0d"
+}

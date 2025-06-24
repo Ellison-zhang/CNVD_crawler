@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 02:35:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13314",
+    "spider_time": 1750732512063,
+    "name": "Adobe Acrobat Reader越界写入漏洞（CNVD-2025-13314）",
+    "cnvd": "CNVD-2025-13314",
+    "publish": "2025-06-24",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Acrobat 2024 <=24.001.30235\", \"Adobe Acrobat 2020 <=20.005.30763\", \"Adobe Acrobat Reader 2020 <=20.005.30763\", \"Adobe Acrobat DC <=25.001.20521\", \"Adobe Acrobat Reader DC <=25.001.20521\"]",
+    "cve": "CVE-2025-43575",
+    "description": "Adobe Acrobat Reader是美国奥多比（Adobe）公司的一款PDF查看器。该软件用于打印，签名和注释PDF。Adobe Acrobat Reader存在越界写入漏洞，攻击者可利用该漏洞在系统上执行代码，或导致应用程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/acrobat/apsb25-57.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/acrobat/apsb25-57.html",
+    "patch": "Adobe Acrobat Reader越界写入漏洞（CNVD-2025-13314）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-24",
+    "update_time": "2025-06-24",
+    "data_summary": "c8fceb40933913a99b6d29f092376007"
+}
