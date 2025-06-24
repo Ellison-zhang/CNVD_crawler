@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 20:04:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-16561",
+    "spider_time": 1750795447496,
+    "name": "湖南强智科技发展有限公司教务管理系统存在文件上传漏洞",
+    "cnvd": "CNVD-2024-16561",
+    "publish": "2025-06-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u6e56\\u5357\\u5f3a\\u667a\\u79d1\\u6280\\u53d1\\u5c55\\u6709\\u9650\\u516c\\u53f8 \\u6559\\u52a1\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "湖南强智科技发展有限公司是国内高校信息化服务提供商、国家高新技术企业。湖南强智科技发展有限公司教务管理系统存在文件上传漏洞，攻击者可利用该漏洞获取服务器控制权。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布解决方案，建议及时关注更新：\nhttp://www.qzdatasoft.com/",
+    "patch": "湖南强智科技发展有限公司教务管理系统存在文件上传漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2024-02-29",
+    "open_time": "2024-04-03",
+    "update_time": "2025-06-25",
+    "data_summary": "dd793a7da6bed12c9ded0243718e447b"
+}
