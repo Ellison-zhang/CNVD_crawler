@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 07:04:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2023-24699",
+    "spider_time": 1750748665482,
+    "name": "湖南强智科技发展有限公司教务管理系统存在未授权访问漏洞",
+    "cnvd": "CNVD-2023-24699",
+    "publish": "2025-06-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6e56\\u5357\\u5f3a\\u667a\\u79d1\\u6280\\u53d1\\u5c55\\u6709\\u9650\\u516c\\u53f8 \\u6559\\u52a1\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "湖南强智科技发展有限公司是一家教育信息化服务提供商。湖南强智科技发展有限公司教务管理系统存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "对所有管理端的文件：authorurl.xml 进行处理。\n文件路径：WebRoot\\WEB-INF\\frameConf\\authorurl.xm\nhttp://www.qzdatasoft.com",
+    "patch": "修复未授权访问漏洞",
+    "verify": "已验证",
+    "submit_time": "2023-02-26",
+    "open_time": "2023-04-07",
+    "update_time": "2025-06-24",
+    "data_summary": "85fff5ddac16e09f888b9f23d653217c"
+}
