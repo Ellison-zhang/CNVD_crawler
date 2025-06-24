@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 10:05:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13350",
+    "spider_time": 1750759547346,
+    "name": "NETGEAR Orbi Satellite RBS750 ubus后端通信功能命令执行漏洞",
+    "cnvd": "CNVD-2025-13350",
+    "publish": "2025-06-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"NETGEAR Orbi Satellite RBS750 4.6.8.5\"]",
+    "cve": "CVE-2022-36429",
+    "description": "NETGEAR Orbi Satellite RBS750是美国网件（NETGEAR）公司的一个专业级三频卫星路由器。NETGEAR Orbi Satellite RBS750存在命令执行漏洞，该漏洞源于在ubus后端通信功能中未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://talosintelligence.com/vulnerability_reports/TALOS-2022-1597",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/support/product/RBS750",
+    "patch": "NETGEAR Orbi Satellite RBS750 ubus后端通信功能命令执行漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2023-03-23",
+    "open_time": "2025-06-24",
+    "update_time": "2025-06-24",
+    "data_summary": "58eb7da90caeac35a13c9900b4cae4a1"
+}

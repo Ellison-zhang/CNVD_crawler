@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 10:05:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13356",
+    "spider_time": 1750759509464,
+    "name": "Huawei HarmonyOS条件竞争漏洞",
+    "cnvd": "CNVD-2025-13356",
+    "publish": "2025-06-23",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Huawei HarmonyOS 5.0.0\"]",
+    "cve": "CVE-2024-51515",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS存在条件竞争漏洞，该漏洞源于内核网络模块存在条件竞争。攻击者可利用该漏洞导致可用性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-51515",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://consumer.huawei.com/en/support/bulletin/2024/11/",
+    "patch": "Huawei HarmonyOS条件竞争漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-07",
+    "open_time": "2025-06-24",
+    "update_time": "2025-06-24",
+    "data_summary": "c7a55c1459174e84c0ef9c346a181d04"
+}

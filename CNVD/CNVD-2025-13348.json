@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 10:05:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13348",
+    "spider_time": 1750759538043,
+    "name": "NETGEAR R6400v2代码执行漏洞",
+    "cnvd": "CNVD-2025-13348",
+    "publish": "2025-06-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR R6400v2 <1.0.4.118\"]",
+    "cve": "CVE-2023-36187",
+    "description": "NETGEAR R6400v2是美国网件（NETGEAR）公司的一款路由器。连接两个或多个网络的硬件设备，在网络间起网关的作用。NETGEAR R6400v2存在代码执行漏洞，该漏洞源于程序未能正确过滤构造代码段的特殊元素。攻击者可利用该漏洞通过精心设计的httpd URL执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-36187",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://kb.netgear.com/000065571/Security-Advisory-for-Pre-Authentication-Buffer-Overflow-on-Some-Routers-PSV-2020-0578",
+    "patch": "NETGEAR R6400v2代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-09-05",
+    "open_time": "2025-06-24",
+    "update_time": "2025-06-24",
+    "data_summary": "2b96b3aaf5af106df9343b90fa04262a"
+}

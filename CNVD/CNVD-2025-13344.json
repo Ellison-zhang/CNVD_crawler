@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 10:05:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13344",
+    "spider_time": 1750759518048,
+    "name": "Huawei EMUI/HarmonyOS访问控制漏洞",
+    "cnvd": "CNVD-2025-13344",
+    "publish": "2025-06-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Huawei EMUI 12.0.0\", \"Huawei HarmonyOS 3.0.0\", \"Huawei HarmonyOS 2.1.0\", \"Huawei HarmonyOS 2.0.0\", \"Huawei HarmonyOS 3.1.0\", \"Huawei EMUI 13.0.0\", \"Huawei HarmonyOS 4.0.0\", \"Huawei HarmonyOS 4.2.0\", \"Huawei EMUI 14.0.0\"]",
+    "cve": "CVE-2024-42039",
+    "description": "Huawei EMUI和Huawei HarmonyOS都是中国华为（Huawei）公司的产品。Huawei EMUI是一款基于Android开发的移动端操作系统。Huawei HarmonyOS是一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei EMUI和Huawei HarmonyOS存在访问控制漏洞，该漏洞源于SystemUI模块存在访问控制漏洞。攻击者可利用该漏洞影响服务的机密性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-42039",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://consumer.huawei.com/en/support/bulletin/2024/9/",
+    "patch": "Huawei EMUI/HarmonyOS访问控制漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-09-11",
+    "open_time": "2025-06-24",
+    "update_time": "2025-06-24",
+    "data_summary": "22ba1317f2c5ca22156bd2dd757627f1"
+}

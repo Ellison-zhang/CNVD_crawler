@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 10:04:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13341",
+    "spider_time": 1750759484778,
+    "name": "Huawei HarmonyOS缓冲区溢出漏洞（CNVD-2025-1334123）",
+    "cnvd": "CNVD-2025-13341",
+    "publish": "2025-06-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Huawei HarmonyOS 5.0.0\"]",
+    "cve": "CVE-2024-54116",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS存在缓冲区溢出漏洞。该漏洞源于M3U8模块，攻击者可利用该漏洞导致功能运行异常。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-54116",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://consumer.huawei.com/en/support/bulletin/2024/12/",
+    "patch": "Huawei HarmonyOS缓冲区溢出漏洞（CNVD-2025-1334123）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-20",
+    "open_time": "2025-06-24",
+    "update_time": "2025-06-24",
+    "data_summary": "be8fba9dd4dfd7d8cdf0fee37e3510a8"
+}

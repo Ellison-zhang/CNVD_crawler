@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 10:05:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13352",
+    "spider_time": 1750759553987,
+    "name": "NETGEAR Nighthawk WiFi6 Router缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-13352",
+    "publish": "2025-06-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR Nighthawk WiFi6 Router <V1.0.10.94\"]",
+    "cve": "CVE-2023-27852",
+    "description": "NETGEAR Nighthawk WiFi6 Router是美国网件（NETGEAR）公司的一系列无线路由器。NETGEAR Nighthawk WiFi6 Router存在缓冲区溢出漏洞，该漏洞源于该设备在各种CGI机制中存在缓冲区溢出，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2023-27852/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "NETGEAR Nighthawk WiFi6 Router缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-03-14",
+    "open_time": "2025-06-24",
+    "update_time": "2025-06-24",
+    "data_summary": "740fbfe0ab27575b8ac55a8f1a12fe87"
+}

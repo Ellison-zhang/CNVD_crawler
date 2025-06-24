@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 10:05:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13347",
+    "spider_time": 1750759532912,
+    "name": "NETGEAR ProSAFE Network Management System getNodesByTopologyMapSearch SQL注入漏洞",
+    "cnvd": "CNVD-2025-13347",
+    "publish": "2025-06-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"NETGEAR ProSAFE Network Management System <1.7.0.31\"]",
+    "cve": "CVE-2023-44450",
+    "description": "NETGEAR ProSAFE Network Management System是一款网络管理系统。NETGEAR ProSAFE Network Management System存在SQL注入漏洞，该漏洞源于getNodesByTopologyMapSearch函数，攻击者可利用该漏洞获取敏感信息或执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-23-1718/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://kb.netgear.com/000065866/Security-Advisory-for-Multiple-Vulnerabilities-on-the-NMS300-PSV-2023-0114-PSV-2023-0115",
+    "patch": "NETGEAR ProSAFE Network Management System getNodesByTopologyMapSearch SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-11-27",
+    "open_time": "2025-06-24",
+    "update_time": "2025-06-24",
+    "data_summary": "1288fd78355d0693872fd10586df8ce5"
+}
