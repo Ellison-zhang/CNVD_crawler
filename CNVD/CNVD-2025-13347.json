@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-24 14:05:01",
+    "parse_time": "2025-06-24 15:06:48",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13347",
-    "spider_time": 1750773901137,
+    "spider_time": 1750777608383,
     "name": "NETGEAR ProSAFE Network Management System getNodesByTopologyMapSearch SQL注入漏洞",
     "cnvd": "CNVD-2025-13347",
     "publish": "2025-06-23",
