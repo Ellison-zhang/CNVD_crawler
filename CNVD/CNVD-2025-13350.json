@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-24 20:05:27",
+    "parse_time": "2025-06-24 21:04:35",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13350",
-    "spider_time": 1750795527534,
+    "spider_time": 1750799075930,
     "name": "NETGEAR Orbi Satellite RBS750 ubus后端通信功能命令执行漏洞",
     "cnvd": "CNVD-2025-13350",
     "publish": "2025-06-23",
