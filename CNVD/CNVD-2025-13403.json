@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-25 20:04:03",
+    "parse_time": "2025-06-25 21:04:07",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13403",
-    "spider_time": 1750881843257,
+    "spider_time": 1750885447087,
     "name": "Fuji Electric V-SFT VS4_SaveEnvFile函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-13403",
     "publish": "2025-06-24",

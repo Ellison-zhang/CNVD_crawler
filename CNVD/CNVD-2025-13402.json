@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-25 20:04:00",
+    "parse_time": "2025-06-25 21:04:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13402",
-    "spider_time": 1750881840377,
+    "spider_time": 1750885440679,
     "name": "Fuji Electric V-SFT set_temp_type_default函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-13402",
     "publish": "2025-06-24",
