@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-25 10:06:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13435",
+    "spider_time": 1750846012354,
+    "name": "NETGEAR CBR40/CBK40/CBM43 debuginfo.htm组件信息泄露漏洞",
+    "cnvd": "CNVD-2025-13435",
+    "publish": "2025-06-25",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"NETGEAR Netgear CBR40 2.5.0.28\", \"NETGEAR Netgear CBM43 2.5.0.28\", \"NETGEAR CBK40 2.5.0.28\"]",
+    "cve": "CVE-2024-28339",
+    "description": "NETGEAR CBR40/CBK40/CBM43都是美国网件（NETGEAR）公司的一款路由器。连接两个或多个网络的硬件设备，在网络间起网关的作用。NETGEAR CBR40/CBK40/CBM43存在信息泄露漏洞，该漏洞源于debuginfo.htm组件中对于敏感信息保护不足，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.netgear.com/about/security/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-14",
+    "open_time": "2025-06-25",
+    "update_time": "2025-06-25",
+    "data_summary": "c356a708fb9dbd39233cd85ef33d555f"
+}

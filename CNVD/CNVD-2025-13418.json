@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-25 10:06:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13418",
+    "spider_time": 1750845982658,
+    "name": "NETGEAR WNR614信息泄露漏洞",
+    "cnvd": "CNVD-2025-13418",
+    "publish": "2025-06-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR WNR614 JNR1010V2/N300-V1.1.0.54_1.0.1\"]",
+    "cve": "CVE-2024-36787",
+    "description": "NETGEAR WNR614是美国网件（Netgear）公司的一个带外置天线的 N300 无线路由器。NETGEAR WNR614存在信息泄露漏洞，该漏洞源于允许攻击者绕过身份验证并通过未指定的向量访问管理界面。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-36787",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-13",
+    "open_time": "2025-06-25",
+    "update_time": "2025-06-25",
+    "data_summary": "5cea7ccc386a3dba5cfc383d94360b4a"
+}

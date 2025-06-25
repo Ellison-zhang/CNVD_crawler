@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-25 10:06:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13417",
+    "spider_time": 1750845976507,
+    "name": "NETGEAR R6900P/R7000P缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-13417",
+    "publish": "2025-06-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"NETGEAR R7000P v1.3.3.154\", \"NETGEAR R6900P 1.3.3.154\"]",
+    "cve": "CVE-2024-12988",
+    "description": "NETGEAR R6900P和R7000P是NETGEAR公司推出的无线路由器，提供高速互联网连接和网络管理功能。NETGEAR R6900P和R7000P存在缓冲区溢出漏洞，该漏洞源于HTTP Header Handler组件中的sub_16C4C函数未能正确处理Host参数的输入。攻击者可利用该漏洞导致服务崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.289381",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-30",
+    "open_time": "2025-06-25",
+    "update_time": "2025-06-25",
+    "data_summary": "032396386c7f66d068c68a5f13977836"
+}
