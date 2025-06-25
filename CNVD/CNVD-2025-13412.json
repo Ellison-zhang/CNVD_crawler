@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-25 02:37:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13412",
+    "spider_time": 1750819053436,
+    "name": "NETGEAR Orbi 760 SOAP API验证绕过漏洞",
+    "cnvd": "CNVD-2025-13412",
+    "publish": "2025-06-23",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR Orbi 760\"]",
+    "cve": "CVE-2023-41183",
+    "description": "NETGEAR Orbi 760是一款美国网件(NETGEAR)的三频Wi-Fi Mesh系统的路由器。NETGEAR Orbi 760存在验证绕过漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-23-1283/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://kb.netgear.com/000065734/Security-Advisory-for-Authentication-Bypass-on-the-RBR760-PSV-2023-0052",
+    "patch": "NETGEAR Orbi 760 SOAP API验证绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-09-04",
+    "open_time": "2025-06-25",
+    "update_time": "2025-06-25",
+    "data_summary": "2765c3b4fa16bb0bfb547e2f3ec38fac"
+}
