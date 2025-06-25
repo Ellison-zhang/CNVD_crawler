@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-25 10:07:40",
+    "parse_time": "2025-06-25 11:04:27",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13414",
-    "spider_time": 1750846060809,
+    "spider_time": 1750849467341,
     "name": "JetBrains TeamCity Kubernetes信息泄露漏洞",
     "cnvd": "CNVD-2025-13414",
     "publish": "2025-06-24",

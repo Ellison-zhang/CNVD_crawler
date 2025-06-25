@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-25 11:03:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13476",
+    "spider_time": 1750849417578,
+    "name": "NETGEAR WNDR3700命令注入漏洞",
+    "cnvd": "CNVD-2025-13476",
+    "publish": "2025-06-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"NETGEAR WNDR3700 1.0.1.14\"]",
+    "cve": "CVE-2023-0849",
+    "description": "NETGEAR WNDR3700是美国网件（NETGEAR）公司的一款无线路由器。NETGEAR WNDR3700存在命令注入漏洞，该漏洞源于组件Web Interface的未知代码存在问题，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2023-0849/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-02-17",
+    "open_time": "2025-06-25",
+    "update_time": "2025-06-25",
+    "data_summary": "00e8493aae64a12e47b4856c6032ab1b"
+}
