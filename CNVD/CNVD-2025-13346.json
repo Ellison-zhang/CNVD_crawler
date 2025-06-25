@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-25 02:37:17",
+    "parse_time": "2025-06-25 03:30:53",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13346",
-    "spider_time": 1750819037654,
+    "spider_time": 1750822253873,
     "name": "NETGEAR ProSAFE Network Management System clearAlertByIds函数SQL注入漏洞",
     "cnvd": "CNVD-2025-13346",
     "publish": "2025-06-23",
