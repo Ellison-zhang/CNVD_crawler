@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 04:09:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13477",
+    "spider_time": 1750910959741,
+    "name": "NETGEAR ProSAFE FS726TP存在未明漏洞",
+    "cnvd": "CNVD-2025-13477",
+    "publish": "2025-06-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"NETGEAR ProSAFE FS726TP\"]",
+    "cve": "CVE-2023-24498",
+    "description": "NETGEAR ProSAFE FS726TP 是一款智能交换机。NETGEAR ProSAFE FS726TP存在安全漏洞，该漏洞源于交换机Web服务器中未指定的端点无法正确验证用户身份，允许将带有密码的配置页面以明文形式下载到交换机。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.gov.il/en/Departments/faq/cve_advisories",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-02-17",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "e1f829e429ac5e8d1d36c3842d3109cb"
+}
