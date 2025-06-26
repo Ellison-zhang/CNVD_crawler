@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 07:04:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13492",
+    "spider_time": 1750921461030,
+    "name": "上海灵当信息科技有限公司灵当CRM存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-13492",
+    "publish": "2025-06-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u4e0a\\u6d77\\u7075\\u5f53\\u4fe1\\u606f\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u7075\\u5f53CRM\"]",
+    "cve": null,
+    "description": "灵当CRM是上海灵当信息科技有限公司开发的一款CRM软件，适用于以销售和服务业务为主的中小型企业。上海灵当信息科技有限公司灵当CRM存在逻辑缺陷漏洞，攻击者可利用该漏洞绕过验证登录系统。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.51mis.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-12",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "5d98ffc00b0437477afb1296d7bd6cac"
+}
