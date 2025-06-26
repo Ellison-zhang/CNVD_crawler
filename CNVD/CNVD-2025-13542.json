@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 08:06:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13542",
+    "spider_time": 1750925166372,
+    "name": "Fuji Electric Tellus Lite V-Simulator缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-13542",
+    "publish": "2025-06-25",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Fuji Electric Tellus Lite V-Simulator <v4.0.20.0\"]",
+    "cve": "CVE-2024-37022",
+    "description": "Fuji Electric Tellus Lite V-Simulator是日本富士电机（Fuji Electric）公司的一款用于工业环境的远程监控软件。Fuji Electric Tellus Lite V-Simulator存在缓冲区溢出漏洞，该漏洞源于存在越界写入漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-14",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://felib.fujielectric.co.jp/ja/M10009/M20034/document_detail/a1f9328f-82f4-434a-b593-32874d1e897d",
+    "patch": "Fuji Electric Tellus Lite V-Simulator缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-18",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "4de8162d8e4540afa43ce29442099ff7"
+}

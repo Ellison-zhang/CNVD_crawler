@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 08:05:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13521",
+    "spider_time": 1750925142343,
+    "name": "D-Link DAP-1320栈缓冲区溢出漏洞（CNVD-2025-13521）",
+    "cnvd": "CNVD-2025-13521",
+    "publish": "2025-06-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DAP-1320 1.00\"]",
+    "cve": "CVE-2025-1538",
+    "description": "D-Link DAP-1320是中国友讯（D-Link）公司的一款无线信号扩展器。D-Link DAP-1320存在栈缓冲区溢出漏洞，该漏洞源于文件/dws/api/的函数set_ws_action。攻击者可利用该漏洞导致程序崩溃甚至任意代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://legacy.us.dlink.com/pages/product.aspx?id=4b2bbe2e3f1d440ea65bc56c7e3dcc5chttps://tasty-foxtrot-3a8.notion.site/D-link-DAP-1320-set_ws_action-Vulnerability-1950448e61958049be3cc606d434bc9dhttps://tasty-foxtrot-3a8.notion.site/D-link-DAP-1320-set_ws_action-Vulnerability-1950448e61958049be3cc606d434bc9d?pvs=74https://vuldb.com/?ctiid.296479https://vuldb.com/?id.296479https://vuldb.com/?submit.497301https://www.dlink.com/https://access.redhat.com/security/cve/cve-2025-1538",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "e2870270d1ffc3fc70f3e80dbb2191fb"
+}

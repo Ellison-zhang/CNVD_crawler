@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 08:05:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13514",
+    "spider_time": 1750925157297,
+    "name": "Google Android存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-13514",
+    "publish": "2025-06-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:N/I:N/A:C",
+    "product": "[\"Google android V11\"]",
+    "cve": null,
+    "description": "Android是美国谷歌（Google）公司的一套以Linux为基础的操作系统。Google Android存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.google.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-11",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "3aa9c3d87bdd3b44b6039489bb2f0211"
+}

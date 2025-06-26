@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 08:06:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13533",
+    "spider_time": 1750925179227,
+    "name": "Fuji Electric Monitouch V-SFT缓冲区溢出漏洞（CNVD-2025-13533）",
+    "cnvd": "CNVD-2025-13533",
+    "publish": "2025-06-25",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Fuji Electric Monitouch V-SFT\"]",
+    "cve": "CVE-2024-5271",
+    "description": "Fuji Electric Monitouch V-SFT是日本富士电机（Fuji Electric）公司的一个屏幕配置软件。Fuji Electric Monitouch V-SFT存在缓冲区溢出漏洞，该漏洞源于存在类型混淆。攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-151-02",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://felib.fujielectric.co.jp/ja/M10009/M20104/document_detail/55ff739b-bd06-4241-b078-3b9c9728bdfd",
+    "patch": "Fuji Electric Monitouch V-SFT缓冲区溢出漏洞（CNVD-2025-13533）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-03",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "67b63d3afc191ed807c228487b253ca4"
+}

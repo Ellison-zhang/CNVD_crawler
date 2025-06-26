@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 08:05:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13584",
+    "spider_time": 1750925127480,
+    "name": "JetBrains Toolbox App存在未明漏洞（CNVD-2025-13584）",
+    "cnvd": "CNVD-2025-13584",
+    "publish": "2025-06-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"JetBrains Toolbox App <2.6\"]",
+    "cve": "CVE-2025-42921",
+    "description": "JetBrains Toolbox App是一款用于管理JetBrains开发工具的应用程序，提供安装、更新和管理多个JetBrains工具的功能。JetBrains Toolbox App存在安全漏洞，该漏洞源于SSH插件中缺少对主机密钥的验证。攻击者可利用该漏洞，通过中间人攻击获取敏感信息或篡改数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.jetbrains.com/privacy-security/issues-fixed/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/toolbox-app/",
+    "patch": "JetBrains Toolbox App存在未明漏洞（CNVD-2025-13584）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "1865bcde6e3496bcc00bcf6283a51807"
+}

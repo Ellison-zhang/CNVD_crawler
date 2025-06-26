@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 08:05:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13561",
+    "spider_time": 1750925152319,
+    "name": "广西海豚有海信息科技有限公司WookTeam存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-13561",
+    "publish": "2025-06-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5e7f\\u897f\\u6d77\\u8c5a\\u6709\\u6d77\\u4fe1\\u606f\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 WookTeam\"]",
+    "cve": null,
+    "description": "WookTeam是一款轻量级的开源在线团队协作工具，支持私有化部署，集成了任务管理、文件共享、在线文档编辑、即时沟通、日历视图等多种功能的企业级协作平台。广西海豚有海信息科技有限公司WookTeam存在逻辑缺陷漏洞，攻击者可利用该漏洞绕过限制注册用户，登录系统。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://gitee.com/aipaw/wookteam",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-11",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "71c7833f56acab10e0054725ae8af03c"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 08:06:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13536",
+    "spider_time": 1750925193124,
+    "name": "Fuji Electric TELLUS/TELLUS Lite信息泄露漏洞",
+    "cnvd": "CNVD-2025-13536",
+    "publish": "2025-06-25",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Fuji Electric TELLUS <=v4.0.17.0\", \"Fuji Electric Tellus Lite <=v4.0.17.0\"]",
+    "cve": "CVE-2023-47582",
+    "description": "‌ Fuji Electric （富士电机）‌是一家以大型电气机器为主的日本重电机制造商。Fuji Electric TELLUS和TELLUS Lite存在信息泄露漏洞，该漏洞源于未初始化指针访问，攻击者可利用该漏洞泄露信息或执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-47582",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://monitouch.fujielectric.com/site/download-e/03tellus_inf/index.php",
+    "patch": "Fuji Electric TELLUS/TELLUS Lite信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-11-21",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "2a09274ee9b9912f3641ad9640a9411f"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 08:05:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13526",
+    "spider_time": 1750925147312,
+    "name": "Huawei HarmonyOS反序列化漏洞",
+    "cnvd": "CNVD-2025-13526",
+    "publish": "2025-06-25",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Huawei HarmonyOS 5.0.0\"]",
+    "cve": "CVE-2025-48907",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS存在反序列化漏洞，该漏洞源于应用程序在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞影响可用性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-48907",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://consumer.huawei.com/en/support/bulletin/2025/6/",
+    "patch": "Huawei HarmonyOS反序列化漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-10",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "2b93b56fa4b0bdcb4c348b191b8137ac"
+}

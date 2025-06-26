@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 08:05:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13546",
+    "spider_time": 1750925113375,
+    "name": "JetBrains rubymine存在未明漏洞",
+    "cnvd": "CNVD-2025-13546",
+    "publish": "2025-06-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"JetBrains rubymine <2025.1\"]",
+    "cve": "CVE-2025-43015",
+    "description": "JetBrains rubymine是一款用于Ruby开发的集成开发环境（IDE），提供代码编辑、调试等功能。JetBrains rubymine存在安全漏洞，该漏洞源于远程解释器覆盖了监听所有接口的端口。攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.jetbrains.com/privacy-security/issues-fixed/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/toolbox-app/",
+    "patch": "JetBrains rubymine存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "1a749eb93eb90fc3e00e76fa3f8839ac"
+}

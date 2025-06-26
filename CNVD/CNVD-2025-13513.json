@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 08:06:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13513",
+    "spider_time": 1750925162668,
+    "name": "D-Link DI-500WF-WT存在命令执行漏洞",
+    "cnvd": "CNVD-2025-13513",
+    "publish": "2025-06-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DI-500WF-WT\"]",
+    "cve": null,
+    "description": "DI-500WF-WT是中国友讯（D-Link）公司的一款用于无线网络覆盖的设备。D-Link DI-500WF-WT存在命令执行漏洞，攻击者可利用漏洞执行命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-11",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "98d3d5dfc39ff600ad4300577866a5bb"
+}
