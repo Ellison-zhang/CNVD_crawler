@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 09:06:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13795",
+    "spider_time": 1750928798431,
+    "name": "JetBrains TeamCity权限问题漏洞",
+    "cnvd": "CNVD-2025-13795",
+    "publish": "2025-06-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"JetBrains JetBrains TeamCity <2024.12.1\"]",
+    "cve": "CVE-2025-24461",
+    "description": "JetBrains TeamCity 是由JetBrains开发的一款强大的持续集成和持续交付（CI/CD）工具。JetBrains TeamCity存在权限问题漏洞，该漏洞源于通过测试连接端点，解密没有适当权限的连接机密。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.jetbrains.com/privacy-security/issues-fixed/https://nvd.nist.gov/vuln/detail/CVE-2025-24461",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains TeamCity权限问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "a3c393b70cfa592ee39a72100d7613b0"
+}

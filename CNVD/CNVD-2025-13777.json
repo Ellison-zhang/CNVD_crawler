@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 09:06:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13777",
+    "spider_time": 1750928781728,
+    "name": "ABB多款产品跨站脚本漏洞（CNVD-2025-13777）",
+    "cnvd": "CNVD-2025-13777",
+    "publish": "2025-06-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"ABB ASPECT-Enterprise <=3.08.03\", \"ABB NEXUS Series <=3.08.03\", \"ABB MATRIX Series <=3.08.03\"]",
+    "cve": "CVE-2024-13958",
+    "description": "ABB ASPECT-Enterprise是一款可扩展建筑能源管理和控制解决方案。ABB NEXUS Series是一种监控管理系统。ABB MATRIX Series是一款嵌入式物联网ASPECT控制引擎，旨在为中型到大型现场控制应用提供灵活的现场控制。ABB多款产品存在跨站脚本漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-13958",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://global.abb/",
+    "patch": "ABB多款产品跨站脚本漏洞（CNVD-2025-13777）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "f27315a189bd9449f401c41cc80cba13"
+}

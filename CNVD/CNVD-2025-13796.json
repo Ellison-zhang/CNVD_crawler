@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 09:06:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13796",
+    "spider_time": 1750928803777,
+    "name": "JetBrains Hub权限提升漏洞",
+    "cnvd": "CNVD-2025-13796",
+    "publish": "2025-06-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"JetBrains JetBrains Hub <2024.3.55417\"]",
+    "cve": "CVE-2025-24456",
+    "description": "JetBrains Hub是捷克JetBrains公司的一款基于Web的应用程序。该程序能够将多种JetBrains团队工具集成到一起。JetBrains Hub存在权限提升漏洞，该漏洞源于通过LDAP身份验证映射进行权限提升。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.jetbrains.com/privacy-security/issues-fixed/https://nvd.nist.gov/vuln/detail/CVE-2025-24456",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains Hub权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "444e302a4aa53c079c6e385106435bc9"
+}
