@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 16:07:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13508",
+    "spider_time": 1750954021103,
+    "name": "PosteRazor存在二进制漏洞",
+    "cnvd": "CNVD-2025-13508",
+    "publish": "2025-06-27",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"PosteRazor PosteRazor\"]",
+    "cve": null,
+    "description": "PosteRazor是一款图像处理软件，主要用于创建张贴画。PosteRazor存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://posterazor.sourceforge.io/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "8590d46336a66265ac74a83ce1039917"
+}

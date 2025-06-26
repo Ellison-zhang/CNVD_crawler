@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 16:07:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13593",
+    "spider_time": 1750954031536,
+    "name": "富士胶片商业创新（中国）有限公司Xerox(R) B310 Printer存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-13593",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u5bcc\\u58eb\\u80f6\\u7247\\u5546\\u4e1a\\u521b\\u65b0\\uff08\\u4e2d\\u56fd\\uff09\\u6709\\u9650\\u516c\\u53f8 Xerox(R) B310 Printer\"]",
+    "cve": null,
+    "description": "Xerox(R) B310 Printer是一款打印机。富士胶片商业创新（中国）有限公司Xerox(R) B310 Printer存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.fujifilm.com.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "a7f15111f34c1dae202c1faa7acd919a"
+}

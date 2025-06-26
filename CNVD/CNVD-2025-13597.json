@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 16:07:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13597",
+    "spider_time": 1750954025317,
+    "name": "Tosei店铺管理系统存在任意文件读取漏洞",
+    "cnvd": "CNVD-2025-13597",
+    "publish": "2025-06-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"TOSEI Tosei\\u5e97\\u94fa\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "TOSEI是专注于提供高质量的洗衣解决方案，该公司主要生产和销售各种洗衣设备，包括自助洗衣店、干洗店和传统洗衣店所需的洗衣机和干衣机。Tosei店铺管理系统存在任意文件读取漏洞，攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.toseicorp.co.jp/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "1f9b179878abbcf1b0a5182e5fc15ae3"
+}

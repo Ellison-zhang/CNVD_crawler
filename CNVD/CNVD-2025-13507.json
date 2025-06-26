@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 16:06:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13507",
+    "spider_time": 1750954014981,
+    "name": "PerceptualDiff存在二进制漏洞",
+    "cnvd": "CNVD-2025-13507",
+    "publish": "2025-06-27",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"perceptualdiff perceptualdiff\"]",
+    "cve": null,
+    "description": "PerceptualDiff是一个开源的图像比较工具‌，它基于感知哈希算法来计算和展示两张图片之间的差异。PerceptualDiff存在二进制漏洞，攻击者可利用该漏洞导致进程异常退出。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://pdiff.sourceforge.net/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "95434bbcdb92033bb3175c8ee8d2c025"
+}

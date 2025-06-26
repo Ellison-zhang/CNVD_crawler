@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 16:07:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13480",
+    "spider_time": 1750954041710,
+    "name": "PandasAI存在命令执行漏洞",
+    "cnvd": "CNVD-2025-13480",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Pandas-ai PandasAI\"]",
+    "cve": null,
+    "description": "PandasAI‌是一个由Sinaptik Inc.开发的Python库。PandasAI存在命令执行漏洞，攻击者可利用漏洞执行命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://github.com/Sinaptik-AI/pandas-ai",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "f3e3e475db4e7565f5883a2f77da9412"
+}
