@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 10:04:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13836",
+    "spider_time": 1750932271552,
+    "name": "Tenda RX2 Pro安全绕过漏洞",
+    "cnvd": "CNVD-2025-13836",
+    "publish": "2025-06-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Tenda RX2 Pro 16.03.30.14\"]",
+    "cve": "CVE-2025-46626",
+    "description": "Tenda RX2 Pro是中国腾达（Tenda）公司的一款高性能WiFi 6信号放大器。Tenda RX2 Pro 16.03.30.14版本存在安全绕过漏洞，攻击者可利用该漏洞导致解密、重放或伪造流量。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-46626",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.tendacn.com/us/download/detail-5715.html",
+    "patch": "Tenda RX2 Pro安全绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "49037e0ebf8f233099828a6fa30522e0"
+}
