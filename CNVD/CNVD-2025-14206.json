@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 09:06:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14206",
+    "spider_time": 1751015182381,
+    "name": "VMware Avi Load Balancer SQL注入漏洞",
+    "cnvd": "CNVD-2025-14206",
+    "publish": "2025-06-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"VMWare VMware Avi Load Balancer 30.1.1\", \"VMWare VMware Avi Load Balancer 30.1.2\", \"VMWare VMware Avi Load Balancer 30.2.1\", \"VMWare VMware Avi Load Balancer 30.2.2\"]",
+    "cve": "CVE-2025-41233",
+    "description": "VMware Avi Load Balancer是美国威睿（VMware）公司的一个负载平衡平台。VMware Avi Load Balancer存在SQL注入漏洞，该漏洞源于应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-41233",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25707",
+    "patch": "VMware Avi Load Balancer SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-24",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "e0833d4c9caaad9adfa6e4cda424b162"
+}

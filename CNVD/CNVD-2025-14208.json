@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 09:06:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14208",
+    "spider_time": 1751015189882,
+    "name": "QNAP File Station 5代码问题漏洞",
+    "cnvd": "CNVD-2025-14208",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"QNAP QNAP File Station 5 <5.5.6.4847\"]",
+    "cve": "CVE-2025-22490",
+    "description": "QNAP File Station 5是中国台湾威联通科技（QNAP）公司的一个文件管理系统。QNAP File Station 5存在代码问题漏洞，该漏洞源于空指针取消引用，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-22490",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.qnap.com/en/security-advisory/qsa-25-16",
+    "patch": "QNAP File Station 5代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-23",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "1ed83f4b866200ab325e009ab24957bb"
+}
