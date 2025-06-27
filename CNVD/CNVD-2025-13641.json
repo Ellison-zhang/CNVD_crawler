@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:08:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13641",
+    "spider_time": 1751011682607,
+    "name": "阳光电源股份有限公司Logger1000存在信息泄露漏洞",
+    "cnvd": "CNVD-2025-13641",
+    "publish": "2025-06-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u9633\\u5149\\u7535\\u6e90\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 Logger1000\", \"\\u9633\\u5149\\u7535\\u6e90\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 Logger1000 M_Logger1000_V01_V01_A\"]",
+    "cve": null,
+    "description": "Logger1000是应用于光伏电站中逆变器等光伏设备的数据采集、功率控制与协议转换设备。阳光电源股份有限公司Logger1000存在信息泄露漏洞，攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttp://www.sungrowpower.com/",
+    "patch": "阳光电源股份有限公司Logger1000存在信息泄露漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-05-06",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-27",
+    "data_summary": "ea62e54aaab7702982672bdeb9c7c90e"
+}

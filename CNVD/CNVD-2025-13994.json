@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:08:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13994",
+    "spider_time": 1751011731357,
+    "name": "TOTOLINK N300RH存在命令执行漏洞",
+    "cnvd": "CNVD-2025-13994",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK N300RH\"]",
+    "cve": null,
+    "description": "N300RH是一款无线路由器。TOTOLINK N300RH存在命令执行漏洞，攻击者可利用漏洞执行命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "1272cb580b44222aeeecb6ae6121b82a"
+}

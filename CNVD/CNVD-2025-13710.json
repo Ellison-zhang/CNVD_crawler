@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:05:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13710",
+    "spider_time": 1751011525478,
+    "name": "全讯汇聚网络科技（北京）有限公司iKuai存在任意文件读取漏洞",
+    "cnvd": "CNVD-2025-13710",
+    "publish": "2025-06-22",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5168\\u8baf\\u6c47\\u805a\\u7f51\\u7edc\\u79d1\\u6280\\uff08\\u5317\\u4eac\\uff09\\u6709\\u9650\\u516c\\u53f8 iKuai\"]",
+    "cve": null,
+    "description": "全讯汇聚网络科技（北京）有限公司成立于2013年，爱快，iKuai是公司产品品牌，iKuic是公司海外产品品牌。全讯汇聚网络科技（北京）有限公司iKuai存在任意文件读取漏洞，攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.qxhuiju.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-08",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "0b67775d5b5c6743f22c55d8eaa12fd4"
+}

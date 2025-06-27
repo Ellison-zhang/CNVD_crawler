@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:05:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13668",
+    "spider_time": 1751011540115,
+    "name": "北京网动网络科技股份有限公司网动统一通信平台存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-13668",
+    "publish": "2025-06-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u7f51\\u52a8\\u7f51\\u7edc\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u7f51\\u52a8\\u7edf\\u4e00\\u901a\\u4fe1\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "网动统一通信平台是一款综合性的通信平台，旨在提升用户的沟通效率和便利性，提供一个统一的通信环境‌‌。北京网动网络科技股份有限公司网动统一通信平台存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://iactive.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-07",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "41890a8c893cfc038e94b0b7786f8cd4"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:09:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13989",
+    "spider_time": 1751011748163,
+    "name": "北京神州视翰科技有限公司多媒体综合业务显示系统存在文件上传漏洞",
+    "cnvd": "CNVD-2025-13989",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u5317\\u4eac\\u795e\\u5dde\\u89c6\\u7ff0\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u591a\\u5a92\\u4f53\\u7efc\\u5408\\u4e1a\\u52a1\\u663e\\u793a\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "北京神州视翰科技有限公司是一家深耕可视化领域的企业。北京神州视翰科技有限公司多媒体综合业务显示系统存在文件上传漏洞，攻击者可利用漏洞上传恶意文件，获取服务器权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.china-shine.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "104d9e7f8a648566dcba4210703b236a"
+}

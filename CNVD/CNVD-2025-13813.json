@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:05:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13813",
+    "spider_time": 1751011504431,
+    "name": "西安瑞友信息技术资讯有限公司瑞友天翼虚拟系统存在信息泄露漏洞",
+    "cnvd": "CNVD-2025-13813",
+    "publish": "2025-06-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u897f\\u5b89\\u745e\\u53cb\\u4fe1\\u606f\\u6280\\u672f\\u8d44\\u8baf\\u6709\\u9650\\u516c\\u53f8 \\u745e\\u53cb\\u5929\\u7ffc\\u865a\\u62df\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "西安瑞友信息技术资讯有限公司是专业从事虚拟化及云计算解决方案提供商。西安瑞友信息技术资讯有限公司瑞友天翼虚拟系统存在信息泄露漏洞，攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.realor.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-10",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "1f05c761b0d59a280e85daa745681060"
+}

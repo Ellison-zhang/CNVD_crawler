@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:13:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14037",
+    "spider_time": 1751011984897,
+    "name": "TOTOLINK A6000R apcli_do_enr_pbc_wps函数命令注入漏洞",
+    "cnvd": "CNVD-2025-14037",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A6000R V1.0.1-B20201211.2000\"]",
+    "cve": "CVE-2024-41317",
+    "description": "TOTOLINK A6000R是中国吉翁电子（TOTOLINK）公司的一款无线路由器。TOTOLINK A6000R存在命令注入漏洞，该漏洞源于apcli_do_enr_pbc_wps函数中的ifname参数未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/yanggao017/vuln/blob/main/TOTOLINK/A6000R/CI_3_apcli_do_enr_pbc_wps/README.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-26",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "9cd332e65abb62d667e858e99122f4db"
+}

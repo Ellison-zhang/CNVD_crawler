@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:09:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13972",
+    "spider_time": 1751011784318,
+    "name": "江苏群杰物联科技有限公司印章物联网管理平台存在弱口令漏洞",
+    "cnvd": "CNVD-2025-13972",
+    "publish": "2025-06-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6c5f\\u82cf\\u7fa4\\u6770\\u7269\\u8054\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u5370\\u7ae0\\u7269\\u8054\\u7f51\\u7ba1\\u7406\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "印章物联网管理平台是印章全生命周期管理系统。江苏群杰物联科技有限公司印章物联网管理平台存在弱口令漏洞，攻击者可利用漏洞登录系统，获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.qunje.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "56aa15cb7c4c054d41fdcbcc6fa1912b"
+}

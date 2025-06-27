@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:05:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13995",
+    "spider_time": 1751011501546,
+    "name": "熵基科技股份有限公司ZKEcopro存在弱口令漏洞",
+    "cnvd": "CNVD-2025-13995",
+    "publish": "2025-06-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u71b5\\u57fa\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 ZKEcopro\"]",
+    "cve": null,
+    "description": "熵基科技股份有限公司是一家专注于混合生物识别技术研究以及应用领域的技术企业，是一家基于“人、车、物”出入口时间和安全管理系统产品及解决方案的全球提供商。熵基科技股份有限公司ZKEcopro存在弱口令漏洞，攻击者可利用漏洞登录系统，获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.zkecopro.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "5f5285f5583f816dd85a2af5ca182bda"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:09:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13991",
+    "spider_time": 1751011741993,
+    "name": "上海斐讯数据通信技术有限公司TiankongWangLuo存在命令执行漏洞",
+    "cnvd": "CNVD-2025-13991",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u4e0a\\u6d77\\u6590\\u8baf\\u6570\\u636e\\u901a\\u4fe1\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 TiankongWangLuo\"]",
+    "cve": null,
+    "description": "斐讯数据通信技术有限公司成立于2009年，是一家集研发、制造、销售于一体，致力于向客户提供移动终端、数据通信、云计算等技术设备及整体解决方案和服务的高新技术企业公司。上海斐讯数据通信技术有限公司TiankongWangLuo存在命令执行漏洞，攻击者可利用漏洞执行命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.phicomm.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "931b4af6cc12ef5df974492a8c11cf00"
+}

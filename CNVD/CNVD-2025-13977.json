@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:09:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13977",
+    "spider_time": 1751011775022,
+    "name": "D-Link DWR-M961存在命令执行漏洞",
+    "cnvd": "CNVD-2025-13977",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DWR-M961\"]",
+    "cve": null,
+    "description": "DWR-M961是一款4G LTE路由器。D-Link DWR-M961存在命令执行漏洞，攻击者可利用漏洞执行命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.dlink.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "becab9b20ada5281415f889913631d02"
+}

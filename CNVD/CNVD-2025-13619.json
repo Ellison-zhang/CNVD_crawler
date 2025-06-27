@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:08:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13619",
+    "spider_time": 1751011690351,
+    "name": "杭州飞致云信息科技有限公司MaxKB存在命令执行漏洞",
+    "cnvd": "CNVD-2025-13619",
+    "publish": "2025-06-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u676d\\u5dde\\u98de\\u81f4\\u4e91\\u4fe1\\u606f\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 MaxKB V1.10.2\"]",
+    "cve": null,
+    "description": "MaxKB是杭州飞致云信息科技有限公司旗下基于大语言模型和RAG的开源知识库问答系统。杭州飞致云信息科技有限公司MaxKB存在命令执行漏洞，攻击者可利用漏洞执行命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://maxkb.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-05",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "0496d9c1783f47514741d9380a07e819"
+}

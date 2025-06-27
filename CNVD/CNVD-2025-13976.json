@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:09:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13976",
+    "spider_time": 1751011778212,
+    "name": "production_ssm存在文件上传漏洞",
+    "cnvd": "CNVD-2025-13976",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"production_ssm production_ssm\"]",
+    "cve": null,
+    "description": "production_ssm是一个SSM（Spring+SpringMVC+Mybatis）+jQuery EasyUI开发的ERP系统。production_ssm存在文件上传漏洞，攻击者可利用漏洞上传恶意文件，获取服务器权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://github.com/megagao/production_ssm",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "3117b5193c53c057b5eae48c28b2508f"
+}
