@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 16:08:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14011",
+    "spider_time": 1751040506906,
+    "name": "东芝（中国）有限公司上海分公司TOSHIBA e-STUDIO3525AC存在弱口令漏洞",
+    "cnvd": "CNVD-2025-14011",
+    "publish": "2025-06-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u4e1c\\u829d\\uff08\\u4e2d\\u56fd\\uff09\\u6709\\u9650\\u516c\\u53f8\\u4e0a\\u6d77\\u5206\\u516c\\u53f8 TOSHIBA e-STUDIO3525AC\"]",
+    "cve": null,
+    "description": "TOSHIBA e-STUDIO3525AC是一款激光数码复合机。东芝（中国）有限公司上海分公司TOSHIBA e-STUDIO3525AC存在弱口令漏洞，攻击者可利用漏洞登录系统，获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.toshiba.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "2c255f7f0e11026af0b2c5886dd3622d"
+}

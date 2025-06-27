@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 16:07:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14033",
+    "spider_time": 1751040464625,
+    "name": "畅捷通信息技术股份有限公司畅捷CRM存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-14033",
+    "publish": "2025-06-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u7545\\u6377\\u901a\\u4fe1\\u606f\\u6280\\u672f\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u7545\\u6377CRM\"]",
+    "cve": null,
+    "description": "畅捷CRM是专为小企业量身打造的智慧型客户关系管理应用。畅捷通信息技术股份有限公司畅捷CRM存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.chanjet.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "1da9e83bc5fab8a1a084758d27655565"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 16:08:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14023",
+    "spider_time": 1751040484115,
+    "name": "北京数字政通科技股份有限公司便民服务平台存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-14023",
+    "publish": "2025-06-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u6570\\u5b57\\u653f\\u901a\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u4fbf\\u6c11\\u670d\\u52a1\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "便民服务平台‌是一个旨在提升城市管理和服务水平的综合性平台。北京数字政通科技股份有限公司便民服务平台存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.egova.com.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "853efea9a741b37181e13c99c3d3f4b0"
+}

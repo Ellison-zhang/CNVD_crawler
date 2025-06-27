@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 16:07:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14044",
+    "spider_time": 1751040459889,
+    "name": "wordpress file-manager-advanced插件存在文件上传漏洞",
+    "cnvd": "CNVD-2025-14044",
+    "publish": "2025-06-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress file-manager-advanced\\u63d2\\u4ef6 <=6.7.2\"]",
+    "cve": null,
+    "description": "file-manager-advanced插件是一款专为WordPress设计的文件管理插件。wordpress file-manager-advanced插件存在文件上传漏洞，攻击者可利用漏洞上传恶意文件，获取服务器权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/file-manager-advanced/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "ed112283b3cbbe3fc59db5e7e2379107"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 16:08:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14021",
+    "spider_time": 1751040492275,
+    "name": "熵基科技股份有限公司时间精细化管理平台存在XSS漏洞",
+    "cnvd": "CNVD-2025-14021",
+    "publish": "2025-06-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u71b5\\u57fa\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u65f6\\u95f4\\u7cbe\\u7ec6\\u5316\\u7ba1\\u7406\\u5e73\\u53f0 11.0\"]",
+    "cve": null,
+    "description": "熵基科技股份有限公司是一家以生物识别为核心技术的全球知名企业，致力于生物识别核心技术赋能、智慧出入口 人、车、物软件平台赋能等。熵基科技股份有限公司时间精细化管理平台存在XSS漏洞，攻击者可利用漏洞获取用户cookie等敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.zkteco.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "242f3d48d29f39363a86ebc36b6edf44"
+}

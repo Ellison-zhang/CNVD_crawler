@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 16:07:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14024",
+    "spider_time": 1751040479112,
+    "name": "惠普贸易（上海）有限公司HP LaserJet P3015存在弱口令漏洞",
+    "cnvd": "CNVD-2025-14024",
+    "publish": "2025-06-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u60e0\\u666e\\u8d38\\u6613\\uff08\\u4e0a\\u6d77\\uff09\\u6709\\u9650\\u516c\\u53f8 HP LaserJet P3015\"]",
+    "cve": null,
+    "description": "HP LaserJet P3015是一款黑白激光打印机。惠普贸易（上海）有限公司HP LaserJet P3015存在弱口令漏洞，攻击者可利用漏洞登录系统，获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.hp.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "1d4a313416b05d0d61bfbbbad47d8cf4"
+}

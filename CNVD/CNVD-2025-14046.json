@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 16:07:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14046",
+    "spider_time": 1751040453434,
+    "name": "杭州吉拉科技有限公司LVS精益价值管理系统存在任意文件下载漏洞",
+    "cnvd": "CNVD-2025-14046",
+    "publish": "2025-06-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u676d\\u5dde\\u5409\\u62c9\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 LVS\\u7cbe\\u76ca\\u4ef7\\u503c\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "LVS精益价值管理系统是一款专注于企业精益化管理和价值流优化的解决方案。杭州吉拉科技有限公司LVS精益价值管理系统存在任意文件下载漏洞，攻击者可利用该漏洞下载任意文件，获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.glvsm.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "ab09896fbbba52efe51c261efe85d6f5"
+}

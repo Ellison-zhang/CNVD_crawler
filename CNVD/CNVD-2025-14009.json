@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 16:08:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14009",
+    "spider_time": 1751040511001,
+    "name": "深圳达实智能股份有限公司车位引导管理系统存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-14009",
+    "publish": "2025-06-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u8fbe\\u5b9e\\u667a\\u80fd\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u8f66\\u4f4d\\u5f15\\u5bfc\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "深圳达实智能股份有限公司一直从事于物联网技术研发及应用推广，致力于成为全球领先的智慧空间服务商，基于自主研发的AIoT智能物联网管控平台，聚合模块化的空间场景应用，为用户提供全生命周期的智慧服务。深圳达实智能股份有限公司车位引导管理系统存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.chn-das.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "7a49470372752f72d0a74e3e00738a00"
+}

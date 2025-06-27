@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 16:08:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14012",
+    "spider_time": 1751040503656,
+    "name": "Vanna.AI vanna存在命令注入漏洞",
+    "cnvd": "CNVD-2025-14012",
+    "publish": "2025-06-28",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Vanna.AI vanna\"]",
+    "cve": null,
+    "description": "vanna是一个个性化AI SQL代理。Vanna.AI vanna存在命令注入漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://vanna.ai/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "aabe758a5b5b8473bfb608e252f26f29"
+}
