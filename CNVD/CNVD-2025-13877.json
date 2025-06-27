@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 02:35:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13877",
+    "spider_time": 1750991711969,
+    "name": "WordPress AI Image Lab – Free AI Image Generator plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-13877",
+    "publish": "2025-06-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress AI Image Lab \\u2013 Free AI Image Generator plugin <=1.0.6\"]",
+    "cve": "CVE-2025-4592",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress AI Image Lab – Free AI Image Generator plugin存在跨站请求伪造漏洞，该漏洞源于wpz-ai-images页面上的随机数验证缺失或不正确。攻击者可利用该漏洞伪造请求更新插件的API密钥。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-4592",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://cn.wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-24",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "7882dae95fcc711b6a7ad69552ba8e74"
+}

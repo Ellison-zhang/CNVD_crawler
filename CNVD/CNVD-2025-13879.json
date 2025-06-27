@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 02:35:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13879",
+    "spider_time": 1750991722663,
+    "name": "WordPress Arconix FAQ plugin访问控制不当漏洞",
+    "cnvd": "CNVD-2025-13879",
+    "publish": "2025-06-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"WordPress Arconix FAQ plugin <=1.9.6\"]",
+    "cve": "CVE-2025-49874",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Arconix FAQ plugin存在访问控制不当漏洞，该漏洞源于缺少授权，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/arconix-faq/vulnerability/wordpress-arconix-faq-plugin-1-9-6-broken-access-control-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/arconix-faq/",
+    "patch": "WordPress Arconix FAQ plugin访问控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-24",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "09f4e82f7d7bc1b6b093c3ebc0f7e07c"
+}
