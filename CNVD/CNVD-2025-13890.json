@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 03:27:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13890",
+    "spider_time": 1750994849565,
+    "name": "WordPress DIOT SCADA with MQTT plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-13890",
+    "publish": "2025-06-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress DIOT SCADA with MQTT plugin <=1.0.5.1\"]",
+    "cve": "CVE-2025-4216",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress DIOT SCADA with MQTT plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/ecava-diot-scada/trunk/includes/shortcodes.php",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-24",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "ad1b635f4a73e9d38832b0a76053901c"
+}

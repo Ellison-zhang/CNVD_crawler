@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 03:27:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13883",
+    "spider_time": 1750994822014,
+    "name": "WordPress Besa plugin文件包含漏洞",
+    "cnvd": "CNVD-2025-13883",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Besa plugin <=2.3.8\"]",
+    "cve": "CVE-2025-49252",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Besa plugin存在文件包含漏洞，该漏洞源于未对本地文件资源的调用做有效过滤，攻击者可利用该漏洞导致PHP本地文件包含。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/theme/besa/vulnerability/wordpress-besa-2-3-8-local-file-inclusion-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress Besa plugin文件包含漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-24",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "e53c94062ec839970a435f8230fb8761"
+}
