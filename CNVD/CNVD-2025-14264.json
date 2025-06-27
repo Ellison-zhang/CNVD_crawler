@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 11:04:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14264",
+    "spider_time": 1751022261539,
+    "name": "WordPress Everest Forms plugin存在未明漏洞",
+    "cnvd": "CNVD-2025-14264",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Everest Forms plugin <=1.9.4\"]",
+    "cve": "CVE-2025-5927",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。ordPress Everest Forms plugin存在安全漏洞，该漏洞源于delete_entry_files函数路径验证不足，攻击者可利用该漏洞导致任意文件删除。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://everestforms.net/changelog/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/everest-forms/",
+    "patch": "WordPress Everest Forms plugin存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "8963e0b9c9e2e2ef8af5d4ee81c95aa2"
+}
