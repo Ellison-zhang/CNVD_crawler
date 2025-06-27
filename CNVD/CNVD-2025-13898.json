@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 07:04:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13898",
+    "spider_time": 1751007865133,
+    "name": "TOTOLINK EX200缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-13898",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK EX200 V4.0.3c.7646_B20201211\"]",
+    "cve": "CVE-2024-7335",
+    "description": "‌TOTOLINK EX200是一款2.4G无线N范围扩展器，旨在扩大现有Wi-Fi网络的覆盖范围。TOTOLINK EX200存在缓冲区溢出漏洞。该漏洞源于文件/cgi-bin/cstecgi.cgi？action=save&setting的函数getSaveConfig作参数http_host会导致缓冲区溢出。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-7335",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-01",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "7f09a5ab9cefd3ed508619d865b39683"
+}
