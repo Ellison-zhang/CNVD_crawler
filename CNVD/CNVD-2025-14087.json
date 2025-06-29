@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-29 16:07:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14087",
+    "spider_time": 1751213230119,
+    "name": "北京神州视翰科技有限公司远程医疗综合服务平台存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-14087",
+    "publish": "2025-06-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u795e\\u5dde\\u89c6\\u7ff0\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u8fdc\\u7a0b\\u533b\\u7597\\u7efc\\u5408\\u670d\\u52a1\\u5e73\\u53f0 v1.1\"]",
+    "cve": null,
+    "description": "北京神州视翰科技有限公司成立于2010年，是一家专注于智慧医院、商业智能屏、智慧教育等领域的信息化产品和方案解决商。北京神州视翰科技有限公司远程医疗综合服务平台存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttp://www.china-shine.com.cn/",
+    "patch": "北京神州视翰科技有限公司远程医疗综合服务平台存在SQL注入漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-05-16",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "b3945a289e1b6b1012bec76d8cadb535"
+}
