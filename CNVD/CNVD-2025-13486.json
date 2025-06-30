@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-06-30 07:05:32",
+    "parse_time": "2025-06-30 08:05:58",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13486",
-    "spider_time": 1751267132416,
+    "spider_time": 1751270758722,
     "name": "新华三技术有限公司H3C N12存在拒绝服务漏洞",
     "cnvd": "CNVD-2025-13486",
-    "publish": "2025-06-23",
+    "publish": "2025-06-27",
     "severity": "高",
     "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
     "product": "[\"\\u65b0\\u534e\\u4e09\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 H3C N12\"]",
@@ -12,11 +12,11 @@
     "description": "H3C N12是中国新华三（H3C）公司的一款无线路由器。新华三技术有限公司H3C N12存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
     "flaw_type": "通用型漏洞",
     "reference": null,
-    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.h3c.com/",
-    "patch": "(无补丁信息)",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.h3c.com/",
+    "patch": "新华三技术有限公司H3C N12存在拒绝服务漏洞的补丁",
     "verify": "已验证",
     "submit_time": "2025-05-09",
     "open_time": "2025-06-26",
-    "update_time": "2025-06-26",
-    "data_summary": "a6d2f9c9719b54a0e4ad8eec9aa585f1"
+    "update_time": "2025-06-27",
+    "data_summary": "9f90be786115ab809556d1c7348cadaa"
 }

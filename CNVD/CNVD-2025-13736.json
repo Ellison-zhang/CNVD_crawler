@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-06-30 07:05:09",
+    "parse_time": "2025-06-30 08:05:35",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13736",
-    "spider_time": 1751267109272,
+    "spider_time": 1751270735569,
     "name": "北京神州视翰科技有限公司E呼对讲系统存在SQL注入漏洞",
     "cnvd": "CNVD-2025-13736",
-    "publish": "2025-06-22",
+    "publish": "2025-06-27",
     "severity": "高",
     "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
     "product": "[\"\\u5317\\u4eac\\u795e\\u5dde\\u89c6\\u7ff0\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 E\\u547c\\u5bf9\\u8bb2\\u7cfb\\u7edf\"]",
@@ -12,11 +12,11 @@
     "description": "北京神州视翰科技有限公司是专业的智慧医院、智慧教育及信息发布领域网络音视频及信息化解决方案提供商。北京神州视翰科技有限公司E呼对讲系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
     "flaw_type": "通用型漏洞",
     "reference": null,
-    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.china-shine.com.cn/",
-    "patch": "(无补丁信息)",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttp://www.china-shine.com.cn/",
+    "patch": "北京神州视翰科技有限公司E呼对讲系统存在SQL注入漏洞的补丁",
     "verify": "已验证",
     "submit_time": "2025-05-08",
     "open_time": "2025-06-26",
-    "update_time": "2025-06-26",
-    "data_summary": "2df53da5f1303a5b73fb5c0dd2b93dd2"
+    "update_time": "2025-06-27",
+    "data_summary": "058e2f50e76acb1f1de72b1139b26869"
 }
