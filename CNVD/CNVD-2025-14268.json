@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-30 06:10:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14268",
+    "spider_time": 1751263837793,
+    "name": "TOTOLINK T10 setWiFiScheduleCfg函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-14268",
+    "publish": "2025-06-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK T10 4.1.8cu.5207\"]",
+    "cve": "CVE-2025-6137",
+    "description": "TOTOLINK T10是中国吉翁电子（TOTOLINK）公司的一款无线网路系统路由器。TOTOLINK T10存在缓冲区溢出漏洞，该漏洞源于文件/cgi-bin/cstecgi.cgi中函数setWiFiScheduleCfg的参数desc未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://candle-throne-f75.notion.site/TOTOLINK-T10-setWiFiScheduleCfg-20ddf0aa11858053a171f052787c202f",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/172/ids/36.html",
+    "patch": "TOTOLINK T10 setWiFiScheduleCfg函数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-24",
+    "open_time": "2025-06-30",
+    "update_time": "2025-06-30",
+    "data_summary": "c8bb6cc1f06d8f3a6f82c22d42bb1060"
+}

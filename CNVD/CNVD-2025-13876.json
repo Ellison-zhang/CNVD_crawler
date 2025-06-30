@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-30 05:08:00",
+    "parse_time": "2025-06-30 06:11:10",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13876",
-    "spider_time": 1751260080751,
+    "spider_time": 1751263870084,
     "name": "WordPress AFS Analytics plugin访问控制不当漏洞",
     "cnvd": "CNVD-2025-13876",
     "publish": "2025-06-26",
