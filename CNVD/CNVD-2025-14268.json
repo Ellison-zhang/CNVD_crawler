@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-06-30 08:06:06",
+    "parse_time": "2025-06-30 22:03:48",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14268",
-    "spider_time": 1751270766247,
+    "spider_time": 1751321028710,
     "name": "TOTOLINK T10 setWiFiScheduleCfg函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-14268",
     "publish": "2025-06-26",
