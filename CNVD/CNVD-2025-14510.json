@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-01 09:05:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14510",
+    "spider_time": 1751360712880,
+    "name": "Adobe Substance3D Painter缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-14510",
+    "publish": "2025-07-01",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Substance3D Painter <=11.0.1\"]",
+    "cve": "CVE-2025-47108",
+    "description": "Adobe Substance 3D Painter‌是Adobe Creative Cloud生态下的一款专业3D纹理设计工具。Adobe Substance3D Painter存在缓冲区溢出漏洞，该漏洞源于越界写入，攻击者可利用该漏洞导致任意代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-47108",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/substance3d_painter/apsb25-58.html",
+    "patch": "Adobe Substance3D Painter缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-07-01",
+    "update_time": "2025-07-01",
+    "data_summary": "81be7d9b5c97fb2d58bfbe6cc8056419"
+}
