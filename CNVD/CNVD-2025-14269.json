@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-01 02:46:02",
+    "parse_time": "2025-07-01 03:33:55",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14269",
-    "spider_time": 1751337962332,
+    "spider_time": 1751340835567,
     "name": "TOTOLINK T10 setWizardCfg函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-14269",
     "publish": "2025-06-26",
