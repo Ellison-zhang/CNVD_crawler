@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-01 11:04:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14533",
+    "spider_time": 1751367842079,
+    "name": "TOTOLINK LR1200硬编码密码漏洞",
+    "cnvd": "CNVD-2025-14533",
+    "publish": "2025-07-01",
+    "severity": "低",
+    "cvss_vector": "AV:A/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"TOTOLINK LR1200 9.3.1cu.2832\"]",
+    "cve": "CVE-2024-7216",
+    "description": "TOTOLINK LR1200是一款专为4G LTE网络设计的无线路由器‌。TOTOLINK LR1200存在硬编码密码漏洞，该漏洞源于/etc/shadow.sample页面包含一个使用硬编码密码。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.272787",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-02",
+    "open_time": "2025-07-01",
+    "update_time": "2025-07-01",
+    "data_summary": "89cc94548baa132d1476abd5723b79ff"
+}
