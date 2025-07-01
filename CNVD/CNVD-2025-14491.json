@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-01 16:07:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14491",
+    "spider_time": 1751386028764,
+    "name": "FreeFloat FTP Server GET Command Handler组件缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-14491",
+    "publish": "2025-07-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Freefloat Freefloat FTP Server 1.0.0\"]",
+    "cve": "CVE-2025-5220",
+    "description": "FreeFloat FTP Server是FreeFloat公司的一个FTP服务。FreeFloat FTP Server 1.0.0版本存在缓冲区溢出漏洞，该漏洞源于GET Command Handler组件未能正确验证输入数据的长度大小，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://fitoxs.com/exploit/exploit-1c5dc6c9823d6c734b7dd46458c5196ad7a8c902542c54c7465d38de84bc3ee2.txt",
+    "solution": "目前没有详细解决方案提供：\nhttp://freefloat.com/ftpserver",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-30",
+    "open_time": "2025-07-01",
+    "update_time": "2025-07-01",
+    "data_summary": "f9750bf089ae2afd382e43d85f21fc90"
+}
