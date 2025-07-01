@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-01 10:04:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14523",
+    "spider_time": 1751364260335,
+    "name": "TOTOLINK EX1200T缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-14523",
+    "publish": "2025-07-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK TOTOLINK EX1200T 4.1.2cu.5232_B20210713\"]",
+    "cve": "CVE-2025-6568",
+    "description": "TOTOLINK EX1200T是一款双频无线信号放大器，主要用于扩展现有无线网络的覆盖范围‌。TOTOLINK EX1200T存在缓冲区溢出漏洞，该漏洞源于HTTP POST请求处理程序对参数submit-url处理不当。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6568",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-01",
+    "update_time": "2025-07-01",
+    "data_summary": "22e4a9d27ef55ec6943cb404fd5e233d"
+}
