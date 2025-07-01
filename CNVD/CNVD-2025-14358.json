@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-01 02:43:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14358",
+    "spider_time": 1751337836376,
+    "name": "Dmacroweb DM Corporative CMS不安全直接象引用漏洞",
+    "cnvd": "CNVD-2025-14358",
+    "publish": "2025-06-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Dmacroweb DM Corporative CMS\"]",
+    "cve": "CVE-2025-40660",
+    "description": "Dmacroweb DM Corporative CMS是西班牙Dmacroweb公司的一个内容管理系统。Dmacroweb DM Corporative CMS存在不安全直接象引用漏洞，该漏洞源于文件/administer/select node/data.asp中参数option未能正确实现访问控制机制，直接将客户端传送来的数据作为对象引用。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.incibe.es/en/incibe-cert/notices/aviso/multiple-vulnerabilities-dm-corporative-cms-dmacroweb",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.acc.com.es/es",
+    "patch": "Dmacroweb DM Corporative CMS不安全直接象引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-07-01",
+    "update_time": "2025-07-01",
+    "data_summary": "267887551eb1d399c73b76f785b4001c"
+}

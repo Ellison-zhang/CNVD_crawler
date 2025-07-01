@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-01 02:43:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14355",
+    "spider_time": 1751337822245,
+    "name": "Dmacroweb DM Corporative CMS SQL注入漏洞（CNVD-2025-14355）",
+    "cnvd": "CNVD-2025-14355",
+    "publish": "2025-06-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Dmacroweb DM Corporative CMS\"]",
+    "cve": "CVE-2025-40655",
+    "description": "Dmacroweb DM Corporative CMS是西班牙Dmacroweb公司的一个内容管理系统。Dmacroweb DM Corporative CMS存在SQL注入漏洞，该漏洞源于文件/antcatalogue.asp中参数name缺少对外部输入SQL语句的验证。攻击者可利用该漏洞查看、添加、修改或删除后端数据库中的信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.incibe.es/en/incibe-cert/notices/aviso/multiple-vulnerabilities-dm-corporative-cms-dmacroweb",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.acc.com.es/es",
+    "patch": "Dmacroweb DM Corporative CMS SQL注入漏洞（CNVD-2025-14355）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-07-01",
+    "update_time": "2025-07-01",
+    "data_summary": "38ab522f805073acb7ac74d6790c292a"
+}
