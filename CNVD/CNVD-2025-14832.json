@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-02 10:06:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14832",
+    "spider_time": 1751450808583,
+    "name": "Adobe Experience Manager访问控制不当漏洞",
+    "cnvd": "CNVD-2025-14832",
+    "publish": "2025-07-01",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Adobe Adobe Experience Manager <=6.5.22\"]",
+    "cve": "CVE-2025-46889",
+    "description": "Adobe Experience Manager是Adobe公司推出的一款综合性内容管理解决方案。Adobe Experience Manager存在访问控制不当漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-46889",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/experience-manager/apsb25-48.html",
+    "patch": "Adobe Experience Manager访问控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "8e91d5cb4bc50fbfa7c39135d96e37b9"
+}
