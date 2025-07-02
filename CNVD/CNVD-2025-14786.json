@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-02 08:09:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14786",
+    "spider_time": 1751443747037,
+    "name": "TOTOLINK A3600R cstecgi.cgi文件setTelnetCfg函数命令注入漏洞",
+    "cnvd": "CNVD-2025-14786",
+    "publish": "2025-07-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK A3600R 4.1.2cu.5182_B20201102\"]",
+    "cve": "CVE-2024-7181",
+    "description": "TOTOLINK A3600R是中国吉翁电子（TOTOLINK）公司的一款6天线1200M无线路由器。TOTOLINK A3600R存在命令注入漏洞，该漏洞源于/cgi-bin/cstecgi.cgi文件的setTelnetCfg函数中的telnet_enabled参数处理不当。攻击者可利用该漏洞导致设备控制权获取，进一步导致数据泄露、设备失效或被用于其他恶意活动等严重后果。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/TOTOLINK/A3600R/setTelnetCfg.md\nhttps://vuldb.com/?submit.378050\nhttps://vuldb.com/?ctiid.272602",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-29",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "908bd1e7b5e466b9d7382b718a9a6320"
+}
