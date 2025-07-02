@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-02 07:05:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14775",
+    "spider_time": 1751439900335,
+    "name": "WordPress App Builder plugin访问控制不当漏洞",
+    "cnvd": "CNVD-2025-14775",
+    "publish": "2025-07-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"WordPress App Builder plugin <=5.5.3\"]",
+    "cve": "CVE-2025-49989",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress App Builder plugin存在访问控制不当漏洞，该漏洞源于缺少授权，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/app-builder/vulnerability/wordpress-app-builder-plugin-5-5-3-broken-access-control-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/app-builder/",
+    "patch": "WordPress App Builder plugin访问控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "4829b6e2414fa8d0bf90440a39f44ae8"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-02 07:04:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14771",
+    "spider_time": 1751439857156,
+    "name": "WordPress Zoomsounds plugin文件上传漏洞",
+    "cnvd": "CNVD-2025-14771",
+    "publish": "2025-07-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"WordPress Zoomsounds plugin <6.05\"]",
+    "cve": "CVE-2021-4457",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Zoomsounds plugin存在文件上传漏洞，该漏洞源于允许未经验证的用户上传任意文件到Web服务器。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2021-4457",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wpscan.com/vulnerability/07259a61-8ba9-4dd0-8d52-cc1df389c0ad",
+    "patch": "WordPress Zoomsounds plugin文件上传漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "43134902a5650ca68b1e5ca16fb3d638"
+}

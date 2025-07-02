@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-02 07:05:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14778",
+    "spider_time": 1751439912586,
+    "name": "WordPress Automatically Hierarchic Categories in Menu plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-14778",
+    "publish": "2025-07-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"WordPress Automatically Hierarchic Categories in Menu plugin <=2.0.9\"]",
+    "cve": "CVE-2025-50048",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Automatically Hierarchic Categories in Menu plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/automatically-hierarchic-categories-in-menu/vulnerability/wordpress-automatically-hierarchic-categories-in-menu-plugin-2-0-9-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/automatically-hierarchic-categories-in-menu/",
+    "patch": "WordPress Automatically Hierarchic Categories in Menu plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "738a18b3fb47a4fa697e8ebb1c78a12f"
+}

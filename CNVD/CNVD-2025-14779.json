@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-02 07:05:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14779",
+    "spider_time": 1751439918078,
+    "name": "WordPress Beaver Builder plugin代码问题漏洞",
+    "cnvd": "CNVD-2025-14779",
+    "publish": "2025-07-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"WordPress Beaver Builder plugin <=2.9.1\"]",
+    "cve": "CVE-2025-4102",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Beaver Builder plugin存在代码问题漏洞，该漏洞源于缺少文件类型验证，攻击者可利用该漏洞导致经过认证的管理员上传任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.wordfence.com/threat-intel/vulnerabilities/id/2eb4608f-fa4f-444c-a857-c9059777a70b?source=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/beaver-builder-lite-version/",
+    "patch": "WordPress Beaver Builder plugin代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "cccaef4b7b2c542b7ca0812d3d21b1e9"
+}
