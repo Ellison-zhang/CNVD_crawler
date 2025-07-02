@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-02 09:05:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14795",
+    "spider_time": 1751447136965,
+    "name": "WordPress Contact Form 7 AWeber Extension plugin访问控制不当漏洞",
+    "cnvd": "CNVD-2025-14795",
+    "publish": "2025-07-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"WordPress Contact Form 7 AWeber Extension plugin <=0.1.38\"]",
+    "cve": "CVE-2025-49988",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Contact Form 7 AWeber Extension plugin存在访问控制不当漏洞，该漏洞源于缺少授权，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/integrate-contact-form-7-and-aweber/vulnerability/wordpress-contact-form-7-aweber-extension-plugin-0-1-38-broken-access-control-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/integrate-contact-form-7-and-aweber/",
+    "patch": "WordPress Contact Form 7 AWeber Extension plugin访问控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "51550a874cd75828e7ea54e6933c086a"
+}
