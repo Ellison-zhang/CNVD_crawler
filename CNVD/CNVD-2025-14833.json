@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-02 11:05:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14833",
+    "spider_time": 1751454320793,
+    "name": "TOTOLINK AC1200缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-14833",
+    "publish": "2025-07-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"TOTOLINK AC1200 A3100R V4.1.2cu.5247_B20211129\"]",
+    "cve": "CVE-2024-36650",
+    "description": "TOTOLINK AC1200是中国吉翁电子（TOTOLINK）公司的一款双频Wi-Fi路由器。TOTOLINK AC1200存在缓冲区溢出漏洞，该漏洞源于/lib/cste_modules/system.so中的cgi函数setNoticeCfg未检查用户输入字符串NoticeUrl的长度，攻击者可利用该漏洞构造恶意HTTP或MQTT请求以造成拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://gist.github.com/Swind1er/f442fcac520a48c05c744c7b72362483",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-14",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "ce8f220ce2039e4f47b4dd0c76e4d3e5"
+}
