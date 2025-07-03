@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-03 00:15:24",
+    "parse_time": "2025-07-03 01:31:39",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14490",
-    "spider_time": 1751501724639,
+    "spider_time": 1751506299908,
     "name": "FreeFloat FTP Server ASCII Command Handler组件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-14490",
     "publish": "2025-07-02",
