@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-03 16:06:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10228",
+    "spider_time": 1751558818308,
+    "name": "深圳市联软科技股份有限公司联软安渡UniNXG安全数据交换系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-10228",
+    "publish": "2025-07-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u8054\\u8f6f\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u8054\\u8f6f\\u5b89\\u6e21UniNXG\\u5b89\\u5168\\u6570\\u636e\\u4ea4\\u6362\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "联软安渡UniNXG安全数据交换系统是联软科技发明的，融合网络隔离、网盘和DLP技术于一体的专业产品。深圳市联软科技股份有限公司联软安渡UniNXG安全数据交换系统存在SQL注入漏洞，攻击者可利用该漏洞向后台发送包含恶意指令代码的PostgreSQL语句，间接调用命令执行权限写入webshell，在无需登录的情况下获取目标服务器的控制权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.leagsoft.com/product-detail/15",
+    "patch": "深圳市联软科技股份有限公司联软安渡UniNXG安全数据交换系统存在SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-05-21",
+    "update_time": "2025-05-24",
+    "data_summary": "0469f07741e966370ec83f1f15043c4a"
+}
