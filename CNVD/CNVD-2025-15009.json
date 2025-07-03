@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-03 10:05:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15009",
+    "spider_time": 1751537104067,
+    "name": "Dell AppSync Server XML外部实体注入漏洞",
+    "cnvd": "CNVD-2025-15009",
+    "publish": "2025-07-03",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"DELL Dell AppSync Server >=4.3\\uff0c<=4.6\"]",
+    "cve": "CVE-2024-39586",
+    "description": "Dell AppSync Server是美国戴尔（Dell）公司的一个拷贝数据管理软件。Dell AppSync Server 4.3至4.6版本存在XML外部实体注入漏洞，该漏洞源于网络系统或产品未设置正确的过滤允许引用外部实体，攻击者可利用该漏洞通过发送特制的XML文件读取文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-39586",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000234216/dsa-2024-420-security-update-for-dell-emc-appsync-for-multiple-vulnerabilities",
+    "patch": "Dell AppSync Server XML外部实体注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-17",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "e634c5de867014763d4cd180f03dc2d7"
+}

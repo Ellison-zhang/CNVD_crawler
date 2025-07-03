@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-03 10:04:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15006",
+    "spider_time": 1751537080204,
+    "name": "Dell Wyse Management Suite WMS跨站脚本漏洞（CNVD-2025-15006）",
+    "cnvd": "CNVD-2025-15006",
+    "publish": "2025-07-03",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:N",
+    "product": "[\"DELL Wyse Management Suite WMS <5.2\"]",
+    "cve": "CVE-2025-36580",
+    "description": "Dell Wyse Management Suite WMS是美国戴尔（Dell）公司的一个云端与本地管理平台。用于集中管理Wyse轻量级终端设备，支持远程配置、固件更新、安全策略管理等功能。Dell Wyse Management Suite WMS存在跨站脚本漏洞，该漏洞源于输入中和不当，攻击者可利用该漏洞导致跨站脚本攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36580",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=xw9mt&oscode=naa&productcode=wyse-wms",
+    "patch": "Dell Wyse Management Suite WMS跨站脚本漏洞（CNVD-2025-15006）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "6a992eee3d6f086d6fd5c01ba379a8d0"
+}
