@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-03 07:05:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14954",
+    "spider_time": 1751526323197,
+    "name": "Autel MaxiCharger AC Wallbox Commercial命令执行漏洞",
+    "cnvd": "CNVD-2025-14954",
+    "publish": "2025-07-03",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Autel MaxiCharger AC Wallbox Commercial <V1.39.51(American)\", \"Autel MaxiCharger AC Wallbox Commercial <V1.56.51(European)\"]",
+    "cve": "CVE-2025-5826",
+    "description": "Autel MaxiCharger AC Wallbox Commercial是美国Autel公司的一款智慧型AI电动车充电器。Autel MaxiCharger AC Wallbox Commercial存在命令执行漏洞，该漏洞源于ble_process_esp32_msg函数输入误解，攻击者可利用该漏洞导致执行AT命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-25-345/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://store.autelenergy.com/products/ac-elite-business-50a-ev-charger",
+    "patch": "Autel MaxiCharger AC Wallbox Commercial命令执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "ed03952c24d67e2eb132bc86da775813"
+}

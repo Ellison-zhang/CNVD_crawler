@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-03 07:05:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14953",
+    "spider_time": 1751526318152,
+    "name": "Autel MaxiCharger AC Wallbox Commercial访问控制错误漏洞",
+    "cnvd": "CNVD-2025-14953",
+    "publish": "2025-07-03",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Autel MaxiCharger AC Wallbox Commercial <V1.39.51(American)\", \"Autel MaxiCharger AC Wallbox Commercial <V1.56.51(European)\"]",
+    "cve": "CVE-2025-6678",
+    "description": "Autel MaxiCharger AC Wallbox Commercial是美国Autel公司的一款智慧型AI电动车充电器。Autel MaxiCharger AC Wallbox Commercial存在访问控制错误漏洞，该漏洞源于Pile API缺少身份验证，攻击者可利用该漏洞导致凭据泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-25-342/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://store.autelenergy.com/products/ac-elite-business-50a-ev-charger",
+    "patch": "Autel MaxiCharger AC Wallbox Commercial访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "e142afa94cf46561acefc2c94deb0ece"
+}
