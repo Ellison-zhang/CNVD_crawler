@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-04 02:35:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15056",
+    "spider_time": 1751596543298,
+    "name": "TOTOLINK CP900L web_cste/cgi-bin/product.ini硬编码密码漏洞",
+    "cnvd": "CNVD-2025-15056",
+    "publish": "2025-07-03",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK CP900L v4.1.5cu.798_B20221228\"]",
+    "cve": "CVE-2024-35396",
+    "description": "TOTOLINK CP900L是中国吉翁电子（TOTOLINK）公司的一个无线路由器。TOTOLINK CP900L存在硬编码密码漏洞，该漏洞源于在/web_cste/cgi-bin/product.ini中包含硬编码密码，攻击者可利用该漏洞以root身份登录。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-35396",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-30",
+    "open_time": "2025-07-04",
+    "update_time": "2025-07-04",
+    "data_summary": "f7f4e9daec4bec49c776a24b05ac299b"
+}
