@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-04 10:04:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15108",
+    "spider_time": 1751623441327,
+    "name": "Ivanti Workspace Control存在未明漏洞（CNVD-2025-15108）",
+    "cnvd": "CNVD-2025-15108",
+    "publish": "2025-07-04",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Ivanti Workspace Control <10.19.10.0\"]",
+    "cve": "CVE-2025-5353",
+    "description": "Ivanti Workspace Control是Ivanti公司提供的桌面管理解决方案。Ivanti Workspace Control存在安全漏洞，该漏洞源于硬编码密钥，攻击者可利用该漏洞对存储SQL凭据进行解密。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Workspace-Control-CVE-2025-5353-CVE-CVE-2025-22463-CVE-2025-22455?language=en_US",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.ivanti.com/resources/downloads",
+    "patch": "Ivanti Workspace Control存在未明漏洞（CNVD-2025-15108）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-07-04",
+    "update_time": "2025-07-04",
+    "data_summary": "823eb0bcd3c3fa1a80e68aa6033724d6"
+}
