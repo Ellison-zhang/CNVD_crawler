@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-04 03:26:24",
+    "parse_time": "2025-07-04 04:10:49",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15054",
-    "spider_time": 1751599584425,
+    "spider_time": 1751602249485,
     "name": "TOTOLINK CP900L UploadFirmwareFile函数命令注入漏洞",
     "cnvd": "CNVD-2025-15054",
     "publish": "2025-07-03",

@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-04 03:29:28",
+    "parse_time": "2025-07-04 04:15:59",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14506",
-    "spider_time": 1751599768656,
+    "spider_time": 1751602559080,
     "name": "FreeFloat FTP Server缓冲区溢出漏洞（CNVD-2025-14506）",
     "cnvd": "CNVD-2025-14506",
     "publish": "2025-07-02",
