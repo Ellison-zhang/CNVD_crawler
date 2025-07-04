@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-04 09:04:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15095",
+    "spider_time": 1751619865403,
+    "name": "WordPress Bluff Post plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-15095",
+    "publish": "2025-07-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"WordPress Bluff Post plugin <=1.1.1\"]",
+    "cve": "CVE-2025-52784",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Bluff Post plugin存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/bluff-post/vulnerability/wordpress-bluff-post-plugin-1-1-1-cross-site-request-forgery-csrf-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/bluff-post/",
+    "patch": "WordPress Bluff Post plugin跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-04",
+    "update_time": "2025-07-04",
+    "data_summary": "a17e8fefd1a5ca0a867d0eb7ef1d4b02"
+}
