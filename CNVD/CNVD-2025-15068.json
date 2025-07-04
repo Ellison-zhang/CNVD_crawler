@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-04 07:07:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15068",
+    "spider_time": 1751612864129,
+    "name": "Magma空指针解引用漏洞（CNVD-2025-15068）",
+    "cnvd": "CNVD-2025-15068",
+    "publish": "2025-07-04",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Magma Magma <=1.8.0\"]",
+    "cve": "CVE-2023-37027",
+    "description": "Magma是Magma开源的一个开源软件平台。为网络运营商提供开放、灵活和可扩展的移动核心网络解决方案。Magma存在空指针解引用漏洞，攻击者可利用该漏洞使MME崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-37027",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://magmacore.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-24",
+    "open_time": "2025-07-04",
+    "update_time": "2025-07-04",
+    "data_summary": "72ef1572cb80f897037eb81ca8e122a4"
+}
