@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-04 07:08:02",
+    "parse_time": "2025-07-04 08:05:13",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15055",
-    "spider_time": 1751612882010,
+    "spider_time": 1751616313291,
     "name": "TOTOLINK CP900L /etc/shadow.sample硬编码密码漏洞",
     "cnvd": "CNVD-2025-15055",
     "publish": "2025-07-03",
