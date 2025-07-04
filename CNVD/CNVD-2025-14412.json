@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-04 16:06:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14412",
+    "spider_time": 1751645204906,
+    "name": "新华三技术有限公司H3C NX15存在信息泄露漏洞",
+    "cnvd": "CNVD-2025-14412",
+    "publish": "2025-07-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u65b0\\u534e\\u4e09\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 H3C NX15 V100R015\"]",
+    "cve": null,
+    "description": "H3C NX15是一款家用无线路由器。新华三技术有限公司H3C NX15存在信息泄露漏洞，攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.h3c.com",
+    "patch": "新华三技术有限公司H3C NX15存在信息泄露漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-05-21",
+    "open_time": "2025-07-01",
+    "update_time": "2025-07-01",
+    "data_summary": "5fba3e5668dbd977ee5fa82afe6aabc2"
+}
