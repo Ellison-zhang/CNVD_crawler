@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-05 13:10:41",
+    "parse_time": "2025-07-05 16:06:21",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15053",
-    "spider_time": 1751721041461,
+    "spider_time": 1751731581280,
     "name": "TOTOLINK CP900L堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-15053",
     "publish": "2025-07-03",
