@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-07 10:06:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15191",
+    "spider_time": 1751882781545,
+    "name": "Dell SmartFabric OS10命令注入漏洞（CNVD-2025-15191）",
+    "cnvd": "CNVD-2025-15191",
+    "publish": "2025-07-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:N",
+    "product": "[\"DELL SmartFabric OS10 10.5.6.*\", \"DELL SmartFabric OS10 10.5.4.*\", \"DELL SmartFabric OS10 10.5.5.*\", \"DELL SmartFabric OS10 10.6.0.*\"]",
+    "cve": "CVE-2024-48017",
+    "description": "Dell SmartFabric OS10是戴尔网络推出的软件定义网络操作系统，基于 Linux 和开源技术，旨在实现数据中心网络资源的灵活管理与自动化部署。Dell SmartFabric OS10存在命令注入漏洞，该漏洞源于命令中特殊元素中和不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-48017",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000289970/dsa-2025-070-security-update-for-dell-networking-os10-vulnerabilities",
+    "patch": "Dell SmartFabric OS10命令注入漏洞（CNVD-2025-15191）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-19",
+    "open_time": "2025-07-07",
+    "update_time": "2025-07-07",
+    "data_summary": "46756c4a979eb9c6f35c62d30c933124"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-07 10:04:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15184",
+    "spider_time": 1751882652356,
+    "name": "Dell NetWorker算法降级漏洞",
+    "cnvd": "CNVD-2025-15184",
+    "publish": "2025-07-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:P/A:N",
+    "product": "[\"DELL Dell NetWorker <=19.12.0.1\"]",
+    "cve": "CVE-2025-36582",
+    "description": "Dell NetWorker是戴尔提供的数据保护软件。Dell NetWorker存在算法降级漏洞，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36582",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000338757/dsa-2025-268-security-update-for-dell-networker-selection-of-less-secure-algorithm-during-negotiation-vulnerability",
+    "patch": "Dell NetWorker算法降级漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-07-07",
+    "update_time": "2025-07-07",
+    "data_summary": "6af2c301bee993144963ad9bb6218186"
+}
