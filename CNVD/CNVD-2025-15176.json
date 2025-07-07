@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-07 08:05:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15176",
+    "spider_time": 1751875522254,
+    "name": "Google Chrome资源管理错误漏洞（CNVD-2025-15176）",
+    "cnvd": "CNVD-2025-15176",
+    "publish": "2025-07-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Google Chrome <138.0.7204.49\"]",
+    "cve": "CVE-2025-6555",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome 138.0.7204.49之前版本存在资源管理错误漏洞，该漏洞源于Animation组件负责释放内存的指令发生混乱，攻击者可利用该漏洞导致堆损坏。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6555",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://chromereleases.googleblog.com/2025/06/stable-channel-update-for-desktop_24.html",
+    "patch": "Google Chrome资源管理错误漏洞（CNVD-2025-15176）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-07-07",
+    "update_time": "2025-07-07",
+    "data_summary": "391c2a30f83ab1d1e585d4dc868309f9"
+}
