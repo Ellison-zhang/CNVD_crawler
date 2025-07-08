@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-08 04:11:20",
+    "parse_time": "2025-07-08 05:05:36",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15247",
-    "spider_time": 1751947880103,
+    "spider_time": 1751951136596,
     "name": "GNU Binutils read_and_display_attr_value函数空指针取消引用漏洞",
     "cnvd": "CNVD-2025-15247",
     "publish": "2025-07-07",
