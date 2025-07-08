@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-08 05:05:22",
+    "parse_time": "2025-07-08 06:07:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15244",
-    "spider_time": 1751951122307,
+    "spider_time": 1751954820622,
     "name": "GNU Binutils objdump堆缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-15244",
     "publish": "2025-07-07",
