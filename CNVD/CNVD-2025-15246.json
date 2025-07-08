@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-08 15:04:59",
+    "parse_time": "2025-07-08 16:05:20",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15246",
-    "spider_time": 1751987099975,
+    "spider_time": 1751990720337,
     "name": "GNU Binutils pr_function_type函数内存泄露漏洞",
     "cnvd": "CNVD-2025-15246",
     "publish": "2025-07-07",
