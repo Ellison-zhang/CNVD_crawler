@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-08 02:38:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15247",
+    "spider_time": 1751942303015,
+    "name": "GNU Binutils read_and_display_attr_value函数空指针取消引用漏洞",
+    "cnvd": "CNVD-2025-15247",
+    "publish": "2025-07-07",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"GNU Binutils 2.38.50\"]",
+    "cve": "CVE-2022-35206",
+    "description": "GNU Binutils是一组用于处理二进制文件的工具集。GNU Binutils存在空指针取消引用漏洞，该漏洞源于readelf工具中的dwarf.c文件中的read_and_display_attr_value函数存在空指针解引用。攻击者可利用该漏洞通过精心设计的文件导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-35206",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://sourceware.org/bugzilla/show_bug.cgi?id=29290",
+    "patch": "GNU Binutils read_and_display_attr_value函数空指针取消引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-08-30",
+    "open_time": "2025-07-08",
+    "update_time": "2025-07-08",
+    "data_summary": "ac3ce1fba0eb2e56c16c676805819fc6"
+}

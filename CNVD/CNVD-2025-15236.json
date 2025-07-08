@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-08 02:36:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15236",
+    "spider_time": 1751942171452,
+    "name": "TOTOLINK N350RT缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-15236",
+    "publish": "2025-07-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK N350RT 9.3.5u.6139_B20201216\"]",
+    "cve": "CVE-2024-7333",
+    "description": "TOTOLINK N350RT是一款由中国吉翁电子推出的小型家用路由器 ，主要面向家庭网络覆盖需求。TOTOLINK N350RT存在缓冲区溢出漏洞，该漏洞源于文件/cgi-bin/cstecgi.cgi的函数setParentalRules操纵参数week/sTime/eTime会导致缓冲区溢出。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-7333",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/206/ids/36.html",
+    "patch": "TOTOLINK N350RT缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-01",
+    "open_time": "2025-07-08",
+    "update_time": "2025-07-08",
+    "data_summary": "4dbd04998ee5ea82b8d3e65071fdb88b"
+}

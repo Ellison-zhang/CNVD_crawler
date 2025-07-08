@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-08 02:36:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15242",
+    "spider_time": 1751942166243,
+    "name": "Dell PowerProtect Data Domain访问控制漏洞",
+    "cnvd": "CNVD-2025-15242",
+    "publish": "2025-07-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL Dell PowerProtect Data Domain <8.3.0.15\"]",
+    "cve": "CVE-2025-29987",
+    "description": "Dell PowerProtect Data Domain是戴尔科技推出的数据保护存储设备，基于Data Domain平台构建，专为构建网络弹性基础和实现快速数据恢复设计。Dell PowerProtect Data Domain存在访问控制漏洞，该漏洞源于访问控制粒度不足，攻击者可利用该漏洞以root权限执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-29987",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000300899/dsa-2025-139-dell-technologies-powerprotect-data-domain-security-update-for-a-security-vulnerability",
+    "patch": "Dell PowerProtect Data Domain访问控制漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-10",
+    "open_time": "2025-07-08",
+    "update_time": "2025-07-08",
+    "data_summary": "11cfc31ead1053c11044f3ab53bd4270"
+}

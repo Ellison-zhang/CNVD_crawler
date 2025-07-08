@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-08 02:36:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15239",
+    "spider_time": 1751942189353,
+    "name": "TOTOLINK EX1200L缓冲区溢出漏洞（CNVD-2025-15239）",
+    "cnvd": "CNVD-2025-15239",
+    "publish": "2025-07-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK EX1200L 9.3.5u.6146_B20201023\"]",
+    "cve": "CVE-2024-7338",
+    "description": "TOTOLINK EX1200L是中国吉翁电子推出的双频无线信号放大器，主要用于扩展Wi-Fi覆盖范围。TOTOLINK EX1200L存在缓冲区溢出漏洞，该漏洞源于文件/cgi-bin/cstecgi.cgi的参数week/sTime/eTime会导致缓冲区溢出，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-7338",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/217/ids/36.html",
+    "patch": "TOTOLINK EX1200L缓冲区溢出漏洞（CNVD-2025-15239）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-01",
+    "open_time": "2025-07-08",
+    "update_time": "2025-07-08",
+    "data_summary": "ac83e97d79d3ddc9169a99302f1b7a20"
+}
