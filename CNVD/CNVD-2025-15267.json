@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-08 14:06:40",
+    "parse_time": "2025-07-08 15:04:50",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15267",
-    "spider_time": 1751983600715,
+    "spider_time": 1751987090899,
     "name": "GNU Binutils objdump拒绝服务漏洞",
     "cnvd": "CNVD-2025-15267",
     "publish": "2025-07-07",
