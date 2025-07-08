@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-08 10:04:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15271",
+    "spider_time": 1751969070128,
+    "name": "TOTOLINK A3300R命令执行漏洞",
+    "cnvd": "CNVD-2025-15271",
+    "publish": "2025-07-08",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A3300R 17.0.0cu.557_B20221024\"]",
+    "cve": "CVE-2024-27521",
+    "description": "TOTOLINK A3300R是一款双频无线路由器。TOTOLINK A3300R存在命令执行漏洞，该漏洞源于setOpModeCfg函数的多个参数存在远程命令执行（RCE）漏洞，攻击者可利用该漏洞执行任意系统命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-27521",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-27",
+    "open_time": "2025-07-08",
+    "update_time": "2025-07-08",
+    "data_summary": "625db11246fc77ffe011db25e96c0b9e"
+}

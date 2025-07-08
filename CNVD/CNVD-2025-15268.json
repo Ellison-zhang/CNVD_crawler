@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-08 10:04:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15268",
+    "spider_time": 1751969060438,
+    "name": "Dell PowerScale OneFS权限提升漏洞",
+    "cnvd": "CNVD-2025-15268",
+    "publish": "2025-07-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"DELL PowerScale OneFS >=9.5.0.0\\uff0c<=9.10.0.1\"]",
+    "cve": "CVE-2024-53298",
+    "description": "Dell PowerScale OneFS是美国戴尔（Dell）公司的一个操作系统。提供横向扩展NAS的PowerScale OneFS操作系统。Dell PowerScale OneFS 9.5.0.0至9.10.0.1版本存在权限提升漏洞，该漏洞是由于NFS导出中缺少授权造成的。攻击者可利用该漏洞读取、修改和删除任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dell.com/support/kbdoc/en-us/000326339/dsa-2025-208-security-update-for-dell-powerscale-onefs-for-multiple-security-vulnerabilities",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000326339/dsa-2025-208-security-update-for-dell-powerscale-onefs-for-multiple-security-vulnerabilities",
+    "patch": "Dell PowerScale OneFS权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-08",
+    "update_time": "2025-07-08",
+    "data_summary": "5b604a5d65e9deef6aa5a76dd67b4145"
+}

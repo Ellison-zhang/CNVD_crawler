@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-08 10:04:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15272",
+    "spider_time": 1751969047856,
+    "name": "Tenda AC5堆栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-15272",
+    "publish": "2025-07-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC5 15.03.06.47\"]",
+    "cve": "CVE-2025-6886",
+    "description": "Tenda AC5是中国腾达（Tenda）公司的一款无线路由器。Tenda AC5存在堆栈缓冲区溢出漏洞，该漏洞源于文件/goform/openSchedWifi中参数schedStartTime和schedEndTime未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6886",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-07-08",
+    "update_time": "2025-07-08",
+    "data_summary": "d58168979b3377c64369e343e77b095e"
+}
