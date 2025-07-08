@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-08 08:07:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15266",
+    "spider_time": 1751962061288,
+    "name": "GNU Binutils内存泄漏漏洞",
+    "cnvd": "CNVD-2025-15266",
+    "publish": "2025-07-07",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"GNU Binutils <2.40\"]",
+    "cve": "CVE-2022-48065",
+    "description": "GNU Binutils是一组用于处理二进制文件的工具集。GNU Binutils存在内存泄漏漏洞，该漏洞源于dwarf2.c中的函数find_abstract_instance包含内存泄漏漏洞，攻击者可利用该漏洞导致程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-48065",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://sourceware.org/bugzilla/show_bug.cgi?id=29925",
+    "patch": "GNU Binutils内存泄漏漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-09-21",
+    "open_time": "2025-07-08",
+    "update_time": "2025-07-08",
+    "data_summary": "545479ba0981f4cbaa34f46f11ad223e"
+}

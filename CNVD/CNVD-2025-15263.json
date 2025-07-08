@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-08 08:05:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15263",
+    "spider_time": 1751961932767,
+    "name": "TOTOLINK CP450 setMacFilterRules方法缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-15263",
+    "publish": "2025-07-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"TOTOLINK CP450 4.1.0cu.747_B20191224\"]",
+    "cve": "CVE-2024-34202",
+    "description": "TOTOLINK CP450是中国吉翁电子（TOTOLINK）公司的一款户外无线客户终端设备，主要用于提供无线宽带接入服务，尤其适用于农村或偏远地区的无线网络覆盖。TOTOLINK CP450存在缓冲区溢出漏洞，该漏洞源于setMacFilterRules方法未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/n0wstr/IOTVuln/tree/main/CP450/setMacFilterRules",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "TOTOLINK CP450 setMacFilterRules方法缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-22",
+    "open_time": "2025-07-08",
+    "update_time": "2025-07-08",
+    "data_summary": "3f9b129bf51690ea071418509b3a99b5"
+}

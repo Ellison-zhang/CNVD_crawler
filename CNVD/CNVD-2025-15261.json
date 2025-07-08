@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-08 08:05:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15261",
+    "spider_time": 1751961924435,
+    "name": "TOTOLINK A3600R cstecgi.cgi文件NTPSyncWithHost函数OS命令注入漏洞",
+    "cnvd": "CNVD-2025-15261",
+    "publish": "2025-07-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK A3600R 4.1.2cu.5182_B20201102\"]",
+    "cve": "CVE-2024-7171",
+    "description": "TOTOLINK A3600R是中国吉翁电子推出的6天线1200M无线路由器。TOTOLINK A3600R存在OS命令注入漏洞，该漏洞位于/cgi-bin/cstecgi.cgi文件中的NTPSyncWithHost函数，源于对hostTime参数的处理不当，攻击者可利用该漏洞导致设备失效。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/TOTOLINK/A3600R/NTPSyncWithHost.md\nhttps://vuldb.com/?submit.378038\nhttps://vuldb.com/?ctiid.272592",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/241/ids/36.html",
+    "patch": "TOTOLINK A3600R cstecgi.cgi文件NTPSyncWithHost函数OS命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-29",
+    "open_time": "2025-07-08",
+    "update_time": "2025-07-08",
+    "data_summary": "136c153c58e56e77a386396192ab296d"
+}
