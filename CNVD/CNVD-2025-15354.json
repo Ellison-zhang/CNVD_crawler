@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-09 10:04:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15354",
+    "spider_time": 1752055480403,
+    "name": "Schneider Electric Trio Q Licensed Data Radio信息泄露漏洞漏洞",
+    "cnvd": "CNVD-2025-15354",
+    "publish": "2025-07-09",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Schneider Electric Trio Q Licensed Data Radio <2.7.2\"]",
+    "cve": "CVE-2025-2441",
+    "description": "Schneider Electric Trio Q Licensed Data Radio是法国施耐德电气（Schneider Electric）公司的一款收音机。Schneider Electric Trio Q Licensed Data Radio存在信息泄露漏洞，该漏洞源于资源初始化不安全，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2025-098-02&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2025-098-02.pdf",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2025-098-02&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2025-098-02.pdf",
+    "patch": "Schneider Electric Trio Q Licensed Data Radio信息泄露漏洞漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-07-09",
+    "update_time": "2025-07-09",
+    "data_summary": "da4048441696f58b91d5f7f1a66186a1"
+}

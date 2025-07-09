@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-09 10:04:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15361",
+    "spider_time": 1752055496169,
+    "name": "Gnu emacs存在未明漏洞",
+    "cnvd": "CNVD-2025-15361",
+    "publish": "2025-07-09",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"Gnu emacs <29.3\"]",
+    "cve": "CVE-2024-30204",
+    "description": "Gnu emacs是美国GNU社区的一个文本编辑器家族。Gnu emacs存在安全漏洞，该漏洞源于默认情况下，为电子邮件附件启用LaTeX预览。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-30204",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://git.savannah.gnu.org/cgit/emacs.git/tree/etc/NEWS?h=emacs-29",
+    "patch": "Gnu emacs存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-27",
+    "open_time": "2025-07-09",
+    "update_time": "2025-07-09",
+    "data_summary": "33b8c6eb6ea5b783f4a8dfc64756f823"
+}
