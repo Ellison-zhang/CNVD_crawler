@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-09 03:30:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15324",
+    "spider_time": 1752031816359,
+    "name": "TOTOLINK N200RE代码问题漏洞",
+    "cnvd": "CNVD-2025-15324",
+    "publish": "2025-07-09",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:N/A:N",
+    "product": "[\"TOTOLINK N200RE V5 9.3.5u.6255_B20211224\"]",
+    "cve": "CVE-2024-0942",
+    "description": "TOTOLINK N200RE是一款采用11N无线技术的无线宽带路由器 ，支持最高300Mbps无线传输速率，专为满足家庭和小型办公网络需求设计。 ‌TOTOLINK N200RE存在代码问题漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.252186",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-01-30",
+    "open_time": "2025-07-09",
+    "update_time": "2025-07-09",
+    "data_summary": "d65c1a23705321bc7e0babf9dbd3d914"
+}
