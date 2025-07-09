@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-09 09:05:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15349",
+    "spider_time": 1752051920222,
+    "name": "Schneider Electric Modicon Controllers输入验证错误漏洞",
+    "cnvd": "CNVD-2025-15349",
+    "publish": "2025-07-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Schneider Electric Modicon ControllersM241/M251 <5.3.12.51\", \"Schneider Electric Modicon Controllers M258 /LMC058 null\"]",
+    "cve": "CVE-2025-3116",
+    "description": "Schneider Electric Modicon Controllers是法国施耐德电气（Schneider Electric）公司的一系列Modicon系列可编程逻辑控制器。Schneider Electric Modicon Controllers存在输入验证错误漏洞，该漏洞源于输入验证不当，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2025-161-02&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2025-161-02.pdf",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp",
+    "patch": "Schneider Electric Modicon Controllers输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-24",
+    "open_time": "2025-07-09",
+    "update_time": "2025-07-09",
+    "data_summary": "0c280a92e5e7ee05478d1655e182a04c"
+}
