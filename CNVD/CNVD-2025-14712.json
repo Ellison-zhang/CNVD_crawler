@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-10 16:06:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14712",
+    "spider_time": 1752163596249,
+    "name": "深圳市蓝凌软件股份有限公司业务经营云存在sql注入漏洞",
+    "cnvd": "CNVD-2025-14712",
+    "publish": "2025-07-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u84dd\\u51cc\\u8f6f\\u4ef6\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u4e1a\\u52a1\\u7ecf\\u8425\\u4e91\"]",
+    "cve": null,
+    "description": "深圳市蓝凌软件股份有限公司是国内知名的大平台OA服务商和国内领先的智能知识与“AI+协同”解决方案提供商。深圳市蓝凌软件股份有限公司业务经营云存在sql注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.landray.com.cn/",
+    "patch": "深圳市蓝凌软件股份有限公司业务经营云存在sql注入漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-05-27",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-03",
+    "data_summary": "cf88bfb796b3e41ce4e7c1c644ce612c"
+}
