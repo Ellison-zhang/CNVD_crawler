@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-10 09:05:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15420",
+    "spider_time": 1752138336509,
+    "name": "WordPress ads pro SQL注入漏洞（CNVD-2025-15420）",
+    "cnvd": "CNVD-2025-15420",
+    "publish": "2025-07-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress ads pro <=4.89\"]",
+    "cve": "CVE-2025-6437",
+    "description": "WordPress Ads Pro是一款多用途广告管理插件，主要用于在WordPress网站中灵活管理广告空间，支持横幅广告展示、计费模式设置及用户友好的广告投放方案。WordPress ads pro存在SQL注入漏洞，该漏洞源于参数oid转义不足和SQL查询准备不足，攻击者可利用该漏洞通过发送恶意SQL命令，绕过身份验证，访问敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6437",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.com/zh-cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-08",
+    "open_time": "2025-07-10",
+    "update_time": "2025-07-10",
+    "data_summary": "aa7bfea7db0873fa1257ee8189686fe2"
+}
