@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-10 04:11:24",
+    "parse_time": "2025-07-10 05:06:32",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15248",
-    "spider_time": 1752120684775,
+    "spider_time": 1752123992318,
     "name": "GNU Binutils stab_demangle_v3_arg函数内存泄露漏洞",
     "cnvd": "CNVD-2025-15248",
     "publish": "2025-07-07",
