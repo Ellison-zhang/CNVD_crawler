@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-10 07:05:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15405",
+    "spider_time": 1752131124209,
+    "name": "QNAP File Station 5路径遍历漏洞",
+    "cnvd": "CNVD-2025-15405",
+    "publish": "2025-07-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:C",
+    "product": "[\"QNAP QNAP File Station 5 <5.5.6.4847\"]",
+    "cve": "CVE-2025-33035",
+    "description": "QNAP File Station 5是威联通科技推出的文件管理系统，主要用于NAS设备的文件管理。QNAP File Station 5存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-33035",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.qnap.com/en/security-advisory/qsa-25-16",
+    "patch": "QNAP File Station 5路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-23",
+    "open_time": "2025-07-10",
+    "update_time": "2025-07-10",
+    "data_summary": "3e2a0628f13cbc57c6e95a31f71a5bcc"
+}
