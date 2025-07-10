@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-10 14:05:10",
+    "parse_time": "2025-07-10 15:04:34",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15409",
-    "spider_time": 1752156310422,
+    "spider_time": 1752159874311,
     "name": "QNAP Systems HBS 3 Hybrid Backup Sync缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-15409",
     "publish": "2025-07-08",
