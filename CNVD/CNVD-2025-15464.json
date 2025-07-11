@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-11 07:06:41",
+    "parse_time": "2025-07-11 08:10:02",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15464",
-    "spider_time": 1752217601824,
+    "spider_time": 1752221402178,
     "name": "WordPress Additional Order Filters for WooCommerce plugin跨站请求伪造漏洞",
     "cnvd": "CNVD-2025-15464",
     "publish": "2025-07-10",
