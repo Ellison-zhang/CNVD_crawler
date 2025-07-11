@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-11 16:06:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14719",
+    "spider_time": 1752249993259,
+    "name": "北京巧巧时代网络科技有限公司PicHome存在任意文件读取漏洞",
+    "cnvd": "CNVD-2025-14719",
+    "publish": "2025-07-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u5de7\\u5de7\\u65f6\\u4ee3\\u7f51\\u7edc\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 PicHome V10.1.1.01\"]",
+    "cve": null,
+    "description": "PicHome是用于欧奥图文档系统的图片展示门户，图片搜索引擎。北京巧巧时代网络科技有限公司PicHome存在任意文件读取漏洞，攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "2.2.0版本已修复此漏洞，请及时关注更新：\nhttps://www.oaooa.com/",
+    "patch": "北京巧巧时代网络科技有限公司PicHome存在任意文件读取漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "52480fbe66e9b37529c6344c1007e9a4"
+}
