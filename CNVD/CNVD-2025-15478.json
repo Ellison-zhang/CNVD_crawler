@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-11 07:05:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15478",
+    "spider_time": 1752217521898,
+    "name": "Cisco IOS访问控制错误漏洞（CNVD-2025-15478）",
+    "cnvd": "CNVD-2025-15478",
+    "publish": "2025-07-11",
+    "severity": "低",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Cisco Cisco IOS\"]",
+    "cve": "CVE-2025-20137",
+    "description": "Cisco IOS是美国思科（Cisco）公司的一套为其网络设备开发的操作系统。Cisco IOS存在访问控制错误漏洞，该漏洞源于访问控制列表配置不当，攻击者可利用该漏洞导致绕过ACL限制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ipsgacl-pg6qfZk",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.cisco.com/c/en/us/support/index.html",
+    "patch": "Cisco IOS访问控制错误漏洞（CNVD-2025-15478）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-07-11",
+    "update_time": "2025-07-11",
+    "data_summary": "cb6434869db8f3f63c8fe9c69474ece1"
+}
