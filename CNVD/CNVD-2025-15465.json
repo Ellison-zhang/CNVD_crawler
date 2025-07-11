@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-11 02:40:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15465",
+    "spider_time": 1752201600681,
+    "name": "WordPress Aioseo Multibyte Descriptions plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-15465",
+    "publish": "2025-07-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Aioseo Multibyte Descriptions plugin <=0.0.6\"]",
+    "cve": "CVE-2025-53327",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Aioseo Multibyte Descriptions plugin存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/aioseo-multibyte-descriptions/vulnerability/wordpress-aioseo-multibyte-descriptions-plugin-0-0-6-cross-site-request-forgery-csrf-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/aioseo-multibyte-descriptions/",
+    "patch": "WordPress Aioseo Multibyte Descriptions plugin跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-07",
+    "open_time": "2025-07-11",
+    "update_time": "2025-07-11",
+    "data_summary": "1c8305bf5deb39b706e936974aae919f"
+}

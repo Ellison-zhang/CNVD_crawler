@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-11 02:39:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15462",
+    "spider_time": 1752201589298,
+    "name": "WordPress A/B Testing for WordPress plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-15462",
+    "publish": "2025-07-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress A/B Testing for WordPress plugin <=1.18.2\"]",
+    "cve": "CVE-2025-4587",
+    "description": "WordPress A/B Testing for WordPress plugin是一款用于在WordPress网站中进行A/B测试的插件，主要用于通过对比不同页面元素（如标题、按钮颜色、内容等）的效果，帮助优化网站转化率。WordPress A/B Testing for WordPress plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-4587",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/ab-testing-for-wp",
+    "patch": "WordPress A/B Testing for WordPress plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-07",
+    "open_time": "2025-07-11",
+    "update_time": "2025-07-11",
+    "data_summary": "04e40e9939613f9214edf43131e78b43"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-11 02:40:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15464",
+    "spider_time": 1752201614658,
+    "name": "WordPress Additional Order Filters for WooCommerce plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-15464",
+    "publish": "2025-07-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"WordPress Additional Order Filters for WooCommerce plugin <=1.22\"]",
+    "cve": "CVE-2025-53271",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Additional Order Filters for WooCommerce plugin存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/additional-order-filters-for-woocommerce/vulnerability/wordpress-additional-order-filters-for-woocommerce-plugin-1-22-cross-site-request-forgery-csrf-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/additional-order-filters-for-woocommerce/",
+    "patch": "WordPress Additional Order Filters for WooCommerce plugin跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-07",
+    "open_time": "2025-07-11",
+    "update_time": "2025-07-11",
+    "data_summary": "f651e9cc552fd3b78001610c20cf7f29"
+}

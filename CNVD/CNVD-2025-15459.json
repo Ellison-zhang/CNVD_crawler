@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-11 02:39:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15459",
+    "spider_time": 1752201594173,
+    "name": "WordPress Tournament Bracket Generator跨站脚本漏洞",
+    "cnvd": "CNVD-2025-15459",
+    "publish": "2025-07-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Tournament Bracket Generator <=1.0.0\"]",
+    "cve": "CVE-2025-6290",
+    "description": "WordPress Tournament Bracket Generator是一款用于生成赛事淘汰赛阶段赛程图的插件。WordPress Tournament Bracket Generator存在跨站脚本漏洞，该漏洞源于输入清理和转义不足，攻击者可利用该漏洞通过在用户浏览器中注入恶意脚本，窃取用户会话信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6290",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.com/zh-cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-08",
+    "open_time": "2025-07-11",
+    "update_time": "2025-07-11",
+    "data_summary": "8a85e428f210515b4e66f119e85c9bcc"
+}
