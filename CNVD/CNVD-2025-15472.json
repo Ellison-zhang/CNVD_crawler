@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-11 03:32:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15472",
+    "spider_time": 1752204770638,
+    "name": "Ivanti Secure Access Client权限提升漏洞",
+    "cnvd": "CNVD-2025-15472",
+    "publish": "2025-07-11",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Ivanti Ivanti Secure Access Client <22.7R4\"]",
+    "cve": "CVE-2025-22454",
+    "description": "Ivanti Secure Access Client是Ivanti公司的一个安全软件客户端。Ivanti Secure Access Client存在权限提升漏洞，该漏洞源于权限限制不足，攻击者可利用该漏洞提升特权。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvidia.custhelp.com/app/answers/detail/a_id/5625",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://forums.ivanti.com/s/article/March-Security-Advisory-Ivanti-Secure-Access-Client-ISAC-CVE-2025-22454",
+    "patch": "Ivanti Secure Access Client权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-17",
+    "open_time": "2025-07-11",
+    "update_time": "2025-07-11",
+    "data_summary": "8a47d8aa733e92ec86ca82ce750e6af5"
+}
