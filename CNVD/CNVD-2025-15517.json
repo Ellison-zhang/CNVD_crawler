@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-11 09:13:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15517",
+    "spider_time": 1752225201103,
+    "name": "MongoDB Server日志信息泄露漏洞（CNVD-2025-15517）",
+    "cnvd": "CNVD-2025-15517",
+    "publish": "2025-07-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:M/C:C/I:N/A:N",
+    "product": "[\"MongoDB MongoDB Server <8.0.5\", \"MongoDB MongoDB Server <6.0.21\", \"MongoDB MongoDB Server <7.0.18\"]",
+    "cve": "CVE-2025-6711",
+    "description": "MongoDB Server是美国MongoDB公司的一套开源的NoSQL数据库。该数据库提供面向集合的存储、动态查询、数据复制及自动故障转移等功能。MongoDB Server 8.0.5之前版本、7.0.18之前版本和6.0.21之前版本存在安全漏洞，该漏洞源于当遇到某些错误条件时，未编辑的查询可能会无意中出现在服务器日志中。攻击者可利用该漏洞通过触发错误条件获取日志中的原始查询语句，导致敏感数据泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6711",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载接：\nhttps://jira.mongodb.org/browse/SERVER-98720",
+    "patch": "MongoDB Server日志信息泄露漏洞（CNVD-2025-15517）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-08",
+    "open_time": "2025-07-11",
+    "update_time": "2025-07-11",
+    "data_summary": "572f3a88dd56dca2d285643e55ff3263"
+}
