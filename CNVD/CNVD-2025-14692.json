@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-12 05:04:31",
+    "parse_time": "2025-07-12 06:05:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14692",
-    "spider_time": 1752296671208,
+    "spider_time": 1752300300355,
     "name": "北京网御星云信息技术有限公司SSL VPN存在任意文件读取漏洞",
     "cnvd": "CNVD-2025-14692",
     "publish": "2025-07-11",
