@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-12 16:06:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12606",
+    "spider_time": 1752336418495,
+    "name": " Foxit PDF Reader资源管理错误漏洞",
+    "cnvd": "CNVD-2025-12606",
+    "publish": "2025-07-13",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Foxit Foxit PDF Editor <11.2.11\", \"Foxit Foxit PDF Editor <12.1.8\", \"Foxit Foxit PDF Editor <13.1.4\", \"Foxit Foxit PDF Editor <2024.3\"]",
+    "cve": "CVE-2024-9252",
+    "description": "Foxit PDF Reader是中国福昕（Foxit）公司的一款PDF阅读器。Foxit PDF Reader存在资源管理错误漏洞，该漏洞源于AcroForm功能中包含一个释放后重用，导致信息泄露漏洞。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-9252",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.foxit.com/support/security-bulletins.html",
+    "patch": "Foxit PDF Reader资源管理错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-28",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "3b567d9a951bc68d1569a562eb5c4569"
+}
