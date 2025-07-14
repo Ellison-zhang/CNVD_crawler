@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-14 10:12:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15569",
+    "spider_time": 1752487977798,
+    "name": "TOTOLINK X6000R requestUser参数命令执行漏洞",
+    "cnvd": "CNVD-2025-15569",
+    "publish": "2025-07-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK X6000R 9.4.0cu.852_B20230719\"]",
+    "cve": "CVE-2023-48810",
+    "description": "TOTOLINK X6000R是中国吉翁电子推出的无线路由器，支持WiFi 6技术，具备高并发连接和双频段传输功能。TOTOLINK X6000R存在命令执行漏洞，该漏洞源于sub_4119A0函数的requestUser参数未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.notion.so/X6000R-sub_4119A0-7-d5387bf8d16846c2b4f19b15a808aa4c?pvs=4",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/newstpl/menu_newstpl/products/id/247.html",
+    "patch": "TOTOLINK X6000R requestUser参数命令执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-12-04",
+    "open_time": "2025-07-11",
+    "update_time": "2025-07-11",
+    "data_summary": "1f348409dd6c932cc5a5496e889ea22f"
+}

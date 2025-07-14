@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-14 10:12:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15649",
+    "spider_time": 1752487934255,
+    "name": "Mattermost权限问题漏洞",
+    "cnvd": "CNVD-2025-15649",
+    "publish": "2025-07-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"Mattermost Mattermost >=10.5.x\\uff0c<=10.5.5\", \"Mattermost Mattermost >=9.11.x\\uff0c<=9.11.15\", \"Mattermost Mattermost >=10.8.x\\uff0c<=10.8.0\", \"Mattermost Mattermost >=10.7.x\\uff0c<=10.7.2\", \"Mattermost Mattermost >=10.6.x\\uff0c<=10.6.5\"]",
+    "cve": "CVE-2025-3227",
+    "description": "Mattermost是美国Mattermost公司的一个开源协作平台。Mattermost存在权限问题漏洞，该漏洞源于未正确执行频道成员管理权限，攻击者可利用该漏洞实现未经授权的用户添加或删除频道成员。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-3227",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/download/",
+    "patch": "Mattermost权限问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-11",
+    "open_time": "2025-07-14",
+    "update_time": "2025-07-14",
+    "data_summary": "e44573cf90f5ff79c8358558eaaa1c3f"
+}

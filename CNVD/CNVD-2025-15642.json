@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-14 10:05:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15642",
+    "spider_time": 1752487500507,
+    "name": "WordPress Events Manager插件SQL注入漏洞",
+    "cnvd": "CNVD-2025-15642",
+    "publish": "2025-07-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress Events Manager\\u63d2\\u4ef6 <=7.0.3\"]",
+    "cve": "CVE-2025-6970",
+    "description": "WordPress Events Manager插件是一款功能全面的活动管理工具，支持事件注册、票务销售、预订管理及重复事件设置等功能。WordPress Events Manager插件存在SQL注入漏洞，该漏洞源于插件在处理用户输入时未对orderby参数进行充分转义和SQL预处理，攻击者可利用该漏洞在现有查询中附加恶意SQL语句，获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6970",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/events-manager",
+    "patch": "WordPress Events Manager插件SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-14",
+    "open_time": "2025-07-14",
+    "update_time": "2025-07-14",
+    "data_summary": "c276bc661b4b5346be7f2d40f379974a"
+}

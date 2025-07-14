@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-14 10:07:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15650",
+    "spider_time": 1752487650287,
+    "name": "WordPress Neom Blog跨站脚本漏洞",
+    "cnvd": "CNVD-2025-15650",
+    "publish": "2025-07-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"WordPress Neom Blog <=0.0.9\"]",
+    "cve": "CVE-2025-49274",
+    "description": "WordPress Neom Blog是WordPress平台的一款主题（Theme），主要用于创建响应式网站，支持通过可视化界面快速搭建博客、新闻、杂志、企业官网等类型网站。WordPress Neom Blog存在跨站脚本漏洞，该漏洞源于输入清理不当，攻击者可利用该漏洞通过注入恶意脚本，执行钓鱼攻击，获取用户敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-49274",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress Neom Blog跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-10",
+    "open_time": "2025-07-14",
+    "update_time": "2025-07-14",
+    "data_summary": "cbc4a766535b398cabc7d40a9502d321"
+}
