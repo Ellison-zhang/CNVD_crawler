@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-14 05:08:29",
+    "parse_time": "2025-07-14 06:06:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15621",
-    "spider_time": 1752469709119,
+    "spider_time": 1752473160535,
     "name": "D-Link DIR-619L form_macfilter方法缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-15621",
     "publish": "2025-07-11",
