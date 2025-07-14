@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-14 04:19:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15621",
+    "spider_time": 1752466744576,
+    "name": "D-Link DIR-619L form_macfilter方法缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-15621",
+    "publish": "2025-07-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-619L 2.06B01\"]",
+    "cve": "CVE-2025-6115",
+    "description": "D-Link DIR-619L是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-619L 2.06B01版本存在缓冲区溢出漏洞，该漏洞源于form_macfilter方法未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6115",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/wudipjq/my_vuln/blob/main/D-Link6/vuln_62/62.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-14",
+    "update_time": "2025-07-14",
+    "data_summary": "448194dd5b22d729e4ede27ea239465b"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-14 04:18:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15610",
+    "spider_time": 1752466737043,
+    "name": "D-Link DIR-513缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-15610",
+    "publish": "2025-07-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-513 v1.0\"]",
+    "cve": "CVE-2025-6882",
+    "description": "D-Link DIR-513是中国友讯（D-Link）公司的一款无线路由器产品。D-Link DIR-513 1.0版本存在缓冲区溢出漏洞，该漏洞源于文件/goform/formSetWanPPTP中参数curTime未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6882",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://vuldb.com/?ctiid.314361",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-07-14",
+    "update_time": "2025-07-14",
+    "data_summary": "2a8e7761f79a46b76a2ed8d60ce4a891"
+}
