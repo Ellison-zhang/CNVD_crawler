@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-15 07:06:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15720",
+    "spider_time": 1752563168515,
+    "name": "Tenda AC6 SetSysTimeCfg函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-15720",
+    "publish": "2025-07-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda AC6 15.03.05.16_multi\"]",
+    "cve": "CVE-2025-50258",
+    "description": "Tenda AC6是腾达推出的双频无线路由器。Tenda AC6存在缓冲区溢出漏洞，该漏洞源于SetSysTimeCfg函数中time参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/faqiadegege/IoTVuln/blob/main/tendaAC6_SetSysTimeCfg_timeoverflow/detail.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/product/help/AC6",
+    "patch": "Tenda AC6 SetSysTimeCfg函数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-11",
+    "open_time": "2025-07-15",
+    "update_time": "2025-07-15",
+    "data_summary": "0c74902b989ecc98d83863384fdcacb2"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-15 07:06:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15729",
+    "spider_time": 1752563207658,
+    "name": "Ivanti Patch SDK权限问题漏洞",
+    "cnvd": "CNVD-2025-15729",
+    "publish": "2025-07-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:C/A:C",
+    "product": "[\"Ivanti Ivanti Patch SDK <9.7.703\"]",
+    "cve": "CVE-2024-10256",
+    "description": "Ivanti Patch SDK是Ivanti公司提供的安全工具开发包，主要用于帮助企业自动化处理系统漏洞修复和补丁管理。Ivanti Patch SDK存在权限问题漏洞，该漏洞源于权限不足。攻击者可利用该漏洞删除任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-10256",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Patch-SDK-CVE-2024-10256?language=en_US",
+    "patch": "Ivanti Patch SDK权限问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-23",
+    "open_time": "2025-07-15",
+    "update_time": "2025-07-15",
+    "data_summary": "b25fa1f195550e6562fb0846c1534d46"
+}
