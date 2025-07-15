@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-15 08:06:55",
+    "parse_time": "2025-07-15 09:11:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15610",
-    "spider_time": 1752566815375,
+    "spider_time": 1752570660445,
     "name": "D-Link DIR-513缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-15610",
     "publish": "2025-07-11",

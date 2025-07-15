@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-15 09:08:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15734",
+    "spider_time": 1752570515510,
+    "name": "Mattermost Desktop App权限配置不当漏洞",
+    "cnvd": "CNVD-2025-15734",
+    "publish": "2025-07-15",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"Mattermost Mattermost Desktop App <=5.10.0\"]",
+    "cve": "CVE-2025-1398",
+    "description": "Mattermost Desktop App是一款基于Electron框架开发的跨平台桌面协作工具，支持 Windows 、macOS和Linux系统，专为团队协作设计。Mattermost Desktop App存在权限配置不当漏洞。该漏洞源于声明了不必要的macOS权限，导致攻击者通过代码注入绕过TCC。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://mattermost.com/security-updates",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/security-updates/",
+    "patch": "Mattermost Desktop App权限配置不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-26",
+    "open_time": "2025-07-15",
+    "update_time": "2025-07-15",
+    "data_summary": "a6728fec71c42e5d6f87ae9cce2bdc90"
+}
