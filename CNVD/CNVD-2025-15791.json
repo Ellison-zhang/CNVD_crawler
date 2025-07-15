@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-15 11:03:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15791",
+    "spider_time": 1752577425149,
+    "name": "Tenda AC6缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-15791",
+    "publish": "2025-07-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:P/A:N",
+    "product": "[\"Tenda AC6 15.03.05.16_multi\"]",
+    "cve": "CVE-2025-50641",
+    "description": "Tenda AC6是中国腾达（Tenda）公司的一款无线路由器。Tenda AC6存在缓冲区溢出漏洞，该漏洞源于addWifiMacFilter函数中deviceId参数未能正确验证输入数据的长度大小，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/faqiadegege/IoTVuln/blob/main/tendaAC6_addWifiMacFilter_deviceId_overflow/detail.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-07-15",
+    "update_time": "2025-07-15",
+    "data_summary": "4bfa0fca662c622c4907e342e4b72044"
+}
