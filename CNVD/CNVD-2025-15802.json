@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-16 02:39:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15802",
+    "spider_time": 1752633588912,
+    "name": "Dell Dock Firmware信息泄露漏洞",
+    "cnvd": "CNVD-2025-15802",
+    "publish": "2025-07-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"DELL Dell Smart Dock Firmware <01.00.08.01\"]",
+    "cve": "CVE-2025-36573",
+    "description": "Dell Dock Firmware是美国戴尔（Dell）公司的一个固件产品。Dell Dock Firmware在01.00.08.01之前的版本中存在信息泄露漏洞。该漏洞是由于在受影响的版本中存在将敏感信息插入日志文件，所以通过日志文件可能会泄露信息。具有本地访问权限的攻击者可利用该漏洞获取系统敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36573",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新:\nhttps://www.dell.com/support/kbdoc/en-us/000323183/dsa-2025-218",
+    "patch": "Dell Dock Firmware信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "cec8edbaa18972295792fdfb88ee49aa"
+}
