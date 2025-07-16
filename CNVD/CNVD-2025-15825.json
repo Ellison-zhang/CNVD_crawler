@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-16 04:16:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15825",
+    "spider_time": 1752639384856,
+    "name": "Ivanti Connect Secure越界读取漏洞",
+    "cnvd": "CNVD-2025-15825",
+    "publish": "2025-07-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Ivanti Ivanti Connect Secure <22.7R2.3\"]",
+    "cve": "CVE-2024-37401",
+    "description": "Ivanti Connect Secure是美国Ivanti公司的安全远程网络连接工具。Ivanti Connect Secure存在越界读取漏洞，该漏洞源于IPsec中对用户提供的数据缺乏适当的验证，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-37401",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://forums.ivanti.com/s/article/December-2024-Security-Advisory-Ivanti-Connect-Secure-ICS-and-Ivanti-Policy-Secure-IPS-Multiple-CVEs?language=en_US",
+    "patch": "Ivanti Connect Secure越界读取漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-20",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "c03042ed6d4dc94dd0ff22403304f8e4"
+}

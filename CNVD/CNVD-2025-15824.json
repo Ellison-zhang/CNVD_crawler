@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-16 04:16:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15824",
+    "spider_time": 1752639382086,
+    "name": "Ivanti Connect Secure缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-15824",
+    "publish": "2025-07-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Ivanti Ivanti Connect Secure <22.7R2.3\"]",
+    "cve": "CVE-2024-37377",
+    "description": "Ivanti Connect Secure是美国Ivanti公司的安全远程网络连接工具。Ivanti Connect Secure存在缓冲区溢出漏洞，该漏洞源于IPsec中在处理不受信任的输入时出现边界错误。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-37377",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://forums.ivanti.com/s/article/December-2024-Security-Advisory-Ivanti-Connect-Secure-ICS-and-Ivanti-Policy-Secure-IPS-Multiple-CVEs?language=en_US",
+    "patch": "Ivanti Connect Secure缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-20",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "06219951e86811a70557cf3ca29cb4ad"
+}

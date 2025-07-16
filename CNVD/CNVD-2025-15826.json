@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-16 04:21:26",
-    "path": "https://www.cnvd.org.cn/flaw/show/",
-    "spider_time": 1752639686622,
+    "parse_time": "2025-07-16 04:19:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15826",
+    "spider_time": 1752639555886,
     "name": null,
     "cnvd": null,
     "publish": null,
@@ -18,5 +18,5 @@
     "submit_time": null,
     "open_time": null,
     "update_time": null,
-    "data_summary": "d1e59cbce4ded0efe215d51bc6ce6c91"
+    "data_summary": "5a531e7055e0dd0326c72354f4b747ae"
 }

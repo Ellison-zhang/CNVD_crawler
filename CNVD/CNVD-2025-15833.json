@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-16 04:19:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15833",
+    "spider_time": 1752639583740,
+    "name": "Mattermost路径遍历漏洞",
+    "cnvd": "CNVD-2025-15833",
+    "publish": "2025-07-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Mattermost Mattermost >=9.9.x\\uff0c<=9.9.1\", \"Mattermost Mattermost >=9.5.x\\uff0c<=9.5.7\", \"Mattermost Mattermost >=9.8.x\\uff0c<=9.8.2\", \"Mattermost Mattermost >=9.10.x\\uff0c<=9.10.0\"]",
+    "cve": "CVE-2024-40886",
+    "description": "Mattermost是美国Mattermost公司的一个开源协作平台。Mattermost存在路径遍历漏洞，该漏洞源于无法清理用于重定向的前端用户输入，攻击者可利用该漏洞导致系统控制台的用户管理页面中出现跨站请求伪造。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-40886",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/security-updates/",
+    "patch": "Mattermost路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-29",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "c23c236e9896bc82dc3434c78dd1b5fa"
+}

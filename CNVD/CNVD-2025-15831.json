@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-16 04:19:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15831",
+    "spider_time": 1752639572574,
+    "name": "Mattermost授权问题漏洞",
+    "cnvd": "CNVD-2025-15831",
+    "publish": "2025-07-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Mattermost Mattermost >=9.9.x\\uff0c<=9.9.2\", \"Mattermost Mattermost >=9.5.x\\uff0c<=9.5.8\", \"Mattermost Mattermost >=9.11.x\\uff0c<=9.11.0\", \"Mattermost Mattermost >=9.10.x\\uff0c<=9.10.1\"]",
+    "cve": "CVE-2024-42406",
+    "description": "Mattermost是美国Mattermost公司的一个开源协作平台。Mattermost存在授权问题漏洞，该漏洞源于在查看已存档频道的功能被禁用时未能正确授权请求，攻击者可利用该漏洞检索有关存档频道的帖子和文件信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-42406",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/security-updates",
+    "patch": "Mattermost授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-09-29",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "7c6b31298cdc08b68df7d51dbda1b52b"
+}

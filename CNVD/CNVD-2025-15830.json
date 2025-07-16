@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-16 04:19:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15830",
+    "spider_time": 1752639568864,
+    "name": "Ivanti CSA代码执行漏洞",
+    "cnvd": "CNVD-2025-15830",
+    "publish": "2025-07-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Ivanti Ivanti CSA <5.0.3\"]",
+    "cve": "CVE-2024-11772",
+    "description": "Ivanti CSA是Ivanti公司提供的本地部署虚拟设备，主要用于简化IT服务管理与云服务的集成，支持自动化IT流程以提高运营效率。Ivanti CSA存在代码执行漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-11772",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Cloud-Services-Application-CSA-CVE-2024-11639-CVE-2024-11772-CVE-2024-11773?language=en_US",
+    "patch": "Ivanti CSA代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-17",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "0336bd33f364c153300bf57399ece717"
+}
