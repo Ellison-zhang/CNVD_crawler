@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-16 11:03:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16148",
+    "spider_time": 1752663812241,
+    "name": "惠普贸易（上海）有限公司HP LaserJet 600 M602存在弱口令漏洞",
+    "cnvd": "CNVD-2025-16148",
+    "publish": "2025-07-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u60e0\\u666e\\u8d38\\u6613\\uff08\\u4e0a\\u6d77\\uff09\\u6709\\u9650\\u516c\\u53f8 HP LaserJet 600 M602\"]",
+    "cve": null,
+    "description": "惠普贸易（上海）有限公司专注计算机设备、打印设备及相关零部件的研发、生产、销售及国际贸易。惠普贸易（上海）有限公司HP LaserJet 600 M602存在弱口令漏洞，攻击者可利用漏洞登录系统，获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.hp.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-01",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "368bba9a02a9895318df5f154dc1af47"
+}

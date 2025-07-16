@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-16 11:04:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16086",
+    "spider_time": 1752663866075,
+    "name": "Tenda FH1206缓冲区溢出漏洞（CNVD-2025-16086）",
+    "cnvd": "CNVD-2025-16086",
+    "publish": "2025-07-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda FH1206 02.03.01.35\"]",
+    "cve": "CVE-2024-42981",
+    "description": "Tenda FH1206是腾达公司推出的双频无线路由器，专为光纤大户型家庭设计。Tenda FH1206存在缓冲区溢出漏洞，该漏洞源于fromPptpUserSetting函数的delno参数中包含一个缓冲区溢出漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-42981",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-2905.html",
+    "patch": "Tenda FH1206缓冲区溢出漏洞（CNVD-2025-16086）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-16",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "fb4dd3f0fb168a2cc9f7dcf4c1ffbf46"
+}

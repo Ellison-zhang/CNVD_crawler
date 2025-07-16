@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-16 11:03:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16073",
+    "spider_time": 1752663817458,
+    "name": "Mattermost Mobile拒绝服务漏洞",
+    "cnvd": "CNVD-2025-16073",
+    "publish": "2025-07-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Mattermost Mattermost Mobile <=2.22.0\"]",
+    "cve": "CVE-2025-20072",
+    "description": "Mattermost Mobile是一个移动应用项目，使用React Native框架开发，旨在为Mattermost提供跨平台的iOS和Android客户端。Mattermost Mobile存在拒绝服务漏洞，该漏洞源于无法正确验证post.props.attachments中提供给操作样式的proto样式，攻击者可利用该漏洞通过精心设计的恶意输入使移动设备崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20072",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/security-updates",
+    "patch": "Mattermost Mobile拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-23",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "497a5fc081fb193e71e715525a106cb8"
+}
