@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-16 16:06:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16188",
+    "spider_time": 1752682017602,
+    "name": "GB28181摄像头管理平台WVP存在信息泄露漏洞",
+    "cnvd": "CNVD-2025-16188",
+    "publish": "2025-07-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"GB28181\\u6444\\u50cf\\u5934\\u7ba1\\u7406\\u5e73\\u53f0WVP GB28181\\u6444\\u50cf\\u5934\\u7ba1\\u7406\\u5e73\\u53f0WVP\"]",
+    "cve": null,
+    "description": "GB28181摄像头管理平台WVP（ WebVideoPlatform ）是基于GB28181-2016标准开发的开源网络视频平台，主要用于实现不同品牌摄像头设备的统一接入、管理和视频流转发。GB28181摄像头管理平台WVP存在信息泄露漏洞，攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://doc.wvp-pro.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-02",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "ef7a402f9a0b54fa0a751e9901bce4ed"
+}

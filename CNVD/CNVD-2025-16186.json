@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-16 16:06:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16186",
+    "spider_time": 1752682012395,
+    "name": "深圳维盟科技股份有限公司AC集中管理平台存在文件上传漏洞",
+    "cnvd": "CNVD-2025-16186",
+    "publish": "2025-07-17",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u7ef4\\u76df\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 AC\\u96c6\\u4e2d\\u7ba1\\u7406\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "深圳维盟科技股份有限公司是为企业与服务供应商提供高性能的路由系统及先进高效的流量管理解决方案的网络服务供应商，也是一家集研发、生产、销售于一体的新兴高科技公司。深圳维盟科技股份有限公司AC集中管理平台存在文件上传漏洞，攻击者可利用漏洞上传恶意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.wayos.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-02",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "c83717aabc73cf3078294b989c9147f5"
+}
