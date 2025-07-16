@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-16 17:05:41",
+    "parse_time": "2025-07-16 18:05:04",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16062",
-    "spider_time": 1752685541296,
+    "spider_time": 1752689104360,
     "name": "SimpleHelp存在目录遍历漏洞",
     "cnvd": "CNVD-2025-16062",
     "publish": "2025-07-17",
