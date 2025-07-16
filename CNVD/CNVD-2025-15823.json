@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-16 03:37:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15823",
+    "spider_time": 1752637044151,
+    "name": "Mattermost访问限制不当漏洞",
+    "cnvd": "CNVD-2025-15823",
+    "publish": "2025-07-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"Mattermost Mattermost >=10.5.x\\uff0c<=10.5.4\", \"Mattermost Mattermost >=9.11.x\\uff0c<=9.11.13\"]",
+    "cve": "CVE-2025-4128",
+    "description": "Mattermost是美国Mattermost公司的一个开源协作平台。Mattermost存在访问限制不当漏洞。该漏洞产生的原因是API访问权限设置不当。攻击者可利用该漏洞获取未授权的团队信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-4128",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/security-updates/",
+    "patch": "Mattermost访问限制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-20",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "0f2dafcb0bf79820e265d947b64224b1"
+}
