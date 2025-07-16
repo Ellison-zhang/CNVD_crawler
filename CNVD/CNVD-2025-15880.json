@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-16 09:06:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15880",
+    "spider_time": 1752656801067,
+    "name": "DELL ThinOS信息泄露漏洞",
+    "cnvd": "CNVD-2025-15880",
+    "publish": "2025-07-16",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"DELL ThinOS <=2502\"]",
+    "cve": "CVE-2025-32752",
+    "description": "DELL ThinOS是戴尔推出的瘦客户端操作系统，专为虚拟工作区设计，提供高度安全性和高效的虚拟桌面体验。DELL ThinOS存在信息泄露漏洞，该漏洞源于明文存储敏感信息，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-32752",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000325632/dsa-2025-225",
+    "patch": "DELL ThinOS信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "19c33a305cf8c1d0776fd6d1e786f6fa"
+}

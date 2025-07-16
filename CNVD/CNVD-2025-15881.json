@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-16 09:06:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15881",
+    "spider_time": 1752656795816,
+    "name": "Dell iDRAC访问控制错误漏洞",
+    "cnvd": "CNVD-2025-15881",
+    "publish": "2025-07-16",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Dell iDRAC <11.3.0.0\"]",
+    "cve": "CVE-2025-27689",
+    "description": "Dell iDRAC是戴尔服务器中的嵌入式远程管理控制器，提供硬件监控、远程控制、故障诊断等功能，独立于操作系统运行。Dell iDRAC存在访问控制错误漏洞，该漏洞源于访问控制不当，攻击者可利用该漏洞进行权限升级，获取更高权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-27689",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000323242/dsa-2025-169-security-update-for-dell-idrac-tools-vulnerabilities",
+    "patch": "Dell iDRAC访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-15",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "8bc325e1091f5dd5be16249e8615d446"
+}
