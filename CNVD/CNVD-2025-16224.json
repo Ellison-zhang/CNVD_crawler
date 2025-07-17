@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-17 08:05:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16224",
+    "spider_time": 1752739528341,
+    "name": "Adobe Framemaker堆缓冲区溢出漏洞（CNVD-2025-16224）",
+    "cnvd": "CNVD-2025-16224",
+    "publish": "2025-07-17",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Adobe Framemaker <=2022.6\", \"Adobe Adobe Framemaker 2020.8\"]",
+    "cve": "CVE-2025-47122",
+    "description": "Adobe FrameMaker是一个强大的工具，用于创建复杂的技术文档，并发布到各种交付渠道。Adobe Framemaker 2020.8版本，2022.6及更早版本存在堆缓冲区溢出漏洞。攻击者可利用该漏洞在当前用户上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/framemaker/apsb25-66.html",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://helpx.adobe.com/",
+    "patch": "Adobe Framemaker堆缓冲区溢出漏洞（CNVD-2025-16224）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-16",
+    "open_time": "2025-07-17",
+    "update_time": "2025-07-17",
+    "data_summary": "89e3e88dfbfc13bb463b770b49079a45"
+}

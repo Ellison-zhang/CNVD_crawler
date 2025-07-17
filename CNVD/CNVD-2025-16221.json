@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-17 08:05:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16221",
+    "spider_time": 1752739514831,
+    "name": "Adobe Framemaker越界写入漏洞（CNVD-2025-16221）",
+    "cnvd": "CNVD-2025-16221",
+    "publish": "2025-07-17",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Adobe Framemaker <=2022.6\", \"Adobe Adobe Framemaker 2020.8\"]",
+    "cve": "CVE-2025-47126",
+    "description": "Adobe FrameMaker是一个强大的工具，用于创建复杂的技术文档，并发布到各种交付渠道。Adobe Framemaker 2020.8，2022.6及更早版本存在越界写入漏洞。攻击者可利用该漏洞在当前用户上下文中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/framemaker/apsb25-66.html",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://helpx.adobe.com/",
+    "patch": "Adobe Framemaker越界写入漏洞（CNVD-2025-16221）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-16",
+    "open_time": "2025-07-17",
+    "update_time": "2025-07-17",
+    "data_summary": "cba2cc6b83ae5f5c7d6de916c61ccaf7"
+}
