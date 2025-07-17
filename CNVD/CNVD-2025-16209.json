@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-17 02:39:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16209",
+    "spider_time": 1752719998908,
+    "name": "lunary未授权访问漏洞",
+    "cnvd": "CNVD-2025-16209",
+    "publish": "2025-07-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"lunary lunary 1.2.4\"]",
+    "cve": "CVE-2024-5277",
+    "description": "lunary是lunary开源的一个 LLM 的生产工具包。lunary存在未授权访问漏洞，该漏洞源于密码恢复机制中存在重置密码令牌在使用后不会失效的问题，攻击者可利用该漏洞通过破解恢复令牌反复更改受害者帐户的密码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-5277",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://github.com/lunary-ai/lunary/releases/tag/v1.2.29",
+    "patch": "lunary未授权访问漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2024-06-13",
+    "open_time": "2025-07-17",
+    "update_time": "2025-07-17",
+    "data_summary": "4df5a73f18f087d23250190d0929a1b9"
+}
