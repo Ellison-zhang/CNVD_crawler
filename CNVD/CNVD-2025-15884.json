@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-17 20:04:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15884",
+    "spider_time": 1752782655727,
+    "name": "PbootCMS存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-15884",
+    "publish": "2025-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"PbootCMS PbootCMS <3.2.12\"]",
+    "cve": null,
+    "description": "PbootCMS是全新内核且永久开源免费的PHP企业网站开发建设管理系统。PbootCMS存在SQL注入漏洞，攻击者可利用漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/pbootcmspro/PbootCMS/releases/tag/V3.2.12",
+    "patch": "PbootCMS存在SQL注入漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-06-23",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-18",
+    "data_summary": "4c250c6fe29e89fc5e7e15007ba27bd0"
+}

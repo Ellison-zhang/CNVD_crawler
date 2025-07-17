@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-17 20:04:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16049",
+    "spider_time": 1752782652095,
+    "name": "杭州海康威视数字技术股份有限公司海康威视综合安防管理平台存在命令执行漏洞",
+    "cnvd": "CNVD-2025-16049",
+    "publish": "2025-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u676d\\u5dde\\u6d77\\u5eb7\\u5a01\\u89c6\\u6570\\u5b57\\u6280\\u672f\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u6d77\\u5eb7\\u5a01\\u89c6\\u7efc\\u5408\\u5b89\\u9632\\u7ba1\\u7406\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "杭州海康威视数字技术股份有限公司是一家专注技术创新的科技公司。杭州海康威视数字技术股份有限公司海康威视综合安防管理平台存在命令执行漏洞，攻击者可利用漏洞执行恶意命令，获取服务器主机权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.hikvision.com/",
+    "patch": "杭州海康威视数字技术股份有限公司海康威视综合安防管理平台存在命令执行漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-06-03",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-18",
+    "data_summary": "245cf940a70d788025b359c8320a6ee2"
+}
