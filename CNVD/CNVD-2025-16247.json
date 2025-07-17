@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-17 09:06:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16247",
+    "spider_time": 1752743209209,
+    "name": "HDF5资源管理错误漏洞",
+    "cnvd": "CNVD-2025-16247",
+    "publish": "2025-07-17",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"HDF5 HDF5 1.14.6\"]",
+    "cve": "CVE-2025-6817",
+    "description": "HDF5是The HDF Group开发的数据管理套件，用于存储和管理大规模科学数据。HDF5 1.14.6版本存在安全漏洞，该漏洞源于/src/H5Centry.c文件中的H5C__load_entry函数处理异常。攻击者可利用该漏洞通过本地操作导致系统资源耗尽。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.314255\nhttps://vuldb.com/?ctiid.314255\nhttps://vuldb.com/?submit.602294\nhttps://github.com/HDFGroup/hdf5/issues/5572\nhttps://github.com/user-attachments/files/20623368/hdf5_crash_4.txt",
+    "solution": "目前厂商尚未发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://vuldb.com/?id.314255",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-30",
+    "open_time": "2025-07-17",
+    "update_time": "2025-07-17",
+    "data_summary": "7feea7532ee5c535acbde27cc0b128bf"
+}

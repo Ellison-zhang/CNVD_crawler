@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-17 09:07:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16243",
+    "spider_time": 1752743250669,
+    "name": "Adobe Experience Manager跨站脚本漏洞（CNVD-2025-16243）",
+    "cnvd": "CNVD-2025-16243",
+    "publish": "2025-07-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Adobe Adobe Experience Manager <=6.5.13.0\", \"Adobe Adobe Experience Manager AEM Cloud Service (CS)\"]",
+    "cve": "CVE-2022-30682",
+    "description": "Adobe Experience Manager是美国奥多比（Adobe）公司的一套可用于构建网站、移动应用程序和表单的内容管理解决方案。该方案支持移动内容管理、营销销售活动管理和多站点管理等。Adobe Experience Manager存在跨站脚本漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/experience-manager/apsb22-40.html",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://helpx.adobe.com/security/products/experience-manager/apsb22-40.html",
+    "patch": "Adobe Experience Manager跨站脚本漏洞（CNVD-2025-16243）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-09-19",
+    "open_time": "2025-07-17",
+    "update_time": "2025-07-17",
+    "data_summary": "dd81c35af48475933c301eecd0f3f383"
+}

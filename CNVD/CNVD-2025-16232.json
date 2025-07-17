@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-17 09:06:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16232",
+    "spider_time": 1752743204995,
+    "name": "HDF5缓冲区溢出漏洞（CNVD-2025-16232）",
+    "cnvd": "CNVD-2025-16232",
+    "publish": "2025-07-17",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"HDF5 HDF5 1.14.6\"]",
+    "cve": "CVE-2025-6818",
+    "description": "HDF5是一款用于存储和管理大规模科学数据的开源文件格式及库。HDF5存在堆缓冲区溢出漏洞，该漏洞源于文件/src/H5Ochunk.c中的H5O__chunk_protect函数处理异常。攻击者可利用该漏洞通过本地操作触发堆溢出，可能导致代码执行或系统崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.314256\nhttps://vuldb.com/?ctiid.314256\nhttps://vuldb.com/?submit.602326\nhttps://github.com/HDFGroup/hdf5/issues/5573\nhttps://github.com/user-attachments/files/20623382/hdf5_crash_5.txt",
+    "solution": "目前厂商尚未发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://vuldb.com/?id.314256",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-30",
+    "open_time": "2025-07-17",
+    "update_time": "2025-07-17",
+    "data_summary": "5951acb26a97e061836ab52d4c5818a7"
+}

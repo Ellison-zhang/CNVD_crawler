@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-17 09:06:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16246",
+    "spider_time": 1752743194735,
+    "name": "HDF5 src/H5Gnode.c文件缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16246",
+    "publish": "2025-07-17",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"HDF5 HDF5 1.14.6\"]",
+    "cve": "CVE-2025-6857",
+    "description": "HDF5是HDF开源的一个库。HDF5 1.14.6版本存在缓冲区溢出漏洞，该漏洞源于文件src/H5Gnode.c中函数H5G__node_cmp3未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6857",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/HDFGroup/hdf5/issues/5575",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-07",
+    "open_time": "2025-07-17",
+    "update_time": "2025-07-17",
+    "data_summary": "fdab382322b43196bfdddd2fb7ed3602"
+}

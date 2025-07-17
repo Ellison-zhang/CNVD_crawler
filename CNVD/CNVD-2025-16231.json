@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-17 09:06:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16231",
+    "spider_time": 1752743201008,
+    "name": "HDF5资源管理错误漏洞",
+    "cnvd": "CNVD-2025-16231",
+    "publish": "2025-07-17",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"HDF5 HDF5 1.14.6\"]",
+    "cve": "CVE-2025-6856",
+    "description": "HDF5是HDF开源的一个库。HDF5 1.14.6版本存在安全漏洞，该漏洞源于对文件src/H5FL.c中函数H5FL__reg_gc_list负责释放内存的指令发生混乱。攻击者可利用该漏洞可能导致程序崩溃，任意代码执行等。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6856",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/HDFGroup/hdf5/issues/5574",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-07",
+    "open_time": "2025-07-17",
+    "update_time": "2025-07-17",
+    "data_summary": "4bad90d0f12e0cd51d3707f5bf639797"
+}
