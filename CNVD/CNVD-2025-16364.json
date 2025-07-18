@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-18 10:07:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16364",
+    "spider_time": 1752833233066,
+    "name": "OpenImageIO存在未明漏洞",
+    "cnvd": "CNVD-2025-16364",
+    "publish": "2025-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:N/I:N/A:C",
+    "product": "[\"OpenImageIO OpenImageIO v3.1.0.0dev\"]",
+    "cve": "CVE-2024-55195",
+    "description": "OpenImageIO是OpenImageIO开源的一个图像处理库。具有易于使用的界面和大量受支持的图像格式。OpenImageIO存在安全漏洞，该漏洞源于组件/imagebuf.cpp中存在分配大小过大错误，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-55192",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/AcademySoftwareFoundation/OpenImageIO/issues/4553",
+    "patch": "OpenImageIO存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-07-18",
+    "update_time": "2025-07-18",
+    "data_summary": "e88c0fb50865d84db8ff80fa50073f9f"
+}

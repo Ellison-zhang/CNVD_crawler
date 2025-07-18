@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-18 10:04:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16365",
+    "spider_time": 1752833043256,
+    "name": "WordPress插件AIT CSV import/export代码问题漏洞",
+    "cnvd": "CNVD-2025-16365",
+    "publish": "2025-07-18",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress AIT CSV import/export plugin <=3.0.3\"]",
+    "cve": "CVE-2020-36849",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress插件AIT CSV import/export存在代码问题漏洞，该漏洞源于文件upload-handler.php缺少文件类型验证，攻击者可利用该漏洞导致任意文件上传。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2020-36849",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wpscan.com/vulnerability/36e699a4-91f2-426d-ba14-26036fbfeaea",
+    "patch": "WordPress插件AIT CSV import/export代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-07-18",
+    "update_time": "2025-07-18",
+    "data_summary": "d7817fa4072f20b3a6cc50592e1a2b0d"
+}

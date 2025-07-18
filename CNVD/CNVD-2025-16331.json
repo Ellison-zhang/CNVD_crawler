@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-18 10:07:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16331",
+    "spider_time": 1752833244112,
+    "name": "Tenda AC500 formexeCommand方法命令注入漏洞",
+    "cnvd": "CNVD-2025-16331",
+    "publish": "2025-07-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"Tenda AC500 2.0.1.9(1307)\"]",
+    "cve": "CVE-2024-32314",
+    "description": "Tenda AC500是推出的无线控制器设备，专为中小型企业设计，支持跨VLAN管理无线网络。Tenda AC500存在命令注入漏洞，该漏洞源于formexeCommand方法的cmdinput参数未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/AC500/formexecommand_cmdi.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-2470.html",
+    "patch": "Tenda AC500 formexeCommand方法命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-22",
+    "open_time": "2025-07-18",
+    "update_time": "2025-07-18",
+    "data_summary": "a3770f5791ceab7c65c20b15aa43bef4"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-18 10:07:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16334",
+    "spider_time": 1752833259690,
+    "name": "Tenda AC500 fromDhcpListClient方法list1参数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16334",
+    "publish": "2025-07-18",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda AC500 2.0.1.9(1307)\"]",
+    "cve": "CVE-2024-32316",
+    "description": "Tenda AC500是推出的无线控制器设备，专为中小型企业设计，支持跨VLAN管理无线网络。Tenda AC500存在缓冲区溢出漏洞，该漏洞源于fromDhcpListClient方法list1参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/AC500/fromDhcpListClient_list1.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-2470.html",
+    "patch": "Tenda AC500 fromDhcpListClient方法list1参数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-22",
+    "open_time": "2025-07-18",
+    "update_time": "2025-07-18",
+    "data_summary": "d74cac7bac3eb001a75e156103d1e782"
+}

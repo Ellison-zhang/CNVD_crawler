@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-18 10:07:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16361",
+    "spider_time": 1752833221932,
+    "name": "OpenImageIO缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16361",
+    "publish": "2025-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"OpenImageIO OpenImageIO v3.1.0.0dev\"]",
+    "cve": "CVE-2024-55194",
+    "description": "OpenImageIO是OpenImageIO开源的一个图像处理库。具有易于使用的界面和大量受支持的图像格式。OpenImageIO存在缓冲区溢出漏洞，该漏洞源于组件/OpenImageIO/fmath.h在处理不受信任的输入时出现边界错误。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-55194",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/AcademySoftwareFoundation/OpenImageIO/issues/4552",
+    "patch": "OpenImageIO缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-07-18",
+    "update_time": "2025-07-18",
+    "data_summary": "19791c8ad13c157c7b4d0a5cecf7e3cb"
+}
