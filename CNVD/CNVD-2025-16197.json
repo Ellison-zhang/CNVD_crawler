@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-18 16:06:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16197",
+    "spider_time": 1752854818793,
+    "name": "广州红海云计算股份有限公司红海云eHr存在信息泄露漏洞",
+    "cnvd": "CNVD-2025-16197",
+    "publish": "2025-07-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5e7f\\u5dde\\u7ea2\\u6d77\\u4e91\\u8ba1\\u7b97\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u7ea2\\u6d77\\u4e91EHR\"]",
+    "cve": null,
+    "description": "红海云eHR是红海云公司推出的数字化人力资源管理解决方案，专注于为国有企业及大型企业提供系统化、精准化的薪酬分配与激励体系优化服务。广州红海云计算股份有限公司红海云eHr存在信息泄露漏洞，攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.hr-soft.cn/",
+    "patch": "广州红海云计算股份有限公司红海云eHr存在信息泄露漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-06-04",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-18",
+    "data_summary": "364fd605b9b458a790df0588cd64fa11"
+}
