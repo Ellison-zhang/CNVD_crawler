@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-18 07:06:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16315",
+    "spider_time": 1752822384480,
+    "name": "PDF-XChange Editor内存错误引用漏洞",
+    "cnvd": "CNVD-2025-16315",
+    "publish": "2025-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"PDF-XChange PDF-XChange Editor\"]",
+    "cve": "CVE-2025-6644",
+    "description": "PDF-XChange Editor是PDF-XChange公司的一个运行在Microsoft Windows系统中的PDF文件查看软件。PDF-XChange Editor存在内存错误引用漏洞，攻击者可利用该漏洞在当前进程的上下文中执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-25-429/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.pdf-xchange.com/product/pdf-xchange-editor",
+    "patch": "PDF-XChange Editor内存错误引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-18",
+    "update_time": "2025-07-18",
+    "data_summary": "4ac30c5fc62b25d5d40d5356db6fea66"
+}

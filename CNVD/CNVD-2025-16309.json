@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-18 07:06:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16309",
+    "spider_time": 1752822407285,
+    "name": "WordPress Red Art代码注入漏洞",
+    "cnvd": "CNVD-2025-16309",
+    "publish": "2025-07-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress Red Art <=3.7\"]",
+    "cve": "CVE-2025-52828",
+    "description": "WordPress Red Art是一款专为艺术领域设计的主题，主要用于创建艺术家作品集、画廊、摄影展、纹身工作室等艺术类网站。WordPress Red Art存在代码注入漏洞，该漏洞源于反序列化不可信数据，攻击者可利用该漏洞通过提升权限，修改用户权限设置，获取更高权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-52828",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-10",
+    "open_time": "2025-07-18",
+    "update_time": "2025-07-18",
+    "data_summary": "5b05cf2ab11c2ad115fb324776413a38"
+}
