@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-18 09:06:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16320",
+    "spider_time": 1752829604355,
+    "name": "Tenda AC10缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16320",
+    "publish": "2025-07-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:P/A:N",
+    "product": "[\"Tenda AC10 4.0\", \"Tenda AC10 16.03.10.13\", \"Tenda AC10 16.03.10.20\"]",
+    "cve": "CVE-2024-32317",
+    "description": "Tenda A18是推出的双频千兆无线路由器，主要面向200M及以上光纤用户。Tenda AC10存在缓冲区溢出漏洞，该漏洞源于formWanParameterSetting方法的adslPwd参数未能正确验证输入数据的长度大小，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/AC10/V16.03.10.13/formWanParameterSetting.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-3506.html",
+    "patch": "Tenda AC10缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-22",
+    "open_time": "2025-07-18",
+    "update_time": "2025-07-18",
+    "data_summary": "f71f42f5c25de4f23acfb55e9e39fed4"
+}
