@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-20 06:05:56",
+    "parse_time": "2025-07-20 07:04:29",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16326",
-    "spider_time": 1752991556794,
+    "spider_time": 1752995069758,
     "name": "D-Link DIR-825 do_file函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-16326",
     "publish": "2025-07-17",
