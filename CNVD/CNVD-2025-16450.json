@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 07:09:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16450",
+    "spider_time": 1753081791696,
+    "name": "联想（北京）有限公司联想电脑管家存在命令执行漏洞",
+    "cnvd": "CNVD-2025-16450",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u8054\\u60f3\\uff08\\u5317\\u4eac\\uff09\\u6709\\u9650\\u516c\\u53f8 \\u8054\\u60f3\\u7535\\u8111\\u7ba1\\u5bb6 5.1.100.1102\"]",
+    "cve": null,
+    "description": "联想电脑管家是联想集团专为联想设备开发的综合性电脑管理软件，提供系统优化、安全防护、硬件诊断及原厂驱动管理等核心功能。联想（北京）有限公司联想电脑管家存在命令执行漏洞，攻击者可利用漏洞执行命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.lenovo.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-06",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "6709f3eda4b07775ece5942c4557db3b"
+}

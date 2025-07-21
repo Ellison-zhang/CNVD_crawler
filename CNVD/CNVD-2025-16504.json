@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 07:09:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16504",
+    "spider_time": 1753081785751,
+    "name": "义乌中国小商品城大数据有限公司小商品城APP存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-16504",
+    "publish": "2025-07-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u4e49\\u4e4c\\u4e2d\\u56fd\\u5c0f\\u5546\\u54c1\\u57ce\\u5927\\u6570\\u636e\\u6709\\u9650\\u516c\\u53f8 \\u5c0f\\u5546\\u54c1\\u57ceAPP v2.9.1\"]",
+    "cve": null,
+    "description": "小商品城APP是一款手机购物商城平台。义乌中国小商品城大数据有限公司小商品城APP存在未授权访问漏洞，攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.chinagoods.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-06",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "aabf375efe5cf762087388684c58f6c5"
+}

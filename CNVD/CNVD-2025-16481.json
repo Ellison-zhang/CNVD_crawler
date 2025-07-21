@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 07:10:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16481",
+    "spider_time": 1753081835753,
+    "name": "科华数据股份有限公司监控系统存在弱口令漏洞",
+    "cnvd": "CNVD-2025-16481",
+    "publish": "2025-07-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u79d1\\u534e\\u6570\\u636e\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u76d1\\u63a7\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "科华数据股份有限公司主要业务涵盖数据中心、高端电源、新能源，服务全球100多个国家和地区的客户。科华数据股份有限公司监控系统存在弱口令漏洞，攻击者可利用漏洞登录系统，获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.kehua.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-05",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "2e5946be83c7258f37d39626f5e2759b"
+}

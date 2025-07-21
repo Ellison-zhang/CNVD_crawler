@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 07:10:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16466",
+    "spider_time": 1753081822814,
+    "name": "天地伟业技术有限公司Net Video System存在命令执行漏洞",
+    "cnvd": "CNVD-2025-16466",
+    "publish": "2025-07-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u5929\\u5730\\u4f1f\\u4e1a\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 Net Video System\"]",
+    "cve": null,
+    "description": "Net Video System（网络视频系统）是一种基于计算机网络技术的视频处理与传输系统，主要用于实时监控、录像存储及远程通讯。天地伟业技术有限公司Net Video System存在命令执行漏洞，攻击者可利用漏洞执行命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.tiandy.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-05",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "cb565246f29a8434cff0dcc0e00feeee"
+}

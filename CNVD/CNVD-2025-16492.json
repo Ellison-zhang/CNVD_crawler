@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 07:11:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16492",
+    "spider_time": 1753081861398,
+    "name": "摩莎科技（上海）有限公司NPort 5410存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-16492",
+    "publish": "2025-07-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6469\\u838e\\u79d1\\u6280\\uff08\\u4e0a\\u6d77\\uff09\\u6709\\u9650\\u516c\\u53f8 NPort 5410\"]",
+    "cve": null,
+    "description": "NPort 5410是一款工业级串口通信处理器，主要用于将传统串口设备接入网络，实现远程管理和监控。摩莎科技（上海）有限公司NPort 5410存在未授权访问漏洞，攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.moxa.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-03",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "b5233668d8418f79779fe5528689572c"
+}

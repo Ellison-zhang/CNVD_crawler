@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 07:10:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16468",
+    "spider_time": 1753081839925,
+    "name": "兄弟科技股份有限公司HL-L2360D series存在命令执行漏洞",
+    "cnvd": "CNVD-2025-16468",
+    "publish": "2025-07-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u5144\\u5f1f\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 HL-L2360D series\"]",
+    "cve": null,
+    "description": "HL-L2360D series是紧凑型黑白激光打印机系列，主要型号包括HL-L2360DW等。兄弟科技股份有限公司HL-L2360D series存在命令执行漏洞，攻击者可利用漏洞执行命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.brother.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-04",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "ce9979301883c5f4d65f6508e3ba3229"
+}

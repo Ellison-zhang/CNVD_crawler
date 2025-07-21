@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 07:10:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16518",
+    "spider_time": 1753081817540,
+    "name": "深圳市吉祥腾达科技有限公司Tenda Wireless Router存在信息泄露漏洞",
+    "cnvd": "CNVD-2025-16518",
+    "publish": "2025-07-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u5409\\u7965\\u817e\\u8fbe\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 Tenda Wireless Router\"]",
+    "cve": null,
+    "description": "Tenda Wireless Router是一个网络设备品牌，专注于提供稳定、易用的无线路由器解决方案。深圳市吉祥腾达科技有限公司Tenda Wireless Router存在信息泄露漏洞，攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.tenda.com.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-05",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "17f2c3ca054b3d97407bcb3ee4e7f816"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 07:10:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16506",
+    "spider_time": 1753081807850,
+    "name": "青岛海信网络科技股份有限公司车辆远程监控平台存在文件上传漏洞",
+    "cnvd": "CNVD-2025-16506",
+    "publish": "2025-07-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u9752\\u5c9b\\u6d77\\u4fe1\\u7f51\\u7edc\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u8f66\\u8f86\\u8fdc\\u7a0b\\u76d1\\u63a7\\u5e73\\u53f0 2.0.0.R1\"]",
+    "cve": null,
+    "description": "青岛海信移动通信技术有限公司是国内最早且最具实力的移动终端产品方案提供商之一。青岛海信网络科技股份有限公司车辆远程监控平台存在文件上传漏洞，攻击者可利用漏洞上传恶意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.hisense-transtech.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-05",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "204741842becf7a3699fd3811901558a"
+}

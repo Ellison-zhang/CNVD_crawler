@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 07:10:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16514",
+    "spider_time": 1753081858481,
+    "name": "珠海新华通软件股份有限公司网上委托系统存在文件上传漏洞",
+    "cnvd": "CNVD-2025-16514",
+    "publish": "2025-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u73e0\\u6d77\\u65b0\\u534e\\u901a\\u8f6f\\u4ef6\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u7f51\\u4e0a\\u59d4\\u6258\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "珠海新华通软件股份有限公司是一家专注于智慧城市、智慧住建等行业信息化产品研发及服务的专业软件公司。珠海新华通软件股份有限公司网上委托系统存在文件上传漏洞，攻击者可利用漏洞上传恶意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.zhxht.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-03",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "5dc10f6db87657edbb8fc41637af9fa6"
+}

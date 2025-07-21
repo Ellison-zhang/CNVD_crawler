@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 07:09:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16415",
+    "spider_time": 1753081796918,
+    "name": "上海德米萨信息科技有限公司德米萨智能办公平台存在SQL注入漏洞（CNVD-C-2025-313235）",
+    "cnvd": "CNVD-2025-16415",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u4e0a\\u6d77\\u5fb7\\u7c73\\u8428\\u4fe1\\u606f\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u5fb7\\u7c73\\u8428\\u667a\\u80fd\\u529e\\u516c\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "德米萨智能办公平台是一个综合数字化管理平台，专注于解决企业全生命周期管理需求，核心功能涵盖ERP、CRM、OA协同办公等模块。上海德米萨信息科技有限公司德米萨智能办公平台存在SQL注入漏洞，攻击者可利用漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.dimix.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-06",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "521ed19b56d2a84c5a9fd4da611c7fe7"
+}
