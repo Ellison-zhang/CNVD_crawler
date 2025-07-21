@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 03:34:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16383",
+    "spider_time": 1753068862821,
+    "name": "Adobe ColdFusion服务端请求伪造漏洞",
+    "cnvd": "CNVD-2025-16383",
+    "publish": "2025-07-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"Adobe ColdFusion 2025 <=Update 2\", \"Adobe ColdFusion 2023 <=Update 14\", \"Adobe ColdFusion 2021 <=Update 20\"]",
+    "cve": "CVE-2025-49545",
+    "description": "Adobe ColdFusion是美国奥多比（Adobe）公司的一套快速应用程序开发平台。该平台包括集成开发环境和脚本语言。Adobe ColdFusion存在服务端请求伪造漏洞，该漏洞源于服务器未实现足够的验证机制来确认请求的来源，攻击者可利用该漏洞导致任意文件系统读取。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/coldfusion/apsb25-69.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/coldfusion/apsb25-69.html",
+    "patch": "Adobe ColdFusion服务端请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "e6ac465875cfb07607c500f6a46e3cc3"
+}
