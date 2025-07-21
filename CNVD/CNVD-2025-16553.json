@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 10:04:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16553",
+    "spider_time": 1753092260014,
+    "name": "Netgear DGND3700身份验证不当漏洞",
+    "cnvd": "CNVD-2025-16553",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Netgear DGND3700 1.1.00.15_1.00.15NA\"]",
+    "cve": "CVE-2025-4978",
+    "description": "Netgear DGND3700是美国网件（NETGEAR）公司生产的双频千兆无线DSL路由器，主要用于家庭和中小企业网络连接。Netgear DGND3700存在身份验证不当漏洞，该漏洞源于Basic Authentication的文件/BRS_top.html的未知部分，攻击者可利用该漏洞导致身份验证绕过。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/at0de/my_vulns/blob/main/Netgear/DGND3700v2/backdoor.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "ae5460d5a1e2ec9507a5d0b23deff97b"
+}

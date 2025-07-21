@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-21 09:10:27",
+    "parse_time": "2025-07-21 10:07:03",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16524",
-    "spider_time": 1753089027330,
+    "spider_time": 1753092423853,
     "name": "RT-Thread输入验证错误漏洞（CNVD-2025-16524）",
     "cnvd": "CNVD-2025-16524",
     "publish": "2025-07-18",
