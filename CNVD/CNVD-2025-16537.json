@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 09:07:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16537",
+    "spider_time": 1753088877688,
+    "name": "Adobe InDesign堆缓冲区溢出漏洞（CNVD-2025-16537）",
+    "cnvd": "CNVD-2025-16537",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe InDesign <=ID20.3\", \"Adobe InDesign <=ID19.5.3\"]",
+    "cve": "CVE-2025-47103",
+    "description": "Adobe InDesign是美国奥多比（Adobe）公司的一套排版编辑应用程序。Adobe InDesign存在堆缓冲区溢出漏洞，攻击者可利用该漏洞在当前用户的上下文中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/indesign/apsb25-60.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/indesign/apsb25-60.html",
+    "patch": "Adobe InDesign堆缓冲区溢出漏洞（CNVD-2025-16537）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "0909782bd3902b454f082cd9eedd6d99"
+}

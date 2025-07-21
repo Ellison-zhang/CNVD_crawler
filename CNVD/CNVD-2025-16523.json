@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 09:10:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16523",
+    "spider_time": 1753089024066,
+    "name": "RT-Thread缓冲区溢出漏洞（CNVD-2025-16523）",
+    "cnvd": "CNVD-2025-16523",
+    "publish": "2025-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"RT-Thread RT-Thread 5.1.0\"]",
+    "cve": "CVE-2025-5865",
+    "description": "RT-Thread是RT-Thread开源的一个开源物联网实时操作系统（RTOS）。RT-Thread存在缓冲区溢出漏洞，该漏洞源于文件rt-thread/components/lwp/lwp_syscall.c中参数timeout的操作，攻击者可利用该漏洞通过损坏内存使系统崩溃，中断服务运行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5865",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://vuldb.com/?submit.584124",
+    "patch": "RT-Thread缓冲区溢出漏洞（CNVD-2025-16523）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-15",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "dc3f64a19c73ef775b3bcc3ab0cdc5ac"
+}

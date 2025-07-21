@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 09:08:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16544",
+    "spider_time": 1753088910100,
+    "name": "Adobe Substance 3D Stager越界读取漏洞（CNVD-2025-16544）",
+    "cnvd": "CNVD-2025-16544",
+    "publish": "2025-07-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Adobe Substance 3D Stager <=3.1.2\"]",
+    "cve": "CVE-2025-27165",
+    "description": "Adobe Substance 3D Stager是美国奥多比（Adobe）公司的一个虚拟3D工作室。Adobe Substance 3D Stager存在越界读取漏洞，攻击者可利用该漏洞导致敏感内存泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/substance3d_stager/apsb25-64.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/substance3d_stager/apsb25-64.html",
+    "patch": "Adobe Substance 3D Stager越界读取漏洞（CNVD-2025-16544）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "ddc8b1fedb8b98d8eb66aef1ea3da7d0"
+}

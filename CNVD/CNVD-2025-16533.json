@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 09:09:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16533",
+    "spider_time": 1753088950899,
+    "name": "Fuji Electric TELLUS/TELLUS Lite越界读取漏洞（CNVD-2025-16533）",
+    "cnvd": "CNVD-2025-16533",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Fuji Electric Fuji Electric TELLUS 4.0.15.0\", \"Fuji Electric Fuji Electric TELLUS Lite 4.0.15.0\"]",
+    "cve": "CVE-2023-32288",
+    "description": "Fuji Electric TELLUS和Fuji Electric TELLUS Lite都是日本富士电机（Fuji Electric）公司的产品。Fuji Electric TELLUS是一款高级功能、用户友好性和远程控制专用软件。Fuji Electric TELLUS Lite是一个远程控制软件。Fuji Electric TELLUS和Fuji Electric TELLUS Lite存在越界读取漏洞，该漏洞源于程序未能正确验证输入数据的长度大小，攻击者可利用该漏洞打开特制的SIM文件导致信息泄露或任意代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://jvn.jp/en/vu/JVNVU98818508/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://monitouch.fujielectric.com/site/download-e/03tellus_inf/index.php",
+    "patch": "Fuji Electric TELLUS/TELLUS Lite越界读取漏洞（CNVD-2025-16533）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-06-21",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "c86448a5334ecbfdde268b489cbcc2a0"
+}
