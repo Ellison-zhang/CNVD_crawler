@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 14:04:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16590",
+    "spider_time": 1753106690946,
+    "name": "NETGEAR WNCE3001缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16590",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"NETGEAR WNCE3001 1.0.0.50\"]",
+    "cve": "CVE-2025-6565",
+    "description": "NETGEAR WNCE3001是一款双频无线网络适配器，专为智能电视、蓝光播放器等设备设计，通过以太网接口实现无线连接。NETGEAR WNCE3001存在缓冲区溢出漏洞，该漏洞源于HTTP POST请求处理程序对参数Host处理不当，攻击者可利用该漏洞提交特殊的请求，使应用程序崩溃或以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/xiaobor123/vul-finds/tree/main/vul-find-wnce3001-netgear",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-07-01",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "b18e04b6fb60f8437fa8b84e2c6557b8"
+}
