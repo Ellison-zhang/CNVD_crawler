@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 16:07:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16500",
+    "spider_time": 1753114041989,
+    "name": "山东中维世纪科技股份有限公司运维部署管理系统存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-16500",
+    "publish": "2025-07-22",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5c71\\u4e1c\\u4e2d\\u7ef4\\u4e16\\u7eaa\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u8fd0\\u7ef4\\u90e8\\u7f72\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "山东中维世纪科技股份有限公司是一家智慧视觉产品及方案提供商。山东中维世纪科技股份有限公司运维部署管理系统存在未授权访问漏洞，攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.jovision.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-07",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "995f4af884e43f1a9ea0664aa32d7724"
+}

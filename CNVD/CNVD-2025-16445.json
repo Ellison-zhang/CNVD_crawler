@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 16:07:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16445",
+    "spider_time": 1753114033935,
+    "name": "友讯电子设备（上海）有限公司DI-7003G存在二进制漏洞",
+    "cnvd": "CNVD-2025-16445",
+    "publish": "2025-07-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u53cb\\u8baf\\u7535\\u5b50\\u8bbe\\u5907\\uff08\\u4e0a\\u6d77\\uff09\\u6709\\u9650\\u516c\\u53f8 DI-7003G\"]",
+    "cve": null,
+    "description": "DI-7003G是一款企业级路由器，支持10/100/1000Mbps传输速率，具备VPN支持（支持16条隧道）、内置防火墙、USB 3.0接口等功能，适用于中小型企业网络环境。友讯电子设备（上海）有限公司DI-7003G存在二进制漏洞，攻击者可利用漏洞注入命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.dlink.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-07",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "b931262fee11eead8f9dd48a6472cfbb"
+}

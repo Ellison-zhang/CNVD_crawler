@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 16:07:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16484",
+    "spider_time": 1753114045227,
+    "name": "众勤通信设备贸易（上海）有限公司ZyXEL-P-660HN-51存在弱口令漏洞",
+    "cnvd": "CNVD-2025-16484",
+    "publish": "2025-07-22",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u4f17\\u52e4\\u901a\\u4fe1\\u8bbe\\u5907\\u8d38\\u6613\\uff08\\u4e0a\\u6d77\\uff09\\u6709\\u9650\\u516c\\u53f8 ZyXEL-P-660HN-51\"]",
+    "cve": null,
+    "description": "众勤通信设备贸易（上海）有限公司经营范围包括路由器、网络卡、集线器、交换器、转换器、连接器等。众勤通信设备贸易（上海）有限公司ZyXEL-P-660HN-51存在弱口令漏洞，攻击者可利用漏洞登录系统，获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.zyxel.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-07",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "1dd7ab1a177edbe7f1d4dbfe415376c8"
+}
