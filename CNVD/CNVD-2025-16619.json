@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 04:17:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16619",
+    "spider_time": 1753157843551,
+    "name": "Apache Tomcat安全绕过漏洞（CNVD-2025-16619）",
+    "cnvd": "CNVD-2025-16619",
+    "publish": "2025-07-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Apache Tomcat >=11.0.0-M1\\uff0c<=11.0.6\", \"Apache Tomcat >=10.1.0-M1\\uff0c<=10.1.40\", \"Apache Tomcat >=9.0.0.M1\\uff0c<=9.0.104\"]",
+    "cve": "CVE-2025-46701",
+    "description": "Apache Tomcat是美国阿帕奇（Apache）基金会的一款轻量级Web应用服务器。用于实现对Servlet和JavaServer Page（JSP）的支持。Apache Tomcat存在安全绕过漏洞，该漏洞是由于对GCI servlet中的区分大小写漏洞处理不当造成的。攻击者可利用该漏洞绕过安全限制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2025/05/29/4",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://tomcat.apache.org/download-90.cgi",
+    "patch": "Apache Tomcat安全绕过漏洞（CNVD-2025-16619）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-07-22",
+    "update_time": "2025-07-22",
+    "data_summary": "bdd45a4c3dbab7cb543dcb127fb3eff4"
+}

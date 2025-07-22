@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 04:17:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16618",
+    "spider_time": 1753157838342,
+    "name": "Apache Tomcat资源管理错误漏洞（CNVD-2025-16618）",
+    "cnvd": "CNVD-2025-16618",
+    "publish": "2025-07-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Apache Tomcat >=11.0.0-M1\\uff0c<=11.0.8\", \"Apache Tomcat >=10.1.0-M1\\uff0c<=10.1.42\", \"Apache Tomcat >=9.0.0.M1\\uff0c<=9.0.106\"]",
+    "cve": "CVE-2025-53506",
+    "description": "Apache Tomcat是美国阿帕奇（Apache）基金会的一款轻量级Web应用服务器。用于实现对Servlet和JavaServer Page（JSP）的支持。Apache Tomcat存在资源管理错误漏洞，该漏洞源于HTTP/2客户端未确认初始设置帧，攻击者可利用该漏洞导致资源消耗不受控制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lists.apache.org/thread/p09775q0rd185m6zz98krg0fp45j8kr0",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://tomcat.apache.org/",
+    "patch": "Apache Tomcat资源管理错误漏洞（CNVD-2025-16618）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-07-22",
+    "update_time": "2025-07-22",
+    "data_summary": "61edb913732e2389a69e07465dd859f0"
+}
