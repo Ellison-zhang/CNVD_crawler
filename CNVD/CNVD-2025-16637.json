@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-22 18:05:07",
+    "parse_time": "2025-07-22 19:04:52",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16637",
-    "spider_time": 1753207507697,
+    "spider_time": 1753211092318,
     "name": "JetBrains TeamCity diskUsageBuildsStats页面跨站脚本漏洞",
     "cnvd": "CNVD-2025-16637",
     "publish": "2025-07-21",
