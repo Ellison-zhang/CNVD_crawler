@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 09:07:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16641",
+    "spider_time": 1753175224164,
+    "name": "NETGEAR WNR614身份验证不当漏洞",
+    "cnvd": "CNVD-2025-16641",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"NETGEAR WNR614 1.1.0.28_1.0.1WW\"]",
+    "cve": "CVE-2025-5495",
+    "description": "NETGEAR WNR614是一款面向家庭及小型办公环境的无线路由器，具备基础网络管理功能与150Mbps无线传输性能。NETGEAR WNR614存在身份验证不当漏洞，该漏洞源于currentsetting.htm的输入，攻击者可利用该漏洞导致机密性、完整性和可用性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Shuanunio/CVE_Requests/blob/main/Netgear/WNR614/ACL%20bypass%20Vulnerability%20in%20Netgear%20WNR614.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/support/product/wnr614/#download",
+    "patch": "NETGEAR WNR614身份验证不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-07-22",
+    "update_time": "2025-07-22",
+    "data_summary": "4b2aef2029be191cb91479fac7861670"
+}

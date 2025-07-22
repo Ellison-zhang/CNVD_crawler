@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 09:06:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16637",
+    "spider_time": 1753175211881,
+    "name": "JetBrains TeamCity diskUsageBuildsStats页面跨站脚本漏洞",
+    "cnvd": "CNVD-2025-16637",
+    "publish": "2025-07-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"JetBrains TeamCity <2025.03.3\"]",
+    "cve": "CVE-2025-52877",
+    "description": "JetBrains TeamCity是捷克JetBrains公司的一套分布式构建管理和持续集成工具。JetBrains TeamCity存在跨站脚本漏洞，该漏洞源于diskUsageBuildsStats页面对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-52877",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains TeamCity diskUsageBuildsStats页面跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-22",
+    "update_time": "2025-07-22",
+    "data_summary": "087beab0ba51f36818f95f8b2fd06fa2"
+}
