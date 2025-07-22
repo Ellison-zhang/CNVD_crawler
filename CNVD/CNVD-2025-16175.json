@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 16:07:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16175",
+    "spider_time": 1753200422830,
+    "name": "摩莎科技（上海）有限公司ioLogik E1210存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-16175",
+    "publish": "2025-07-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6469\\u838e\\u79d1\\u6280\\uff08\\u4e0a\\u6d77\\uff09\\u6709\\u9650\\u516c\\u53f8 ioLogik E1210\"]",
+    "cve": null,
+    "description": "ioLogik E1210是以太网I/O模块，支持菊花链拓扑结构，主要用于工业自动化、设备监控等场景。摩莎科技（上海）有限公司ioLogik E1210存在未授权访问漏洞，攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cdn-cms-frontdoor-dfc8ebanh6bkb3hs.a02.azurefd.net/Moxa/media/PDIM/S100000327/ioLogik%20E1200%20Series_moxa-iologik-e1241-e1241-t-firmware-v3.4.1kp_Software%20Release%20History.pdf",
+    "patch": "摩莎科技（上海）有限公司ioLogik E1210存在未授权访问漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-06-08",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-18",
+    "data_summary": "a5f6cbf4f2e6ee279c750042fe2dab22"
+}
