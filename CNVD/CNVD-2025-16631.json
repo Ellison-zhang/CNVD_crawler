@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 07:06:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16631",
+    "spider_time": 1753167974387,
+    "name": "Siemens APOGEE PXC+TALON TC Series拒绝服务漏洞",
+    "cnvd": "CNVD-2025-16631",
+    "publish": "2025-07-22",
+    "severity": "低",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"Siemens APOGEE PXC+TALON TC Series (BACnet)\"]",
+    "cve": "CVE-2025-40555",
+    "description": "Siemens APOGEE PXC+TALON TC Series是德国西门子（Siemens）公司的一系列楼宇自动化系统核心控制器。Siemens APOGEE PXC+TALON TC Series存在拒绝服务漏洞，该漏洞源于处理特定BACnet createObject请求后发送未经请求的广播消息，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-718393.html",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-718393.html",
+    "patch": "Siemens APOGEE PXC+TALON TC Series拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-07-22",
+    "update_time": "2025-07-22",
+    "data_summary": "911523461e9643322cc09af1290d05ac"
+}
