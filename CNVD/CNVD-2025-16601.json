@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 02:44:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16601",
+    "spider_time": 1753152245191,
+    "name": "NETGEAR ProSAFE Network Management System文件上传漏洞",
+    "cnvd": "CNVD-2025-16601",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"NETGEAR NETGEAR ProSAFE Network Management System\"]",
+    "cve": "CVE-2024-5247",
+    "description": "NETGEAR ProSAFE Network Management System是 NETGEAR 推出的网络管理系统，主要用于对网络设备进行集中管理、监控和配置。NETGEAR ProSAFE Network Management System存在文件上传漏洞，该漏洞源于应用对上传的文件缺少有效的验证。攻击者可利用该漏洞上传恶意文件从而远程执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-24-498/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://kb.netgear.com/000066165/Security-Advisory-for-Missing-Function-Level-Access-Control-on-the-NMS300-PSV-2024-0005",
+    "patch": "NETGEAR ProSAFE Network Management System文件上传漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-27",
+    "open_time": "2025-07-22",
+    "update_time": "2025-07-22",
+    "data_summary": "27185d3cf00f01026a5e7305b85cf24d"
+}

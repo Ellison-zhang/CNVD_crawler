@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 02:44:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16605",
+    "spider_time": 1753152255831,
+    "name": "NETGEAR ProSAFE Network Management System访问控制错误漏洞",
+    "cnvd": "CNVD-2025-16605",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR ProSAFE Network Management System\"]",
+    "cve": "CVE-2023-49693",
+    "description": "NETGEAR ProSAFE Network Management System是 NETGEAR 推出的网络管理系统，主要用于对网络设备进行集中管理、监控和配置。NETGEAR ProSAFE Network Management System存在访问控制错误漏洞，该漏洞源于未经身份验证的用户远程访问在端口11611上的Java调试线路协议(JDWP)，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-49693",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://kb.netgear.com/000065886/Security-Advisory-for-Sensitive-Information-Disclosure-on-the-NMS300-PSV-2023-0126",
+    "patch": "NETGEAR ProSAFE Network Management System访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-12-01",
+    "open_time": "2025-07-22",
+    "update_time": "2025-07-22",
+    "data_summary": "744c9e89ee2ba5aef4190961c993e79f"
+}

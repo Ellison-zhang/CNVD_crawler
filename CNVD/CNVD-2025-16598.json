@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 02:43:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16598",
+    "spider_time": 1753152231934,
+    "name": "NETGEAR RAX30信息泄露漏洞",
+    "cnvd": "CNVD-2025-16598",
+    "publish": "2025-07-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"NETGEAR RAX30\"]",
+    "cve": "CVE-2023-34283",
+    "description": "NETGEAR RAX30是美国网件（NETGEAR）推出的WiFi 6路由器 ，支持双频段（2.4GHz和5GHz），最高传输速率达2400Mbps，采用三根外置天线设计，配备1.5GHz三核处理器，可同时连接20台设备。NETGEAR RAX30存在信息泄露漏洞，该漏洞源于在处理可移动USB介质上的符号链接时存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-34283",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://kb.netgear.com/000065650/Security-Advisory-for-Multiple-Vulnerabilities-on-the-RAX30-PSV-2023-0003-PSV-2023-0004?article=000065650",
+    "patch": "NETGEAR RAX30信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-15",
+    "open_time": "2025-07-22",
+    "update_time": "2025-07-22",
+    "data_summary": "fdf5d89071cf3ae3d2fe5835deeb3d42"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 02:44:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16602",
+    "spider_time": 1753152248400,
+    "name": "NETGEAR ProSAFE Network Management System代码执行漏洞",
+    "cnvd": "CNVD-2025-16602",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"NETGEAR ProSAFE Network Management System\"]",
+    "cve": "CVE-2023-38097",
+    "description": "NETGEAR ProSAFE Network Management System是 NETGEAR 推出的网络管理系统，主要用于对网络设备进行集中管理、监控和配置。NETGEAR ProSAFE Network Management System存在代码执行漏洞，该漏洞源于BkreProcessThread类存在远程代码执行漏洞。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://kb.netgear.com/000065707/Security-Advisory-for-Multiple-Vulnerabilities-on-the-ProSAFE-Network-Management-System-PSV-2023-0024-PSV-2023-0025\nhttps://www.zerodayinitiative.com/advisories/ZDI-23-919/\nhttps://cxsecurity.com/cveshow/CVE-2023-38097/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://kb.netgear.com/000065707/Security-Advisory-for-Multiple-Vulnerabilities-on-the-ProSAFE-Network-Management-System-PSV-2023-0024-PSV-2023-0025",
+    "patch": "NETGEAR ProSAFE Network Management System代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-24",
+    "open_time": "2025-07-22",
+    "update_time": "2025-07-22",
+    "data_summary": "4e1ad55ca8208ee06f0a94caf48075a3"
+}

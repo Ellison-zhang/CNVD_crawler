@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 02:43:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16615",
+    "spider_time": 1753152221218,
+    "name": "Apache HTTP Server信息泄露漏洞（CNVD-2025-16615）",
+    "cnvd": "CNVD-2025-16615",
+    "publish": "2025-07-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Apache HTTP Server 2.4.60\"]",
+    "cve": "CVE-2024-39884",
+    "description": "Apache HTTP Server是美国阿帕奇（Apache）基金会的一款开源网页服务器。该服务器具有快速、可靠且可通过简单的API进行扩充的特点。Apache HTTP Server存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-39884",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://httpd.apache.org/security/vulnerabilities_24.html",
+    "patch": "Apache HTTP Server信息泄露漏洞（CNVD-2025-16615）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-05",
+    "open_time": "2025-07-22",
+    "update_time": "2025-07-22",
+    "data_summary": "099a12f490691604f9c3697d4671cf81"
+}

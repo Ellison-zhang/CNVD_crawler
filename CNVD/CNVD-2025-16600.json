@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 02:44:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16600",
+    "spider_time": 1753152240636,
+    "name": "NETGEAR ProSAFE Network Management System代码执行漏洞",
+    "cnvd": "CNVD-2025-16600",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"NETGEAR NETGEAR ProSAFE Network Management System\"]",
+    "cve": "CVE-2024-5246",
+    "description": "NETGEAR ProSAFE Network Management System是 NETGEAR 推出的网络管理系统，主要用于对网络设备进行集中管理、监控和配置。NETGEAR ProSAFE Network Management System存在代码执行漏洞，该漏洞源于使用了易受攻击的Apache Tomcat版本。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-24-497/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://kb.netgear.com/000066164/Security-Advisory-for-Multiple-Vulnerabilities-on-the-NMS300-PSV-2024-0003-PSV-2024-0004",
+    "patch": "NETGEAR ProSAFE Network Management System代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-27",
+    "open_time": "2025-07-22",
+    "update_time": "2025-07-22",
+    "data_summary": "b3f3b036d3759430358402ed4ed2219c"
+}
