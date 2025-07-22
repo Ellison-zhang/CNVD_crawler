@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 06:05:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16624",
+    "spider_time": 1753164329200,
+    "name": "Siemens TIA Administrator数据伪造问题漏洞",
+    "cnvd": "CNVD-2025-16624",
+    "publish": "2025-07-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"Siemens TIA Administrator <3.0.6\"]",
+    "cve": "CVE-2025-23364",
+    "description": "Siemens TIA Administrator是德国西门子（Siemens）公司的一款用于授权和许可SIMATIC产品的管理程序。Siemens TIA Administrator存在数据伪造问题漏洞，该漏洞源于代码签名证书验证不当，攻击者可利用该漏洞绕过检查并在安装期间执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-573669.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.industry.siemens.com/cs/document/109825038/tia-administrator-updates?dti=0&lc=en-WW",
+    "patch": "Siemens TIA Administrator数据伪造问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-22",
+    "update_time": "2025-07-22",
+    "data_summary": "5381d701acd4d9c862a3b67bbb88894e"
+}

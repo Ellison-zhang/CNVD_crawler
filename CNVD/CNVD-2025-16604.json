@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-22 05:08:06",
+    "parse_time": "2025-07-22 06:06:19",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16604",
-    "spider_time": 1753160886187,
+    "spider_time": 1753164379186,
     "name": "NETGEAR RAX30 getblockschedule缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-16604",
     "publish": "2025-07-21",
