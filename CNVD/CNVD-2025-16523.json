@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-22 00:16:19",
+    "parse_time": "2025-07-22 01:32:28",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16523",
-    "spider_time": 1753143379643,
+    "spider_time": 1753147948004,
     "name": "RT-Thread缓冲区溢出漏洞（CNVD-2025-16523）",
     "cnvd": "CNVD-2025-16523",
     "publish": "2025-07-18",
