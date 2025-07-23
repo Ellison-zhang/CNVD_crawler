@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-23 10:05:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16693",
+    "spider_time": 1753265127359,
+    "name": "Microsoft SharePoint Server远程代码执行漏洞（CNVD-2025-16693）",
+    "cnvd": "CNVD-2025-16693",
+    "publish": "2025-07-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft SharePoint Enterprise Server 2016\", \"Microsoft SharePoint Server 2019\", \"Microsoft  SharePoint Server Subscription Edition\"]",
+    "cve": "CVE-2025-47172",
+    "description": "Microsoft SharePoint Server是微软制作的一款用于Windows Server的组群软件，提供基本的门户网站和企业内网功能。Microsoft SharePoint Server存在远程代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47172",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47172",
+    "patch": "Microsoft SharePoint Server远程代码执行漏洞（CNVD-2025-16693）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-07-23",
+    "update_time": "2025-07-23",
+    "data_summary": "ef1e24a41ffa1bea2c0c39ad3b4858a4"
+}

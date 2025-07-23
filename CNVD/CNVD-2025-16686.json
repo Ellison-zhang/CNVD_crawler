@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-23 10:04:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16686",
+    "spider_time": 1753265066912,
+    "name": "Microsoft PowerPoint代码执行漏洞",
+    "cnvd": "CNVD-2025-16686",
+    "publish": "2025-07-23",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft PowerPoint 2016\", \"Microsoft Office 2019\", \"Microsoft 365 Apps for Enterprise\", \"Microsoft Office LTSC 2021\", \"Microsoft Office LTSC for Mac 2021\", \"Microsoft Microsoft Office LTSC 2024\", \"Microsoft Office LTSC for Mac 2024\"]",
+    "cve": "CVE-2025-49705",
+    "description": "Microsoft PowerPoint是美国微软（Microsoft）公司的Office套件中的一个文档演示工具。Microsoft PowerPoint存在代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码或导致应用程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49705",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49705",
+    "patch": "Microsoft PowerPoint代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-23",
+    "update_time": "2025-07-23",
+    "data_summary": "0ae5c1c2a903e532b69cabfc47f35d24"
+}
