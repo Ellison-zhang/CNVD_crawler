@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-23 08:05:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16677",
+    "spider_time": 1753257930979,
+    "name": "Huawei HarmonyOS内存写入权限绕过漏洞",
+    "cnvd": "CNVD-2025-16677",
+    "publish": "2025-07-23",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Huawei HarmonyOS 5.0.0\"]",
+    "cve": "CVE-2025-31172",
+    "description": "Huawei HarmonyOS是由华为公司开发的一款面向万物互联时代的全新分布式操作系统。它旨在为多种设备提供统一的操作平台，打破传统操作系统的设备限制，创建一个跨设备、跨平台的生态系统。Huawei HarmonyOS存在内存写入权限绕过漏洞。该漏洞源于该模块对内存写操作的权限验证机制存在缺陷，当低权限进程通过系统调用操作futex时，内核未能严格校验内存地址的合法性及访问权限边界。攻击者可利用该漏洞窃取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-31172",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://consumer.huawei.com/en/support/bulletin/2025/4/",
+    "patch": "Huawei HarmonyOS内存写入权限绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-11",
+    "open_time": "2025-07-23",
+    "update_time": "2025-07-23",
+    "data_summary": "65fa136fdd51d1c3a21b14711fee3201"
+}

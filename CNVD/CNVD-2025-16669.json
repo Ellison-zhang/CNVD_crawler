@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-23 08:05:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16669",
+    "spider_time": 1753257911596,
+    "name": "D-Link DIR-513缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16669",
+    "publish": "2025-07-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-513 1.10\"]",
+    "cve": "CVE-2025-7910",
+    "description": "D-Link DIR-513是D-Link公司生产的无线路由器设备。D-Link DIR-513 1.10版本存在缓冲区溢出漏洞，该漏洞源于Boa Webserver组件/goform/formSetWanNonLogin文件中sprintf函数对curTime参数的处理不当。攻击者可利用该漏洞通过远程构造恶意数据触发缓冲区溢出，从而执行任意代码或导致设备崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.317025\nhttps://vuldb.com/?ctiid.317025\nhttps://vuldb.com/?submit.618594\nhttps://github.com/buobo/bo-s-CVE/blob/main/DIR-513/formSetWanNonLogin.md\nhttps://www.dlink.com/",
+    "solution": "目前厂商尚未发布升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://vuldb.com/?id.317025",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-07-23",
+    "update_time": "2025-07-23",
+    "data_summary": "f7161fa313484160cfc1e3dac7e35c72"
+}
