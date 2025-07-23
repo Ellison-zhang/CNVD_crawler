@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-23 02:41:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16665",
+    "spider_time": 1753238515320,
+    "name": "JetBrains YouTrack原型污染漏洞",
+    "cnvd": "CNVD-2025-16665",
+    "publish": "2025-07-22",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"JetBrains YouTrack <2024.3.52635\"]",
+    "cve": "CVE-2024-54156",
+    "description": "JetBrains YouTrack是一款项目管理工具，支持云托管和本地部署，提供任务管理、团队协作、时间跟踪等功能，适用于软件开发、人力资源等场景。JetBrains YouTrack存在原型污染漏洞，该漏洞源于产品容易受到对象原型属性的不受控制的修改。攻击者可利用该漏洞覆盖JavaScript应用程序对象原型。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-54156",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains YouTrack原型污染漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-13",
+    "open_time": "2025-07-23",
+    "update_time": "2025-07-23",
+    "data_summary": "af26113e9e233c9d302db587c9f94100"
+}
