@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-23 11:03:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16696",
+    "spider_time": 1753268619914,
+    "name": "JetBrains GoLand代码问题漏洞",
+    "cnvd": "CNVD-2025-16696",
+    "publish": "2025-07-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"JetBrains JetBrains GoLand <2025.1\"]",
+    "cve": "CVE-2025-29932",
+    "description": "JetBrains GoLand是捷克JetBrains公司的一套专用于Go语言开发的智能IDE（集成开发环境）。JetBrains GoLand存在代码问题漏洞，该漏洞源于网络系统或产品未设置正确的过滤允许引用外部实体，攻击者可利用该漏洞通过发送特制的XML文件读取文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-29932",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains GoLand代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-07-23",
+    "update_time": "2025-07-23",
+    "data_summary": "17f26ae05a60d17f18b4540a2066407b"
+}
