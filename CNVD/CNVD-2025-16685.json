@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-23 16:06:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16685",
+    "spider_time": 1753286814579,
+    "name": "Microsoft SharePoint远程代码执行漏洞",
+    "cnvd": "CNVD-2025-16685",
+    "publish": "2025-07-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft SharePoint Enterprise Server 2016\", \"Microsoft SharePoint Server 2019\"]",
+    "cve": "CVE-2025-49704",
+    "description": "SharePoint Server是微软提供的本地部署的企业协作平台，支持内容共享、知识管理和应用整合，可与 Microsoft 365订阅无缝对接以获取最新功能。Microsoft SharePoint存在远程代码执行漏洞。该漏洞源于在Microsoft Office SharePoint中的不当控制代码生成（‘代码注入’），经过授权的攻击者可利用漏洞通过网络执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49704",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49704",
+    "patch": "Microsoft SharePoint远程代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-23",
+    "update_time": "2025-07-23",
+    "data_summary": "5fdb732fb26bde61a4abdb9afb5f83c6"
+}
