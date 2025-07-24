@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-24 03:31:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16709",
+    "spider_time": 1753327904472,
+    "name": "Tenda CP3 Pro存在未明漏洞",
+    "cnvd": "CNVD-2025-16709",
+    "publish": "2025-07-24",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:P/A:N",
+    "product": "[\"Tenda CP3 Pro V22.5.4.93\"]",
+    "cve": "CVE-2025-52363",
+    "description": "Tenda CP3 Pro是一款集360°全景监控、300万像素高清摄像、Wi-Fi 6网络技术于一体的智能无线云台摄像机，支持人形/宠物侦测、哭声检测、一键呼叫等功能。Tenda CP3 Pro存在安全漏洞，该漏洞源于/etc/passwd文件和/etc/passwd-中存在硬编码root密码哈希，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.tendacn.com/product/download/cp3pro.html",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-24",
+    "update_time": "2025-07-24",
+    "data_summary": "e8d1b5ec72557e6ebedd58c7a1e76ddd"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-24 03:31:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16710",
+    "spider_time": 1753327911079,
+    "name": "Tenda FH1201 /goform/fromSafeUrlFilter文件缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16710",
+    "publish": "2025-07-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda FH1201 1.2.0.14\"]",
+    "cve": "CVE-2025-7468",
+    "description": "Tenda FH1201是一款无线路由器 ，由中国腾达（Tenda）公司 推出。该产品主要面向家庭和小型办公网络环境。Tenda FH1201存在缓冲区溢出漏洞，该漏洞源于文件/goform/fromSafeUrlFilter中参数page未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://candle-throne-f75.notion.site/Tenda-FH1201-fromSafeUrlFilter-229df0aa118580ceb3e4f54d22814c40",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-07-24",
+    "update_time": "2025-07-24",
+    "data_summary": "16df7bf480bb56d7794f8cb1774e2de6"
+}
