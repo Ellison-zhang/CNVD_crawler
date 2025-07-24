@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-24 08:05:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16776",
+    "spider_time": 1753344355369,
+    "name": "Microsoft Windows权限提升漏洞（CNVD-2025-16776）",
+    "cnvd": "CNVD-2025-16776",
+    "publish": "2025-07-24",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Windows Server 2016\", \"Microsoft Windows Server 2019\", \"Microsoft Windows Server 2022\", \"Microsoft Window 10 22H2\", \"Microsoft Window 10 21H2\", \"Microsoft Window 11 22H2\", \"Microsoft Window 10 1809\", \"Microsoft Window 10 1607\", \"Microsoft Window 11 23H2\", \"Microsoft Window 11 24H2\", \"Microsoft Windows Server 2025\"]",
+    "cve": "CVE-2025-47982",
+    "description": "Microsoft Windows是美国微软（Microsoft）公司的一套个人设备使用的操作系统。Microsoft Windows存在安全漏洞。攻击者利用该漏洞可以提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-47982",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47982",
+    "patch": "Microsoft Windows权限提升漏洞（CNVD-2025-16776）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-24",
+    "update_time": "2025-07-24",
+    "data_summary": "df0e67c6e5aba7f9c7bce23335bcbd34"
+}
