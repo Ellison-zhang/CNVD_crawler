@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-24 05:08:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16713",
+    "spider_time": 1753333683649,
+    "name": "JetBrains Hub访问控制不当漏洞",
+    "cnvd": "CNVD-2025-16713",
+    "publish": "2025-07-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"JetBrains Hub <2024.3.47707\"]",
+    "cve": "CVE-2024-50573",
+    "description": "JetBrains Hub是JetBrains推出的基于Web的身份管理服务，主要用于集中管理YouTrack、TeamCity等团队协作工具的用户身份验证、权限分配及项目协作。JetBrains Hub存在访问控制不当漏洞，攻击者可利用该漏洞为未经授权的服务生成永久令牌。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-50573",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains Hub访问控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-30",
+    "open_time": "2025-07-24",
+    "update_time": "2025-07-24",
+    "data_summary": "1cd2fde2a30435851c6ade9afb48ef5a"
+}
