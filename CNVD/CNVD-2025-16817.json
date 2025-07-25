@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-25 04:17:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16817",
+    "spider_time": 1753417037413,
+    "name": "WordPress Ajax Load More plugin授权问题漏洞",
+    "cnvd": "CNVD-2025-16817",
+    "publish": "2025-07-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress Ajax Load More plugin <2.8.1.2\"]",
+    "cve": "CVE-2015-10140",
+    "description": "WordPress Ajax Load More plugin是一款开源插件，主要用于实现网站内容的无限滚动和懒加载功能，通过AJAX技术优化用户体验。WordPress Ajax Load More plugin存在授权问题漏洞，该漏洞源于某些AJAX操作缺少授权，攻击者可利用该漏洞导致任意文件上传和删除。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wpscan.com/vulnerability/9f0c926e-0609-4c89-a724-88e16bcfa82a",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress Ajax Load More plugin授权问题漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-07-25",
+    "update_time": "2025-07-25",
+    "data_summary": "7007205e0afd03c7cd274bebd3f89911"
+}
