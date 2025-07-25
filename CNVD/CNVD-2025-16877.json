@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-25 10:04:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16877",
+    "spider_time": 1753437858017,
+    "name": "JetBrains YouTrack存在未明漏洞（CNVD-2025-16877）",
+    "cnvd": "CNVD-2025-16877",
+    "publish": "2025-07-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"JetBrains JetBrains YouTrack <2024.2.34646\"]",
+    "cve": "CVE-2024-38504",
+    "description": "JetBrains YouTrack是一款项目管理工具，支持云托管和本地部署，主要面向团队协作管理，尤其适合软件开发、人力资源、市场营销等场景。JetBrains YouTrack存在安全漏洞，该漏洞源于允许访客用户帐户会将文件附加到文章中。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-38504",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains YouTrack存在未明漏洞（CNVD-2025-16877）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-21",
+    "open_time": "2025-07-25",
+    "update_time": "2025-07-25",
+    "data_summary": "ebc7bad2ad6fdd038e3fdd230e3057de"
+}
