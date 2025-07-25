@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-25 09:06:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16869",
+    "spider_time": 1753434381366,
+    "name": "D-Link DIR-816L命令注入漏洞",
+    "cnvd": "CNVD-2025-16869",
+    "publish": "2025-07-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"D-Link DIR-816L <=2.06B01\"]",
+    "cve": "CVE-2025-7836",
+    "description": "D-Link DIR-816L是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-816L 2.06B01及之前版本存在命令注入漏洞，该漏洞源于环境变量处理组件中lxmldbc_system函数未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7836",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/bananashipsBBQ/CVE/blob/main/D-Link%20DIR-816L%20Remote%20Arbitrary%20Command%20Execution%20Vulnerability%20in%20ssdpcgi.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-07-25",
+    "update_time": "2025-07-25",
+    "data_summary": "98982a9af56d52f6168e19bc12a16d5c"
+}

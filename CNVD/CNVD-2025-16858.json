@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-25 09:08:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16858",
+    "spider_time": 1753434504492,
+    "name": "Tenda FH1205缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16858",
+    "publish": "2025-07-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda FH1205 2.0.0.7(775)\"]",
+    "cve": "CVE-2025-7596",
+    "description": "Tenda FH1205是中国腾达（Tenda）公司的一款无线路由器。Tenda FH1205 2.0.0.7(775)版本存在缓冲区溢出漏洞，该漏洞源于文件/goform/WifiExtraSet中参数wpapsk_crypto未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7596",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/panda666-888/vuls/blob/main/tenda/fh1205/formWifiExtraSet.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-25",
+    "update_time": "2025-07-25",
+    "data_summary": "5121fb389a5a6ce6088011804b10db48"
+}

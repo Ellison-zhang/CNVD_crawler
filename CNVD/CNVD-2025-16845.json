@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-25 09:06:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16845",
+    "spider_time": 1753434394742,
+    "name": "Tenda FH451 formSafeUrlFilter函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16845",
+    "publish": "2025-07-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda FH451 1.0.0.9\"]",
+    "cve": "CVE-2025-7807",
+    "description": "Tenda FH451是中国腾达（Tenda）公司的一款路由器。Tenda FH451 1.0.0.9版本存在缓冲区溢出漏洞，该漏洞源于对文件/goform/SafeUrlFilter中参数Go/page未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7807",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/panda666-888/vuls/blob/main/tenda/fh451/fromSafeUrlFilter_Go.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-07-25",
+    "update_time": "2025-07-25",
+    "data_summary": "4f844d3a32fccda9849315c7c32ae932"
+}

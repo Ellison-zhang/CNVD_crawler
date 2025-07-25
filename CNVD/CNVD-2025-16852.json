@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-25 09:09:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16852",
+    "spider_time": 1753434552821,
+    "name": "JetBrains Ktor信息泄露漏洞",
+    "cnvd": "CNVD-2025-16852",
+    "publish": "2025-07-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"JetBrains Jetbrains Ktor <2.3.13\"]",
+    "cve": "CVE-2024-49580",
+    "description": "JetBrains Ktor是一个由JetBrains开发的轻量级、异步的Kotlin Web框架。JetBrains Ktor存在信息泄露漏洞，该漏洞源于HttpCache插件中的不当缓存，攻击者可利用该漏洞导致响应信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-49580",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains Ktor信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-23",
+    "open_time": "2025-07-25",
+    "update_time": "2025-07-25",
+    "data_summary": "c0858d8f16f9de09224bbce0dee6a58e"
+}
