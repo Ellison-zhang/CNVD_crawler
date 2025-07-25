@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-25 11:03:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16891",
+    "spider_time": 1753441428575,
+    "name": "JetBrains TeamCity跨站脚本漏洞",
+    "cnvd": "CNVD-2025-16891",
+    "publish": "2025-07-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"JetBrains JetBrains TeamCity <2023.11\"]",
+    "cve": "CVE-2024-35302",
+    "description": "JetBrains TeamCity是捷克JetBrains公司的一套分布式构建管理和持续集成工具。该工具提供持续单元测试、代码质量分析和构建问题分析报告等功能。JetBrains TeamCity存在跨站脚本漏洞，该漏洞源于从备份恢复期间存在存储型跨站脚本，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-35302",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains TeamCity跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-30",
+    "open_time": "2025-07-25",
+    "update_time": "2025-07-25",
+    "data_summary": "34b405e04a5a524eab429af39a9b7804"
+}
