@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-25 03:32:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16814",
+    "spider_time": 1753414352162,
+    "name": "Tenda FH451 formP2pListFilter函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16814",
+    "publish": "2025-07-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda FH451 1.0.0.9\"]",
+    "cve": "CVE-2025-7795",
+    "description": "Tenda FH451是中国腾达公司推出的单频2.4GHz SOHO无线路由器 ，最高传输速率为450Mbps，属于穿墙王系列产品。Tenda FH451存在缓冲区溢出漏洞，该漏洞源于对文件/goform/P2pListFilter中参数page未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://access.redhat.com/security/cve/cve-2025-7795",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-07-25",
+    "update_time": "2025-07-25",
+    "data_summary": "e43faf206ac44a93545f4d8d5375aa53"
+}
