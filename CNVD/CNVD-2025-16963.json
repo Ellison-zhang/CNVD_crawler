@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-28 12:06:43",
+    "parse_time": "2025-07-28 13:16:25",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16963",
-    "spider_time": 1753704403778,
+    "spider_time": 1753708585298,
     "name": "Tenda FH1202 /goform/webExcptypemanFilter文件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-16963",
     "publish": "2025-07-25",
