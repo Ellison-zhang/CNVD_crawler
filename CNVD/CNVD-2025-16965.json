@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-28 10:04:53",
+    "parse_time": "2025-07-28 11:04:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16965",
-    "spider_time": 1753697093047,
+    "spider_time": 1753700640693,
     "name": "Tenda FH451 /goform/L7Prot文件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-16965",
     "publish": "2025-07-25",
