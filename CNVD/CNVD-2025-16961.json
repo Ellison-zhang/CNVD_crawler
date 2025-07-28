@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-28 02:46:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16961",
+    "spider_time": 1753670779001,
+    "name": "Tenda AC1206缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16961",
+    "publish": "2025-07-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda ac1206 firmware 15.03.06.23\"]",
+    "cve": "CVE-2025-7544",
+    "description": "Tenda AC1206是中国腾达（Tenda）公司的一款无线千兆路由器。Tenda AC1206 15.03.06.23版本存在缓冲区溢出漏洞，该漏洞源于文件/goform/setMacFilterCfg中参数deviceList未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7544",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/panda666-888/vuls/blob/main/tenda/ac1206/formSetMacFilterCfg.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-07-28",
+    "update_time": "2025-07-28",
+    "data_summary": "0aa83b6c694e32c3a318d6ea30dc6642"
+}

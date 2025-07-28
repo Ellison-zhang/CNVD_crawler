@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-28 02:46:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16957",
+    "spider_time": 1753670766356,
+    "name": "Fortinet FortiIsolator访问控制错误漏洞",
+    "cnvd": "CNVD-2025-16957",
+    "publish": "2025-07-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"Fortinet FortiIsolator >=2.3.0\\uff0c<=2.3.4\", \"Fortinet FortiIsolator >=2.4.3\\uff0c<=2.4.4\"]",
+    "cve": "CVE-2024-32124",
+    "description": "Fortinet FortiIsolator是美国飞塔（Fortinet）公司的一个为浏览器提供远程安全隔离功能的应用。该应用为Fortinet Security Fabric添加了额外的高级威胁防护功能，并保护关键业务数据免受网络上复杂威胁的侵害。来自Web的内容和文件在远程容器中访问，然后将无风险的内容呈现给用户。Fortinet FortiIsolator存在访问控制错误漏洞，该漏洞源于日志组件访问控制不当，攻击者可利用该漏洞通过特制HTTP请求修改日志。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-32124",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-24-045",
+    "patch": "Fortinet FortiIsolator访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-07-28",
+    "update_time": "2025-07-28",
+    "data_summary": "699ae1303849dc8cfe386fe1d0e5569e"
+}

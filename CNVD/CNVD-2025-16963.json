@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-28 02:46:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16963",
+    "spider_time": 1753670786788,
+    "name": "Tenda FH1202 /goform/webExcptypemanFilter文件缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16963",
+    "publish": "2025-07-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda FH1202 1.2.0.14(408)\"]",
+    "cve": "CVE-2025-7532",
+    "description": "Tenda FH1202是中国腾达（Tenda）公司的一款无线路由器。Tenda FH1202 1.2.0.14(408)版本存在缓冲区溢出漏洞，该漏洞源于文件/goform/webExcptypemanFilter中函数fromwebExcptypemanFilter参数page未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7532",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/panda666-888/vuls/blob/main/tenda/fh1202/fromwebExcptypemanFilter.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-07-28",
+    "update_time": "2025-07-28",
+    "data_summary": "84f07c0fa12e3bb877e5c7940d7a4fad"
+}
