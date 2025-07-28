@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-28 19:05:30",
+    "parse_time": "2025-07-28 20:04:25",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16961",
-    "spider_time": 1753729530348,
+    "spider_time": 1753733065160,
     "name": "Tenda AC1206缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-16961",
     "publish": "2025-07-25",
