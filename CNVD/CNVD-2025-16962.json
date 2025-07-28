@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-28 02:46:22",
+    "parse_time": "2025-07-28 03:34:03",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16962",
-    "spider_time": 1753670782561,
+    "spider_time": 1753673643321,
     "name": "Tenda FH1202 /goform/PPTPUserSetting文件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-16962",
     "publish": "2025-07-25",
