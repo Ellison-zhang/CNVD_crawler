@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-29 08:05:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17016",
+    "spider_time": 1753776341879,
+    "name": "Tenda O3V2 /goform/setSysTimeInfo文件缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-17016",
+    "publish": "2025-07-29",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda O3V2 1.0.0.12(3880)\"]",
+    "cve": "CVE-2025-7416",
+    "description": "Tenda O3V2是中国腾达（Tenda）公司的一款室外无线网桥。Tenda O3V2存在缓冲区溢出漏洞，该漏洞源于文件/goform/setSysTimeInfo中参数Time未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/wudipjq/my_vuln/blob/main/Tenda3/vuln_49/49.md#poc",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-07-29",
+    "update_time": "2025-07-29",
+    "data_summary": "812c4f9463fd30956159f3fd485fec6c"
+}
