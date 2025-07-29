@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-29 02:48:58",
+    "parse_time": "2025-07-29 03:36:08",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16966",
-    "spider_time": 1753757338519,
+    "spider_time": 1753760168852,
     "name": "Tenda FH451 /goform/Natlimit文件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-16966",
     "publish": "2025-07-25",
