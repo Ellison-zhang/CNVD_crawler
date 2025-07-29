@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-29 11:04:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17062",
+    "spider_time": 1753787065183,
+    "name": "IrfanView CADImage Plugin信息泄露漏洞",
+    "cnvd": "CNVD-2025-17062",
+    "publish": "2025-07-29",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"IrfanView CADImage Plugin 4.70\"]",
+    "cve": "CVE-2025-7233",
+    "description": "IrfanView CADImage Plugin是IrfanView公司的一个CAD插件。IrfanView CADImage Plugin存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-25-494/",
+    "solution": "用户可联系供应商获得补丁信息：\nhttps://www.irfanview.com/",
+    "patch": "IrfanView CADImage Plugin信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-07-29",
+    "update_time": "2025-07-29",
+    "data_summary": "1a89cedc008e2250496ed52e197a7a29"
+}
