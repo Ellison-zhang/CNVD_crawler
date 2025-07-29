@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-29 10:05:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17049",
+    "spider_time": 1753783529984,
+    "name": "Tenda FH1203 setSchedWifi方法schedStartTime参数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-17049",
+    "publish": "2025-07-29",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda FH1203 V2.0.1.6\"]",
+    "cve": "CVE-2024-30602",
+    "description": "Tenda FH1203是中国腾达推出的双频无线路由器，主要用于家庭网络覆盖。Tenda FH1203存在缓冲区溢出漏洞，该漏洞源于setSchedWifi方法的schedStartTime参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/FH/FH1203/setSchedWifi_start.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-2495.html",
+    "patch": "Tenda FH1203 setSchedWifi方法schedStartTime参数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-03",
+    "open_time": "2025-07-29",
+    "update_time": "2025-07-29",
+    "data_summary": "5aa134a651f6c53dedfdd755e03be303"
+}
