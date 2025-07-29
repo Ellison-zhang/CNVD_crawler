@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-29 19:06:12",
+    "parse_time": "2025-07-29 20:04:38",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17029",
-    "spider_time": 1753815972603,
+    "spider_time": 1753819478227,
     "name": "IrfanView CADImage Plugin缓冲区溢出漏洞（CNVD-2025-17029）",
     "cnvd": "CNVD-2025-17029",
     "publish": "2025-07-28",
