@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-30 08:09:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17134",
+    "spider_time": 1753862940265,
+    "name": "Microsoft Azure Machine Learning权限提升漏洞",
+    "cnvd": "CNVD-2025-17134",
+    "publish": "2025-07-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Azure Machine Learning\"]",
+    "cve": "CVE-2025-49747",
+    "description": "Microsoft Azure Machine Learning是美国微软（Microsoft）公司的机器学习服务平台。Microsoft Azure Machine Learning存在安全漏洞，攻击者可利用该漏洞可能导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-49747",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49747",
+    "patch": "Microsoft Azure Machine Learning权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "a4b518b5bc53a1d3d57142fb6b37e670"
+}

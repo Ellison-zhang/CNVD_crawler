@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-30 08:08:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17184",
+    "spider_time": 1753862897174,
+    "name": "Oracle MySQL Server存在未明漏洞（CNVD-2025-17184）",
+    "cnvd": "CNVD-2025-17184",
+    "publish": "2025-07-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:M/C:N/I:N/A:C",
+    "product": "[\"Oracle MySQL Server >=9.0.0\\uff0c<=9.3.0\"]",
+    "cve": "CVE-2025-50103",
+    "description": "Oracle MySQL Server是美国甲骨文（Oracle）公司的一款关系型数据库。Oracle MySQL Server存在安全漏洞，该漏洞源于LDAP身份验证组件存在缺陷，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.oracle.com/security-alerts/cpujul2025.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpujul2025.html",
+    "patch": "Oracle MySQL Server存在未明漏洞（CNVD-2025-17184）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "9943ba45b0743f2309a546b549aa3291"
+}

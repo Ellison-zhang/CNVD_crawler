@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-30 08:05:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17155",
+    "spider_time": 1753862730764,
+    "name": "WordPress Orion Login with SMS plugin身份验证绕过漏洞",
+    "cnvd": "CNVD-2025-17155",
+    "publish": "2025-07-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Orion Login with SMS plugin <=1.0.5\"]",
+    "cve": "CVE-2025-7692",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Orion Login with SMS plugin存在身份验证绕过漏洞，该漏洞源于olws_handle_verify_phone函数OTP值强度不足，攻击者可利用该漏洞以其他用户（包括管理员）身份登录。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wordpress.org/plugins/orion-login-with-sms/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "85fda376a4feca200498ba5f306d4cd1"
+}

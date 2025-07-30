@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-30 08:05:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17153",
+    "spider_time": 1753862722290,
+    "name": "WordPress Like & Share My Site plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-17153",
+    "publish": "2025-07-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress Like & Share My Site plugin <=0.2\"]",
+    "cve": "CVE-2025-7685",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Like & Share My Site plugin存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/like-share-my-site/trunk/lsms.php",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "1c7193734199d235058faad9e77543a3"
+}

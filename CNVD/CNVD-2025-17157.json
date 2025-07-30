@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-30 08:05:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17157",
+    "spider_time": 1753862741162,
+    "name": "WordPress Shortcodes Ultimate plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-17157",
+    "publish": "2025-07-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Shortcodes Ultimate plugin <=7.4.2\"]",
+    "cve": "CVE-2025-8015",
+    "description": "WordPress Shortcodes Ultimate plugin是一款用于WordPress的插件，提供了丰富的视觉组件功能，允许用户在文章编辑器、文本小工具或模板文件中插入多种预设的短代码（如按钮、手风琴、图片轮播等），帮助快速构建页面内容。WordPress Shortcodes Ultimate plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/changeset/3328729/shortcodes-ultimate",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/shortcodes-ultimate/",
+    "patch": "WordPress Shortcodes Ultimate plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "e7a7556b382df5c600c436e2a7cf5384"
+}
