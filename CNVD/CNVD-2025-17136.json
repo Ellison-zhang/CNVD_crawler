@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-30 21:04:14",
+    "parse_time": "2025-07-30 22:04:28",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17136",
-    "spider_time": 1753909454570,
+    "spider_time": 1753913068782,
     "name": "Microsoft Azure Machine Learning权限提升漏洞（CNVD-2025-17136）",
     "cnvd": "CNVD-2025-17136",
     "publish": "2025-07-28",
