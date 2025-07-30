@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-30 07:09:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17114",
+    "spider_time": 1753859359303,
+    "name": "Adobe ColdFusion信任管理问题漏洞",
+    "cnvd": "CNVD-2025-17114",
+    "publish": "2025-07-28",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe ColdFusion <=2025.2\", \"Adobe ColdFusion <=2023.14\", \"Adobe ColdFusion <=2021.20\"]",
+    "cve": "CVE-2025-49551",
+    "description": "Adobe ColdFusion是由Adobe公司维护的动态Web服务器平台。Adobe ColdFusion存在信任管理问题漏洞，该漏洞源于硬编码凭证使用，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-49551",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/coldfusion/apsb25-69.html",
+    "patch": "Adobe ColdFusion信任管理问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-15",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "e0a8aa57e81854c01344a388ea01122e"
+}

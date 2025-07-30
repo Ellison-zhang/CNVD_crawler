@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-30 07:09:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17113",
+    "spider_time": 1753859348371,
+    "name": "Google Chrome ANGLE/GPU输入验证漏洞",
+    "cnvd": "CNVD-2025-17113",
+    "publish": "2025-07-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <138.0.7204.157\"]",
+    "cve": "CVE-2025-6558",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome存在输入验证漏洞，该漏洞源于ANGLE和GPU对不可信输入验证不足，攻击者可利用该漏洞提交特殊的WEB请求，诱使用户解析，执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/07/stable-channel-update-for-desktop_15.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.google.com/chrome/dr/download/",
+    "patch": "Google Chrome ANGLE/GPU输入验证漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "1d22351fa9aea147368d7b02604608e6"
+}
