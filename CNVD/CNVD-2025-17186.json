@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-30 09:07:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17186",
+    "spider_time": 1753866460407,
+    "name": "Cisco ISE和ISE-PIC注入漏洞（CNVD-2025-17186）",
+    "cnvd": "CNVD-2025-17186",
+    "publish": "2025-07-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Cisco ISE 3.3\", \"Cisco ISE 3.4\", \"Cisco ISE-PIC 3.3\", \"Cisco ISE-PIC 3.4\"]",
+    "cve": "CVE-2025-20337",
+    "description": "Cisco ISE和Cisco ISE-PIC都是美国思科（Cisco）公司的产品。Cisco ISE是思科推出的身份服务引擎，主要用于网络访问控制与安全管理。Cisco ISE-PIC是思科身份服务引擎的被动身份连接器，主要用于集中式身份验证和数据共享。Cisco ISE和Cisco ISE-PIC存在注入漏洞。该漏洞源于对用户提供的输入的验证不充分所致。未经身份验证的远程攻击者可利用该漏洞通过提交经过精心构造的API请求，以root身份在底层操作系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20337",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-unauth-rce-ZAd2GnJ6",
+    "patch": "Cisco ISE和ISE-PIC注入漏洞（CNVD-2025-17186）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "87770f5552229d2fc437bb2f461516de"
+}
