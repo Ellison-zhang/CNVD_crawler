@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-30 12:09:13",
+    "parse_time": "2025-07-30 13:18:38",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17144",
-    "spider_time": 1753877353091,
+    "spider_time": 1753881518274,
     "name": "TOTOLINK T6 serverIp参数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-17144",
     "publish": "2025-07-28",
