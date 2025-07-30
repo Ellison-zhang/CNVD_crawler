@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-30 15:04:46",
+    "parse_time": "2025-07-30 16:07:21",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17143",
-    "spider_time": 1753887886670,
+    "spider_time": 1753891641921,
     "name": "TOTOLINK T6 dest参数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-17143",
     "publish": "2025-07-28",
