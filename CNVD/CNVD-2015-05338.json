@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 16:07:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2015-05338",
+    "spider_time": 1753978072680,
+    "name": "赛易科技建站系统存在通用型SQL注入漏洞",
+    "cnvd": "CNVD-2015-05338",
+    "publish": "2025-08-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"\\u8d5b\\u6613\\u79d1\\u6280 \\u5efa\\u7ad9\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "该CMS在政府等部门大量使用，存在SQL注入漏洞",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "严格过滤输入字符等参数",
+    "patch": "赛易科技建站系统存在通用型SQL注入漏洞",
+    "verify": "已验证",
+    "submit_time": "2015-08-06",
+    "open_time": "2015-08-19",
+    "update_time": "2015-08-19",
+    "data_summary": "ee2c0770bb6bf656763cdc7479245229"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 16:07:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2015-05340",
+    "spider_time": 1753978066207,
+    "name": "四川易极天成信息技术有限公司政府政务系统SQL注入漏洞",
+    "cnvd": "CNVD-2015-05340",
+    "publish": "2025-08-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"\\u56db\\u5ddd\\u6613\\u6781\\u5929\\u6210\\u4fe1\\u606f\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 \\u653f\\u5e9c\\u653f\\u52a1\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "某政府通用系统存在SQL注入漏洞，大量政府站在用",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "过滤参数",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2015-08-06",
+    "open_time": "2015-08-19",
+    "update_time": "2015-08-28",
+    "data_summary": "538c75591d0659cb22e329b60aaf9e9a"
+}
