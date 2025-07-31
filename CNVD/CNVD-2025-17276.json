@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-31 09:06:51",
+    "parse_time": "2025-07-31 10:04:19",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17276",
-    "spider_time": 1753952811702,
+    "spider_time": 1753956259970,
     "name": "WordPress JetFormBuilder反序列化漏洞",
     "cnvd": "CNVD-2025-17276",
     "publish": "2025-07-30",
