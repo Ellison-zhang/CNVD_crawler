@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 08:06:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17315",
+    "spider_time": 1753949166902,
+    "name": "WordPress ebook store跨站脚本漏洞",
+    "cnvd": "CNVD-2025-17315",
+    "publish": "2025-07-31",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress ebook store <=5.8012\"]",
+    "cve": "CVE-2025-7437",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品，WordPress plugin是一个应用插件。WordPress ebook store存在跨站脚本漏洞，该漏洞源于ebook_store_save_form函数缺少文件类型验证，攻击者可利用该漏洞在服务器上上传任意文件，远程执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7437",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-30",
+    "open_time": "2025-07-31",
+    "update_time": "2025-07-31",
+    "data_summary": "02fed8193d89a27acdd4192b8585ee2b"
+}

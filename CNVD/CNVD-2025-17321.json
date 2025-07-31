@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 08:06:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17321",
+    "spider_time": 1753949198444,
+    "name": "WordPress WP Pipes SQL注入漏洞",
+    "cnvd": "CNVD-2025-17321",
+    "publish": "2025-07-31",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:P",
+    "product": "[\"WordPress WP Pipes <=1.4.3\"]",
+    "cve": "CVE-2025-28982",
+    "description": "WordPress WP Pipes是一款用于WordPress的自动采集插件，主要用于将多个RSS源的内容合并成一个新的RSS源，并支持定期更新和自定义筛选功能。WordPress WP Pipes存在SQL注入漏洞，该漏洞源于SQL命令特殊元素处理不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-28982",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-07-31",
+    "update_time": "2025-07-31",
+    "data_summary": "7cb7b0bd3eee19c1ed220840dfe673f8"
+}
