@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 03:32:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17286",
+    "spider_time": 1753932772403,
+    "name": "WeGIA开放重定向漏洞",
+    "cnvd": "CNVD-2025-17286",
+    "publish": "2025-07-31",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WeGIA WeGIA <3.4.5\"]",
+    "cve": "CVE-2025-53821",
+    "description": "WeGIA是一个福利机构的网络管理器。WeGIA存在开放重定向漏洞，该漏洞源于control.php端点未对目标跳转做合理处理，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-53821",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/LabRedesCefetRJ/WeGIA/releases",
+    "patch": "WeGIA开放重定向漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-31",
+    "update_time": "2025-07-31",
+    "data_summary": "3e5fdf637ef7ae5a15a60ce2eaa0e4b1"
+}
