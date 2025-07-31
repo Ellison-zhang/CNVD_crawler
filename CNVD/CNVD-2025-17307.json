@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 07:06:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17307",
+    "spider_time": 1753945598433,
+    "name": "WordPress Mine CloudVod跨站脚本漏洞",
+    "cnvd": "CNVD-2025-17307",
+    "publish": "2025-07-31",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Mine CloudVod <=2.1.10\"]",
+    "cve": "CVE-2025-8071",
+    "description": "WordPress Mine CloudVod是一款用于音视频播放和在线教育管理的插件。WordPress Mine CloudVod存在跨站脚本漏洞，该漏洞源于输入清理和输出转义不足，攻击者可利用该漏洞通过注入恶意脚本，这些脚本将在用户访问注入的页面时执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-8071",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-30",
+    "open_time": "2025-07-31",
+    "update_time": "2025-07-31",
+    "data_summary": "be3d5fa3cf1c84902c74f4076ccf7ec0"
+}

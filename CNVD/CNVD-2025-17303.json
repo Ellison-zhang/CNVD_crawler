@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 07:06:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17303",
+    "spider_time": 1753945574846,
+    "name": "WordPress WP Wallcreeper授权问题漏洞",
+    "cnvd": "CNVD-2025-17303",
+    "publish": "2025-07-31",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"WordPress WP Wallcreeper <=1.6.1\"]",
+    "cve": "CVE-2025-7822",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品，WordPress plugin是一个应用插件。WordPress WP Wallcreeper存在授权问题漏洞，该漏洞源于admin_notices钩子缺少能力检查，攻击者可利用该漏洞导致未授权数据修改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7822",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-30",
+    "open_time": "2025-07-31",
+    "update_time": "2025-07-31",
+    "data_summary": "d639e1bcc5640d44bef393c3929c86f5"
+}
