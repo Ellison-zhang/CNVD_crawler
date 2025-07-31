@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-07-31 12:06:39",
+    "parse_time": "2025-07-31 13:16:19",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17281",
-    "spider_time": 1753963599472,
+    "spider_time": 1753967779460,
     "name": "WordPress ELEX WooCommerce Advanced Bulk Edit Products,Prices&Attributes SQL注入漏洞",
     "cnvd": "CNVD-2025-17281",
     "publish": "2025-07-30",
