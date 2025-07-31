@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 02:45:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17279",
+    "spider_time": 1753929916148,
+    "name": "WordPress Invico-WordPress Consulting Business Theme跨站脚本漏洞",
+    "cnvd": "CNVD-2025-17279",
+    "publish": "2025-07-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"WordPress Invico-WordPress Consulting Business Theme <=1.9\"]",
+    "cve": "CVE-2025-31427",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品，WordPress plugin是一个应用插件。WordPress Invico-WordPress Consulting Business Theme存在跨站脚本漏洞，该漏洞源于网页生成时输入处理不当，攻击者可利用该漏洞通过注入恶意脚本，执行钓鱼攻击，获取用户敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-31427",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-07-31",
+    "update_time": "2025-07-31",
+    "data_summary": "a24d98084ea0ce5810d0bf501605e9ce"
+}

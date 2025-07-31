@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 02:43:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17274",
+    "spider_time": 1753929795668,
+    "name": "WordPress Post Grid Master跨站脚本漏洞",
+    "cnvd": "CNVD-2025-17274",
+    "publish": "2025-07-31",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress Post Grid Master <=3.4.13\"]",
+    "cve": "CVE-2025-5084",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品，WordPress plugin是一个应用插件。WordPress Post Grid Master存在跨站脚本漏洞，该漏洞源于输入清理和输出转义不足，攻击者可利用该漏洞通过在用户浏览器中注入恶意脚本，在用户访问注入的页面时执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5084",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-30",
+    "open_time": "2025-07-31",
+    "update_time": "2025-07-31",
+    "data_summary": "7baa79e283db88a61fa67fe4b048c183"
+}

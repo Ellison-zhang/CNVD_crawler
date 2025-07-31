@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 02:45:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17277",
+    "spider_time": 1753929905223,
+    "name": "WordPress Cost Calculator授权问题漏洞",
+    "cnvd": "CNVD-2025-17277",
+    "publish": "2025-07-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"WordPress Cost Calculator <=7.4\"]",
+    "cve": "CVE-2025-54047",
+    "description": "WordPress Cost Calculator是一种用于创建报价或成本估算表单的插件，主要用于帮助用户根据不同参数实时计算价格，并生成专业报价单。WordPress Cost Calculator存在授权问题漏洞，该漏洞源于访问控制配置不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-54047",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress Cost Calculator授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-07-31",
+    "update_time": "2025-07-31",
+    "data_summary": "371643237e370f5fa583fe88797a07f4"
+}
