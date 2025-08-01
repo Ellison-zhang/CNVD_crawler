@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-01 03:39:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17359",
+    "spider_time": 1754019551699,
+    "name": "Huawei HarmonyOS拒绝服务漏洞（CNVD-2025-17359）",
+    "cnvd": "CNVD-2025-17359",
+    "publish": "2025-08-01",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Huawei HarmonyOS 5.0.0\"]",
+    "cve": "CVE-2024-51511",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS存在拒绝服务漏洞，该漏洞源于WantAgent模块存在传入类型校验缺失。攻击者可利用该漏洞导致可用性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://consumer.huawei.com/en/support/bulletin/2024/11/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2024/11/",
+    "patch": "Huawei HarmonyOS拒绝服务漏洞（CNVD-2025-17359）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-07",
+    "open_time": "2025-08-01",
+    "update_time": "2025-08-01",
+    "data_summary": "de8aae10718375ff7b49c7d6c225a6e7"
+}
