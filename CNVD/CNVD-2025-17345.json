@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-01 02:50:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17345",
+    "spider_time": 1754016650421,
+    "name": "Tenda AC8V4缓冲区溢出漏洞（CNVD-2025-17345）",
+    "cnvd": "CNVD-2025-17345",
+    "publish": "2025-07-31",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"Tenda AC8V4 V16.03.34.06\"]",
+    "cve": "CVE-2025-51085",
+    "description": "Tenda AC8V4是中国腾达（Tenda）公司的一款无线路由器。Tenda AC8V4存在缓冲区溢出漏洞，该漏洞源于/goform/SetSysTimeCfg中timeZone和timeType参数存在栈缓冲区溢出，攻击者可利用该漏洞使应用程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/TL-SN/IOT/blob/main/Tenda/Tenda-AC8v4%20%20V16.03.34.06/CVE-2025-51085.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-3683.html",
+    "patch": "Tenda AC8V4缓冲区溢出漏洞（CNVD-2025-17345）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-29",
+    "open_time": "2025-08-01",
+    "update_time": "2025-08-01",
+    "data_summary": "1faa88a4ed930101c3ff9b2b6ee2aacd"
+}

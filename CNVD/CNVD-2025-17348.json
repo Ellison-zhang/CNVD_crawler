@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-01 02:51:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17348",
+    "spider_time": 1754016664588,
+    "name": "Tenda AC10U缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-17348",
+    "publish": "2025-07-31",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:N",
+    "product": "[\"Tenda AC10U 15.03.06.48\"]",
+    "cve": "CVE-2024-30612",
+    "description": "Tenda AC10U是一款采用802.11ac Wave 2.0标准的双频千兆路由器，支持MU-MIMO技术，具备高穿墙能力和稳定传输特性。Tenda AC10U存在缓冲区溢出漏洞，该漏洞源于formSetClientState方法的deviceId, limitSpeed, limitSpeedU参数未能正确验证输入数据的长度大小，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/AC10U/v1.V15.03.06.48/more/formSetClientState.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tendacn.com/download/detail-3170.html",
+    "patch": "Tenda AC10U缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-03",
+    "open_time": "2025-08-01",
+    "update_time": "2025-08-01",
+    "data_summary": "3f5b944e9e0d844d1e77b0a11b88b4a4"
+}

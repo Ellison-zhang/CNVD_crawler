@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-01 02:51:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17350",
+    "spider_time": 1754016675077,
+    "name": "Tenda AC10U formexeCommand函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-17350",
+    "publish": "2025-07-31",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC10U 15.03.06.49\"]",
+    "cve": "CVE-2024-2708",
+    "description": "Tenda AC10U是一款采用802.11ac Wave 2.0标准的双频千兆路由器，支持MU-MIMO技术，具备高穿墙能力和稳定传输特性。Tenda AC10U存在缓冲区溢出漏洞，该漏洞源于/goform/execCommand文件的formexeCommand函数的cmdinput参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/medikoo/es5-ext/security/advisories/GHSA-4gmj-3p3h-gm8h",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tendacn.com/download/detail-3170.html",
+    "patch": "Tenda AC10U formexeCommand函数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-22",
+    "open_time": "2025-08-01",
+    "update_time": "2025-08-01",
+    "data_summary": "2a0c321fee49d39beac4955ce0ff8c12"
+}

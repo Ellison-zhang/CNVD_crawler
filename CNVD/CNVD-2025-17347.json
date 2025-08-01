@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-01 02:51:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17347",
+    "spider_time": 1754016661252,
+    "name": "Tenda AC10缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-17347",
+    "publish": "2025-07-31",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC10 16.03.10.13\"]",
+    "cve": "CVE-2025-8178",
+    "description": "Tenda AC10是深圳市吉祥腾达科技有限公司推出的双频千兆无线路由器，主要面向200M及以上光纤用户，支持 Wi-Fi 5技术标准，提供双频段并发传输。Tenda AC10存在缓冲区溢出漏洞，，该漏洞源于/goform/RequestsProcessLaid文件中对device1D参数的越界操作。攻击者可利用该漏洞导致设备异常或执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.317592\nhttps://vuldb.com/?ctiid.317592\nhttps://vuldb.com/?submit.621811\nhttps://www.yuque.com/ba1ma0-an29k/nnxoap/qkixf5578145igdt\nhttps://www.tenda.com.cn/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-28",
+    "open_time": "2025-08-01",
+    "update_time": "2025-08-01",
+    "data_summary": "374e8dfbb473453b857f37c277d983bf"
+}

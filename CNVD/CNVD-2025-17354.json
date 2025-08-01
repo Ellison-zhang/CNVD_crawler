@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-01 02:50:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17354",
+    "spider_time": 1754016625223,
+    "name": "D-Link DIR-513 formSetWanDhcpplus函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-17354",
+    "publish": "2025-08-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-513 <=20190831\"]",
+    "cve": "CVE-2025-7945",
+    "description": "D-Link DIR-513是一款便携式无线路由器，主打轻薄设计和便捷使用特性，支持IEEE 802.11n、802.11g/b标准，最高传输速率达300Mbps。D-Link DIR-513存在缓冲区溢出漏洞，该漏洞源于对文件/goform/formSetWanDhcpplus中函数formSetWanDhcpplus的参数curTime的错误操作导致缓冲区溢出。攻击者可利用该漏洞通过远程发送特制数据触发缓冲区溢出，从而导致设备拒绝服务或执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.317086\nhttps://vuldb.com/?ctiid.317086\nhttps://vuldb.com/?submit.619200\nhttps://github.com/LYN1ng/D-linkdir513/blob/main/Dlink_DIR-513_Buffer_Overflow_Vulnerability.md\nhttps://www.dlink.com/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-24",
+    "open_time": "2025-08-01",
+    "update_time": "2025-08-01",
+    "data_summary": "34599d2ee1a204fdbddb980ab486d56d"
+}

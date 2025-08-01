@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-01 02:50:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17352",
+    "spider_time": 1754016615497,
+    "name": "D-Link DIR-513 formLanguageChange函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-17352",
+    "publish": "2025-08-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-513 1.0\"]",
+    "cve": "CVE-2025-8159",
+    "description": "D-Link DIR-513是一款便携式无线路由器，主打轻薄设计和便捷使用特性，支持IEEE 802.11n、802.11g/b标准，最高传输速率达300Mbps。D-Link DIR-513存在缓冲区溢出漏洞，该漏洞源于对HTTP POST请求处理组件/goform/formLanguageChange文件中formLanguageChange函数的curTime参数处理不当。攻击者可利用该漏洞通过远程操纵curTime参数触发栈溢出，从而执行任意代码或导致系统崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.317573\nhttps://vuldb.com/?ctiid.317573\nhttps://vuldb.com/?submit.620604\nhttps://github.com/boyslikesports/vul/blob/main/formLanguageChange.md\nhttps://www.dlink.com/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-28",
+    "open_time": "2025-08-01",
+    "update_time": "2025-08-01",
+    "data_summary": "0835888a8b8f63dce162bc0985cc24b9"
+}
