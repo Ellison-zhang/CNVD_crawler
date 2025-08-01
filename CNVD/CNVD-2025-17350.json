@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-01 03:40:00",
+    "parse_time": "2025-08-01 04:25:51",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17350",
-    "spider_time": 1754019600963,
+    "spider_time": 1754022351419,
     "name": "Tenda AC10U formexeCommand函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-17350",
     "publish": "2025-07-31",

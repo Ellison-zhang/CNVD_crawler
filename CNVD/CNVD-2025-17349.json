@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-01 03:39:56",
+    "parse_time": "2025-08-01 04:25:48",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17349",
-    "spider_time": 1754019596871,
+    "spider_time": 1754022348566,
     "name": "Tenda AC10U addWifiMacFilter函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-17349",
     "publish": "2025-07-31",
