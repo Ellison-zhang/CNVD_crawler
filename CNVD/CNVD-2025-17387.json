@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-01 08:05:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17387",
+    "spider_time": 1754035513334,
+    "name": "友讯科技DIR-605L和友讯科技DIR-816L硬编码漏洞",
+    "cnvd": "CNVD-2025-17387",
+    "publish": "2025-08-01",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"\\u53cb\\u8baf\\u79d1\\u6280 DIR-605L 2.13B01\", \"\\u53cb\\u8baf\\u79d1\\u6280 DIR-816L 2.06B01\"]",
+    "cve": "CVE-2025-46176",
+    "description": "友讯科技DIR-605L是首款云路由器，主要面向家庭和小型办公网络环境，友讯科技DIR-816L是一款双频无线路由器，支持2.4GHz和5GHz频段 ，符合IEEE 802.11ac、IEEE 802.11n等网络标准，最高传输速率达450Mbps。友讯科技DIR-605L和友讯科技DIR-816L存在硬编码漏洞。该漏洞源于Telnet服务中的硬编码凭据，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/namberino/cve/tree/main/CVE-2025-46176\nhttps://www.dlink.com/en/security-bulletin/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-03",
+    "open_time": "2025-08-01",
+    "update_time": "2025-08-01",
+    "data_summary": "6b835aec65c5ad4e371de98ca93e4635"
+}
