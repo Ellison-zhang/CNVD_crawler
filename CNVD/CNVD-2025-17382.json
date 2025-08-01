@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-01 07:07:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17382",
+    "spider_time": 1754032051112,
+    "name": "D-Link DIR-817L命令注入漏洞",
+    "cnvd": "CNVD-2025-17382",
+    "publish": "2025-08-01",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"D-Link DIR-817L <=1.04B01\"]",
+    "cve": "CVE-2025-7932",
+    "description": "D-Link DIR-817L是友讯科技（D-Link）推出的家用级双频无线路由器，支持IEEE 802.11ac标准，具备双频并发功能（2.4GHz/5GHz），最高无线传输速率达750Mbps。D-Link DIR-817L存在命令注入漏洞，该漏洞源于文件ssdpcgi中函数lxmldbc_system未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Patr1ck-S/Patr1ck-S.github.io/blob/main/D-Link%20DIR%E2%80%91817L%20has%20a%20remote%20arbitrary%20command%20execution%20vulnerability%20in%20ssdpcgi(1).md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-08-01",
+    "update_time": "2025-08-01",
+    "data_summary": "1b3c6b78569c32d69883f308739f1466"
+}
