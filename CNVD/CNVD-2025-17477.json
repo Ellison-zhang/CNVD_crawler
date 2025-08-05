@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-05 03:34:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17477",
+    "spider_time": 1754364881545,
+    "name": "Microsoft Word代码执行漏洞（CNVD-2025-17477）",
+    "cnvd": "CNVD-2025-17477",
+    "publish": "2025-08-04",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft 365 Apps for Enterprise\", \"Microsoft Office LTSC for Mac 2021\", \"Microsoft Microsoft Office LTSC 2024\", \"Microsoft Office LTSC for Mac 2024\"]",
+    "cve": "CVE-2025-21363",
+    "description": "Microsoft Word是美国微软（Microsoft）公司的一套Office套件中的文字处理软件。Microsoft Word存在代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21363\nhttps://nvd.nist.gov/vuln/detail/CVE-2025-21363",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21363",
+    "patch": "Microsoft Word代码执行漏洞（CNVD-2025-17477）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-14",
+    "open_time": "2025-08-05",
+    "update_time": "2025-08-05",
+    "data_summary": "9ad5982c68033fa13ef3f70cbf27d2c8"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-05 03:38:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17496",
+    "spider_time": 1754365103670,
+    "name": "Microsoft Word代码执行漏洞（CNVD-2025-17496）",
+    "cnvd": "CNVD-2025-17496",
+    "publish": "2025-08-04",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Office Web Apps 2010 SP2\", \"Microsoft Word 2010 SP2\", \"Microsoft Office 2010 SP2\", \"Microsoft Word 2016\", \"Microsoft Office Online Server\", \"Microsoft SharePoint Enterprise Server 2013 Service Pack 1\", \"Microsoft Office 2016 for Mac\", \"Microsoft Office 2019\", \"Microsoft Office 365 ProPlus\", \"Microsoft Office 2019 for Mac\", \"Microsoft Word 2013 RT Service Pack 1\", \"Microsoft SharePoint Server 2019 null\", \"Microsoft Word 2013 Service Pack 1\"]",
+    "cve": "CVE-2019-1034",
+    "description": "Microsoft Word是美国微软（Microsoft）公司的一套Office套件中的文字处理软件。Microsoft Word存在代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1034",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1034",
+    "patch": "Microsoft Word代码执行漏洞（CNVD-2025-17496）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2019-06-13",
+    "open_time": "2025-08-05",
+    "update_time": "2025-08-05",
+    "data_summary": "347844b96ae47f7f0b27748e8e01c476"
+}
