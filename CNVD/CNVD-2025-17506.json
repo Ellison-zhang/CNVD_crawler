@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-05 14:07:50",
+    "parse_time": "2025-08-05 15:06:23",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17506",
-    "spider_time": 1754402870612,
+    "spider_time": 1754406383868,
     "name": "GNU Binutils copy_section函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-17506",
     "publish": "2025-08-04",
