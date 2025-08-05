@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-05 07:08:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17508",
+    "spider_time": 1754377721453,
+    "name": "DELL SmartFabric OS10硬编码密码漏洞",
+    "cnvd": "CNVD-2025-17508",
+    "publish": "2025-08-04",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"DELL SmartFabric OS10 10.5.6.*\"]",
+    "cve": "CVE-2024-48831",
+    "description": "DELL SmartFabric OS10 Software是戴尔网络推出的‌软件定义网络操作系统‌，基于 Linux 和开源技术，主要用于实现数据中心网络资源的灵活管理与自动化部署。DELL SmartFabric OS10存在硬编码密码漏洞，攻击者可利用该漏洞导致未经授权的访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-48831",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000295014/dsa-2025-068-security-update-for-dell-networking-os10-vulnerabilities",
+    "patch": "DELL SmartFabric OS10硬编码密码漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-19",
+    "open_time": "2025-08-05",
+    "update_time": "2025-08-05",
+    "data_summary": "bbe7062dde579c35de2558391100c21f"
+}

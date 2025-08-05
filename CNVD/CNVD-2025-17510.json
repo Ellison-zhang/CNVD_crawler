@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-05 07:08:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17510",
+    "spider_time": 1754377731589,
+    "name": "Dell SupportAssist OS Recovery符号链接攻击漏洞",
+    "cnvd": "CNVD-2025-17510",
+    "publish": "2025-08-04",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL Dell SupportAssist OS Recovery <5.5.13.1\"]",
+    "cve": "CVE-2025-22480",
+    "description": "Dell SupportAssist OS Recovery是戴尔电脑内置的恢复工具，主要用于解决系统问题或硬件故障。Dell SupportAssist OS Recovery存在符号链接攻击漏洞，攻击者可利用该漏洞导致任意文件删除和权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-22480",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000275712/dsa-2025-051",
+    "patch": "Dell SupportAssist OS Recovery符号链接攻击漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-08-05",
+    "update_time": "2025-08-05",
+    "data_summary": "911779a3967532e34a8dc748575322b1"
+}

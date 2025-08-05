@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-05 07:07:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17526",
+    "spider_time": 1754377649398,
+    "name": "QNAP License Center跨站脚本漏洞",
+    "cnvd": "CNVD-2025-17526",
+    "publish": "2025-08-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:P/A:P",
+    "product": "[\"QNAP QNAP License Center <1.9.49\"]",
+    "cve": "CVE-2024-50406",
+    "description": "QNAP License Center是中国台湾威联通科技（QNAP）公司的一个证书中心。QNAP License Center存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义。攻击者可利用该漏洞导致安全机制绕过或数据读取。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-50406",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.qnap.com/en/security-advisory/qsa-25-11",
+    "patch": "QNAP License Center跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-23",
+    "open_time": "2025-08-05",
+    "update_time": "2025-08-05",
+    "data_summary": "127b92b8351ced95f3cdc4d66f1315ac"
+}

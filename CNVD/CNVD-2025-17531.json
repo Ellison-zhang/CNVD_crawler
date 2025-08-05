@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-05 07:10:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17531",
+    "spider_time": 1754377835301,
+    "name": "GNU Binutils parse_stab_struct_fields函数内存泄露漏洞",
+    "cnvd": "CNVD-2025-17531",
+    "publish": "2025-08-04",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"GNU Binutils >=2.34\\uff0c<=2.38\"]",
+    "cve": "CVE-2022-47011",
+    "description": "GNU Binutils是一组用于处理二进制文件（如目标文件、可执行文件、库文件等）的开源工具集，主要用于编译、调试、逆向工程等领域。GNU Binutils存在内存泄漏漏洞，该漏洞源于stabs.c文件中的parse_stab_struct_fields函数存在内存泄漏问题。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-47011",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://sourceware.org/bugzilla/show_bug.cgi?id=29261",
+    "patch": "GNU Binutils parse_stab_struct_fields函数内存泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-08-30",
+    "open_time": "2025-08-05",
+    "update_time": "2025-08-05",
+    "data_summary": "52df4049ff1e61b48c9278a60024648c"
+}

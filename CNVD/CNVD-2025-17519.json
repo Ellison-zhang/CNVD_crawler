@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-05 07:09:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17519",
+    "spider_time": 1754377778789,
+    "name": "TOTOLINK N300RT Port Forwarding功能跨站脚本漏洞",
+    "cnvd": "CNVD-2025-17519",
+    "publish": "2025-08-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK N300RT V2.1.8-B20201030.1539\"]",
+    "cve": "CVE-2024-32327",
+    "description": "TOTOLINK N300RT是一款无线路由器，主要面向家庭和小型企业用户设计。TOTOLINK N300RT存在跨站脚本漏洞，该漏洞源于Firewall页面的Port Forwarding功能对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-32327",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/newstpl/menu_newstpl/products/id/154.html",
+    "patch": "TOTOLINK N300RT Port Forwarding功能跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-22",
+    "open_time": "2025-08-05",
+    "update_time": "2025-08-05",
+    "data_summary": "94112e80edfb6d43480180ff2a9716d6"
+}

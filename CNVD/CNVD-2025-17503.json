@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-05 07:07:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17503",
+    "spider_time": 1754377662059,
+    "name": "DELL XtremIO日志信息泄露漏洞",
+    "cnvd": "CNVD-2025-17503",
+    "publish": "2025-08-04",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL XtremIO 6.4.0-22\"]",
+    "cve": "CVE-2025-30105",
+    "description": "DELL XtremIO是戴尔科技旗下EMC公司推出的全闪存企业级存储阵列，专为提升虚拟化、数据库及分析类应用的性能设计。DELL XtremIO存在日志信息泄露漏洞，该漏洞源于系统将敏感数据错误记录至日志文件中。攻击者可利用该漏洞通过本地低权限访问窃取暴露的凭证信息，进而以受影响账户权限访问目标应用系统。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-30105",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000337241/dsa-2025-108-security-update-for-dell-emc-xtremio-x2",
+    "patch": "DELL XtremIO日志信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-01",
+    "open_time": "2025-08-05",
+    "update_time": "2025-08-05",
+    "data_summary": "fe6bde596ef9ca468b503760a232d5f9"
+}

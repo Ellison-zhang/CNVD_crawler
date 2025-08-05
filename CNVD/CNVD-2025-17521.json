@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-05 07:07:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17521",
+    "spider_time": 1754377671155,
+    "name": "TOTOLINK X15缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-17521",
+    "publish": "2025-08-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK X15 1.0.0B20230714.1105\"]",
+    "cve": "CVE-2025-8245",
+    "description": "TOTOLINK X15是中国吉翁电子（TOTOLINK）公司生产的网络无线扩展器，主要用于扩展Wi-Fi覆盖范围。该设备支持 Wi-Fi 6技术 ，提供AX1500无线传输速率，适用于家庭和小型办公场景。TOTOLINK X15存在缓冲区溢出漏洞，该漏洞源于HTTP POST请求处理组件中/boafrm/formMultiAPVLAN文件的submit-url参数未对输入数据进行有效边界检查。攻击者可利用该漏洞导致设备拒绝服务或执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.317833\nhttps://vuldb.com/?ctiid.317833\nhttps://vuldb.com/?submit.622693\nhttps://github.com/panda666-888/vuls/blob/main/totolink/x15/formMultiAPVLAN.md\nhttps://www.totolink.net/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/253/ids/36.html",
+    "patch": "TOTOLINK X15缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-28",
+    "open_time": "2025-08-05",
+    "update_time": "2025-08-05",
+    "data_summary": "45b0a2951dea03841aa1583cef1760e6"
+}
