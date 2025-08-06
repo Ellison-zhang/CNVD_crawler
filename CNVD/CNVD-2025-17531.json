@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-06 02:49:11",
+    "parse_time": "2025-08-06 03:36:01",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17531",
-    "spider_time": 1754448551442,
+    "spider_time": 1754451361965,
     "name": "GNU Binutils parse_stab_struct_fields函数内存泄露漏洞",
     "cnvd": "CNVD-2025-17531",
     "publish": "2025-08-04",
