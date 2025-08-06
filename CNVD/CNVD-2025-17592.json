@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-06 22:07:36",
+    "parse_time": "2025-08-06 23:11:26",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17592",
-    "spider_time": 1754518056986,
+    "spider_time": 1754521886362,
     "name": "GNU Binutils拒绝服务漏洞",
     "cnvd": "CNVD-2025-17592",
     "publish": "2025-08-04",

@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-06 22:07:15",
+    "parse_time": "2025-08-06 23:11:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17527",
-    "spider_time": 1754518035254,
+    "spider_time": 1754521860017,
     "name": "GNU Binutils display_debug_section函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-17527",
     "publish": "2025-08-04",
