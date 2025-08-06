@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-06 15:07:15",
+    "parse_time": "2025-08-06 16:07:56",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17523",
-    "spider_time": 1754492835702,
+    "spider_time": 1754496476392,
     "name": "TOTOLINK X15 devicemac1参数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-17523",
     "publish": "2025-08-04",
