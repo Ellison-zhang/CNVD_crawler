@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-06 10:09:27",
+    "parse_time": "2025-08-06 11:08:04",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17591",
-    "spider_time": 1754474967070,
+    "spider_time": 1754478484851,
     "name": "GNU Binutils tic4x_print_cond函数未初始化堆漏洞",
     "cnvd": "CNVD-2025-17591",
     "publish": "2025-08-04",
