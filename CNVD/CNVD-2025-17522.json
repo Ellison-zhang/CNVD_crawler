@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-06 18:06:10",
+    "parse_time": "2025-08-06 19:06:21",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17522",
-    "spider_time": 1754503570718,
+    "spider_time": 1754507181231,
     "name": "TOTOLINK X15 formMapDelDevice文件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-17522",
     "publish": "2025-08-04",
