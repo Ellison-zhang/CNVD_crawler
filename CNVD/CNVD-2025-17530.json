@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-06 12:10:33",
+    "parse_time": "2025-08-06 13:21:07",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17530",
-    "spider_time": 1754482233378,
+    "spider_time": 1754486467657,
     "name": "GNU Binutils make_tempname函数拒绝服务漏洞",
     "cnvd": "CNVD-2025-17530",
     "publish": "2025-08-04",
