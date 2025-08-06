@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-06 10:04:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17605",
+    "spider_time": 1754474678080,
+    "name": "Advantech iView CUtils.checkSQLInjection函数SQL注入漏洞",
+    "cnvd": "CNVD-2025-17605",
+    "publish": "2025-08-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:P/A:P",
+    "product": "[\"Advantech iView <5.7.05 build 7057\"]",
+    "cve": "CVE-2025-48891",
+    "description": "Advantech iView是中国研华（Advantech）公司的一个基于简单网络协议（SNMP）来对B + B SmartWorx设备进行管理的软件。Advantech iView CUtils.checkSQLInjection函数存在SQL注入漏洞，攻击者可利用该漏洞导致信息泄露或拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.advantech.com/en/support/details/firmware-?id=1-HIPU-183",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.advantech.com/en/support/details/firmware-?id=1-HIPU-183",
+    "patch": "Advantech iView CUtils.checkSQLInjection函数SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-08-06",
+    "update_time": "2025-08-06",
+    "data_summary": "4519fbd3e7586867b5ec7f2fa1f03b76"
+}
