@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-06 09:07:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17586",
+    "spider_time": 1754471276281,
+    "name": "QNAP QTS和QNAP QuTS hero命令注入漏洞",
+    "cnvd": "CNVD-2025-17586",
+    "publish": "2025-08-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"QNAP QTS <5.2.4.3079 build 20250321\", \"QNAP QuTS hero <h5.2.4.3079 build 20250321\"]",
+    "cve": "CVE-2025-22481",
+    "description": "QNAP QTS是QNAP推出的基于Linux的NAS操作系统，提供直观易用的图形化界面和强大的数据管理功能，QNAP QuTS hero是威联通（QNAP）专为企业级应用推出的操作系统，采用 ZFS文件系统 ，强调数据安全与系统稳定性，支持虚拟化及云端数据管理。QNAP QTS和QNAP QuTS hero存在命令注入漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-22481",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.qnap.com/en/security-advisory/qsa-25-12",
+    "patch": "QNAP QTS和QNAP QuTS hero命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-10",
+    "open_time": "2025-08-06",
+    "update_time": "2025-08-06",
+    "data_summary": "aa1f7eb55054e0c1d9f4fe90b4300594"
+}

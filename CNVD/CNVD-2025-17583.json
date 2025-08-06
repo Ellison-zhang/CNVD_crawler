@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-06 09:07:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17583",
+    "spider_time": 1754471258464,
+    "name": "DELL Client Platform BIOS弱身份验证漏洞",
+    "cnvd": "CNVD-2025-17583",
+    "publish": "2025-08-05",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"DELL Client Platform BIOS\"]",
+    "cve": "CVE-2024-52541",
+    "description": "DELL Client Platform BIOS是戴尔公司为其客户端设备（如笔记本电脑、台式机等）开发的BIOS系统。DELL Client Platform BIOS存在弱身份验证漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-52541",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000258429/dsa-2025-021",
+    "patch": "DELL Client Platform BIOS弱身份验证漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-05",
+    "open_time": "2025-08-06",
+    "update_time": "2025-08-06",
+    "data_summary": "553bfda2d7c02f0bdb3fdeb1fa3868fe"
+}
