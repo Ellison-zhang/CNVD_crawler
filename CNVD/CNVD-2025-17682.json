@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-07 08:05:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17682",
+    "spider_time": 1754553952366,
+    "name": "TOTOLINK T6 setTracerouteCfg函数命令注入漏洞",
+    "cnvd": "CNVD-2025-17682",
+    "publish": "2025-08-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK T6 4.1.5cu.748_B20211015\"]",
+    "cve": "CVE-2025-7525",
+    "description": "TOTOLINK T6是中国吉翁电子（TOTOLINK）推出的无线双频路由器，支持MQTT协议和Telnet服务。TOTOLINK T6存在命令注入漏洞，该漏洞源于文件/cgi-bin/cstecgi.cgi中函数setTracerouteCfg的参数command未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/ElvisBlue/Public/blob/main/Vuln/3.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-08-07",
+    "update_time": "2025-08-07",
+    "data_summary": "7e5c9bb3e14a5fdca24d50ce32bef27a"
+}
