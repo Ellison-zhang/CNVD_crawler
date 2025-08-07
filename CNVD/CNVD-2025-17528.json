@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-07 05:15:57",
+    "parse_time": "2025-08-07 06:14:51",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17528",
-    "spider_time": 1754543757884,
+    "spider_time": 1754547291441,
     "name": "GNU Binutils find_section_in_set函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-17528",
     "publish": "2025-08-04",
