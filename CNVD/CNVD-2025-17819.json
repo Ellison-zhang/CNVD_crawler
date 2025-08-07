@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-07 10:05:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17819",
+    "spider_time": 1754561101872,
+    "name": "GLPI输入验证错误漏洞",
+    "cnvd": "CNVD-2025-17819",
+    "publish": "2025-08-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"GLPI GLPI <=10.0.17\"]",
+    "cve": "CVE-2024-11955",
+    "description": "GLPI是GLPI开源的一款开源IT和资产管理软件。该软件提供功能全面的IT资源管理接口，你可以用它来建立数据库全面管理IT的电脑，显示器，服务器，打印机，网络设备，电话，甚至硒鼓和墨盒等。GLPI 10.0.17及之前版本存在输入验证错误漏洞，该漏洞源于/index.php文件的重定向参数处理不当，攻击者可利用此漏洞可能导致开放重定向。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-11955",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/glpi-project/glpi/releases/tag/10.0.18",
+    "patch": "GLPI输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-28",
+    "open_time": "2025-08-07",
+    "update_time": "2025-08-07",
+    "data_summary": "fb3445e6179e11e105be9ee2f18804b9"
+}
