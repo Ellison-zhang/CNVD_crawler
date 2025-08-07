@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-07 07:07:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17671",
+    "spider_time": 1754550443769,
+    "name": "北京九思协同软件有限公司九思协同办公系统存在SQL注入漏洞（CNVD-2025-17671）",
+    "cnvd": "CNVD-2025-17671",
+    "publish": "2025-08-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u4e5d\\u601d\\u534f\\u540c\\u8f6f\\u4ef6\\u6709\\u9650\\u516c\\u53f8 \\u4e5d\\u601d\\u534f\\u540c\\u529e\\u516c\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "九思协同办公系统是北京九思协同软件有限公司自主研发的一款国企、政府、企事业单位的组织管理软件。北京九思协同软件有限公司九思协同办公系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttp://www.jiusi.net/",
+    "patch": "北京九思协同软件有限公司九思协同办公系统存在SQL注入漏洞（CNVD-2025-17671）的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-06-21",
+    "open_time": "2025-08-07",
+    "update_time": "2025-08-07",
+    "data_summary": "b3656726ace0f63339fd93ed5a61abfd"
+}
