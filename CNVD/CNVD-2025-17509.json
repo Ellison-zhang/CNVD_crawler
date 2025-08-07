@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-07 17:08:30",
+    "parse_time": "2025-08-07 18:08:43",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17509",
-    "spider_time": 1754586510921,
+    "spider_time": 1754590123054,
     "name": "GNU elfutils缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-17509",
     "publish": "2025-08-04",
