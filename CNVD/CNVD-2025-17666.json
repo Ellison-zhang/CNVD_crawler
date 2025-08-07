@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-07 03:38:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17666",
+    "spider_time": 1754537890245,
+    "name": "北京中科网威信息技术有限公司中科神威防火墙存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-17666",
+    "publish": "2025-08-04",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:N/I:P/A:N",
+    "product": "[\"\\u5317\\u4eac\\u4e2d\\u79d1\\u7f51\\u5a01\\u4fe1\\u606f\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 \\u4e2d\\u79d1\\u795e\\u5a01\\u9632\\u706b\\u5899 4.0\"]",
+    "cve": null,
+    "description": "北京中科网威信息技术有限公司是一家专业从事网络安全技术研究、网络安全产品、自主可控（信创）软硬件产品研发、生产、销售和服务的企业。北京中科网威信息技术有限公司中科神威防火墙存在逻辑缺陷漏洞，攻击者可利用该漏洞删除系统内置账号。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttp://netpower.com.cn",
+    "patch": "北京中科网威信息技术有限公司中科神威防火墙存在逻辑缺陷漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-06-20",
+    "open_time": "2025-08-07",
+    "update_time": "2025-08-07",
+    "data_summary": "859baf630added58f9e7f8a9bc30bee8"
+}
