@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-07 11:05:30",
+    "parse_time": "2025-08-07 12:07:55",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17505",
-    "spider_time": 1754564730513,
+    "spider_time": 1754568475553,
     "name": "GNU Binutils bfd_elf_set_group_contents函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-17505",
     "publish": "2025-08-04",
