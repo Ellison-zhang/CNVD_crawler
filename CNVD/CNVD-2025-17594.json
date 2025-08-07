@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-07 04:20:00",
+    "parse_time": "2025-08-07 05:10:46",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17594",
-    "spider_time": 1754540400901,
+    "spider_time": 1754543446089,
     "name": "QNAP QTS和QNAP QuTS hero越界写入漏洞",
     "cnvd": "CNVD-2025-17594",
     "publish": "2025-08-05",
