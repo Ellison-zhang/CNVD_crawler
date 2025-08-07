@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-07 14:17:25",
+    "parse_time": "2025-08-07 15:10:07",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17529",
-    "spider_time": 1754576245359,
+    "spider_time": 1754579407007,
     "name": "GNU Binutils get_data函数拒绝服务漏洞",
     "cnvd": "CNVD-2025-17529",
     "publish": "2025-08-04",
