@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 07:07:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17883",
+    "spider_time": 1754636876110,
+    "name": "WordPress WebinarIgnition身份验证绕过漏洞",
+    "cnvd": "CNVD-2025-17883",
+    "publish": "2025-08-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress WebinarIgnition <=4.03.31\"]",
+    "cve": "CVE-2025-6441",
+    "description": "WordPress WebinarIgnition是一款用于WordPress的开源插件，主要用于创建实时互动的网络研讨会。WordPress WebinarIgnition存在身份验证绕过漏洞，该漏洞源于缺少能力检查，攻击者可利用该漏洞生成任意WordPress用户登录令牌。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6441",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/webinar-ignition/",
+    "patch": "WordPress WebinarIgnition身份验证绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-30",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "77e082b8f669ba9ba3c97f472a1d9dd7"
+}
