@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 02:44:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17823",
+    "spider_time": 1754621054591,
+    "name": "Advantech iView NetworkServlet.archiveTrap函数SQL注入漏洞",
+    "cnvd": "CNVD-2025-17823",
+    "publish": "2025-08-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Advantech iView <5.7.05 build 7057\"]",
+    "cve": "CVE-2025-53515",
+    "description": "Advantech iView是中国研华（Advantech）公司的一个基于简单网络协议（SNMP）来对B + B SmartWorx设备进行管理的软件。Advantech iView NetworkServlet.archiveTrap函数存在SQL注入漏洞。攻击者可利用该漏洞执行SQL注入，并在'nt authority\\local service'账号的上下文中执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-08",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.advantech.com/en/support/details/firmware-?id=1-HIPU-183",
+    "patch": "Advantech iView NetworkServlet.archiveTrap函数SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "7dc72a2062f8f36663730a9415edeb03"
+}
