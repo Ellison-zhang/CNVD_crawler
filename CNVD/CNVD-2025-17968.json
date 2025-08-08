@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 10:09:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17968",
+    "spider_time": 1754647768191,
+    "name": "TOTOLINK LR1200GB setOpModeCfg函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-17968",
+    "publish": "2025-08-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK LR1200GB 9.1.0u.6619_B20230130\"]",
+    "cve": "CVE-2024-0572",
+    "description": "TOTOLINK LR1200GB是一款由中国吉翁电子（TOTOLINK）推出的无线双频4G LTE路由器，支持2.4GHz和5GHz双频段网络。TOTOLINK LR1200GB存在缓冲区溢出漏洞，该漏洞源于/cgi-bin/cstecgi.cgi文件的setOpModeCfg函数的pppoeUser参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.250788",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/newstpl/menu_newstpl/products/id/233.html",
+    "patch": "TOTOLINK LR1200GB setOpModeCfg函数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-01-24",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "12b06d515970f273229ce6adf25f0fea"
+}

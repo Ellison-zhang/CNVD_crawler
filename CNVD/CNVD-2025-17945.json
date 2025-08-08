@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 10:04:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17945",
+    "spider_time": 1754647473663,
+    "name": "TOTOLINK EX200 setWebWlanIdx方法代码执行漏洞",
+    "cnvd": "CNVD-2025-17945",
+    "publish": "2025-08-08",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK EX200 V4.0.3c.7646_B20201211\"]",
+    "cve": "CVE-2024-31808",
+    "description": "TOTOLINK EX200是一款由中国吉翁电子（TOTOLINK）推出的无线N范围扩展器 ，主要用于扩展现有Wi-Fi网络的覆盖范围，解决信号盲区问题。TOTOLINK EX200存在代码执行漏洞，该漏洞源于setWebWlanIdx方法的webWlanIdx参数未能正确过滤构造代码段的特殊元素。攻击者可利用该漏洞导致任意代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/4hsien/CVE-vulns/blob/main/TOTOLINK/EX200/CI_3_setWebWlanIdx/CI.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "TOTOLINK EX200 setWebWlanIdx方法代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-10",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "57d58be3890dc823fcb49b2f2d9b34f6"
+}
