@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 04:19:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17862",
+    "spider_time": 1754626774308,
+    "name": "TRENDnet TEW-814DAP堆栈缓冲区溢出漏洞（CNVD-2025-17862）",
+    "cnvd": "CNVD-2025-17862",
+    "publish": "2025-08-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TRENDnet TEW-814DAP v1_(FW1.01B01)\"]",
+    "cve": "CVE-2024-37645",
+    "description": "TRENDnet TEW-814DAP是美国趋势网络（TRENDnet）公司的一个无线接入点。TRENDnet TEW-814DAP存在堆栈缓冲区溢出漏洞，该漏洞源于/formSysLog处的submit-url参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞使缓冲区溢出并导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-37645",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttp://trendnet.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2024-06-21",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "6e3d11326c99ede06046eff8beadf0f2"
+}
