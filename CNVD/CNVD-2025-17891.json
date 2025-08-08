@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 08:05:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17891",
+    "spider_time": 1754640356521,
+    "name": "Apple iOS/iPadOS存在未明漏洞（CNVD-2025-17891）",
+    "cnvd": "CNVD-2025-17891",
+    "publish": "2025-08-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Apple iPadOS <17.7.9\", \"Apple iOS <18.6\", \"Apple iPadOS <18.6\"]",
+    "cve": "CVE-2025-31276",
+    "description": "Apple iOS和Apple iPadOS都是美国苹果（Apple）公司的产品。Apple iOS是一套为移动设备所开发的操作系统。Apple iPadOS是一套用于iPad平板电脑的操作系统。Apple iOS和Apple iPadOS存在安全漏洞，该漏洞源于状态管理不当，攻击者可利用该漏洞可能导致远程内容加载。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-31276",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.apple.com/en-us/124147",
+    "patch": "Apple iOS/iPadOS存在未明漏洞（CNVD-2025-17891）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-01",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "87bfb04ddf47b54be3b89e67ac9d667b"
+}

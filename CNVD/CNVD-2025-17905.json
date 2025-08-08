@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 08:05:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17905",
+    "spider_time": 1754640347899,
+    "name": "WordPress GymBase Theme Classes SQL注入漏洞",
+    "cnvd": "CNVD-2025-17905",
+    "publish": "2025-08-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:P",
+    "product": "[\"WordPress GymBase Theme Classes <=1.4\"]",
+    "cve": "CVE-2025-54026",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品，WordPress plugin是一个应用插件。WordPress GymBase Theme Classes存在SQL注入漏洞，该漏洞源于SQL命令中特殊元素中和不当，攻击者可利用该漏洞通过发送恶意SQL命令，绕过身份验证，访问敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-54026",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress GymBase Theme Classes SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "ae89033c67587b77c2e8a73e4d94d545"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 08:05:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17907",
+    "spider_time": 1754640352415,
+    "name": "WordPress Profiler-What Slowing Down Your WP缺少授权漏洞",
+    "cnvd": "CNVD-2025-17907",
+    "publish": "2025-08-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress Profiler-What Slowing Down Your WP <=1.0.0\"]",
+    "cve": "CVE-2025-48339",
+    "description": "WordPress Profiler-What Slowing Down Your WP是一款用于检测网站运行速度的插件，主要用于分析插件对网站加载速度的影响。WordPress Profiler-What Slowing Down Your WP存在缺少授权漏洞，攻击者可利用该漏洞通导致访问控制不当。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-48339",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "942994c3bc958ac57e58205724a9e710"
+}

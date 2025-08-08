@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 08:05:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17903",
+    "spider_time": 1754640342601,
+    "name": "WordPress WP Post Hide跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-17903",
+    "publish": "2025-08-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress WP Post Hide <=1.0.9\"]",
+    "cve": "CVE-2025-54042",
+    "description": "WordPress WP Post Hide是一款用于控制WordPress文章可见性的插件，可隐藏特定文章在首页、分类页、搜索结果页等不同位置的显示。WordPress WP Post Hide存在跨站请求伪造漏洞，该漏洞源于程序未正确验证请求的来源，攻击者可利用该漏洞通过用户已登录目标网站后，诱使用户访问攻击页面，发起伪造操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-54042",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/wp-post-hide/",
+    "patch": "WordPress WP Post Hide跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "935cfb650e79f0b7dba807a3d8c10ede"
+}
