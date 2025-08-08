@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 09:07:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17939",
+    "spider_time": 1754644057117,
+    "name": "TOTOLINK EX200 getSysStatusCfg方法信息泄露漏洞",
+    "cnvd": "CNVD-2025-17939",
+    "publish": "2025-08-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"TOTOLINK EX200 V4.0.3c.7646_B20201211\"]",
+    "cve": "CVE-2024-31817",
+    "description": "TOTOLINK EX200是一款由中国吉翁电子（TOTOLINK）推出的无线N范围扩展器 ，主要用于扩展现有Wi-Fi网络的覆盖范围，解决信号盲区问题。TOTOLINK EX200存在信息泄露漏洞，该漏洞源于设备存在不当的权限管理，攻击者可利用该漏洞通过getSysStatusCfg方法在没有授权的情况下获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/4hsien/CVE-vulns/blob/main/TOTOLINK/EX200/Leak_getSysStatusCfg/Leak.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "TOTOLINK EX200 getSysStatusCfg方法信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-10",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "8f33cba48b1189f0a81474d30925a73b"
+}

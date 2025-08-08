@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 09:07:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17937",
+    "spider_time": 1754644047165,
+    "name": "WordPress Medical Prescription Attachment Plugin for WooCommerce代码问题漏洞",
+    "cnvd": "CNVD-2025-17937",
+    "publish": "2025-08-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Medical Prescription Attachment Plugin for WooCommerce <=1.2.3\"]",
+    "cve": "CVE-2025-29009",
+    "description": "WordPress Medical Prescription Attachment Plugin for WooCommerce是一款专为WooCommerce设计的插件，主要用于帮助在线药店实现客户上传医生处方文件以便购买药品、疫苗等功能。WordPress Medical Prescription Attachment Plugin for WooCommerce存在代码问题漏洞，该漏洞源于危险类型文件上传不受限制，攻击者可利用该漏洞导致Web Shell上传到Web服务器。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-29009",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "fbaae3b3a8fe967ffb08377a4df603fa"
+}
