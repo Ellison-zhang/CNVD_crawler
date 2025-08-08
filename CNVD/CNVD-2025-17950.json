@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 16:07:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17950",
+    "spider_time": 1754669229462,
+    "name": "深圳市明源云科技有限公司ERP系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-17950",
+    "publish": "2025-08-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u660e\\u6e90\\u8f6f\\u4ef6\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 ERP\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "ERP系统是一款集房源、客源、销售、财务、人力资源等功能于一身的综合性信息管理平台‌。深圳市明源云科技有限公司ERP系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttp://www.mingyuanyun.com",
+    "patch": "深圳市明源云科技有限公司ERP系统存在SQL注入漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-06-25",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "939cf77a89e8b5dd47110d31909b20b0"
+}

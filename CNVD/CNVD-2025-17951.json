@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 16:07:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17951",
+    "spider_time": 1754669235997,
+    "name": "北京金和网络股份有限公司金和OA存在SQL注入漏洞（CNVD-2025-17951）",
+    "cnvd": "CNVD-2025-17951",
+    "publish": "2025-08-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u91d1\\u548c\\u7f51\\u7edc\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u91d1\\u548cOA\"]",
+    "cve": null,
+    "description": "金和OA是一款协同办公管理系统。北京金和网络股份有限公司金和OA存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.jinher.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-25",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "c869f3e7b0334e3d6f3d9c0b71dc62b5"
+}

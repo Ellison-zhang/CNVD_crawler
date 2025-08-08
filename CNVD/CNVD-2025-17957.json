@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 16:07:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17957",
+    "spider_time": 1754669253797,
+    "name": "天津天堰科技股份有限公司天堰OSVE考试智能化管理平台存在SQL注入漏洞（CNVD-2025-17957）",
+    "cnvd": "CNVD-2025-17957",
+    "publish": "2025-08-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u5929\\u6d25\\u5929\\u5830\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u5929\\u5830OSVE\\u8003\\u8bd5\\u667a\\u80fd\\u5316\\u7ba1\\u7406\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "天堰OSVE考试智能化管理平台是一款由天津天堰科技股份有限公司打造的综合性考评系统。天津天堰科技股份有限公司天堰OSVE考试智能化管理平台存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.tellyes.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-25",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "268d47c809c6297a7d59471122c9d679"
+}

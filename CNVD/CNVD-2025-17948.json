@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 16:06:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17948",
+    "spider_time": 1754669216827,
+    "name": "杭州益仕行信息技术有限公司梵志ES平台存在SQL注入漏洞（CNVD-2025-17948）",
+    "cnvd": "CNVD-2025-17948",
+    "publish": "2025-08-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u676d\\u5dde\\u76ca\\u4ed5\\u884c\\u4fe1\\u606f\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 \\u68b5\\u5fd7ES\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "杭州益仕行信息技术有限公司是一家专业从事酒店业人事后勤一卡通管理领域及RFID物联网应用领域的系统开发、集成与服务为一体的高新技术企业实体。杭州益仕行信息技术有限公司梵志ES平台存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.hotel-es.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-25",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "e10a8d9ce65962f111672db5dcdc9bad"
+}
