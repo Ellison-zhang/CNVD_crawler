@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 03:34:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17858",
+    "spider_time": 1754624052569,
+    "name": "TOTOLINK A3002RU访问控制不当漏洞",
+    "cnvd": "CNVD-2025-17858",
+    "publish": "2025-08-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A3002RU 2.0.0-B20190902.1958\"]",
+    "cve": "CVE-2023-48859",
+    "description": "TOTOLINK A3002RU是中国吉翁电子（TOTOLINK）生产的无线路由器产品，支持多种网络功能和服务。TOTOLINK A3002RU存在访问控制不当漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-48859",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-12-08",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "a01c232dcf638473b87629d366c16b07"
+}
