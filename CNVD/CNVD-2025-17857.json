@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-09 03:30:14",
+    "parse_time": "2025-08-09 04:11:53",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17857",
-    "spider_time": 1754710214498,
+    "spider_time": 1754712713258,
     "name": "TOTOLINK EX1800T cstecgi.cgi enable参数任意命令执行漏洞",
     "cnvd": "CNVD-2025-17857",
     "publish": "2025-08-07",
