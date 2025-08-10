@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-10 16:04:56",
+    "parse_time": "2025-08-10 17:04:25",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17859",
-    "spider_time": 1754841896636,
+    "spider_time": 1754845465982,
     "name": "TOTOLINK A3300R file_name参数命令注入漏洞",
     "cnvd": "CNVD-2025-17859",
     "publish": "2025-08-07",
