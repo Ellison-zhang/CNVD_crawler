@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-10 21:06:13",
+    "parse_time": "2025-08-10 22:06:27",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17860",
-    "spider_time": 1754859973602,
+    "spider_time": 1754863587328,
     "name": "TOTOLINK X5000R setLanguageCfg函数代码执行漏洞",
     "cnvd": "CNVD-2025-17860",
     "publish": "2025-08-07",
