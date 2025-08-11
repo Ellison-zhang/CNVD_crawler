@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-11 09:06:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18065",
+    "spider_time": 1754903199846,
+    "name": "Oracle MySQL存在未明漏洞（CNVD-2025-18065）",
+    "cnvd": "CNVD-2025-18065",
+    "publish": "2025-08-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Oracle MySQL Connectors <=9.0.0\"]",
+    "cve": "CVE-2024-21272",
+    "description": "Oracle MySQL是美国甲骨文（Oracle）公司的一套开源的关系数据库管理系统。MySQL Connectors是其中的一个连接使用MySQL的应用程序的驱动程序。Oracle MySQL的MySQL Connectors存在安全漏洞，攻击者可利用该漏洞接管MySQL Connectors。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.oracle.com/security-alerts/cpuoct2024.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpuoct2024.html",
+    "patch": "Oracle MySQL存在未明漏洞（CNVD-2025-18065）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-23",
+    "open_time": "2025-08-11",
+    "update_time": "2025-08-11",
+    "data_summary": "cedb9c70f08abbafba7866f81a50c25b"
+}
