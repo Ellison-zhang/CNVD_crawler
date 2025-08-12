@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-12 09:10:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18175",
+    "spider_time": 1754989834559,
+    "name": "Fuji Electric TELLUS/TELLUS Lite缓存区溢出漏洞",
+    "cnvd": "CNVD-2025-18175",
+    "publish": "2025-08-11",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Fuji Electric TELLUS <=v4.0.17.0\", \"Fuji Electric TELLUS Lite <=4.0.17.0\"]",
+    "cve": "CVE-2023-47580",
+    "description": "Fuji Electric TELLUS是一款高级功能、用户友好且支持远程控制的工业自动化软件，Fuji Electric TELLUS Lite是一款远程控制软件，主要用于工业环境中的设备监控与管理。Fuji Electric TELLUS/TELLUS Lite存在缓存区溢出漏洞，该漏洞源于对内存缓冲区范围的操作不当限制，攻击者可利用该漏洞泄露信息或执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-47580",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://monitouch.fujielectric.com/site/download-e/03tellus_inf/index.php",
+    "patch": "Fuji Electric TELLUS/TELLUS Lite缓存区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-11-21",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "fa5198e162647405fc451b28d118e744"
+}

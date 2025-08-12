@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-12 09:09:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18144",
+    "spider_time": 1754989749363,
+    "name": "WordPress AI Engine plugin代码执行漏洞",
+    "cnvd": "CNVD-2025-18144",
+    "publish": "2025-08-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress AI Engine plugin 2.9.3\", \"WordPress AI Engine plugin 2.9.4\"]",
+    "cve": "CVE-2025-7847",
+    "description": "WordPress AI Engine插件是一款集成人工智能功能的WordPress插件，提供聊天机器人、内容生成、图像生成等功能，支持与OpenAI等平台对接。WordPress AI Engine plugin存在代码执行漏洞，该漏洞源于rest_simpleFileUpload函数未验证文件类型，攻击者可利用该漏洞导致任意文件上传和远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/ai-engine/tags/2.9.3/classes/api.php#L673",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/ai-engine",
+    "patch": "WordPress AI Engine plugin代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-10",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "ec68f511a4cd40c96f33cd474996e859"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-12 09:09:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18174",
+    "spider_time": 1754989743321,
+    "name": "Tenda F1202 fromAddressNat方法entrys参数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18174",
+    "publish": "2025-08-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"Tenda F1202 1.2.0.20(408)\"]",
+    "cve": "CVE-2024-30638",
+    "description": "Tenda F1202是一款企业级双频无线路由器，支持2.4GHz和5GHz双频段，最高传输速率达1200Mbps，配备4根5dBi天线增强信号覆盖。Tenda F1202存在缓冲区溢出漏洞，该漏洞源于fromAddressNat方法的entrys参数未能正确验证输入数据的长度大小，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/F/F1202/fromAddressNat_entrys.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-2671.html",
+    "patch": "Tenda F1202 fromAddressNat方法entrys参数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-03",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "f91b5141c146e91c6d3830630b8ef9fe"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-12 09:09:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18146",
+    "spider_time": 1754989761205,
+    "name": "WordPress BerqWP plugin文件上传漏洞",
+    "cnvd": "CNVD-2025-18146",
+    "publish": "2025-08-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress BerqWP plugin <=2.2.42\"]",
+    "cve": "CVE-2025-7443",
+    "description": "WordPress BerqWP plugin是WordPress平台的一款自动化性能优化插件，主要用于提升网站加载速度、Core Web Vitals得分及搜索引擎排名。WordPress BerqWP plugin存在文件上传漏洞，该漏洞源于store_javascript_cache.php文件类型验证缺失，攻击者可利用该漏洞导致任意文件上传或远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/searchpro/trunk/api/store_javascript_cache.php#L14",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/searchpro",
+    "patch": "WordPress BerqWP plugin文件上传漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-10",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "9474cecaff97804d1450d50d6878f640"
+}

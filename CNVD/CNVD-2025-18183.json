@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-12 09:11:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18183",
+    "spider_time": 1754989874374,
+    "name": "Fuji Electric V-Server越界写入漏洞",
+    "cnvd": "CNVD-2025-18183",
+    "publish": "2025-08-11",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Fuji Electric V-Server <=4.0.12.0\"]",
+    "cve": "CVE-2022-47317",
+    "description": "Fuji Electric V-Server是一套用于收集和管理实时现场数据的软件。Fuji Electric V-Server存在越界写入漏洞，攻击者可利用该漏洞通过让用户打开特制的项目文件来获取信息，并执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://jvn.jp/en/vu/JVNVU92811888/index.html\nhttps://monitouch.fujielectric.com/site/download-e/03tellus_inf/index.php\nhttps://cxsecurity.com/cveshow/CVE-2022-47317/\nhttps://jvndb.jvn.jp/en/contents/2022/JVNDB-2022-002838.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://monitouch.fujielectric.com/site/download-e/03tellus_inf/index.php",
+    "patch": "Fuji Electric V-Server越界写入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-01-06",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "ab10f819df03c788c3b2c6d02f24ae5f"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-12 09:08:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18172",
+    "spider_time": 1754989733647,
+    "name": "Tenda F1202 formQuickIndex方法缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18172",
+    "publish": "2025-08-12",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda F1202 1.2.0.20(408)\"]",
+    "cve": "CVE-2024-30636",
+    "description": "Tenda F1202是一款企业级双频无线路由器，支持2.4GHz和5GHz双频段，最高传输速率达1200Mbps，配备4根5dBi天线增强信号覆盖。Tenda F1202存在缓冲区溢出漏洞，该漏洞源于formQuickIndex方法的PPPOEPassword参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/F/F1202/formQuickIndex.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-2671.html",
+    "patch": "Tenda F1202 formQuickIndex方法缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-03",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "5371607e01d29765fee1a6094e4275df"
+}

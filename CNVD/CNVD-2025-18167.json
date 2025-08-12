@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-12 09:10:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18167",
+    "spider_time": 1754989821024,
+    "name": "Tenda W30E fromNatlimit方法缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18167",
+    "publish": "2025-08-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda W30E 1.0.1.25(633)\", \"Tenda W30E 1.0\"]",
+    "cve": "CVE-2024-32291",
+    "description": "Tenda W30E是一款专为SOHO、小微企业办公及小型商铺组网设计的企业级无线路由器，支持Wi-Fi 6技术。Tenda W30E存在缓冲区溢出漏洞，该漏洞源于fromNatlimit方法的page参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/W30E/fromNatlimit.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-2218.html",
+    "patch": "Tenda W30E fromNatlimit方法缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-22",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "76555b46629b8ab4b35a414bda45634d"
+}

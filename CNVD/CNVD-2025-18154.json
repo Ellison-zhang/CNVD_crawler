@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-12 09:05:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18154",
+    "spider_time": 1754989505292,
+    "name": "Ivanti Avalanche Manager缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18154",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Ivanti Avalanche Manager <6.4.1\"]",
+    "cve": "CVE-2023-38036",
+    "description": "Ivanti Avalanche Manager是Ivanti公司开发的企业移动设备管理系统，主要用于管理智能手机、平板电脑等移动设备。Ivanti Avalanche Manager存在缓冲区溢出漏洞，该漏洞源于程序在处理数据时未正确管理内存分配和释放，攻击者可利用该漏洞导致服务中断或执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-38036",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://forums.ivanti.com/s/article/Security-Advisory-Avalanche-CVE-2023-38036",
+    "patch": "Ivanti Avalanche Manager缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "cda5b82a56e33cb08dead799a7f54fb6"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-12 09:09:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18149",
+    "spider_time": 1754989773818,
+    "name": "WordPress GiveWP plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-18149",
+    "publish": "2025-08-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress GiveWP plugin <=4.5.0\"]",
+    "cve": "CVE-2025-7205",
+    "description": "WordPress GiveWP plugin是一款开源的在线捐赠系统插件，主要用于帮助网站实现在线募捐功能。WordPress GiveWP plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/give/trunk/src/API/REST/V3/Routes/Donors/DonorNotesController.php#51",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/give",
+    "patch": "WordPress GiveWP plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-10",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "e6df021f6aa3e8bae56f7d34bbac593d"
+}

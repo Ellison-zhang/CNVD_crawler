@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-12 09:09:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18148",
+    "spider_time": 1754989768649,
+    "name": "WordPress Customer Reviews for WooCommerce plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-18148",
+    "publish": "2025-08-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Customer Reviews for WooCommerce plugin <=5.80.2\"]",
+    "cve": "CVE-2025-5720",
+    "description": "WordPress Customer Reviews for WooCommerce plugin主要用于增强WooCommerce平台的客户评价功能，通过自动化提醒、多语言支持及社交证明等功能提升店铺转化率和用户信任度。WordPress Customer Reviews for WooCommerce plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/customer-reviews-woocommerce/tags/5.78.1/includes/reviews/class-cr-reviews-list-table.php#L1033",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/customer-reviews-woocommerce",
+    "patch": "WordPress Customer Reviews for WooCommerce plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-10",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "d78d5cbdf2b0cb612db79f8dcd9274ee"
+}

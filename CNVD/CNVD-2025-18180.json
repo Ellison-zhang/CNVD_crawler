@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-12 09:11:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18180",
+    "spider_time": 1754989860482,
+    "name": "Fuji Electric V-Server/V-Server Lite缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18180",
+    "publish": "2025-08-11",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Fuji Electric V-Server 4.0.15.0\", \"Fuji Electric V-Server Lite <=4.0.15.0\"]",
+    "cve": "CVE-2023-31239",
+    "description": "Fuji Electric V-Server和Fuji Electric V-Server Lite都是日本富士电机（Fuji Electric）公司的产品。Fuji Electric V-Server是一套用于收集和管理实时现场数据的软件。Fuji Electric V-Server Lite是一款用于工业环境的远程监控软件。Fuji Electric V-Server/V-Server Lite存在缓冲区溢出漏洞，该漏洞源于边界检查错误，攻击者可利用该漏洞打开特制的VPR文件来执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://jvn.jp/en/vu/JVNVU98818508/\nhttps://monitouch.fujielectric.com/site/download-e/03tellus_inf/index.php\nhttps://cxsecurity.com/cveshow/CVE-2023-31239/\nhttps://jvndb.jvn.jp/en/contents/2023/JVNDB-2023-002072.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://monitouch.fujielectric.com/site/tellus-e/tellus03-01.html",
+    "patch": "Fuji Electric V-Server/V-Server Lite缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-06-28",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "ebc3263f8dd1fc06cc11918f097b25ea"
+}
