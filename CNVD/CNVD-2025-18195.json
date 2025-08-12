@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-12 10:06:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18195",
+    "spider_time": 1754993187707,
+    "name": "Adobe Commerce未授权访问漏洞",
+    "cnvd": "CNVD-2025-18195",
+    "publish": "2025-08-11",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:N/A:N",
+    "product": "[\"Adobe Adobe Commerce <=2.4.8-beta2\"]",
+    "cve": "CVE-2025-27192",
+    "description": "Adobe Commerce是一款面向商家和品牌的全球领先的数字商务解决方案。Adobe Commerce存在未授权访问漏洞。该漏洞源于敏感凭据信息获取不足的保护，导致高权限攻击者可以获取这些信息。攻击者可以利用该漏洞获取敏感凭据信息，未经授权访问受保护资源，从而绕过安全功能。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/magento/apsb25-26.html",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://adobe.com",
+    "patch": "Adobe Commerce未授权访问漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "673f19d997b9844a7ff3200176fc035d"
+}

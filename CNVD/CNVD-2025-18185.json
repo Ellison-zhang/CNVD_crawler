@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-12 10:04:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18185",
+    "spider_time": 1754993045930,
+    "name": "IBM Engineering Lifecycle Optimization Publishing跨站脚本漏洞",
+    "cnvd": "CNVD-2025-18185",
+    "publish": "2025-08-11",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"IBM IBM Engineering Lifecycle Optimization Publishing 7.0.2\", \"IBM IBM Engineering Lifecycle Optimization Publishing 7.03\"]",
+    "cve": "CVE-2024-52890",
+    "description": "IBM Engineering Lifecycle Optimization Publishing是美国国际商业机器（IBM）公司的一种自动化文档生成解决方案。IBM Engineering Lifecycle Optimization Publishing 7.0.2版本和7.03版本存在跨站脚本漏洞，该漏洞源于未验证URI，攻击者可利用该漏洞可能导致跨站脚本攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-52890",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7241392",
+    "patch": "IBM Engineering Lifecycle Optimization Publishing跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-11",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "390a656fe6ade3b7b8eb6b534de75f06"
+}

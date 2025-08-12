@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-12 10:03:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18186",
+    "spider_time": 1754993037037,
+    "name": "WordPress WP Import Export Lite plugin缺少文件类型验证漏洞",
+    "cnvd": "CNVD-2025-18186",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress WP Import Export Lite plugin <=3.9.29\"]",
+    "cve": "CVE-2025-5061",
+    "description": "WordPress WP Import Export Lite plugin是WordPress的一款免费插件，主要用于批量导入和导出网站数据。WordPress WP Import Export Lite plugin存在缺少文件类型验证漏洞，攻击者可利用该漏洞导致任意文件上传和远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/wp-import-export-lite/trunk/includes/classes/import/class-wpie-upload-validate.php#L24",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/5c0f3248-fef6-48a5-b2e1-f2778528fba1?source=cve",
+    "patch": "WordPress WP Import Export Lite plugin缺少文件类型验证漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-11",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "9085cb9025af4bc6a94a1b77be34e593"
+}
