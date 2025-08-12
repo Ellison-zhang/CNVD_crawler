@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-12 13:14:30",
+    "parse_time": "2025-08-12 14:10:01",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18153",
-    "spider_time": 1755004470473,
+    "spider_time": 1755007801237,
     "name": "WordPress NinjaScanner plugin文件路径验证不足漏洞",
     "cnvd": "CNVD-2025-18153",
     "publish": "2025-08-11",

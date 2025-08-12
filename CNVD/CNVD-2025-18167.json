@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-12 13:14:54",
+    "parse_time": "2025-08-12 14:10:33",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18167",
-    "spider_time": 1755004494932,
+    "spider_time": 1755007833015,
     "name": "Tenda W30E fromNatlimit方法缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-18167",
     "publish": "2025-08-11",
