@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-12 21:04:46",
+    "parse_time": "2025-08-12 22:04:36",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18166",
-    "spider_time": 1755032686896,
+    "spider_time": 1755036276741,
     "name": "Tenda W30E fromDhcpListClient方法缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-18166",
     "publish": "2025-08-11",
