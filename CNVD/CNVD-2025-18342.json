@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 16:07:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18342",
+    "spider_time": 1755101245666,
+    "name": "浙江码尚科技股份有限公司溯源云平台存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-18342",
+    "publish": "2025-08-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u6d59\\u6c5f\\u7801\\u5c1a\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u6eaf\\u6e90\\u4e91\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "浙江码尚科技股份有限公司是集防伪技术研发、软件开发、包装标识物、防伪标签印刷、喷码、防伪数据查询、刮刮卡印刷、数码电码防伪标签等一条龙生产的高新技术企业。浙江码尚科技股份有限公司溯源云平台存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.8612315.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-30",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "79811b421cb137ff9cf27207e06035f3"
+}

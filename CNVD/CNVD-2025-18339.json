@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 16:07:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18339",
+    "spider_time": 1755101239024,
+    "name": "山东潍微科技股份有限公司水务信息管理平台存在SQL注入漏洞（CNVD-2025-18339）",
+    "cnvd": "CNVD-2025-18339",
+    "publish": "2025-08-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u5c71\\u4e1c\\u6f4d\\u5fae\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u6c34\\u52a1\\u4fe1\\u606f\\u7ba1\\u7406\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "山东潍微科技股份有限公司是一家致力于远传水表、智慧水务等行业前沿技术的研发的企业。山东潍微科技股份有限公司水务信息管理平台存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.china-weiwei.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-30",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "34fb0e0f7efc7e86ade0db1eaf661815"
+}
