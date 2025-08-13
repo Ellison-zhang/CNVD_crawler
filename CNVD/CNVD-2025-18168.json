@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-13 22:08:29",
+    "parse_time": "2025-08-13 23:06:40",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18168",
-    "spider_time": 1755122909973,
+    "spider_time": 1755126400865,
     "name": "Tenda W30E fromqossetting方法缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-18168",
     "publish": "2025-08-11",
