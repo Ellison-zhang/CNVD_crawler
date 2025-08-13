@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-13 13:18:05",
+    "parse_time": "2025-08-13 14:09:16",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18164",
-    "spider_time": 1755091085819,
+    "spider_time": 1755094156467,
     "name": "Tenda W30E formaddUserName方法缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-18164",
     "publish": "2025-08-11",
