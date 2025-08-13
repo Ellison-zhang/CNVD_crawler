@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 04:11:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18284",
+    "spider_time": 1755058274988,
+    "name": "WordPress Service Finder SMS System plugin权限提升漏洞",
+    "cnvd": "CNVD-2025-18284",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Service Finder SMS System plugin <=2.0.0\"]",
+    "cve": "CVE-2025-5954",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Service Finder SMS System plugin存在权限提升漏洞，该漏洞源于账户接管，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://themeforest.net/item/service-finder-service-and-business-listing-wordpress-theme/15208793",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress Service Finder SMS System plugin权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-10",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "883b686820e6fce261e091a476fc441f"
+}

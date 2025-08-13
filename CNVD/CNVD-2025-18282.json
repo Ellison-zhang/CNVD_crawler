@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 04:11:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18282",
+    "spider_time": 1755058268057,
+    "name": "WordPress HT Mega plugin存在未明漏洞",
+    "cnvd": "CNVD-2025-18282",
+    "publish": "2025-08-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"WordPress HT Mega plugin <=2.9.1\"]",
+    "cve": "CVE-2025-8068",
+    "description": "WordPress HT Mega plugin是专为WordPress设计的Elementor页面构建器插件，提供超过100个自定义小部件、360多个预设模块和多种模板，适用于博客、滑块、折叠菜单等页面元素。WordPress HT Mega plugin存在安全漏洞，该漏洞源于ajax_trash_templates函数能力检查不当，攻击者可利用该漏洞导致未经授权的修改和数据丢失。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/ht-mega-for-elementor/tags/2.9.0/admin/include/class.theme-builder.php#L625",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/ht-mega-for-elementor",
+    "patch": "WordPress HT Mega plugin存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-10",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "997aa8dba99bfe0965d5847b1d4efc39"
+}

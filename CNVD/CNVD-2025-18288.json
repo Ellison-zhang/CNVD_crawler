@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 04:10:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18288",
+    "spider_time": 1755058228668,
+    "name": "WordPress Easy Video Player Wordpress&WooCommerce路径遍历漏洞",
+    "cnvd": "CNVD-2025-18288",
+    "publish": "2025-08-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress Easy Video Player Wordpress&WooCommerce <=10.0\"]",
+    "cve": "CVE-2025-28955",
+    "description": "WordPress Easy Video Player Wordpress&WooCommerce是一款专为WordPress和WooCommerce设计的响应式视频播放器插件，支持本地视频播放、云平台视频流、360度视频及虚拟现实播放等功能。WordPress Easy Video Player Wordpress&WooCommerce存在路径遍历漏洞，该漏洞源于路径名限制不当，攻击者可利用该漏洞读取应用程序之外的文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-28955",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "53fecb3fd09bcc2a17f0efbb26de96aa"
+}

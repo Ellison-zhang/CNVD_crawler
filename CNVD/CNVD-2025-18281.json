@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 04:11:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18281",
+    "spider_time": 1755058262035,
+    "name": "WordPress WP-Property plugin文件上传漏洞",
+    "cnvd": "CNVD-2025-18281",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress WP-Property plugin <=1.35.0\"]",
+    "cve": "CVE-2012-10027",
+    "description": "WordPress WP-Property plugin是WordPress平台上的一个房地产行业专用插件，主要用于帮助用户管理房产列表、展示房源信息并吸引潜在客户。WordPress WP-Property plugin存在文件上传漏洞，该漏洞源于未验证上传文件类型，攻击者可利用该漏洞导致任意文件上传和远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.opensyscom.fr:80/Actualites/wordpress-plugins-wp-property-shell-upload-vulnerability.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/wp-property/",
+    "patch": "WordPress WP-Property plugin文件上传漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-11",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "abd8ee8684685d83ed19b94b4d354de5"
+}
