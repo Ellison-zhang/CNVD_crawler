@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-13 18:08:14",
+    "parse_time": "2025-08-13 19:04:36",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18353",
-    "spider_time": 1755108494322,
+    "spider_time": 1755111876593,
     "name": "Tenda AX12 sub_431CF0函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-18353",
     "publish": "2025-08-12",
