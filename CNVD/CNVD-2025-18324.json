@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 08:05:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18324",
+    "spider_time": 1755072312255,
+    "name": "WordPress Torod SQL注入漏洞",
+    "cnvd": "CNVD-2025-18324",
+    "publish": "2025-08-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:P",
+    "product": "[\"WordPress Torod <=1.9\"]",
+    "cve": "CVE-2025-30936",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品，WordPress plugin是一个应用插件。WordPress Torod存在SQL注入漏洞，该漏洞源于SQL命令特殊元素处理不当，攻击者可利用该漏洞通过把SQL命令插入到Web表单提交，获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-30936",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "fbe1a30bbed5a9b0c925a6c5f6c5f5ab"
+}

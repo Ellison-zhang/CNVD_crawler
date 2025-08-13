@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 08:05:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18328",
+    "spider_time": 1755072336366,
+    "name": "WordPress FG Drupal to WordPress跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-18328",
+    "publish": "2025-08-13",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:M/C:P/I:P/A:N",
+    "product": "[\"WordPress FG Drupal to WordPress <=3.90.0\"]",
+    "cve": "CVE-2025-48294",
+    "description": "WordPress FG Drupal to WordPress是一款用于将Drupal网站内容迁移到WordPress的插件工具，支持文章、图片等基础内容的导入，但免费版不包含评论导入功能。WordPress FG Drupal to WordPress存在跨站请求伪造漏洞，该漏洞源于程序未正确处理用户输入的数据，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-48294",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/fg-drupal-to-wp/",
+    "patch": "WordPress FG Drupal to WordPress跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "06b36b114affc785d78c45913632c620"
+}

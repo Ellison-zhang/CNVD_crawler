@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 08:05:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18330",
+    "spider_time": 1755072349800,
+    "name": "WordPress Yogi反序列化漏洞",
+    "cnvd": "CNVD-2025-18330",
+    "publish": "2025-08-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress Yogi <=2.9.0\"]",
+    "cve": "CVE-2025-24779",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品，WordPress是一套使用PHP语言开发的博客平台，该平台支持在PHP和MySQL的服务器上架设个人博客网站，WordPress plugin是一个应用插件。WordPress Yogi存在反序列化漏洞，该漏洞源于反序列化不可信数据，攻击者可利用该漏洞通过执行任意请求，绕过权限验证，访问受限资源。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-24779",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "c0b31513a713f2b47509b16f04b2e99c"
+}

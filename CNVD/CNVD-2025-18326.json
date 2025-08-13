@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 08:05:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18326",
+    "spider_time": 1755072323171,
+    "name": "WordPress Ultimate Push Notifications缺少授权漏洞",
+    "cnvd": "CNVD-2025-18326",
+    "publish": "2025-08-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:P",
+    "product": "[\"WordPress Ultimate Push Notifications <=1.1.9\"]",
+    "cve": "CVE-2025-50028",
+    "description": "WordPress Ultimate Push Notifications是一款插件，主要用于在WordPress网站中实现实时推送功能，支持向用户发送桌面、移动设备通知。WordPress Ultimate Push Notifications存在缺少授权漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-50028",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "f32e6ab07351923ce8328bf52fd94e1f"
+}
