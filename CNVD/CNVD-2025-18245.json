@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 01:32:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18245",
+    "spider_time": 1755048722227,
+    "name": "Dell SmartFabric OS10 Software代码问题漏洞",
+    "cnvd": "CNVD-2025-18245",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"DELL SmartFabric OS10 Software <10.6.0.5\"]",
+    "cve": "CVE-2025-36608",
+    "description": "Dell SmartFabric OS10 Software是戴尔开发的网络操作系统软件，用于简化数据中心网络架构的管理和自动化。Dell SmartFabric OS10 Software 10.6.0.5之前版本存在安全漏洞，该漏洞源于对XML外部实体解析处理不当。攻击者可利用该漏洞实现未授权访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36608",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.dell.com/support/kbdoc/en-us/000346195/dsa-2025-259-security-update-for-dell-networking-os10-vulnerabilities",
+    "patch": "Dell SmartFabric OS10 Software代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-01",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "df176871191be92ff201d440c985066b"
+}

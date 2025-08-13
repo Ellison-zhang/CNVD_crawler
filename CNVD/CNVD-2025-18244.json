@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 01:31:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18244",
+    "spider_time": 1755048719037,
+    "name": "Dell Unity跨站脚本漏洞（CNVD-2025-18244）",
+    "cnvd": "CNVD-2025-18244",
+    "publish": "2025-08-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Dell Unity <=5.5\"]",
+    "cve": "CVE-2025-36605",
+    "description": "Dell Unity是美国戴尔（Dell）公司的一套虚拟Unity存储环境。Dell Unity 5.5及之前版本存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36605",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-si/000350756/dsa-2025-281-security-update-for-dell-unity-dell-unityvsa-and-dell-unity-xt-security-update-for-multiple-vulnerabilities",
+    "patch": "Dell Unity跨站脚本漏洞（CNVD-2025-18244）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-11",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "e75c03924c77573df486553530c38833"
+}

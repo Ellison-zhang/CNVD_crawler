@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 01:33:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18251",
+    "spider_time": 1755048816327,
+    "name": "Dell EMC SCG Policy Manager信息泄露漏洞",
+    "cnvd": "CNVD-2025-18251",
+    "publish": "2025-08-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"DELL Dell EMC SCG Policy Manager 5.14\"]",
+    "cve": "CVE-2023-28043",
+    "description": "Dell EMC SCG Policy Manager是美国戴尔（Dell）公司的一种安全连接网关策略管理器。Dell EMC SCG Policy Manager 5.14版本存在信息泄露漏洞，该漏洞源于在SRS到SCG的升级路径中对于敏感信息保护不足，远程攻击者可利用该漏洞检索纯文本。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-28043",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000214205/dsa-2023-164-dell-secure-connect-gateway-security-update-for-multiple-vulnerabilities",
+    "patch": "Dell EMC SCG Policy Manager信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-06-06",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "05866e0bc295c6a00461e137bf494034"
+}
