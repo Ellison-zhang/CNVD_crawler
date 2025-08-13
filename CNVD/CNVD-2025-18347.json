@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 10:05:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18347",
+    "spider_time": 1755079537270,
+    "name": "Tenda AX12缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18347",
+    "publish": "2025-08-12",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:P/I:P/A:C",
+    "product": "[\"Tenda AX12 V22.03.01.46\", \"Tenda AX12 1.0\"]",
+    "cve": "CVE-2024-40412",
+    "description": "Tenda AX12是一款专为家庭用户设计的双频千兆Wi-Fi 6无线路由器，支持双频并发传输，速率高达2976Mbps。Tenda AX12存在缓冲区溢出漏洞，该漏洞源于在sub_42E410函数的deviceList参数在处理不受信任的输入时出现边界错误。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://static.tenda.com.cn/tdcweb/download/uploadfile/AX12/V22.03.01.46.zip",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-19",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "cf25c0fe0dce9cb2430c22b9763cb7d9"
+}

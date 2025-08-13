@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 10:05:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18354",
+    "spider_time": 1755079555270,
+    "name": "Tenda AX12 /goform/setMacFilterCfg接口deviceList参数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18354",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda AX12 V22.03.01.46\"]",
+    "cve": "CVE-2023-49425",
+    "description": "Tenda AX12是一款专为家庭用户设计的双频千兆Wi-Fi 6无线路由器，支持双频并发传输，速率高达2976Mbps。Tenda AX12存在缓冲区溢出漏洞，该漏洞源于/goform/setMacFilterCfg处的deviceList参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/ef4tless/vuln/blob/master/iot/AX12/setMacFilterCfg.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-12-11",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "eb72b296e8fdefb7206e4c459c643385"
+}
