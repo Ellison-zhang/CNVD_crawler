@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-13 20:05:14",
+    "parse_time": "2025-08-13 21:07:01",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18355",
-    "spider_time": 1755115514807,
+    "spider_time": 1755119221536,
     "name": "Tenda AX12 /goform/SetStaticRouteCfg接口list参数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-18355",
     "publish": "2025-08-12",

@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-13 20:05:11",
+    "parse_time": "2025-08-13 21:06:55",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18354",
-    "spider_time": 1755115511398,
+    "spider_time": 1755119215459,
     "name": "Tenda AX12 /goform/setMacFilterCfg接口deviceList参数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-18354",
     "publish": "2025-08-12",
