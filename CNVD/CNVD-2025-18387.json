@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-14 02:35:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18387",
+    "spider_time": 1755138956056,
+    "name": "Ivanti Endpoint Manager越界读取漏洞",
+    "cnvd": "CNVD-2025-18387",
+    "publish": "2025-08-13",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Ivanti Ivanti Endpoint Manager <2024 November Security Update\", \"Ivanti Ivanti Endpoint Manager <2022 SU6 November Security Update\"]",
+    "cve": "CVE-2024-13169",
+    "description": "Ivanti Endpoint Manager是Ivanti公司开发的一款综合性端点管理解决方案，主要用于管理企业网络中的所有端点设备。Ivanti Endpoint Manager存在越界读取漏洞，攻击者可利用该漏洞提升其权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-13169",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://forums.ivanti.com/s/article/Security-Advisory-EPM-January-2025-for-EPM-2024-and-EPM-2022-SU6",
+    "patch": "Ivanti Endpoint Manager越界读取漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-23",
+    "open_time": "2025-08-14",
+    "update_time": "2025-08-14",
+    "data_summary": "e9045178a0c25501b6dd98961578fd1b"
+}

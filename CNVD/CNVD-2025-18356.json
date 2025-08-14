@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-14 01:34:25",
+    "parse_time": "2025-08-14 02:37:21",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18356",
-    "spider_time": 1755135265097,
+    "spider_time": 1755139041891,
     "name": "Tenda AX12 /goform/SetVirtualServerCfg接口list参数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-18356",
     "publish": "2025-08-12",
