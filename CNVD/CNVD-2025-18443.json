@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-14 22:03:35",
+    "parse_time": "2025-08-14 23:03:47",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18443",
-    "spider_time": 1755209015334,
+    "spider_time": 1755212627955,
     "name": "Ubiquiti UniFi Protect Cameras堆缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-18443",
     "publish": "2025-08-13",
