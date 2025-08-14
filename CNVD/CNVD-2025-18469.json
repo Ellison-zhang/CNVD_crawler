@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-14 07:05:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18469",
+    "spider_time": 1755155111520,
+    "name": "统信软件技术有限公司统信UOS浏览器存在二进制漏洞（CNVD-2025-18469）",
+    "cnvd": "CNVD-2025-18469",
+    "publish": "2025-08-14",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"\\u7edf\\u4fe1\\u8f6f\\u4ef6\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 \\u7edf\\u4fe1UOS\\u6d4f\\u89c8\\u5668 UOS web browser7.3.1010.56\"]",
+    "cve": null,
+    "description": "统信软件技术有限公司是一家专注于操作系统的研发与服务的企业。统信软件技术有限公司统信UOS浏览器存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.chinauos.com",
+    "patch": "统信软件技术有限公司统信UOS浏览器存在二进制漏洞（CNVD-2025-18469）的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-06-30",
+    "open_time": "2025-08-14",
+    "update_time": "2025-08-14",
+    "data_summary": "9ee4aab6dad1fedfc5088191d5ce8648"
+}
