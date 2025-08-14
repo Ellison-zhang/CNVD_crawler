@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-14 03:37:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18443",
+    "spider_time": 1755142631231,
+    "name": "Ubiquiti UniFi Protect Cameras堆缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18443",
+    "publish": "2025-08-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Ubiquiti Ubiquiti UniFi Protect Cameras <=4.75.43\"]",
+    "cve": "CVE-2025-23123",
+    "description": "Ubiquiti UniFi Protect Cameras是Ubiquiti Networks推出的安防摄像头系列，支持UniFi Protect平台进行集中管理，具备远程访问、智能监控等功能。Ubiquiti UniFi Protect Cameras存在堆缓冲区溢出漏洞，该漏洞源于应用在处理不受信任的输入时出现边界错误，攻击者可利用该漏洞导致远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://community.ui.com/releases/Security-Advisory-Bulletin-047-047/cef86c37-7421-44fd-b251-84e76475a5bc",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://community.ui.com/releases/UniFi-Protect-Cameras-4-75-62/cef0d1cc-6af6-4a5f-9a36-c291977e4e96",
+    "patch": "Ubiquiti UniFi Protect Cameras堆缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-22",
+    "open_time": "2025-08-14",
+    "update_time": "2025-08-14",
+    "data_summary": "a13e88d5eadf622d0c2d5f7da770f741"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-14 03:37:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18446",
+    "spider_time": 1755142648501,
+    "name": "Ubiquiti UniFi Protect Application身份认证绕过漏洞",
+    "cnvd": "CNVD-2025-18446",
+    "publish": "2025-08-13",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Ubiquiti UniFi Protect Application <=5.2.46\"]",
+    "cve": "CVE-2025-23116",
+    "description": "Ubiquiti UniFi Protect Application是企业级安全监控平台，支持家庭和企业用户使用。Ubiquiti UniFi Protect Application存在身份认证绕过漏洞洞，攻击者可利用该漏洞控制UniFiProtect摄像头。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://community.ui.com/releases/Security-Advisory-Bulletin-046-046/9649ea8f-93db-4713-a875-c3fd7614943f",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://community.ui.com/releases/UniFi-Protect-Application-5-2-49/b82c8c43-3bd0-474f-8ce9-c05b6c921857",
+    "patch": "Ubiquiti UniFi Protect Application身份认证绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-08-14",
+    "update_time": "2025-08-14",
+    "data_summary": "58a3e5c9014c79650fb73ac8141d75c3"
+}

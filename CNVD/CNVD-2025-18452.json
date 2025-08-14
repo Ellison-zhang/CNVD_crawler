@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-14 03:36:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18452",
+    "spider_time": 1755142576642,
+    "name": "Apple macOS访问控制错误漏洞（CNVD-2025-18452）",
+    "cnvd": "CNVD-2025-18452",
+    "publish": "2025-08-14",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Apple macOS Sequoia <15.6\", \"Apple macOS Sonoma <14.7.7\", \"Apple macOS Ventura <13.7.7\"]",
+    "cve": "CVE-2025-43241",
+    "description": "Apple macOS是美国苹果（Apple）公司的一套专为Mac计算机所开发的专用操作系统。Apple macOS存在访问控制错误漏洞，攻击者可利用该漏洞读取沙盒外文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://support.apple.com/en-us/124149",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.apple.com/en-us/124149",
+    "patch": "Apple macOS访问控制错误漏洞（CNVD-2025-18452）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-01",
+    "open_time": "2025-08-14",
+    "update_time": "2025-08-14",
+    "data_summary": "fcdb3e27eed96aafa6b70a8cb4d7c9b8"
+}

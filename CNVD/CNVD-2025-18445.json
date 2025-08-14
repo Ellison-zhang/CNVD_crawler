@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-14 03:37:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18445",
+    "spider_time": 1755142641766,
+    "name": "Ubiquiti UniFi Protect Cameras释放后重用漏洞",
+    "cnvd": "CNVD-2025-18445",
+    "publish": "2025-08-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Ubiquiti Ubiquiti UniFi Protect Cameras <=4.74.88\"]",
+    "cve": "CVE-2025-23115",
+    "description": "Ubiquiti UniFi Protect Cameras是Ubiquiti Networks推出的安防摄像头系列，支持UniFi Protect平台进行集中管理，具备远程访问、智能监控等功能。\\Ubiquiti UniFi Protect Cameras存在释放后重用漏洞，攻击者可利用该漏洞在能够访问UniFi Protect摄像头管理网络的情况下远程执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://community.ui.com/releases/Security-Advisory-Bulletin-046-046/9649ea8f-93db-4713-a875-c3fd7614943f",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://community.ui.com/releases/UniFi-Protect-Cameras-4-74-106/d9250ccb-fae2-4286-b0ed-4404a6c6bcb6",
+    "patch": "Ubiquiti UniFi Protect Cameras释放后重用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-08-14",
+    "update_time": "2025-08-14",
+    "data_summary": "929955437cc503d537e2f34f2a8d5774"
+}

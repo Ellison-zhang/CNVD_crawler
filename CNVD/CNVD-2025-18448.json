@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-14 03:37:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18448",
+    "spider_time": 1755142656304,
+    "name": "Ubiquiti UniFi Protect Cameras证书验证不当漏洞",
+    "cnvd": "CNVD-2025-18448",
+    "publish": "2025-08-13",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:H/Au:M/C:C/I:C/A:C",
+    "product": "[\"Ubiquiti Ubiquiti UniFi Protect Cameras <=4.74.88\"]",
+    "cve": "CVE-2025-23118",
+    "description": "Ubiquiti UniFi Protect Cameras是Ubiquiti Networks推出的安防摄像头系列，支持UniFi Protect平台进行集中管理，具备远程访问、智能监控等功能。Ubiquiti UniFi Protect Cameras存在证书验证不当漏洞，该漏洞源于对证书验证过程中的错误处理。攻击者可利用该漏洞对摄像头系统进行未经授权的更改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://community.ui.com/releases/Security-Advisory-Bulletin-046-046/9649ea8f-93db-4713-a875-c3fd7614943f",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://community.ui.com/releases/UniFi-Protect-Cameras-4-74-106/d9250ccb-fae2-4286-b0ed-4404a6c6bcb6",
+    "patch": "Ubiquiti UniFi Protect Cameras证书验证不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-08-14",
+    "update_time": "2025-08-14",
+    "data_summary": "e24839f28d731f715fe5a29f3e58bf08"
+}

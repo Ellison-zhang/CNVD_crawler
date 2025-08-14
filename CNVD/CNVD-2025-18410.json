@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-14 03:31:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18410",
+    "spider_time": 1755142260330,
+    "name": "Apple macOS Sequoia存在未明漏洞（CNVD-2025-18410）",
+    "cnvd": "CNVD-2025-18410",
+    "publish": "2025-08-14",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"Apple macOS Sequoia <15.6\"]",
+    "cve": "CVE-2025-31275",
+    "description": "Apple macOS Sequoia是美国苹果（Apple）公司的一款操作系统。Apple macOS Sequoia存在安全漏洞，攻击者可利用该漏洞导致沙箱进程启动任意应用。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://support.apple.com/en-us/124149",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.apple.com/en-us/124149",
+    "patch": "Apple macOS Sequoia存在未明漏洞（CNVD-2025-18410）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-01",
+    "open_time": "2025-08-14",
+    "update_time": "2025-08-14",
+    "data_summary": "418bfcbbf0ea18206d62a1ff18c35744"
+}

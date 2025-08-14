@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-14 03:37:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18441",
+    "spider_time": 1755142625096,
+    "name": "Ubiquiti UniFi Protect Application存在未明漏洞",
+    "cnvd": "CNVD-2025-18441",
+    "publish": "2025-08-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:M/C:C/I:N/A:N",
+    "product": "[\"Ubiquiti UniFi Protect Application <=5.3.41\"]",
+    "cve": "CVE-2025-23164",
+    "description": "Ubiquiti UniFi Protect Application是企业级安全监控平台，支持家庭和企业用户使用。Ubiquiti UniFi Protect Application存在安全漏洞，该漏洞源于访问令牌机制配置不当，攻击者可利用该漏洞导致持续访问直播流。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://community.ui.com/releases/Security-Advisory-Bulletin-047-047/cef86c37-7421-44fd-b251-84e76475a5bc",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://community.ui.com/releases/UniFi-Protect-Application-5-3-45/aae6b811-ee8d-47ea-8de9-895fb3d6d3bd",
+    "patch": "Ubiquiti UniFi Protect Application存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-22",
+    "open_time": "2025-08-14",
+    "update_time": "2025-08-14",
+    "data_summary": "14e20f1dd32e9950d5f5d33a601f3549"
+}
