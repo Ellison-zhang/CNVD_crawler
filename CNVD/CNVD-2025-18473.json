@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-14 08:05:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18473",
+    "spider_time": 1755158706791,
+    "name": "D-Link DNS-320 /cgi-bin/discovery.cgi文件信息泄露漏洞",
+    "cnvd": "CNVD-2025-18473",
+    "publish": "2025-08-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"D-Link DNS-320 2.02b01\"]",
+    "cve": "CVE-2024-8461",
+    "description": "D-Link DNS-320是友讯推出的双盘位网络存储设备（NAS），面向家庭及小型办公场景设计，支持最大4TB存储容量。D-Link DNS-320存在信息泄露漏洞，该漏洞源于文件/cgi-bin/discovery.cgi对于敏感信息保护不足，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.276627",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-09-11",
+    "open_time": "2025-08-14",
+    "update_time": "2025-08-14",
+    "data_summary": "4f6b40d7fc18fd3e0eaed7368bd45fab"
+}

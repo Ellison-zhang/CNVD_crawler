@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-14 08:05:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18476",
+    "spider_time": 1755158722232,
+    "name": "D-Link DI_8004W upgrade_filter_asp函数命令执行漏洞",
+    "cnvd": "CNVD-2025-18476",
+    "publish": "2025-08-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DI_8004W 16.07.26A1\"]",
+    "cve": "CVE-2024-44382",
+    "description": "D-Link DI_8004W是友讯（D-Link）推出的一款专为中小型企业设计的上网行为管理路由器，支持40-50台设备同时接入网络。D-Link DI_8004W存在命令执行漏洞，该漏洞源于jhttpd upgrade_filter_asp函数未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dlink.com/en/security-bulletin/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-29",
+    "open_time": "2025-08-14",
+    "update_time": "2025-08-14",
+    "data_summary": "3fa1efb37dcd8066f3b25e0366023635"
+}

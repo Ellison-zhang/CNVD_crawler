@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-14 08:05:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18472",
+    "spider_time": 1755158700865,
+    "name": "Microsoft GitHub Copilot远程代码执行漏洞",
+    "cnvd": "CNVD-2025-18472",
+    "publish": "2025-08-14",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft GitHub Copilot for Visual Studio Code\", \"Microsoft GitHub Copilot for Business\", \"Microsoft GitHub Copilot for Visual Studio\"]",
+    "cve": "CVE-2025-53773",
+    "description": "GitHub Copilot是微软开发的AI驱动代码助手，广泛应用于Visual Studio Code、Visual Studio等开发环境中，为全球数百万开发者提供智能代码补全和生成服务。Microsoft GitHub Copilot存在远程代码执行漏洞，该漏洞源于通过提示注入技术，诱导AI助手修改项目配置文件（如settings.json），将Copilot置于\"YOLO模式\"，从而绕过安全限制执行任意代码，攻击者可利用该漏洞通过在代码库中植入不可见字符或恶意指令，当开发者使用Copilot时触发代码执行，实现对开发者机器的完全控制，导致权限提升和远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-53773",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-53773",
+    "patch": "Microsoft GitHub Copilot远程代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-14",
+    "open_time": "2025-08-14",
+    "update_time": "2025-08-14",
+    "data_summary": "3dc04e6cf8de1d445c77f8f5af79087a"
+}
