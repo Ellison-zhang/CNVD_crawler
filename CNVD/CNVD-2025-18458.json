@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-14 04:10:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18458",
+    "spider_time": 1755144604230,
+    "name": "Apple macOS存在未明漏洞（CNVD-2025-18458）",
+    "cnvd": "CNVD-2025-18458",
+    "publish": "2025-08-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apple macOS Sequoia <15.6\", \"Apple macOS Sonoma <14.7.7\", \"Apple macOS Ventura <13.7.7\"]",
+    "cve": "CVE-2025-43193",
+    "description": "Apple macOS是美国苹果（Apple）公司的一套专为Mac计算机所开发的专用操作系统。Apple macOS存在安全漏洞，该漏洞源于内存处理不当，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://support.apple.com/en-us/124149",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.apple.com/en-us/124149",
+    "patch": "Apple macOS存在未明漏洞（CNVD-2025-18458）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-01",
+    "open_time": "2025-08-14",
+    "update_time": "2025-08-14",
+    "data_summary": "43297fb74738685e3c4460ce0f5e7203"
+}
