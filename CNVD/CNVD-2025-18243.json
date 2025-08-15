@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-15 04:11:01",
+    "parse_time": "2025-08-15 05:05:25",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18243",
-    "spider_time": 1755231061621,
+    "spider_time": 1755234325405,
     "name": "Dell Unity svc_nfssupport实用程序操作系统命令注入漏洞",
     "cnvd": "CNVD-2025-18243",
     "publish": "2025-08-12",
