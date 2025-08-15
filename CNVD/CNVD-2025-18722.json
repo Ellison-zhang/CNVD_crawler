@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 11:03:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18722",
+    "spider_time": 1755255824470,
+    "name": "WordPress WP Private Content Plus plugin信息泄露漏洞",
+    "cnvd": "CNVD-2025-18722",
+    "publish": "2025-08-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"WordPress WP Private Content Plus plugin <=3.6.2\"]",
+    "cve": "CVE-2025-4390",
+    "description": "WordPress WP Private Content Plus plugin是一款WordPress插件，主要用于对网站内容进行权限控制，支持对文章、页面、自定义内容类型、导航菜单、插件和附件的访问限制。WordPress WP Private Content Plus plugin存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/wp-private-content-plus/trunk/classes/class-wppcp-private-posts-pages.php#L138",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "fa4b7d54fbfdd494f9146b48b770c920"
+}

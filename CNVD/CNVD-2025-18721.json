@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 11:03:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18721",
+    "spider_time": 1755255821052,
+    "name": "WordPress Wp chart generator plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-18721",
+    "publish": "2025-08-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Wp chart generator plugin <=1.0.4\"]",
+    "cve": "CVE-2025-8685",
+    "description": "WordPress Wp chart generator plugin是一款用于在WordPress博客中生成图表的插件，用户可通过后台管理界面创建多个图表，并使用生成的短码将其嵌入文章或页面。WordPress Wp chart generator plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.svn.wordpress.org/wp-chart-generator/trunk/wp-chart.php",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "edc1b43a7bad303e201de47f7501855c"
+}
