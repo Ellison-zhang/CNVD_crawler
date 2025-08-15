@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-15 17:03:35",
+    "parse_time": "2025-08-15 18:05:04",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18634",
-    "spider_time": 1755277415476,
+    "spider_time": 1755281104285,
     "name": "wvp GB28181-pro存在SQL注入漏洞",
     "cnvd": "CNVD-2025-18634",
     "publish": "2025-08-16",
