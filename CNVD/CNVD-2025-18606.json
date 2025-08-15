@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 08:05:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18606",
+    "spider_time": 1755245124509,
+    "name": "OpenBao存在未明漏洞（CNVD-2025-18606）",
+    "cnvd": "CNVD-2025-18606",
+    "publish": "2025-08-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"openbao openbao <=2.3.1\"]",
+    "cve": "CVE-2025-55003",
+    "description": "OpenBao是OpenBao开源的一个敏感数据管理软件。OpenBao 2.3.1及之前版本存在安全漏洞，攻击者可利用该漏洞导致绕过内部速率限制和重用现有MFA代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://discuss.hashicorp.com/t/hcsec-2025-19-vault-login-mfa-bypass-of-rate-limiting-and-totp-token-reuse/76038",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/openbao/openbao/releases",
+    "patch": "OpenBao存在未明漏洞（CNVD-2025-18606）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "59182718a2da234ea2056099ed56e829"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 08:07:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18604",
+    "spider_time": 1755245246189,
+    "name": "Tenable Network Security Nessus权限提升漏洞",
+    "cnvd": "CNVD-2025-18604",
+    "publish": "2025-08-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenable Network Security Nessus <10.8.4\"]",
+    "cve": "CVE-2025-24914",
+    "description": "Tenable Network Security Nessus是由Tenable Network Security公司开发的一款网络漏洞扫描工具，主要用于检测操作系统、网络设备、应用程序中的安全漏洞和配置错误。Tenable Network Security Nessus存在权限提升漏洞，该漏洞源于非默认安装目录权限设置不当，攻击者可利用该漏洞导致本地权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.tenable.com/security/tns-2025-05",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenable.com/downloads/nessus?loginAttempted=true",
+    "patch": "Tenable Network Security Nessus权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-30",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "b67a7a14f6d6cd28b72b02896f454d38"
+}

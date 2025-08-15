@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 08:05:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18642",
+    "spider_time": 1755245146854,
+    "name": "OpenBao输入验证错误漏洞",
+    "cnvd": "CNVD-2025-18642",
+    "publish": "2025-08-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"openbao openbao <2.3.0\"]",
+    "cve": "CVE-2025-52894",
+    "description": "OpenBao是OpenBao开源的一个敏感数据管理软件。OpenBao存在输入验证错误漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/openbao/openbao/commit/fe75468822a22a88318c6079425357a02ae5b77b",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/openbao/openbao/releases",
+    "patch": "OpenBao输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "bc176ad3d4f53e70ea59dcbdc7f4c171"
+}
