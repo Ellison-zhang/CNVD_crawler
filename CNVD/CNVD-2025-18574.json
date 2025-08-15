@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 07:06:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18574",
+    "spider_time": 1755241561784,
+    "name": "Open5GS缓冲区溢出漏洞（CNVD-2025-18574）",
+    "cnvd": "CNVD-2025-18574",
+    "publish": "2025-08-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Open5GS Open5GS <=2.7.2\"]",
+    "cve": "CVE-2025-44952",
+    "description": "Open5GS是Open5GS开源的一个5G Core和Epc的C语言开源实现，即Lte/Nr网络的核心网络。Open5GS存在缓冲区溢出漏洞，该漏洞是由于pfcp库中的`ogs_pfcp_subnet_add`函数进行了不正确的边界检查造成的。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://gist.github.com/scemodicecosa/8643fbfc9490f40e955e9f9e9b0d9077",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/open5gs/open5gs/releases",
+    "patch": "Open5GS缓冲区溢出漏洞（CNVD-2025-18574）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-23",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "ef2ea545e848e0f6441c4ac4c906944a"
+}

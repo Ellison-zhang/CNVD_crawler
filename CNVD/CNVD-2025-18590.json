@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 07:05:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18590",
+    "spider_time": 1755241513599,
+    "name": "IBM WebSphere Application Server Liberty资源管理错误漏洞",
+    "cnvd": "CNVD-2025-18590",
+    "publish": "2025-08-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"IBM WebSphere Application Server >=18.0.0.2\\uff0c<=25.0.0.8\"]",
+    "cve": "CVE-2025-36047",
+    "description": "IBM WebSphere Application Server Liberty是IBM公司的一款轻量级Java应用服务器，用于快速开发和部署云原生应用。IBM WebSphere Application Server Liberty 18.0.0.2至25.0.0.8版本存在拒绝服务漏洞，该漏洞源于服务器未能正确处理特制请求。攻击者可利用该漏洞通过发送恶意构造的请求，导致服务器内存资源耗尽。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36047",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.ibm.com/support/pages/node/7242086",
+    "patch": "IBM WebSphere Application Server Liberty资源管理错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "b59e3ba7fda80f999244bad273943df5"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 07:08:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18555",
+    "spider_time": 1755241701764,
+    "name": "D-Link DI-500WF缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18555",
+    "publish": "2025-08-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link D-Link DI-500WF 17.04.10A1T\"]",
+    "cve": "CVE-2025-7194",
+    "description": "D-Link DI-500WF是一款面板式无线AP（接入点），采用国际无线标准设计，支持2.4GHz频段，无线传输速度可达300Mbps，符合绿色环保理念。D-Link DI-500WF存在缓冲区溢出漏洞。该漏洞源于jhttpd组件ip_position.asp文件中的sprintf函数未对输入参数进行有效验证。攻击者可利用该漏洞执行远程代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7194",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-14",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "98510a8c1ab6004747610b8845f3301e"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 07:07:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18583",
+    "spider_time": 1755241641334,
+    "name": "Open5GS拒绝服务漏洞（CNVD-2025-18583）",
+    "cnvd": "CNVD-2025-18583",
+    "publish": "2025-08-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Open5GS Open5GS <2.7.1\"]",
+    "cve": "CVE-2024-34476",
+    "description": "Open5GS是一个5G Core和Epc的C语言开源实现，即Lte/Nr网络的核心网络。Open5GS存在拒绝服务漏洞，攻击者可利用该漏洞导致AMF崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-34476",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/open5gs/open5gs/pull/3122",
+    "patch": "Open5GS拒绝服务漏洞（CNVD-2025-18583）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-14",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "0e664426927db82d1158b20d00a35105"
+}

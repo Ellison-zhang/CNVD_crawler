@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 07:07:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18581",
+    "spider_time": 1755241630319,
+    "name": "Open5GS代码执行漏洞",
+    "cnvd": "CNVD-2025-18581",
+    "publish": "2025-08-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Open5GS Open5GS <=2.6.4\"]",
+    "cve": "CVE-2023-37008",
+    "description": "Open5GS是Open5GS开源的一个5G Core和Epc的C语言开源实现，即Lte/Nr网络的核心网络。Open5GS存在代码执行漏洞，攻击者可利用该漏洞导致无效解析和内存释放。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-37008",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://open5gs.org/",
+    "patch": "Open5GS代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-08",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "b8946c6f6d4730bc86548800499e749c"
+}

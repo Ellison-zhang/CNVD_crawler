@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 07:08:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18560",
+    "spider_time": 1755241728397,
+    "name": "D-Link DIR-853 Password参数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18560",
+    "publish": "2025-08-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-853 A1 FW1.20B07\"]",
+    "cve": "CVE-2025-25745",
+    "description": "D-Link DIR-853是一款双频无线路由器，支持802.11ac协议，提供2.4GHz（最高400Mbps）和5GHz（最高867Mbps）双频段网络连接，适用于高清视频流和在线游戏。D-Link DIR-853存在缓冲区溢出漏洞，该漏洞源于SetQuickVPNSettings模块中的Password参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://dear-sunshine-ba5.notion.site/D-Link-DIR-853-2-1812386a664480ea82a7f8321d967187",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "e7158aec3051b342536eb03ed16bd1f7"
+}

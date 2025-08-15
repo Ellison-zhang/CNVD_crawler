@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 07:08:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18552",
+    "spider_time": 1755241684868,
+    "name": "Tenable Agent权限提升漏洞",
+    "cnvd": "CNVD-2025-18552",
+    "publish": "2025-08-14",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenable Agent <10.8.5\"]",
+    "cve": "CVE-2025-36633",
+    "description": "Tenable Agent是美国Tenable公司的一个漏洞扫描程序。Tenable Agent存在权限提升漏洞，该漏洞源于非管理员用户以SYSTEM权限删除任意本地系统文件，攻击者可利用该漏洞通过权限提升，篡改系统配置，植入恶意软件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36633",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenable.com/downloads/nessus-agents?loginAttempted=true",
+    "patch": "Tenable Agent权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-15",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "4eea158a743db659aa78d3d8b34192d6"
+}

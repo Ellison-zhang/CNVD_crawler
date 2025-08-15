@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 07:08:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18556",
+    "spider_time": 1755241705077,
+    "name": "D-Link DIR-823-Pro权限控制不当漏洞",
+    "cnvd": "CNVD-2025-18556",
+    "publish": "2025-08-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"D-Link DIR-823-Pro 1.02\"]",
+    "cve": "CVE-2025-45729",
+    "description": "D-Link DIR-823-Pro是一款双频智能无线路由器，采用四天线设计，支持802.11ac千兆Wi-Fi技术，无线速率可达1200Mbps，可满足高清视频播放、在线游戏等高带宽需求。D-Link DIR-823-Pro存在权限控制不当漏洞，攻击者可利用该漏洞导致Telnet服务未授权访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.kdev.site/2025/04/02/d-link-823_pro-unauthorized-telnet-access/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-07",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "e51061ff5c1f6a92430fbd3648745d58"
+}

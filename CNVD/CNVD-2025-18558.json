@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 07:08:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18558",
+    "spider_time": 1755241717578,
+    "name": "友讯科技DIR-825 sub_4091AC函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18558",
+    "publish": "2025-08-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u53cb\\u8baf\\u79d1\\u6280 DIR-825 2.03\"]",
+    "cve": "CVE-2025-6292",
+    "description": "友讯科技DIR-825是友讯（D-Link）公司推出的双频无线路由器，主要面向中小企业及SOHO环境。友讯科技 DIR-825存在缓冲区溢出漏洞，该漏洞源于HTTP POST Request Handler组件中函数sub_4091AC未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/xiaobor123/vul-finds/tree/main/vul-find-dir825-dlink-sub_4091AC",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "3d8872f566a41a36da41aa1df0b04b6a"
+}

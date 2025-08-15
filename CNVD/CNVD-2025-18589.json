@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 07:07:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18589",
+    "spider_time": 1755241671048,
+    "name": "Open5GS拒绝服务漏洞（CNVD-2025-18589）",
+    "cnvd": "CNVD-2025-18589",
+    "publish": "2025-08-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Open5GS Open5GS <=2.4.10\"]",
+    "cve": "CVE-2022-40890",
+    "description": "Open5GS是一个5G Core和Epc的C语言开源实现，即Lte/Nr网络的核心网络。Open5GS存在拒绝服务漏洞，该漏洞源于 /src/amf/amf-context.c 中amf_gnb_find_by_addr函数只检测Ip地址未检测是否是不同端口的请求，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-40890",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://open5gs.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-10-08",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "a99a0d22ec485cbd156d24d6e5cc7e38"
+}
