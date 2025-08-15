@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 10:03:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18683",
+    "spider_time": 1755252228003,
+    "name": "WordPress Simple Local Avatars plugin存在未明漏洞",
+    "cnvd": "CNVD-2025-18683",
+    "publish": "2025-08-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"WordPress Simple Local Avatars plugin 2.8.4\"]",
+    "cve": "CVE-2025-8482",
+    "description": "WordPress Simple Local Avatars plugin是一款 WordPress 插件，主要用于允许用户上传和管理本地头像，替代默认的 Gravatar 服务。WordPress Simple Local Avatars plugin存在安全漏洞，该漏洞源于缺少能力检查，攻击者可利用该漏洞导致未经授权的数据修改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/simple-local-avatars/tags/2.8.4/includes/class-simple-local-avatars.php#L123",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/simple-local-avatars/",
+    "patch": "WordPress Simple Local Avatars plugin存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "99193135c79f1b4d8234e228e64a508a"
+}
