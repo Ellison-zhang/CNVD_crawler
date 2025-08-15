@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-15 16:07:16",
+    "parse_time": "2025-08-15 17:03:32",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18628",
-    "spider_time": 1755274036714,
+    "spider_time": 1755277412027,
     "name": "DirCMS存在SQL注入漏洞",
     "cnvd": "CNVD-2025-18628",
     "publish": "2025-08-16",
