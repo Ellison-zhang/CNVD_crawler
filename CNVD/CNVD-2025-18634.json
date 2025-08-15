@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 16:07:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18634",
+    "spider_time": 1755274041774,
+    "name": "wvp GB28181-pro存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-18634",
+    "publish": "2025-08-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"wvp wvp GB28181-pro\"]",
+    "cve": null,
+    "description": "wvp是一个基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。wvp GB28181-pro存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://doc.wvp-pro.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-07-02",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "9e285a5f74fddadbbc4adab544889189"
+}

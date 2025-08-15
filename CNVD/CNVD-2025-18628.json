@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 16:07:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18628",
+    "spider_time": 1755274036714,
+    "name": "DirCMS存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-18628",
+    "publish": "2025-08-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"DirCMS DirCMS\"]",
+    "cve": null,
+    "description": "DirCMS是国内自主研发的一款由PHP+Mysql架构的内容管理系统。DirCMS存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://gitee.com/greenlaw/dircms6",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-07-02",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "9b6bf925d1498ce14c5484562151b01f"
+}
