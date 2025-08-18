@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-18 03:32:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18734",
+    "spider_time": 1755487967498,
+    "name": "三未信安科技股份有限公司特权账号和运维审计系统存在任意文件读取漏洞",
+    "cnvd": "CNVD-2025-18734",
+    "publish": "2025-08-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u4e09\\u672a\\u4fe1\\u5b89\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u7279\\u6743\\u8d26\\u53f7\\u548c\\u8fd0\\u7ef4\\u5ba1\\u8ba1\\u7cfb\\u7edf <=v1.0-19199\"]",
+    "cve": null,
+    "description": "特权账号与运维审计系统聚焦高权限账户的全生命周期管理及操作行为监控。产品通过集中管控特权账号，实施动态改密、最小化授权等机制，防范越权访问风险。三未信安科技股份有限公司特权账号和运维审计系统存在任意文件读取漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.sansec.com.cn/",
+    "patch": "三未信安科技股份有限公司特权账号和运维审计系统存在任意文件读取漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-07-02",
+    "open_time": "2025-08-18",
+    "update_time": "2025-08-18",
+    "data_summary": "abbd8645944e4ca2d0616f28dfaabb12"
+}
