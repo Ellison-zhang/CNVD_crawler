@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-19 02:33:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18817",
+    "spider_time": 1755570785388,
+    "name": "Microsoft Word代码执行漏洞（CNVD-2025-18817）",
+    "cnvd": "CNVD-2025-18817",
+    "publish": "2025-08-18",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Word 2016\", \"Microsoft Office 2019\", \"Microsoft 365 Apps for Enterprise\", \"Microsoft Office LTSC 2021\", \"Microsoft Office LTSC for Mac 2021\", \"Microsoft Office 2019\", \"Microsoft Microsoft Office LTSC 2024\", \"Microsoft Office LTSC for Mac 2024\"]",
+    "cve": "CVE-2025-53738",
+    "description": "Microsoft Word是美国微软（Microsoft）公司的一套Office套件中的文字处理软件。Microsoft Word存在代码执行漏洞，该漏洞是由于打开特制文件时出现释放后使用错误造成的。攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-53738",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-53738",
+    "patch": "Microsoft Word代码执行漏洞（CNVD-2025-18817）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-19",
+    "update_time": "2025-08-19",
+    "data_summary": "5628bcae3b1ab99fb2bfc96307891a55"
+}

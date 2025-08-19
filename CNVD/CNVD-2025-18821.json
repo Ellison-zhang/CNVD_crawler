@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-19 02:33:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18821",
+    "spider_time": 1755570805111,
+    "name": "Microsoft Excel代码执行漏洞（CNVD-2025-18821）",
+    "cnvd": "CNVD-2025-18821",
+    "publish": "2025-08-18",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Excel 2016\", \"Microsoft Office Online Server\", \"Microsoft Office 2019\", \"Microsoft 365 Apps for Enterprise\", \"Microsoft Office LTSC for Mac 2021\", \"Microsoft Office 2019\", \"Microsoft Microsoft Office LTSC 2024\", \"Microsoft Office LTSC for Mac 2024\"]",
+    "cve": "CVE-2025-53739",
+    "description": "Microsoft Excel是美国微软（Microsoft）公司的一款Office套件中的电子表格处理软件。Microsoft Excel存在代码执行漏洞，该漏洞是由于打开特制文件时发生类型混淆错误造成的。攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-53739",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-53739",
+    "patch": "Microsoft Excel代码执行漏洞（CNVD-2025-18821）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-19",
+    "update_time": "2025-08-19",
+    "data_summary": "af2935ec9dfa1d557ae9647f7cabeb1f"
+}

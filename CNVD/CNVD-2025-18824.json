@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-19 02:35:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18824",
+    "spider_time": 1755570916796,
+    "name": "Microsoft SharePoint远程代码执行漏洞（CNVD-2025-18824）",
+    "cnvd": "CNVD-2025-18824",
+    "publish": "2025-08-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft SharePoint Enterprise Server 2016\", \"Microsoft SharePoint Server 2019\"]",
+    "cve": "CVE-2025-49712",
+    "description": "Microsoft SharePoint是美国微软（Microsoft）公司的一套企业业务协作平台。该平台用于对业务信息进行整合，并能够共享工作、与他人协同工作、组织项目和工作组、搜索人员和信息。Microsoft SharePoint存在远程代码执行漏洞，该漏洞是由于不可信数据的反序列化引起的。攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49712",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49712",
+    "patch": "Microsoft SharePoint远程代码执行漏洞（CNVD-2025-18824）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-19",
+    "update_time": "2025-08-19",
+    "data_summary": "66f125f01e742010502ecf1f04f0cdec"
+}
