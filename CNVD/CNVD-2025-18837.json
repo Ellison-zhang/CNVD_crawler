@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-19 11:03:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18837",
+    "spider_time": 1755601417147,
+    "name": "WordPress GMap Generator plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-18837",
+    "publish": "2025-08-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress GMap Generator plugin <=1.1\"]",
+    "cve": "CVE-2025-8568",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress GMap Generator plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.svn.wordpress.org/gmap-venturit/trunk/google-map.php",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-19",
+    "update_time": "2025-08-19",
+    "data_summary": "46bb5ec0af7b6f44a05105809111753a"
+}

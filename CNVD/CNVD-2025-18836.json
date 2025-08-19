@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-19 11:03:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18836",
+    "spider_time": 1755601414492,
+    "name": "WordPress GiveWP plugin信息泄露漏洞",
+    "cnvd": "CNVD-2025-18836",
+    "publish": "2025-08-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress WordPress GiveWP plugin <4.6.1\"]",
+    "cve": "CVE-2025-47444",
+    "description": "WordPress GiveWP plugin是一款开源的在线捐赠系统插件，主要用于帮助网站实现在线募捐功能，支持从简单按钮到复杂平台的多维度需求。WordPress GiveWP plugin存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/impress-org/givewp/issues/8042",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/give/",
+    "patch": "WordPress GiveWP plugin信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-19",
+    "update_time": "2025-08-19",
+    "data_summary": "bef1e27e80a079bc3696998836b83625"
+}

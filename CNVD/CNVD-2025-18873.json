@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-19 11:03:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18873",
+    "spider_time": 1755601435223,
+    "name": "WordPress CBX Restaurant Booking plugin跨站请求伪造攻击漏洞",
+    "cnvd": "CNVD-2025-18873",
+    "publish": "2025-08-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress CBX Restaurant Booking plugin <=1.2.1\"]",
+    "cve": "CVE-2025-7965",
+    "description": "WordPress CBX Restaurant Booking plugin是一款用于WordPress网站的餐饮预订插件，允许用户在线预订餐厅座位。该插件支持在线预订、即时确认、个性化通知等功能，可自动处理预订流程，减少人工干预。WordPress CBX Restaurant Booking plugin存在跨站请求伪造攻击漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wpscan.com/vulnerability/13e0db0b-87c5-4cf0-b0a6-178bdf96991b/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-19",
+    "update_time": "2025-08-19",
+    "data_summary": "8e543998e30daf8c18c27327db4e2a21"
+}
