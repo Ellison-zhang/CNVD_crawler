@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-20 10:05:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18926",
+    "spider_time": 1755684321937,
+    "name": "TOTOLINK A3700R命令注入漏洞",
+    "cnvd": "CNVD-2025-18926",
+    "publish": "2025-08-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK A3700R 9.1.2u.5822_B20200513\"]",
+    "cve": "CVE-2024-7160",
+    "description": "TOTOLINK A3700R是一款无线路由器，由中国台湾网络设备制造商TOTOLINK（中国吉翁电子）推出。TOTOLINK A3700R存在命令注入漏洞，漏洞位于/cgi-bin/cstecgi.cgi文件中，源于对hostName参数的处理不当。攻击者可利用该漏洞导致设备控制权获取，设备失效或被用于其他恶意活动等严重后果。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/TOTOLINK/A3700R/setWanCfg.md\nhttps://vuldb.com/?submit.377080\nhttps://vuldb.com/?ctiid.272574",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/newstpl/menu_newstpl/products/id/207.html",
+    "patch": "TOTOLINK A3700R命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-29",
+    "open_time": "2025-08-20",
+    "update_time": "2025-08-20",
+    "data_summary": "44e9055557582e89fb1098284f5c09c9"
+}

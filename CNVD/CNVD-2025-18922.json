@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-20 10:05:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18922",
+    "spider_time": 1755684303571,
+    "name": "Google Chrome跨站脚本漏洞（CNVD-2025-18922）",
+    "cnvd": "CNVD-2025-18922",
+    "publish": "2025-08-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Google Chrome <139.0.7258.66\"]",
+    "cve": "CVE-2025-8581",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome存在跨站脚本漏洞，该漏洞源于扩展实现不当。攻击者可利用该漏洞利用构建的HTML页面泄露跨域数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.google.com/chrome/",
+    "patch": "Google Chrome跨站脚本漏洞（CNVD-2025-18922）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-11",
+    "open_time": "2025-08-20",
+    "update_time": "2025-08-20",
+    "data_summary": "2cd21f1b08a7107851a5edb005fc2dc9"
+}

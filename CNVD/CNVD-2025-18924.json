@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-20 10:05:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18924",
+    "spider_time": 1755684309698,
+    "name": "TOTOLINK X6000R命令注入漏洞",
+    "cnvd": "CNVD-2025-18924",
+    "publish": "2025-08-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"TOTOLINK X6000R 9.4.0cu.1360_B20241207\"]",
+    "cve": "CVE-2025-52284",
+    "description": "TOTOLINK X6000R是中国吉翁电子（TOTOLINK）公司推出的一款支持WiFi 6技术的无线路由器，具备高并发连接和双频段传输功能。TOTOLINK X6000R存在命令注入漏洞，该漏洞源于未对tz参数进行严格过滤。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.notion.so/setNtpCfg-20e8aff2dc8b80a3afafef36b48f7496",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/247/ids/36.html",
+    "patch": "TOTOLINK X6000R命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-30",
+    "open_time": "2025-08-20",
+    "update_time": "2025-08-20",
+    "data_summary": "128c6042166bcfffb2ef35b93136859c"
+}
