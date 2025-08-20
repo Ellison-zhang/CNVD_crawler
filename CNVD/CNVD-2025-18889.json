@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-20 10:07:13",
+    "parse_time": "2025-08-20 11:06:48",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18889",
-    "spider_time": 1755684433984,
+    "spider_time": 1755688008358,
     "name": "D-Link G416 cfgsave缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-18889",
     "publish": "2025-08-18",
