@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-20 18:07:18",
+    "parse_time": "2025-08-20 19:05:24",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18888",
-    "spider_time": 1755713238471,
+    "spider_time": 1755716724086,
     "name": "D-Link G416 httpd API-AUTH缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-18888",
     "publish": "2025-08-18",
