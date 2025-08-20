@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-20 08:08:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18890",
+    "spider_time": 1755677336705,
+    "name": "D-Link G416 ovpncfg缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18890",
+    "publish": "2025-08-18",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link G416\"]",
+    "cve": "CVE-2023-50208",
+    "description": "D-Link G416是友讯公司于2025年6月推出的AX1500 4G+智能路由器 ，支持Wi-Fi 6、AI智能优化及4G LTE Cat 6网络，最高网速可达300Mbps。D-Link G416存在缓冲区溢出漏洞，该漏洞源于ovpncfg基于堆栈的缓冲区溢出远程代码执行漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-50208",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10367",
+    "patch": "D-Link G416 ovpncfg缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-13",
+    "open_time": "2025-08-20",
+    "update_time": "2025-08-20",
+    "data_summary": "4bbe3d520da50c0995e06871571d24b6"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-20 08:05:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18875",
+    "spider_time": 1755677114620,
+    "name": "WordPress Exclusive Addons For Elementor跨站脚本漏洞",
+    "cnvd": "CNVD-2025-18875",
+    "publish": "2025-08-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Exclusive Addons For Elementor <=2.7.9.4\"]",
+    "cve": "CVE-2025-7498",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品，WordPress plugin是一个应用插件。WordPress Exclusive Addons For Elementor存在跨站脚本漏洞，该漏洞源于输入清理和转义不足，攻击者可利用该漏洞通过注入恶意脚本，这些脚本将在用户访问注入的页面时执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7498",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/exclusive-addons-for-elementor/",
+    "patch": "WordPress Exclusive Addons For Elementor跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-12",
+    "open_time": "2025-08-20",
+    "update_time": "2025-08-20",
+    "data_summary": "15510087b9eb6eefb03d19a6dcf70833"
+}

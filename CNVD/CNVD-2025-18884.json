@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-20 08:04:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18884",
+    "spider_time": 1755677096439,
+    "name": "D-Link D-View代码执行漏洞",
+    "cnvd": "CNVD-2025-18884",
+    "publish": "2025-08-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link D-View\"]",
+    "cve": "CVE-2024-5298",
+    "description": "D-Link D-View是D-Link公司推出的网络管理系统，主要用于集中管理网络设备的性能、安全性和可靠性。D-Link D-View存在代码执行漏洞，攻击者可利用该漏洞在受影响的安装上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-24-449/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-27",
+    "open_time": "2025-08-20",
+    "update_time": "2025-08-20",
+    "data_summary": "5cc078d47b3e72dd633504c0c3e748f4"
+}

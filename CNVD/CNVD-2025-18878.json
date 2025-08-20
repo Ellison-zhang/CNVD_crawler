@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-20 08:05:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18878",
+    "spider_time": 1755677132106,
+    "name": "WordPress WP Import Export Lite plugin任意文件上传漏洞",
+    "cnvd": "CNVD-2025-18878",
+    "publish": "2025-08-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress WP Import Export Lite plugin <=3.9.28\"]",
+    "cve": "CVE-2025-6207",
+    "description": "WordPress WP Import Export Lite plugin是WordPress官方推荐的导入导出插件，支持批量处理站点数据，包括帖子、页面、分类法、评论及用户数据等，支持CSV、JSON、XML等多种文件格式。WordPress WP Import Export Lite plugin存在任意文件上传漏洞，攻击者可利用该漏洞导致任意文件上传和远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/wp-import-export-lite/trunk/includes/classes/class-wpie-common-action.php#L386",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/wp-import-export-lite",
+    "patch": "WordPress WP Import Export Lite plugin任意文件上传漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-11",
+    "open_time": "2025-08-20",
+    "update_time": "2025-08-20",
+    "data_summary": "ab97522b312327b4d9005a5004766746"
+}

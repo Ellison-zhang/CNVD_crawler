@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-20 08:09:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18899",
+    "spider_time": 1755677377235,
+    "name": "Huawei EMUI/HarmonyOS双重释放漏洞",
+    "cnvd": "CNVD-2025-18899",
+    "publish": "2025-08-18",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Huawei HarmonyOS 3.0.0\", \"Huawei HarmonyOS 3.1.0\", \"Huawei EMUI 13.0.0\", \"Huawei HarmonyOS 4.0.0\", \"Huawei EMUI 14.0.0\"]",
+    "cve": "CVE-2023-52383",
+    "description": "Huawei EMUI和Huawei HarmonyOS都是中国华为（Huawei）公司的产品。Huawei EMUI是一款基于Android开发的移动端操作系统。Huawei HarmonyOS是华为公司自主研发的面向全场景的分布式操作系统，旨在实现人、设备、场景的智能互联与资源共享。Huawei EMUI/HarmonyOS存在双重释放漏洞，该漏洞源于在RSMC模块中存在双重释放漏洞。攻击者可利用该漏洞影响可用性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-52383",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://device.harmonyos.com/cn/docs/security/update/security-bulletins-phones-202405-0000001902628049",
+    "patch": "Huawei EMUI/HarmonyOS双重释放漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-22",
+    "open_time": "2025-08-20",
+    "update_time": "2025-08-20",
+    "data_summary": "038fb3c35b6b31585a1666ffc2c84f22"
+}

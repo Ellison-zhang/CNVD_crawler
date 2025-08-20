@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-20 08:05:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18876",
+    "spider_time": 1755677119757,
+    "name": "WordPress Zakra未经授权修改漏洞",
+    "cnvd": "CNVD-2025-18876",
+    "publish": "2025-08-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"WordPress Zakra <=4.1.5\"]",
+    "cve": "CVE-2025-8595",
+    "description": "WordPress Zakra是一款WordPress主题，以功能强大、兼容性强和轻量化设计著称，适合创建个人博客、商业网站、 WooCommerce 商店等。WordPress Zakra存在未经授权修改漏洞，该漏洞源于缺少welcome_notice_import_handler函数功能检查，攻击者可利用该漏洞导入演示设置。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-8595",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/themes/zakra",
+    "patch": "WordPress Zakra未经授权修改漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-12",
+    "open_time": "2025-08-20",
+    "update_time": "2025-08-20",
+    "data_summary": "7b7ec6ff323b218122e45664fa9f306c"
+}

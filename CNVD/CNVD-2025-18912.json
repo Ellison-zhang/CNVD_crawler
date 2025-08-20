@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-20 08:10:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18912",
+    "spider_time": 1755677406297,
+    "name": "Tenable Network Security Nessus Agent竞争条件漏洞",
+    "cnvd": "CNVD-2025-18912",
+    "publish": "2025-08-18",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenable Network Security Nessus Agent <=10.6.3\"]",
+    "cve": "CVE-2024-3292",
+    "description": "Tenable Network Security Nessus Agent是Tenable公司开发的Nessus漏洞扫描工具的组成部分，用于扩展扫描功能至网络中的其他设备。Tenable Network Security Nessus Agent存在竞争条件漏洞，攻击者可利用该漏洞在安装时修改安装参数导致执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-3292",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenable.com/security/tns-2024-09",
+    "patch": "Tenable Network Security Nessus Agent竞争条件漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-22",
+    "open_time": "2025-08-20",
+    "update_time": "2025-08-20",
+    "data_summary": "a197fef7abb1ab9223dde13c069c58c1"
+}

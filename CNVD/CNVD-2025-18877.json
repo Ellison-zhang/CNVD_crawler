@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-20 08:05:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18877",
+    "spider_time": 1755677128349,
+    "name": "WordPress WP Easy Contact plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-18877",
+    "publish": "2025-08-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress WP Easy Contact plugin <=4.0.1\"]",
+    "cve": "CVE-2025-8315",
+    "description": "WordPress WP Easy Contact plugin主要用于网站留言功能管理，支持用户提交留言并发送至管理员邮箱。WordPress WP Easy Contact plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.svn.wordpress.org/wp-easy-contact/tags/4.0.1/includes/emd-form-builder-lite/emd-form-frontend.php",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/wp-easy-contact/#developers",
+    "patch": "WordPress WP Easy Contact plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-11",
+    "open_time": "2025-08-20",
+    "update_time": "2025-08-20",
+    "data_summary": "6526330f64dbaeb5f98fa4d59f99e6b4"
+}

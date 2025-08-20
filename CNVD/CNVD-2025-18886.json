@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-20 08:07:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18886",
+    "spider_time": 1755677268034,
+    "name": "友讯科技DIR-860L缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18886",
+    "publish": "2025-08-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u53cb\\u8baf\\u79d1\\u6280 DIR-860L 2.03\"]",
+    "cve": "CVE-2024-42812",
+    "description": "友讯科技DIR-860L是中国友讯公司的一款 无线路由器 ，支持Wi-Fi 5标准，提供双频（2.4GHz和5GHz）网络连接，最大传输速度可达1200Mbps。该设备内置天线，配备1个USB 3.0接口和4个千兆有线端口。友讯科技 DIR-860L存在缓冲区溢出漏洞，该漏洞源于gena.cgi中SID字段长度验证不充分，攻击者可利用该漏洞导致远程目标设备崩溃或执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dlink.com/en/security-bulletin/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10397",
+    "patch": "友讯科技DIR-860L缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-21",
+    "open_time": "2025-08-20",
+    "update_time": "2025-08-20",
+    "data_summary": "8afe8a09fca5a835bed814365c7b89dd"
+}
