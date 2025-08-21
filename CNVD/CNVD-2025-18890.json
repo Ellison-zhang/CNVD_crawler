@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-21 05:07:16",
+    "parse_time": "2025-08-21 06:11:25",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18890",
-    "spider_time": 1755752836545,
+    "spider_time": 1755756685376,
     "name": "D-Link G416 ovpncfg缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-18890",
     "publish": "2025-08-18",

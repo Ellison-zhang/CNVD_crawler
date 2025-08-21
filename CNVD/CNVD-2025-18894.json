@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-21 05:06:40",
+    "parse_time": "2025-08-21 06:10:54",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18894",
-    "spider_time": 1755752800975,
+    "spider_time": 1755756654580,
     "name": "D-Link G416 awsfile tar文件命令注入漏洞",
     "cnvd": "CNVD-2025-18894",
     "publish": "2025-08-18",
