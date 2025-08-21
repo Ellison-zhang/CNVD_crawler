@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 08:06:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19103",
+    "spider_time": 1755763572114,
+    "name": "Apache Superset跨站脚本漏洞（CNVD-2025-19103）",
+    "cnvd": "CNVD-2025-19103",
+    "publish": "2025-08-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Apache Superset <5.0.0\"]",
+    "cve": "CVE-2025-55672",
+    "description": "Apache Superset是美国阿帕奇（Apache）基金会的一个数据可视化和数据探索平台。Apache Superset存在跨站脚本漏洞，该漏洞是由于图表可视化功能对用户提供的输入验证不当造成的。攻击者可利用该漏洞导致会话劫持或执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-55672",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/rvh7fdjfzxzjhcfwoz7twc2brhvochdj",
+    "patch": "Apache Superset跨站脚本漏洞（CNVD-2025-19103）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "b1d1822de36b264eaef6622b2714b1a3"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 08:07:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19115",
+    "spider_time": 1755763672518,
+    "name": "Zoom Workplace释放后重用漏洞",
+    "cnvd": "CNVD-2025-19115",
+    "publish": "2025-08-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Zoom Zoom Workplace\"]",
+    "cve": "CVE-2025-0151",
+    "description": "Zoom Workplace是Zoom公司推出的AI优先协作平台，整合团队沟通、会议、文档协作等核心功能，并内置AI Companion智能助手以提升工作效率。Zoom Workplace存在释放后重用漏洞。该漏洞源于在运行过程中引用了已释放的内存地址，允许已认证用户通过网络访问进行权限提升。攻击者可利用该漏洞提升权限，获取更高权限的系统访问，从而窃取敏感信息或进行其他恶意操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zoom.com/en/trust/security-bulletin/zsb-25010/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://zoom.us/download?ampDeviceId=aed543b0-3533-4dde-85c9-2bb274c80540&SessionId=1741762432293&optimizely_user_id=a73e3f3f1799c339674d4e2053cb0225&_ics=1741762424194&irclickid=~eb54U0YPJDwlmjphklszpghndkrszECxquADEuvoe94WPHDAqkh~&_gl=1*yq6oxe*_gcl_au*MTg0NjE3MjkwLjE3NDE3NjI0MTc.*_ga*NTQwOTYyNDkuMTc0MTc2MjQyOA..*_ga_L8TBF28DDX*MTc0MTc2MjQyOC4xLjAuMTc0MTc2MjQyOC4wLjAuMA..",
+    "patch": "Zoom Workplace释放后重用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-21",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "a8765476a43fa4680e467ffb29ec3c06"
+}

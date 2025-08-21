@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 08:05:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19113",
+    "spider_time": 1755763520992,
+    "name": "Zoom Workplace拒绝服务漏洞",
+    "cnvd": "CNVD-2025-19113",
+    "publish": "2025-08-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Zoom Zoom Workplace\"]",
+    "cve": "CVE-2025-0149",
+    "description": "Zoom Workplace是Zoom公司推出的AI优先协作平台，整合团队沟通、会议、文档协作等核心功能，并内置AI Companion智能助手以提升工作效率。Zoom Workplace存在拒绝服务漏洞，该漏洞源于数据真实性验证不足，导致未经授权的用户通过网络访问进行拒绝服务攻击。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zoom.com/en/trust/security-bulletin/zsb-25008/https://nvd.nist.gov/vuln/detail/CVE-2025-0149",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://zoom.us/download?ampDeviceId=aed543b0-3533-4dde-85c9-2bb274c80540&SessionId=1741762432293&optimizely_user_id=a73e3f3f1799c339674d4e2053cb0225&_ics=1741762424194&irclickid=~eb54U0YPJDwlmjphklszpghndkrszECxquADEuvoe94WPHDAqkh~&_gl=1*yq6oxe*_gcl_au*MTg0NjE3MjkwLjE3NDE3NjI0MTc.*_ga*NTQwOTYyNDkuMTc0MTc2MjQyOA..*_ga_L8TBF28DDX*MTc0MTc2MjQyOC4xLjAuMTc0MTc2MjQyOC4wLjAuMA..",
+    "patch": "Zoom Workplace拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-28",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "cae07de908185c97633d500208170ddb"
+}

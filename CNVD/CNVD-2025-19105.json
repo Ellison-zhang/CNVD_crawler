@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 08:05:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19105",
+    "spider_time": 1755763558276,
+    "name": "Apache Tomcat授权问题漏洞（CNVD-2025-19105）",
+    "cnvd": "CNVD-2025-19105",
+    "publish": "2025-08-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Apache Tomcat >=11.0.0-M1\\uff0c<=11.0.7\", \"Apache Tomcat >=10.1.0-M1\\uff0c<=10.1.41\", \"Apache Tomcat >=9.0.0.M1\\uff0c<=9.0.105\"]",
+    "cve": "CVE-2025-55668",
+    "description": "Apache Tomcat是美国阿帕奇（Apache）基金会的一款轻量级Web应用服务器，用于实现对Servlet和JavaServer Page（JSP）的支持。Apache Tomcat存在授权问题漏洞，该漏洞源于rewrite valve会话固定缺陷造成的。攻击者可利用该漏洞访问用户的会话。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-55668",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/v6bknr96rl7l1qxkl1c03v0qdvbbqs47",
+    "patch": "Apache Tomcat授权问题漏洞（CNVD-2025-19105）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "9807a98aeeb02cb91c791bb8255bd40a"
+}
