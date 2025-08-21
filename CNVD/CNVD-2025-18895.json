@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-21 01:37:06",
+    "parse_time": "2025-08-21 02:34:31",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18895",
-    "spider_time": 1755740226218,
+    "spider_time": 1755743671295,
     "name": "D-Link G416 nodered gz文件命令注入漏洞",
     "cnvd": "CNVD-2025-18895",
     "publish": "2025-08-18",
