@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 09:05:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19186",
+    "spider_time": 1755767134263,
+    "name": "WordPress 12 Step Meeting List plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-19186",
+    "publish": "2025-08-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"WordPress 12 Step Meeting List plugin <=3.18.3\"]",
+    "cve": "CVE-2025-54054",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress 12 Step Meeting List plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/12-step-meeting-list/vulnerability/wordpress-12-step-meeting-list-plugin-plugin-3-18-3-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/12-step-meeting-list/",
+    "patch": "WordPress 12 Step Meeting List plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "9e398896190b44bd4c8ca43f88343b0d"
+}

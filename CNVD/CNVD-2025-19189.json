@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 09:05:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19189",
+    "spider_time": 1755767116452,
+    "name": "WordPress Advanced iFrame plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-19189",
+    "publish": "2025-08-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Advanced iFrame plugin <=2025.6\"]",
+    "cve": "CVE-2025-8089",
+    "description": "WordPress Advanced iFrame plugin是WordPress平台的一款插件，主要用于在网站中嵌入iframe内容。WordPress Advanced iFrame plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/advanced-iframe/trunk/advanced-iframe.php#L1831",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/advanced-iframe",
+    "patch": "WordPress Advanced iFrame plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "8af1581c893007da70e58ec60bcd4f9d"
+}

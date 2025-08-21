@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 09:05:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19187",
+    "spider_time": 1755767128992,
+    "name": "WordPress Add User Meta plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-19187",
+    "publish": "2025-08-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress Add User Meta plugin <=1.0.1\"]",
+    "cve": "CVE-2025-7688",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Add User Meta plugin存在跨站请求伪造漏洞，该漏洞源于“add-user-meta”页面上的随机数验证缺失或不正确。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/add-user-meta/trunk/plugin.php",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/add-user-meta",
+    "patch": "WordPress Add User Meta plugin跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "accf65cb8ea5356993ff88219c4c997c"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 09:05:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19190",
+    "spider_time": 1755767109480,
+    "name": "WordPress AI Tools plugin缺少授权漏洞",
+    "cnvd": "CNVD-2025-19190",
+    "publish": "2025-08-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"WordPress AI Tools plugin <=4.0.7\"]",
+    "cve": "CVE-2025-50029",
+    "description": "WordPress AI Tools plugin是一款基于人工智能技术的WordPress插件，主要用于优化网站内容生成、自动化任务处理及提升网站性能。WordPress AI Tools plugin存在缺少授权漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/artificial-intelligence-auto-content-generator/vulnerability/wordpress-ai-tools-4-0-7-arbitrary-content-deletion-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "137de235d61fee9711d2b8cbd074eff0"
+}

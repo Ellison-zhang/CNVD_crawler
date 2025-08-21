@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 09:04:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19192",
+    "spider_time": 1755767095949,
+    "name": "WordPress Alike plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-19192",
+    "publish": "2025-08-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"WordPress Alike plugin <=3.0.1\"]",
+    "cve": "CVE-2025-28975",
+    "description": "WordPress Alike plugin是一款WordPress插件，主要用于文章或帖子的自定义比较功能，支持任何文章类型或自定义类型（如财产、汽车等），通过灵活的逻辑生成器添加数据展示。WordPress Alike plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/alike/vulnerability/wordpress-alike-wordpress-custom-post-comparison-3-0-1-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "b97b6503870d98e47dacdabf551029b0"
+}

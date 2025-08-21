@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 09:05:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19188",
+    "spider_time": 1755767121875,
+    "name": "WordPress Advanced Google Universal Analytics缺少授权漏洞",
+    "cnvd": "CNVD-2025-19188",
+    "publish": "2025-08-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"WordPress\\u200c Advanced Google Universal Analytics <1.0.3\"]",
+    "cve": "CVE-2025-28962",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Advanced Google Universal Analytics存在缺少授权漏洞，攻击者可利用该漏洞导致访问控制安全级别配置不当。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/advanced-google-universal-analytics/vulnerability/wordpress-advanced-google-universal-analytics-plugin-1-0-3-broken-access-control-to-sensitive-data-exposure-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "63e32e57c0b09c45535f3ecab64761b0"
+}
