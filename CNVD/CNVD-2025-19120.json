@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 16:08:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19120",
+    "spider_time": 1755792482995,
+    "name": "coolLabs Coolify存在未明漏洞",
+    "cnvd": "CNVD-2025-19120",
+    "publish": "2025-08-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"coolLabs Coolify <4.0.0-beta.374\"]",
+    "cve": "CVE-2025-22612",
+    "description": "Coolify是一个开源和自托管的Heroku/Netlify/Vercel替代品。coolLabs Coolify存在未明漏洞，该漏洞源于经过身份验证的用户以纯文本形式检索实例上的任何现有私钥。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/coollabsio/coolify/security/advisories/GHSA-wg8x-cgq4-vjxj",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.389",
+    "patch": "coolLabs Coolify存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "24091538d7ef9263870b5b9e69b5f052"
+}

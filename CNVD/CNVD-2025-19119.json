@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 16:08:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19119",
+    "spider_time": 1755792486714,
+    "name": "coolLabs Coolify命令注入漏洞",
+    "cnvd": "CNVD-2025-19119",
+    "publish": "2025-08-22",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"coolLabs Coolify <=4.0.0-beta.358\"]",
+    "cve": "CVE-2025-22606",
+    "description": "Coolify是一个开源和自托管的Heroku/Netlify/Vercel替代品。coolLabs Coolify存在命令注入漏洞，该漏洞源于在创建或更新项目时更改项目名称未能正确过滤构造命令特殊字符、命令等。攻击者可利用此漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/coollabsio/coolify/security/advisories/GHSA-ccp8-v65g-m526",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.389",
+    "patch": "coolLabs Coolify命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "cd53cd74aaa80e744caa489984d331fd"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 16:07:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19121",
+    "spider_time": 1755792478413,
+    "name": "coolLabs Coolify权限提升漏洞",
+    "cnvd": "CNVD-2025-19121",
+    "publish": "2025-08-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"coolLabs Coolify <4.0.0-beta.361\"]",
+    "cve": "CVE-2025-22611",
+    "description": "Coolify是一个开源和自托管的Heroku/Netlify/Vercel替代品。coolLabs Coolify存在权限提升漏洞，该漏洞是由于终端功能的授权验证不当造成的。攻击者可利用该漏洞获得更高的权限，在系统上执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/coollabsio/coolify/security/advisories/GHSA-9w72-9qww-qj6g",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.389",
+    "patch": "coolLabs Coolify权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "21301015cd0ca2338cda5c1ade802135"
+}
