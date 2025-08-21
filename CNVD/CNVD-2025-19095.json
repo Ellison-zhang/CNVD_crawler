@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-21 12:06:16",
+    "parse_time": "2025-08-21 13:12:17",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19095",
-    "spider_time": 1755777976219,
+    "spider_time": 1755781937965,
     "name": "Zoom Workplace Apps for Windows空指针取消引用漏洞",
     "cnvd": "CNVD-2025-19095",
     "publish": "2025-08-20",
