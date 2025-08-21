@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-21 00:15:03",
+    "parse_time": "2025-08-21 01:37:11",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18896",
-    "spider_time": 1755735303392,
+    "spider_time": 1755740231432,
     "name": "D-Link G416 nodered tar文件命令注入漏洞",
     "cnvd": "CNVD-2025-18896",
     "publish": "2025-08-18",
