@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 07:06:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19093",
+    "spider_time": 1755760002854,
+    "name": "Zoom Workplace for Linux证书验证不当漏洞",
+    "cnvd": "CNVD-2025-19093",
+    "publish": "2025-08-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Zoom Workplace for Linux <6.4.13\"]",
+    "cve": "CVE-2025-46788",
+    "description": "Zoom Workplace for Linux是一款用于企业通信和协作的Linux应用程序，提供视频会议、在线会议、聊天和移动协作等功能。Zoom Workplace for Linux存在证书验证不当漏洞，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zoom.com/en/trust/security-bulletin/zsb-25023/https://nvd.nist.gov/vuln/detail/CVE-2025-46788",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://zoom.us/download",
+    "patch": "Zoom Workplace for Linux证书验证不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "c1719cb099c535abcc32b301ea1e000e"
+}

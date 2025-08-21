@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 07:06:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19098",
+    "spider_time": 1755759986070,
+    "name": "Zoom Workplace Apps缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-19098",
+    "publish": "2025-08-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Zoom Workplace Apps\"]",
+    "cve": "CVE-2025-27439",
+    "description": "Zoom Workplace Apps是一款集视频会议、团队协作、AI 辅助等功能于一体的企业级协作平台，主要面向混合办公场景。Zoom Workplace Apps存在缓冲区溢出漏洞，该漏洞源于某些应用在处理输入数据时未正确检查缓冲区边界。攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zoom.com/en/trust/security-bulletin/zsb-25011/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://zoom.us/download?ampDeviceId=aed543b0-3533-4dde-85c9-2bb274c80540&SessionId=1741762432293&optimizely_user_id=a73e3f3f1799c339674d4e2053cb0225&_ics=1741762424194&irclickid=~eb54U0YPJDwlmjphklszpghndkrszECxquADEuvoe94WPHDAqkh~&_gl=1*yq6oxe*_gcl_au*MTg0NjE3MjkwLjE3NDE3NjI0MTc.*_ga*NTQwOTYyNDkuMTc0MTc2MjQyOA..*_ga_L8TBF28DDX*MTc0MTc2MjQyOC4xLjAuMTc0MTc2MjQyOC4wLjAuMA..",
+    "patch": "Zoom Workplace Apps缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-17",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "ca0608be3210f556cb06d70b1a73e917"
+}

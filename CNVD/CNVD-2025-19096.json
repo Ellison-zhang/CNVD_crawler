@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 07:06:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19096",
+    "spider_time": 1755759991942,
+    "name": "Zoom Workplace Apps for Windows存在未明漏洞",
+    "cnvd": "CNVD-2025-19096",
+    "publish": "2025-08-20",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:C/A:N",
+    "product": "[\"Zoom Workplace Apps for Windows\"]",
+    "cve": "CVE-2025-27443",
+    "description": "Zoom Workplace Apps for Windows是Zoom官方推出的协作工具套件，包含团队聊天、白板、笔记等核心功能，需通过Zoom Meetings账户使用。Zoom Workplace Apps for Windows存在安全漏洞，该漏洞源于默认变量初始化不安全，攻击者可利用该漏洞导致完整性受损。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zoom.com/en/trust/security-bulletin/zsb-25014\nhttps://nvd.nist.gov/vuln/detail/CVE-2025-27443",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.zoom.com/en/trust/security-bulletin/zsb-25014",
+    "patch": "Zoom Workplace Apps for Windows存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "41499d3936bc66a729dd61f78e0d07d7"
+}

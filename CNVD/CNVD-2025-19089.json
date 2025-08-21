@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 07:08:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19089",
+    "spider_time": 1755760094130,
+    "name": "Zoom Clients for iOS信息泄露漏洞",
+    "cnvd": "CNVD-2025-19089",
+    "publish": "2025-08-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Zoom Clients for iOS <6.4.5\"]",
+    "cve": "CVE-2025-49463",
+    "description": "Zoom Clients for iOS是Zoom官方为iOS设备（如iPhone、iPad）开发的视频会议应用，支持会议召开、屏幕共享、聊天等功能，适用于商务办公、远程教育等场景。Zoom Clients for iOS存在信息泄露漏洞，该漏洞源于控制流管理不足，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zoom.com/en/trust/security-bulletin/zsb-25026/https://nvd.nist.gov/vuln/detail/CVE-2025-49463",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://zoom.us/download",
+    "patch": "Zoom Clients for iOS信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "0800a75348de946d6ac76a2d7a67a6a0"
+}
