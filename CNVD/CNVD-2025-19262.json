@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-22 09:04:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19262",
+    "spider_time": 1755853471579,
+    "name": "GNU libopts缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-19262",
+    "publish": "2025-08-22",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"Gnu GNU libopts <=27.6\"]",
+    "cve": "CVE-2025-8746",
+    "description": "GNU libopts是美国GNU社区的一个用于解析命令行选项的C语言库。GNU libopts 27.6及之前版本存在缓冲区溢出漏洞，该漏洞源于函数__strstr_sse2在处理不受信任的输入时出现边界错误。攻击者可利用该漏洞导致可用性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-8746",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://drive.google.com/file/d/1yjKOHxvL_9xExy4QUb5x43dxci1x59ts/view?usp=sharing",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "06ffc79f86a54ff5e7f6f44766b7a816"
+}

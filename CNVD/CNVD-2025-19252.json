@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-22 09:04:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19252",
+    "spider_time": 1755853455784,
+    "name": "GNU GRUB缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-19252",
+    "publish": "2025-08-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:M/C:C/I:C/A:C",
+    "product": "[\"GNU GRUB\"]",
+    "cve": "CVE-2025-0677",
+    "description": "GNU GRUB是GNU社区的一款Linux系统引导程序。GNU GRUB存在缓冲区溢出漏洞，该漏洞源于UFS模块，程序在处理数据时未正确管理内存分配和释放，攻击者可利用该漏洞通过执行非授权指令取得系统特权，修改系统配置。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-0677",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2346116",
+    "patch": "GNU GRUB缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "ff59044a5d798647a14669f6370924f0"
+}

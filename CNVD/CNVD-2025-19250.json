@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-22 09:04:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19250",
+    "spider_time": 1755853446769,
+    "name": "ImageMagick输入验证错误漏洞（CNVD-2025-19250）",
+    "cnvd": "CNVD-2025-19250",
+    "publish": "2025-08-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"ImageMagick ImageMagick <7.1.2-1\", \"ImageMagick ImageMagick <6.9.13-27\"]",
+    "cve": "CVE-2025-55154",
+    "description": "ImageMagick是ImageMagick开源的一套开源的图像处理软件，可读取、转换或写入多种格式的图片。ImageMagick存在输入验证错误漏洞，该漏洞源于ReadOneMNGIMage中的放大尺寸计算不安全，攻击者可利用该漏洞通过输入恶意数据，绕过安全机制，执行非法操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-55154",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/ImageMagick/ImageMagick/releases",
+    "patch": "ImageMagick输入验证错误漏洞（CNVD-2025-19250）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "ba7e7a34d05f768a000034af06f95758"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-22 09:04:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19261",
+    "spider_time": 1755853466425,
+    "name": "GNU cflow缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-19261",
+    "publish": "2025-08-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Gnu GNU cflow <=1.8\"]",
+    "cve": "CVE-2025-8736",
+    "description": "GNU cflow是美国GNU社区的一款流程图生成器，它能够读取C语言源文件并生成外部引用的流程图。GNU cflow 1.8及之前版本存在缓冲区溢出漏洞，该漏洞源于应用在处理不受信任的输入时出现边界错误。攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-8736",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://drive.google.com/file/d/17lkJ5bSiQZoXLTg3bK-rGBt3kahN9Xse/view?usp=drive_link",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "03ad5f53aec9eebafcfeb9422160a5ff"
+}
