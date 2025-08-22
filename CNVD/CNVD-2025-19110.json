@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-21 23:03:42",
+    "parse_time": "2025-08-22 00:14:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19110",
-    "spider_time": 1755817422414,
+    "spider_time": 1755821640039,
     "name": "Lantronix Provisioning Manager XML外部实体注入漏洞",
     "cnvd": "CNVD-2025-19110",
     "publish": "2025-08-22",
