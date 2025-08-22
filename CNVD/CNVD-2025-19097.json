@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-22 00:20:23",
+    "parse_time": "2025-08-22 01:33:49",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19097",
-    "spider_time": 1755822023039,
+    "spider_time": 1755826429478,
     "name": "Zoom Workplace Apps堆缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-19097",
     "publish": "2025-08-20",
