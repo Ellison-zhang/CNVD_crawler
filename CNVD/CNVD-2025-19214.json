@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-22 07:08:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19214",
+    "spider_time": 1755846530639,
+    "name": "WordPress BetterDocs plugin未授权访问漏洞",
+    "cnvd": "CNVD-2025-19214",
+    "publish": "2025-08-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"WordPress BetterDocs plugin <=4.1.1\"]",
+    "cve": "CVE-2025-7499",
+    "description": "WordPress BetterDocs plugin平台的一款插件，主要用于创建和管理在线知识库，支持文档分类、搜索、权限设置等功能。WordPress BetterDocs plugin存在未授权访问漏洞，该漏洞源于缺少能力检查，攻击者可利用该漏洞导致未授权数据访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/betterdocs/tags/4.1.0/includes/REST/DocCategories.php#L82",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/betterdocs",
+    "patch": "WordPress BetterDocs plugin未授权访问漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "f94b1c56117826c6a778b30cd43573c3"
+}

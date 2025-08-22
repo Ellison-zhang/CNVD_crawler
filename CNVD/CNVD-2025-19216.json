@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-22 07:08:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19216",
+    "spider_time": 1755846492502,
+    "name": "Adobe Substance3D Modeler越界读取漏洞",
+    "cnvd": "CNVD-2025-19216",
+    "publish": "2025-08-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Adobe Substance3D Modeler <=1.22.0\"]",
+    "cve": "CVE-2025-54235",
+    "description": "Adobe Substance3D Modeler是Adobe Substance 3D系列软件中的核心工具，专为3D建模设计，支持数字黏土雕刻、对称工具、自动化UV管理等功能，可实现跨计算机 VR环境无缝切换。Adobe Substance3D Modeler存在越界读取漏洞，攻击者可利用该漏洞导致敏感内存泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-54235",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/substance3d-modeler/apsb25-76.html",
+    "patch": "Adobe Substance3D Modeler越界读取漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "f4f2dbc0e1eb9b862226eb433c956b9d"
+}

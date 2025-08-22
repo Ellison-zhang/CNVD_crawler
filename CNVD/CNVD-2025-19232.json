@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-22 07:07:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19232",
+    "spider_time": 1755846479725,
+    "name": "D-Link DIR-818L注入漏洞",
+    "cnvd": "CNVD-2025-19232",
+    "publish": "2025-08-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"D-Link DIR-818L <=1.05B01\"]",
+    "cve": "CVE-2025-8956",
+    "description": "D-Link DIR-818L是中国友讯（D-Link）公司的一个WiFi路由器。D-Link DIR-818L存在注入漏洞，该漏洞源于文件/htdocs/cgibin的错误操作，攻击者可利用该漏洞通过注入恶意SQL语句，绕过身份验证，访问受限数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-8956",
+    "solution": "目前没有详细的解决方案提供：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "7dee8abb06460ca6fed17c2a16693d7f"
+}

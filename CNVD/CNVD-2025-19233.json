@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-22 07:08:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19233",
+    "spider_time": 1755846487346,
+    "name": "D-Link DIR-825缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-19233",
+    "publish": "2025-08-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-825 2.10\"]",
+    "cve": "CVE-2025-8949",
+    "description": "D-Link DIR-825是中国友讯（D-Link）公司的一款路由器。D-Link DIR-825存在缓冲区溢出漏洞，该漏洞源于文件ping_response.cgi中参数ping_ipaddr的错误操作，攻击者可利用该漏洞通过损坏内存，使系统崩溃，中断服务运行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-8949",
+    "solution": "目前没有详细的解决方案提供：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "26d0e5c391a3d72655f7ac3a627d3cce"
+}
