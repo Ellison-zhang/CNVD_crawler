@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-22 08:08:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19248",
+    "spider_time": 1755850116301,
+    "name": "Adobe InDesign Desktop越界写入漏洞（CNVD-2025-19248）",
+    "cnvd": "CNVD-2025-19248",
+    "publish": "2025-08-22",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe InDesign Desktop <=20.4\", \"Adobe InDesign Desktop <=19.5.4\"]",
+    "cve": "CVE-2025-54210",
+    "description": "Adobe InDesign Desktop是Adobe公司开发的桌面出版（DTP）应用程序，主要用于印刷品的排版编辑，支持书籍、杂志、海报、传单等印刷品的创作。Adobe InDesign Desktop存在越界写入漏洞，攻击者可利用该漏洞导致执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-54210",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/indesign/apsb25-79.html",
+    "patch": "Adobe InDesign Desktop越界写入漏洞（CNVD-2025-19248）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "3394ea3402fd396e814203ede561b45d"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-22 08:08:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19242",
+    "spider_time": 1755850105921,
+    "name": "LibTIFF缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-19242",
+    "publish": "2025-08-22",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"Libtiff LibTiff 4.7.0\"]",
+    "cve": "CVE-2025-8961",
+    "description": "LibTIFF是LibTIFF开源的一个读写TIFF（标签图像文件格式）文件的库，该库包含一些处理TIFF文件的命令行工具。LibTIFF存在缓冲区溢出漏洞，该漏洞源于文件tiffcrop.c的错误操作，攻击者可利用该漏洞通过损坏内存使系统崩溃，中断服务运行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-8961",
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://vuldb.com/?submit.627957",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "aacc4ff5a438bc8a243ab106d70f7870"
+}
