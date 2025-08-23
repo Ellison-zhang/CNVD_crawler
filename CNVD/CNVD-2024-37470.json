@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-23 11:13:11",
+    "parse_time": "2025-08-23 12:13:57",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37470",
-    "spider_time": 1755947591691,
+    "spider_time": 1755951237426,
     "name": "SWFTools bufferWriteData方法内存错误引用漏洞",
     "cnvd": "CNVD-2024-37470",
     "publish": "2024-09-06",

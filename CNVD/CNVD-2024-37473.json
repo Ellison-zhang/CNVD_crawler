@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-23 11:13:28",
+    "parse_time": "2025-08-23 12:14:13",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37473",
-    "spider_time": 1755947608322,
+    "spider_time": 1755951253345,
     "name": "SWFTools q.c页面缓冲区溢出漏洞",
     "cnvd": "CNVD-2024-37473",
     "publish": "2024-09-06",
