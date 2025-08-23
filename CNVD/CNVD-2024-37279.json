@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-23 08:07:19",
+    "parse_time": "2025-08-23 09:05:45",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37279",
-    "spider_time": 1755936439500,
+    "spider_time": 1755939945297,
     "name": "用友网络科技股份有限公司NC Cloud存在任意文件读取漏洞（CNVD-2024-37279）",
     "cnvd": "CNVD-2024-37279",
     "publish": "2024-09-15",
@@ -12,11 +12,11 @@
     "description": "NC Cloud是一款大型企业数字化平台。用友网络科技股份有限公司NC Cloud存在任意文件读取漏洞，攻击者可利用该漏洞获取敏感信息。",
     "flaw_type": "通用型漏洞",
     "reference": null,
-    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.yonyou.com/#/noticeInfo?id=600",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.yonyou.com/#/noticeInfo?id=601",
     "patch": "用友网络科技股份有限公司NC Cloud存在任意文件读取漏洞（CNVD-2024-37279）的补丁",
     "verify": "已验证",
     "submit_time": "2024-08-01",
     "open_time": "2024-09-04",
-    "update_time": "2024-09-04",
-    "data_summary": "a58b0a41627773b00abf80d43c2237d0"
+    "update_time": "2024-09-20",
+    "data_summary": "e08c21b5501dbfe183e5409b68744ac5"
 }

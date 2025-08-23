@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-23 08:15:04",
+    "parse_time": "2025-08-23 09:10:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37472",
-    "spider_time": 1755936904843,
+    "spider_time": 1755940200017,
     "name": "SWFTools lex.swf5.c:1321页面缓冲区溢出漏洞",
     "cnvd": "CNVD-2024-37472",
     "publish": "2024-09-06",

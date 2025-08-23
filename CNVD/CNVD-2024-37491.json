@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-23 08:12:43",
+    "parse_time": "2025-08-23 09:07:10",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37491",
-    "spider_time": 1755936763696,
+    "spider_time": 1755940030630,
     "name": "Microsoft .NET Core和Visual Studio拒绝服务漏洞",
     "cnvd": "CNVD-2024-37491",
     "publish": "2024-09-06",

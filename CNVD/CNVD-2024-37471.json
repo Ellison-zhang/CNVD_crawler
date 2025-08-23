@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-23 08:14:58",
+    "parse_time": "2025-08-23 09:09:57",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37471",
-    "spider_time": 1755936898426,
+    "spider_time": 1755940197196,
     "name": "SWFTools input方法内存错误引用漏洞",
     "cnvd": "CNVD-2024-37471",
     "publish": "2024-09-06",

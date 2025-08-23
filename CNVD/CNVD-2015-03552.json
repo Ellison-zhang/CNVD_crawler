@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-23 08:04:40",
+    "parse_time": "2025-08-23 09:04:31",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2015-03552",
-    "spider_time": 1755936280081,
+    "spider_time": 1755939871738,
     "name": "网神防火墙安全审计系统(secfox)存在弱口令和任意文件读取漏洞",
     "cnvd": "CNVD-2015-03552",
     "publish": "2025-05-01",

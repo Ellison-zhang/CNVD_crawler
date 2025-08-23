@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-23 08:17:27",
+    "parse_time": "2025-08-23 09:10:33",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37478",
-    "spider_time": 1755937047761,
+    "spider_time": 1755940233689,
     "name": "SWFTools swfc.c:2602页面缓冲区溢出漏洞",
     "cnvd": "CNVD-2024-37478",
     "publish": "2024-09-06",
