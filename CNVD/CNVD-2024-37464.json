@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-23 09:07:13",
+    "parse_time": "2025-08-23 10:06:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37464",
-    "spider_time": 1755940033893,
+    "spider_time": 1755943560887,
     "name": "SWFTools actioncompiler.c拒绝服务漏洞",
     "cnvd": "CNVD-2024-37464",
     "publish": "2024-09-06",
