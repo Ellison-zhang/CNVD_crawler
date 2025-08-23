@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-23 10:06:05",
+    "parse_time": "2025-08-23 11:12:47",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37465",
-    "spider_time": 1755943565862,
+    "spider_time": 1755947567375,
     "name": "SWFTools swfc.c拒绝服务漏洞",
     "cnvd": "CNVD-2024-37465",
     "publish": "2024-09-06",

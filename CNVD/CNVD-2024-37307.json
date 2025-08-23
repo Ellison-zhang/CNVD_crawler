@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-23 10:04:51",
+    "parse_time": "2025-08-23 11:11:42",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37307",
-    "spider_time": 1755943491871,
+    "spider_time": 1755947502011,
     "name": "用友网络科技股份有限公司U8 Cloud存在SQL注入漏洞（CNVD-2024-37307）",
     "cnvd": "CNVD-2024-37307",
     "publish": "2024-09-14",
@@ -17,6 +17,6 @@
     "verify": "已验证",
     "submit_time": "2024-07-31",
     "open_time": "2024-09-04",
-    "update_time": "2024-09-11",
+    "update_time": "2024-09-04",
     "data_summary": "3348d6840e6a4bf27477034ea584cb5f"
 }

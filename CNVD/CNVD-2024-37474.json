@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-23 10:06:47",
+    "parse_time": "2025-08-23 11:13:31",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37474",
-    "spider_time": 1755943607598,
+    "spider_time": 1755947611543,
     "name": "SWFTools swf_DeleteTag方法内存错误引用漏洞",
     "cnvd": "CNVD-2024-37474",
     "publish": "2024-09-06",

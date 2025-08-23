@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-23 10:04:58",
+    "parse_time": "2025-08-23 11:11:45",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37220",
-    "spider_time": 1755943498773,
+    "spider_time": 1755947505960,
     "name": "浙江宇视科技有限公司NVR301-08-P8存在信息泄露漏洞",
     "cnvd": "CNVD-2024-37220",
     "publish": "2024-09-13",
@@ -17,6 +17,6 @@
     "verify": "已验证",
     "submit_time": "2024-07-30",
     "open_time": "2024-09-04",
-    "update_time": "2024-09-10",
+    "update_time": "2024-09-04",
     "data_summary": "3e533a97757617f080d84d84748568cb"
 }
