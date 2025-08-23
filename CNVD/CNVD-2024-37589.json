@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-23 08:13:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37589",
+    "spider_time": 1755936813423,
+    "name": "NetBox跨站脚本漏洞（CNVD-2024-37589）",
+    "cnvd": "CNVD-2024-37589",
+    "publish": "2024-09-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"NetBox NetBox v4.0.3\"]",
+    "cve": "CVE-2024-40739",
+    "description": "NetBox是NetBox社区的一款基于Django、PostgreSql用于IP地址管理（IPAM）和数据中心基础结构管理（DCIM）的工具。NetBox v4.0.3版本存在跨站脚本漏洞，该漏洞源于/dcim/power-feeds/add位置的Name参数对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞在页面上注入任意HTML代码或WEB脚本。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/minhquan202/Vuln-Netbox",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/netbox-community/netbox",
+    "patch": "NetBox跨站脚本漏洞（CNVD-2024-37589）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-12",
+    "open_time": "2024-09-06",
+    "update_time": "2024-09-06",
+    "data_summary": "9ec9060881ad7dc3341e46acb12e6155"
+}

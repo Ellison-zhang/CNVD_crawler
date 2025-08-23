@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-23 08:08:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-36424",
+    "spider_time": 1755936481142,
+    "name": "新天科技股份有限公司WisdomWater智慧水务营业收费管理系统存在SQL注入漏洞（CNVD-2024-36424）",
+    "cnvd": "CNVD-2024-36424",
+    "publish": "2024-09-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u65b0\\u5929\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 WisdomWater\\u667a\\u6167\\u6c34\\u52a1\\u8425\\u4e1a\\u6536\\u8d39\\u7ba1\\u7406\\u7cfb\\u7edf 3.0\"]",
+    "cve": null,
+    "description": "新天科技股份有限公司是一家以从事仪器仪表制造业为主的企业。新天科技股份有限公司WisdomWater智慧水务营业收费管理系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.suntront.com/",
+    "patch": "新天科技股份有限公司WisdomWater智慧水务营业收费管理系统存在SQL注入漏洞（CNVD-2024-36424）的补丁",
+    "verify": "已验证",
+    "submit_time": "2024-07-25",
+    "open_time": "2024-08-26",
+    "update_time": "2024-08-26",
+    "data_summary": "43bebcb6925e3e4b30a8a9337e1be9ce"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-23 08:06:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2015-00294",
+    "spider_time": 1755936410582,
+    "name": "海康摄像头固件版本设计漏洞",
+    "cnvd": "CNVD-2015-00294",
+    "publish": "2024-12-01",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Hikvision DS-2CD893PF-E <=V4.1.0\", \"Hikvision DS-2CD8464F-EIW <=v5.2\", \"Hikvision DS-2CD7153-E <=V5.2.0 build 140721\", \"Hikvision DS-2CD8DFDF-TEL V4.1.0 130409\"]",
+    "cve": null,
+    "description": "海康威视是领先的安防产品及行业解决方案提供商。海康摄像头固件v5.2之前的版本在实现其ONVIF协议时都缺乏必要的身份验证漏洞，攻击者利用该漏洞无需用户名、密码等身份验证，即可访问摄像头的实时图像画面。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "增加对ONVIF协议实现时的身份验证",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2014-12-09",
+    "open_time": "2015-01-15",
+    "update_time": "2015-01-16",
+    "data_summary": "1e7982cf3e65760cc669f20adaae4a05"
+}

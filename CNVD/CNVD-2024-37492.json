@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-23 08:17:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37492",
+    "spider_time": 1755937059335,
+    "name": "Microsoft Exchange Server欺骗漏洞（CNVD-2024-37492）",
+    "cnvd": "CNVD-2024-37492",
+    "publish": "2024-09-06",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Exchange Server 2019 Cumulative Update 12\", \"Microsoft Exchange Server 2016 Cumulative Update 23\", \"Microsoft Exchange Server 2019 Cumulative Update 13\"]",
+    "cve": "CVE-2023-36039",
+    "description": "Microsoft Exchange Server是美国微软（Microsoft）公司的一套电子邮件服务程序。它提供邮件存取、储存、转发，语音邮件，邮件过滤筛选等功能。Microsoft Exchange Server存在欺骗漏洞，攻击者可利用该漏洞执行欺骗攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36039",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36039",
+    "patch": "Microsoft Exchange Server欺骗漏洞（CNVD-2024-37492）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-11-16",
+    "open_time": "2024-09-05",
+    "update_time": "2024-09-05",
+    "data_summary": "64127700f7604d148b0644044b1b8b87"
+}

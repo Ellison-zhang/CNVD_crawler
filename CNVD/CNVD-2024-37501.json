@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-23 08:09:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37501",
+    "spider_time": 1755936546882,
+    "name": "Microsoft Edge for Android欺骗漏洞（CNVD-2024-37501）",
+    "cnvd": "CNVD-2024-37501",
+    "publish": "2024-09-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Microsoft Edge for Android\"]",
+    "cve": "CVE-2024-38208",
+    "description": "Microsoft Edge是美国微软（Microsoft）公司的一款Windows 10之后版本系统附带的Web浏览器。Microsoft Edge for Android存在欺骗漏洞，攻击者可利用该漏洞进行欺骗攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-38208/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38208",
+    "patch": "Microsoft Edge for Android欺骗漏洞（CNVD-2024-37501）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-29",
+    "open_time": "2024-09-05",
+    "update_time": "2024-09-05",
+    "data_summary": "0ea6ef25dbb8db377d60117b88f64c6c"
+}

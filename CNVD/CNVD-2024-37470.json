@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-23 08:14:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37470",
+    "spider_time": 1755936891661,
+    "name": "SWFTools bufferWriteData方法内存错误引用漏洞",
+    "cnvd": "CNVD-2024-37470",
+    "publish": "2024-09-06",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"SWFTools SWFTools 0.9.2\"]",
+    "cve": "CVE-2024-22920",
+    "description": "SWFTools是一组用于处理Adobe Flash文件（SWF文件）的实用程序。SWFTools 0.9.2版本存在内存错误引用漏洞，该漏洞源于swftools/lib/action/compile.c页面的bufferWriteData方法负责释放内存的指令发生混乱。攻击者可利用此漏洞可能导致程序崩溃，任意代码执行等。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/matthiaskramm/swftools/issues/211",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/matthiaskramm/swftools/issues/211",
+    "patch": "SWFTools bufferWriteData方法内存错误引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-01-24",
+    "open_time": "2024-09-05",
+    "update_time": "2024-09-05",
+    "data_summary": "c269b41eba2c22f3093cf35008a67298"
+}

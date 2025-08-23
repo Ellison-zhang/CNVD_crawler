@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-23 08:07:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37307",
+    "spider_time": 1755936459561,
+    "name": "用友网络科技股份有限公司U8 Cloud存在SQL注入漏洞（CNVD-2024-37307）",
+    "cnvd": "CNVD-2024-37307",
+    "publish": "2024-09-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u7528\\u53cb\\u7f51\\u7edc\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 U8 Cloud 20240725\"]",
+    "cve": null,
+    "description": "U8 Cloud是一款企业级ERP，用于协助企业实现业务协同和流程管理的高效化和数字化。用友网络科技股份有限公司U8 Cloud存在SQL注入漏洞，远程攻击者可利用该漏洞提交特殊请求，获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修补方案，建议用户下载使用：\nhttps://security.yonyou.com/#/noticeInfo?id=600",
+    "patch": "用友网络科技股份有限公司U8 Cloud存在SQL注入漏洞（CNVD-2024-37307）的补丁",
+    "verify": "已验证",
+    "submit_time": "2024-07-31",
+    "open_time": "2024-09-04",
+    "update_time": "2024-09-11",
+    "data_summary": "3348d6840e6a4bf27477034ea584cb5f"
+}

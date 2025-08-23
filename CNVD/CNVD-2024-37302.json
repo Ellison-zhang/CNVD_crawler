@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-23 08:07:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37302",
+    "spider_time": 1755936449797,
+    "name": "北京天融信科技有限公司天融信上网行为管理系统存在命令执行漏洞（CNVD-2024-37302）",
+    "cnvd": "CNVD-2024-37302",
+    "publish": "2024-09-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u5317\\u4eac\\u5929\\u878d\\u4fe1\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u5929\\u878d\\u4fe1\\u4e0a\\u7f51\\u884c\\u4e3a\\u7ba1\\u7406\\u7cfb\\u7edf V3.0.0170\"]",
+    "cve": null,
+    "description": "北京天融信科技有限公司是中国的信息安全产品与服务解决方案提供商。北京天融信科技有限公司天融信上网行为管理系统存在命令执行漏洞，攻击者可利用该漏洞获取服务器控制权。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.topsec.com.cn/",
+    "patch": "北京天融信科技有限公司天融信上网行为管理系统存在命令执行漏洞（CNVD-2024-37302）的补丁",
+    "verify": "已验证",
+    "submit_time": "2024-07-31",
+    "open_time": "2024-09-04",
+    "update_time": "2024-09-04",
+    "data_summary": "6ad43e6f7619bc2a8fd7042c68fd7dc5"
+}

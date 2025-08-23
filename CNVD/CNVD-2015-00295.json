@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-23 08:06:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2015-00295",
+    "spider_time": 1755936415937,
+    "name": "方正翔宇CMS系统远程代码执行漏洞",
+    "cnvd": "CNVD-2015-00295",
+    "publish": "2024-12-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u5317\\u5927\\u65b9\\u6b63\\u7535\\u5b50\\u6709\\u9650\\u516c\\u53f8 \\u65b9\\u6b63\\u7fd4\\u5b87CMS\\u7f51\\u7ad9\\u5185\\u5bb9\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "方正翔宇CMS是一款网站内容管理系统。方正翔宇CMS系统存在远程代码执行漏洞,允许攻击者利用漏洞上传后门文件，取得网站服务器控制权。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "升级struts",
+    "patch": "方正翔宇网站内容管理系统存在远程命令执行漏洞",
+    "verify": "已验证",
+    "submit_time": "2014-12-08",
+    "open_time": "2015-01-15",
+    "update_time": "2015-01-15",
+    "data_summary": "4dfabf3f596ac764822a9fe951682503"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-23 08:09:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37617",
+    "spider_time": 1755936576682,
+    "name": "Kliqqi CMS跨站请求伪造漏洞（CNVD-2024-37617）",
+    "cnvd": "CNVD-2024-37617",
+    "publish": "2024-09-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Kliqqi Kliqqi CMS v2.0.2\"]",
+    "cve": "CVE-2024-42621",
+    "description": "Kliqqi CMS（Pligg CMS）是Kliqqi开源的一个内容管理系统。Kliqqi CMS v2.0.2版本存在跨站请求伪造漏洞，该漏洞源于/admin/admin_editor.php未充分验证请求是否来自可信用户，攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/jinwu1234567890/cms2/tree/main/12/readme.md",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/Kliqqi-CMS/Kliqqi-CMS",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-23",
+    "open_time": "2024-09-06",
+    "update_time": "2024-09-06",
+    "data_summary": "8c88e266cd0ab83dbd2a0ab7a5fc943e"
+}

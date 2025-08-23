@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-23 08:07:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2015-00082",
+    "spider_time": 1755936422180,
+    "name": "08cms SQL注入漏洞",
+    "cnvd": "CNVD-2015-00082",
+    "publish": "2024-12-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"08CMS 08cms\\u6c7d\\u8f66\\u95e8\\u6237\\u65d7\\u8230\\u7248\"]",
+    "cve": null,
+    "description": "08CMS是一个基于php+mysql的多用户网站汽车，房产门户程序。08cms存在通用型SQL注入漏洞，由于应用程序无法在SQL查询中使用它之前，正确过滤用户提供的输入。允许攻击者利用漏洞访问或修改数据库数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "过滤特殊字符",
+    "patch": "东莞鼎点网络科技08cms存在SQL注入漏洞",
+    "verify": "已验证",
+    "submit_time": "2014-12-04",
+    "open_time": "2015-01-08",
+    "update_time": "2015-01-08",
+    "data_summary": "e342c529dd855accf5c9b84bd6bf7941"
+}

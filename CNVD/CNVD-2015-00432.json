@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-23 08:06:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2015-00432",
+    "spider_time": 1755936407208,
+    "name": "山西省索易cms系统SQL注入漏洞",
+    "cnvd": "CNVD-2015-00432",
+    "publish": "2024-12-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"(\\u6682\\u65e0)\"]",
+    "cve": null,
+    "description": "山西索易公司的某cms系统大量部署于山西省内，该cms系统中后台登陆页面中的用户名未做有效过滤，存在sql注入漏洞（后台地址默认/manage/login.aspx），允许攻击者利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "对后台登陆时的用户名做sql注入过滤",
+    "patch": "山西省索易cms系统SQL注入漏洞",
+    "verify": "已验证",
+    "submit_time": "2014-12-23",
+    "open_time": "2015-01-21",
+    "update_time": "2015-01-21",
+    "data_summary": "7e4e66ac663e9b978fc4337e44985819"
+}
