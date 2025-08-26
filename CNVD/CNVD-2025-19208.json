@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-08-26 11:05:12",
+    "parse_time": "2025-08-26 12:08:22",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19208",
-    "spider_time": 1756206312360,
+    "spider_time": 1756210102839,
     "name": "WordPress Authentication and xmlrpc log writer plugin跨站脚本漏洞",
     "cnvd": "CNVD-2025-19208",
     "publish": "2025-08-21",
