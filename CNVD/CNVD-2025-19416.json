@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-26 07:05:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19416",
+    "spider_time": 1756191913514,
+    "name": "WordPress插件Build App Online跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-19416",
+    "publish": "2025-08-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"WordPress Build App Online plugin <=1.0.23\"]",
+    "cve": "CVE-2025-53249",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress插件Build App Online 1.0.23及之前版本存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-53249",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://patchstack.com/database/wordpress/plugin/build-app-online/vulnerability/wordpress-build-app-online-plugin-plugin-1-0-23-cross-site-request-forgery-csrf-vulnerability?_s_id=cve",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-26",
+    "update_time": "2025-08-26",
+    "data_summary": "edc045aa5ec5f11c4a516b50982b8bfb"
+}

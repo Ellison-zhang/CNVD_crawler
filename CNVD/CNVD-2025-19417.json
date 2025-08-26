@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-26 07:05:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19417",
+    "spider_time": 1756191916501,
+    "name": "WordPress插件Button Block跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-19417",
+    "publish": "2025-08-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Button Block plugin <=1.2.0\"]",
+    "cve": "CVE-2025-54694",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress插件Button Block 1.2.0及之前版本存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/button-block/vulnerability/wordpress-button-block-plugin-plugin-1-2-0-cross-site-request-forgery-csrf-vulnerability?_s_id=cve",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/button-block/",
+    "patch": "WordPress插件Button Block跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-26",
+    "update_time": "2025-08-26",
+    "data_summary": "e0a28cc338a0023cbf45279504ed386d"
+}

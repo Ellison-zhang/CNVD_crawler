@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-26 07:05:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19415",
+    "spider_time": 1756191908669,
+    "name": "WordPress插件Blogger Buzz跨站脚本漏洞",
+    "cnvd": "CNVD-2025-19415",
+    "publish": "2025-08-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"WordPress Blogger Buzz plugin <=1.2.6\"]",
+    "cve": "CVE-2025-54680",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress插件Blogger Buzz 1.2.6及之前版本存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/theme/blogger-buzz/vulnerability/wordpress-blogger-buzz-theme-theme-1-2-6-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress插件Blogger Buzz跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-26",
+    "update_time": "2025-08-26",
+    "data_summary": "a0d391095b4a3280586c826597bde646"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-26 07:04:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19425",
+    "spider_time": 1756191868228,
+    "name": "Huawei HarmonyOS distributed clipboard模块权限控制类漏洞漏洞",
+    "cnvd": "CNVD-2025-19425",
+    "publish": "2025-08-26",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Huawei HarmonyOS 5.0.1\", \"Huawei HarmonyOS 5.1.0\"]",
+    "cve": "CVE-2025-54618",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS distributed clipboard模块存在权限控制类漏洞漏洞，攻击者可利用该漏洞影响服务机密性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://consumer.huawei.com/en/support/bulletin/2025/8/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2025/8/",
+    "patch": "Huawei HarmonyOS distributed clipboard模块权限控制类漏洞漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-18",
+    "open_time": "2025-08-26",
+    "update_time": "2025-08-26",
+    "data_summary": "e329d8a20bbcfbe16bf9675c2a362a2a"
+}
