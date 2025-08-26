@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-26 06:05:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19413",
+    "spider_time": 1756188325999,
+    "name": "WordPress插件BizCalendar Web PHP远程文件包含漏洞",
+    "cnvd": "CNVD-2025-19413",
+    "publish": "2025-08-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress BizCalendar Web plugin <=1.1.0.50\"]",
+    "cve": "CVE-2025-7650",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress插件BizCalendar Web 1.1.0.50及之前版本存在PHP远程文件包含漏洞，该漏洞源于未对本地文件资源的调用做有效过滤，攻击者可利用该漏洞在服务器上包含和执行任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7650",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://wordpress.org/plugins/bizcalendar-web/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-26",
+    "update_time": "2025-08-26",
+    "data_summary": "8941e3bc10dd98f2ca7dc4c63ba8a503"
+}

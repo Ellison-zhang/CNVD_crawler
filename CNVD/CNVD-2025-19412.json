@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-26 06:05:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19412",
+    "spider_time": 1756188316617,
+    "name": "WordPress插件Bit Form builder代码问题漏洞",
+    "cnvd": "CNVD-2025-19412",
+    "publish": "2025-08-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Bit Form builder plugin <=2.20.4\"]",
+    "cve": "CVE-2025-6679",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress插件Bit Form builder 2.20.4及之前版本存在文件上传漏洞，该漏洞源于缺少文件类型验证，攻击者可利用该漏洞导致任意文件上传。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=3343461%40bit-form%2Ftrunk&old=3336733%40bit-form%2Ftrunk&sfp_email=&sfph_mail=",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/bit-form",
+    "patch": "WordPress插件Bit Form builder代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-26",
+    "update_time": "2025-08-26",
+    "data_summary": "4c0837694b914efbcaf60a28663d5c85"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-26 06:05:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19411",
+    "spider_time": 1756188311285,
+    "name": "WordPress插件Barcode Scanner with Inventory & Order Manager路径遍历漏洞",
+    "cnvd": "CNVD-2025-19411",
+    "publish": "2025-08-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"WordPress Barcode Scanner with Inventory & Order Manager plugin <=1.9.0\"]",
+    "cve": "CVE-2025-54715",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress插件Barcode Scanner with Inventory & Order Manager 1.9.0及之前版本存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素。攻击者可利用该漏洞导致任意文件读取。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/barcode-scanner-lite-pos-to-manage-products-inventory-and-orders/vulnerability/wordpress-barcode-scanner-with-inventory-order-manager-plugin-plugin-1-9-0-arbitrary-file-download-vulnerability?_s_id=cve",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/barcode-scanner-lite-pos-to-manage-products-inventory-and-orders/",
+    "patch": "WordPress插件Barcode Scanner with Inventory & Order Manager路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-26",
+    "update_time": "2025-08-26",
+    "data_summary": "e26f99594028ce342e62104be4d3056d"
+}
