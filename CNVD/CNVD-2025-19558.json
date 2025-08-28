@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-28 07:04:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19558",
+    "spider_time": 1756364643736,
+    "name": "Mozilla Focus for iOS跨站脚本漏洞（CNVD-2025-19558）",
+    "cnvd": "CNVD-2025-19558",
+    "publish": "2025-08-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Mozilla Focus for iOS <142\"]",
+    "cve": "CVE-2025-55032",
+    "description": "Mozilla Focus for iOS是美国Mozilla基金会的一款专为iOS设备设计的隐私浏览器。Mozilla Focus for iOS 142之前版本存在跨站脚本漏洞，该漏洞源于未正确处理Content-Disposition标头，攻击者可利用该漏洞窃取受害者基于cookie的身份验证凭据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.mozilla.org/security/advisories/mfsa2025-69/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2025-69/",
+    "patch": "Mozilla Focus for iOS跨站脚本漏洞（CNVD-2025-19558）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-26",
+    "open_time": "2025-08-28",
+    "update_time": "2025-08-28",
+    "data_summary": "b0c5f35d6f1008a3349b8767d1cdc3f9"
+}

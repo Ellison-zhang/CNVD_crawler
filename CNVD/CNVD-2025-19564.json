@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-28 07:04:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19564",
+    "spider_time": 1756364679220,
+    "name": "Mozilla Firefox for iOS安全绕过漏洞（CNVD-2025-19564）",
+    "cnvd": "CNVD-2025-19564",
+    "publish": "2025-08-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Mozilla Firefox for iOS <141\"]",
+    "cve": "CVE-2025-54145",
+    "description": "Mozilla Firefox for iOS是美国Mozilla基金会的一款针对iOS设备设计的网页浏览器。Mozilla Firefox for iOS 141之前版本存在安全绕过漏洞，该漏洞源于QR扫描器可能允许打开任意网站。攻击者可利用该漏洞允许加载任意网站。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.mozilla.org/security/advisories/mfsa2025-60/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2025-60/",
+    "patch": "Mozilla Firefox for iOS安全绕过漏洞（CNVD-2025-19564）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-26",
+    "open_time": "2025-08-28",
+    "update_time": "2025-08-28",
+    "data_summary": "d7d9b6faa856ae190feef4447b86025d"
+}

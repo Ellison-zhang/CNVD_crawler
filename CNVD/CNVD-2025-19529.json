@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-28 07:07:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19529",
+    "spider_time": 1756364854437,
+    "name": "TOTOLINK EX1200T认证绕过漏洞",
+    "cnvd": "CNVD-2025-19529",
+    "publish": "2025-08-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK EX1200T  V4.1.2cu.5215\"]",
+    "cve": "CVE-2025-51451",
+    "description": "TOTOLINK EX1200T是中国吉翁电子（TOTOLINK）公司的一款Wi-Fi范围扩展器。TOTOLINK EX1200T存在认证绕过漏洞，该漏洞源于formLoginAuth.htm未正确验证登录请求，攻击者可利用该漏洞通过绕过身份验证，获取系统管理员权限，控制整个系统。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-51451",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://gist.github.com/lin-3-start/e42344d5caea881e5429fdd40fad1fd8",
+    "patch": "TOTOLINK EX1200T认证绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-21",
+    "open_time": "2025-08-28",
+    "update_time": "2025-08-28",
+    "data_summary": "d7bb99fd7faeaba0066cd4d82633947b"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-28 07:06:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19568",
+    "spider_time": 1756364772698,
+    "name": "Mozilla Firefox欺骗漏洞（CNVD-2025-19568）",
+    "cnvd": "CNVD-2025-19568",
+    "publish": "2025-08-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"Mozilla Firefox <142\"]",
+    "cve": "CVE-2025-9186",
+    "description": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Firefox 142之前版本存在欺骗漏洞，攻击者可利用该漏洞进行欺骗攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.mozilla.org/security/advisories/mfsa2025-64/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2025-64/",
+    "patch": "Mozilla Firefox欺骗漏洞（CNVD-2025-19568）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-26",
+    "open_time": "2025-08-28",
+    "update_time": "2025-08-28",
+    "data_summary": "08d3c4bd0ccafe0e75704b40f5553fcf"
+}
