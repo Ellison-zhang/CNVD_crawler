@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-29 12:12:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19915",
+    "spider_time": 1756469560999,
+    "name": "Intel Graphics Driver越界写入漏洞",
+    "cnvd": "CNVD-2025-19915",
+    "publish": "2025-08-29",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:P/A:C",
+    "product": "[\"Intel Graphics Driver\"]",
+    "cve": "CVE-2024-29222",
+    "description": "Intel Graphics Driver是英特尔为Arc系列显卡、Iris Xe显卡及搭载Arc GPU的Core Ultra处理器用户提供的官方驱动程序。Intel Graphics Driver存在越界写入漏洞，攻击者可利用该漏洞导致本地拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-29222",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://intel.com/content/www/us/en/security-center/advisory/intel-sa-01253.html",
+    "patch": "Intel Graphics Driver越界写入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-08-29",
+    "update_time": "2025-08-29",
+    "data_summary": "72ba1d69625cb37d00ef155ee23798e4"
+}
