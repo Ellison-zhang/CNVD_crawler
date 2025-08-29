@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-29 09:07:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19800",
+    "spider_time": 1756458420298,
+    "name": "Intel 800 Series Ethernet权限提升漏洞",
+    "cnvd": "CNVD-2025-19800",
+    "publish": "2025-08-29",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Intel 800 Series Ethernet <1.17.2\"]",
+    "cve": "CVE-2025-22893",
+    "description": "Intel 800 Series Ethernet是英特尔推出的新一代高速以太网技术，支持25GbE和100GbE速度，并向下兼容10GbE。Intel 800 Series Ethernet存在权限提升漏洞，该漏洞源于控制流管理不足，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-22893",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://intel.com/content/www/us/en/security-center/advisory/intel-sa-01296.html",
+    "patch": "Intel 800 Series Ethernet权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-29",
+    "update_time": "2025-08-29",
+    "data_summary": "a6c93c489431c0a6ccd52160932496ac"
+}
