@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-02 04:05:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19995",
+    "spider_time": 1756785928439,
+    "name": "Google Android信息泄露漏洞（CNVD-2025-19995）",
+    "cnvd": "CNVD-2025-19995",
+    "publish": "2025-09-02",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Google Android 13\", \"Google Android 12L\", \"Google Android 14\", \"Google android 15\"]",
+    "cve": "CVE-2025-0086",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在信息泄露漏洞，该漏洞是由于AccountManagerService.java的Result中缺少权限检查造成的。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://source.android.com/security/bulletin/2025-03-01",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/docs/security/bulletin/2025-03-01?hl=zh-cn",
+    "patch": "Google Android信息泄露漏洞（CNVD-2025-19995）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-28",
+    "open_time": "2025-09-02",
+    "update_time": "2025-09-02",
+    "data_summary": "c60f9a398c174a58851c95710fb914aa"
+}

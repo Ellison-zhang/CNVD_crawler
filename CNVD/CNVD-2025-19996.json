@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-02 04:05:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19996",
+    "spider_time": 1756785932702,
+    "name": "Google Android存在未明漏洞（CNVD-2025-19996）",
+    "cnvd": "CNVD-2025-19996",
+    "publish": "2025-09-02",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Google Android\"]",
+    "cve": "CVE-2025-22413",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在安全漏洞，该漏洞源于hyp-main.c中多处函数存在逻辑错误，攻击者可利用该漏洞导致本地信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://source.android.com/security/bulletin/2025-03-01",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-03-01",
+    "patch": "Google Android存在未明漏洞（CNVD-2025-19996）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-28",
+    "open_time": "2025-09-02",
+    "update_time": "2025-09-02",
+    "data_summary": "f83b17aa3f3b194411e91e4668401fbb"
+}
