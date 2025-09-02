@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-02 07:07:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20019",
+    "spider_time": 1756796845110,
+    "name": "SAMSUNG rLottie目录遍历漏洞",
+    "cnvd": "CNVD-2025-20019",
+    "publish": "2025-09-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Samsung rLottie 0.2\"]",
+    "cve": "CVE-2025-53075",
+    "description": "SAMSUNG rLottie是韩国三星（SAMSUNG）公司的一个独立于平台的独立c++ 库，用于实时渲染基于矢量的动画和艺术。SAMSUNG rLottie存在目录遍历漏洞，攻击者利用该漏洞遍历系统上的目录。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-53075",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/Samsung/rlottie/pull/571",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-09-02",
+    "update_time": "2025-09-02",
+    "data_summary": "a2e1d6f09e84829066ff368a6da7d47f"
+}

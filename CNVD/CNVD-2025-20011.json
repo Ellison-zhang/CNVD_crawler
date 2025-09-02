@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-02 07:04:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20011",
+    "spider_time": 1756796669094,
+    "name": "NVIDIA Triton Inference Server代码执行漏洞（CNVD-2025-20011）",
+    "cnvd": "CNVD-2025-20011",
+    "publish": "2025-09-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NVIDIA Triton Inference Server <25.07\"]",
+    "cve": "CVE-2025-23311",
+    "description": "NVIDIA Triton Inference Server是美国英伟达（NVIDIA）公司的一款开源软件，有助于标准化模型部署并在生产中提供快速且可扩展的AI。NVIDIA Triton Inference Server存在代码执行漏洞，攻击者可利用该漏洞执行任意代码、造成拒绝服务、获取信息泄露和数据篡改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvidia.custhelp.com/app/answers/detail/a_id/5687",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://github.com/triton-inference-server/server/releases",
+    "patch": "NVIDIA Triton Inference Server代码执行漏洞（CNVD-2025-20011）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-13",
+    "open_time": "2025-09-02",
+    "update_time": "2025-09-02",
+    "data_summary": "74a82568f601d3a5d3c687791d2e95ee"
+}

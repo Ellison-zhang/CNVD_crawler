@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-02 07:07:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20012",
+    "spider_time": 1756796848540,
+    "name": "Google Android存在未明漏洞（CNVD-2025-20012）",
+    "cnvd": "CNVD-2025-20012",
+    "publish": "2025-09-02",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Android\"]",
+    "cve": "CVE-2024-53835",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在安全漏洞，该漏洞源于异常的根本原因，可能存在生物识别绕过。攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://source.android.com/security/bulletin/pixel/2024-12-01",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/pixel/2024-12-01",
+    "patch": "Google Android存在未明漏洞（CNVD-2025-20012）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-16",
+    "open_time": "2025-09-02",
+    "update_time": "2025-09-02",
+    "data_summary": "6b4f1dbdf7ca0f0fa17f9bce2b7e31a1"
+}
