@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-03 05:04:16",
+    "parse_time": "2025-09-03 06:06:34",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20149",
-    "spider_time": 1756875856793,
+    "spider_time": 1756879594212,
     "name": "Tenda AC6 saveParentControlInfo函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-20149",
     "publish": "2025-09-02",
