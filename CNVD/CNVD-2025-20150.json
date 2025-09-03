@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-03 05:04:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20150",
+    "spider_time": 1756875861083,
+    "name": "NETGEAR R7000P缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-20150",
+    "publish": "2025-09-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR R7000P V1.3.0.8\"]",
+    "cve": "CVE-2022-44196",
+    "description": "NETGEAR R7000P是Netgear公司推出的Nighthawk系列双频路由器，主要面向游戏、流媒体和移动设备优化。NETGEAR R7000P存在缓冲区溢出漏洞，该漏洞源于通过参数openvpn_push1受到缓冲区溢出的影响。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.netgear.com/about/security",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-11-25",
+    "open_time": "2025-09-03",
+    "update_time": "2025-09-03",
+    "data_summary": "3e98d18857eb093f6b0b0082ef01c2e8"
+}

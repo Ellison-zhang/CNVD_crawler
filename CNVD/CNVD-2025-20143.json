@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-03 05:03:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20143",
+    "spider_time": 1756875824744,
+    "name": "Tenda AC10权限提升漏洞",
+    "cnvd": "CNVD-2025-20143",
+    "publish": "2025-09-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Tenda AC10 v4.0 v16.03.10.09_multi_TDE01\"]",
+    "cve": "CVE-2025-57220",
+    "description": "Tenda AC10是深圳市吉祥腾达科技有限公司推出的双频千兆无线路由器，主要面向200M及以上光纤用户。Tenda AC10存在权限提升漏洞，该漏洞源于ate服务输入验证缺陷，导致通过特制UDP数据包提升至root权限。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plaid-knot-11b.notion.site/Unauthenticated-Remote-Root-Shell-via-Input-Validation-Flaw-in-ate-Service-on-Tenda-AC10-V4-0-23fb3e9cce32804d93aad7e79a82a7aa?source=copy_link",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-31",
+    "open_time": "2025-09-03",
+    "update_time": "2025-09-03",
+    "data_summary": "f86a32d6175e994df86389d8b211a5f5"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-03 05:04:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20151",
+    "spider_time": 1756875867318,
+    "name": "NETGEAR ReadyNAS OS跨站脚本漏洞",
+    "cnvd": "CNVD-2025-20151",
+    "publish": "2025-09-02",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:M/Au:S/C:N/I:P/A:N",
+    "product": "[\"NETGEAR ReadyNAS OS <6 6.8.0\"]",
+    "cve": "CVE-2017-18810",
+    "description": "NETGEAR ReadyNAS OS是美国网件公司（NETGEAR）开发的专用操作系统，专为ReadyNAS网络附加存储（NAS）设备设计，提供数据保护、备份、同步及云管理等功能。NETGEAR ReadyNAS OS存在跨站脚本漏洞，该漏洞源于WEB应用缺少对客户端数据的正确验证。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2017-18810",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://kb.netgear.com/000049055/Security-Advisory-for-Stored-Cross-Site-Scripting-Vulnerability-on-Some-ReadyNAS-Devices-PSV-2017-0300",
+    "patch": "NETGEAR ReadyNAS OS跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2020-04-22",
+    "open_time": "2025-09-03",
+    "update_time": "2025-09-03",
+    "data_summary": "f21a7b61e213cb36f96f8db851f4cdf8"
+}
