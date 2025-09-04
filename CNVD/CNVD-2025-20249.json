@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-04 03:14:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20249",
+    "spider_time": 1756955647870,
+    "name": "libbiosig堆栈缓冲区溢出漏洞（CNVD-2025-20249）",
+    "cnvd": "CNVD-2025-20249",
+    "publish": "2025-09-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"BioSig Project libbiosig 3.9.0\"]",
+    "cve": "CVE-2025-54487",
+    "description": "libbiosig是BioSig Project开源的一个用于生物医学信号处理的开源软件库。具有生物信号分析功能。libbiosig存在堆栈缓冲区溢出漏洞，攻击者可利用该漏洞导致执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://talosintelligence.com/vulnerability_reports/TALOS-2025-2234",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://biosig.sourceforge.net/download.html",
+    "patch": "libbiosig堆栈缓冲区溢出漏洞（CNVD-2025-20249）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-28",
+    "open_time": "2025-09-04",
+    "update_time": "2025-09-04",
+    "data_summary": "b881349c272c8fed1ad694dd143e7be9"
+}
