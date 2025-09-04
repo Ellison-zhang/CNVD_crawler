@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-04 09:04:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20305",
+    "spider_time": 1756976640125,
+    "name": "WordPress Events Addon for Elementor plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-20305",
+    "publish": "2025-09-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Events Addon for Elementor plugin <=2.2.9\"]",
+    "cve": "CVE-2025-8150",
+    "description": "WordPress Events Addon for Elementor plugin是一款专为Elementor页面构建器设计的插件，主要用于创建活动网站。WordPress Events Addon for Elementor plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.wordfence.com/threat-intel/vulnerabilities/id/c3122921-6bea-49e7-b1d7-77a291928497?source=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/events-addon-for-elementor/#developers",
+    "patch": "WordPress Events Addon for Elementor plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-02",
+    "open_time": "2025-09-04",
+    "update_time": "2025-09-04",
+    "data_summary": "ea6a35a4407ed0d2327d38bd507ca263"
+}

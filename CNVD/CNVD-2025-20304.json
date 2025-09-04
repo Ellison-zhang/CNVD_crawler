@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-04 09:03:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20304",
+    "spider_time": 1756976636317,
+    "name": "WordPress Booster for WooCommerce Plugin文件上传漏洞",
+    "cnvd": "CNVD-2025-20304",
+    "publish": "2025-09-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Booster for WooCommerce Plugin <=7.2.4\"]",
+    "cve": "CVE-2024-13342",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Booster for WooCommerce Plugin存在文件上传漏洞，该漏洞源于add_files_to_order函数缺少文件类型验证，攻击者可利用该漏洞导致任意文件上传和远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.wordfence.com/threat-intel/vulnerabilities/id/5ac8a125-121c-4392-846e-625726043972?source=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/woocommerce-jetpack/",
+    "patch": "WordPress Booster for WooCommerce Plugin文件上传漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-02",
+    "open_time": "2025-09-04",
+    "update_time": "2025-09-04",
+    "data_summary": "893fde3681a31632641f97f506185a45"
+}
