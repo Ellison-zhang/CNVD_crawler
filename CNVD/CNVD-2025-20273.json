@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-04 05:03:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20273",
+    "spider_time": 1756962217584,
+    "name": "Tenda AC9硬编码漏洞",
+    "cnvd": "CNVD-2025-20273",
+    "publish": "2025-09-04",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"Tenda AC9  15.03.05.19\"]",
+    "cve": "CVE-2025-9731",
+    "description": "Tenda AC9是深圳市吉祥腾达科技有限公司于2016年推出的双频无线路由器。Tenda AC9存在硬编码漏洞，该漏洞源于组件管理接口的文件/etc_ro/shadow的未知函数，攻击者可利用该漏洞导致机密性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-9731",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-02",
+    "open_time": "2025-09-04",
+    "update_time": "2025-09-04",
+    "data_summary": "ef6bd2d881ccdd810170633f2c517258"
+}

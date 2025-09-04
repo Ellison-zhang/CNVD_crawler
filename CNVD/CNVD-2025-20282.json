@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-04 05:04:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20282",
+    "spider_time": 1756962261991,
+    "name": "Tenda AC9 add_white_node函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-20282",
+    "publish": "2025-09-04",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda AC9  V3.0 V15.03.06.42_multi\"]",
+    "cve": "CVE-2024-25746",
+    "description": "Tenda AC9是深圳市吉祥腾达科技有限公司于2016年推出的双频无线路由器。Tenda AC9存在缓冲区溢出漏洞，该漏洞源于add_white_node函数，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/TimeSeg/IOT_CVE/blob/main/tenda/AC9V3/0218/add_white_node.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-02-26",
+    "open_time": "2025-09-04",
+    "update_time": "2025-09-04",
+    "data_summary": "d714d2857160ebfa8362d8124e15b000"
+}

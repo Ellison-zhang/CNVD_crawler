@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-04 05:04:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20278",
+    "spider_time": 1756962242253,
+    "name": "Online Shopping Portal Project bill-ship-addresses.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-20278",
+    "publish": "2025-09-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Online Shopping Portal Project Online Shopping Portal Project 2.0\"]",
+    "cve": "CVE-2025-9012",
+    "description": "Online Shopping Portal Project是一个网上购物门户项目。Online Shopping Portal Project存在SQL注入漏洞，该漏洞源于文件shopping/bill-ship-addresses.php中参数billingpincode缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/StrongDog23/myCVE/issues/2",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-09-04",
+    "update_time": "2025-09-04",
+    "data_summary": "a4f18bac58f6e2c42801cd3b0096d012"
+}
