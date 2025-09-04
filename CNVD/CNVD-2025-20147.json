@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-04 07:04:15",
+    "parse_time": "2025-09-04 08:05:26",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20147",
-    "spider_time": 1756969455920,
+    "spider_time": 1756973126029,
     "name": "Tenda AC6 fromSetSysTime函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-20147",
     "publish": "2025-09-02",
