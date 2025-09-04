@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-04 02:27:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20226",
+    "spider_time": 1756952862782,
+    "name": "WordPress插件Ajax Search Lite信息泄露漏洞",
+    "cnvd": "CNVD-2025-20226",
+    "publish": "2025-09-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"WordPress Ajax Search Lite Plugin <=4.13.1\"]",
+    "cve": "CVE-2025-7956",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress插件Ajax Search Lite存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-48323",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/ajax-search-lite",
+    "patch": "WordPress插件Ajax Search Lite信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-31",
+    "open_time": "2025-09-04",
+    "update_time": "2025-09-04",
+    "data_summary": "3145f6137bef5a0127fbffe2c39ba0e0"
+}
