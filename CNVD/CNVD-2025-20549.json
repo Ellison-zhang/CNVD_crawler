@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-05 10:05:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20549",
+    "spider_time": 1757066726257,
+    "name": "Tenda AC7 fromSetRouteStatic方法缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-20549",
+    "publish": "2025-09-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda Ac7 Firmware 15.03.06.44\"]",
+    "cve": "CVE-2024-2898",
+    "description": "Tenda AC7是腾达科技推出的一款专为大户型设计的1200M双频无线路由器，采用802.11ac标准，支持双频并发传输，无线速率可达1167Mbps。Tenda AC7存在缓冲区溢出漏洞，该漏洞源于fromSetRouteStatic方法的list参数存在缓冲区溢出漏洞。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.257941\nhttps://vuldb.com/?ctiid.257941\nhttps://vuldb.com/?submit.300361\nhttps://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/AC7/v1/fromSetRouteStatic.md\nhttps://cxsecurity.com/cveshow/CVE-2024-2898/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-2776.html",
+    "patch": "Tenda AC7 fromSetRouteStatic方法缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-28",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "575d39e58fed50d929b00418f8993dfa"
+}

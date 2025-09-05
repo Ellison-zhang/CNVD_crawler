@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-05 10:04:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20602",
+    "spider_time": 1757066651832,
+    "name": "D-Link DIR-619L存在未明漏洞",
+    "cnvd": "CNVD-2025-20602",
+    "publish": "2025-09-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:M/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-619L 6.02CN02\"]",
+    "cve": "CVE-2025-8978",
+    "description": "D-Link DIR-619L是友讯（D-Link）推出的家用无线路由器，专为家庭及小型办公环境设计，采用IEEE 802.11n无线标准，最高传输速率达300Mbps。D-Link DIR-619L存在安全漏洞，该漏洞源于boa组件中函数FirmwareUpgrade的数据真实性验证不足。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-8978",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "44a5674e90c8f0857e4b075a9fc7a8bb"
+}
