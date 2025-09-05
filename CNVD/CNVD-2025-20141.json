@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-05 02:31:31",
+    "parse_time": "2025-09-05 03:15:45",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20141",
-    "spider_time": 1757039491907,
+    "spider_time": 1757042145617,
     "name": "Tenda AC10 R7WebsSecurityHandler函数栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-20141",
     "publish": "2025-09-02",
