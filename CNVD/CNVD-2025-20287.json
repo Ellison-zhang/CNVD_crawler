@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-05 03:14:57",
+    "parse_time": "2025-09-05 04:04:54",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20287",
-    "spider_time": 1757042097043,
+    "spider_time": 1757045094007,
     "name": "Kenwood DMX958XR ReadMVGImage函数操作系统命令注入漏洞",
     "cnvd": "CNVD-2025-20287",
     "publish": "2025-09-05",

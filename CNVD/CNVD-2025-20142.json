@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-05 03:15:50",
+    "parse_time": "2025-09-05 04:07:25",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20142",
-    "spider_time": 1757042150763,
+    "spider_time": 1757045245597,
     "name": "Tenda AC10 sub_46284C函数栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-20142",
     "publish": "2025-09-02",
