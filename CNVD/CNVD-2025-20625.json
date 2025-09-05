@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-05 11:07:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20625",
+    "spider_time": 1757070435273,
+    "name": "D-Link DIR-619L FILECODE参数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-20625",
+    "publish": "2025-09-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-619L 2.06beta\"]",
+    "cve": "CVE-2020-19319",
+    "description": "D-Link DIR-619L是友讯（D-Link）推出的家用无线路由器，专为家庭及小型办公环境设计，采用IEEE 802.11n无线标准，最高传输速率达300Mbps。D-Link DIR-619L存在缓冲区溢出漏洞，该漏洞源于登录时的FILECODE参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞执行任意代码或导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/hhhhu8045759/dir_619l-buffer-overflow",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-09-15",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "3bd0b4d922930e47bc6457e6581d3ac7"
+}
