@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-05 09:08:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20446",
+    "spider_time": 1757063287198,
+    "name": "Marvell QConvergeConsole路径遍历漏洞（CNVD-2025-20446）",
+    "cnvd": "CNVD-2025-20446",
+    "publish": "2025-09-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Marvell QConvergeConsole <=5.5.0.85\"]",
+    "cve": "CVE-2025-6807",
+    "description": "Marvell QConvergeConsole是美国Marvell公司的一款跨数据中心的统一适配器管理软件。Marvell QConvergeConsole存在路径遍历漏洞，该漏洞是由于getDriverTmpPath方法中的错误引起的。攻击者可利用该漏洞在SYSTEM上下文中泄露信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-25-463/",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.marvell.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-11",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "4628c742f4a64bdf7e9e4e55b860da2a"
+}

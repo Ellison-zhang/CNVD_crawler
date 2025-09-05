@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-05 09:04:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20454",
+    "spider_time": 1757063041293,
+    "name": "WordPress List Subpages plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-20454",
+    "publish": "2025-09-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress List Subpages plugin <=1.0.6\"]",
+    "cve": "CVE-2025-8290",
+    "description": "ordPress List Subpages plugin是一款用于显示当前页面子页面的插件，支持生成子页面列表和短代码，可动态生成包含参数的短代码。WordPress List Subpages plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.wordfence.com/threat-intel/vulnerabilities/id/b5a24a4a-654c-487e-af68-13db63961896?source=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-02",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "9184ca2f0273173ad76ced807a8b3485"
+}

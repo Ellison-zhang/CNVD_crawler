@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-05 09:06:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20467",
+    "spider_time": 1757063214792,
+    "name": "WordPress bidorbuy Store Integrator plugin代码注入漏洞",
+    "cnvd": "CNVD-2025-20467",
+    "publish": "2025-09-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"WordPress bidorbuy Store Integrator plugin <=2.12.0\"]",
+    "cve": "CVE-2025-48100",
+    "description": "WordPress bidorbuy Store Integrator plugin是一款用于将WordPress网站与Bidorbuy电商平台集成的插件，允许用户快速将商品同步至Bidorbuy平台并自动更新商品信息。WordPress bidorbuy Store Integrator plugin存在代码注入漏洞，该漏洞源于代码生成控制不当，攻击者可利用该漏洞导致远程代码包含。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/bidorbuystoreintegrator/vulnerability/wordpress-bidorbuy-store-integrator-plugin-2-10-0-remote-code-execution-rce-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-31",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "666f2d36c76fad52c24dae615614a73e"
+}
