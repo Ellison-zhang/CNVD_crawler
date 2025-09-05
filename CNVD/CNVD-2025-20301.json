@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-04 23:04:05",
+    "parse_time": "2025-09-05 00:14:36",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20301",
-    "spider_time": 1757027045012,
+    "spider_time": 1757031276261,
     "name": "Kenwood DMX958XR命令注入漏洞（CNVD-2025-20301）",
     "cnvd": "CNVD-2025-20301",
     "publish": "2025-09-05",
