@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-05 07:05:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20440",
+    "spider_time": 1757055914254,
+    "name": "Belkin F9K1122堆栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-20440",
+    "publish": "2025-09-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Belkin F9K1122 1.00.33\"]",
+    "cve": "CVE-2025-7086",
+    "description": "Belkin F9K1122是一款WiFi信号扩展器。Belkin F9K1122存在堆栈缓冲区溢出漏洞，该漏洞源于文件/goform/formPPTPSetup中参数pptpUserName未能正确验证输入数据的长度大小，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7086",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.belkin.com/my/support-article?articleNum=24903",
+    "patch": "Belkin F9K1122堆栈缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-11",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "69e5fc736241e5ccfd8788087c9ad6db"
+}

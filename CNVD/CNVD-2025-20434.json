@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-05 07:05:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20434",
+    "spider_time": 1757055953578,
+    "name": "Emby Server跨站脚本漏洞（CNVD-2025-20434）",
+    "cnvd": "CNVD-2025-20434",
+    "publish": "2025-09-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Emby Server Emby Server <4.6.0.50\"]",
+    "cve": "CVE-2021-25828",
+    "description": "Emby Server是一款个人媒体服务器软件，支持存储、管理和流化个人媒体内容，支持多种设备访问。Emby Server存在跨站脚本漏洞，该漏洞源于存在反射型跨站脚本（XSS）漏洞。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2021-25828",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://github.com/MediaBrowser/Emby.Releases/releases/tag/4.6.0.50",
+    "patch": "Emby Server跨站脚本漏洞（CNVD-2025-20434）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-07-12",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "76bcad60d37b7f361396d63276fbabb5"
+}
