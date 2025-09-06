@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-06 15:03:32",
+    "parse_time": "2025-09-06 16:03:51",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20286",
-    "spider_time": 1757171012863,
+    "spider_time": 1757174631469,
     "name": "Kenwood DMX958XR libSystemLib函数操作系统命令注入漏洞",
     "cnvd": "CNVD-2025-20286",
     "publish": "2025-09-05",
