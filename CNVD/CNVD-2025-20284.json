@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-07 07:03:45",
+    "parse_time": "2025-09-07 08:04:07",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20284",
-    "spider_time": 1757228625574,
+    "spider_time": 1757232247114,
     "name": "Kenwood DMX958XR堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-20284",
     "publish": "2025-09-05",
