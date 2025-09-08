@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-08 00:14:43",
+    "parse_time": "2025-09-08 01:32:08",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20285",
-    "spider_time": 1757290483794,
+    "spider_time": 1757295128228,
     "name": "Kenwood DMX958XR JKWifiService函数操作系统命令注入漏洞",
     "cnvd": "CNVD-2025-20285",
     "publish": "2025-09-05",
