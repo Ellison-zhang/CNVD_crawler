@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-09 06:05:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20812",
+    "spider_time": 1757397930960,
+    "name": "Alpine iLX-507命令注入漏洞（CNVD-2025-20812）",
+    "cnvd": "CNVD-2025-20812",
+    "publish": "2025-09-09",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Alpine iLX-507 6.0.000\"]",
+    "cve": "CVE-2025-8480",
+    "description": "Alpine iLX-507是美国Alpine公司的一个多媒体接收器。Alpine iLX-507存在命令注入漏洞，攻击者可利用该漏洞在设备上下文中执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-25-766/",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.alpine-usa.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-10",
+    "open_time": "2025-09-09",
+    "update_time": "2025-09-09",
+    "data_summary": "bf709078ae0b84d015fc450e1388b66c"
+}
