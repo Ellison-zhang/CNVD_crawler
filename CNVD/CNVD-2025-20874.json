@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-09 10:04:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20874",
+    "spider_time": 1757412299759,
+    "name": "Apache CloudStack权限提升漏洞（CNVD-2025-20874）",
+    "cnvd": "CNVD-2025-20874",
+    "publish": "2025-09-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Apache CloudStack >=4.20.0.0\\uff0c<4.20.1.0\", \"Apache CloudStack >=4.10.0.0\\uff0c<4.19.3.0\"]",
+    "cve": "CVE-2025-47849",
+    "description": "Apache CloudStack是美国阿帕奇（Apache）基金会的一套基础架构即服务（IaaS）云计算平台。该平台主要用于部署和管理大型虚拟机网络。Apache CloudStack存在安全漏洞，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cloudstack.apache.org/blog/cve-advisories-4.19.3.0-4.20.1.0/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cloudstack.apache.org/downloads/",
+    "patch": "Apache CloudStack权限提升漏洞（CNVD-2025-20874）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-23",
+    "open_time": "2025-09-09",
+    "update_time": "2025-09-09",
+    "data_summary": "486588d74ed400404761d418d930424d"
+}
