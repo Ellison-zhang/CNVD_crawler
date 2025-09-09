@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-09 02:32:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20775",
+    "spider_time": 1757385174007,
+    "name": "Akinsoft QR Menü存在未明漏洞",
+    "cnvd": "CNVD-2025-20775",
+    "publish": "2025-09-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Akinsoft QR Men\\u00fc >=s1.05.05\\uff0c<v1.05.12\"]",
+    "cve": "CVE-2024-12925",
+    "description": "Akinsoft QR Menü是土耳其Akinsoft公司的一款数字化二维码菜单系统。Akinsoft QR Menü s1.05.05至v1.05.12之前版本存在安全漏洞，该漏洞源于证书验证不当，攻击者可利用该漏洞导致HTTP响应拆分。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.usom.gov.tr/bildirim/tr-25-0202",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.akinsoft.com/cloud-solutions/qrmenu.php",
+    "patch": "Akinsoft QR Menü存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-04",
+    "open_time": "2025-09-09",
+    "update_time": "2025-09-09",
+    "data_summary": "677a2da8b2d971ed8981197424e2ba4b"
+}

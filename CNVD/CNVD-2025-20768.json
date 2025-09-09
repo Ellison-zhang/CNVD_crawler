@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-09 02:30:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20768",
+    "spider_time": 1757385039038,
+    "name": "Akinsoft ProKuafor安全绕过漏洞",
+    "cnvd": "CNVD-2025-20768",
+    "publish": "2025-09-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"Akinsoft ProKuafor >=s1.02.07\\uff0c<v1.02.08\"]",
+    "cve": "CVE-2025-0670",
+    "description": "Akinsoft ProKuafor是土耳其Akinsoft公司的一个在线预约与客户管理平台。Akinsoft ProKuafor s1.02.07至v1.02.08之前版本存在安全绕过漏洞，攻击者可利用该漏洞导致资源泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.usom.gov.tr/bildirim/tr-25-0204",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.akinsoft.com.tr/bulut-cozumler/prokuafor",
+    "patch": "Akinsoft ProKuafor安全绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-04",
+    "open_time": "2025-09-09",
+    "update_time": "2025-09-09",
+    "data_summary": "030dafa69ecc1b55919e6a1783f98504"
+}
