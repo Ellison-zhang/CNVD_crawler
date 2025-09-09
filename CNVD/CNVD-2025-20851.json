@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-09 12:09:25",
+    "parse_time": "2025-09-09 13:17:12",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20851",
-    "spider_time": 1757419765551,
+    "spider_time": 1757423832759,
     "name": "QNAP Systems File Station 5空指针取消引用漏洞（CNVD-2025-20851）",
     "cnvd": "CNVD-2025-20851",
     "publish": "2025-09-08",
