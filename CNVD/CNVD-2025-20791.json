@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-09 03:28:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20791",
+    "spider_time": 1757388538725,
+    "name": "TOTOLINK A702R /boafrm/formParentControl文件缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-20791",
+    "publish": "2025-09-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A702R 4.0.0-B20211108.1423\"]",
+    "cve": "CVE-2025-9783",
+    "description": "TOTOLINK A702R是一款由中国吉翁电子（TOTOLINK）公司生产的无线路由器设备，主要用于家庭网络连接和信号覆盖。TOTOLINK A702R存在缓冲区溢出漏洞，该漏洞源于文件/boafrm/formParentControl中参数submit-url未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-9783",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-04",
+    "open_time": "2025-09-09",
+    "update_time": "2025-09-09",
+    "data_summary": "fc3ebecefc84e51ad87fd3972f934fe6"
+}

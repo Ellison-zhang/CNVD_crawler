@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-09 03:17:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20777",
+    "spider_time": 1757387830149,
+    "name": "FreeScout跨站脚本漏洞",
+    "cnvd": "CNVD-2025-20777",
+    "publish": "2025-09-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Freescout Freescout <1.8.180\"]",
+    "cve": "CVE-2025-48486",
+    "description": "FreeScout是FreeScout公司的一个使用PHP（Laravel框架）构建的超轻量免费开源帮助台和共享收件箱。FreeScout 存在跨站脚本漏洞，该漏洞源于Session::flash函数中缺少输入验证和清理，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-48486",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://freescout.net/",
+    "patch": "FreeScout跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-06",
+    "open_time": "2025-09-09",
+    "update_time": "2025-09-09",
+    "data_summary": "8835b7c1c2548a06b7689bd5a5b941ee"
+}
