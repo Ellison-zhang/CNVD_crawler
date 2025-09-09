@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-09 08:05:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20825",
+    "spider_time": 1757405123035,
+    "name": "Complaint Management System in PHP subcategory.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-20825",
+    "publish": "2025-09-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Complaint Management System in PHP Complaint Management System in PHP 2.0\"]",
+    "cve": "CVE-2025-57150",
+    "description": "Complaint Management System in PHP是一个投诉管理系统。Complaint Management System in PHP存在跨站脚本漏洞，该漏洞源于admin/subcategory.php中categoryName参数对用户提供的数据缺乏有效过滤与转义，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://doc.clickup.com/3897127/p/h/3pxt7-12756/8bc08c993926810",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-05",
+    "open_time": "2025-09-09",
+    "update_time": "2025-09-09",
+    "data_summary": "7bc4c883ae75741bb2036f96d5bbfe86"
+}
