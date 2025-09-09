@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-09 04:04:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20803",
+    "spider_time": 1757390692648,
+    "name": "SAMSUNG MagicINFO 9 Server文件上传漏洞（CNVD-2025-20803）",
+    "cnvd": "CNVD-2025-20803",
+    "publish": "2025-09-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Samsung MagicINFO 9 Server <21.1080.0\"]",
+    "cve": "CVE-2025-54441",
+    "description": "SAMSUNG MagicINFO 9 Server是韩国三星（SAMSUNG）公司的一个企业级数字标牌内容管理与设备监控平台。SAMSUNG MagicINFO 9 Server存在文件上传漏洞，该漏洞源于未对上传文件类型进行严格校验。攻击者可利用该漏洞上传恶意脚本，在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://security.samsungtv.com/securityUpdates",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://security.samsungtv.com/securityUpdates",
+    "patch": "SAMSUNG MagicINFO 9 Server文件上传漏洞（CNVD-2025-20803）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-24",
+    "open_time": "2025-09-09",
+    "update_time": "2025-09-09",
+    "data_summary": "b53f31b06f868ff1cf9e59ec747a2179"
+}
