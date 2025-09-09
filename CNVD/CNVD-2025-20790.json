@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-09 16:06:39",
+    "parse_time": "2025-09-09 17:07:28",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20790",
-    "spider_time": 1757433999218,
+    "spider_time": 1757437648046,
     "name": "TOTOLINK A702R /boafrm/formOneKeyAccessButton文件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-20790",
     "publish": "2025-09-08",
