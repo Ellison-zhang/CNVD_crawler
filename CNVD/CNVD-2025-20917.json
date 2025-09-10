@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-10 07:05:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20917",
+    "spider_time": 1757487947562,
+    "name": "Beauty Parlour Management System book-appointment.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-20917",
+    "publish": "2025-09-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Beauty Parlour Management System Beauty Parlour Management System 1.1\"]",
+    "cve": "CVE-2025-9024",
+    "description": "Beauty Parlour Management System是一个是用于规范美容院经营流程、提升管理效率的软件系统。Beauty Parlour Management System存在SQL注入漏洞，该漏洞源于文件/book-appointment.php中参数Message缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/StrongDog23/myCVE/issues/4",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-09-10",
+    "update_time": "2025-09-10",
+    "data_summary": "3648be91008ab8605c315180bd531107"
+}

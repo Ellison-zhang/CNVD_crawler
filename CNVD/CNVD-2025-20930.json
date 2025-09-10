@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-10 07:03:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20930",
+    "spider_time": 1757487839238,
+    "name": "TOTOLINK X5000R命令注入漏洞",
+    "cnvd": "CNVD-2025-20930",
+    "publish": "2025-09-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK X5000R 9.1.0cu.2415_B20250515\"]",
+    "cve": "CVE-2025-9934",
+    "description": "TOTOLINK X5000R是一款支持Wi-Fi 6技术的无线路由器，具备全覆盖Mesh系统和双频段传输功能，适用于家庭及企业网络环境。TOTOLINK X5000R存在命令注入漏洞，该漏洞源于文件/cgi-bin/cstecgi.cgi中参数pid未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Axelioc/CVE/blob/main/TOTOLINK/X5000R/sub_410C34/sub_410C34.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-09-10",
+    "update_time": "2025-09-10",
+    "data_summary": "8bcdd5f31e4c4a78e4cf86b5049e2bd4"
+}
