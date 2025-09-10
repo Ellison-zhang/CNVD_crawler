@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-10 19:03:43",
+    "parse_time": "2025-09-10 20:04:46",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20926",
-    "spider_time": 1757531023123,
+    "spider_time": 1757534686704,
     "name": "Online Course Registration admin/student-registration.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-20926",
     "publish": "2025-09-09",
