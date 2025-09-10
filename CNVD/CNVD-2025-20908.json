@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-10 04:04:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20908",
+    "spider_time": 1757477077591,
+    "name": "WordPress插件Add to Feedly跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-20908",
+    "publish": "2025-09-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"WordPress Add to Feedly plugin <=1.2.11\"]",
+    "cve": "CVE-2025-58859",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress插件Add to Feedly存在跨站请求伪造漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/add-to-feedly/vulnerability/wordpress-add-to-feedly-plugin-1-2-11-cross-site-request-forgery-csrf-vulnerability?_s_id=cve",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/add-to-feedly/",
+    "patch": "WordPress插件Add to Feedly跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-09",
+    "open_time": "2025-09-10",
+    "update_time": "2025-09-10",
+    "data_summary": "1693bf83219934a001e107fdac098e7e"
+}
