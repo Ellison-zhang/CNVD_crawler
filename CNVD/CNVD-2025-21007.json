@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-11 07:05:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21007",
+    "spider_time": 1757574333157,
+    "name": "TOTOLINK A830R QUERY_STRING命令注入漏洞",
+    "cnvd": "CNVD-2025-21007",
+    "publish": "2025-09-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"TOTOLINK A830R V4.1.2cu.5182\"]",
+    "cve": "CVE-2022-48069",
+    "description": "TOTOLINK A830R是一款双频无线路由器，支持2.4GHz和5GHz频段，最高无线传输速率为1200Mbps，适合家庭网络覆盖需求。TOTOLINK A830R存在命令注入漏洞，漏洞源于其QUERY_STRING参数允许攻击者实现命令注入，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://befitting-vinca-933.notion.site/Totolink-A830R-V4-1-2cu-5182-command-injection-2a88f84e3f3543758277ddf3a76c9d31",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-01-30",
+    "open_time": "2025-09-11",
+    "update_time": "2025-09-11",
+    "data_summary": "4639e52a7fc40eb22b80f4c884744127"
+}

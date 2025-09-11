@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-11 07:05:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21024",
+    "spider_time": 1757574308081,
+    "name": "TOTOLINK NR1800X setSmsCfg方法的text参数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-21024",
+    "publish": "2025-09-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK NR1800X V9.1.0u.6279_B20210910\"]",
+    "cve": "CVE-2022-41528",
+    "description": "TOTOLINK NR1800X是中国吉翁电子（TOTOLINK）公司推出的5G NR室内Wi-Fi和SIP CPE（宽带接入设备），主要用于家庭和办公室的NR固定数据服务部署，支持5G NR网络连接。TOTOLINK NR1800X存在缓冲区溢出漏洞，该漏洞源于setSmsCfg方法的text参数存在堆栈溢出。攻击者可利用该漏洞提交特殊的请求，可使应用程序崩溃或以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://brief-nymphea-813.notion.site/NR1800X-bof-setSmsCfg-0f2be43baa9842d79ae6bafbded574f8",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-10-08",
+    "open_time": "2025-09-11",
+    "update_time": "2025-09-11",
+    "data_summary": "518fc4cc2d7e61aff89c4047ad928aa8"
+}

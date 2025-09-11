@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-11 07:05:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21006",
+    "spider_time": 1757574328144,
+    "name": "TOTOLINK A830R信息泄露漏洞",
+    "cnvd": "CNVD-2025-21006",
+    "publish": "2025-09-10",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"TOTOLINK A830R V4.1.2cu.5182\"]",
+    "cve": "CVE-2022-48067",
+    "description": "TOTOLINK A830R是一款双频无线路由器，支持2.4GHz和5GHz频段，最高无线传输速率为1200Mbps，适合家庭网络覆盖需求。TOTOLINK A830R存在信息泄露漏洞，攻击者可利用该漏洞通过暴力攻击获取根密码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://befitting-vinca-933.notion.site/Totolink-A830R-V4-1-2cu-5182-Sensitive-Information-Disclosure-567f4a17d5cc401b97e5c3e61aae8ca0",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-01-30",
+    "open_time": "2025-09-11",
+    "update_time": "2025-09-11",
+    "data_summary": "23725d71f5f13da44a2cba9ace5d9944"
+}
