@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-11 18:05:29",
+    "parse_time": "2025-09-11 19:06:12",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21017",
-    "spider_time": 1757613929519,
+    "spider_time": 1757617572914,
     "name": "TOTOLINK LR350 setDiagnosisCfg函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-21017",
     "publish": "2025-09-10",
