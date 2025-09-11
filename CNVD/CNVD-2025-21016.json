@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-11 20:12:14",
+    "parse_time": "2025-09-11 21:04:47",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21016",
-    "spider_time": 1757621534036,
+    "spider_time": 1757624687686,
     "name": "TOTOLINK LR350 setIpPortFilterRules函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-21016",
     "publish": "2025-09-10",
