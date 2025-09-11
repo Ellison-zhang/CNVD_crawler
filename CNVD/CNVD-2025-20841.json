@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-11 16:07:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20841",
+    "spider_time": 1757606854324,
+    "name": "Huawei HarmonyOS lock screen模块状态验证漏洞",
+    "cnvd": "CNVD-2025-20841",
+    "publish": "2025-09-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:P/A:P",
+    "product": "[\"Huawei HarmonyOS 5.0.1\"]",
+    "cve": "CVE-2025-54606",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS lock screen模块存在状态验证漏洞，攻击者可利用该漏洞导致机密性，可用性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://consumer.huawei.com/en/support/bulletin/2025/8/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2025/8/",
+    "patch": "Huawei HarmonyOS lock screen模块状态验证漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-18",
+    "open_time": "2025-09-09",
+    "update_time": "2025-09-09",
+    "data_summary": "0cd11958def5d4a46c813ab96328b711"
+}
