@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-11 14:04:36",
+    "parse_time": "2025-09-11 15:04:45",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21013",
-    "spider_time": 1757599476669,
+    "spider_time": 1757603085072,
     "name": "TOTOLINK LR350 setParentalRules函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-21013",
     "publish": "2025-09-10",
