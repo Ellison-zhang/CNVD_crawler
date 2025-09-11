@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-11 10:04:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21108",
+    "spider_time": 1757585051629,
+    "name": "appRain CMF SQL注入漏洞（CNVD-2025-21108）",
+    "cnvd": "CNVD-2025-21108",
+    "publish": "2025-09-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"appRain appRain CMF 4.0.5\"]",
+    "cve": "CVE-2025-41032",
+    "description": "appRain CMF是一个内容管理框架。appRain CMF存在SQL注入漏洞，该漏洞源于/apprain/admin/manage/add的data%5BAdmin%5D%5Busername%5D参数缺少对外部输入SQL语句的验证。攻击者可利用该漏洞在后端数据库中查看、添加、修改或删除信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-41032",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.incibe.es/en/incibe-cert/notices/aviso/multiple-vulnerabilities-apprain-cmf",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-09-11",
+    "update_time": "2025-09-11",
+    "data_summary": "a56e3c0b05630bb9c39c79927eee66f2"
+}
