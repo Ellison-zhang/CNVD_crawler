@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-11 09:04:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21060",
+    "spider_time": 1757581470205,
+    "name": "Fuji Electric Monitouch V-SFT缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-21060",
+    "publish": "2025-09-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Fuji Electric Monitouch V-SFT <6.2.3.0\"]",
+    "cve": "CVE-2024-34171",
+    "description": "Fuji Electric Monitouch V-SFT是富士电机公司开发的一款人机界面（HMI）配置软件，主要用于工业自动化领域，提供触摸屏界面设计、PDF文档查看、视频播放、报警消息等功能。Fuji Electric Monitouch V-SFT存在缓冲区溢出漏洞，该漏洞源于程序未能对输入数据进行适当的边界检查。攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-151-02",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://felib.fujielectric.co.jp/ja/M10009/M20104/document_detail/55ff739b-bd06-4241-b078-3b9c9728bdfd",
+    "patch": "Fuji Electric Monitouch V-SFT缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-03",
+    "open_time": "2025-09-11",
+    "update_time": "2025-09-11",
+    "data_summary": "f1face7306b3c2bcb88e1b5f6c0c7269"
+}

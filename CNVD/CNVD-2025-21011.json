@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-11 08:05:02",
+    "parse_time": "2025-09-11 09:06:26",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21011",
-    "spider_time": 1757577902039,
+    "spider_time": 1757581586574,
     "name": "TOTOLINK NR1800X setOpModeCfg函数命令注入漏洞",
     "cnvd": "CNVD-2025-21011",
     "publish": "2025-09-10",
