@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-12 03:12:02",
+    "parse_time": "2025-09-12 04:04:30",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21009",
-    "spider_time": 1757646722572,
+    "spider_time": 1757649870151,
     "name": "TOTOLINK NR1800X setUssd函数命令注入漏洞",
     "cnvd": "CNVD-2025-21009",
     "publish": "2025-09-10",
