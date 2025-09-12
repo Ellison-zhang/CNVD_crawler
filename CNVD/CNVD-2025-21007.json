@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-12 05:04:25",
+    "parse_time": "2025-09-12 06:05:40",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21007",
-    "spider_time": 1757653465494,
+    "spider_time": 1757657140080,
     "name": "TOTOLINK A830R QUERY_STRING命令注入漏洞",
     "cnvd": "CNVD-2025-21007",
     "publish": "2025-09-10",
