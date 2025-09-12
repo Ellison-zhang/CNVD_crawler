@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-12 10:03:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21201",
+    "spider_time": 1757671439136,
+    "name": "WordPress Duplicate Page and Post plugin SQL注入漏洞",
+    "cnvd": "CNVD-2025-21201",
+    "publish": "2025-09-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"WordPress Duplicate Page and Post plugin <=2.9.5\"]",
+    "cve": "CVE-2025-6189",
+    "description": "WordPress Duplicate Page and Post plugin是一款用于快速复制页面或文章的插件，支持一键克隆现有内容并保存为草稿、私密或公开状态，适用于需要批量处理网站内容的用户。WordPress Duplicate Page and Post plugin存在SQL注入漏洞，该漏洞源于对参数meta_key清理和转义不足，攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/duplicate-wp-page-post/trunk/duplicate-wp-page-post.php",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-12",
+    "open_time": "2025-09-12",
+    "update_time": "2025-09-12",
+    "data_summary": "c80feb3ced41e2c2d9ccc7b22849a774"
+}

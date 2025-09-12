@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-12 10:04:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21202",
+    "spider_time": 1757671444202,
+    "name": "SAP Fiori App Manage Work Center Groups跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-21202",
+    "publish": "2025-09-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"SAP Fiori App Manage Work Center Groups UIS4HOP1 600\", \"SAP Fiori App Manage Work Center Groups 700\", \"SAP Fiori App Manage Work Center Groups 800\", \"SAP Fiori App Manage Work Center Groups 900\"]",
+    "cve": "CVE-2025-42923",
+    "description": "SAP Fiori App Manage Work Center Groups是德国思爱普（SAP）公司的一个具有管理和维护工作中心组功能的企业应用。SAP Fiori App Manage Work Center Groups存在跨站请求伪造漏洞，该漏洞源于CSRF保护不足，攻击者可利用该漏洞导致发送意外请求。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-42923",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://me.sap.com/notes/3450692",
+    "patch": "SAP Fiori App Manage Work Center Groups跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-11",
+    "open_time": "2025-09-12",
+    "update_time": "2025-09-12",
+    "data_summary": "01a55e85969480a269cd0f3e07ac7061"
+}

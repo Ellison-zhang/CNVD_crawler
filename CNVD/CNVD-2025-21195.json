@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-12 10:06:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21195",
+    "spider_time": 1757671601014,
+    "name": "NVIDIA NvContainer信任管理问题漏洞",
+    "cnvd": "CNVD-2025-21195",
+    "publish": "2025-09-12",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:N/I:N/A:P",
+    "product": "[\"NVIDIA NVIDIA NvContainer\"]",
+    "cve": "CVE-2025-23253",
+    "description": "NVIDIA NvContainer是美国英伟达（NVIDIA）公司的一个容器管理服务。NVIDIA NvContainer存在信任管理问题漏洞，该漏洞源于OpenSSL使用中存在硬编码路径问题，攻击者可利用该漏洞导致代码执行、拒绝服务、权限提升或信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-23253",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5644",
+    "patch": "NVIDIA NvContainer信任管理问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-07",
+    "open_time": "2025-09-12",
+    "update_time": "2025-09-12",
+    "data_summary": "056d29d40d23de5309ac50ce6d6a2c88"
+}
