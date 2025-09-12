@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-12 07:04:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21163",
+    "spider_time": 1757660664558,
+    "name": "Tenda G3 formAddVpnUsers函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-21163",
+    "publish": "2025-09-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda G3 v3.0br_V15.11.0.17\"]",
+    "cve": "CVE-2025-57071",
+    "description": "Tenda G3是中国腾达（Tenda）公司的一款Qos Vpn路由器。Tenda G3 v3.0br_V15.11.0.17版本存在缓冲区溢出漏洞，该漏洞源于formAddVpnUsers函数中vpnUsers参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-57071",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/vulnDetailRecord/VulforDevice/blob/main/Tenda/G3/formAddVpnUsers.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-11",
+    "open_time": "2025-09-12",
+    "update_time": "2025-09-12",
+    "data_summary": "90a0a097b27fa3da6cc501a6a439e01e"
+}

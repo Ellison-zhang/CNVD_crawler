@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-12 07:07:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21141",
+    "spider_time": 1757660868842,
+    "name": "MB CONNECT LINE mbNET.mini SQL注入漏洞",
+    "cnvd": "CNVD-2025-21141",
+    "publish": "2025-09-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:C/A:C",
+    "product": "[\"MB CONNECT LINE mbNET.mini <2.3.3\"]",
+    "cve": "CVE-2025-41678",
+    "description": "MB CONNECT LINE的mbNET.mini是一款专为工业场景设计的工业路由器，主要用于实现机器和系统的安全远程连接。MB CONNECT LINE mbNET.mini存在SQL注入漏洞，该漏洞源于对SQL语句中特殊元素中和不当，攻击者可利用该漏洞导致修改配置数据库。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://certvde.com/de/advisories/VDE-2025-058",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mbconnectline.com/download-portal/",
+    "patch": "MB CONNECT LINE mbNET.mini SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-09-12",
+    "update_time": "2025-09-12",
+    "data_summary": "6afa4a1b081c3713d3462947c3ef1a3e"
+}

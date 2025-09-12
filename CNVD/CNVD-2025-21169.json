@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-12 07:07:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21169",
+    "spider_time": 1757660823149,
+    "name": "Tenda AC20缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-21169",
+    "publish": "2025-09-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC20 <=16.03.08.12\"]",
+    "cve": "CVE-2025-10120",
+    "description": "Tenda AC20是腾达公司的一款无线路由器产品。Tenda AC20 16.03.08.12及之前版本存在缓冲区溢出漏洞，该漏洞源于/goform/GetParentControlInfo文件中的strcpy函数对mac参数处理不当。攻击者可利用该漏洞通过远程发送特制数据触发缓冲区溢出，从而执行任意代码或导致系统崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.323089\nhttps://vuldb.com/?ctiid.323089\nhttps://vuldb.com/?submit.645680\nhttps://github.com/cymiao1978/cve/blob/main/4.md\nhttps://github.com/cymiao1978/cve/blob/main/4.md#poc\nhttps://www.tenda.com.cn/",
+    "solution": "目前厂商尚未发布升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://vuldb.com/?id.323089",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-11",
+    "open_time": "2025-09-12",
+    "update_time": "2025-09-12",
+    "data_summary": "a4daa9d445e6d32af5e47dfee7d78ca3"
+}
