@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-14 06:06:29",
+    "parse_time": "2025-09-14 07:05:25",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20842",
-    "spider_time": 1757829989833,
+    "spider_time": 1757833525991,
     "name": "Huawei HarmonyOS skia模块越界写入漏洞",
     "cnvd": "CNVD-2025-20842",
     "publish": "2025-09-12",
