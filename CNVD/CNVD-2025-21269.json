@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-15 10:04:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21269",
+    "spider_time": 1757930679233,
+    "name": "WordPress WP Import plugin未授权访问漏洞",
+    "cnvd": "CNVD-2025-21269",
+    "publish": "2025-09-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"WordPress WP Import plugin <=7.27\"]",
+    "cve": "CVE-2025-10040",
+    "description": "WordPress WP Import plugin是用于批量导入和导出WordPress数据的插件，支持多种文件格式（如 CSV、XML、JSON 等），可处理帖子、页面、评论、用户等数据。WordPress WP Import plugin存在未授权访问漏洞，该漏洞源于AJAX操作get_ftp_details缺少能力检查，攻击者可利用该漏洞导致SFTP/FTP凭据泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/wp-ultimate-csv-importer/tags/7.26/uploadModules/FtpUpload.php#L231",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/wp-ultimate-csv-importer/",
+    "patch": "WordPress WP Import plugin未授权访问漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-12",
+    "open_time": "2025-09-15",
+    "update_time": "2025-09-15",
+    "data_summary": "bda2bb8971118d93dc780fb559f77a62"
+}

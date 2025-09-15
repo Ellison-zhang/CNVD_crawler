@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-15 10:07:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21274",
+    "spider_time": 1757930844628,
+    "name": "WordPress Aitasi Coming Soon plugin反序列化漏洞",
+    "cnvd": "CNVD-2025-21274",
+    "publish": "2025-09-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"WordPress Aitasi Coming Soon plugin <=2.0.2\"]",
+    "cve": "CVE-2025-58815",
+    "description": "WordPress Aitasi Coming Soon plugin是一款用于创建专业即将推出页面（Coming Soon）或维护模式页面的插件，无需编码或设计技能即可快速搭建。WordPress Aitasi Coming Soon plugin存在反序列化漏洞，该漏洞源于应用程序在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞导致代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/aitasi-coming-soon/vulnerability/wordpress-aitasi-coming-soon-plugin-2-0-2-deserialization-of-untrusted-data-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/aitasi-coming-soon/",
+    "patch": "WordPress Aitasi Coming Soon plugin反序列化漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-09",
+    "open_time": "2025-09-15",
+    "update_time": "2025-09-15",
+    "data_summary": "9fb90e1c8f42a107e1b4f96d11ff4797"
+}

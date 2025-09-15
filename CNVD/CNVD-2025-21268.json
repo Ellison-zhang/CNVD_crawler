@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-15 10:04:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21268",
+    "spider_time": 1757930673200,
+    "name": "WordPress Responsive Filterable Portfolio plugin任意文件上传漏洞",
+    "cnvd": "CNVD-2025-21268",
+    "publish": "2025-09-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"WordPress Responsive Filterable Portfolio plugin <=1.0.24\"]",
+    "cve": "CVE-2025-10049",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Responsive Filterable Portfolio plugin存在任意文件上传漏洞，该漏洞源于HdnMediaSelection_image字段缺少文件类型验证，攻击者可利用该漏洞导致任意文件上传。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/changeset?old_path=/responsive-filterable-portfolio/tags/1.0.24&new_path=/responsive-filterable-portfolio/tags/1.0.25&sfp_email=&sfph_mail=",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/responsive-filterable-portfolio",
+    "patch": "WordPress Responsive Filterable Portfolio plugin任意文件上传漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-12",
+    "open_time": "2025-09-15",
+    "update_time": "2025-09-15",
+    "data_summary": "0087cdb8a8f70bbcb610bbe8aada1864"
+}

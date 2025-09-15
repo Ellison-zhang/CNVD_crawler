@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-15 10:07:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21253",
+    "spider_time": 1757930855493,
+    "name": "Cisco IOS XR资源管理错误漏洞（CNVD-2025-21253）",
+    "cnvd": "CNVD-2025-21253",
+    "publish": "2025-09-12",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Cisco IOS XR\"]",
+    "cve": "CVE-2025-20340",
+    "description": "Cisco IOS XR是美国思科（Cisco）公司的一套为其网络设备开发的操作系统。Cisco IOS XR存在资源管理错误漏洞，该漏洞源于应用存在不受控制的资源消耗，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20340",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxr-arp-storm-EjUU55yM",
+    "patch": "Cisco IOS XR资源管理错误漏洞（CNVD-2025-21253）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-12",
+    "open_time": "2025-09-15",
+    "update_time": "2025-09-15",
+    "data_summary": "592a7a6c18b9c0c9e6c3b2a51125e8c7"
+}
