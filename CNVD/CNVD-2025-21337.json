@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-16 09:07:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21337",
+    "spider_time": 1758013658806,
+    "name": "Ivanti Avalanche代码执行漏洞",
+    "cnvd": "CNVD-2025-21337",
+    "publish": "2025-09-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Ivanti Avalanche <6.4.8.8008\"]",
+    "cve": "CVE-2025-8297",
+    "description": "Ivanti Avalanche是Ivanti公司推出的企业移动设备管理系统，主要用于管理智能手机、平板电脑等移动设备。Ivanti Avalanche存在代码执行漏洞，该漏洞源于配置限制不完整，攻击者可利用该漏洞导致远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-8297",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Avalanche-CVE-2025-8296-CVE-2025-8297?language=en_US",
+    "patch": "Ivanti Avalanche代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-09-16",
+    "update_time": "2025-09-16",
+    "data_summary": "c1ff0f46467ed7e17bb86fc5d18f9a3b"
+}
