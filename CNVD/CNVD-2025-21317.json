@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-16 17:04:05",
+    "parse_time": "2025-09-16 18:06:28",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21317",
-    "spider_time": 1758042245285,
+    "spider_time": 1758045988897,
     "name": "Fuji Electric Tellus Lite V-Simulator 5 V8文件解析越界写入代码执行漏洞",
     "cnvd": "CNVD-2025-21317",
     "publish": "2025-09-15",
