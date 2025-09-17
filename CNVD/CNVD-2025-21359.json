@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-17 04:05:06",
+    "parse_time": "2025-09-17 05:06:13",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21359",
-    "spider_time": 1758081906238,
+    "spider_time": 1758085573976,
     "name": "Ivanti Secure Access Client缓冲区过度读取漏洞",
     "cnvd": "CNVD-2025-21359",
     "publish": "2025-09-15",
