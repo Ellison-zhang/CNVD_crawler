@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-17 08:05:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21419",
+    "spider_time": 1758096313365,
+    "name": "Adobe Substance3D Modeler代码执行漏洞",
+    "cnvd": "CNVD-2025-21419",
+    "publish": "2025-09-17",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Substance3D Modeler <=1.22.2\"]",
+    "cve": "CVE-2025-54259",
+    "description": "Adobe Substance3D Modeler是美国奥多比（Adobe）公司的一款3D建模软件。Adobe Substance3D Modeler存在代码执行漏洞，该漏洞是由于整数溢出错误引起的。攻击者可利用该漏洞在系统上执行代码，或导致应用程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/substance3d-modeler/apsb25-92.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/substance3d-modeler/apsb25-92.html",
+    "patch": "Adobe Substance3D Modeler代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-11",
+    "open_time": "2025-09-17",
+    "update_time": "2025-09-17",
+    "data_summary": "4488c8855f2c48a53d957147b93cc4ba"
+}

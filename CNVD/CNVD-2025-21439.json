@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-17 08:04:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21439",
+    "spider_time": 1758096271995,
+    "name": "RuoYi授权问题漏洞",
+    "cnvd": "CNVD-2025-21439",
+    "publish": "2025-09-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:P",
+    "product": "[\"RuoYi RuoYi <=4.8.1\"]",
+    "cve": "CVE-2025-10384",
+    "description": "RuoYi是中国若依（RuoYi）个人开发者的一款后台管理系统。RuoYi 4.8.1及之前版本存在授权问题漏洞，该漏洞源于文件/system/role/authUser/cancelAll中参数roleId和userIds存在不当的授权，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-10384",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://vuldb.com/?ctiid.323819",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-16",
+    "open_time": "2025-09-17",
+    "update_time": "2025-09-17",
+    "data_summary": "30c8257266e15b95db6e458bb66c0abf"
+}

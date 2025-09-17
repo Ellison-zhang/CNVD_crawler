@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-17 08:06:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21426",
+    "spider_time": 1758096398941,
+    "name": "Doctor Appointment Management System /doctor/search.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-21426",
+    "publish": "2025-09-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Doctor Appointment Management System Doctor Appointment Management System 1.0\"]",
+    "cve": "CVE-2025-2383",
+    "description": "Doctor Appointment Management System是一个医生预约管理系统。Doctor Appointment Management System存在SQL注入漏洞，该漏洞源于文件/doctor/search.php参数searchdata缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/aionman/cve/issues/6",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-19",
+    "open_time": "2025-09-17",
+    "update_time": "2025-09-17",
+    "data_summary": "a3358ec8a19988445719cc361ebb68fd"
+}

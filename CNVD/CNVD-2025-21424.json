@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-17 08:05:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21424",
+    "spider_time": 1758096337622,
+    "name": "Doctor Appointment Management System跨站脚本漏洞",
+    "cnvd": "CNVD-2025-21424",
+    "publish": "2025-09-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:P/A:P",
+    "product": "[\"Doctor Appointment Management System Doctor Appointment Management System 1.0\"]",
+    "cve": "CVE-2025-45805",
+    "description": "Doctor Appointment Management System是一个医生预约管理系统。Doctor Appointment Management System存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/mhsinj/CVE-2025-45805",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-05",
+    "open_time": "2025-09-17",
+    "update_time": "2025-09-17",
+    "data_summary": "19e2891b977a59800506973e603a81c3"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-17 08:04:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21442",
+    "spider_time": 1758096286527,
+    "name": "Unmark Marks.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-21442",
+    "publish": "2025-09-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"unmark unmark <=1.9.3\"]",
+    "cve": "CVE-2025-10331",
+    "description": "Unmark是一个用于书签的开源待办事项应用程序。Unmark 1.9.3及之前版本存在跨站脚本漏洞，该漏洞源于文件/application/controllers/Marks.php中参数Title对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞可以通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-10331",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/cdevroe/unmark/releases",
+    "patch": "Unmark Marks.php文件跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-16",
+    "open_time": "2025-09-17",
+    "update_time": "2025-09-17",
+    "data_summary": "3a4e8f634fa9bb824adf286750fd6c2b"
+}

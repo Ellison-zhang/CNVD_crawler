@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-17 08:05:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21445",
+    "spider_time": 1758096301264,
+    "name": "InstantCMS代码问题漏洞",
+    "cnvd": "CNVD-2025-21445",
+    "publish": "2025-09-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"instantcms instantcms <=2.17.3\"]",
+    "cve": "CVE-2025-59055",
+    "description": "InstantCMS是一款免费开源的内容管理系统。InstantCMS 2.17.3及之前版本存在安全漏洞，该漏洞源于安装器功能中package参数未对用户输入进行有效过滤。攻击者可利用该漏洞通过构造恶意请求扫描内网、调用本地服务功能、实施拒绝服务攻击、获取反向代理后的服务器真实IP地址，并通过发送大量请求耗尽服务器资源。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-59055",
+    "solution": "目前厂商尚未发布升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://github.com/instantsoft/icms2/security/advisories/GHSA-79hh-mhvg-whrw",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-12",
+    "open_time": "2025-09-17",
+    "update_time": "2025-09-17",
+    "data_summary": "22289d04a3d423ede4c7a3610441bd2f"
+}
