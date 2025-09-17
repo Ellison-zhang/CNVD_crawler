@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-17 05:06:31",
+    "parse_time": "2025-09-17 06:08:31",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21375",
-    "spider_time": 1758085591576,
+    "spider_time": 1758089311398,
     "name": "Tenda AC6 add_white_node函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-21375",
     "publish": "2025-09-15",

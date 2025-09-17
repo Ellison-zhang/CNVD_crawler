@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-17 05:06:44",
+    "parse_time": "2025-09-17 06:08:43",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21378",
-    "spider_time": 1758085604505,
+    "spider_time": 1758089323884,
     "name": "Tenda AC6 initIpAddrInfo函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-21378",
     "publish": "2025-09-15",
