@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-17 00:16:09",
+    "parse_time": "2025-09-17 01:41:50",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21315",
-    "spider_time": 1758068169354,
+    "spider_time": 1758073310730,
     "name": "Fuji Electric Tellus Lite V-Simulator 5 V8文件解析栈溢出代码执行漏洞",
     "cnvd": "CNVD-2025-21315",
     "publish": "2025-09-15",
