@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-17 08:06:46",
+    "parse_time": "2025-09-17 09:07:33",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21388",
-    "spider_time": 1758096406006,
+    "spider_time": 1758100053447,
     "name": "Tenda W30E formDeleteMeshNode函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-21388",
     "publish": "2025-09-16",

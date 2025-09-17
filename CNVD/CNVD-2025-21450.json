@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-17 09:07:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21450",
+    "spider_time": 1758100020811,
+    "name": "Apartment Visitors Management System category.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-21450",
+    "publish": "2025-09-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"Apartment Visitors Management System Apartment Visitors Management System 1.0\"]",
+    "cve": "CVE-2025-7818",
+    "description": "Apartment Visitors Management System是一个公寓访客管理系统。Apartment Visitors Management System存在跨站脚本漏洞，该漏洞源于文件/category.php中参数categoryname对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/HieuGITLAB/my-cves/issues/6",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-09-17",
+    "update_time": "2025-09-17",
+    "data_summary": "0cad380d883dfe0f9ee47a2c3456e501"
+}

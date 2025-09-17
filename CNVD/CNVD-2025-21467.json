@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-17 09:07:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21467",
+    "spider_time": 1758100050350,
+    "name": "Tenda FH1205堆栈缓冲区溢出漏洞（CNVD-2025-21467）",
+    "cnvd": "CNVD-2025-21467",
+    "publish": "2025-09-17",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Tenda FH1205 V2.0.0.7(775)\"]",
+    "cve": "CVE-2024-30623",
+    "description": "Tenda FH1205是中国腾达（Tenda）公司的一款无线路由器。Tenda FH1205存在堆栈缓冲区溢出漏洞，该漏洞源于fromDhcpListClient方法的page参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-30623",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.tenda.com.cn/download/detail-2236.html",
+    "patch": "Tenda FH1205堆栈缓冲区溢出漏洞（CNVD-2025-21467）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-03",
+    "open_time": "2025-09-17",
+    "update_time": "2025-09-17",
+    "data_summary": "0d98c2e2ea2d1d4622c35d68f1411b29"
+}
