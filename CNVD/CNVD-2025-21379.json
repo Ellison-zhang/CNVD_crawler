@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-17 03:15:16",
+    "parse_time": "2025-09-17 04:05:41",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21379",
-    "spider_time": 1758078916109,
+    "spider_time": 1758081941125,
     "name": "Tenda AC6 sub_34FD0函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-21379",
     "publish": "2025-09-15",
