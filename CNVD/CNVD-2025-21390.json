@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-17 16:04:20",
+    "parse_time": "2025-09-17 17:04:02",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21390",
-    "spider_time": 1758125060217,
+    "spider_time": 1758128642650,
     "name": "Tenda W30E werlessAdvancedSet函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-21390",
     "publish": "2025-09-16",
