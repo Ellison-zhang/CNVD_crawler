@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-17 20:04:01",
+    "parse_time": "2025-09-17 21:03:45",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21389",
-    "spider_time": 1758139441416,
+    "spider_time": 1758143025474,
     "name": "Tenda W30E UploadCfg函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-21389",
     "publish": "2025-09-16",
