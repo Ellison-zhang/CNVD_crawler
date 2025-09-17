@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-17 07:08:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21413",
+    "spider_time": 1758092892929,
+    "name": "curl存在未明漏洞（CNVD-2025-21413）",
+    "cnvd": "CNVD-2025-21413",
+    "publish": "2025-09-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"cURL cURL >=8.11.0\\uff0c<=8.15.0\"]",
+    "cve": "CVE-2025-10148",
+    "description": "curl是cURL开源的一款用于从服务器传输数据或向服务器传输数据的工具。curl存在安全漏洞，攻击者可利用该漏洞可能导致恶意服务器诱导流量被代理服务器误认为真实HTTP流量，从而污染其缓存。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://curl.se/docs/CVE-2025-10148.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/curl/curl/releases",
+    "patch": "curl存在未明漏洞（CNVD-2025-21413）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-16",
+    "open_time": "2025-09-17",
+    "update_time": "2025-09-17",
+    "data_summary": "dbc144af6df0a92c459732ede2e33aad"
+}
