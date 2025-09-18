@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-18 22:03:53",
+    "parse_time": "2025-09-18 23:03:47",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20837",
-    "spider_time": 1758233033448,
+    "spider_time": 1758236627583,
     "name": "Belkin F9K1122堆栈缓冲区溢出漏洞（CNVD-2025-20837）",
     "cnvd": "CNVD-2025-20837",
     "publish": "2025-09-19",
