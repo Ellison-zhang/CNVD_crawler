@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-18 07:04:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21589",
+    "spider_time": 1758179085920,
+    "name": "Voltronic Power ViewPower XML外部实体注入漏洞",
+    "cnvd": "CNVD-2025-21589",
+    "publish": "2025-09-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Voltronic Power ViewPower Pro 2.0-22165\"]",
+    "cve": "CVE-2023-51591",
+    "description": "Voltronic Power ViewPower是Voltronic Power公司的一款适用于太阳能逆变器的监控和管理软件。Voltronic Power ViewPower Pro存在XML外部实体注入漏洞，攻击者可利用该漏洞泄露敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-51591",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://voltronicpower.com/en-US/Support/Software/ViewPower",
+    "patch": "Voltronic Power ViewPower XML外部实体注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-13",
+    "open_time": "2025-09-18",
+    "update_time": "2025-09-18",
+    "data_summary": "bcbfab83a2b746f1a483c65b655c66d8"
+}

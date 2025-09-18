@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-18 07:04:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21586",
+    "spider_time": 1758179073170,
+    "name": "Voltronic Power ViewPower远程代码执行漏洞（CNVD-2025-21586）",
+    "cnvd": "CNVD-2025-21586",
+    "publish": "2025-09-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Voltronic Power ViewPower 1.04.21353\"]",
+    "cve": "CVE-2023-51576",
+    "description": "Voltronic Power ViewPower是Voltronic Power公司的一款适用于太阳能逆变器的监控和管理软件。Voltronic Power ViewPower存在远程代码执行漏洞，该漏洞是由于对用户提供的数据缺乏适当的验证造成的，可能会导致不可信数据的反序列化。攻击者可利用该漏洞在SYSTEM上下文中执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-51576",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://voltronicpower.com/en-US/Support/Software/ViewPower",
+    "patch": "Voltronic Power ViewPower远程代码执行漏洞（CNVD-2025-21586）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-13",
+    "open_time": "2025-09-18",
+    "update_time": "2025-09-18",
+    "data_summary": "01dc2e7637e1b4a180e63f2246320de1"
+}
