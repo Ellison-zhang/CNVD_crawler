@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-19 10:04:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22094",
+    "spider_time": 1758276275823,
+    "name": "Gazelle跨站脚本漏洞",
+    "cnvd": "CNVD-2025-22094",
+    "publish": "2025-09-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"Gazelle Gazelle 63b337026d49b5cf63ce4be20fdabdc880112fa3\"]",
+    "cve": "CVE-2025-10340",
+    "description": "Gazelle是一个面向私人BitTorrent跟踪器的web框架。Gazelle存在跨站脚本漏洞，该漏洞源于文件/sections/tools/managers/change_log.php中参数Message对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-10340",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/YZS17/CVE/blob/main/Gazelle/xss1.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-16",
+    "open_time": "2025-09-19",
+    "update_time": "2025-09-19",
+    "data_summary": "59a54a81a60c54501e6cdb6f327425ca"
+}

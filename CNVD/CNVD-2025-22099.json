@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-19 10:05:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22099",
+    "spider_time": 1758276303282,
+    "name": "Wavlink WL-WN578W2 sub_409184命令注入漏洞",
+    "cnvd": "CNVD-2025-22099",
+    "publish": "2025-09-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"WAVLINK WL-WN578W2 221110\"]",
+    "cve": "CVE-2025-10323",
+    "description": "Wavlink WL-WN578W2是中国睿因（Wavlink）公司的一款无线中继器。Wavlink WL-WN578W2 221110版本存在命令注入漏洞，该漏洞源于文件/wizard_rep.shtml中函数sub_409184的参数sel_EncrypTyp未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-10323",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/ZZ2266/.github.io/tree/main/WAVLINK/WL-WN578W2/adm.cgi/wizard_rep.shtml",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-16",
+    "open_time": "2025-09-19",
+    "update_time": "2025-09-19",
+    "data_summary": "64e11e02136c06057901742eb2a2bb57"
+}

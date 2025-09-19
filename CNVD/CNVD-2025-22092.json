@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-19 10:04:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22092",
+    "spider_time": 1758276266357,
+    "name": "JeeWMS跨站脚本漏洞",
+    "cnvd": "CNVD-2025-22092",
+    "publish": "2025-09-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"\\u53a6\\u95e8\\u5e02\\u7075\\u9e7f\\u8c37\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 jeewms <=3.7\"]",
+    "cve": "CVE-2025-55834",
+    "description": "JeeWMS是一个基于JAVA的仓库管理系统。JeeWMS 3.7及之前版本存在跨站脚本漏洞，该漏洞源于logController.do组件对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞导致敏感信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-55834",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/RrEeSeEeTt/CVEs/blob/main/JeeWMS-xss.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-18",
+    "open_time": "2025-09-19",
+    "update_time": "2025-09-19",
+    "data_summary": "c9b57d0db0b1a35d0449c5f1c8a9b3f5"
+}
