@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-19 11:04:10",
+    "parse_time": "2025-09-19 12:06:08",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21645",
-    "spider_time": 1758279850324,
+    "spider_time": 1758283568830,
     "name": "Dairy Farm Shop Management System invoice.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-21645",
     "publish": "2025-09-18",
