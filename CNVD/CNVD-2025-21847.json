@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-19 09:05:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21847",
+    "spider_time": 1758272703455,
+    "name": "Medical Card Generation System Manage Card功能跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-21847",
+    "publish": "2025-09-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Medical Card Generation System Medical Card Generation System 1.0\"]",
+    "cve": "CVE-2025-50369",
+    "description": "Medical Card Generation System是一个医疗卡生成系统。Medical Card Generation System存在跨站请求伪造漏洞，该漏洞源于Manage Card功能缺少CSRF防护，攻击者可利用该漏洞发送一个简单的GET请求删除医疗卡记录，而不验证请求的来源。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/1h3ll/CVEs/blob/main/CSRF-MANAGECARD_Medicalcard_Generations_System.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-07",
+    "open_time": "2025-09-19",
+    "update_time": "2025-09-19",
+    "data_summary": "7ca6c77e3cf1b051338d137e7adfb0e7"
+}
