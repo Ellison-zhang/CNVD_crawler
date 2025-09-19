@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-18 23:03:51",
+    "parse_time": "2025-09-19 00:13:50",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21556",
-    "spider_time": 1758236631982,
+    "spider_time": 1758240830675,
     "name": "Apartment Visitors Management System manage-newvisitors.php文件跨站脚本漏洞",
     "cnvd": "CNVD-2025-21556",
     "publish": "2025-09-17",
