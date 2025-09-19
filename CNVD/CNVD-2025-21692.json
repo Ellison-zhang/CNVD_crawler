@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-19 07:06:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21692",
+    "spider_time": 1758265600887,
+    "name": "Online Library Management System存在未明漏洞（CNVD-2025-21692）",
+    "cnvd": "CNVD-2025-21692",
+    "publish": "2025-09-19",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:N/I:P/A:N",
+    "product": "[\"Online Library Management System Online Library Management System v3.0\"]",
+    "cve": "CVE-2025-2093",
+    "description": "Online Library Management System是一个在线图书管理系统。Online Library Management System存在安全漏洞，该漏洞源于/change-password.php文件的email/phone number参数操作不当，攻攻击者可利用该漏洞导致弱密码恢复。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/SECWG/cve/issues/4",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-09-19",
+    "update_time": "2025-09-19",
+    "data_summary": "4849c962cbd0a3028aba1e1ee052bb08"
+}
