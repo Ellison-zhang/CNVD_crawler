@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-21 23:05:39",
+    "parse_time": "2025-09-22 00:22:42",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21655",
-    "spider_time": 1758495939820,
+    "spider_time": 1758500562073,
     "name": "Zoo Management System /admin/contactus.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-21655",
     "publish": "2025-09-18",
