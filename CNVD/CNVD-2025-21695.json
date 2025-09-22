@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-22 05:05:02",
+    "parse_time": "2025-09-22 06:06:09",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21695",
-    "spider_time": 1758517502861,
+    "spider_time": 1758521169689,
     "name": "Online Fire Reporting System assigned-requests.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-21695",
     "publish": "2025-09-18",
