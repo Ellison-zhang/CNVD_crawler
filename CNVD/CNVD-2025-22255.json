@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-23 21:05:11",
+    "parse_time": "2025-09-23 22:05:23",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22255",
-    "spider_time": 1758661511365,
+    "spider_time": 1758665123161,
     "name": "Huawei HarmonyOS virtualization base模块竞争条件漏洞",
     "cnvd": "CNVD-2025-22255",
     "publish": "2025-09-22",
