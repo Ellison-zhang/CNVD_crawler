@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-24 09:04:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22392",
+    "spider_time": 1758704689435,
+    "name": "Apple macOS Tahoe越界读取漏洞",
+    "cnvd": "CNVD-2025-22392",
+    "publish": "2025-09-24",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"Apple macOS Tahoe <26\"]",
+    "cve": "CVE-2025-43283",
+    "description": "Apple macOS Tahoe是苹果公司于2025年6月10日发布的macOS操作系统第26个主要版本，采用全新的“液态玻璃”（Liquid Glass）视觉设计，显著优化了界面美观性、功能集成性和跨设备协同能力，并成为支持英特尔芯片Mac的最后一个系统更新。Apple macOS Tahoe存在越界读取漏洞，该漏洞源于边界检查不足，攻击者可利用该漏洞导致系统意外终止。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43283",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://support.apple.com/en-us/125110",
+    "patch": "Apple macOS Tahoe越界读取漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-18",
+    "open_time": "2025-09-24",
+    "update_time": "2025-09-24",
+    "data_summary": "03f3be549312b65d9481636b9ccaf647"
+}
