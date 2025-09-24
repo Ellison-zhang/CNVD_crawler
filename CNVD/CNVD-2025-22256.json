@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-24 14:09:00",
+    "parse_time": "2025-09-24 15:06:07",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22256",
-    "spider_time": 1758722940025,
+    "spider_time": 1758726367117,
     "name": "Huawei HarmonyOS audio codec模块数组索引验证不当漏洞",
     "cnvd": "CNVD-2025-22256",
     "publish": "2025-09-22",
