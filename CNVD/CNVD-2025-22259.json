@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-24 19:05:40",
+    "parse_time": "2025-09-24 20:07:57",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22259",
-    "spider_time": 1758740740997,
+    "spider_time": 1758744477165,
     "name": "Huawei HarmonyOS distributed notification service内存错误引用漏洞",
     "cnvd": "CNVD-2025-22259",
     "publish": "2025-09-22",
