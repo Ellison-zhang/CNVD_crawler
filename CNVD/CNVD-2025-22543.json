@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-25 10:04:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22543",
+    "spider_time": 1758794683360,
+    "name": "BMC Control-M身份验证绕过漏洞",
+    "cnvd": "CNVD-2025-22543",
+    "publish": "2025-09-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"BMC Control-M >=9.0.18\\uff0c<=9.0.20\"]",
+    "cve": "CVE-2025-55109",
+    "description": "BMC Control-M是BMC公司的一个应用程序。简化了本地或作为服务的应用程序和数据工作流编排。BMC Control-M存在身份验证绕过漏洞，该漏洞源于使用空或默认kdb密钥库或默认PKCS#12密钥库时存在身份验证绕过，攻击者可利用该漏洞导致绕过组织证书颁发机构签名的证书要求。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bmcapps.my.site.com/casemgmt/sc_KnowledgeArticle?sfdcid=000441963",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.bmc.com/available/edownloads.html",
+    "patch": "BMC Control-M身份验证绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-18",
+    "open_time": "2025-09-25",
+    "update_time": "2025-09-25",
+    "data_summary": "941e2da60d0868e7ea7590e329a56d0a"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-25 10:04:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22545",
+    "spider_time": 1758794691852,
+    "name": "Selesta Visual Access Manager s_scheduledfile.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-22545",
+    "publish": "2025-09-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Selesta Visual Access Manager <4.42.2\"]",
+    "cve": "CVE-2023-42245",
+    "description": "Selesta Visual Access Manager是Selesta公司的一个可视访问管理器。Selesta Visual Access Manager s_scheduledfile.php文件存在跨站脚本漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://gitlab.com/daniele_m/cve-list/-/blob/main/README.md",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.seling.it/product/vam/",
+    "patch": "Selesta Visual Access Manager s_scheduledfile.php文件跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-16",
+    "open_time": "2025-09-25",
+    "update_time": "2025-09-25",
+    "data_summary": "3dc78406455a6a1b8e2001f39ed54c9c"
+}
