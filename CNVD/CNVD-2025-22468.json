@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-25 07:05:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22468",
+    "spider_time": 1758783911734,
+    "name": "Art Gallery Management System admin-profile.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-22468",
+    "publish": "2025-09-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Art Gallery Management System Art Gallery Management System v1.0\"]",
+    "cve": "CVE-2025-2646",
+    "description": "Art Gallery Management System是一个艺术画廊管理系统。Art Gallery Management System存在SQL注入漏洞，该漏洞源于/admin/admin-profile.php的参数contactnumber缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/liuhao2638/cve/issues/9",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-09-25",
+    "update_time": "2025-09-25",
+    "data_summary": "b68877907bf4e66ee8b229c9d5fefc25"
+}
