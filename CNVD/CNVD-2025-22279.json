@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-25 19:04:45",
+    "parse_time": "2025-09-25 20:05:17",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22279",
-    "spider_time": 1758827085416,
+    "spider_time": 1758830717824,
     "name": "WeGIA SQL注入漏洞（CNVD-2025-22279）",
     "cnvd": "CNVD-2025-22279",
     "publish": "2025-09-24",
