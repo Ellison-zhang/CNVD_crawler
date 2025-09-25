@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-24 23:05:03",
+    "parse_time": "2025-09-25 00:14:53",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22253",
-    "spider_time": 1758755103016,
+    "spider_time": 1758759293220,
     "name": "Huawei HarmonyOS kernel hufs模块竞争条件漏洞",
     "cnvd": "CNVD-2025-22253",
     "publish": "2025-09-22",
