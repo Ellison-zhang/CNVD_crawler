@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-25 08:05:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22517",
+    "spider_time": 1758787529625,
+    "name": "Emergency Ambulance Hiring Portal /admin/edit-ambulance.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-22517",
+    "publish": "2025-09-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Emergency Ambulance Hiring Portal Emergency Ambulance Hiring Portal 1.0\"]",
+    "cve": "CVE-2025-4264",
+    "description": "Emergency Ambulance Hiring Portal是一个紧急救护车租用门户。Emergency Ambulance Hiring Portal存在SQL注入漏洞，该漏洞源于文件/admin/edit-ambulance.php中参数dconnum处理不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-4264",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-09-25",
+    "update_time": "2025-09-25",
+    "data_summary": "4bdc5095fe786136fa53f2ab64891642"
+}
