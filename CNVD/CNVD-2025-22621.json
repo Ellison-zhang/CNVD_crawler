@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-26 04:04:38",
+    "parse_time": "2025-09-26 05:04:31",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22621",
-    "spider_time": 1758859478836,
+    "spider_time": 1758863071961,
     "name": "Nipah virus Testing Management System check_availability.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-22621",
     "publish": "2025-09-25",
