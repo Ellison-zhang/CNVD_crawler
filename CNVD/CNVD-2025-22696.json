@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 10:05:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22696",
+    "spider_time": 1758881148075,
+    "name": "Daily Expense Tracker System /expense-reports-detailed.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-22696",
+    "publish": "2025-09-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"(\\u6682\\u65e0)\"]",
+    "cve": "CVE-2025-5546",
+    "description": "Daily Expense Tracker System是一套基于PHP和MySQL的每日消费跟踪系统。Daily Expense Tracker System存在SQL注入漏洞，该漏洞源于文件/expense-reports-detailed.php中参数fromdate/todate缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5546",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "b06acc40a932fbe66430a631663e791a"
+}

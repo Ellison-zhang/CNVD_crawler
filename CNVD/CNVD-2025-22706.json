@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 10:05:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22706",
+    "spider_time": 1758881143669,
+    "name": "FileBrowser命令注入漏洞（CNVD-2025-22706）",
+    "cnvd": "CNVD-2025-22706",
+    "publish": "2025-09-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:M/C:C/I:C/A:C",
+    "product": "[\"filebrowser filebrowser <2.33.10\"]",
+    "cve": "CVE-2025-52995",
+    "description": "FileBrowser是开源的一款网页文件浏览器。提供指定目录下的文件管理界面，可用于上传、删除、预览、重命名和编辑您的文件。FileBrowser存在命令注入漏洞，该漏洞是由于命令执行功能中的缺陷引起的。攻击者可利用该漏洞在系统上执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/filebrowser/filebrowser/commit/4d830f707fc4314741fd431e70c2ce50cd5a3108",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/filebrowser/filebrowser/releases",
+    "patch": "FileBrowser命令注入漏洞（CNVD-2025-22706）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "fd73f2a49252f01f80fd21c0ca846630"
+}

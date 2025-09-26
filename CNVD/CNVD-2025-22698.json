@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 10:05:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22698",
+    "spider_time": 1758881109961,
+    "name": "FileBrowser存在未明漏洞",
+    "cnvd": "CNVD-2025-22698",
+    "publish": "2025-09-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"filebrowser filebrowser 2.39.0\"]",
+    "cve": "CVE-2025-53826",
+    "description": "FileBrowser是开源的一款网页文件浏览器。提供指定目录下的文件管理界面，可用于上传、删除、预览、重命名和编辑您的文件。FileBrowser存在安全漏洞，该漏洞源于身份验证系统存在缺陷，攻击者可利用该漏洞导致长期有效的JWT令牌。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-53826",
+    "solution": "目前没有详细解决方案提供：\nhttps://github.com/filebrowser/filebrowser/releases",
+    "patch": "FileBrowser存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-30",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "3e198f2208ef28d18d66504365d84717"
+}

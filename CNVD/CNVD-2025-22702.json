@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 10:05:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22702",
+    "spider_time": 1758881126105,
+    "name": "FileBrowser存在未明漏洞（CNVD-2025-22702）",
+    "cnvd": "CNVD-2025-22702",
+    "publish": "2025-09-26",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"filebrowser filebrowser <2.33.7\"]",
+    "cve": "CVE-2025-52900",
+    "description": "FileBrowser是开源的一款网页文件浏览器。提供指定目录下的文件管理界面，可用于上传、删除、预览、重命名和编辑您的文件。FileBrowser存在安全漏洞，该漏洞源于文件访问权限未明确设置，攻击者可利用该漏洞导致文件被任意操作系统账户读取。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/filebrowser/filebrowser/commit/ca86f916216620365c0f81629c0934ce02574d76",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/filebrowser/filebrowser/releases",
+    "patch": "FileBrowser存在未明漏洞（CNVD-2025-22702）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "30f0fe51d39552afc7e63fcfa708f1b0"
+}

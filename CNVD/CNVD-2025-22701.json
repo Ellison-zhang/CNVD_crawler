@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 10:05:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22701",
+    "spider_time": 1758881119896,
+    "name": "FileBrowser跨站脚本漏洞",
+    "cnvd": "CNVD-2025-22701",
+    "publish": "2025-09-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:P/A:N",
+    "product": "[\"filebrowser filebrowser <2.33.7\"]",
+    "cve": "CVE-2025-52902",
+    "description": "FileBrowser是开源的一款网页文件浏览器。提供指定目录下的文件管理界面，可用于上传、删除、预览、重命名和编辑您的文件。FileBrowser存在跨站脚本漏洞，该漏洞是由于Markdown预览功能对用户输入的验证不当造成的。攻击者利用该漏洞执行JavaScript代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/filebrowser/filebrowser/commit/f19943a42e8e092e811dffbe9f4623dac36f1f0d",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/filebrowser/filebrowser/releases",
+    "patch": "FileBrowser跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "c0c55f33ff65e637f7cca2414313e6b9"
+}
