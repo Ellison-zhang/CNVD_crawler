@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 07:04:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22638",
+    "spider_time": 1758870273424,
+    "name": "Restaurant Table Booking System manage-subadmins.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-22638",
+    "publish": "2025-09-26",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:P/A:N",
+    "product": "[\"Restaurant Table Booking System Restaurant Table Booking System v1.0\"]",
+    "cve": "CVE-2025-5972",
+    "description": "Restaurant Table Booking System是一个餐厅餐桌预订系统。Restaurant Table Booking System存在跨站脚本漏洞，该漏洞源于文件/admin/manage-subadmins.php中参数fullname对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/kakalalaww/CVE/issues/5",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "e3dc96cde70989cfd1d473c1a81bb497"
+}
