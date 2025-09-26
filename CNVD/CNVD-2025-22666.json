@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 08:04:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22666",
+    "spider_time": 1758873895534,
+    "name": "WordPress插件Advance Portfolio Grid跨站脚本漏洞",
+    "cnvd": "CNVD-2025-22666",
+    "publish": "2025-09-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"WordPress Advance Portfolio Grid plugin <=1.07.6\"]",
+    "cve": "CVE-2025-57982",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件Advance Portfolio Grid存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-57982",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://patchstack.com/database/wordpress/plugin/advance-portfolio-grid/vulnerability/wordpress-advance-portfolio-grid-plugin-1-07-6-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-25",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "72af06e7009efc31dc7bb54144c87bc7"
+}

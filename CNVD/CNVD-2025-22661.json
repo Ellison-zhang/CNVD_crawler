@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 08:06:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22661",
+    "spider_time": 1758873968227,
+    "name": "Selesta Visual Access Manager存在未明漏洞（CNVD-2025-22661）",
+    "cnvd": "CNVD-2025-22661",
+    "publish": "2025-09-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:N",
+    "product": "[\"Selesta Visual Access Manager <4.42.2\"]",
+    "cve": "CVE-2023-42248",
+    "description": "Selesta Visual Access Manager是Selesta公司的一个可视访问管理器。Selesta Visual Access Manager存在安全漏洞，攻击者可利用此漏洞通过操纵页面common/vam_Sql.php的POST参数来写入任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-42248",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.seling.it/product/vam/",
+    "patch": "Selesta Visual Access Manager存在未明漏洞（CNVD-2025-22661）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-16",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "eb04b14312bb2eedce18d984c63d6d91"
+}
