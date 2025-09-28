@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-28 10:04:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22728",
+    "spider_time": 1759053856980,
+    "name": "GPT Academic服务器端请求伪造漏洞",
+    "cnvd": "CNVD-2025-22728",
+    "publish": "2025-09-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"GPT Academic GPT Academic git 310122f\"]",
+    "cve": "CVE-2024-12392",
+    "description": "GPT Academic是一个为GPT/GLM等LLM大语言模型提供实用化交互的接口。GPT Academic存在服务器端请求伪造漏洞，攻击者可利用该漏洞使应用程序访问任何URL，包括内部服务，并读取响应。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://huntr.com/bounties/858de346-698e-4a72-a9e9-3dbd6c60ac18",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://huntr.com/bounties/858de346-698e-4a72-a9e9-3dbd6c60ac18",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-09-28",
+    "update_time": "2025-09-28",
+    "data_summary": "c1ed996136f2e2e956be3409cb0e2b0b"
+}

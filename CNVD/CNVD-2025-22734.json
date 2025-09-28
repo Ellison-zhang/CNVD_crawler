@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-28 10:09:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22734",
+    "spider_time": 1759054198176,
+    "name": "GPT Academic远程代码执行漏洞",
+    "cnvd": "CNVD-2025-22734",
+    "publish": "2025-09-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"GPT Academic GPT Academic 3.83\"]",
+    "cve": "CVE-2024-12390",
+    "description": "GPT Academic是一个为GPT/GLM等LLM大语言模型提供实用化交互的接口。GPT Academic存在远程代码执行漏洞，该漏洞源于未正确验证用户提供的RAR文件，攻击者可利用该漏洞导致远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-12390",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://huntr.com/bounties/1add2b26-460d-4aa5-8fda-ab045d153177",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-09-28",
+    "update_time": "2025-09-28",
+    "data_summary": "c3f42613516c5185a339609ca92b2ac2"
+}

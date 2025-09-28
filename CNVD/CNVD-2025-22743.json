@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-28 10:10:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22743",
+    "spider_time": 1759054247636,
+    "name": "GPT Academic跨站脚本漏洞（CNVD-2025-22743）",
+    "cnvd": "CNVD-2025-22743",
+    "publish": "2025-09-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"GPT Academic GPT Academic 3.83\"]",
+    "cve": "CVE-2024-10101",
+    "description": "GPT Academic是一个为GPT/GLM等LLM大语言模型提供实用化交互的接口。GPT Academic存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞窃取受害者基于cookie的身份验证凭据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://huntr.com/bounties/0436d96a-a2c4-4ca5-9f3c-fd68eb74d2cb",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/binary-husky/gpt_academic/releases/tag/version3.90",
+    "patch": "GPT Academic跨站脚本漏洞（CNVD-2025-22743）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-23",
+    "open_time": "2025-09-28",
+    "update_time": "2025-09-28",
+    "data_summary": "946cbe6899744dc7950fa116f6397f06"
+}

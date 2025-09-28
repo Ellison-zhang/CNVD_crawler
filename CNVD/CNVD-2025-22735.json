@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-28 10:10:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22735",
+    "spider_time": 1759054208506,
+    "name": "GPT Academic代码问题漏洞",
+    "cnvd": "CNVD-2025-22735",
+    "publish": "2025-09-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"GPT Academic GPT Academic <=3.83\"]",
+    "cve": "CVE-2024-11039",
+    "description": "GPT Academic是一个为GPT/GLM等LLM大语言模型提供实用化交互的接口。GPT Academic存在代码问题漏洞，该漏洞源于Latex英文纠错插件功能在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞导致远程命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/binary-husky/gpt_academic/commit/91f5e6b8f754beb47b02f7c1893804c1c9543ccb",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/binary-husky/gpt_academic/releases/tag/version3.91",
+    "patch": "GPT Academic代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-09-28",
+    "update_time": "2025-09-28",
+    "data_summary": "8ab1e62bc365c265598549ad803d7415"
+}

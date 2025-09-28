@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-28 10:10:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22744",
+    "spider_time": 1759054253709,
+    "name": "GPT Academic路径遍历漏洞（CNVD-2025-22744）",
+    "cnvd": "CNVD-2025-22744",
+    "publish": "2025-09-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"GPT Academic GPT Academic 3.83\"]",
+    "cve": "CVE-2024-10100",
+    "description": "GPT Academic是一个为GPT/GLM等LLM大语言模型提供实用化交互的接口。GPT Academic存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素。攻击者可利用该漏洞查看主机系统上的任何文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://huntr.com/bounties/e58a0fb4-2b1d-49ef-b32e-bb62659a6f99",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/binary-husky/gpt_academic/releases/tag/version3.90",
+    "patch": "GPT Academic路径遍历漏洞（CNVD-2025-22744）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-23",
+    "open_time": "2025-09-28",
+    "update_time": "2025-09-28",
+    "data_summary": "79b1fb637182646bff1e65a1bdb6eb36"
+}
