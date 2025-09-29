@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-29 10:05:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22921",
+    "spider_time": 1759140348335,
+    "name": "Google Chrome整数溢出漏洞",
+    "cnvd": "CNVD-2025-22921",
+    "publish": "2025-09-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <140.0.7339.207\"]",
+    "cve": "CVE-2025-10892",
+    "description": "Google Chrome是由Google开发的网页浏览器，以快速、安全和个性化著称，支持多设备同步及智能工具集成。Google Chrome存在整数溢出漏洞，该漏洞源于程序未能正确检查整数操作。攻击者可利用该漏洞通过特制HTML页面触发堆损坏。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/09/stable-channel-update-for-desktop_23.html\nhttps://issues.chromium.org/issues/444048019",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://chromereleases.googleblog.com/2025/09/stable-channel-update-for-desktop_23.html",
+    "patch": "Google Chrome整数溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-26",
+    "open_time": "2025-09-29",
+    "update_time": "2025-09-29",
+    "data_summary": "1c2fdb763da3c5045ddd2a754926c3d5"
+}

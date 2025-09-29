@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-29 10:04:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22919",
+    "spider_time": 1759140262444,
+    "name": "DELL BSAFE Micro Edition Suite越界写入漏洞",
+    "cnvd": "CNVD-2025-22919",
+    "publish": "2025-09-29",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"DELL BSAFE Micro Edition Suite <5.0.2.3\"]",
+    "cve": "CVE-2024-48014",
+    "description": "DELL BSAFE Micro Edition Suite是一款由戴尔公司开发的加密开发工具包。DELL BSAFE Micro Edition Suite存在越界写入漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-48014",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000256131/dsa-2024-459-dell-bsafe-micro-edition-suite-security-update",
+    "patch": "DELL BSAFE Micro Edition Suite越界写入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-28",
+    "open_time": "2025-09-29",
+    "update_time": "2025-09-29",
+    "data_summary": "0d5ae480713ef99178cb6027cee4e6c0"
+}

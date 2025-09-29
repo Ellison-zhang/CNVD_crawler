@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-29 10:09:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22932",
+    "spider_time": 1759140581219,
+    "name": "JetBrains YouTrack跨站脚本漏洞",
+    "cnvd": "CNVD-2025-22932",
+    "publish": "2025-09-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"JetBrains YouTrack <2025.2.92387\"]",
+    "cve": "CVE-2025-57731",
+    "description": "JetBrains YouTrack是由捷克JetBrains公司开发的项目管理工具。JetBrains YouTrack存在跨站脚本漏洞，该漏洞源于Mermaid图表内容，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-57731",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains YouTrack跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-27",
+    "open_time": "2025-09-29",
+    "update_time": "2025-09-29",
+    "data_summary": "aa2cb4fe39f528aa975e6f54bfc40347"
+}

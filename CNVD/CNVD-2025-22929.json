@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-29 10:07:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22929",
+    "spider_time": 1759140471071,
+    "name": "JetBrains TeamCity路径遍历漏洞",
+    "cnvd": "CNVD-2025-22929",
+    "publish": "2025-09-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:C/A:P",
+    "product": "[\"JetBrains TeamCity <2025.07.2\"]",
+    "cve": "CVE-2025-59456",
+    "description": "JetBrains TeamCity是一款由JetBrains开发的持续集成/持续部署（CI/CD）工具，主要用于自动化软件构建、测试及部署流程，支持多种编程语言和工具。JetBrains TeamCity存在路径遍历漏洞，该漏洞源于上传项目存档时未能正确地过滤资源或文件路径中的特殊元素，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-59456",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains TeamCity路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-19",
+    "open_time": "2025-09-29",
+    "update_time": "2025-09-29",
+    "data_summary": "fa5ceec7aeecde8b8b45f97b97d58523"
+}
