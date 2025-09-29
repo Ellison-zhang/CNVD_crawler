@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-29 11:04:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22949",
+    "spider_time": 1759143885272,
+    "name": "Delta Electronics DIAView安全绕过漏洞",
+    "cnvd": "CNVD-2025-22949",
+    "publish": "2025-09-29",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:C/A:C",
+    "product": "[\"Delta Electronics DIAView <=4.2.0\"]",
+    "cve": "CVE-2025-58318",
+    "description": "Delta Electronics DIAView是中国台达电子（Delta Electronics）公司的一款工业组态软件。Delta Electronics DIAView存在安全绕过漏洞，攻击者可利用该漏洞导致身份验证绕过。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2025-00015_DIAView%20Authentication%20%20Bypass%20Vulnerability.pdf",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://downloadcenter.deltaww.com/zh-CN/DownloadCenter?v=1&q=DIAView&sort_expr=cdate&sort_dir=DESC",
+    "patch": "Delta Electronics DIAView安全绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-04",
+    "open_time": "2025-09-29",
+    "update_time": "2025-09-29",
+    "data_summary": "e450e929cad3dcf106427e707ab3756d"
+}

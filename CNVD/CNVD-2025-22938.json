@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-09-29 10:09:35",
+    "parse_time": "2025-09-29 11:06:40",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22938",
-    "spider_time": 1759140575108,
+    "spider_time": 1759144000832,
     "name": "Google Chrome V8释放后重用漏洞（CNVD-2025-22938）",
     "cnvd": "CNVD-2025-22938",
     "publish": "2025-09-28",

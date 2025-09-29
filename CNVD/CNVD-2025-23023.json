@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-29 11:04:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23023",
+    "spider_time": 1759143864832,
+    "name": "Ashlar-Vellum Cobalt越界读取漏洞（CNVD-2025-23023）",
+    "cnvd": "CNVD-2025-23023",
+    "publish": "2025-09-29",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Ashlar-Vellum Cobalt\"]",
+    "cve": "CVE-2025-7991",
+    "description": "Ashlar-Vellum Cobalt是Ashlar Vellum公司开发的三维建模软件，支持Windows和Mac系统，主要用于工业产品设计、建筑设计等领域的三维建模和CAD绘图。Ashlar-Vellum Cobalt存在越界读取漏洞，该漏洞源于解析VC6文件时缺乏对用户提供数据的适当验证，攻击者可利用该漏洞导致越界读取和执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-25-643/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://ashlar.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-19",
+    "open_time": "2025-09-29",
+    "update_time": "2025-09-29",
+    "data_summary": "b5ff546a4314e3d3a5c2b5207621ebb1"
+}
