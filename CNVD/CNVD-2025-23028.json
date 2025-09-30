@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-30 07:04:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23028",
+    "spider_time": 1759215886812,
+    "name": "Google Android信息泄露漏洞（CNVD-2025-23028）",
+    "cnvd": "CNVD-2025-23028",
+    "publish": "2025-09-30",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Google Android 14.0\", \"Google Android 15.0\", \"Google Android 13.0\"]",
+    "cve": "CVE-2025-32330",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在信息泄露漏洞，该漏洞是由于LocalBluetoothLeBroadcast.java中generateRandomPasword函数中的不安全默认值缺陷引起的。攻击者可利用该漏获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/5b10581d2a91ddb256a1e37efcbcdb015091f5a1",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-09-01",
+    "patch": "Google Android信息泄露漏洞（CNVD-2025-23028）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-09-30",
+    "update_time": "2025-09-30",
+    "data_summary": "3a19d44c7d3070d42e7e513ea69a5787"
+}

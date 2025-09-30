@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-30 07:07:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23059",
+    "spider_time": 1759216029976,
+    "name": "Microsoft Edge (Chromium-based)远程代码执行漏洞（CNVD-2025-23059）",
+    "cnvd": "CNVD-2025-23059",
+    "publish": "2025-09-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:P",
+    "product": "[\"Microsoft Edge (Chromium-based)\"]",
+    "cve": "CVE-2025-29815",
+    "description": "Microsoft Edge是美国微软（Microsoft）公司的一款Windows 10之后版本系统附带的Web浏览器。Microsoft Edge (Chromium-based)存在远程代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-29815",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2025-29815",
+    "patch": "Microsoft Edge (Chromium-based)远程代码执行漏洞（CNVD-2025-23059）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-09",
+    "open_time": "2025-09-30",
+    "update_time": "2025-09-30",
+    "data_summary": "dd766dada0faa823d8ec3226e68db6a3"
+}

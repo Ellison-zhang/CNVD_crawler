@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-30 07:04:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23029",
+    "spider_time": 1759215893077,
+    "name": "Google Android拒绝服务漏洞（CNVD-2025-23029）",
+    "cnvd": "CNVD-2025-23029",
+    "publish": "2025-09-30",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:C/A:C",
+    "product": "[\"Google Android 14.0\", \"Google Android 15.0\", \"Google Android 13.0\"]",
+    "cve": "CVE-2025-26456",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在拒绝服务漏洞，该漏洞是由于DexUseManagerLocal.java的多个函数中的逻辑错误引起的。攻击者可利用该漏洞导致系统服务器崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/art/+/06a99377e368b688dbeb4e6bb11b6e1dfca8bb70",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-06-01",
+    "patch": "Google Android拒绝服务漏洞（CNVD-2025-23029）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-09-30",
+    "update_time": "2025-09-30",
+    "data_summary": "55c27732d54ba5ef44f08ae3de81fca7"
+}
