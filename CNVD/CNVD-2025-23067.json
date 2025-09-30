@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-30 08:05:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23067",
+    "spider_time": 1759219548241,
+    "name": "Microsoft Outlook代码执行漏洞（CNVD-2025-23067）",
+    "cnvd": "CNVD-2025-23067",
+    "publish": "2025-09-30",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft outlook 2016\", \"Microsoft 365 Apps for Enterprise\", \"Microsoft Office LTSC 2021\", \"Microsoft Office 2019\", \"Microsoft Microsoft Office LTSC 2024\"]",
+    "cve": "CVE-2025-47171",
+    "description": "Microsoft Outlook是美国微软（Microsoft）公司的一套电子邮件应用程序。Microsoft Outlook存在代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47171",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47171",
+    "patch": "Microsoft Outlook代码执行漏洞（CNVD-2025-23067）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-09-30",
+    "update_time": "2025-09-30",
+    "data_summary": "8371b1e8b75e91410b693775e82f826f"
+}
