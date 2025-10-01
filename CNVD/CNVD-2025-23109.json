@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-01 12:06:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23109",
+    "spider_time": 1759320389056,
+    "name": "VMware vCenter SMTP标头注入漏洞",
+    "cnvd": "CNVD-2025-23109",
+    "publish": "2025-10-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:P",
+    "product": "[\"VMWare vCenter\"]",
+    "cve": "CVE-2025-41250",
+    "description": "VMware vCenter是美国威睿（VMware）公司的一款虚拟化管理软件。VMware vCenter存在SMTP标头注入漏洞，攻击者可利用该漏洞操纵计划任务的通知邮件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-41250",
+    "solution": "厂商已提供漏洞修复方案，请及时关注厂商更新：\nhttps://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36150",
+    "patch": "VMware vCenter SMTP标头注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-01",
+    "open_time": "2025-10-01",
+    "update_time": "2025-10-01",
+    "data_summary": "e7a3e3e51713e33f6b929fec31c43481"
+}
