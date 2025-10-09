@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-09 08:05:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23132",
+    "spider_time": 1759997117161,
+    "name": "Grav CMS远程代码执行漏洞",
+    "cnvd": "CNVD-2025-23132",
+    "publish": "2025-10-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Grav Grav CMS v1.7.48\"]",
+    "cve": "CVE-2025-50286",
+    "description": "Grav CMS是Grav开源的一个基于文件的扁平化内容管理系统。Grav CMS存在远程代码执行漏洞，该漏洞源于允许经过身份验证的管理员通过admin/tools/direct-install接口上传恶意插件，攻击者可利用该漏洞导致远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/binneko/CVE-2025-50286",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/getgrav/grav/releases",
+    "patch": "Grav CMS远程代码执行漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-08-18",
+    "open_time": "2025-10-09",
+    "update_time": "2025-10-09",
+    "data_summary": "32b08f295da719d881484053ad1484da"
+}

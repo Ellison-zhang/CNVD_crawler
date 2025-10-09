@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-09 08:05:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23118",
+    "spider_time": 1759997104200,
+    "name": "Small CRM /registration.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-23118",
+    "publish": "2025-10-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"Small CRM Small CRM 4.0\"]",
+    "cve": "CVE-2025-9834",
+    "description": "Small CRM是一套客户关系管理系统。Small CRM存在跨站脚本漏洞，该漏洞源于文件/registration.php中参数Username对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?submit.642025",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-04",
+    "open_time": "2025-10-09",
+    "update_time": "2025-10-09",
+    "data_summary": "3f57bebfcf06a93709dd0f1fd9860553"
+}
