@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-09 09:07:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23153",
+    "spider_time": 1760000868959,
+    "name": "Small CRM Users login面板SQL注入漏洞",
+    "cnvd": "CNVD-2025-23153",
+    "publish": "2025-10-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Small CRM Small CRM 3.0\"]",
+    "cve": "CVE-2023-50035",
+    "description": "Small CRM是一套客户关系管理系统。Small CRM存在SQL注入漏洞，该漏洞源于Users login面板缺少对外部输入SQL语句的验证。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/hackerhijeck/Exploited/blob/main/Small_CRM/SQL-Injection.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-01-05",
+    "open_time": "2025-10-09",
+    "update_time": "2025-10-09",
+    "data_summary": "39155d8ac00aa9b256db293c8a3bb3c9"
+}
