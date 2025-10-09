@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-09 07:04:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23117",
+    "spider_time": 1759993466786,
+    "name": "Small CRM /get-quote.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-23117",
+    "publish": "2025-10-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Small CRM Small CRM 4.0\"]",
+    "cve": "CVE-2025-10079",
+    "description": "Small CRM是一套客户关系管理系统。Small CRM存在SQL注入漏洞，该漏洞源于/get-quote.php文件对Contact参数未进行安全过滤。攻击者可利用该漏洞通过远程提交恶意SQL查询语句，非法操作数据库。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.323027\nhttps://vuldb.com/?ctiid.323027\nhttps://vuldb.com/?submit.644626\nhttps://github.com/f000x0/cve/issues/2\nhttps://phpgurukul.com/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-10",
+    "open_time": "2025-10-09",
+    "update_time": "2025-10-09",
+    "data_summary": "fc5eacd3ca119e2508e614c07ea701c8"
+}

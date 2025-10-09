@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-09 07:04:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23113",
+    "spider_time": 1759993449019,
+    "name": "Tenda AC18缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-23113",
+    "publish": "2025-10-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC18 15.03.05.19\"]",
+    "cve": "CVE-2025-11122",
+    "description": "Tenda AC18是深圳市吉祥腾达科技有限公司于2016年7月推出的双频无线路由器，主要面向别墅及大户型家庭用户。Tenda AC18存在缓冲区溢出漏洞，该漏洞源于/goform/WizardHandle文件对WANT/mtuvalue参数处理时未进行有效边界检查。攻击者可利用该漏洞执行任意代码或导致系统崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.326203\nhttps://vuldb.com/?ctiid.326203\nhttps://vuldb.com/?submit.664194\nhttps://vuldb.com/?submit.664195\nhttps://github.com/noahze01/IoT-vulnerable/blob/main/Tenda/AC18/WizardHandle.md\nhttps://github.com/noahze01/IoT-vulnerable/blob/main/Tenda/AC18/WizardHandle2.md\nhttps://www.tenda.com.cn/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-09-29",
+    "open_time": "2025-10-09",
+    "update_time": "2025-10-09",
+    "data_summary": "361f0dc8c78d8f924c7a6d5d454bad10"
+}
