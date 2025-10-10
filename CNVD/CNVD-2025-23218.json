@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-10 18:05:25",
+    "parse_time": "2025-10-10 19:03:41",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23218",
-    "spider_time": 1760119525201,
+    "spider_time": 1760123021568,
     "name": "Park Ticketing Management System /profile.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-23218",
     "publish": "2025-10-09",
