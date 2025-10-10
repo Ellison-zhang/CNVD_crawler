@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-10 11:04:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23290",
+    "spider_time": 1760094265208,
+    "name": "PyTorch存在未明漏洞（CNVD-2025-23290）",
+    "cnvd": "CNVD-2025-23290",
+    "publish": "2025-10-10",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"Pytorch Pytorch 2.6.0\"]",
+    "cve": "CVE-2025-3136",
+    "description": "PyTorch是PyTorch开源的一个Python包。PyTorch存在安全漏洞，攻击者可利用该漏洞导致内存损坏。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-3136",
+    "solution": "目前没有详细解决方案提供：\nhttps://pytorch.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-12",
+    "open_time": "2025-10-10",
+    "update_time": "2025-10-10",
+    "data_summary": "346a1ee1829e8069e3df16e682016c29"
+}
