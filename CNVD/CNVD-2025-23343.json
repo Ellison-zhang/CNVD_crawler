@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-11 07:03:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23343",
+    "spider_time": 1760166224052,
+    "name": "Car Rental Project会话劫持漏洞",
+    "cnvd": "CNVD-2025-23343",
+    "publish": "2025-10-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:P/A:N",
+    "product": "[\"Car Rental Project Car Rental Project v3.0\"]",
+    "cve": "CVE-2025-50486",
+    "description": "Car Rental Project是一个汽车租赁项目。Car Rental Project存在会话劫持漏洞，该漏洞源于/carrental/update-password.php组件未正确终止会话。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://phpgurukul.com\nhttp://car.com\nhttps://github.com/sahel0708/CVE/tree/main/CVE-2025-50486",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-30",
+    "open_time": "2025-10-11",
+    "update_time": "2025-10-11",
+    "data_summary": "ba69012842c8a45637ebe1f4ea0199f1"
+}

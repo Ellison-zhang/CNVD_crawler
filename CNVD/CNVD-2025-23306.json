@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-11 07:05:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23306",
+    "spider_time": 1760166306317,
+    "name": "Teachers Record Management System admin/search.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-23306",
+    "publish": "2025-10-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Teachers Record Management System Teachers Record Management System 2.1\"]",
+    "cve": "CVE-2025-8951",
+    "description": "Teachers Record Management System是一个教师记录管理系统。Teachers Record Management System存在SQL注入漏洞，该漏洞源于文件/admin/search.php中参数searchdata缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/zzx-yyds/mycve/issues/1",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-10-11",
+    "update_time": "2025-10-11",
+    "data_summary": "0ea241b85c404f4ba030c735a32504e8"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-11 07:06:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23323",
+    "spider_time": 1760166385487,
+    "name": "Beauty Parlour Management System不安全的直接对象引用漏洞",
+    "cnvd": "CNVD-2025-23323",
+    "publish": "2025-10-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Beauty Parlour Management System Beauty Parlour Management System 1.1\"]",
+    "cve": "CVE-2024-51066",
+    "description": "Beauty Parlour Management System是一个应用系统。Beauty Parlour Management System存在不安全的直接对象引用漏洞，攻击者可利用该漏洞访问其他客户的个人身份信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-51066",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-08",
+    "open_time": "2025-10-11",
+    "update_time": "2025-10-11",
+    "data_summary": "f4e4ca1accb367915a52f1a5ed969b7e"
+}
