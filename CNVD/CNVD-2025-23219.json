@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-11 00:13:06",
+    "parse_time": "2025-10-11 01:31:04",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23219",
-    "spider_time": 1760141586310,
+    "spider_time": 1760146264626,
     "name": "Park Ticketing Management System foreigner-bwdates-reports-details.php文件跨站脚本漏洞",
     "cnvd": "CNVD-2025-23219",
     "publish": "2025-10-09",
