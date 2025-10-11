@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-11 07:05:37",
+    "parse_time": "2025-10-11 08:04:52",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23313",
-    "spider_time": 1760166337397,
+    "spider_time": 1760169892682,
     "name": "Auto Taxi Stand Management System /admin/admin-profile.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-23313",
     "publish": "2025-10-10",
