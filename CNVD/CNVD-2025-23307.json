@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-11 20:04:04",
+    "parse_time": "2025-10-11 21:03:49",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23307",
-    "spider_time": 1760213044683,
+    "spider_time": 1760216629240,
     "name": "Zoo Management System admin/add-foreigner-ticket.php文件跨站脚本漏洞",
     "cnvd": "CNVD-2025-23307",
     "publish": "2025-10-10",
