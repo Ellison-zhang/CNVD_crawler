@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-11 09:06:10",
+    "parse_time": "2025-10-11 10:04:12",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23309",
-    "spider_time": 1760173570910,
+    "spider_time": 1760177052264,
     "name": "Taxi Stand Management System admin/search-autoortaxi.php文件跨站脚本漏洞",
     "cnvd": "CNVD-2025-23309",
     "publish": "2025-10-10",
