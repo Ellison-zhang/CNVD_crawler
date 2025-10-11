@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-11 09:04:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23372",
+    "spider_time": 1760173445407,
+    "name": "D-Link DIR-823X命令注入漏洞（CNVD-2025-23372）",
+    "cnvd": "CNVD-2025-23372",
+    "publish": "2025-10-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-823X 250416\"]",
+    "cve": "CVE-2025-11095",
+    "description": "D-Link DIR-823X是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-823X存在命令注入漏洞，该漏洞源于对文件/goform/delete_offline_device中参数delvalue的错误操作，攻击者可利用该漏洞导致命令注入。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-11095",
+    "solution": "目前没有详细解决方案提供：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-29",
+    "open_time": "2025-10-11",
+    "update_time": "2025-10-11",
+    "data_summary": "f306ef4d61cb1c8cc56819134d476b73"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-11 09:05:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23354",
+    "spider_time": 1760173524452,
+    "name": "PyTorch torch.jit.jit_module_from_flatbuffer函数存在未明漏洞",
+    "cnvd": "CNVD-2025-23354",
+    "publish": "2025-10-11",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Pytorch Pytorch 2.6.0\"]",
+    "cve": "CVE-2025-3121",
+    "description": "PyTorch是PyTorch开源的一个Python包。PyTorch torch.jit.jit_module_from_flatbuffer函数存在安全漏洞，攻击者可利用该漏洞导致内存损坏。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/pytorch/pytorch/issues/149800",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://github.com/pytorch/pytorch/issues/149800",
+    "patch": "PyTorch torch.jit.jit_module_from_flatbuffer函数存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-08",
+    "open_time": "2025-10-11",
+    "update_time": "2025-10-11",
+    "data_summary": "4ed5c16c660338648d4b8c79230991e5"
+}
