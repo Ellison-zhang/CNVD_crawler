@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-11 14:03:56",
+    "parse_time": "2025-10-11 15:03:56",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23310",
-    "spider_time": 1760191436408,
+    "spider_time": 1760195036272,
     "name": "Taxi Stand Management System admin/admin-profile.php文件跨站脚本漏洞",
     "cnvd": "CNVD-2025-23310",
     "publish": "2025-10-10",
