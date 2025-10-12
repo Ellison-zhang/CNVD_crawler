@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-12 11:03:33",
+    "parse_time": "2025-10-12 12:05:19",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23306",
-    "spider_time": 1760267013909,
+    "spider_time": 1760270719791,
     "name": "Teachers Record Management System admin/search.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-23306",
     "publish": "2025-10-10",
