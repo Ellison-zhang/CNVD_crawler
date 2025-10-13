@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-13 10:04:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23466",
+    "spider_time": 1760349863184,
+    "name": "D-Link DIR-823X命令执行漏洞",
+    "cnvd": "CNVD-2025-23466",
+    "publish": "2025-10-13",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-823X 20250416\"]",
+    "cve": "CVE-2025-55848",
+    "description": "D-Link DIR-823X是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-823X存在命令执行漏洞，该漏洞是由于set_cassword设置界面未过滤http_casswd参数中的特殊字符，攻击者可利用该漏洞导致代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-55848",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.dlink.com/en/security-bulletin/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-29",
+    "open_time": "2025-10-13",
+    "update_time": "2025-10-13",
+    "data_summary": "72cc91868c600538fb379e5e83d4b175"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-13 10:12:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23482",
+    "spider_time": 1760350348588,
+    "name": "Dell Client Platform不正确的链接解析漏洞",
+    "cnvd": "CNVD-2025-23482",
+    "publish": "2025-10-13",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"DELL Dell Client Platform\"]",
+    "cve": "CVE-2024-52537",
+    "description": "Dell Client Platform是戴尔（Dell）提供的客户端平台软件，主要用于管理企业客户端计算机的配置和功能。Dell Client Platform存在不正确的链接解析漏洞，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-52537",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000227591/dsa-2024-351",
+    "patch": "Dell Client Platform不正确的链接解析漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-20",
+    "open_time": "2025-10-13",
+    "update_time": "2025-10-13",
+    "data_summary": "875fc4d721c2f9e53cdddd9f2fd15e83"
+}

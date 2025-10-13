@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-13 10:07:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23471",
+    "spider_time": 1760350040917,
+    "name": "D-Link DIR-823X命令注入漏洞（CNVD-2025-23471）",
+    "cnvd": "CNVD-2025-23471",
+    "publish": "2025-10-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-823X <=250416\"]",
+    "cve": "CVE-2025-10123",
+    "description": "D-Link DIR-823X是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-823X存在命令注入漏洞，该漏洞是由于goform/set_stic_leases文件的sub_415028函数中的缺陷引起的。攻击者可利用该漏洞在系统上执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-10123",
+    "solution": "目前没有详细解决方案提供：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-11",
+    "open_time": "2025-10-13",
+    "update_time": "2025-10-13",
+    "data_summary": "9b3701c54f129a658d9f1991d15d7d39"
+}
