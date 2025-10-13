@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-13 05:03:59",
+    "parse_time": "2025-10-13 06:05:35",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23305",
-    "spider_time": 1760331839342,
+    "spider_time": 1760335535900,
     "name": "Beauty Parlour Management System admin/all-appointment.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-23305",
     "publish": "2025-10-10",
