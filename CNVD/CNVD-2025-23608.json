@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-14 12:06:19",
+    "parse_time": "2025-10-14 13:12:17",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23608",
-    "spider_time": 1760443579464,
+    "spider_time": 1760447537324,
     "name": "TOTOLINK X2000R Gh formTcpipSetup方法缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-23608",
     "publish": "2025-10-13",
