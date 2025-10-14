@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-14 17:05:39",
+    "parse_time": "2025-10-14 18:08:24",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23637",
-    "spider_time": 1760461539571,
+    "spider_time": 1760465304524,
     "name": "QNAP Qsync Central空指针取消引用漏洞（CNVD-2025-23637）",
     "cnvd": "CNVD-2025-23637",
     "publish": "2025-10-13",
