@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-14 16:07:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23593",
+    "spider_time": 1760458078815,
+    "name": "Huawei EnzoH操作系统命令注入漏洞",
+    "cnvd": "CNVD-2025-23593",
+    "publish": "2025-10-15",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:P/I:P/A:P",
+    "product": "[\"Huawei EnzoH-W5611T BIOS 1.07\"]",
+    "cve": "CVE-2024-58256",
+    "description": "Huawei EnzoH是中国华为（Huawei）公司的一款无线接入设备。Huawei EnzoH存在操作系统命令注入漏洞，攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.huawei.com/cn/psirt/security-advisories/2025/huawei-sa-ocivihep-cn",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.huawei.com/cn/psirt/security-advisories/2025/huawei-sa-ocivihep-cn",
+    "patch": "Huawei EnzoH操作系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-10-14",
+    "update_time": "2025-10-14",
+    "data_summary": "25476c445833f3443eebcccab066f7af"
+}
