@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-15 09:04:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23766",
+    "spider_time": 1760519070934,
+    "name": "WordPress FancyTabs plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-23766",
+    "publish": "2025-10-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress FancyTabs plugin <=1.1.0\"]",
+    "cve": "CVE-2025-8560",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress FancyTabs plugin存在跨站脚本漏洞，该漏洞源于title参数缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.svn.wordpress.org/fancytabs/trunk/fancytabs.php",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-13",
+    "open_time": "2025-10-15",
+    "update_time": "2025-10-15",
+    "data_summary": "fffd39d00d21d82eb2cfa781ba9fe008"
+}
