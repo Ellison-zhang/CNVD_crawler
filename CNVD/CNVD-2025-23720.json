@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-15 04:04:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23720",
+    "spider_time": 1760501072474,
+    "name": "WordPress Constructor plugin权限问题漏洞",
+    "cnvd": "CNVD-2025-23720",
+    "publish": "2025-10-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"WordPress Constructor plugin <=1.6.5\"]",
+    "cve": "CVE-2025-9194",
+    "description": "WordPress Constructor plugin是一个用于简化插件开发的框架，主要用于帮助开发者快速构建和管理插件的选项页面、表单和自定义字段等组件。WordPress Constructor plugin存在权限问题漏洞，该漏洞源于clean() 函数缺少能力检查，攻击者可利用该漏洞导致未经授权的数据修改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://themes.svn.wordpress.org/constructor/1.6.5/libs/Constructor/Ajax.php",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-13",
+    "open_time": "2025-10-15",
+    "update_time": "2025-10-15",
+    "data_summary": "d4ac78c004159a6afee51ce86995f6bb"
+}
