@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-15 03:18:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23713",
+    "spider_time": 1760498327098,
+    "name": "IBM Edge Application Manager代码问题漏洞",
+    "cnvd": "CNVD-2025-23713",
+    "publish": "2025-10-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"IBM Edge Application Manager 4.5\"]",
+    "cve": "CVE-2025-1142",
+    "description": "IBM Edge Application Manager是美国国际商业机器（IBM）公司的一个应用软件，提供了功能强大的解决方案，以解决需要在云边缘，更靠近创建数据的位置和需要采取行动的企业边缘提供企业计算能力的问题。IBM Edge Application Manager存在代码问题漏洞，该漏洞源于程序未正确处理用户输入的数据，攻击者可利用该漏洞通过执行任意请求，绕过权限验证，访问受限资源。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1142",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7242632",
+    "patch": "IBM Edge Application Manager代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-27",
+    "open_time": "2025-10-15",
+    "update_time": "2025-10-15",
+    "data_summary": "e031b0c79e04a7be1a870ef9bb15e181"
+}
