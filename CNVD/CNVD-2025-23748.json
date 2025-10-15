@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-15 11:06:45",
+    "parse_time": "2025-10-15 12:09:11",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23748",
-    "spider_time": 1760526405149,
+    "spider_time": 1760530151638,
     "name": "WordPress Ajax WooSearch plugin SQL注入漏洞",
     "cnvd": "CNVD-2025-23748",
     "publish": "2025-10-14",
