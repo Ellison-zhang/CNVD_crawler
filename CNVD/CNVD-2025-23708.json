@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-15 02:31:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23708",
+    "spider_time": 1760495488506,
+    "name": "IBM Cognos Controller和IBM Controller加密问题漏洞",
+    "cnvd": "CNVD-2025-23708",
+    "publish": "2025-10-15",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:N/A:N",
+    "product": "[\"IBM Cognos Controller >=11.0.0\\uff0c<=11.0.1\", \"IBM IBM Controller >=11.1.0\\uff0c<=11.1.1\"]",
+    "cve": "CVE-2025-36326",
+    "description": "IBM Cognos Controller是IBM公司的一款企业财务合并与报表软件。IBM Cognos Controller 11.0.0至11.0.1版本以及IBM Controller 11.1.0至11.1.1版本存在安全漏洞，该漏洞源于使用硬编码的加密密钥对会话Cookie进行签名。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36326",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.ibm.com/support/pages/node/7246015",
+    "patch": "IBM Cognos Controller和IBM Controller加密问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-28",
+    "open_time": "2025-10-15",
+    "update_time": "2025-10-15",
+    "data_summary": "4454134d5d7d2d9687c922547a2deb20"
+}
