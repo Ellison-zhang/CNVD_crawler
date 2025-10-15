@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-15 08:10:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23757",
+    "spider_time": 1760515832171,
+    "name": "WordPress Backup Bolt plugin任意文件下载漏洞",
+    "cnvd": "CNVD-2025-23757",
+    "publish": "2025-10-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"WordPress Backup Bolt plugin <=1.4.1\"]",
+    "cve": "CVE-2025-10306",
+    "description": "WordPress Backup Bolt plugin是一款用于WordPress网站的备份插件，主要用于自动化备份网站数据（包括文件、数据库等），并支持恢复功能。WordPress Backup Bolt plugin存在任意文件下载漏洞，该漏洞源于process_backup_batch函数存在缺陷，攻击者可利用该漏洞导致任意文件下载和备份位置写入。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wordpress.org/plugins/backup-bolt/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-13",
+    "open_time": "2025-10-15",
+    "update_time": "2025-10-15",
+    "data_summary": "a1049b29dd8f8b27e0fa1e0d434f2d94"
+}

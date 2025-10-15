@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-15 08:10:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23734",
+    "spider_time": 1760515858477,
+    "name": "GNU Scientific Library缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-23734",
+    "publish": "2025-10-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Gnu GNU Scientific Library 2.5\", \"Gnu GNU Scientific Library 2.6\"]",
+    "cve": "CVE-2020-35357",
+    "description": "GNU Scientific Library是GNU组织开发的开源科学计算库，主要用于C/C++程序，提供数学运算、统计分析、线性代数等超过1000个函数，适用于物理模拟、工程计算等领域。GNU Scientific Library存在缓冲区溢出漏洞，该漏洞源于应用在处理gsl_stats_quantile_from_sorted_data输入时出现边界错误。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://savannah.gnu.org/bugs/?59624",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://git.savannah.gnu.org/cgit/gsl.git/commit/?id=989a193268b963aa1047814f7f1402084fb7d859",
+    "patch": "GNU Scientific Library缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-08-30",
+    "open_time": "2025-10-15",
+    "update_time": "2025-10-15",
+    "data_summary": "ba65027729d2bc3b1909e667d88b34c3"
+}

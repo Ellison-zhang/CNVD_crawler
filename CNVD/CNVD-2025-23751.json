@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-15 08:10:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23751",
+    "spider_time": 1760515805383,
+    "name": "WordPress Any News Ticker plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-23751",
+    "publish": "2025-10-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Any News Ticker plugin <=3.1.1\"]",
+    "cve": "CVE-2025-10168",
+    "description": "WordPress Any News Ticker plugin是一款用于在网站中添加动态滚动新闻行情的功能插件。WordPress Any News Ticker plugin存在跨站脚本漏洞，该漏洞源于应用对any-ticker缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/any-news-ticker/trunk/src/ticker-main.php#L66",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-13",
+    "open_time": "2025-10-15",
+    "update_time": "2025-10-15",
+    "data_summary": "3b597fd13f3ae6bbf33b900d96183846"
+}
