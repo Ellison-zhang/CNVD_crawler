@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-16 02:34:19",
+    "parse_time": "2025-10-16 03:21:03",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23761",
-    "spider_time": 1760582059434,
+    "spider_time": 1760584863666,
     "name": "WordPress Block For Mailchimp plugin服务端请求伪造漏洞",
     "cnvd": "CNVD-2025-23761",
     "publish": "2025-10-14",
