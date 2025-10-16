@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-16 10:06:24",
+    "parse_time": "2025-10-16 11:05:23",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23579",
-    "spider_time": 1760609184599,
+    "spider_time": 1760612723747,
     "name": "GPT-SoVITS-WebUI open_asr函数命令注入漏洞",
     "cnvd": "CNVD-2025-23579",
     "publish": "2025-10-15",
