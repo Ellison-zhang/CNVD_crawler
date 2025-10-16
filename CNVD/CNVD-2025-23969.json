@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-16 07:05:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23969",
+    "spider_time": 1760598304769,
+    "name": "E-Commerce Website /pages/admin_account_delete.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-23969",
+    "publish": "2025-10-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"E-Commerce Website E-Commerce Website v1.0\"]",
+    "cve": "CVE-2025-10793",
+    "description": "E-Commerce Website是一个电商网站。E-Commerce Website存在SQL注入漏洞，该漏洞源于文件/pages/admin_account_delete.php中参数user_id缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-10793",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-25",
+    "open_time": "2025-10-16",
+    "update_time": "2025-10-16",
+    "data_summary": "238711322fcb0f0bdc417c78f4dd0f4a"
+}

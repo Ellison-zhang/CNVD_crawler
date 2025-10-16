@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-16 07:04:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23961",
+    "spider_time": 1760598262986,
+    "name": "Online Complaint Site /cms/users/complaint-details.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-23961",
+    "publish": "2025-10-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Online Complaint Site Online Complaint Site 1\"]",
+    "cve": "CVE-2025-11516",
+    "description": "Online Complaint Site是一个在线投诉网站。Online Complaint Site存在SQL注入漏洞，该漏洞源于/cms/users/complaint-details.php文件提交的SQL语句过滤不当，攻击者可利用该漏洞获取敏感数据等。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Aurion365/cve/issues/3",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-13",
+    "open_time": "2025-10-16",
+    "update_time": "2025-10-16",
+    "data_summary": "d9459f9c1cc0f494b936d952206e096a"
+}
