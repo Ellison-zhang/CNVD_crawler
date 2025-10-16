@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-16 08:09:34",
+    "parse_time": "2025-10-16 09:15:42",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23581",
-    "spider_time": 1760602174169,
+    "spider_time": 1760606142826,
     "name": "GPT-SoVITS-WebUI open_slice函数命令注入漏洞",
     "cnvd": "CNVD-2025-23581",
     "publish": "2025-10-15",
