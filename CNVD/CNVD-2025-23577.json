@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-16 01:32:42",
+    "parse_time": "2025-10-16 02:31:17",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23577",
-    "spider_time": 1760578362158,
+    "spider_time": 1760581877106,
     "name": "GPT-SoVITS-WebUI change_label函数命令注入漏洞",
     "cnvd": "CNVD-2025-23577",
     "publish": "2025-10-15",
