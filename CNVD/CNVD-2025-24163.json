@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 09:04:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24163",
+    "spider_time": 1760691858331,
+    "name": "Adobe Commerce跨站脚本漏洞（CNVD-2025-24163）",
+    "cnvd": "CNVD-2025-24163",
+    "publish": "2025-10-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:N",
+    "product": "[\"Adobe Adobe Commerce <=2.4.9-alpha2\", \"Adobe Adobe Commerce <=2.4.8-p2\", \"Adobe Adobe Commerce <=2.4.7-p7\", \"Adobe Adobe Commerce <=2.4.6-p12\", \"Adobe Adobe Commerce <=2.4.5-p14\", \"Adobe Adobe Commerce <=2.4.4-p15\"]",
+    "cve": "CVE-2025-54264",
+    "description": "Adobe Commerce是美国奥多比（Adobe）公司的一种面向商家和品牌的全球领先的数字商务解决方案。Adobe Commerce存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-54264",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/magento/apsb25-94.html",
+    "patch": "Adobe Commerce跨站脚本漏洞（CNVD-2025-24163）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-17",
+    "update_time": "2025-10-17",
+    "data_summary": "f84f17afe477c7f3921f6c0878e38589"
+}
