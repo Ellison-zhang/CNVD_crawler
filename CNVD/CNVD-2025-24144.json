@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 08:05:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24144",
+    "spider_time": 1760688306208,
+    "name": "fortinet FortiAnalyzer竞争条件问题漏洞",
+    "cnvd": "CNVD-2025-24144",
+    "publish": "2025-10-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:N/I:C/A:N",
+    "product": "[\"Fortinet FortiAnalyzer >=7.6.0\\uff0c<=7.6.2\", \"Fortinet FortiAnalyzer >=7.4.0\\uff0c<=7.4.6\", \"Fortinet FortiAnalyzer >=7.2.0\\uff0c<=7.2.10\", \"Fortinet FortiAnalyzer 7.0.13\"]",
+    "cve": "CVE-2025-54973",
+    "description": "FortiAnalyzer是Fortinet公司的集中式安全日志管理与分析平台。FortiAnalyzer存在竞争条件漏洞，该漏洞源于共享资源同步机制不当。攻击者可利用该漏洞通过精心构造的FortiCloud SSO请求赢得竞争条件，从而绕过FortiCloud单点登录授权机制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-54973",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-25-198",
+    "patch": "fortinet FortiAnalyzer竞争条件问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-16",
+    "open_time": "2025-10-17",
+    "update_time": "2025-10-17",
+    "data_summary": "55de9ccae7f0ff940eb82027bd78cfd7"
+}

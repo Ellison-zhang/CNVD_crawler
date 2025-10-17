@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 08:05:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24147",
+    "spider_time": 1760688316985,
+    "name": "ERPNext跨站脚本漏洞",
+    "cnvd": "CNVD-2025-24147",
+    "publish": "2025-10-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"ERPNext ERPNext 15.67.0\"]",
+    "cve": "CVE-2025-56379",
+    "description": "ERPNext是印度ERPNext公司的一套开源的企业资源计划解决方案。ERPNext v15.67.0版本存在跨站脚本漏洞，该漏洞源于博客文章功能对内容字段输入清理不当，攻击者可利用该漏洞导致存储型跨站脚本攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-56379",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/frappe/erpnext/releases",
+    "patch": "ERPNext跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-15",
+    "open_time": "2025-10-17",
+    "update_time": "2025-10-17",
+    "data_summary": "790f1c3879f017aa6287100e0b8614a1"
+}
