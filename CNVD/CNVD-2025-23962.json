@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-17 05:04:06",
+    "parse_time": "2025-10-17 06:05:34",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23962",
-    "spider_time": 1760677446094,
+    "spider_time": 1760681134300,
     "name": "E-Commerce Website /pages/supplier_update.php SQL注入漏洞",
     "cnvd": "CNVD-2025-23962",
     "publish": "2025-10-15",
