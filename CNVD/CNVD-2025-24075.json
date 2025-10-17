@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 03:18:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24075",
+    "spider_time": 1760671087636,
+    "name": "Oracle Database Server存在未明漏洞（CNVD-2025-24075）",
+    "cnvd": "CNVD-2025-24075",
+    "publish": "2025-10-17",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:P/A:N",
+    "product": "[\"Oracle Oracle Database Materialized View >=19.3\\uff0c<=19.27\", \"Oracle Oracle Database Materialized View >=21.3\\uff0c<=21.18\", \"Oracle Oracle Database Materialized View >=23.4\\uff0c<=23.8\"]",
+    "cve": "CVE-2025-50066",
+    "description": "Oracle Database Server是美国甲骨文（Oracle）公司的一套关系数据库管理系统。该数据库管理系统提供数据管理、分布式处理等功能。Oracle Database Server的Oracle Database Materialized View存在安全漏洞，攻击者利用该漏洞导致数据篡改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.oracle.com/security-alerts/cpujul2025.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpujul2025.html",
+    "patch": "Oracle Database Server存在未明漏洞（CNVD-2025-24075）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-10-17",
+    "update_time": "2025-10-17",
+    "data_summary": "7002e1a9bd59bc4436617de25d345241"
+}
