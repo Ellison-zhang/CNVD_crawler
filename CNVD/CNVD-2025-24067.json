@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 02:36:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24067",
+    "spider_time": 1760668568605,
+    "name": "Huawei HarmonyOS device management模块缓冲区溢出漏洞漏洞",
+    "cnvd": "CNVD-2025-24067",
+    "publish": "2025-10-17",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Huawei HarmonyOS 5.0.1\", \"Huawei HarmonyOS 5.1.0\"]",
+    "cve": "CVE-2025-58300",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS device management模块存在缓冲区溢出漏洞漏洞，攻击者可利用该漏洞影响可用性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://consumer.huawei.com/en/support/bulletin/2025/10/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2025/10/",
+    "patch": "Huawei HarmonyOS device management模块缓冲区溢出漏洞漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-15",
+    "open_time": "2025-10-17",
+    "update_time": "2025-10-17",
+    "data_summary": "82367f106c1ed6a30a0a3df67eee1a72"
+}
