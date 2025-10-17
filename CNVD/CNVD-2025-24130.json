@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 07:08:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24130",
+    "spider_time": 1760684921128,
+    "name": "Courier Management System /login.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-24130",
+    "publish": "2025-10-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Courier Management System Courier Management System 1.0\"]",
+    "cve": "CVE-2024-10608",
+    "description": "Courier Management System是一个快递管理系统。Courier Management System存在SQL注入漏洞，该漏洞源于/login.php文件中对txtusername参数的处理不当。攻击者可利用该漏洞导致敏感信息泄露或数据被篡改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://code-projects.org/\nhttps://github.com/AXUyaku/cve/issues/1\nhttps://vuldb.com/?ctiid.282617\nhttps://vuldb.com/?id.282617\nhttps://vuldb.com/?submit.434785",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-01",
+    "open_time": "2025-10-17",
+    "update_time": "2025-10-17",
+    "data_summary": "0cbc627d51c52379ac8093de381b8afc"
+}

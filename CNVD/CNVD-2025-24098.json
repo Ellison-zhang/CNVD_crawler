@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 07:06:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24098",
+    "spider_time": 1760684797085,
+    "name": "Oracle Java SE存在未明漏洞（CNVD-2025-24098）",
+    "cnvd": "CNVD-2025-24098",
+    "publish": "2025-10-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Oracle Oracle Java SE 8u451-perf\", \"Oracle Oracle Java SE 11.0.27\", \"Oracle Oracle Java SE 17.0.15\", \"Oracle Oracle Java SE 21.0.7\", \"Oracle Oracle Java SE 24.0.1\", \"Oracle Oracle GraalVM for JDK 17.0.15\", \"Oracle Oracle GraalVM for JDK 21.0.7\", \"Oracle Oracle GraalVM for JDK 24.0.1\", \"Oracle Oracle GraalVM Enterprise Edition 21.3.14\"]",
+    "cve": "CVE-2025-50059",
+    "description": "Oracle Java SE是美国甲骨文（Oracle）公司的一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。Oracle Java SE的Oracle Java SE、Oracle GraalVM for JDK和Oracle GraalVM Enterprise Edition存在安全漏洞，攻击者可利用该漏洞导致数据泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.oracle.com/security-alerts/cpujul2025.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpujul2025.html",
+    "patch": "Oracle Java SE存在未明漏洞（CNVD-2025-24098）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-10-17",
+    "update_time": "2025-10-17",
+    "data_summary": "6aa1214068ec297b48a20e790d66c21e"
+}
