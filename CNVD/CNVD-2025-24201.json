@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-20 10:04:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24201",
+    "spider_time": 1760954671326,
+    "name": "Adobe Commerce跨站脚本漏洞（CNVD-2025-24201）",
+    "cnvd": "CNVD-2025-24201",
+    "publish": "2025-10-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"Adobe Adobe Commerce <=2.4.9-alpha2\", \"Adobe Adobe Commerce <=2.4.8-p2\", \"Adobe Adobe Commerce <=2.4.7-p7\", \"Adobe Adobe Commerce <=2.4.6-p12\", \"Adobe Adobe Commerce <=2.4.5-p14\", \"Adobe Adobe Commerce <=2.4.4-p15\"]",
+    "cve": "CVE-2025-54266",
+    "description": "Adobe Commerce是美国奥多比（Adobe）公司的一种面向商家和品牌的全球领先的数字商务解决方案。Adobe Commerce存在跨站脚本漏洞，攻击者可利用该漏洞窃取受害者基于cookie的身份验证凭据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/magento/apsb25-94.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/magento/apsb25-94.html",
+    "patch": "Adobe Commerce跨站脚本漏洞（CNVD-2025-24201）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-20",
+    "update_time": "2025-10-20",
+    "data_summary": "7eebdc134a24a33b42a81809c03134b1"
+}

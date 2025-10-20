@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-20 10:04:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24202",
+    "spider_time": 1760954677312,
+    "name": "Adobe Connect开放重定向漏洞",
+    "cnvd": "CNVD-2025-24202",
+    "publish": "2025-10-20",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:N/I:P/A:N",
+    "product": "[\"Adobe Adobe Connect <=12.9\"]",
+    "cve": "CVE-2025-54196",
+    "description": "Adobe Connect是美国奥多比（Adobe）公司的一个用于创建会议环境的软件。Adobe Connect存在开放重定向漏洞，攻击者可利用该漏洞导致用户被重定向至恶意网站。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/connect/apsb25-70.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/connect/apsb25-70.html",
+    "patch": "Adobe Connect开放重定向漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-20",
+    "update_time": "2025-10-20",
+    "data_summary": "55e8998730b63d1507401517bac1b5e0"
+}
