@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-21 05:06:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24281",
+    "spider_time": 1761023173347,
+    "name": "Intel AI Playground权限不当漏洞",
+    "cnvd": "CNVD-2025-24281",
+    "publish": "2025-10-20",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Intel AI Playground <2.3.0\"]",
+    "cve": "CVE-2025-27559",
+    "description": "Intel AI Playground是英特尔推出的基于AI加速技术的开源应用，主要用于简化人工智能开发门槛，支持图像生成、增强及聊天机器人等功能。Intel AI Playground存在权限不当漏洞，该漏洞源于默认权限不当，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-27559",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://intel.com/content/www/us/en/security-center/advisory/intel-sa-01352.html",
+    "patch": "Intel AI Playground权限不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-10-21",
+    "update_time": "2025-10-21",
+    "data_summary": "c00829d3f4a7f84957259e83dc0af661"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-21 05:07:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24294",
+    "spider_time": 1761023229830,
+    "name": "Tenda AC15 formSetSpeedWan方法栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-24294",
+    "publish": "2025-10-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC15 15.03.20_multi\", \"Tenda AC15 15.03.05.18\"]",
+    "cve": "CVE-2024-2805",
+    "description": "Tenda AC15是深圳市吉祥腾达科技有限公司于2015年10月推出的双频无线路由器，支持802.11ac协议，理论传输速率达1900Mbps（2.4GHz频段600Mbps，5GHz频段1300Mbps）。Tenda AC15存在栈缓冲区溢出漏洞，该漏洞源于/goform/SetSpeedWan页面的formSetSpeedWan方法中的speed_dir参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://mattermost.com/security-updates",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tendacn.com/us/download/detail-3851.html",
+    "patch": "Tenda AC15 formSetSpeedWan方法栈缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-26",
+    "open_time": "2025-10-21",
+    "update_time": "2025-10-21",
+    "data_summary": "a7a8143777426b2c6a901b0c2007c2de"
+}

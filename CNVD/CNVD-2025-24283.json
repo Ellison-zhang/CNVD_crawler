@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-21 05:06:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24283",
+    "spider_time": 1761023181628,
+    "name": "Intel Clock Jitter Tool权限提升漏洞",
+    "cnvd": "CNVD-2025-24283",
+    "publish": "2025-10-20",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Intel Clock Jitter Tool <6.0.1\"]",
+    "cve": "CVE-2025-20092",
+    "description": "Intel Clock Jitter Tool是英特尔开发的一款基于数学物理方法论的时钟抖动分析工具。Intel Clock Jitter Tool存在权限提升漏洞，该漏洞源于搜索路径不受控制，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20092",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://intel.com/content/www/us/en/security-center/advisory/intel-sa-01316.html",
+    "patch": "Intel Clock Jitter Tool权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-10-21",
+    "update_time": "2025-10-21",
+    "data_summary": "26390aef62df568e78db3afb7f7618c7"
+}

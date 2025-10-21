@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-21 05:05:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24270",
+    "spider_time": 1761023119242,
+    "name": "WordPress Pz-LinkCard plugin服务端请求伪造漏洞",
+    "cnvd": "CNVD-2025-24270",
+    "publish": "2025-10-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"WordPress Pz-LinkCard plugin <2.5.7\"]",
+    "cve": "CVE-2025-8594",
+    "description": "WordPress Pz-LinkCard plugin是WordPress的一款插件，主要用于将链接以卡片形式展示，支持外部和内部链接的自定义显示，并优化社交分享等功能。WordPress Pz-LinkCard plugin存在服务端请求伪造漏洞，该漏洞源于未验证参数即发起请求，攻击者可利用该漏洞探测服务器内网资源。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wpscan.com/vulnerability/17104590-d84e-41b7-83ac-9b15fcfb537a/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/pz-linkcard/",
+    "patch": "WordPress Pz-LinkCard plugin服务端请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-21",
+    "update_time": "2025-10-21",
+    "data_summary": "26fcf7a163cf9195b10fa6f71be91535"
+}

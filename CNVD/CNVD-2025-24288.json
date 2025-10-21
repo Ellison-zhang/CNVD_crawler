@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-21 05:06:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24288",
+    "spider_time": 1761023203601,
+    "name": "Intel DSA搜索路径不受控漏洞",
+    "cnvd": "CNVD-2025-24288",
+    "publish": "2025-10-20",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Intel DSA <25.2.15.9\"]",
+    "cve": "CVE-2025-26404",
+    "description": "Intel DSA是英特尔®至强®可扩展处理器内置的硬件加速器，通过卸载数据传输任务到专用硬件，释放CPU资源执行其他任务，从而加速存储、网络和数据分析工作负载。Intel DSA存在搜索路径不受控漏洞，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-26404",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://intel.com/content/www/us/en/security-center/advisory/intel-sa-01347.html",
+    "patch": "Intel DSA搜索路径不受控漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-10-21",
+    "update_time": "2025-10-21",
+    "data_summary": "0d0304d9e5b967368e04b5ec35d09cee"
+}

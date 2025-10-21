@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-21 05:04:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24259",
+    "spider_time": 1761023062243,
+    "name": "Tenda AC15 fromSysToolRestoreSet方法跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-24259",
+    "publish": "2025-10-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Tenda AC15 15.03.05.18\"]",
+    "cve": "CVE-2024-2817",
+    "description": "Tenda AC15是深圳市吉祥腾达科技有限公司于2015年10月推出的双频无线路由器，支持802.11ac协议，理论传输速率达1900Mbps（2.4GHz频段600Mbps，5GHz频段1300Mbps）。Tenda AC15存在跨站请求伪造漏洞，该漏洞源于/goform/SysToolRestoreSet页面的fromSysToolRestoreSet方法未充分验证请求是否来自可信用户。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.jetbrains.com/privacy-security/issues-fixed/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tendacn.com/us/download/detail-3851.html",
+    "patch": "Tenda AC15 fromSysToolRestoreSet方法跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-26",
+    "open_time": "2025-10-21",
+    "update_time": "2025-10-21",
+    "data_summary": "bfe7ed3bfed613df79482d2d4f76a24f"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-21 05:05:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24274",
+    "spider_time": 1761023139548,
+    "name": "WordPress Felan Framework身份验证不当漏洞",
+    "cnvd": "CNVD-2025-24274",
+    "publish": "2025-10-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Felan Framework <=1.1.4\"]",
+    "cve": "CVE-2025-10850",
+    "description": "WordPress是Wordpress基金会的一套使用PHP语言开发的博客平台。WordPress plugin是一个应用插件。WordPress Felan Framework存在身份验证不当漏洞，，该漏洞源于fb_ajax_login_or_register函数和google_ajax_login_or_register函数中存在硬编码密码。攻击者可利用该漏洞在用户通过Facebook或Google社交登录注册且未更改密码的情况下，以任意现有用户身份登录到受影响系统。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-10850",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress Felan Framework身份验证不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-21",
+    "update_time": "2025-10-21",
+    "data_summary": "6c0667df8ee7ff8dd4c708ece8d688c4"
+}
