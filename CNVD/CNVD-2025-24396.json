@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-21 10:05:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24396",
+    "spider_time": 1761041136057,
+    "name": "D-Link DAP-2695操作系统命令注入漏洞",
+    "cnvd": "CNVD-2025-24396",
+    "publish": "2025-10-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"D-Link DAP-2695 2.00RC131\"]",
+    "cve": "CVE-2025-11665",
+    "description": "D-Link DAP-2695是中国友讯（D-Link）公司的一款高性能双频无线接入点。D-Link DAP-2695 2.00RC131版本存在操作系统命令注入漏洞，该漏洞源于文件rgbin中组件Firmware Update Handler的函数fwupdater_main未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-11665",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/IOTRes/IOT_Firmware_Update/blob/main/Dlink/DAP-2695.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-21",
+    "update_time": "2025-10-21",
+    "data_summary": "f24a91923d446354a7dfadf6dbddbe82"
+}

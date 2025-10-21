@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-21 10:05:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24420",
+    "spider_time": 1761041118348,
+    "name": "Microsoft Windows存在未明漏洞（CNVD-2025-24420）",
+    "cnvd": "CNVD-2025-24420",
+    "publish": "2025-10-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Window 11 24H2\", \"Microsoft Windows Server 2025\", \"Microsoft Window 11 25H2\"]",
+    "cve": "CVE-2025-55677",
+    "description": "Microsoft Windows是美国微软（Microsoft）公司的一套个人设备使用的操作系统。Microsoft Windows存在安全漏洞，攻击者可利用该漏洞可以提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-55677",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-55677",
+    "patch": "Microsoft Windows存在未明漏洞（CNVD-2025-24420）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-21",
+    "update_time": "2025-10-21",
+    "data_summary": "f18d308fa222aabe5bae0568d55cef9f"
+}
