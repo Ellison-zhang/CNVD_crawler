@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-21 07:09:35",
+    "parse_time": "2025-10-21 08:12:23",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24309",
-    "spider_time": 1761030575314,
+    "spider_time": 1761034343566,
     "name": "Voting System voters_add.php文件跨站脚本漏洞",
     "cnvd": "CNVD-2025-24309",
     "publish": "2025-10-17",

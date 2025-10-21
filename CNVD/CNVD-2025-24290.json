@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-21 07:08:30",
+    "parse_time": "2025-10-21 08:11:32",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24290",
-    "spider_time": 1761030510876,
+    "spider_time": 1761034292471,
     "name": "Tenda AC15 formExpandDlnaFile方法栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-24290",
     "publish": "2025-10-20",

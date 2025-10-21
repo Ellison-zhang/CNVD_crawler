@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-21 07:09:15",
+    "parse_time": "2025-10-21 08:12:03",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24298",
-    "spider_time": 1761030555177,
+    "spider_time": 1761034323766,
     "name": "Tenda AC15 fromDhcpListClient方法堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-24298",
     "publish": "2025-10-20",
