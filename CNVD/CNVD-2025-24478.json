@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-22 09:06:13",
+    "parse_time": "2025-10-22 10:05:36",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24478",
-    "spider_time": 1761123973623,
+    "spider_time": 1761127536247,
     "name": "Tenda CH22 formWrlExtraGet函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-24478",
     "publish": "2025-10-21",
