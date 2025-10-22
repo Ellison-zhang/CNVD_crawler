@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-22 20:06:42",
+    "parse_time": "2025-10-22 21:04:36",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24476",
-    "spider_time": 1761163602777,
+    "spider_time": 1761167076965,
     "name": "Tenda CH22 formWrlsafeset函数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-24476",
     "publish": "2025-10-21",

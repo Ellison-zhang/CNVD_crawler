@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-22 20:04:57",
+    "parse_time": "2025-10-22 21:04:13",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24472",
-    "spider_time": 1761163497392,
+    "spider_time": 1761167053225,
     "name": "Tenda AC18 wanMTU参数栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-24472",
     "publish": "2025-10-21",
