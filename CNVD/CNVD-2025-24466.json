@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-22 12:06:19",
+    "parse_time": "2025-10-22 13:14:51",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24466",
-    "spider_time": 1761134779274,
+    "spider_time": 1761138891077,
     "name": "Tenda AC18 ddnsEn参数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-24466",
     "publish": "2025-10-21",
