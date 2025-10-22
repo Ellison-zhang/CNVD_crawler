@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-21 10:09:54",
+    "parse_time": "2025-10-22 00:19:30",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24295",
-    "spider_time": 1761041394515,
+    "spider_time": 1761092370435,
     "name": "Tenda AC15 formWifiWpsOOB方法堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-24295",
     "publish": "2025-10-20",
