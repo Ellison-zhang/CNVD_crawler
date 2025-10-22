@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-22 04:07:33",
+    "parse_time": "2025-10-22 05:11:15",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24297",
-    "spider_time": 1761106053771,
+    "spider_time": 1761109875719,
     "name": "Tenda AC15 formWriteFacMac方法命令注入漏洞",
     "cnvd": "CNVD-2025-24297",
     "publish": "2025-10-20",

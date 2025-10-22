@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-22 04:07:02",
+    "parse_time": "2025-10-22 05:08:15",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24291",
-    "spider_time": 1761106022048,
+    "spider_time": 1761109695969,
     "name": "Tenda AC15 formQuickIndex方法堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-24291",
     "publish": "2025-10-20",
