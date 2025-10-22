@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-22 17:06:14",
+    "parse_time": "2025-10-22 18:07:06",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24481",
-    "spider_time": 1761152774640,
+    "spider_time": 1761156426096,
     "name": "Tenda AC20 shareSpeed参数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-24481",
     "publish": "2025-10-21",

@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-22 17:05:11",
+    "parse_time": "2025-10-22 18:06:02",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24475",
-    "spider_time": 1761152711078,
+    "spider_time": 1761156362044,
     "name": "Tenda AC23 sscanf函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-24475",
     "publish": "2025-10-21",
