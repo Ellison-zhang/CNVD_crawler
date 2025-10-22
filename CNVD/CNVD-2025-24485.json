@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-22 07:04:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24485",
+    "spider_time": 1761116656138,
+    "name": "Tenda AC8 formSetServerConfig函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-24485",
+    "publish": "2025-10-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC8 16.03.34.06\"]",
+    "cve": "CVE-2025-11120",
+    "description": "Tenda AC8是腾达（Tenda）推出的一款专为1000兆以内光纤家庭设计的双千兆无线路由器，支持IPv6协议，具备智能网络管理功能。Tenda AC8存在缓冲区溢出漏洞，该漏洞源于/goform/SetServerConfig文件中的formSetServerConfig函数未对输入数据进行有效边界检查。攻击者可利用该漏洞执行任意代码或导致系统崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.326201\nhttps://vuldb.com/?ctiid.326201\nhttps://vuldb.com/?submit.664065\nhttps://github.com/alc9700jmo/CVE/issues/19\nhttps://www.tenda.com.cn/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-29",
+    "open_time": "2025-10-22",
+    "update_time": "2025-10-22",
+    "data_summary": "c2d983f11ba4b538054d669e5f95b82e"
+}

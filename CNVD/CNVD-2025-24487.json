@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-22 07:04:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24487",
+    "spider_time": 1761116663535,
+    "name": "Tenda AC6 formSetIptv函数命令注入漏洞",
+    "cnvd": "CNVD-2025-24487",
+    "publish": "2025-10-22",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Tenda AC6 15.03.05.19\"]",
+    "cve": "CVE-2025-57296",
+    "description": "Tenda AC6是腾达（Tenda）推出的一款双频无线路由器，支持2.4GHz和5GHz频段，最高传输速率达1167Mbps。Tenda AC6存在命令注入漏洞，该漏洞源于formSetIptv函数在处理list和vlanId参数时未验证或清理特殊字符，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/ZZ2266/.github.io/blob/main/Tenda/readme.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-25",
+    "open_time": "2025-10-22",
+    "update_time": "2025-10-22",
+    "data_summary": "5c2460d0ad49bceaa645da358eb20c7f"
+}

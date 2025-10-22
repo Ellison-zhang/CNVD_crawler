@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-22 07:09:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24477",
+    "spider_time": 1761116956133,
+    "name": "Tenda CH22 formSafeEmailFilter函数内存损坏漏洞",
+    "cnvd": "CNVD-2025-24477",
+    "publish": "2025-10-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda CH22 1.0.0.1\"]",
+    "cve": "CVE-2025-11423",
+    "description": "Tenda CH22是腾达（Tenda）推出的一款企业级无线路由器。Tenda CH22存在内存损坏漏洞，该漏洞源于文件/goform/SafeEmailFilter中formSafeEmailFilter函数参数page未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/f000x0/cve/issues/7",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-13",
+    "open_time": "2025-10-22",
+    "update_time": "2025-10-22",
+    "data_summary": "180a768388459696583eb05f64cccde7"
+}
