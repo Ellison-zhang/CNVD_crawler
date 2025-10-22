@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-22 19:04:51",
+    "parse_time": "2025-10-22 20:04:46",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24470",
-    "spider_time": 1761159891946,
+    "spider_time": 1761163486550,
     "name": "Tenda AC18 cloneType参数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-24470",
     "publish": "2025-10-21",
