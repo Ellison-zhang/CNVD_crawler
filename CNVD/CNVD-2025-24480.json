@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-22 18:06:42",
+    "parse_time": "2025-10-22 19:05:14",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24480",
-    "spider_time": 1761156402103,
+    "spider_time": 1761159914001,
     "name": "Tenda AC23 SetPptpServerCfg文件sscanf函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-24480",
     "publish": "2025-10-21",
