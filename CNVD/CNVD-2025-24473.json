@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-22 07:08:57",
+    "parse_time": "2025-10-22 08:06:14",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24473",
-    "spider_time": 1761116937822,
+    "spider_time": 1761120374378,
     "name": "Tenda AC18 wanSpeed参数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-24473",
     "publish": "2025-10-21",

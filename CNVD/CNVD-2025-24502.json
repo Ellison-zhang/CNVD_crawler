@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-22 08:05:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24502",
+    "spider_time": 1761120314715,
+    "name": "Google Android拒绝服务漏洞（CNVD-2025-24502）",
+    "cnvd": "CNVD-2025-24502",
+    "publish": "2025-10-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Google Android 15.0\"]",
+    "cve": "CVE-2025-26432",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在拒绝服务漏洞，该漏洞是由于在多个文件中的allowPackageAccess函数中反复添加允许的包时资源耗尽造成的。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/a928f327359247449c214dbc0504b8af3648bacf",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-06-01",
+    "patch": "Google Android拒绝服务漏洞（CNVD-2025-24502）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-10-22",
+    "update_time": "2025-10-22",
+    "data_summary": "ba9e6ceffbc06270bedf214388c9211d"
+}

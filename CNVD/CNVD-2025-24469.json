@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-22 07:08:35",
+    "parse_time": "2025-10-22 08:05:57",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24469",
-    "spider_time": 1761116915725,
+    "spider_time": 1761120357189,
     "name": "Tenda AC18 wifi_chkHz参数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-24469",
     "publish": "2025-10-21",
