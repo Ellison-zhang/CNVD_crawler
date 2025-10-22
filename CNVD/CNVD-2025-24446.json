@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-22 06:09:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24446",
+    "spider_time": 1761113371393,
+    "name": "Adobe Substance 3D Painter越界写入漏洞（CNVD-2025-24446）",
+    "cnvd": "CNVD-2025-24446",
+    "publish": "2025-10-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Adobe Substance 3D Painter <=10.1.0\"]",
+    "cve": "CVE-2024-47438",
+    "description": "Adobe Substance 3D Painter是美国奥多比（Adobe）公司的一个3D纹理处理应用程序。Adobe Substance 3D Painter存在越界写入漏洞，攻击者可利用该漏洞导致敏感内存泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/substance3d_painter/apsb24-86.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/substance3d_painter/apsb24-86.html",
+    "patch": "Adobe Substance 3D Painter越界写入漏洞（CNVD-2025-24446）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-15",
+    "open_time": "2025-10-22",
+    "update_time": "2025-10-22",
+    "data_summary": "9e89552d1686f5d962d0d65e4ac494ff"
+}

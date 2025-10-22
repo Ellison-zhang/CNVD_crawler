@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-22 05:07:55",
+    "parse_time": "2025-10-22 06:15:32",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24286",
-    "spider_time": 1761109675394,
+    "spider_time": 1761113732841,
     "name": "Intel Device Plugins for Kubernetes访问控制不当漏洞",
     "cnvd": "CNVD-2025-24286",
     "publish": "2025-10-20",

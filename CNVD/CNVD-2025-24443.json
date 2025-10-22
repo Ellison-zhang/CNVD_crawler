@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-22 06:09:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24443",
+    "spider_time": 1761113353143,
+    "name": "Adobe Photoshop不受控制搜索路径元素漏洞",
+    "cnvd": "CNVD-2025-24443",
+    "publish": "2025-10-22",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Photoshop 2024 <=25.12\", \"Adobe Photoshop 2025 <=26.1\"]",
+    "cve": "CVE-2025-21127",
+    "description": "Adobe Photoshop是美国奥多比（Adobe）公司的一套图片处理软件。该软件主要用于处理图片。Adobe Photoshop存在不受控制搜索路径元素漏洞，攻击者可利用该漏洞导致在当前用户的上下文中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-21127",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/photoshop/apsb25-02.html",
+    "patch": "Adobe Photoshop不受控制搜索路径元素漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-17",
+    "open_time": "2025-10-22",
+    "update_time": "2025-10-22",
+    "data_summary": "3d28279806c6aaf94a8195625d01afb1"
+}
