@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 10:04:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24756",
+    "spider_time": 1761213892759,
+    "name": "OpenBao资源管理错误漏洞",
+    "cnvd": "CNVD-2025-24756",
+    "publish": "2025-10-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"openbao openbao <2.4.1\"]",
+    "cve": "CVE-2025-59043",
+    "description": "OpenBao是OpenBao开源的一个敏感数据管理软件。OpenBao 2.4.1之前版本存在资源管理错误漏洞，该漏洞源于JSON对象反序列化后可能占用过多内存，攻击者可利用该漏洞导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/openbao/openbao/blob/788536bd3e10818a7b4fb00aac6affc23388e5a9/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/openbao/openbao/releases",
+    "patch": "OpenBao资源管理错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-23",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "04b8069b007742b9be3508fabe237524"
+}

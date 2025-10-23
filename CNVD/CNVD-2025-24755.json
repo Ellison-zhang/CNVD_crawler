@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 10:04:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24755",
+    "spider_time": 1761213886740,
+    "name": "ChurchCRM路径遍历漏洞",
+    "cnvd": "CNVD-2025-24755",
+    "publish": "2025-10-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"ChurchCRM ChurchCRM <=5.18.0\"]",
+    "cve": "CVE-2025-11939",
+    "description": "ChurchCRM是一个为教会打造的开源CRM系统。ChurchCRM 5.18.0及之前版本存在路径遍历漏洞，该漏洞源于文件src/ChurchCRM/Backup/RestoreJob.php中参数restoreFile未能正确地过滤资源或文件路径中的特殊元素，攻击者可利用该漏洞导致任意文件读取。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.329015",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/ChurchCRM/CRM/releases",
+    "patch": "ChurchCRM路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-23",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "5aeb5008e86c8429bc5896cf16409e24"
+}
