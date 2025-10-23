@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-23 05:04:07",
+    "parse_time": "2025-10-23 06:05:33",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24575",
-    "spider_time": 1761195847860,
+    "spider_time": 1761199533120,
     "name": "WordPress Orion SMS OTP Verification plugin权限提升漏洞",
     "cnvd": "CNVD-2025-24575",
     "publish": "2025-10-22",
