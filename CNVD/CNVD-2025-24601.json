@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-23 16:19:26",
+    "parse_time": "2025-10-23 19:05:59",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24601",
-    "spider_time": 1761236366056,
+    "spider_time": 1761246359711,
     "name": "WordPress External Login plugin SQL注入漏洞",
     "cnvd": "CNVD-2025-24601",
     "publish": "2025-10-22",
