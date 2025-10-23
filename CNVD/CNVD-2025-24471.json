@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-23 02:33:40",
+    "parse_time": "2025-10-23 03:19:38",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24471",
-    "spider_time": 1761186820414,
+    "spider_time": 1761189578512,
     "name": "Tenda AC18 mac参数栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-24471",
     "publish": "2025-10-21",
