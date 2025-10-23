@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-23 00:16:18",
+    "parse_time": "2025-10-23 01:37:14",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24479",
-    "spider_time": 1761178578338,
+    "spider_time": 1761183434590,
     "name": "Tenda AC20 strcpy函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-24479",
     "publish": "2025-10-21",
