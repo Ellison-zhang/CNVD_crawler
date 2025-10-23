@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 09:05:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24724",
+    "spider_time": 1761210335293,
+    "name": "ChanCMS代码注入漏洞",
+    "cnvd": "CNVD-2025-24724",
+    "publish": "2025-10-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"ChanCMS ChanCMS <=3.3.2\"]",
+    "cve": "CVE-2025-11905",
+    "description": "ChanCMS是一个内容管理系统。ChanCMS 3.3.2及之前版本存在代码注入漏洞，该漏洞源于文件appmodulescmscontrollergather.js中函数getArticle未能正确过滤构造代码段的特殊元素。攻击者可利用该漏洞导致任意代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-11905",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://gitee.com/chancms/ChanCMS/releases",
+    "patch": "ChanCMS代码注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-23",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "02a77fa0e59cdc87846dbe2461a7d514"
+}

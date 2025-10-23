@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 09:05:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24723",
+    "spider_time": 1761210329295,
+    "name": "ChanCMS /cms/article/findField文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-24723",
+    "publish": "2025-10-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"ChanCMS ChanCMS <=3.3.2\"]",
+    "cve": "CVE-2025-11902",
+    "description": "ChanCMS是一个内容管理系统。ChanCMS 3.3.2及之前版本存在SQL注入漏洞，该漏洞源于文件/cms/article/findField中函数findField缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/NarcherAlter/Security_Note/blob/main/Vulnerability_Discovery/ChanCMSv3.3.2.md",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://gitee.com/chancms/ChanCMS/releases",
+    "patch": "ChanCMS /cms/article/findField文件SQL注入漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-10-23",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "0a86b5f1f34b61bdf7fa4314c3dc521d"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 09:05:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24725",
+    "spider_time": 1761210339272,
+    "name": "ZOHO ManageEngine ADManager Plus命令注入漏洞",
+    "cnvd": "CNVD-2025-24725",
+    "publish": "2025-10-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Zoho Zoho ManageEngine ADManager Plus <8024\"]",
+    "cve": "CVE-2025-10020",
+    "description": "ZOHO ManageEngine ADManager Plus是美国卓豪（ZOHO）公司的一套为使用Windows域的企业用户设计的微软活动目录管理软件。该软件能够协助AD管理员和帮助台技术人员进行日常管理工作，例如批量管理用户帐户和AD对象、给帮助台技术员指派基于角色的访问权限等。ZOHO ManageEngine ADManager Plus 8024之前版本存在命令注入漏洞，该漏洞源于Custom Script组件未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.manageengine.com/products/ad-manager/admanager-kb/cve-2025-10020.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.manageengine.com/products/ad-manager/service-pack.html",
+    "patch": "ZOHO ManageEngine ADManager Plus命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-23",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "1472a39709e8b6ae105212d5ff99c30e"
+}

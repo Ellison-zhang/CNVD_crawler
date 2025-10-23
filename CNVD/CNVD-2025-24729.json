@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 09:06:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24729",
+    "spider_time": 1761210363274,
+    "name": "Palo Alto Networks PAN-OS存在未明漏洞（CNVD-2025-24729）",
+    "cnvd": "CNVD-2025-24729",
+    "publish": "2025-10-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Palo Alto Networks PAN-OS\"]",
+    "cve": "CVE-2025-4615",
+    "description": "Palo Alto Networks PAN-OS是美国Palo Alto Networks公司的一套为其防火墙设备开发的操作系统。Palo Alto Networks PAN-OS存在安全漏洞，攻击者可利用该漏洞导致特权管理员绕过系统限制并执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-4615",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.paloaltonetworks.com/CVEN-2025-4615",
+    "patch": "Palo Alto Networks PAN-OS存在未明漏洞（CNVD-2025-24729）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "813736cb2b854afb7a196d434324765f"
+}
