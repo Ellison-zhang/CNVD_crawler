@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-23 01:31:27",
+    "parse_time": "2025-10-23 02:31:44",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24465",
-    "spider_time": 1761183087255,
+    "spider_time": 1761186704580,
     "name": "Tenda AC18 Username参数栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-24465",
     "publish": "2025-10-21",
