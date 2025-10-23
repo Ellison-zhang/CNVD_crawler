@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 07:08:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24634",
+    "spider_time": 1761203294832,
+    "name": "Mozilla Focus for iOS欺骗漏洞（CNVD-2025-24634）",
+    "cnvd": "CNVD-2025-24634",
+    "publish": "2025-10-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"Mozilla Focus for iOS <143.0\"]",
+    "cve": "CVE-2025-10290",
+    "description": "Mozilla Focus是美国Mozilla基金会的一个供iOS设备专用的浏览器。Mozilla Focus for iOS存在欺骗漏洞，该漏洞是由于地址栏组件中的错误引起的。攻击者可利用该漏洞进行欺骗攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.mozilla.org/show_bug.cgi?id=1975566",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2025-76/",
+    "patch": "Mozilla Focus for iOS欺骗漏洞（CNVD-2025-24634）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-18",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "26d8e4cda7d58fac95271c4866ad7529"
+}

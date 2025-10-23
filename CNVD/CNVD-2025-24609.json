@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 07:17:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24609",
+    "spider_time": 1761203860704,
+    "name": "WordPress Oceanpayment CreditCard Gateway plugin访问控制错误漏洞",
+    "cnvd": "CNVD-2025-24609",
+    "publish": "2025-10-22",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Oceanpayment CreditCard Gateway plugin <=6.0\"]",
+    "cve": "CVE-2025-11728",
+    "description": "WordPress Oceanpayment CreditCard Gateway plugin是一款用于在WordPress网站集成信用卡支付的插件，通过Oceanpayment提供的支付网关实现交易功能。WordPress Oceanpayment CreditCard Gateway plugin存在访问控制错误漏洞，该漏洞源于return_payment和notice_payment函数缺少身份验证和能力检查，攻击者可利用该漏洞修改数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.wordfence.com/threat-intel/vulnerabilities/id/c560bc33-d664-433e-bfd9-e4fa1776bb76?source=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "7529fada1575794cb7b6d7004204510a"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 07:17:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24605",
+    "spider_time": 1761203840191,
+    "name": "WordPress FunKItools plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-24605",
+    "publish": "2025-10-22",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress FunKItools plugin <=1.0.2\"]",
+    "cve": "CVE-2025-10301",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress FunKItools plugin存在跨站请求伪造漏洞，该漏洞源于saveFields函数缺少或存在不正确的随机数验证，攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/funkitools/trunk/includes/controllers/options/page.php#L59",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "8948ec927429449132501c1a192bd64d"
+}

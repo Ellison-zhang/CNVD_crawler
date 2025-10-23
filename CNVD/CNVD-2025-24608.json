@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 07:17:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24608",
+    "spider_time": 1761203854772,
+    "name": "WordPress Lisfinity Core plugin权限提升漏洞",
+    "cnvd": "CNVD-2025-24608",
+    "publish": "2025-10-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"WordPress Lisfinity Core plugin <=1.4.0\"]",
+    "cve": "CVE-2025-6042",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Lisfinity Core plugin存在权限提升漏洞，该漏洞源于默认分配编辑器角色且未限制API使用，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://themeforest.net/item/lisfinity-classified-ads-wordpress-theme/26342611",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress Lisfinity Core plugin权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "5f04df65a73e5bf41730334693379939"
+}
