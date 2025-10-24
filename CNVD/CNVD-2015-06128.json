@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-24 16:07:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2015-06128",
+    "spider_time": 1761322053471,
+    "name": "赛飞OA管理系统存在通用型任意文件下载漏洞",
+    "cnvd": "CNVD-2015-06128",
+    "publish": "2025-10-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u8d5b\\u98de\\u8f6f\\u4ef6\\u6709\\u9650\\u516c\\u53f8 OA\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "赛飞OA管理系统是一款由ASP.NET开发的办公系统，且客户涉及医药、金融、学校、行政等多家单位。赛飞OA管理系统存在通用型任意文件下载漏洞。由于DownFile.aspx页面未能对strName参数做../过滤，攻击者可以利用漏洞下载任意目录下的任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "用户可联系供应商获得补丁信息：\nhttp://www.isoffice.cn",
+    "patch": "赛飞OA管理系统存在通用型任意文件下载漏洞",
+    "verify": "已验证",
+    "submit_time": "2015-09-10",
+    "open_time": "2015-09-23",
+    "update_time": "2015-09-23",
+    "data_summary": "876a1adc209492a0574f65789f261929"
+}
