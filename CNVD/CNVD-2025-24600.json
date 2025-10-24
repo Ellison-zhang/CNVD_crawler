@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-24 05:13:13",
+    "parse_time": "2025-10-24 06:07:33",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24600",
-    "spider_time": 1761282793127,
+    "spider_time": 1761286053163,
     "name": "WordPress Dynamically Display Posts plugin SQL注入漏洞",
     "cnvd": "CNVD-2025-24600",
     "publish": "2025-10-22",
