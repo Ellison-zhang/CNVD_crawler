@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-24 09:07:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24787",
+    "spider_time": 1761296858909,
+    "name": "Emlog跨站脚本漏洞（CNVD-2025-24787）",
+    "cnvd": "CNVD-2025-24787",
+    "publish": "2025-10-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"emlog emlog <=2.5.21\"]",
+    "cve": "CVE-2025-61597",
+    "description": "Emlog是一套基于PHP和MySQL的CMS建站系统。Emlog 2.5.21及之前版本存在跨站脚本漏洞，该漏洞源于邮件模板设置对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞可以通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-61597",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/emlog/emlog/releases",
+    "patch": "Emlog跨站脚本漏洞（CNVD-2025-24787）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-24",
+    "update_time": "2025-10-24",
+    "data_summary": "7e1b438c7acfbf2d42af8defb12186df"
+}

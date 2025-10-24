@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-24 09:06:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24796",
+    "spider_time": 1761296786174,
+    "name": "OpenEXR存在未明漏洞（CNVD-2025-24796）",
+    "cnvd": "CNVD-2025-24796",
+    "publish": "2025-10-24",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"OpenEXR OpenEXR 3.3.2\"]",
+    "cve": "CVE-2025-48074",
+    "description": "OpenEXR是一种高动态范围图像（HDR）文件格式的开放标准。OpenEXR 3.3.2版本存在安全漏洞，攻击者可利用该漏洞导致处理恶意文件时过度内存分配和性能下降。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/AcademySoftwareFoundation/openexr/security/advisories/GHSA-x22w-82jp-8rvf",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://openexr.com/en/latest/",
+    "patch": "OpenEXR存在未明漏洞（CNVD-2025-24796）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-11",
+    "open_time": "2025-10-24",
+    "update_time": "2025-10-24",
+    "data_summary": "9f18f30034bd70372e822ffb25d48b82"
+}
