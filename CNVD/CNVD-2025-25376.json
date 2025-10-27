@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-27 15:04:40",
+    "parse_time": "2025-10-27 16:07:39",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25376",
-    "spider_time": 1761577480772,
+    "spider_time": 1761581259822,
     "name": "Apache Spark加密问题漏洞（CNVD-2025-25376）",
     "cnvd": "CNVD-2025-25376",
     "publish": "2025-10-24",
