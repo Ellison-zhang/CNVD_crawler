@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-27 18:07:29",
+    "parse_time": "2025-10-27 19:07:55",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25375",
-    "spider_time": 1761588449556,
+    "spider_time": 1761592075253,
     "name": "Apache Geode跨站请求伪造漏洞（CNVD-2025-25375）",
     "cnvd": "CNVD-2025-25375",
     "publish": "2025-10-23",
