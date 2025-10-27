@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-10-27 16:04:53",
+    "parse_time": "2025-10-27 17:04:30",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25471",
-    "spider_time": 1761581093680,
+    "spider_time": 1761584670963,
     "name": "Newforma Project Center Server信息泄露漏洞",
     "cnvd": "CNVD-2025-25471",
-    "publish": "2025-10-27",
+    "publish": "2025-10-28",
     "severity": "中",
     "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
     "product": "[\"Newforma Project Center Server <2024.3\"]",
@@ -18,5 +18,5 @@
     "submit_time": "2025-10-21",
     "open_time": "2025-10-27",
     "update_time": "2025-10-27",
-    "data_summary": "59d22867794e8dd84c541706963c376b"
+    "data_summary": "157f56fe62e266567dbd23b651795ed3"
 }
