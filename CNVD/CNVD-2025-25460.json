@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-27 10:05:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25460",
+    "spider_time": 1761559502771,
+    "name": "HCL AION信息泄露漏洞（CNVD-2025-25460）",
+    "cnvd": "CNVD-2025-25460",
+    "publish": "2025-10-27",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:N/A:N",
+    "product": "[\"HCL AION v2.0\"]",
+    "cve": "CVE-2025-52635",
+    "description": "HCL AION是印度HCL公司的一款AI生命周期管理平台。HCL AION存在信息泄露漏洞，该漏洞是由于CSP中未强制执行的脚本中的受信任类型造成的。攻击者可利用该漏洞导致内容安全策略绕过。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0124444",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0124444",
+    "patch": "HCL AION信息泄露漏洞（CNVD-2025-25460）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-27",
+    "update_time": "2025-10-27",
+    "data_summary": "7ee6fd212021c08acf42cd0273565c38"
+}

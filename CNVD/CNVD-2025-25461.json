@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-27 10:05:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25461",
+    "spider_time": 1761559507998,
+    "name": "HCL AION信息泄露漏洞（CNVD-2025-25461）",
+    "cnvd": "CNVD-2025-25461",
+    "publish": "2025-10-27",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:N/A:N",
+    "product": "[\"HCL AION v2.0\"]",
+    "cve": "CVE-2025-52634",
+    "description": "HCL AION是印度HCL公司的一款AI生命周期管理平台。HCL AION存在信息泄露漏洞，攻击者可利用该漏洞导致未经授权的访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0124444",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0124444",
+    "patch": "HCL AION信息泄露漏洞（CNVD-2025-25461）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-27",
+    "update_time": "2025-10-27",
+    "data_summary": "17e32967515acc42d4d13fe2721e614b"
+}
