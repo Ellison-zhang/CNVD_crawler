@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-10-27 20:04:27",
+    "parse_time": "2025-10-27 21:04:11",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25474",
-    "spider_time": 1761595467043,
+    "spider_time": 1761599051088,
     "name": "Newforma Project Center Server代码执行漏洞",
     "cnvd": "CNVD-2025-25474",
-    "publish": "2025-10-27",
+    "publish": "2025-10-28",
     "severity": "高",
     "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
     "product": "[\"Newforma Project Center Server 2024.3\"]",
@@ -18,5 +18,5 @@
     "submit_time": "2025-10-21",
     "open_time": "2025-10-27",
     "update_time": "2025-10-27",
-    "data_summary": "65cb8ae814531f33fbc13e9579e4dc31"
+    "data_summary": "21b46a40701956539f16fe802500d5a7"
 }
