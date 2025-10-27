@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-27 17:07:58",
+    "parse_time": "2025-10-27 18:07:20",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24720",
-    "spider_time": 1761584878811,
+    "spider_time": 1761588440489,
     "name": "Samsung Notes libSPenBase缓冲区溢出漏洞（CNVD-2025-24720）",
     "cnvd": "CNVD-2025-24720",
     "publish": "2025-10-24",
