@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-27 09:10:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25375",
+    "spider_time": 1761556231493,
+    "name": "Apache Geode跨站请求伪造漏洞（CNVD-2025-25375）",
+    "cnvd": "CNVD-2025-25375",
+    "publish": "2025-10-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apache Geode >=1.10.0\\uff0c<1.15.2\"]",
+    "cve": "CVE-2025-47410",
+    "description": "Apache Geode是美国阿帕奇（Apache）基金会的一套应用于分布式云架构中提供对数据密集型应用程序实时和一致访问数据的管理平台。Apache Geode存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户，攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lists.apache.org/thread/k88tv3rhl4ymsvt4h6qsv7sq10q5prrt",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://geode.apache.org/releases/",
+    "patch": "Apache Geode跨站请求伪造漏洞（CNVD-2025-25375）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-23",
+    "open_time": "2025-10-27",
+    "update_time": "2025-10-27",
+    "data_summary": "c5b708a53cb99dcf4f25b54a581eee1f"
+}
