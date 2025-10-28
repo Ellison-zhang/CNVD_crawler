@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-28 12:07:35",
+    "parse_time": "2025-10-28 13:13:35",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25552",
-    "spider_time": 1761653255337,
+    "spider_time": 1761657215189,
     "name": "Hostel Management System /login-hm.inc.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-25552",
     "publish": "2025-10-24",

@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-28 12:08:08",
+    "parse_time": "2025-10-28 13:14:05",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25553",
-    "spider_time": 1761653288835,
+    "spider_time": 1761657245968,
     "name": "Hostel Management System change-password.php文件会话劫持漏洞",
     "cnvd": "CNVD-2025-25553",
     "publish": "2025-10-24",
