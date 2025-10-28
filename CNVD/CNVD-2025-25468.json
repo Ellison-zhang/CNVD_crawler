@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-10-28 03:21:09",
+    "parse_time": "2025-10-28 04:04:35",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25468",
-    "spider_time": 1761621669665,
+    "spider_time": 1761624275268,
     "name": "Microsoft 365 Copilot Business Chat欺骗漏洞（CNVD-2025-25468）",
     "cnvd": "CNVD-2025-25468",
-    "publish": "2025-10-28",
+    "publish": "2025-10-27",
     "severity": "高",
     "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
     "product": "[\"Microsoft Microsoft 365 Copilot's Business Chat\"]",
@@ -18,5 +18,5 @@
     "submit_time": "2025-10-21",
     "open_time": "2025-10-27",
     "update_time": "2025-10-27",
-    "data_summary": "22408cd1e9527e3757d8a76c1e14f285"
+    "data_summary": "3b0ab10c1be155fe4215e85225f57d56"
 }
