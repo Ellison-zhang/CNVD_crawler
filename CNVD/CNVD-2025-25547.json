@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-28 19:05:49",
+    "parse_time": "2025-10-28 20:06:01",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25547",
-    "spider_time": 1761678349232,
+    "spider_time": 1761681961395,
     "name": "Cyber Cafe Management System add-users.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-25547",
     "publish": "2025-10-24",
