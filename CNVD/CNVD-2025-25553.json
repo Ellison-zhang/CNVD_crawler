@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-28 11:07:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25553",
+    "spider_time": 1761649669087,
+    "name": "Hostel Management System change-password.php文件会话劫持漏洞",
+    "cnvd": "CNVD-2025-25553",
+    "publish": "2025-10-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Hostel Management System Hostel Management System 2.1\"]",
+    "cve": "CVE-2025-45953",
+    "description": "Hostel Management System是一套旅馆管理系统。Hostel Management System存在会话劫持漏洞，该漏洞源于文件/hostel/change-password.php中会话数据处理不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://phpgurukul.com",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-07",
+    "open_time": "2025-10-28",
+    "update_time": "2025-10-28",
+    "data_summary": "3b9e07981a21103b2f60d84828c3e8b3"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-28 11:07:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25549",
+    "spider_time": 1761649650641,
+    "name": "Cyber Cafe Management System adminprofile.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-25549",
+    "publish": "2025-10-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Cyber Cafe Management System Cyber Cafe Management System 1.0\"]",
+    "cve": "CVE-2025-4304",
+    "description": "Cyber Cafe Management System是一个网吧管理系统。Cyber Cafe Management System存在SQL注入漏洞，该漏洞源于文件/adminprofile.php中参数mobilenumber缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/3507998897/myCVE/issues/3",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-10-28",
+    "update_time": "2025-10-28",
+    "data_summary": "2e110a507c36432a8002fa60d08fe502"
+}
