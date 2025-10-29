@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-29 08:07:39",
+    "parse_time": "2025-10-29 09:06:08",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25589",
-    "spider_time": 1761725259147,
+    "spider_time": 1761728768474,
     "name": "D-Link DAP-1325 secondaryDNS栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-25589",
     "publish": "2025-10-28",

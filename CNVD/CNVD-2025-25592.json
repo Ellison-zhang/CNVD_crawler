@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-29 08:06:49",
+    "parse_time": "2025-10-29 09:05:18",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25592",
-    "spider_time": 1761725209133,
+    "spider_time": 1761728718539,
     "name": "D-Link DAP-1325 StaticDefaultGateway堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-25592",
     "publish": "2025-10-28",
