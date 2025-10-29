@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-29 14:12:11",
+    "parse_time": "2025-10-29 15:09:42",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25593",
-    "spider_time": 1761747131694,
+    "spider_time": 1761750582244,
     "name": "D-Link DAP-1325 StaticDNS1堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-25593",
     "publish": "2025-10-28",

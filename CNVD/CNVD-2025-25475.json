@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-10-29 14:05:57",
+    "parse_time": "2025-10-29 15:06:20",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25475",
-    "spider_time": 1761746757117,
+    "spider_time": 1761750380549,
     "name": "Newforma Project Center Server开放重定向漏洞",
     "cnvd": "CNVD-2025-25475",
-    "publish": "2025-10-28",
+    "publish": "2025-10-27",
     "severity": "中",
     "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
     "product": "[\"Newforma Project Center Server <2024.1\"]",
@@ -18,5 +18,5 @@
     "submit_time": "2025-10-21",
     "open_time": "2025-10-27",
     "update_time": "2025-10-27",
-    "data_summary": "e54f6555ba0490553155b977608f37b3"
+    "data_summary": "7e5ff8b1dd287cd6378725a1d1310379"
 }
