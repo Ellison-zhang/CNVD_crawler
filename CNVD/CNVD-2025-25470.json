@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-28 23:04:24",
+    "parse_time": "2025-10-29 00:15:23",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25470",
-    "spider_time": 1761692664404,
+    "spider_time": 1761696923321,
     "name": "Microsoft Azure Cache for Redis Enterprise权限提升漏洞",
     "cnvd": "CNVD-2025-25470",
     "publish": "2025-10-27",
