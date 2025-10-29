@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-29 06:17:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25555",
+    "spider_time": 1761718630344,
+    "name": "LibreNMS跨站脚本漏洞",
+    "cnvd": "CNVD-2025-25555",
+    "publish": "2025-10-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"LibreNMS LibreNMS <25.10.0\"]",
+    "cve": "CVE-2025-62411",
+    "description": "LibreNMS是LibreNMS社区的一套基于PHP和MySQL的开源网络监控系统。该系统具有自定义警报、自动发现网络环境和自动更新等特点。LibreNMS存在跨站脚本漏洞，该漏洞源于Alert Transports管理功能中对Transport name字段输入验证和输出编码不足，攻击者可利用该漏洞导致存储型跨站脚本攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/librenms/librenms/commit/706a77085f4d5964f7de9444208ef707e1f79450",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/librenms/librenms/releases",
+    "patch": "LibreNMS跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-29",
+    "update_time": "2025-10-29",
+    "data_summary": "895b2ab2487b0035bcec366993e50e95"
+}
