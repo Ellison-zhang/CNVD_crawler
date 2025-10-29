@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-29 17:07:54",
+    "parse_time": "2025-10-29 18:11:27",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25596",
-    "spider_time": 1761757674613,
+    "spider_time": 1761761487594,
     "name": "D-Link DAP-1325 lan_ipaddr堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-25596",
     "publish": "2025-10-28",
