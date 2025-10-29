@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-29 07:08:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25585",
+    "spider_time": 1761721690294,
+    "name": "Huawei HarmonyOS和EMUI设置模块访问权限验证漏洞",
+    "cnvd": "CNVD-2025-25585",
+    "publish": "2025-10-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Huawei EMUI 12.0.0\", \"Huawei HarmonyOS 3.0.0\", \"Huawei HarmonyOS 2.1.0\", \"Huawei HarmonyOS 2.0.0\", \"Huawei HarmonyOS 3.1.0\", \"Huawei EMUI 13.0.0\", \"Huawei HarmonyOS 4.0.0\", \"Huawei HarmonyOS 4.2.0\", \"Huawei EMUI 14.0.0\"]",
+    "cve": "CVE-2024-42031",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei EMUI是华为基于Android（安卓）进行开发的情感化操作系统。Huawei HarmonyOS和EMUI存在访问权限验证漏洞，该漏洞源于设置模块存在访问权限漏洞。攻击者可利用该漏洞响服务机密性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-42031",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://consumer.huawei.com/en/support/bulletin/2024/8/",
+    "patch": "Huawei HarmonyOS和EMUI设置模块访问权限验证漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-14",
+    "open_time": "2025-10-29",
+    "update_time": "2025-10-29",
+    "data_summary": "c5e5df0f5848e9e28c74660e0bac0e0c"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-29 07:05:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25577",
+    "spider_time": 1761721505377,
+    "name": "Apple macOS Sequoia信息泄露漏洞",
+    "cnvd": "CNVD-2025-25577",
+    "publish": "2025-10-29",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Apple macOS Sequoia <15.2\"]",
+    "cve": "CVE-2024-54559",
+    "description": "Apple macOS Sequoia是苹果公司于2024年6月10日在WWDC24开发者大会发布的操作系统，同年秋季推出正式版，主要面向Mac设备，强调跨设备协同与AI功能整合，显著提升生产力和智能化体验。Apple macOS Sequoia存在信息泄露漏洞，该漏洞源于检查改进，攻击者可利用该漏洞导致应用程序访问敏感用户数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-54559",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://support.apple.com/en-us/121839",
+    "patch": "Apple macOS Sequoia信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-10-29",
+    "update_time": "2025-10-29",
+    "data_summary": "91b14e2a81c897303f3b403ca8531559"
+}

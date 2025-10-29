@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-29 07:05:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25565",
+    "spider_time": 1761721553812,
+    "name": "WordPress Contact Form by Supsystic plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-25565",
+    "publish": "2025-10-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"WordPress Contact Form by Supsystic plugin <=1.7.35\"]",
+    "cve": "CVE-2025-52753",
+    "description": "WordPress Contact Form by Supsystic plugin是一款用于创建联系表单的WordPress插件，支持拖拽式编辑，无需编程基础即可使用。WordPress Contact Form by Supsystic plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/contact-form-by-supsystic/vulnerability/wordpress-contact-form-by-supsystic-plugin-1-7-35-cross-site-scripting-xss-vulnerability",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/contact-form-by-supsystic/",
+    "patch": "WordPress Contact Form by Supsystic plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-24",
+    "open_time": "2025-10-29",
+    "update_time": "2025-10-29",
+    "data_summary": "1c17b2b8727a885a7bf2f2fb0079becc"
+}
