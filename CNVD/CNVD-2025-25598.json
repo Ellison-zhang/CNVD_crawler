@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-29 15:10:07",
+    "parse_time": "2025-10-29 16:08:09",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25598",
-    "spider_time": 1761750607250,
+    "spider_time": 1761754089694,
     "name": "D-Link DAP-1325 SubnetMask命令注入漏洞",
     "cnvd": "CNVD-2025-25598",
     "publish": "2025-10-28",
