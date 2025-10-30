@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-30 11:04:27",
+    "parse_time": "2025-10-30 12:06:39",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25734",
-    "spider_time": 1761822267165,
+    "spider_time": 1761825999933,
     "name": "Job Diary user-apply.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-25734",
     "publish": "2025-10-29",
