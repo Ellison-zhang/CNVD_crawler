@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-30 10:04:32",
+    "parse_time": "2025-10-30 11:04:02",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25713",
-    "spider_time": 1761818672259,
+    "spider_time": 1761822242833,
     "name": "Microsoft Inbox COM Objects代码执行漏洞（CNVD-2025-25713）",
     "cnvd": "CNVD-2025-25713",
     "publish": "2025-10-29",
