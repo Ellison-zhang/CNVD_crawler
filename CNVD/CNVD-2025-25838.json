@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-30 09:04:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25838",
+    "spider_time": 1761815064861,
+    "name": "WordPress auto-login-after-registration plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-25838",
+    "publish": "2025-10-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"WordPress auto-login-after-registration plugin <=1.0.0\"]",
+    "cve": "CVE-2025-49946",
+    "description": "WordPress auto-login-after-registration plugin主要用于实现在用户完成密码重置或注册后自动登录账户的功能，属于用户管理类插件。WordPress auto-login-after-registration plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/auto-login-after-registration/vulnerability/wordpress-auto-login-after-registration-plugin-1-0-0-cross-site-scripting-xss-vulnerability",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/auto-login-after-registration/",
+    "patch": "WordPress auto-login-after-registration plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-24",
+    "open_time": "2025-10-30",
+    "update_time": "2025-10-30",
+    "data_summary": "188d63263620129a0ea4c3bb7ed0c436"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-30 09:04:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25836",
+    "spider_time": 1761815055483,
+    "name": "WordPress AnyComment plugin SQL注入漏洞",
+    "cnvd": "CNVD-2025-25836",
+    "publish": "2025-10-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:P/A:N",
+    "product": "[\"WordPress AnyComment plugin <=0.3.6\"]",
+    "cve": "CVE-2025-48091",
+    "description": "WordPress AnyComment plugin是基于React开发的WordPress评论插件，主打简洁性和速度。它提供基础评论功能，支持从其他插件（如Jetpack、wpDiscuz等）无缝迁移，并可通过GitHub或VK社群获取支持。WordPress AnyComment plugin存在SQL注入漏洞，该漏洞源于应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/anycomment/vulnerability/wordpress-anycomment-plugin-0-3-6-sql-injection-vulnerability",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-24",
+    "open_time": "2025-10-30",
+    "update_time": "2025-10-30",
+    "data_summary": "ac9c860bdf26dd93cc175d5919e0a7f6"
+}

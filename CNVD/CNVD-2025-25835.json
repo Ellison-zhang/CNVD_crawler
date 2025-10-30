@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-30 09:04:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25835",
+    "spider_time": 1761815050158,
+    "name": "WordPress Alone Theme plugin代码注入漏洞",
+    "cnvd": "CNVD-2025-25835",
+    "publish": "2025-10-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Alone Theme plugin <=7.8.3\"]",
+    "cve": "CVE-2025-60206",
+    "description": "WordPress Alone Theme plugin是一款用于创建摄影类网站的高级主题，在Envato市场销量接近1万份，主要被非营利组织（如慈善机构、筹款组织等）使用。WordPress Alone Theme plugin存在代码注入漏洞，该漏洞源于代码生成控制不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Theme/alone/vulnerability/wordpress-alone-theme-7-8-3-remote-code-execution-rce-vulnerability",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-24",
+    "open_time": "2025-10-30",
+    "update_time": "2025-10-30",
+    "data_summary": "71f6e8b3886174a951c8c88b2c7846c0"
+}
