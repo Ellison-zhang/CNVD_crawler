@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-30 07:04:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25721",
+    "spider_time": 1761807878236,
+    "name": "Online Event Judging System /review_search.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-25721",
+    "publish": "2025-10-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Online Event Judging System Online Event Judging System 1.0\"]",
+    "cve": "CVE-2025-10104",
+    "description": "Online Event Judging System是一个在线事件评判系统。Online Event Judging System存在SQL注入漏洞，该漏洞源于/review_search.php文件对txtsearch参数未进行安全过滤。攻击者可利用该漏洞通过构造恶意SQL查询远程执行数据库指令，导致敏感数据泄露或数据库被篡改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.323070\nhttps://vuldb.com/?ctiid.323070\nhttps://vuldb.com/?submit.645316\nhttps://github.com/yihaofuweng/cve/issues/17\nhttps://code-projects.org/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-10",
+    "open_time": "2025-10-30",
+    "update_time": "2025-10-30",
+    "data_summary": "95f507d53473bd3ecd47189b72cb4b2c"
+}
