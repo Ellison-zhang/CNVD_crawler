@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-30 15:06:36",
+    "parse_time": "2025-10-30 16:07:16",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25714",
-    "spider_time": 1761836796716,
+    "spider_time": 1761840436097,
     "name": "Automated Voting System add_candidate_modal.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-25714",
     "publish": "2025-10-29",
