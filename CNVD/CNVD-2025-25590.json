@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-30 04:08:55",
+    "parse_time": "2025-10-30 05:08:20",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25590",
-    "spider_time": 1761797335739,
+    "spider_time": 1761800900580,
     "name": "D-Link DAP-1325 SubnetMask栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-25590",
     "publish": "2025-10-28",

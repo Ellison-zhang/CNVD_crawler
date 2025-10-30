@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-30 04:09:26",
+    "parse_time": "2025-10-30 05:08:46",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25597",
-    "spider_time": 1761797366474,
+    "spider_time": 1761800926935,
     "name": "D-Link DAP-1325 SetAPLanSettings命令注入漏洞",
     "cnvd": "CNVD-2025-25597",
     "publish": "2025-10-28",
