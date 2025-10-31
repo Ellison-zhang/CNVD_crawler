@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-31 04:06:04",
+    "parse_time": "2025-10-31 05:05:24",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25558",
-    "spider_time": 1761883564164,
+    "spider_time": 1761887124496,
     "name": "WordPress bbPress Notify plugin跨站脚本漏洞",
     "cnvd": "CNVD-2025-25558",
     "publish": "2025-10-28",
