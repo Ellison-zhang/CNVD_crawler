@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-31 02:33:53",
+    "parse_time": "2025-10-31 03:23:45",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25557",
-    "spider_time": 1761878033186,
+    "spider_time": 1761881025338,
     "name": "WordPress All in One Time Clock Lite plugin不安全的直接对象引用漏洞",
     "cnvd": "CNVD-2025-25557",
     "publish": "2025-10-28",
