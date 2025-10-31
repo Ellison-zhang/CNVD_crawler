@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-31 07:05:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26084",
+    "spider_time": 1761894343212,
+    "name": "Online Medicine Guide /addelivery.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-26084",
+    "publish": "2025-10-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Online Medicine Guide Online Medicine Guide 1.0\"]",
+    "cve": "CVE-2025-9027",
+    "description": "Online Medicine Guide是一个在线医学指南。Online Medicine Guide存在SQL注入漏洞，该漏洞源于文件/addelivery.php中参数deName缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-9027",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-10-31",
+    "update_time": "2025-10-31",
+    "data_summary": "19a3020b43dcc9f15c41c75717c5d1d0"
+}

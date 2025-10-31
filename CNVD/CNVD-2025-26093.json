@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-31 07:05:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26093",
+    "spider_time": 1761894311010,
+    "name": "Vehicle Management addvehicle.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-26093",
+    "publish": "2025-10-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Vehicle Management Vehicle Management v1.0\"]",
+    "cve": "CVE-2025-8375",
+    "description": "Vehicle Management是一个车辆管理系统。Vehicle Management存在SQL注入漏洞，该漏洞源于文件/addvehicle.php中参数vehicle缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-8375",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-10",
+    "open_time": "2025-10-31",
+    "update_time": "2025-10-31",
+    "data_summary": "c24f3780b664c20155092ff86526daf8"
+}
