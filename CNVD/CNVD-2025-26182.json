@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-31 10:06:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26182",
+    "spider_time": 1761905188723,
+    "name": "Exam Form Submission dashboard.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-26182",
+    "publish": "2025-10-31",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Exam Form Submission Exam Form Submission 1.0\"]",
+    "cve": "CVE-2025-8240",
+    "description": "Exam Form Submission是一个考试表格。Exam Form Submission存在SQL注入漏洞，该漏洞源于/user/dashboard.php文件中phone参数未进行安全过滤。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.317828\nhttps://vuldb.com/?ctiid.317828\nhttps://vuldb.com/?submit.622400\nhttps://github.com/xiajian-qx/cve-xiajian/issues/8\nhttps://code-projects.org/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-28",
+    "open_time": "2025-10-31",
+    "update_time": "2025-10-31",
+    "data_summary": "af649cda51bd200adadf2f7a68f12b8b"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-31 10:05:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26157",
+    "spider_time": 1761905104308,
+    "name": "D-Link DIR-823G缓冲区溢出漏洞（CNVD-2025-26157）",
+    "cnvd": "CNVD-2025-26157",
+    "publish": "2025-10-31",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"D-Link DIR-823G v1.0.2B05\"]",
+    "cve": "CVE-2025-60331",
+    "description": "D-Link DIR-823G是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-823G存在缓冲区溢出漏洞，该漏洞源于FillMacCloneMac参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-60331",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.dlink.com/en/security-bulletin/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-31",
+    "open_time": "2025-10-31",
+    "update_time": "2025-10-31",
+    "data_summary": "c06c90bd59305ef72531a6c7b109eeed"
+}
