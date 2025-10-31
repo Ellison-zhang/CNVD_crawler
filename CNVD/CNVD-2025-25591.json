@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-31 01:39:14",
+    "parse_time": "2025-10-31 06:09:39",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25591",
-    "spider_time": 1761874754353,
+    "spider_time": 1761890979356,
     "name": "D-Link DAP-1325 SetHostIPv6StaticSettings堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-25591",
     "publish": "2025-10-28",
