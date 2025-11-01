@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-01 05:04:11",
+    "parse_time": "2025-11-01 06:05:49",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26088",
-    "spider_time": 1761973451388,
+    "spider_time": 1761977149624,
     "name": "Medical Store Management System UpdateMedicines.java文件SQL注入漏洞",
     "cnvd": "CNVD-2025-26088",
     "publish": "2025-10-30",
