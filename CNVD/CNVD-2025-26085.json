@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-10-31 23:04:26",
+    "parse_time": "2025-11-01 00:16:29",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26085",
-    "spider_time": 1761951866074,
+    "spider_time": 1761956189207,
     "name": "Online Medicine Guide /adphar.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-26085",
     "publish": "2025-10-30",
