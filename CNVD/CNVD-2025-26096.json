@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-02 02:34:39",
+    "parse_time": "2025-11-02 03:24:40",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26096",
-    "spider_time": 1762050879154,
+    "spider_time": 1762053880099,
     "name": "Vehicle Management filter2.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-26096",
     "publish": "2025-10-30",
