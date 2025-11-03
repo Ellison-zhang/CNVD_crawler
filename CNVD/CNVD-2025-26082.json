@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-03 01:34:43",
+    "parse_time": "2025-11-03 02:37:46",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26082",
-    "spider_time": 1762133683070,
+    "spider_time": 1762137466389,
     "name": "Medical Store Management System ChangePassword.java SQL注入漏洞",
     "cnvd": "CNVD-2025-26082",
     "publish": "2025-10-30",
