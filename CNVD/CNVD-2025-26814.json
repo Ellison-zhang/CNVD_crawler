@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-04 05:08:24",
+    "parse_time": "2025-11-04 06:08:37",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26814",
-    "spider_time": 1762232904131,
+    "spider_time": 1762236517886,
     "name": "D-Link DIR-619L B1 formSetWanPPPoE方法缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-26814",
     "publish": "2025-11-03",
