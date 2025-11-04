@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-04 12:12:31",
+    "parse_time": "2025-11-04 13:18:38",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26815",
-    "spider_time": 1762258351962,
+    "spider_time": 1762262318365,
     "name": "D-Link DIR-619L B1 websGetVar方法缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-26815",
     "publish": "2025-11-03",
