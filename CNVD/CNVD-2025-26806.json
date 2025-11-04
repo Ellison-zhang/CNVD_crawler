@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-04 20:07:56",
+    "parse_time": "2025-11-04 21:06:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26806",
-    "spider_time": 1762286876690,
+    "spider_time": 1762290360973,
     "name": "IBM Concert Software堆内存清理不当漏洞",
     "cnvd": "CNVD-2025-26806",
     "publish": "2025-11-03",
