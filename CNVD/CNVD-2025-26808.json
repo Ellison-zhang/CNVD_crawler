@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-04 03:26:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26808",
+    "spider_time": 1762226775283,
+    "name": "Dell Wyse Management Suite缺少授权漏洞",
+    "cnvd": "CNVD-2025-26808",
+    "publish": "2025-11-03",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:C/A:C",
+    "product": "[\"DELL Dell Wyse Management Suite <=4.4\"]",
+    "cve": "CVE-2024-49596",
+    "description": "Dell Wyse Management Suite是戴尔为Wyse瘦客户端设备提供的混合云安全管理解决方案，主要用于简化IT管理流程并增强设备安全性。Dell Wyse Management Suite存在缺少授权漏洞，攻击者可利用该漏洞导致拒绝服务和任意文件删除。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-49596",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-us/000244453/dsa-2024-440",
+    "patch": "Dell Wyse Management Suite缺少授权漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-06",
+    "open_time": "2025-11-04",
+    "update_time": "2025-11-04",
+    "data_summary": "37dc1df63cf1ccb50dc5c41a91e30805"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-04 03:26:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26804",
+    "spider_time": 1762226761025,
+    "name": "IBM Concert Software拒绝服务漏洞",
+    "cnvd": "CNVD-2025-26804",
+    "publish": "2025-11-03",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"IBM Concert Software >=1.0.0\\uff0c<=1.1.0\"]",
+    "cve": "CVE-2025-33090",
+    "description": "IBM Concert Software是IBM基于WatsonX平台开发的生成式人工智能驱动的自动化应用管理和监控工具，主要用于优化应用程序的运营效率和可靠性。IBM Concert Software存在拒绝服务漏洞，该漏洞源于对特制正则表达式处理时未限制资源消耗。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-33090",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.ibm.com/support/pages/node/7242354",
+    "patch": "IBM Concert Software拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-19",
+    "open_time": "2025-11-04",
+    "update_time": "2025-11-04",
+    "data_summary": "27f2250b1575c688ee86c377d8e9a831"
+}

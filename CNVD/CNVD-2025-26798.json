@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-04 03:25:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26798",
+    "spider_time": 1762226734429,
+    "name": "Google Android逻辑错误漏洞（CNVD-2025-26798）",
+    "cnvd": "CNVD-2025-26798",
+    "publish": "2025-11-03",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android 14.0\"]",
+    "cve": "CVE-2025-32333",
+    "description": "Google Android是一种基于Linux内核的自由及开放源代码移动操作系统，由Google公司与开放手机联盟共同开发，主要用于智能手机、平板电脑等设备。Google Android存在逻辑错误漏洞，攻击者可利用该漏洞导致跨用户权限绕过和本地权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/packages/apps/Settings/+/591ea09a63e577a9ed666006e70430cc4f245078",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/2025-09-01",
+    "patch": "Google Android逻辑错误漏洞（CNVD-2025-26798）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-11-04",
+    "update_time": "2025-11-04",
+    "data_summary": "beb1f0a188585a3de2f28c5d80ded2f8"
+}

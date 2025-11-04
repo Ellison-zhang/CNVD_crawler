@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-04 03:26:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26813",
+    "spider_time": 1762226797886,
+    "name": "D-Link DIR-619L B1 formSetWAN_Wizard7方法缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-26813",
+    "publish": "2025-11-03",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"D-Link DIR-619L B1 2.02\"]",
+    "cve": "CVE-2023-43866",
+    "description": "D-Link DIR-619L B1是中国友讯（D-Link）公司的一系列路由器。D-Link DIR-619L B1存在缓冲区溢出漏洞，该漏洞源于formSetWAN_Wizard7方法存在缓冲区溢出问题。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-43866",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dlink.com/",
+    "patch": "D-Link DIR-619L B1 formSetWAN_Wizard7方法缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-10-13",
+    "open_time": "2025-11-04",
+    "update_time": "2025-11-04",
+    "data_summary": "4a282c923fff5337f1bece648ec0644c"
+}

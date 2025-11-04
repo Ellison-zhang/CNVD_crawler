@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-04 03:23:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26796",
+    "spider_time": 1762226621871,
+    "name": "Google Android缺少权限检漏洞",
+    "cnvd": "CNVD-2025-26796",
+    "publish": "2025-11-03",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Google Android 15.0\"]",
+    "cve": "CVE-2025-26437",
+    "description": "Google Android是一种基于Linux内核的自由及开放源代码移动操作系统，由Google公司与开放手机联盟共同开发，主要用于智能手机、平板电脑等设备。Google Android存在缺少权限检漏洞，攻击者可利用该漏洞导致检索候选凭据和本地信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/c623bbe683082b602ecff0f33fbb439ffc1d2da3",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/2025-06-01",
+    "patch": "Google Android缺少权限检漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-11-04",
+    "update_time": "2025-11-04",
+    "data_summary": "092ea3783bbb48bc50cd3e0a3b8584ab"
+}

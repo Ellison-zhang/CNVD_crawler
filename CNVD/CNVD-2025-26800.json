@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-04 03:25:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26800",
+    "spider_time": 1762226745079,
+    "name": "Google Android权限绕过漏洞",
+    "cnvd": "CNVD-2025-26800",
+    "publish": "2025-11-03",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android 14.0\"]",
+    "cve": "CVE-2025-26440",
+    "description": "Google Android是一种基于Linux内核的自由及开放源代码移动操作系统，由Google公司与开放手机联盟共同开发，主要用于智能手机、平板电脑等设备。Google Android存在权限绕过漏洞，攻击者可利用该漏洞导致从后台使用摄像头和本地权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/av/+/b9a047c94deb06ab7ff956e4fb50b19ddd70cf9a",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/2025-05-01",
+    "patch": "Google Android权限绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-11-04",
+    "update_time": "2025-11-04",
+    "data_summary": "4c64271362531fae39d68855b729a504"
+}
