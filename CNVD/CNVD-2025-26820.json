@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-04 22:06:37",
+    "parse_time": "2025-11-04 23:16:01",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26820",
-    "spider_time": 1762293997596,
+    "spider_time": 1762298161049,
     "name": "D-Link DIR-X3260 EmailFrom命令注入漏洞",
     "cnvd": "CNVD-2025-26820",
     "publish": "2025-11-03",
