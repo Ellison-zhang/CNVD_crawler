@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-05 11:06:21",
+    "parse_time": "2025-11-05 12:07:55",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26944",
-    "spider_time": 1762340781992,
+    "spider_time": 1762344475625,
     "name": "Student Crud Operation delete.ph文件SQL注入漏洞",
     "cnvd": "CNVD-2025-26944",
     "publish": "2025-11-04",
