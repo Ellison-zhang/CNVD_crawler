@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-05 07:10:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26952",
+    "spider_time": 1762326653199,
+    "name": "Church Donation System update_password_admin.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-26952",
+    "publish": "2025-11-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Church Donation System Church Donation System 1.0\"]",
+    "cve": "CVE-2025-7859",
+    "description": "Church Donation System是一个教会捐赠制度。Church Donation System存在SQL注入漏洞，该漏洞源于文件/members/update_password_admin.php中参数new_password缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7859",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-11-05",
+    "update_time": "2025-11-05",
+    "data_summary": "0b61517af4ff3f750b507fdb380b228c"
+}

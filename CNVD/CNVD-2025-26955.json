@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-05 07:04:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26955",
+    "spider_time": 1762326257095,
+    "name": "Online Appointment Booking System addclinic.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-26955",
+    "publish": "2025-11-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Online Appointment Booking System Online Appointment Booking System 1.0\"]",
+    "cve": "CVE-2025-7751",
+    "description": "Online Appointment Booking System是一个网上预约系统。Online Appointment Booking System存在SQL注入漏洞，该漏洞源于文件/admin/addclinic.php中参数cid处理不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7751",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-11-05",
+    "update_time": "2025-11-05",
+    "data_summary": "51b1bcabefe65a29a2d22b8f34b330d4"
+}
