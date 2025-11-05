@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-05 02:33:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26877",
+    "spider_time": 1762309992533,
+    "name": "Tenda O3缓冲区溢出漏洞（CNVD-2025-26877）",
+    "cnvd": "CNVD-2025-26877",
+    "publish": "2025-11-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda O3 1.0.0.10(2478)\", \"Tenda O3 2.0\"]",
+    "cve": "CVE-2025-12213",
+    "description": "Tenda O3是中国腾达（Tenda）公司的一个室外无线网桥。Tenda O3存在缓冲区溢出漏洞，该漏洞源于文件/goform/setVlanConfig中参数lan未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致堆栈溢出。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-12213",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-10-31",
+    "open_time": "2025-11-05",
+    "update_time": "2025-11-05",
+    "data_summary": "cc4ad75d95bd31e21a8bf3f5127276a7"
+}
