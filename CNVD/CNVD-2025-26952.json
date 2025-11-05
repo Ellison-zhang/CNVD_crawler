@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-05 19:07:43",
+    "parse_time": "2025-11-05 20:15:49",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26952",
-    "spider_time": 1762369663477,
+    "spider_time": 1762373749838,
     "name": "Church Donation System update_password_admin.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-26952",
     "publish": "2025-11-04",
