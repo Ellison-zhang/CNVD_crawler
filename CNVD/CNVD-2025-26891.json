@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-05 16:04:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26891",
+    "spider_time": 1762358694577,
+    "name": "多款Mozilla产品代码执行漏洞（CNVD-2025-26891）",
+    "cnvd": "CNVD-2025-26891",
+    "publish": "2025-11-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Mozilla Firefox <143\", \"Mozilla Firefox ESR <115.28\", \"Mozilla Firefox ESR <140.3\", \"Mozilla Thunderbird <143\", \"Mozilla Thunderbird <140.3\"]",
+    "cve": "CVE-2025-10533",
+    "description": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Firefox ESR是Firefox（Web浏览器）的一个延长支持版本。Mozilla Thunderbird是电子邮件客户端软件，支持IMAP、POP邮件协议以及HTML邮件格式。多款Mozilla产品存在代码执行漏洞，该漏洞是由于SVG组件中的整数溢出引起的。攻击者可利用该漏洞在系统上执行任意代码或导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.mozilla.org/show_bug.cgi?id=1980788",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2025-73/",
+    "patch": "多款Mozilla产品代码执行漏洞（CNVD-2025-26891）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-18",
+    "open_time": "2025-11-05",
+    "update_time": "2025-11-05",
+    "data_summary": "2d6926f7e04a98dd4d639b9dab9de0c6"
+}
