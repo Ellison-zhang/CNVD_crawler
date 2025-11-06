@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-06 01:37:19",
+    "parse_time": "2025-11-06 02:40:37",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26923",
-    "spider_time": 1762393039309,
+    "spider_time": 1762396837901,
     "name": "D-Link DIR600L formDeviceReboot函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-26923",
     "publish": "2025-11-04",
