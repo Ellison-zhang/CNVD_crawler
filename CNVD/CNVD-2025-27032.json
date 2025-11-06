@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-06 22:05:37",
+    "parse_time": "2025-11-06 23:12:09",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27032",
-    "spider_time": 1762466737730,
+    "spider_time": 1762470729917,
     "name": "Chat System deleteuser.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-27032",
     "publish": "2025-11-05",
