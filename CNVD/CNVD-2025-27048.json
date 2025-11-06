@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-06 10:04:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27048",
+    "spider_time": 1762423475939,
+    "name": "WordPress Advanced Database Cleaner plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-27048",
+    "publish": "2025-11-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"WordPress Advanced Database Cleaner plugin <=3.1.6\"]",
+    "cve": "CVE-2025-64357",
+    "description": "WordPress Advanced Database Cleaner plugin一款用于清理和优化WordPress数据库的插件，帮助用户删除冗余数据（如垃圾评论、旧草稿等），提升网站性能并减少数据库大小。WordPress Advanced Database Cleaner plugin存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/advanced-database-cleaner/vulnerability/wordpress-advanced-database-cleaner-plugin-3-1-6-cross-site-request-forgery-csrf-vulnerability",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/advanced-database-cleaner/",
+    "patch": "WordPress Advanced Database Cleaner plugin跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-05",
+    "open_time": "2025-11-06",
+    "update_time": "2025-11-06",
+    "data_summary": "5e12f95f22199229cfa74678db393b8c"
+}

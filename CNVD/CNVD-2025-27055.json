@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-06 10:05:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27055",
+    "spider_time": 1762423507172,
+    "name": "WordPress Consulting Elementor Widgets plugin文件包含漏洞",
+    "cnvd": "CNVD-2025-27055",
+    "publish": "2025-11-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress Consulting Elementor Widgets plugin <=1.4.2\"]",
+    "cve": "CVE-2025-64360",
+    "description": "WordPress Consulting Elementor Widgets plugin是一款用于Elementor页面构建器的插件，允许用户通过拖放功能添加和自定义网站内容。WordPress Consulting Elementor Widgets plugin存在文件包含漏洞，该漏洞源于未对本地文件资源的调用做有效过滤，攻击者可利用该漏洞读取敏感文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/consulting-elementor-widgets/vulnerability/wordpress-consulting-elementor-widgets-plugin-1-4-2-local-file-inclusion-vulnerability",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress Consulting Elementor Widgets plugin文件包含漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-05",
+    "open_time": "2025-11-06",
+    "update_time": "2025-11-06",
+    "data_summary": "ce6cb811ee9798f9d61fbf5069746415"
+}

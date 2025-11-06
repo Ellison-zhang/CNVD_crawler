@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-06 10:04:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27049",
+    "spider_time": 1762423480269,
+    "name": "WordPress Analytify Pro plugin信息泄露漏洞",
+    "cnvd": "CNVD-2025-27049",
+    "publish": "2025-11-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"WordPress Analytify Pro plugin <=7.0.3\"]",
+    "cve": "CVE-2025-12521",
+    "description": "WordPress Analytify Pro plugin是一款专为WordPress设计的GoogleAnalytics插件，主要用于在WordPress后台和前端展示GoogleAnalytics数据，简化网站流量和用户行为的分析流程。WordPress Analytify Pro plugin存在信息泄露漏洞，该漏洞源于Analytify Tag HTML细节导致敏感信息泄露，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-12521",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress Analytify Pro plugin信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-05",
+    "open_time": "2025-11-06",
+    "update_time": "2025-11-06",
+    "data_summary": "b4d308f01e3c00020ef9695269ff2f9d"
+}
