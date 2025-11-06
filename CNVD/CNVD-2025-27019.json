@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-06 02:35:32",
+    "parse_time": "2025-11-06 03:27:04",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27019",
-    "spider_time": 1762396532883,
+    "spider_time": 1762399624389,
     "name": "Online Appointment Booking System getclinic.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-27019",
     "publish": "2025-11-05",
