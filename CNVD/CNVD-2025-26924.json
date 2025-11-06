@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-06 00:15:59",
+    "parse_time": "2025-11-06 01:37:22",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26924",
-    "spider_time": 1762388159956,
+    "spider_time": 1762393042080,
     "name": "D-Link DIR600L formEasySetTimezone函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-26924",
     "publish": "2025-11-04",
