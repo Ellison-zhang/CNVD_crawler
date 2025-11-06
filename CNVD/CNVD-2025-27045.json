@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-06 04:09:10",
+    "parse_time": "2025-11-06 05:07:15",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27045",
-    "spider_time": 1762402150653,
+    "spider_time": 1762405635290,
     "name": "jonnys Liquor delete-row.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-27045",
     "publish": "2025-11-05",
