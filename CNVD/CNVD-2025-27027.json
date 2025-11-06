@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-06 03:28:52",
+    "parse_time": "2025-11-06 04:09:46",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27027",
-    "spider_time": 1762399732251,
+    "spider_time": 1762402186989,
     "name": "Chat System confirm_password.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-27027",
     "publish": "2025-11-05",
