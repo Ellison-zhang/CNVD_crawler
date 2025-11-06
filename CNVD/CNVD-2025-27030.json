@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-06 14:07:08",
+    "parse_time": "2025-11-06 15:07:38",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27030",
-    "spider_time": 1762438028251,
+    "spider_time": 1762441658781,
     "name": "Chat System leaveroom.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-27030",
     "publish": "2025-11-05",
