@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-07 07:06:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27238",
+    "spider_time": 1762499167488,
+    "name": "WordPress FuseWP plugin未授权修改数据漏洞",
+    "cnvd": "CNVD-2025-27238",
+    "publish": "2025-11-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"WordPress FuseWP plugin <=1.1.23.0\"]",
+    "cve": "CVE-2025-11975",
+    "description": "WordPress FuseWP plugin是WordPress插件，主要用于创建和管理多语言网站。WordPress FuseWP plugin存在未授权修改数据漏洞，该漏洞源于save_changes函数缺少能力检查，攻击者可利用该漏洞添加和编辑同步规则。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/changeset/3383939/fusewp/trunk/src/core/src/Admin/SettingsPage/SyncPage.php",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/fusewp/",
+    "patch": "WordPress FuseWP plugin未授权修改数据漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-05",
+    "open_time": "2025-11-07",
+    "update_time": "2025-11-07",
+    "data_summary": "f1fe05f37120829c3fb44ecfcdd9f4ee"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-07 07:09:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27250",
+    "spider_time": 1762499370937,
+    "name": "WordPress Masterstudy plugin文件包含漏洞",
+    "cnvd": "CNVD-2025-27250",
+    "publish": "2025-11-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress Masterstudy plugin <4.8.126\"]",
+    "cve": "CVE-2025-64364",
+    "description": "WordPress Masterstudy plugin是专为WordPress设计的免费学习管理系统插件。WordPress Masterstudy plugin存在文件包含漏洞，该漏洞源于对包含或请求语句的文件名控制不当，攻击者可利用该漏洞导致PHP本地文件包含。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Theme/masterstudy/vulnerability/wordpress-masterstudy-theme-4-8-126-local-file-inclusion-vulnerability",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress Masterstudy plugin文件包含漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-05",
+    "open_time": "2025-11-07",
+    "update_time": "2025-11-07",
+    "data_summary": "d0bbf2e39b22e24dd425af69471117d6"
+}

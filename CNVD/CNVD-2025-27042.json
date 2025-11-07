@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-07 06:12:13",
+    "parse_time": "2025-11-07 07:15:40",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27042",
-    "spider_time": 1762495933994,
+    "spider_time": 1762499740070,
     "name": "Crime Reporting System registration.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-27042",
     "publish": "2025-11-05",

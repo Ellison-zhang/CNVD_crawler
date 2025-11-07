@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-07 07:04:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27277",
+    "spider_time": 1762499064985,
+    "name": "TOTOLINK N600R硬编码漏洞",
+    "cnvd": "CNVD-2025-27277",
+    "publish": "2025-11-07",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK N600R 4.3.0cu.7647_B20210106\"]",
+    "cve": "CVE-2022-36613",
+    "description": "TOTOLINK N600R是韩国品牌TOTOLINK于2013年推出的双频无线路由器，支持2.4GHz和5GHz双频并发，最高无线传输速率达300Mbps。TOTOLINK N600R存在硬编码漏洞，该漏洞源于/etc/shadow.sample中包含硬编码的root密码。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-36613",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-08-30",
+    "open_time": "2025-11-07",
+    "update_time": "2025-11-07",
+    "data_summary": "ce2994bdab05a2733c511a1e3e787be8"
+}

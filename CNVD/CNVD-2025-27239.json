@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-07 07:10:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27239",
+    "spider_time": 1762499451356,
+    "name": "WordPress Groundhogg Plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-27239",
+    "publish": "2025-11-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"WordPress Groundhogg Plugin <=4.2.6\"]",
+    "cve": "CVE-2025-64367",
+    "description": "WordPress Groundhogg Plugin是一款专为WordPress平台设计的客户关系管理（CRM）、电子邮件营销和营销自动化工具，旨在帮助用户通过自动化流程提升客户转化率和销售效率。WordPress Groundhogg Plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/groundhogg/vulnerability/wordpress-groundhogg-plugin-4-2-6-cross-site-scripting-xss-vulnerability",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/groundhogg/",
+    "patch": "WordPress Groundhogg Plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-05",
+    "open_time": "2025-11-07",
+    "update_time": "2025-11-07",
+    "data_summary": "914ccac3c1dc75608429730050fdcd22"
+}

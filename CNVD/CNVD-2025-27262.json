@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-07 07:09:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27262",
+    "spider_time": 1762499343420,
+    "name": "Library System student-issue-book.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-27262",
+    "publish": "2025-11-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Library System Library System 1.0\"]",
+    "cve": "CVE-2025-6835",
+    "description": "Library System是一个图书馆系统。Library System存在SQL注入漏洞，该漏洞源于文件/student-issue-book.php中参数reg缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6835",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-07",
+    "open_time": "2025-11-07",
+    "update_time": "2025-11-07",
+    "data_summary": "ffdc1cf140764e9d36dc65ceb9978bf9"
+}
