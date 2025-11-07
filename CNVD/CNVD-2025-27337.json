@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-07 10:05:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27337",
+    "spider_time": 1762509906606,
+    "name": "WordPress Polylang plugin反序列化漏洞",
+    "cnvd": "CNVD-2025-27337",
+    "publish": "2025-11-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress Polylang plugin <=3.7.3\"]",
+    "cve": "CVE-2025-64353",
+    "description": "WordPress Polylang plugin是WordPress的多语言插件，用于创建和管理多语言网站，支持从1种到10种或更多语言的切换，核心功能完全集成于WordPress内置功能（如分类法），无需额外依赖外部系统。WordPress Polylang plugin存在反序列化漏洞，该漏洞源于应用程序在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞导致代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/polylang/vulnerability/wordpress-polylang-plugin-3-7-3-deserialization-of-untrusted-data-vulnerability",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/polylang/",
+    "patch": "WordPress Polylang plugin反序列化漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-05",
+    "open_time": "2025-11-07",
+    "update_time": "2025-11-07",
+    "data_summary": "e35348b1094342172d0d6731f1cc7bd1"
+}
