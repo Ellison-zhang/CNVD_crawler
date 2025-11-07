@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-07 04:14:01",
+    "parse_time": "2025-11-07 05:13:51",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26938",
-    "spider_time": 1762488841616,
+    "spider_time": 1762492431134,
     "name": "D-Link DIR600L formSetWAN_Wizard7函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-26938",
     "publish": "2025-11-04",
