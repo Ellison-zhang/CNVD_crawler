@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-06 23:14:03",
+    "parse_time": "2025-11-07 00:20:25",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27037",
-    "spider_time": 1762470843899,
+    "spider_time": 1762474825659,
     "name": "Chat System update_user.php文件跨站脚本漏洞",
     "cnvd": "CNVD-2025-27037",
     "publish": "2025-11-05",
