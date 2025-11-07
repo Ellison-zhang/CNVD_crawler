@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-07 00:21:20",
+    "parse_time": "2025-11-07 01:46:44",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26941",
-    "spider_time": 1762474880221,
+    "spider_time": 1762480004593,
     "name": "D-Link DIR600L formTcpipSetup函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-26941",
     "publish": "2025-11-04",

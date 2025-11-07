@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-07 00:19:37",
+    "parse_time": "2025-11-07 01:37:16",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27025",
-    "spider_time": 1762474777639,
+    "spider_time": 1762479436537,
     "name": "Chat System send_message.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-27025",
     "publish": "2025-11-05",
