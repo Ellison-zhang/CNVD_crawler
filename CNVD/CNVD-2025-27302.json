@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-07 08:05:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27302",
+    "spider_time": 1762502744466,
+    "name": "Mobile Shop Management System AddNewProduct.php文件代码问题漏洞",
+    "cnvd": "CNVD-2025-27302",
+    "publish": "2025-11-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Mobile Shop Management System Mobile Shop Management System 1.0\"]",
+    "cve": "CVE-2025-9841",
+    "description": "Mobile Shop Management System是一个商店管理系统。Mobile Shop Management System存在代码问题漏洞，该漏洞源于文件AddNewProduct.php中参数ProductImage对上传的文件缺少有效的验证。攻击者可利用该漏洞上传恶意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-9841",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-05",
+    "open_time": "2025-11-07",
+    "update_time": "2025-11-07",
+    "data_summary": "6a69ae3cd6be049d142d7ba6e54f274c"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-07 08:10:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27306",
+    "spider_time": 1762503046781,
+    "name": "Voting System positions_edit.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-27306",
+    "publish": "2025-11-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Voting System Voting System v1.0\"]",
+    "cve": "CVE-2025-7581",
+    "description": "Voting System是一个选举系统。Voting System存在SQL注入漏洞，该漏洞源于文件/admin/positions_edit.php中参数ID缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7581",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-11-07",
+    "update_time": "2025-11-07",
+    "data_summary": "dddf5a08273aa04951d07feebb979f44"
+}

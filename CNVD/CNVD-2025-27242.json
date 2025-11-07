@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-07 07:10:30",
+    "parse_time": "2025-11-07 08:17:01",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27242",
-    "spider_time": 1762499430285,
+    "spider_time": 1762503421208,
     "name": "WordPress Insert PHP Code Snippet plugin缺少授权漏洞",
     "cnvd": "CNVD-2025-27242",
     "publish": "2025-11-06",
