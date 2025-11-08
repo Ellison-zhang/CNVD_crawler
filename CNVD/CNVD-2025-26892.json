@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-11-08 08:04:49",
+    "parse_time": "2025-11-08 09:04:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26892",
-    "spider_time": 1762589089070,
+    "spider_time": 1762592640274,
     "name": "多款Mozilla产品欺骗漏洞（CNVD-2025-26892）",
     "cnvd": "CNVD-2025-26892",
-    "publish": "2025-11-07",
+    "publish": "2025-11-05",
     "severity": "高",
     "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:N",
     "product": "[\"Mozilla Firefox ESR <140.2\", \"Mozilla Firefox <142\"]",
@@ -18,5 +18,5 @@
     "submit_time": "2025-08-26",
     "open_time": "2025-11-05",
     "update_time": "2025-11-05",
-    "data_summary": "950d9d7db529abd99f946dfd011e9242"
+    "data_summary": "86a2abe64c9cb7773b4d5774ab1c5c5e"
 }
