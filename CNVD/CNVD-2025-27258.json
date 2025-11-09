@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-08 23:05:00",
+    "parse_time": "2025-11-09 00:20:51",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27258",
-    "spider_time": 1762643100321,
+    "spider_time": 1762647651271,
     "name": "Voting System positions_add.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-27258",
     "publish": "2025-11-06",
