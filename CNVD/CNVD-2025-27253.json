@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-09 04:06:10",
+    "parse_time": "2025-11-09 05:05:34",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27253",
-    "spider_time": 1762661170199,
+    "spider_time": 1762664734792,
     "name": "Library System add-student.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-27253",
     "publish": "2025-11-06",
