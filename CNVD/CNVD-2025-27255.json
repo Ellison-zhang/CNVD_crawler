@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-09 01:32:54",
+    "parse_time": "2025-11-09 02:36:37",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27255",
-    "spider_time": 1762651974553,
+    "spider_time": 1762655797591,
     "name": "Library System approve.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-27255",
     "publish": "2025-11-06",
