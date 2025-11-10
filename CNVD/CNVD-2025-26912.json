@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-10 14:04:26",
+    "parse_time": "2025-11-10 15:04:30",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26912",
-    "spider_time": 1762783466080,
+    "spider_time": 1762787070832,
     "name": "Delta Electronics ASDA-Soft堆栈缓冲区溢出漏洞（CNVD-2025-26912）",
     "cnvd": "CNVD-2025-26912",
     "publish": "2025-11-07",
