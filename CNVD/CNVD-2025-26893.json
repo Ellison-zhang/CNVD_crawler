@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-11-10 00:15:49",
+    "parse_time": "2025-11-10 01:32:45",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26893",
-    "spider_time": 1762733749076,
+    "spider_time": 1762738365824,
     "name": "多款Mozilla产品代码执行漏洞（CNVD-2025-26893）",
     "cnvd": "CNVD-2025-26893",
-    "publish": "2025-11-07",
+    "publish": "2025-11-05",
     "severity": "高",
     "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
     "product": "[\"Mozilla Firefox <142\", \"Mozilla Thunderbird <142\"]",
@@ -18,5 +18,5 @@
     "submit_time": "2025-08-26",
     "open_time": "2025-11-05",
     "update_time": "2025-11-05",
-    "data_summary": "8424ce2d93df536e44d7c62ea63562ad"
+    "data_summary": "be638608d6a3a464f2db82e61c1bd0db"
 }
