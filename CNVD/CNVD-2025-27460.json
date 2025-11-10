@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-10 03:31:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27460",
+    "spider_time": 1762745477044,
+    "name": "Fortinet FortiOS缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-27460",
+    "publish": "2025-11-07",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Fortinet FortiOS >=7.2.4\\uff0c<7.2.12\", \"Fortinet FortiOS >=7.4.0\\uff0c<7.4.8\", \"Fortinet FortiOS >=7.6.0\\uff0c<7.6.3\"]",
+    "cve": "CVE-2025-24477",
+    "description": "Fortinet FortiOS是Fortinet公司的网络安全操作系统，用于提供防火墙、VPN、入侵防御等安全功能。Fortinet FortiOS存在缓冲区溢出漏洞，该漏洞源于未对特制CLI命令进行充分边界检查。攻击者可利用该漏洞通过构造恶意CLI命令触发堆溢出，实现权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-24477",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-25-026",
+    "patch": "Fortinet FortiOS缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-16",
+    "open_time": "2025-11-10",
+    "update_time": "2025-11-10",
+    "data_summary": "d821ac67f20b8fab01f2fb99533994b2"
+}
