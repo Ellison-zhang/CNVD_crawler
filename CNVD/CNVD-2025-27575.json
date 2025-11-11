@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-11 22:07:20",
+    "parse_time": "2025-11-11 23:09:06",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27575",
-    "spider_time": 1762898840164,
+    "spider_time": 1762902546536,
     "name": "TOTOLINK A3300R setScheduleCfg函数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-27575",
     "publish": "2025-11-10",
