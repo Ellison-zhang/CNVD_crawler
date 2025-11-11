@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-11 18:06:16",
+    "parse_time": "2025-11-11 19:08:52",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27570",
-    "spider_time": 1762884376111,
+    "spider_time": 1762888132080,
     "name": "TOTOLINK LR350 sub_425400函数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-27570",
     "publish": "2025-11-10",
