@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-11 08:08:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27586",
+    "spider_time": 1762848500551,
+    "name": "Dell Unity操作系统命令注入漏洞（CNVD-2025-27586）",
+    "cnvd": "CNVD-2025-27586",
+    "publish": "2025-11-10",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL Dell Unity <=5.5\"]",
+    "cve": "CVE-2025-46423",
+    "description": "Dell Unity是戴尔公司推出的中端存储解决方案，支持文件存储、块存储及多种数据服务功能，旨在满足企业对灵活性、成本效益和简洁性的需求。Dell Unity存在操作系统命令注入漏洞，该漏洞源于对特殊元素中和不当，攻击者可利用该漏洞以root权限执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-46423",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-us/000385307/dsa-2025-379-security-update-for-dell-unity-dell-unityvsa-and-dell-unity-xt-security-update-for-multiple-vulnerabilities",
+    "patch": "Dell Unity操作系统命令注入漏洞（CNVD-2025-27586）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-05",
+    "open_time": "2025-11-11",
+    "update_time": "2025-11-11",
+    "data_summary": "7ce920fefabe664850c29faa432927c7"
+}

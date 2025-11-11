@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-11 08:05:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27554",
+    "spider_time": 1762848356760,
+    "name": "Huawei HarmonyOS权限控制漏洞",
+    "cnvd": "CNVD-2025-27554",
+    "publish": "2025-11-10",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Huawei HarmonyOS 3.1.0\", \"Huawei HarmonyOS 4.0.0\", \"Huawei HarmonyOS 4.2.0\"]",
+    "cve": "CVE-2023-52721",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS存在权限控制漏洞，该漏洞源于WindowManager模块存在权限控制漏洞。攻击者可利用该漏洞影响机密性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://consumer.huawei.com/en/support/bulletin/2024/5/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://device.harmonyos.com/cn/docs/security/update/security-bulletins-phones-202405-0000001902628049",
+    "patch": "Huawei HarmonyOS权限控制漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-22",
+    "open_time": "2025-11-11",
+    "update_time": "2025-11-11",
+    "data_summary": "924b55e2ba0cfa4e4a8235c548a4770b"
+}

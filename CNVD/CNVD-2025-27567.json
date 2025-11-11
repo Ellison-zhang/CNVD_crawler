@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-11 08:10:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27567",
+    "spider_time": 1762848630702,
+    "name": "TOTOLINK LR350 sub_422880函数栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-27567",
+    "publish": "2025-11-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"TOTOLINK LR350 V9.3.5u.6369_B20220309\"]",
+    "cve": "CVE-2025-63465",
+    "description": "TOTOLINK LR350是中国吉翁电子（TOTOLINK）推出的一款4GLTE无线路由器，支持将4G信号转换为有线信号，适用于家庭、办公等场景。TOTOLINK LR350存在栈缓冲区溢出漏洞，该漏洞源于sub_422880函数中ssid参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/0-fool/VulnbyCola/blob/main/TOTOLINK/LR350/2/1.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/231/ids/36.html?__K=38946636e61915c428c9a58ce8d4ce9811762137239_1222992",
+    "patch": "TOTOLINK LR350 sub_422880函数栈缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-05",
+    "open_time": "2025-11-11",
+    "update_time": "2025-11-11",
+    "data_summary": "23727f4fce445fcad328dad36f6861b8"
+}

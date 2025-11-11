@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-11 08:12:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27573",
+    "spider_time": 1762848752788,
+    "name": "TOTOLINK A3300R cstecgi.cgi文件缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-27573",
+    "publish": "2025-11-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A3300R 17.0.0cu.557_B20221024\"]",
+    "cve": "CVE-2025-12240",
+    "description": "TOTOLINK A3300R是中国吉翁电子（TOTOLINK）公司生产的一款双频无线路由器，主要用于家庭及小型网络环境。TOTOLINK A3300R存在缓冲区溢出漏洞，该漏洞源于文件/cgi-bin/cstecgi.cgi中函数setDmzCfg的参数ip未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/noahze01/IoT-vulnerable/blob/main/TOTOLink/A3300R/setDmzCfg.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/241/ids/36.html",
+    "patch": "TOTOLINK A3300R cstecgi.cgi文件缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-31",
+    "open_time": "2025-11-11",
+    "update_time": "2025-11-11",
+    "data_summary": "71e3c8cd759d69edee71578188c37f65"
+}
