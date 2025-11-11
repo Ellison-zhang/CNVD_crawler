@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-11 00:16:48",
+    "parse_time": "2025-11-11 01:40:22",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27460",
-    "spider_time": 1762820208314,
+    "spider_time": 1762825222874,
     "name": "Fortinet FortiOS缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-27460",
     "publish": "2025-11-07",

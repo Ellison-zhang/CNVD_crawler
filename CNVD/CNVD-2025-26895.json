@@ -1,10 +1,10 @@
 {
-    "parse_time": "2025-11-11 00:16:06",
+    "parse_time": "2025-11-11 01:40:15",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26895",
-    "spider_time": 1762820166965,
+    "spider_time": 1762825215590,
     "name": "多款Mozilla产品安全绕过漏洞（CNVD-2025-26895）",
     "cnvd": "CNVD-2025-26895",
-    "publish": "2025-11-07",
+    "publish": "2025-11-05",
     "severity": "高",
     "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
     "product": "[\"Mozilla Firefox ESR <140.2\", \"Mozilla Firefox <142\", \"Mozilla Thunderbird <142\", \"Mozilla Thunderbird <140.2\", \"Mozilla Firefox ESR <128.14\", \"Mozilla Thunderbird <128.14\", \"Mozilla Firefox ESR <115.27\"]",
@@ -18,5 +18,5 @@
     "submit_time": "2025-08-26",
     "open_time": "2025-11-05",
     "update_time": "2025-11-05",
-    "data_summary": "33b9684bb8ff2b939c56fd3a29b54854"
+    "data_summary": "41a84934f54c7298ab8e734c1afe9971"
 }

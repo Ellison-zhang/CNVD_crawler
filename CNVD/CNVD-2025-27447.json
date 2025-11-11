@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-11 01:34:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27447",
+    "spider_time": 1762824870377,
+    "name": "IBM QRadar SIEM权限提升漏洞",
+    "cnvd": "CNVD-2025-27447",
+    "publish": "2025-11-05",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"IBM QRadar SIEM >=7.5.0\\uff0c<=7.5.0 UP13 IF02\"]",
+    "cve": "CVE-2025-36007",
+    "description": "IBM QRadar SIEM是美国国际商业机器（IBM）公司的一套利用安全智能保护资产和信息远离高级威胁的解决方案。该方案提供对整个IT架构范围进行监督、生成详细的数据访问和用户活动报告等功能。IBM QRadar SIEM存在权限提升漏洞，该漏洞源于更新脚本权限分配不当，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36007",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7249277",
+    "patch": "IBM QRadar SIEM权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-31",
+    "open_time": "2025-11-10",
+    "update_time": "2025-11-10",
+    "data_summary": "a9f5721c0d56dde1dcc28b894cce2435"
+}
