@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-11 12:08:45",
+    "parse_time": "2025-11-11 13:25:37",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27564",
-    "spider_time": 1762862925656,
+    "spider_time": 1762867537896,
     "name": "QNAP QTS和QuTS hero空指针取消引用漏洞（CNVD-2025-27564）",
     "cnvd": "CNVD-2025-27564",
     "publish": "2025-11-10",
