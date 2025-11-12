@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-12 14:04:31",
+    "parse_time": "2025-11-12 15:04:56",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27714",
-    "spider_time": 1762956271336,
+    "spider_time": 1762959896389,
     "name": "Simple forum signin.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-27714",
     "publish": "2025-11-11",
