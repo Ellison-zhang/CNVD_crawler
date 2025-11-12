@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-12 04:07:13",
+    "parse_time": "2025-11-12 05:05:12",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27572",
-    "spider_time": 1762920433997,
+    "spider_time": 1762923912301,
     "name": "TOTOLINK LR350 http_host参数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-27572",
     "publish": "2025-11-10",
