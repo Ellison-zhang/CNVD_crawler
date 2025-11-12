@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-12 19:04:16",
+    "parse_time": "2025-11-12 20:04:39",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27719",
-    "spider_time": 1762974256706,
+    "spider_time": 1762977879034,
     "name": "Car Rental System approve.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-27719",
     "publish": "2025-11-11",
