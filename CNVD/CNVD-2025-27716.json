@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-12 18:05:43",
+    "parse_time": "2025-11-12 19:04:03",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27716",
-    "spider_time": 1762970743234,
+    "spider_time": 1762974243983,
     "name": "Simple forum forum_downloadfile.php路径遍历漏洞",
     "cnvd": "CNVD-2025-27716",
     "publish": "2025-11-11",
