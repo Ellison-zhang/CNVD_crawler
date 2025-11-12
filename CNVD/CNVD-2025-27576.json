@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-12 01:41:27",
+    "parse_time": "2025-11-12 02:47:19",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27576",
-    "spider_time": 1762911687410,
+    "spider_time": 1762915639094,
     "name": "TOTOLINK A3300R setDdnsCfg函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-27576",
     "publish": "2025-11-10",
