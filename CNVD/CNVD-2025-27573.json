@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-12 05:05:17",
+    "parse_time": "2025-11-12 06:06:56",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27573",
-    "spider_time": 1762923917361,
+    "spider_time": 1762927616491,
     "name": "TOTOLINK A3300R cstecgi.cgi文件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-27573",
     "publish": "2025-11-10",
