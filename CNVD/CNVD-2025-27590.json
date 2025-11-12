@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-12 17:06:16",
+    "parse_time": "2025-11-12 18:09:16",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27590",
-    "spider_time": 1762967176730,
+    "spider_time": 1762970956130,
     "name": "News Portal settings.py文件信息泄露漏洞",
     "cnvd": "CNVD-2025-27590",
     "publish": "2025-11-10",
