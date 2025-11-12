@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-12 08:16:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27733",
+    "spider_time": 1762935361288,
+    "name": "Inventory Management System orders.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-27733",
+    "publish": "2025-11-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Inventory Management System Inventory Management System 1.0\"]",
+    "cve": "CVE-2025-6828",
+    "description": "Inventory Management System是一个库存管理系统。Inventory Management System存在SQL注入漏洞，该漏洞源于文件/orders.php的参数i未对参数i进行安全过滤。攻击者可利用该漏洞通过远程注入恶意SQL语句，窃取或篡改数据库信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.314266\nhttps://vuldb.com/?ctiid.314266\nhttps://vuldb.com/?submit.603000\nhttps://github.com/YunQipao/cve/issues/2\nhttps://code-projects.org/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-30",
+    "open_time": "2025-11-12",
+    "update_time": "2025-11-12",
+    "data_summary": "beea5d85458bb7df7a838dae4e411bb7"
+}

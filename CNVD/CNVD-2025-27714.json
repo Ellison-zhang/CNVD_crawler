@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-12 08:14:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27714",
+    "spider_time": 1762935280492,
+    "name": "Simple forum signin.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-27714",
+    "publish": "2025-11-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Simple forum Simple forum 1.0\"]",
+    "cve": "CVE-2025-6844",
+    "description": "Simple forum是一个简易论坛。Simple forum存在SQL注入漏洞，该漏洞源于文件/signin.php中参数User缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6844",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-07",
+    "open_time": "2025-11-12",
+    "update_time": "2025-11-12",
+    "data_summary": "507d30dac3027d74823bc1ff6c6f735f"
+}

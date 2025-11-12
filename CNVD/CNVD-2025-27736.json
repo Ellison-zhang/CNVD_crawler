@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-12 08:16:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27736",
+    "spider_time": 1762935372239,
+    "name": "Inventory Management System removeProduct.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-27736",
+    "publish": "2025-11-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Inventory Management System Inventory Management System 1.0\"]",
+    "cve": "CVE-2025-6822",
+    "description": "Inventory Management System是一个库存管理系统。Inventory Management System存在SQL注入漏洞，该漏洞源于/php_action/removeProduct.php文件对productId参数未进行安全过滤。攻击者可利用该漏洞通过构造恶意productId参数远程执行SQL命令，导致数据库信息泄露或篡改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.314260\nhttps://vuldb.com/?ctiid.314260\nhttps://vuldb.com/?submit.602641\nhttps://github.com/Dav1d-safe/cve/issues/2\nhttps://code-projects.org/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-30",
+    "open_time": "2025-11-12",
+    "update_time": "2025-11-12",
+    "data_summary": "bca30bf037a4f5d62e6a93e3cb24d922"
+}
