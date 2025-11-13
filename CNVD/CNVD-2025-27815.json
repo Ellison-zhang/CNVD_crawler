@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-13 07:06:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27815",
+    "spider_time": 1763017615269,
+    "name": "Simple Pizza Ordering System addmem.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-27815",
+    "publish": "2025-11-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Simple Pizza Ordering System Simple Pizza Ordering System 1.0\"]",
+    "cve": "CVE-2025-6356",
+    "description": "Simple Pizza Ordering System是一个简单的披萨订购系统。Simple Pizza Ordering System存在SQL注入漏洞，该漏洞源于文件/addmem.php缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6356",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-11-13",
+    "update_time": "2025-11-13",
+    "data_summary": "c0c91ac5b0ab40e2938e3da776d4b9f4"
+}
