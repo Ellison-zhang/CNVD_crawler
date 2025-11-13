@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-13 00:17:07",
+    "parse_time": "2025-11-13 01:32:55",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27727",
-    "spider_time": 1762993027188,
+    "spider_time": 1762997575082,
     "name": "Daily Expense Manager update.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-27727",
     "publish": "2025-11-11",
