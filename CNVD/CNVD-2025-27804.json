@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-13 10:04:41",
+    "parse_time": "2025-11-13 11:04:23",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27804",
-    "spider_time": 1763028281281,
+    "spider_time": 1763031863482,
     "name": "QNAP QTS和QuTS hero缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-27804",
     "publish": "2025-11-12",
