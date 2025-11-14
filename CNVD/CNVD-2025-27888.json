@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-14 07:06:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27888",
+    "spider_time": 1763104012514,
+    "name": "WordPress Ace User Management plugin未正确验证密码重置令牌漏洞",
+    "cnvd": "CNVD-2025-27888",
+    "publish": "2025-11-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"WordPress Ace User Management plugin <=2.0.3\"]",
+    "cve": "CVE-2025-6027",
+    "description": "WordPress Ace User Management plugin是一款由Acewebx开发的WordPress用户管理插件，主要用于增强和自定义WordPress用户角色、权限及管理功能。WordPress Ace User Management plugin存在未正确验证密码重置令牌漏洞，攻击者可利用该漏洞导致任意账户密码重置。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wpscan.com/vulnerability/06fb8088-10e3-424e-a3ac-4673bac49467/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-11",
+    "open_time": "2025-11-14",
+    "update_time": "2025-11-14",
+    "data_summary": "8bc5df835bd8fd0873568a86c520b04c"
+}
