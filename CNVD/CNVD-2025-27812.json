@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-14 03:24:39",
+    "parse_time": "2025-11-14 04:06:39",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27812",
-    "spider_time": 1763090679332,
+    "spider_time": 1763093199836,
     "name": "Inventory Management System removeBrand.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-27812",
     "publish": "2025-11-12",
