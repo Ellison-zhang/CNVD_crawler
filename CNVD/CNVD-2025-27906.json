@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-14 09:04:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27906",
+    "spider_time": 1763111043890,
+    "name": "Simple Online Hotel Reservation System跨站脚本漏洞",
+    "cnvd": "CNVD-2025-27906",
+    "publish": "2025-11-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"Simple Online Hotel Reservation System Simple Online Hotel Reservation System 1.0\"]",
+    "cve": "CVE-2025-60308",
+    "description": "Simple Online Hotel Reservation System是一个简单的在线酒店预订系统。Simple Online Hotel Reservation System存在跨站脚本漏洞，该漏洞源于Add Room功能中Description字段输入未进行验证，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-60308",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://code-projects.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-15",
+    "open_time": "2025-11-14",
+    "update_time": "2025-11-14",
+    "data_summary": "54db7163c8670010a3f321080915b953"
+}
