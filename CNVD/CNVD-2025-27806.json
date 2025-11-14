@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-14 12:10:31",
+    "parse_time": "2025-11-14 13:14:20",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27806",
-    "spider_time": 1763122231694,
+    "spider_time": 1763126060409,
     "name": "QNAP QTS和QuTS hero命令注入漏洞",
     "cnvd": "CNVD-2025-27806",
     "publish": "2025-11-12",
