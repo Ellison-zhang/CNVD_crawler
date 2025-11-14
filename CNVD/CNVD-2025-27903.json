@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-14 08:06:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27903",
+    "spider_time": 1763107566538,
+    "name": "Tenda AC6 fast_setting_wifi_set函数堆栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-27903",
+    "publish": "2025-11-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda AC6 V2.0 15.03.06.50\"]",
+    "cve": "CVE-2025-60341",
+    "description": "Tenda AC6是腾达（Tenda）推出的一款双频无线路由器，专为百兆光纤家庭用户设计。Tenda AC6存在堆栈缓冲区溢出漏洞，该漏洞源于fast_setting_wifi_set函数中ssid参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/z472421519/BinaryAudit/blob/main/PoC/BOF/Tenda/fast_setting_wifi_set/fast_setting_wifi_set.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-24",
+    "open_time": "2025-11-14",
+    "update_time": "2025-11-14",
+    "data_summary": "fb062d297bbdb628125dbceb47c8a8ee"
+}
