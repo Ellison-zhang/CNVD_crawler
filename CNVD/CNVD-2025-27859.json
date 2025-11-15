@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-15 11:03:28",
+    "parse_time": "2025-11-15 12:05:25",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27859",
-    "spider_time": 1763204608211,
+    "spider_time": 1763208325761,
     "name": "Simple Online Hotel Reservation System add_account.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-27859",
     "publish": "2025-11-13",
