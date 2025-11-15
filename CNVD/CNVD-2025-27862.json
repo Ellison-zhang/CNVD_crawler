@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-15 12:05:43",
+    "parse_time": "2025-11-15 13:08:41",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27862",
-    "spider_time": 1763208343663,
+    "spider_time": 1763212121358,
     "name": "Online Shoe Store confirm.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-27862",
     "publish": "2025-11-13",
