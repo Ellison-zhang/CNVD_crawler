@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-16 17:04:52",
+    "parse_time": "2025-11-16 18:06:48",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27873",
-    "spider_time": 1763312692956,
+    "spider_time": 1763316408575,
     "name": "Inventory Management editProduct.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-27873",
     "publish": "2025-11-13",
