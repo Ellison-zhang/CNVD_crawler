@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-17 02:34:22",
+    "parse_time": "2025-11-17 03:26:19",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27861",
-    "spider_time": 1763346862267,
+    "spider_time": 1763349979277,
     "name": "MediaWiki CookieConsent Extension跨站脚本漏洞",
     "cnvd": "CNVD-2025-27861",
     "publish": "2025-11-13",
