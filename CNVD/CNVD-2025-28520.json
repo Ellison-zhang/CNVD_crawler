@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-18 02:33:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28520",
+    "spider_time": 1763433192814,
+    "name": "Dell CloudLink命令执行漏洞",
+    "cnvd": "CNVD-2025-28520",
+    "publish": "2025-11-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"DELL CloudLink <8.1.1\"]",
+    "cve": "CVE-2025-46364",
+    "description": "Dell CloudLink是美国戴尔（Dell）公司的一个数据加密和密钥管理系统。Dell CloudLink存在命令执行漏洞，攻击者可利用该漏洞在系统上执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dell.com/support/kbdoc/en-us/000384363/dsa-2025-374-security-update-for-dell-cloudlink-multiple-security-vulnerabilities",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000384363/dsa-2025-374-security-update-for-dell-cloudlink-multiple-security-vulnerabilities",
+    "patch": "Dell CloudLink命令执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-10",
+    "open_time": "2025-11-18",
+    "update_time": "2025-11-18",
+    "data_summary": "b14874cd1e82c1e143ae79d6a6e8032b"
+}

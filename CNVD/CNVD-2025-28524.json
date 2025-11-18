@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-18 02:33:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28524",
+    "spider_time": 1763433208887,
+    "name": "Dell CloudLink操作系统命令注入漏洞",
+    "cnvd": "CNVD-2025-28524",
+    "publish": "2025-11-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"DELL CloudLink >=8.0\\uff0c<=8.1.2\"]",
+    "cve": "CVE-2025-45378",
+    "description": "Dell CloudLink是美国戴尔（Dell）公司的一个数据加密和密钥管理系统。Dell CloudLink存在操作系统命令注入漏洞，攻击者可利用该漏洞导致权限提升和未经授权的系统访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dell.com/support/kbdoc/en-us/000384363/dsa-2025-374-security-update-for-dell-cloudlink-multiple-security-vulnerabilities",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000384363/dsa-2025-374-security-update-for-dell-cloudlink-multiple-security-vulnerabilities",
+    "patch": "Dell CloudLink操作系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-10",
+    "open_time": "2025-11-18",
+    "update_time": "2025-11-18",
+    "data_summary": "646d989457a60c5d39939a3e0d92ae35"
+}
