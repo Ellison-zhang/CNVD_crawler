@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-18 00:18:05",
+    "parse_time": "2025-11-18 01:34:05",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27801",
-    "spider_time": 1763425085057,
+    "spider_time": 1763429645373,
     "name": "QNAP Qsync Central SQL注入漏洞（CNVD-2025-27801）",
     "cnvd": "CNVD-2025-27801",
     "publish": "2025-11-12",
