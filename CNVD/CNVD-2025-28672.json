@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-19 15:07:47",
+    "parse_time": "2025-11-19 16:13:44",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28672",
-    "spider_time": 1763564867895,
+    "spider_time": 1763568824013,
     "name": "Intel CIP权限提升漏洞（CNVD-2025-28672）",
     "cnvd": "CNVD-2025-28672",
     "publish": "2025-11-17",
