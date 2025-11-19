@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-19 03:24:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28702",
+    "spider_time": 1763522669911,
+    "name": "WordPress age-restriction plugin缺少授权漏洞",
+    "cnvd": "CNVD-2025-28702",
+    "publish": "2025-11-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress age-restriction plugin <=3.0.2\"]",
+    "cve": "CVE-2025-11855",
+    "description": "WordPress age-restriction plugin是用于在WordPress网站上添加年龄验证功能的插件，主要目的是限制未达到特定年龄的用户访问某些内容或功能。WordPress age-restriction plugin存在缺少授权漏洞，该漏洞源于age_restrictionRemoteSupportRequest函数缺少授权检查，攻击者可利用该漏洞导致任意认证用户创建具有硬编码用户名和任意密码的管理员账户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wpscan.com/vulnerability/1a16440e-817f-4ec2-9c70-261f6b63fb8a/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress age-restriction plugin缺少授权漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "c67e84806e2b4ad53ad10443d24ad676"
+}

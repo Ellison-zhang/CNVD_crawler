@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-19 03:25:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28703",
+    "spider_time": 1763522726856,
+    "name": "WordPress Case Addons plugin文件上传漏洞",
+    "cnvd": "CNVD-2025-28703",
+    "publish": "2025-11-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress Case Addons plugin <1.3.0\"]",
+    "cve": "CVE-2025-62047",
+    "description": "WordPress Case Addons plugin是一个为Elementor页面构建器设计的插件，提供多种功能组件和模板，用于增强网站设计和内容展示。WordPress Case Addons plugin存在文件上传漏洞，该漏洞源于应用对上传的文件缺少有效的验证。攻击者可利用该漏洞上传恶意文件从而远程执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/case-addons/vulnerability/wordpress-case-addons-plugin-1-3-0-arbitrary-file-upload-vulnerability",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress Case Addons plugin文件上传漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-11",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "b7e69e90f2394d574f7a23a28c1de4a5"
+}

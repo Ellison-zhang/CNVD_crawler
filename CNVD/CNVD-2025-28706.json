@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-19 03:25:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28706",
+    "spider_time": 1763522742409,
+    "name": "WordPress Dessau plugin文件包含漏洞",
+    "cnvd": "CNVD-2025-28706",
+    "publish": "2025-11-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Dessau plugin <1.9\"]",
+    "cve": "CVE-2025-39463",
+    "description": "WordPress Dessau plugin是一个用于WordPress网站的扩展工具，主要用于SEO优化和内容管理。WordPress Dessau plugin存在文件包含漏洞，该漏洞源于对包含或引用语句的文件名控制不当，攻击者可利用该漏洞导致PHP本地文件包含。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Theme/dessau/vulnerability/wordpress-dessau-theme-1-9-local-file-inclusion-vulnerability",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress Dessau plugin文件包含漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-11",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "74a92dee4b1f02b5865a91c5a77b6ed2"
+}

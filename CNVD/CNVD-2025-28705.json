@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-19 03:25:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28705",
+    "spider_time": 1763522735562,
+    "name": "WordPress Cost Calculator Builder plugin缺少授权漏洞",
+    "cnvd": "CNVD-2025-28705",
+    "publish": "2025-11-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress Cost Calculator Builder plugin <=3.5.32\"]",
+    "cve": "CVE-2025-62049",
+    "description": "WordPress Cost Calculator Builder plugin是一款用于创建成本计算器的工具，支持多种样式和功能，适用于电子商务、报价单等场景。WordPress Cost Calculator Builder plugin存在缺少授权漏洞，攻击者可利用该漏洞导致未经授权的访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/cost-calculator-builder/vulnerability/wordpress-cost-calculator-builder-plugin-3-5-32-broken-access-control-vulnerability",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/cost-calculator-builder/",
+    "patch": "WordPress Cost Calculator Builder plugin缺少授权漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-11",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "264525455beba0d959e4401b39de5d8a"
+}

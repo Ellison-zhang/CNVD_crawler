@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-19 03:25:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28704",
+    "spider_time": 1763522731519,
+    "name": "WordPress Contest Gallery plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-28704",
+    "publish": "2025-11-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"WordPress Contest Gallery plugin <=28.0.0\"]",
+    "cve": "CVE-2025-62950",
+    "description": "WordPress Contest Gallery plugin是一款用于创建和管理在线竞赛画廊的工具，支持图片、视频、音频等多种文件类型的上传、投票和展示功能。WordPress Contest Gallery plugin存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/contest-gallery/vulnerability/wordpress-contest-gallery-plugin-28-0-0-cross-site-request-forgery-csrf-vulnerability",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/contest-gallery/",
+    "patch": "WordPress Contest Gallery plugin跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-11",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "19c104fcae12748343ee0111abbfc4aa"
+}

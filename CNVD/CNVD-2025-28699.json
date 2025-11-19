@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-19 03:28:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28699",
+    "spider_time": 1763522886318,
+    "name": "Tenda AC10U formWifiBasicSet函数堆栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-28699",
+    "publish": "2025-11-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda AC10U v1.0 US_AC10UV1.0RTL_V15.03.06.49_multi_TDE01\"]",
+    "cve": "CVE-2023-44020",
+    "description": "Tenda AC10U是腾达科技推出的双频千兆无线路由器，专为200兆及以上光纤家庭设计，支持802.11ac双频技术（2.4GHz和5GHz），理论WiFi速率可达867Mbps。Tenda AC10U存在堆栈缓冲区溢出漏洞，该漏洞源于formWifiBasicSet函数中security参数的处理不当。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/aixiao0621/Tenda/blob/main/AC10U/9/0.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tendacn.com/",
+    "patch": "Tenda AC10U formWifiBasicSet函数堆栈缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-09-28",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "e83bfc6a635cdf1d5d094b1503ea1db4"
+}
