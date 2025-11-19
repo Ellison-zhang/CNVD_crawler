@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-19 16:16:32",
+    "parse_time": "2025-11-19 17:09:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28691",
-    "spider_time": 1763568992489,
+    "spider_time": 1763572140825,
     "name": "Tenda AC10U fromWizardHandle方法堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-28691",
     "publish": "2025-11-17",
