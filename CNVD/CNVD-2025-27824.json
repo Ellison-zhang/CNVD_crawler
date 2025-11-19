@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-18 18:08:21",
+    "parse_time": "2025-11-19 00:32:23",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27824",
-    "spider_time": 1763489301695,
+    "spider_time": 1763512343201,
     "name": "Simple Pizza Ordering System /salesreport.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-27824",
     "publish": "2025-11-12",
