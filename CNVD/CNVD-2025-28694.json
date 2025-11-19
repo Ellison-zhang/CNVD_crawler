@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-19 05:09:37",
+    "parse_time": "2025-11-19 06:12:45",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28694",
-    "spider_time": 1763528977229,
+    "spider_time": 1763532765046,
     "name": "Tenda AC10U fromSetIpMacBind函数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-28694",
     "publish": "2025-11-17",
