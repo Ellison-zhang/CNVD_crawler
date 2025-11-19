@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-19 10:08:52",
+    "parse_time": "2025-11-19 11:08:37",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28698",
-    "spider_time": 1763546932621,
+    "spider_time": 1763550517533,
     "name": "Tenda AC10U add_white_node函数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-28698",
     "publish": "2025-11-17",

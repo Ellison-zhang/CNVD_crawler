@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-19 10:08:38",
+    "parse_time": "2025-11-19 11:08:26",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28693",
-    "spider_time": 1763546918880,
+    "spider_time": 1763550506355,
     "name": "Tenda AC10U formSetMacFilterCfg函数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-28693",
     "publish": "2025-11-17",
