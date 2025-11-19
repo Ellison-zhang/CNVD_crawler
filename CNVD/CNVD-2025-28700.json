@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-19 06:13:17",
+    "parse_time": "2025-11-19 07:23:56",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28700",
-    "spider_time": 1763532797784,
+    "spider_time": 1763537036023,
     "name": "Tenda AC10U formSetClientState函数栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-28700",
     "publish": "2025-11-17",

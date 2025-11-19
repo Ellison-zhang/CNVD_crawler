@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-19 06:05:21",
+    "parse_time": "2025-11-19 07:04:23",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28639",
-    "spider_time": 1763532321912,
+    "spider_time": 1763535863401,
     "name": "Adobe Format Plugins堆缓冲区溢出漏洞（CNVD-2025-28639）",
     "cnvd": "CNVD-2025-28639",
     "publish": "2025-11-18",
