@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-19 03:28:06",
+    "parse_time": "2025-11-19 04:10:11",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28699",
-    "spider_time": 1763522886318,
+    "spider_time": 1763525411294,
     "name": "Tenda AC10U formWifiBasicSet函数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-28699",
     "publish": "2025-11-17",

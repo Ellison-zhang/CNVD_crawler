@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-19 04:05:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28730",
+    "spider_time": 1763525121596,
+    "name": "WordPress插件Astra Security Suite – Firewall & Malware Scan授权问题漏洞",
+    "cnvd": "CNVD-2025-28730",
+    "publish": "2025-11-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Astra Security Suite \\u2013 Firewall & Malware Scan plugin <=0.2\"]",
+    "cve": "CVE-2025-11521",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件Astra Security Suite – Firewall & Malware Scan存在授权问题漏洞，该漏洞源于远程URL验证不足和密钥可猜测，攻击者可利用该漏洞导致任意文件上传和远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-11521",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://wordpress.org/plugins/getastra/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "77246fb7478e356469ce3e83f751a55a"
+}
