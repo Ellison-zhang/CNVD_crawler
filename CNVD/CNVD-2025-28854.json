@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-20 22:14:48",
+    "parse_time": "2025-11-20 23:13:30",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28854",
-    "spider_time": 1763676888810,
+    "spider_time": 1763680410334,
     "name": "Tenda AX3 form_fast_setting_wifi_set函数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-28854",
     "publish": "2025-11-19",

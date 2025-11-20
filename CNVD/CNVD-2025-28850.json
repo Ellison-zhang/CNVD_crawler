@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-20 22:14:27",
+    "parse_time": "2025-11-20 23:13:06",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28850",
-    "spider_time": 1763676867657,
+    "spider_time": 1763680386235,
     "name": "Tenda AX3 fromSetSysTime函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-28850",
     "publish": "2025-11-19",
