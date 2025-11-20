@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-20 08:05:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28944",
+    "spider_time": 1763625947353,
+    "name": "Student Information System /index.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-28944",
+    "publish": "2025-11-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Student Information System Student Information System 2.0\"]",
+    "cve": "CVE-2025-13241",
+    "description": "Student Information System是一个学生信息系统。Student Information System存在SQL注入漏洞，该漏洞源于/index.php文件中对Username参数未进行安全过滤。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.332567\nhttps://vuldb.com/?ctiid.332567\nhttps://vuldb.com/?submit.687526\nhttps://github.com/asd1238525/cve/blob/main/SQL13.md\nhttps://code-projects.org/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-11-20",
+    "update_time": "2025-11-20",
+    "data_summary": "57eb32cca591d6f854a8e00687772b00"
+}
