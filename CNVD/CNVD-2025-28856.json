@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-20 09:09:22",
+    "parse_time": "2025-11-20 21:07:38",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28856",
-    "spider_time": 1763629762822,
+    "spider_time": 1763672858753,
     "name": "Tenda AX3 SetFirewallCfg缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-28856",
     "publish": "2025-11-19",
