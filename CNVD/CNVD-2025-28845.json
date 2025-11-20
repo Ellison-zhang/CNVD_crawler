@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-20 10:18:12",
+    "parse_time": "2025-11-20 11:06:50",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28845",
-    "spider_time": 1763633892444,
+    "spider_time": 1763636810618,
     "name": "Tenda AX3 wlSetExternParameter函数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-28845",
     "publish": "2025-11-19",
