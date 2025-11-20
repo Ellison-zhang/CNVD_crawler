@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-20 08:08:59",
+    "parse_time": "2025-11-20 09:08:56",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28851",
-    "spider_time": 1763626139965,
+    "spider_time": 1763629736997,
     "name": "Tenda AX3 saveParentControlInfo函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-28851",
     "publish": "2025-11-19",

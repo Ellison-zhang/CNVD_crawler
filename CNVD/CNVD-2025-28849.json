@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-20 08:08:51",
+    "parse_time": "2025-11-20 09:08:45",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28849",
-    "spider_time": 1763626131116,
+    "spider_time": 1763629725322,
     "name": "Tenda AX3 fromAdvSetMacMtuWan函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-28849",
     "publish": "2025-11-19",
