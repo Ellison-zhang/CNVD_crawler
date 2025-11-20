@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-20 16:07:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28726",
+    "spider_time": 1763654856555,
+    "name": "Netgear SPH200D目录遍历漏洞",
+    "cnvd": "CNVD-2025-28726",
+    "publish": "2025-11-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"NETGEAR SPH200D <=1.0.4.80\"]",
+    "cve": "CVE-2013-10063",
+    "description": "Netgear SPH200D是美国网件（Netgear）公司的一款无线网络电话。Netgear SPH200D存在目录遍历漏洞，攻击者可利用该漏洞通过发送精心编制的URL请求来查看系统上的任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2013-10063",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttp://support.netgear.com/product/SPH200D",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-08-11",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "2c8fdfa4e079eef067cd226d45e94ef3"
+}
