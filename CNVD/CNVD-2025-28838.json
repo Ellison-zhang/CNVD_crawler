@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-20 07:05:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28838",
+    "spider_time": 1763622308654,
+    "name": "WordPress Payments Braintree For WooCommerce plugin授权绕过漏洞",
+    "cnvd": "CNVD-2025-28838",
+    "publish": "2025-11-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress Payments Braintree For WooCommerce plugin <=3.2.78\"]",
+    "cve": "CVE-2025-12903",
+    "description": "WordPress Payments Braintree For WooCommerce plugin是一个专为WordPress网站设计的支付插件，支持通过PayPal和信用卡两种方式完成支付。WordPress Payments Braintree For WooCommerce plugin存在授权绕过漏洞，该漏洞源于缺少能力检查，攻击者可利用该漏洞导致检索支付方法随机数并创建欺诈交易。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://developer.wordpress.org/rest-api/using-the-rest-api/authentication/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/woo-payment-gateway/",
+    "patch": "WordPress Payments Braintree For WooCommerce plugin授权绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-11-20",
+    "update_time": "2025-11-20",
+    "data_summary": "5c8e4c01a7a26df64a5b11b80738f76e"
+}

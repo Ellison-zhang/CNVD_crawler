@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-20 07:04:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28828",
+    "spider_time": 1763622264882,
+    "name": "WordPress Qi Blocks plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-28828",
+    "publish": "2025-11-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"WordPress Qi Blocks plugin <=1.4.3\"]",
+    "cve": "CVE-2025-64383",
+    "description": "WordPress Qi Blocks plugin是QodeInteractive开发的WordPress区块插件，提供48个免费区块和33个高级区块（总计81个），涵盖排版、信息图表、表单样式、内容展示等类别，支持高度自定义和灵活的网站构建功能。WordPress Qi Blocks plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/qi-blocks/vulnerability/wordpress-qi-blocks-plugin-1-4-3-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/qi-blocks/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-11-20",
+    "update_time": "2025-11-20",
+    "data_summary": "f581ed899f9e672871ca8d16e4691cb2"
+}

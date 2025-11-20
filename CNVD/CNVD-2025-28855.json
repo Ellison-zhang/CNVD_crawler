@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-20 07:11:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28855",
+    "spider_time": 1763622673538,
+    "name": "Tenda AC18 setUsbUnload函数命令注入漏洞",
+    "cnvd": "CNVD-2025-28855",
+    "publish": "2025-11-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda AC18 v15.03.05.19(6318_)_cn\"]",
+    "cve": "CVE-2023-30135",
+    "description": "Tenda AC18是深圳市吉祥腾达科技有限公司于2016年7月推出的双频无线路由器，主要面向别墅及大户型家庭用户。Tenda AC18存在命令注入漏洞，该漏洞源于通过setUsbUnload函数中的deviceName参数存在命令注入漏洞。攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/DrizzlingSun/Tenda/blob/main/AC18/8/8.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-05-08",
+    "open_time": "2025-11-20",
+    "update_time": "2025-11-20",
+    "data_summary": "ce83ecb9b0b7b7f90d632caaed9d7cd0"
+}

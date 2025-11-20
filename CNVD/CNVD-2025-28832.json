@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-20 07:04:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28832",
+    "spider_time": 1763622282099,
+    "name": "WordPress Survey Maker plugin未授权访问漏洞",
+    "cnvd": "CNVD-2025-28832",
+    "publish": "2025-11-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"WordPress Survey Maker plugin <=5.1.9.4\"]",
+    "cve": "CVE-2025-12891",
+    "description": "WordPress Survey Maker plugin是一款用于创建问卷调查的工具，支持多种题型和数据分析功能，适用于企业或个人收集用户反馈。WordPress Survey Maker plugin存在未授权访问漏洞，该漏洞源于ays_survey_show_results AJAX端点缺少能力检查，攻击者可利用该漏洞导致未授权访问数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/changeset/3394078/survey-maker/tags/5.1.9.5/admin/class-survey-maker-admin.php?old=3389474&old_path=survey-maker%2Ftags%2F5.1.9.4%2Fadmin%2Fclass-survey-maker-admin.php",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/survey-maker",
+    "patch": "WordPress Survey Maker plugin未授权访问漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-11-20",
+    "update_time": "2025-11-20",
+    "data_summary": "1651bf4ad20c6691d8d1532ad7c04d55"
+}

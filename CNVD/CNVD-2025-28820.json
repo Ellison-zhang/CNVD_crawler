@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-20 07:06:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28820",
+    "spider_time": 1763622399493,
+    "name": "Student Record System change-password.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-28820",
+    "publish": "2025-11-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Student Record System Student Record System v3.20\"]",
+    "cve": "CVE-2024-44633",
+    "description": "Student Record System是一个应用软件。Student Record System存在SQL注入漏洞，该漏洞源于change-password.php中currentpassword参数缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/leexsoyoung/CVEs/blob/main/CVE-2024-44633.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/student-record-system-php",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-11-20",
+    "update_time": "2025-11-20",
+    "data_summary": "ca39e747b0a7b1cceb0ab6a59b0f6aed"
+}

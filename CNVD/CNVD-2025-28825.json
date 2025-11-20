@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-20 07:04:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28825",
+    "spider_time": 1763622248741,
+    "name": "WordPress Data Tables Generator by Supsystic plugin任意文件删除漏洞",
+    "cnvd": "CNVD-2025-28825",
+    "publish": "2025-11-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:C/A:C",
+    "product": "[\"WordPress Data Tables Generator by Supsystic plugin <=1.10.45\"]",
+    "cve": "CVE-2025-12089",
+    "description": "WordPress Data Tables Generator by Supsystic plugin是WordPress插件，用于创建可交互的表格和图表，支持数据可视化和动态内容展示。WordPress Data Tables Generator by Supsystic plugin存在任意文件删除漏洞，该漏洞源于cleanCache函数中文件路径验证不足，攻击者可利用该漏洞导致任意文件删除。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&old=3394112%40data-tables-generator-by-supsystic&new=3394112%40data-tables-generator-by-supsystic&sfp_email=&sfph_mail=",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/data-tables-generator-by-supsystic",
+    "patch": "WordPress Data Tables Generator by Supsystic plugin任意文件删除漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-11-20",
+    "update_time": "2025-11-20",
+    "data_summary": "f37a9c891b49166c8a77ae071cab0264"
+}
