@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-20 09:08:02",
+    "parse_time": "2025-11-20 10:15:05",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28841",
-    "spider_time": 1763629682172,
+    "spider_time": 1763633705213,
     "name": "Tenda AX-1803 sub_4F55C函数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-28841",
     "publish": "2025-11-19",
