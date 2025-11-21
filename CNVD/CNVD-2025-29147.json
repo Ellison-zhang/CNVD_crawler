@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-21 08:10:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29147",
+    "spider_time": 1763712618539,
+    "name": "Azure Access Technology BLU-IC2和Azure Access Technology BLU-IC4跨站脚本漏洞",
+    "cnvd": "CNVD-2025-29147",
+    "publish": "2025-11-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Azure Access Technology BLU-IC2 <=1.19.5\", \"Azure Access Technology BLU-IC4 <=1.19.5\"]",
+    "cve": "CVE-2025-12284",
+    "description": "Azure Access Technology BLU-IC2和Azure Access Technology BLU-IC4都是美国Azure Access Technology公司的一种网络门禁控制器。Azure Access Technology BLU-IC2和Azure Access Technology BLU-IC4存在跨站脚本漏洞，该漏洞是由于对用户提供的输入验证不当造成的。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-12284",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://azure-access.com/security-advisories",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-31",
+    "open_time": "2025-11-21",
+    "update_time": "2025-11-21",
+    "data_summary": "d3b60a3bfa96d92164258e5018ac80c0"
+}

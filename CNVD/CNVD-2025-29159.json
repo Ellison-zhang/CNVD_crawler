@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-21 08:08:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29159",
+    "spider_time": 1763712497319,
+    "name": "Fortinet FortiWeb信任管理问题漏洞",
+    "cnvd": "CNVD-2025-29159",
+    "publish": "2025-11-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Fortinet FortiWeb >=7.0.0\\uff0c<7.6.1\"]",
+    "cve": "CVE-2025-59669",
+    "description": "Fortinet FortiWeb是美国飞塔（Fortinet）公司的一款Web应用层防火墙，它能够阻断如跨站点脚本、SQL注入、Cookie中毒、schema中毒等攻击的威胁，保证Web应用程序的安全性并保护敏感的数据库内容。Fortinet FortiWeb存在信任管理问题漏洞，该漏洞源于使用硬编码凭证，攻击者可利用该漏洞导致访问redis服务数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-59669",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-25-843",
+    "patch": "Fortinet FortiWeb信任管理问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2025-11-21",
+    "update_time": "2025-11-21",
+    "data_summary": "e054e987a3c6ea3554a96646c28ff06c"
+}

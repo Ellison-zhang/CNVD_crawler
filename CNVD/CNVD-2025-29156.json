@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-21 08:09:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29156",
+    "spider_time": 1763712571652,
+    "name": "Fortinet FortiADC缓冲区溢出漏洞（CNVD-2025-29156）",
+    "cnvd": "CNVD-2025-29156",
+    "publish": "2025-11-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Fortinet FortiADC 8.0.0\", \"Fortinet FortiADC >=7.6.0\\uff0c<=7.6.2\", \"Fortinet FortiADC >=6.2.0\\uff0c<7.4.8\"]",
+    "cve": "CVE-2025-48839",
+    "description": "Fortinet FortiADC是美国飞塔（Fortinet）公司的一款应用交付控制器。Fortinet FortiADC存在缓冲区溢出漏洞，该漏洞源于应用在处理不受信任的输入时出现边界错误。攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-48839",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-25-225",
+    "patch": "Fortinet FortiADC缓冲区溢出漏洞（CNVD-2025-29156）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2025-11-21",
+    "update_time": "2025-11-21",
+    "data_summary": "5338f96d75747664850a20b68991cf84"
+}

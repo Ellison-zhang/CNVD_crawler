@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-21 08:08:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29136",
+    "spider_time": 1763712510203,
+    "name": "WordPress Like-it plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-29136",
+    "publish": "2025-11-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress Like-it plugin <=2.2\"]",
+    "cve": "CVE-2025-12404",
+    "description": "WordPress Like-it plugin是为WordPress博客添加点赞功能的扩展工具，允许用户对文章或评论进行点赞操作。WordPress Like-it plugin存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/like-it/tags/2.2/like-it.php#L130",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2025-11-21",
+    "update_time": "2025-11-21",
+    "data_summary": "f44ccb34dd5519777558427907d54165"
+}

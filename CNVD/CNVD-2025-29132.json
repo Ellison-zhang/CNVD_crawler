@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-21 08:09:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29132",
+    "spider_time": 1763712582851,
+    "name": "WordPress CSV to SortTable plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-29132",
+    "publish": "2025-11-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress CSV to SortTable plugin <=4.2\"]",
+    "cve": "CVE-2025-12823",
+    "description": "WordPress CSV to SortTable plugin是WordPress插件，用于将CSV文件转换为可交互的排序表格。WordPress CSV to SortTable plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wordpress.com/plugins/csv-to-sorttable",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2025-11-21",
+    "update_time": "2025-11-21",
+    "data_summary": "e18ceda7670d3e0a57c7062907a0e9f1"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-21 08:09:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29158",
+    "spider_time": 1763712541677,
+    "name": "Fortinet FortiExtender缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-29158",
+    "publish": "2025-11-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Fortinet FortiExtender >=7.0.0\\uff0c<7.4.8\", \"Fortinet FortiExtender >=7.6.0\\uff0c<7.6.3\"]",
+    "cve": "CVE-2025-46776",
+    "description": "Fortinet FortiExtender是美国飞塔（Fortinet）公司的一款无线WAN（广域网）扩展器设备。Fortinet FortiExtender存在缓冲区溢出漏洞，该漏洞源于未检查输入大小的缓冲区复制，攻击者可利用该漏洞导致认证用户通过特制CLI命令执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-46776",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-25-251",
+    "patch": "Fortinet FortiExtender缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2025-11-21",
+    "update_time": "2025-11-21",
+    "data_summary": "832c80132836b54fc24e7ff137177964"
+}
