@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-21 09:07:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29168",
+    "spider_time": 1763716035201,
+    "name": "Apple iOS和iPadOS边界检查不足漏洞",
+    "cnvd": "CNVD-2025-29168",
+    "publish": "2025-11-21",
+    "severity": "低",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"Apple iOS <26.1\", \"Apple iPadOS <26.1\"]",
+    "cve": "CVE-2025-43424",
+    "description": "Apple iOS是一套为移动设备所开发的操作系统。Apple iPadOS是一套用于iPad平板电脑的操作系统。Apple iOS和iPadOS存在边界检查不足漏洞，攻击者可利用该漏洞导致恶意HID设备引发进程崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43424",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://support.apple.com/en-us/125632",
+    "patch": "Apple iOS和iPadOS边界检查不足漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-10",
+    "open_time": "2025-11-21",
+    "update_time": "2025-11-21",
+    "data_summary": "3e532faa765162a3d62ffcf618b06e0b"
+}
