@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-20 23:13:20",
+    "parse_time": "2025-11-21 00:17:24",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28855",
-    "spider_time": 1763680400357,
+    "spider_time": 1763684244220,
     "name": "Tenda AC18 setUsbUnload函数命令注入漏洞",
     "cnvd": "CNVD-2025-28855",
     "publish": "2025-11-19",

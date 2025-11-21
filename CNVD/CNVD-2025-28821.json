@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-20 23:12:46",
+    "parse_time": "2025-11-21 00:16:49",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28821",
-    "spider_time": 1763680366828,
+    "spider_time": 1763684209941,
     "name": "Student Record System password-recovery.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-28821",
     "publish": "2025-11-19",
