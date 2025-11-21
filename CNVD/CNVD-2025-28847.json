@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-21 00:17:29",
+    "parse_time": "2025-11-21 01:35:02",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28847",
-    "spider_time": 1763684249129,
+    "spider_time": 1763688902334,
     "name": "Tenda W12空指针取消引用漏洞",
     "cnvd": "CNVD-2025-28847",
     "publish": "2025-11-19",
