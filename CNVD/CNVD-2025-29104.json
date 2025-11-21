@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-21 04:12:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29104",
+    "spider_time": 1763698354905,
+    "name": "WordPress Booster for WooCommerce Plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-29104",
+    "publish": "2025-11-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"WordPress Booster for WooCommerce Plugin <=7.3.2\"]",
+    "cve": "CVE-2025-64380",
+    "description": "WordPress Booster for WooCommerce Plugin是专为WooCommerce电商平台设计的多功能插件，提供100多项功能‌，包括PDF发票、产品变体、愿望清单等工具，旨在简化电商运营并提升用户体验。WordPress Booster for WooCommerce Plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/woocommerce-jetpack/vulnerability/wordpress-booster-for-woocommerce-plugin-7-3-2-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/woocommerce-jetpack/",
+    "patch": "WordPress Booster for WooCommerce Plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-11-21",
+    "update_time": "2025-11-21",
+    "data_summary": "e87e6f1a985bf6c51a4afb630e29a22e"
+}

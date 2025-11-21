@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-21 04:09:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29124",
+    "spider_time": 1763698198760,
+    "name": "Responsive Hotel Site newsletter.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-29124",
+    "publish": "2025-11-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Responsive Hotel Site Responsive Hotel Site 1.0\"]",
+    "cve": "CVE-2024-13008",
+    "description": "Responsive Hotel Site是一个响应式酒店网站。Responsive Hotel Site存在SQL注入漏洞，该漏洞源于文件/admin/newsletter.php对eid参数的输入验证不足。攻击者可利用该漏洞获取敏感信息或进行其他恶意操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-13008",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-30",
+    "open_time": "2025-11-21",
+    "update_time": "2025-11-21",
+    "data_summary": "b0203fa85eb6971c39bb9abb726ac6f6"
+}

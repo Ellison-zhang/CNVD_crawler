@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-21 04:04:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29122",
+    "spider_time": 1763697895133,
+    "name": "Responsive Hotel Site roomdel.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-29122",
+    "publish": "2025-11-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"Responsive Hotel Site Responsive Hotel Site 1.0\"]",
+    "cve": "CVE-2025-12913",
+    "description": "Responsive Hotel Site是一个响应式酒店网站。Responsive Hotel Site存在SQL注入漏洞，该漏洞源于/admin/roomdel.php文件对ID参数处理不当，未能正确验证和过滤用户输入。攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-12913",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-12",
+    "open_time": "2025-11-21",
+    "update_time": "2025-11-21",
+    "data_summary": "5dce30bdbd93c62ccf6c85a29dd34091"
+}
