@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-25 19:04:25",
+    "parse_time": "2025-11-25 20:04:46",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29320",
-    "spider_time": 1764097465329,
+    "spider_time": 1764101086795,
     "name": "D-Link DAP-1325 SetAPLanSettings堆栈缓冲区溢出远程代码执行漏洞",
     "cnvd": "CNVD-2025-29320",
     "publish": "2025-11-24",
