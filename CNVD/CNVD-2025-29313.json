@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-25 05:07:19",
+    "parse_time": "2025-11-25 06:08:57",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29313",
-    "spider_time": 1764047239115,
+    "spider_time": 1764050937547,
     "name": "D-Link DAP-1325 secondaryDNS命令注入远程代码执行漏洞",
     "cnvd": "CNVD-2025-29313",
     "publish": "2025-11-24",
