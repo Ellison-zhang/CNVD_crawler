@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-25 04:24:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29293",
+    "spider_time": 1764044681322,
+    "name": "WordPress Code Snippets plugin代码注入漏洞",
+    "cnvd": "CNVD-2025-29293",
+    "publish": "2025-11-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress Code Snippets plugin <=3.9.1\"]",
+    "cve": "CVE-2025-13035",
+    "description": "WordPress Code Snippets plugin是一款专为WordPress设计的插件，用于便捷地添加和管理自定义代码片段，无需直接修改主题文件。WordPress Code Snippets plugin存在代码注入漏洞，该漏洞源于evaluate_shortcode_from_flat_file方法对攻击者控制的短码属性使用extract函数，覆盖$filepath变量，随后传给require_once。攻击者可利用该漏洞导致PHP代码注入攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/code-snippets/tags/3.8.1/php/front-end/class-front-end.php#L295",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/code-snippets",
+    "patch": "WordPress Code Snippets plugin代码注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-21",
+    "open_time": "2025-11-25",
+    "update_time": "2025-11-25",
+    "data_summary": "b5e683e9b0760a30812038671bd35129"
+}

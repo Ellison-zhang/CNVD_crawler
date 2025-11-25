@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-25 04:24:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29301",
+    "spider_time": 1764044664808,
+    "name": "WordPress Live sales notification for WooCommerce plugin缺少授权漏洞",
+    "cnvd": "CNVD-2025-29301",
+    "publish": "2025-11-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress Live sales notification for WooCommerce plugin <=2.3.39\"]",
+    "cve": "CVE-2025-12955",
+    "description": "WordPress Live sales notification for WooCommerce plugin是为WooCommerce电商平台设计的实时销售通知工具，通过弹窗展示近期购买记录，利用社交证明提升用户信任度和转化率。WordPress Live sales notification for WooCommerce plugin存在缺少授权漏洞，该漏洞源于getOrders函数在插件配置为显示最近订单信息时缺乏适当的授权和权限检查，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=3394241%40live-sales-notifications-for-woocommerce&old=3389540%40live-sales-notifications-for-woocommerce&sfp_email=&sfph_mail=",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/live-sales-notifications-for-woocommerce/",
+    "patch": "WordPress Live sales notification for WooCommerce plugin缺少授权漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2025-11-25",
+    "update_time": "2025-11-25",
+    "data_summary": "3c31594277ce80bc495083c62279d2d6"
+}

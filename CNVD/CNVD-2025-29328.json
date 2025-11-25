@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-25 04:08:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29328",
+    "spider_time": 1764043690127,
+    "name": "Apple macOS Sequoia权限问题漏洞",
+    "cnvd": "CNVD-2025-29328",
+    "publish": "2025-11-24",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Apple macOS Sequoia <15.7.2\"]",
+    "cve": "CVE-2025-43387",
+    "description": "Apple macOS Sequoia是苹果公司于2024年6月10日在WWDC24开发者大会发布的操作系统。Apple macOS Sequoia存在权限问题漏洞，攻击者可利用该漏洞导致恶意应用获取root权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43387",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://support.apple.com/en-us/125635",
+    "patch": "Apple macOS Sequoia权限问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-10",
+    "open_time": "2025-11-25",
+    "update_time": "2025-11-25",
+    "data_summary": "f624704ae347e8f54481dee2fb2ab4c5"
+}
