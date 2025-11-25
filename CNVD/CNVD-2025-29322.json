@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-25 20:12:53",
+    "parse_time": "2025-11-25 21:13:05",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29322",
-    "spider_time": 1764101573728,
+    "spider_time": 1764105185433,
     "name": "D-Link DAP-1325 IPAddr堆栈缓冲区溢出远程代码执行漏洞",
     "cnvd": "CNVD-2025-29322",
     "publish": "2025-11-24",
