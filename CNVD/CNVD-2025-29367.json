@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-26 12:09:15",
+    "parse_time": "2025-11-26 13:17:31",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29367",
-    "spider_time": 1764158955194,
+    "spider_time": 1764163051952,
     "name": "Small CRM manage-tickets.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-29367",
     "publish": "2025-11-25",
