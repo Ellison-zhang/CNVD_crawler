@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-25 23:05:15",
+    "parse_time": "2025-11-26 00:18:19",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29314",
-    "spider_time": 1764111915324,
+    "spider_time": 1764116299517,
     "name": "D-Link DAP-1325 IPv6Mode命令注入远程代码执行漏洞",
     "cnvd": "CNVD-2025-29314",
     "publish": "2025-11-24",
