@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-26 05:10:29",
+    "parse_time": "2025-11-26 06:09:18",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29297",
-    "spider_time": 1764133829463,
+    "spider_time": 1764137358133,
     "name": "WordPress Checkout Files Upload for WooCommerce plugin跨站脚本漏洞",
     "cnvd": "CNVD-2025-29297",
     "publish": "2025-11-24",
