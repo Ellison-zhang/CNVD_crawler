@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-26 16:04:00",
+    "parse_time": "2025-11-26 17:03:53",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29357",
-    "spider_time": 1764173040994,
+    "spider_time": 1764176633070,
     "name": "Complaint Management System reset-password.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-29357",
     "publish": "2025-11-25",

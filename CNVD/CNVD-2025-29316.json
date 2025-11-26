@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-26 16:09:23",
+    "parse_time": "2025-11-26 17:07:39",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29316",
-    "spider_time": 1764173363133,
+    "spider_time": 1764176859841,
     "name": "D-Link DAP-1325 StaticDefaultGateway命令注入远程代码执行漏洞",
     "cnvd": "CNVD-2025-29316",
     "publish": "2025-11-24",
