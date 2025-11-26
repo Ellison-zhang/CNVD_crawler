@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-26 08:06:51",
+    "parse_time": "2025-11-26 09:05:38",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29372",
-    "spider_time": 1764144411138,
+    "spider_time": 1764147938111,
     "name": "Complaint Management System complaint-search.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-29372",
     "publish": "2025-11-25",
