@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-26 10:05:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29407",
+    "spider_time": 1764151514977,
+    "name": "Revive Adserver跨站脚本漏洞（CNVD-2025-29407）",
+    "cnvd": "CNVD-2025-29407",
+    "publish": "2025-11-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Revive Adserver Revive Adserver <=5.4.1\"]",
+    "cve": "CVE-2023-38040",
+    "description": "Revive Adserver是一款开源的广告服务系统，允许广告商、出版商和网络在多个平台上投放广告（如网站、应用程序、视频播放器），并支持广告效果跟踪、活动管理及投放规则定义。Revive Adserver存在跨站脚本漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-38040",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.revive-adserver.com/blog/revive-adserver-v5-5-0-released/",
+    "patch": "Revive Adserver跨站脚本漏洞（CNVD-2025-29407）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-09-20",
+    "open_time": "2025-11-26",
+    "update_time": "2025-11-26",
+    "data_summary": "ae4528bab2e04349b1f4e4d346843d93"
+}
