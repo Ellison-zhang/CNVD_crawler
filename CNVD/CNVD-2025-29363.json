@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-26 07:08:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29363",
+    "spider_time": 1764140904982,
+    "name": "Online Shopping Portal product-details.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-29363",
+    "publish": "2025-11-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Online Shopping Portal Online Shopping Portal v2.0\"]",
+    "cve": "CVE-2024-44664",
+    "description": "Online Shopping Portal是一个在线商店系统。Online Shopping Portal存在SQL注入漏洞，该漏洞源于product-details.php中name、summary、review、quality、price和value参数缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/leexsoyoung/CVEs/blob/main/CVE-2024-44664.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2025-11-26",
+    "update_time": "2025-11-26",
+    "data_summary": "88ec1e2aad9787985887d6531d4bd07e"
+}

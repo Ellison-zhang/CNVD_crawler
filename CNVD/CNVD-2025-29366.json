@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-26 07:06:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29366",
+    "spider_time": 1764140796511,
+    "name": "Small CRM change-password.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-29366",
+    "publish": "2025-11-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Small CRM Small CRM 3.0\"]",
+    "cve": "CVE-2024-44641",
+    "description": "Small CRM一套客户关系管理系统。Small CRM存在SQL注入漏洞，该漏洞源于change-password.php中oldpass参数缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/leexsoyoung/CVEs/blob/main/CVE-2024-44641.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2025-11-26",
+    "update_time": "2025-11-26",
+    "data_summary": "3db18426daffbd2d3110b45a749d45b3"
+}

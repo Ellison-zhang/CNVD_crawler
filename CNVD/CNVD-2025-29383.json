@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-26 07:05:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29383",
+    "spider_time": 1764140720005,
+    "name": "Mediawiki - CentralAuth Extension资源泄露漏洞",
+    "cnvd": "CNVD-2025-29383",
+    "publish": "2025-11-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"MediaWiki Mediawiki - CentralAuth Extension <1.39\"]",
+    "cve": "CVE-2025-62669",
+    "description": "Mediawiki - CentralAuth Extension是MediaWiki的扩展，专为维基媒体项目设计，用于管理跨站点的用户账户合并、锁定、重命名等操作。Mediawiki - CentralAuth Extension存在资源泄露漏洞，该漏洞源于敏感信息暴露，攻击者可利用该漏洞导致资源泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-62669",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://phabricator.wikimedia.org/T400892",
+    "patch": "Mediawiki - CentralAuth Extension资源泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-23",
+    "open_time": "2025-11-26",
+    "update_time": "2025-11-26",
+    "data_summary": "57d1210f561ca8fa147d9bd58e72dbf8"
+}

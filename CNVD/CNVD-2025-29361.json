@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-26 07:08:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29361",
+    "spider_time": 1764140918148,
+    "name": "Online Shopping Portal forgot-password.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-29361",
+    "publish": "2025-11-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Online Shopping Portal Online Shopping Portal v2.0\"]",
+    "cve": "CVE-2024-44659",
+    "description": "Online Shopping Portal是一个在线商店系统。Online Shopping Portal存在SQL注入漏洞，该漏洞源于forgot-password.php中email参数缺少对外部输入SQL语句的验证。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/leexsoyoung/CVEs/blob/main/CVE-2024-44659.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2025-11-26",
+    "update_time": "2025-11-26",
+    "data_summary": "5f67d1445a970c7ba9a1d7998f01cbc0"
+}
