@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-26 02:34:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29349",
+    "spider_time": 1764124468288,
+    "name": "Microsoft Azure权限提升漏洞（CNVD-2025-29349）",
+    "cnvd": "CNVD-2025-29349",
+    "publish": "2025-11-11",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Azure Compute Gallery\"]",
+    "cve": "CVE-2025-59291",
+    "description": "Microsoft Azure是美国微软（Microsoft）公司的一套开放的企业级云计算平台。Microsoft Azure Compute Gallery存在安全漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-59291",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59291",
+    "patch": "Microsoft Azure权限提升漏洞（CNVD-2025-29349）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-11-25",
+    "update_time": "2025-11-25",
+    "data_summary": "3ca7f72b08ecd9d612632704a59c2f00"
+}
