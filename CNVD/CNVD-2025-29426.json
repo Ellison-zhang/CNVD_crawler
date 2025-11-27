@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-27 09:08:27",
+    "parse_time": "2025-11-27 10:07:28",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29426",
-    "spider_time": 1764234507179,
+    "spider_time": 1764238048346,
     "name": "Tenda AC21 SetSysAutoRebbotCfg文件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-29426",
     "publish": "2025-11-26",
