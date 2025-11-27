@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-26 23:09:43",
+    "parse_time": "2025-11-27 00:19:39",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29318",
-    "spider_time": 1764198583079,
+    "spider_time": 1764202779402,
     "name": "D-Link DAP-1325 get_value_from_app堆栈缓冲区溢出远程代码执行漏洞",
     "cnvd": "CNVD-2025-29318",
     "publish": "2025-11-24",

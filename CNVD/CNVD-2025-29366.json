@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-26 23:04:47",
+    "parse_time": "2025-11-27 00:15:29",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29366",
-    "spider_time": 1764198287857,
+    "spider_time": 1764202529971,
     "name": "Small CRM change-password.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-29366",
     "publish": "2025-11-25",
