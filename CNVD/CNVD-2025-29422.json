@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-27 11:04:57",
+    "parse_time": "2025-11-27 12:08:25",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29422",
-    "spider_time": 1764241497869,
+    "spider_time": 1764245305034,
     "name": "Tenda AC21 setPptpUserList缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-29422",
     "publish": "2025-11-26",
