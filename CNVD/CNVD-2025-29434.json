@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-27 07:10:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29434",
+    "spider_time": 1764227412195,
+    "name": "Desktop Alert PingAlert存在未明漏洞（CNVD-2025-29434）",
+    "cnvd": "CNVD-2025-29434",
+    "publish": "2025-11-26",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:M/C:C/I:N/A:N",
+    "product": "[\"Desktop Alert PingAlert >=6.1.0.11\\uff0c<=6.1.1.2\"]",
+    "cve": "CVE-2025-54340",
+    "description": "Desktop Alert PingAlert是美国DesktopAlert公司开发的网络状态监控工具‌，主要用于实时监控网络设备状态并发送警报。Desktop Alert PingAlert存在未明漏洞，该漏洞源于应用程序服务器中存在损坏或不安全的加密算法。攻击者可利用该漏洞导致机密性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-54340",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://desktopalert.net/cve-2025-54340/",
+    "patch": "Desktop Alert PingAlert存在未明漏洞（CNVD-2025-29434）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-11-27",
+    "update_time": "2025-11-27",
+    "data_summary": "5947c9e400e8b8a150947aa20579d9d9"
+}
