@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-28 00:21:26",
+    "parse_time": "2025-11-28 01:36:30",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29369",
-    "spider_time": 1764289286798,
+    "spider_time": 1764293790353,
     "name": "Small CRM manage-tickets.php文件跨站脚本漏洞",
     "cnvd": "CNVD-2025-29369",
     "publish": "2025-11-25",
