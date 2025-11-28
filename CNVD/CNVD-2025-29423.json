@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-28 05:08:05",
+    "parse_time": "2025-11-28 06:14:02",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29423",
-    "spider_time": 1764306485103,
+    "spider_time": 1764310442300,
     "name": "Tenda AC21 saveParentControlInfo文件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-29423",
     "publish": "2025-11-26",
