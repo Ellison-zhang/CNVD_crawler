@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-28 10:04:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29552",
+    "spider_time": 1764324262604,
+    "name": "Sports Management System mode.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-29552",
+    "publish": "2025-11-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Sports Management System Sports Management System 1.0\"]",
+    "cve": "CVE-2025-9768",
+    "description": "Sports Management System一个体育管理系统。Sports Management System存在SQL注入漏洞，该漏洞源于文件/Admin/mode.php中参数code缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?submit.641753",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://itsourcecode.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-04",
+    "open_time": "2025-11-28",
+    "update_time": "2025-11-28",
+    "data_summary": "6749ddf9d33052e079f46da7425c32e4"
+}
