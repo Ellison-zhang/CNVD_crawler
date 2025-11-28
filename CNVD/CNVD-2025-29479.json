@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-28 04:06:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29479",
+    "spider_time": 1764302786626,
+    "name": "WordPress Autochat Automatic Conversation plugin未经授权修改数据漏洞",
+    "cnvd": "CNVD-2025-29479",
+    "publish": "2025-11-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Autochat Automatic Conversation plugin <=1.1.9\"]",
+    "cve": "CVE-2025-12043",
+    "description": "WordPress Autochat Automatic Conversation plugin是一款专为WordPress设计的自动聊天插件，主要用于自动化处理网站访客与商家之间的沟通。WordPress Autochat Automatic Conversation plugin存在未经授权修改数据漏洞，该漏洞源于缺少权限检查，攻击者可利用该漏洞导致未经授权的数据修改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wordpress.org/plugins/auyautochat-for-wp/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-27",
+    "open_time": "2025-11-28",
+    "update_time": "2025-11-28",
+    "data_summary": "75ae59cc31ee0c4017b672f6394f8dde"
+}

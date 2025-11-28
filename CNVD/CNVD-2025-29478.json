@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-28 04:06:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29478",
+    "spider_time": 1764302781640,
+    "name": "WordPress AI Feeds plugin任意文件上传漏洞",
+    "cnvd": "CNVD-2025-29478",
+    "publish": "2025-11-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress AI Feeds plugin <=1.0.11\"]",
+    "cve": "CVE-2025-13597",
+    "description": "WordPress AI Feeds plugin是一个开源软件，主要用于生成和管理博客的Feed。WordPress AI Feeds plugin存在任意文件上传漏洞，该漏洞源于应用对上传的文件缺少有效的验证。攻击者可利用该漏洞上传恶意文件从而远程执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/d0n601/CVE-2025-13597",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/ai-feeds",
+    "patch": "WordPress AI Feeds plugin任意文件上传漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-27",
+    "open_time": "2025-11-28",
+    "update_time": "2025-11-28",
+    "data_summary": "49bc0a9cb879a1177e62fbd282e5a8f2"
+}

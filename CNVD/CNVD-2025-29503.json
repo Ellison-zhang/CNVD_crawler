@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-28 04:05:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29503",
+    "spider_time": 1764302737939,
+    "name": "WordPress AuthorSure plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-29503",
+    "publish": "2025-11-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress AuthorSure plugin <=2.3\"]",
+    "cve": "CVE-2025-13134",
+    "description": "WordPress AuthorSure plugin是为WordPress平台设计的开源插件，主要用于管理多作者网站的投稿流程。WordPress AuthorSure plugin存在跨站请求伪造漏洞，该漏洞源于authorsure页面缺少随机数验证，攻击者可利用该漏洞更新设置并注入恶意网页脚本，伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://drive.google.com/file/d/1ZVmQSyjgRxNVGef7Zkzdws8kLraxOt59/view?pli=1",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-25",
+    "open_time": "2025-11-28",
+    "update_time": "2025-11-28",
+    "data_summary": "12d57a23fcba7e6820d1ff8f120d6e4d"
+}

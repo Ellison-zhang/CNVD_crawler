@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-28 04:07:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29487",
+    "spider_time": 1764302821938,
+    "name": "WordPress Just Highlight plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-29487",
+    "publish": "2025-11-27",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:M/C:P/I:P/A:N",
+    "product": "[\"WordPress Just Highlight plugin <=1.0.3\"]",
+    "cve": "CVE-2025-13311",
+    "description": "WordPress Just Highlight plugin是一个WordPress插件，主要用于在文章或页面中高亮显示代码片段，支持语法高亮功能。WordPress Just Highlight plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/just-highlight/tags/1.0.3/just-highlight.php#L169",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-27",
+    "open_time": "2025-11-28",
+    "update_time": "2025-11-28",
+    "data_summary": "77a1d02e0bd58c1b1899a04efa147fa1"
+}

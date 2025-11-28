@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-28 04:05:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29502",
+    "spider_time": 1764302734946,
+    "name": "WordPress AudioTube plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-29502",
+    "publish": "2025-11-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress AudioTube plugin <=0.0.3\"]",
+    "cve": "CVE-2025-11801",
+    "description": "WordPress AudioTube plugin是WordPress平台上的一个开源音频播放器插件，主要用于在网站上嵌入和播放音频内容。WordPress AudioTube plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/audiotube/tags/0.0.3/index.php#L64",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-25",
+    "open_time": "2025-11-28",
+    "update_time": "2025-11-28",
+    "data_summary": "9dcd148127649ed8e67c49ecc2d5ea2d"
+}

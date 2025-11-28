@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-28 04:06:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29486",
+    "spider_time": 1764302816191,
+    "name": "WordPress Job Board by BestWebSoft plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-29486",
+    "publish": "2025-11-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress Job Board by BestWebSoft plugin <=1.2.1\"]",
+    "cve": "CVE-2025-13383",
+    "description": "WordPress Job Board by BestWebSoft plugin是WordPress插件，用于创建和管理职位发布功能。WordPress Job Board by BestWebSoft plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/job-board/tags/1.2.1/job-board.php#L1680",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-27",
+    "open_time": "2025-11-28",
+    "update_time": "2025-11-28",
+    "data_summary": "4d49af7e4ef0f03838a33e268b8429ad"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-28 04:06:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29476",
+    "spider_time": 1764302770664,
+    "name": "WordPress Admin and Customer Messages After Order for WooCommerce: OrderConvo plugin缺失授权漏洞",
+    "cnvd": "CNVD-2025-29476",
+    "publish": "2025-11-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"WordPress Admin and Customer Messages After Order for WooCommerce: OrderConvo plugin <=14\"]",
+    "cve": "CVE-2025-13452",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Admin and Customer Messages After Order for WooCommerce: OrderConvo plugin存在缺失授权漏洞，该漏洞源于权限检查缺陷，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/admin-and-client-message-after-order-for-woocommerce/tags/14/includes/wprest.class.php#L113",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-27",
+    "open_time": "2025-11-28",
+    "update_time": "2025-11-28",
+    "data_summary": "5f30da96ae0322648a1e6de00791c028"
+}
