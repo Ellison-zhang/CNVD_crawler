@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-28 08:08:54",
+    "parse_time": "2025-11-28 09:12:02",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29424",
-    "spider_time": 1764317334359,
+    "spider_time": 1764321122453,
     "name": "Tenda AC21 SetVirtualServerCfg文件缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-29424",
     "publish": "2025-11-26",
