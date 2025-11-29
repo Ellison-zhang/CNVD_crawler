@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-29 03:25:35",
+    "parse_time": "2025-11-29 04:05:18",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29484",
-    "spider_time": 1764386735513,
+    "spider_time": 1764389118217,
     "name": "WordPress Frontend File Manager Plugin不安全的直接对象引用漏洞",
     "cnvd": "CNVD-2025-29484",
     "publish": "2025-11-27",
