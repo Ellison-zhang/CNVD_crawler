@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-30 08:06:44",
+    "parse_time": "2025-11-30 09:06:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29485",
-    "spider_time": 1764490004437,
+    "spider_time": 1764493560523,
     "name": "WordPress iframe plugin跨站脚本漏洞",
     "cnvd": "CNVD-2025-29485",
     "publish": "2025-11-27",
