@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-30 10:05:06",
+    "parse_time": "2025-11-30 11:05:55",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29489",
-    "spider_time": 1764497106436,
+    "spider_time": 1764500755980,
     "name": "WordPress Peer Publish plugin跨站请求伪造漏洞",
     "cnvd": "CNVD-2025-29489",
     "publish": "2025-11-27",
