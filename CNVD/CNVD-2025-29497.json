@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-30 21:08:57",
+    "parse_time": "2025-11-30 22:07:14",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29497",
-    "spider_time": 1764536937110,
+    "spider_time": 1764540434192,
     "name": "Apartment Management System bill_info.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-29497",
     "publish": "2025-11-27",
