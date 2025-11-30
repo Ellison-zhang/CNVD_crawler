@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-30 16:07:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2016-00328",
+    "spider_time": 1764518858170,
+    "name": "中国移动营业厅自助服务机权限绕过漏洞",
+    "cnvd": "CNVD-2016-00328",
+    "publish": "2025-12-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:P/A:P",
+    "product": "[\"(\\u6682\\u65e0)\"]",
+    "cve": null,
+    "description": "通过绕过触屏机限制，发现是10段的移动内网，并可以直接上任意公网。",
+    "flaw_type": "事件型漏洞",
+    "reference": null,
+    "solution": "重新定制页面上的权限、限制对内外网的访问。",
+    "patch": "中国移动营业厅自助服务机权限绕过漏洞",
+    "verify": "已验证",
+    "submit_time": "2015-12-15",
+    "open_time": "2016-01-20",
+    "update_time": "2016-12-22",
+    "data_summary": "8e66ad36c10baf70a8bb0d0dd6d3c465"
+}
