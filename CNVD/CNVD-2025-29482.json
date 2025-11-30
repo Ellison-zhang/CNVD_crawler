@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-30 00:17:23",
+    "parse_time": "2025-11-30 01:32:49",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29482",
-    "spider_time": 1764461843030,
+    "spider_time": 1764466369196,
     "name": "WordPress Conditional Maintenance Mode plugin跨站请求伪造漏洞",
     "cnvd": "CNVD-2025-29482",
     "publish": "2025-11-27",
