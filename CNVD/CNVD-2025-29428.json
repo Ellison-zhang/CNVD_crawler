@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-11-28 20:06:06",
+    "parse_time": "2025-12-01 02:50:32",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29428",
-    "spider_time": 1764360366329,
+    "spider_time": 1764557432720,
     "name": "Tenda AC21 SetIpMacBind文件栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-29428",
     "publish": "2025-11-26",
