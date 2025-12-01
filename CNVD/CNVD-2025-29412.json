@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-01 20:07:00",
+    "parse_time": "2025-12-01 23:07:16",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29412",
-    "spider_time": 1764619620514,
+    "spider_time": 1764630436180,
     "name": "Revive Adserver格式字符中和不当漏洞",
     "cnvd": "CNVD-2025-29412",
     "publish": "2025-11-26",
