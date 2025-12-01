@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-01 16:07:12",
+    "parse_time": "2025-12-01 17:07:24",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29427",
-    "spider_time": 1764605232275,
+    "spider_time": 1764608844520,
     "name": "Tenda AC21 SetSysTimeCfg文件栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-29427",
     "publish": "2025-11-26",
