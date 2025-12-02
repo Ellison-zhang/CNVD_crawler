@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-02 09:07:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29704",
+    "spider_time": 1764666431003,
+    "name": "Google Android权限提升漏洞（CNVD-2025-29704）",
+    "cnvd": "CNVD-2025-29704",
+    "publish": "2025-12-02",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android 14.0\", \"Google Android 15.0\", \"Google Android 13.0\"]",
+    "cve": "CVE-2025-32312",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在权限提升漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/577cdba1048ce04816c962264a11efd02f1f5b73",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-06-01",
+    "patch": "Google Android权限提升漏洞（CNVD-2025-29704）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-12-02",
+    "update_time": "2025-12-02",
+    "data_summary": "e0cc697ebd11fbe0a144e235cc239584"
+}
