@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-02 02:40:50",
+    "parse_time": "2025-12-02 03:31:51",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29476",
-    "spider_time": 1764643250027,
+    "spider_time": 1764646311211,
     "name": "WordPress Admin and Customer Messages After Order for WooCommerce: OrderConvo plugin缺失授权漏洞",
     "cnvd": "CNVD-2025-29476",
     "publish": "2025-11-27",
