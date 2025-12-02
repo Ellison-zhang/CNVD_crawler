@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-02 02:37:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29654",
+    "spider_time": 1764643077677,
+    "name": "Google Chrome on Windows Media模块实现不当漏洞",
+    "cnvd": "CNVD-2025-29654",
+    "publish": "2025-12-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Google Chrome on Windows <141.0.7390.54\"]",
+    "cve": "CVE-2025-11212",
+    "description": "Google Chrome on Windows是谷歌公司开发的网页浏览器，支持Windows10及更高版本系统，提供快速、安全的网页浏览体验。Google Chrome on Windows存在Media模块实现不当漏洞，攻击者可利用该漏洞导致完整性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-11212",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://chromereleases.googleblog.com/2025/09/stable-channel-update-for-desktop_30.html",
+    "patch": "Google Chrome on Windows Media模块实现不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-30",
+    "open_time": "2025-12-02",
+    "update_time": "2025-12-02",
+    "data_summary": "65da5a85c2d7dc5f272665000cb41f29"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-02 02:38:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29664",
+    "spider_time": 1764643086374,
+    "name": "DELL Alienware Command Center访问控制不当漏洞",
+    "cnvd": "CNVD-2025-29664",
+    "publish": "2025-12-01",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"DELL Alienware Command Center <=5.5.52.0\"]",
+    "cve": "CVE-2024-0159",
+    "description": "DELL Alienware Command Center是戴尔为Alienware品牌电脑开发的专属控制软件，主要用于自定义硬件功能、优化性能和管理游戏设置。DELL Alienware Command Center存在访问控制不当漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-0159/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-us/000218222/dsa-2024-016-security-update-for-dell-alienware-command-center-vulnerabilities",
+    "patch": "DELL Alienware Command Center访问控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-15",
+    "open_time": "2025-12-02",
+    "update_time": "2025-12-02",
+    "data_summary": "49f987bc3dbb5484abeb3f5dbde6f815"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-02 02:39:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29663",
+    "spider_time": 1764643189191,
+    "name": "DELL PowerScale OneFS竞争条件漏洞",
+    "cnvd": "CNVD-2025-29663",
+    "publish": "2025-12-01",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:N/I:C/A:C",
+    "product": "[\"DELL PowerScale OneFS >=9.8.0.0\\uff0c<=9.10.1.0\"]",
+    "cve": "CVE-2025-30101",
+    "description": "DELL PowerScale OneFS是戴尔的横向扩展集群文件系统，专为管理非结构化数据设计，支持企业级存储功能。DELL PowerScale OneFS存在竞争条件漏洞，攻击者可利用该漏洞导致拒绝服务和信息篡改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dell.com/support/kbdoc/en-us/000317419/dsa-2025-192-security-update-for-dell-powerscale-onefs-for-multiple-security-vulnerabilities",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/product-details/en-us/product/isilon-onefs/drivers",
+    "patch": "DELL PowerScale OneFS竞争条件漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-12-02",
+    "update_time": "2025-12-02",
+    "data_summary": "ba8127da757908e5922c8254baf891f6"
+}
