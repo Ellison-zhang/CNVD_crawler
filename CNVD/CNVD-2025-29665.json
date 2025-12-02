@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-02 07:09:29",
+    "parse_time": "2025-12-02 08:11:48",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29665",
-    "spider_time": 1764659369653,
+    "spider_time": 1764663108403,
     "name": "DELL Alienware Command Center反序列化不可信数据漏洞",
     "cnvd": "CNVD-2025-29665",
     "publish": "2025-12-01",
