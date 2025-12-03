@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-03 07:06:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29733",
+    "spider_time": 1764745613552,
+    "name": "Medical Card Generation System HTML注入漏洞",
+    "cnvd": "CNVD-2025-29733",
+    "publish": "2025-12-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Medical Card Generation System Medical Card Generation System 1.0\"]",
+    "cve": "CVE-2024-48704",
+    "description": "Medical Card Generation System是一个医疗卡生成系统。Medical Card Generation System存在HTML注入漏洞，该漏洞源于admin/contactus.php中pagedes参数对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/0xBhushan/Writeups/blob/main/CVE/phpGurukul/Medical%20Card%20Generation%20System/HTML%20Injection%28pagedes%29.pdf",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-06",
+    "open_time": "2025-12-03",
+    "update_time": "2025-12-03",
+    "data_summary": "6c23c969087a9c982abe692cbb282d27"
+}

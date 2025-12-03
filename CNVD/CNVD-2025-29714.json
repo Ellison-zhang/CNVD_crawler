@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-03 07:06:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29714",
+    "spider_time": 1764745577486,
+    "name": "TOTOLINK A950RG命令注入漏洞",
+    "cnvd": "CNVD-2025-29714",
+    "publish": "2025-12-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"TOTOLINK A950RG V5.9c.4592_B20191022_ALL\"]",
+    "cve": "CVE-2025-60702",
+    "description": "TOTOLINK A950RG是中国吉翁电子（TOTOLINK）公司推出的一款超世代Giga无线路由器，支持高速网络连接和多设备管理。TOTOLINK A950RG存在命令注入漏洞，该漏洞源于system.so二进制文件中未能正确过滤构造命令特殊字符、命令等，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/yifan20020708/SGTaint-0-day/blob/main/ToToLink/ToToLink-A950RG/1.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-12-03",
+    "update_time": "2025-12-03",
+    "data_summary": "6284c36b858f7534b48650dc541084d9"
+}

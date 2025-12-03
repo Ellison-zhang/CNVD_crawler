@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-03 07:07:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29735",
+    "spider_time": 1764745621902,
+    "name": "Online Birth Certificate System users-applications.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-29735",
+    "publish": "2025-12-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Online Birth Certificate System Online Birth Certificate System 2.0\"]",
+    "cve": "CVE-2025-5373",
+    "description": "Online Birth Certificate System是一个在线出生证明系统。Online Birth Certificate System存在SQL注入漏洞，该漏洞源于文件/admin/users-applications.php中对参数userid的错误操作导致SQL注入。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?submit.587392\nhttps://github.com/f1rstb100d/myCVE/issues/27\nhttps://vuldb.com/?id.310666\nhttps://phpgurukul.com/\nhttps://vuldb.com/?ctiid.310666\nhttps://access.redhat.com/security/cve/cve-2025-5373\nhttps://nvd.nist.gov/vuln/detail/CVE-2025-5373",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-06",
+    "open_time": "2025-12-03",
+    "update_time": "2025-12-03",
+    "data_summary": "8ff465742baa4105cd7f8e08665c8d34"
+}
