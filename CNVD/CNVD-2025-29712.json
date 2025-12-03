@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-03 19:05:06",
+    "parse_time": "2025-12-03 20:05:07",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29712",
-    "spider_time": 1764788706653,
+    "spider_time": 1764792307323,
     "name": "TOTOLINK A720R堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-29712",
     "publish": "2025-12-02",
