@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-04 19:05:12",
+    "parse_time": "2025-12-04 20:04:31",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29940",
-    "spider_time": 1764875112736,
+    "spider_time": 1764878671297,
     "name": "ASUS Armoury Crate空指针取消引用漏洞",
     "cnvd": "CNVD-2025-29940",
     "publish": "2025-12-03",
