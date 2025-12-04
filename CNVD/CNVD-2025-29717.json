@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-04 07:09:56",
+    "parse_time": "2025-12-04 08:07:32",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29717",
-    "spider_time": 1764832196241,
+    "spider_time": 1764835652459,
     "name": "TOTOLINK A7000R urldecode函数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-29717",
     "publish": "2025-12-02",
