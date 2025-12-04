@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-04 03:29:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29922",
+    "spider_time": 1764818978236,
+    "name": "ZOHO ManageEngine Exchange reporter Plus跨站脚本漏洞（CNVD-2025-29922）",
+    "cnvd": "CNVD-2025-29922",
+    "publish": "2025-12-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:N",
+    "product": "[\"ZOHO ManageEngine Exchange Reporter Plus <=5723\"]",
+    "cve": "CVE-2025-7632",
+    "description": "ZOHO ManageEngine Exchange reporter Plus是美国卓豪（ZOHO）公司的一款基于Web的Microsoft Exchange报告、审核和监控软件。ZOHO ManageEngine Exchange reporter Plus存在跨站脚本漏洞，攻击者可利用该漏洞创建特权帐户并未经授权访问应用程序。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.manageengine.com/products/exchange-reports/advisory/CVE-2025-7632.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.manageengine.com/products/exchange-reports/advisory/CVE-2025-7632.html",
+    "patch": "ZOHO ManageEngine Exchange reporter Plus跨站脚本漏洞（CNVD-2025-29922）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-12-04",
+    "update_time": "2025-12-04",
+    "data_summary": "6c19fb70ee8ff4ccde701a33930ed494"
+}
