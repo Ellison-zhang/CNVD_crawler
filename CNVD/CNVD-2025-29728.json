@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-04 01:34:25",
+    "parse_time": "2025-12-04 02:37:19",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29728",
-    "spider_time": 1764812065788,
+    "spider_time": 1764815839234,
     "name": "Notice Board System forgot-password.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-29728",
     "publish": "2025-12-02",
