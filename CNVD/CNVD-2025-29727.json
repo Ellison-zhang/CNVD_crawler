@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-04 03:30:41",
+    "parse_time": "2025-12-04 04:12:43",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29727",
-    "spider_time": 1764819041495,
+    "spider_time": 1764821563087,
     "name": "Notice Board System admin-profile.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-29727",
     "publish": "2025-12-02",
