@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-04 15:05:30",
+    "parse_time": "2025-12-04 16:04:55",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29942",
-    "spider_time": 1764860730382,
+    "spider_time": 1764864295141,
     "name": "ASUS Armoury Crate堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-29942",
     "publish": "2025-12-03",
