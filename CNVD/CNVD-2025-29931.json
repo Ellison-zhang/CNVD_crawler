@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-04 06:05:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29931",
+    "spider_time": 1764828340082,
+    "name": "Microsoft Configuration Manager权限提升漏洞",
+    "cnvd": "CNVD-2025-29931",
+    "publish": "2025-12-04",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Configuration Manager 2409\", \"Microsoft Configuration Manager 2403\", \"Microsoft Configuration Manager 2503\"]",
+    "cve": "CVE-2025-47179",
+    "description": "Microsoft Configuration Manager是美国微软（Microsoft）公司的一套用于管理企业内部电脑和服务器的解决方案，它可以帮助IT部门保持软件更新、设置配置和安全策略，并监控系统状态。Microsoft Configuration Manager存在权限提升漏洞，该漏洞是由于访问控制不当，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-47179",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2025-47179",
+    "patch": "Microsoft Configuration Manager权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-12-04",
+    "update_time": "2025-12-04",
+    "data_summary": "50288e0c7baedb6b9a95c9d64e276c4b"
+}
