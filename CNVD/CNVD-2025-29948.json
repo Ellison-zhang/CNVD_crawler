@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-04 18:06:57",
+    "parse_time": "2025-12-04 19:05:49",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29948",
-    "spider_time": 1764871617424,
+    "spider_time": 1764875149392,
     "name": "School Fees Payment System ajx.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-29948",
     "publish": "2025-12-03",
