@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-05 11:04:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30212",
+    "spider_time": 1764932669779,
+    "name": "Courier Management System search-edit.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-30212",
+    "publish": "2025-12-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Courier Management System Courier Management System 1.0\"]",
+    "cve": "CVE-2025-13303",
+    "description": "Courier Management System是一个快递管理系统。Courier Management System存在SQL注入漏洞，该漏洞源于文件/search-edit.php中参数Consignment缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-13303",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2025-12-05",
+    "update_time": "2025-12-05",
+    "data_summary": "77b111768b04d6acb4f7731f0eaa264a"
+}
