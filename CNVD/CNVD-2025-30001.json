@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-05 02:35:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30001",
+    "spider_time": 1764902155948,
+    "name": "Laundry System跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-30001",
+    "publish": "2025-12-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Laundry System Laundry System 1.0\"]",
+    "cve": "CVE-2025-5766",
+    "description": "Laundry System是一个洗衣系统。Laundry System存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5766",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-10",
+    "open_time": "2025-12-05",
+    "update_time": "2025-12-05",
+    "data_summary": "d8d179d7d3976664fdf1173a2b2069f3"
+}

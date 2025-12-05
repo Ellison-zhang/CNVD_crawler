@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-05 02:35:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30024",
+    "spider_time": 1764902115053,
+    "name": "Laundry System身份验证缺失漏洞",
+    "cnvd": "CNVD-2025-30024",
+    "publish": "2025-12-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Laundry System Laundry System 1.0\"]",
+    "cve": "CVE-2025-5906",
+    "description": "Laundry System是一个洗衣系统。Laundry System存在身份验证缺失漏洞，攻击者可利用该漏洞导致机密性、完整性和可用性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/tu00/CVE/issues/11",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-12-05",
+    "update_time": "2025-12-05",
+    "data_summary": "59b6bc464c5111708962a4bd6349d7d1"
+}
