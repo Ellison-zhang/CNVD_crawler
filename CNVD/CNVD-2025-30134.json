@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-05 08:05:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30134",
+    "spider_time": 1764921958473,
+    "name": "WordPress ELEX WordPress HelpDesk & Customer Ticketing System plugin不安全的直接对象引用漏洞",
+    "cnvd": "CNVD-2025-30134",
+    "publish": "2025-12-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"WordPress ELEX WordPress HelpDesk & Customer Ticketing System plugin <=3.2.9\"]",
+    "cve": "CVE-2025-10039",
+    "description": "WordPress ELEX WordPress HelpDesk & Customer Ticketing System plugin是一款专为WordPress网站设计的帮助台与客户工单系统插件，旨在帮助企业或个人高效管理客户支持请求。WordPress ELEX WordPress HelpDesk & Customer Ticketing System plugin存在不安全的直接对象引用漏洞，该漏洞源于缺少用户控制密钥验证，攻击者可利用该漏洞导致读取所有支持票内容。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/elex-helpdesk-customer-support-ticket-system/trunk/includes/class-crm-ajax-functions.php#L259",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/elex-helpdesk-customer-support-ticket-system",
+    "patch": "WordPress ELEX WordPress HelpDesk & Customer Ticketing System plugin不安全的直接对象引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-25",
+    "open_time": "2025-12-05",
+    "update_time": "2025-12-05",
+    "data_summary": "b69ac4803650ab2a02d4437d358d71b2"
+}
