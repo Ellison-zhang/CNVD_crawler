@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-06 06:08:59",
+    "parse_time": "2025-12-06 07:05:45",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30008",
-    "spider_time": 1765001339662,
+    "spider_time": 1765004745486,
     "name": "Patient Record Management System fecalysis_form.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-30008",
     "publish": "2025-12-04",
