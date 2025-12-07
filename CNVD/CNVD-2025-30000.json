@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-07 08:05:47",
+    "parse_time": "2025-12-07 09:05:01",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30000",
-    "spider_time": 1765094747531,
+    "spider_time": 1765098301605,
     "name": "Laundry System insert_type.php文件跨站脚本漏洞",
     "cnvd": "CNVD-2025-30000",
     "publish": "2025-12-04",
