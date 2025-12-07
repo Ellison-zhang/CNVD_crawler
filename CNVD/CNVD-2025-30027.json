@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-07 14:04:12",
+    "parse_time": "2025-12-07 15:04:06",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30027",
-    "spider_time": 1765116252011,
+    "spider_time": 1765119846597,
     "name": "Traffic Offense Reporting System save-settings.php文件跨站脚本漏洞",
     "cnvd": "CNVD-2025-30027",
     "publish": "2025-12-04",
