@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-08 04:14:18",
+    "parse_time": "2025-12-08 05:09:54",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30020",
-    "spider_time": 1765167258047,
+    "spider_time": 1765170594735,
     "name": "Patient Record Management System dental_not.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-30020",
     "publish": "2025-12-04",
