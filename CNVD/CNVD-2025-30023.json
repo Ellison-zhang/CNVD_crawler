@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-08 15:04:36",
+    "parse_time": "2025-12-08 16:06:35",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30023",
-    "spider_time": 1765206276621,
+    "spider_time": 1765209995414,
     "name": "Patient Record Management System urinalysis_record.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-30023",
     "publish": "2025-12-04",
