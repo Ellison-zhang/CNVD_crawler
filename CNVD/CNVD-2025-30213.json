@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-08 09:07:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30213",
+    "spider_time": 1765184824655,
+    "name": "NVIDIA TAO资源加载漏洞",
+    "cnvd": "CNVD-2025-30213",
+    "publish": "2025-12-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NVIDIA TAO\"]",
+    "cve": "CVE-2025-33208",
+    "description": "NVIDIA TAO是英伟达公司用于机器学习模型开发和部署的工具套件。NVIDIA TAO存在资源加载漏洞，攻击者可利用该漏洞导致权限提升、数据篡改、拒绝服务和信息泄露等危害。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-33208\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5730\nhttps://www.cve.org/CVERecord?id=CVE-2025-33208",
+    "solution": "目前厂商已发布升级补丁以修复漏洞。补丁获取链接：\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5730",
+    "patch": "NVIDIA TAO资源加载漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-04",
+    "open_time": "2025-12-08",
+    "update_time": "2025-12-08",
+    "data_summary": "68f4217114e1d22dc9fa977ce33e9bbf"
+}
