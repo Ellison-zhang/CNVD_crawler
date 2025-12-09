@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-09 01:32:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30251",
+    "spider_time": 1765243924790,
+    "name": "Huawei HarmonyOS screen recording framework模块内存错误引用漏洞",
+    "cnvd": "CNVD-2025-30251",
+    "publish": "2025-12-08",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Huawei HarmonyOS 5.0.1\", \"Huawei HarmonyOS 5.1.0\", \"Huawei HarmonyOS 6.0.0\"]",
+    "cve": "CVE-2025-58303",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS screen recording framework模块存在内存错误引用漏洞，攻击者可利用该漏洞影响可用性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://consumer.huawei.com/en/support/bulletin/2025/11/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2025/11/",
+    "patch": "Huawei HarmonyOS screen recording framework模块内存错误引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-03",
+    "open_time": "2025-12-09",
+    "update_time": "2025-12-09",
+    "data_summary": "291b8ee4c201532e984a19c7c6ea9a36"
+}
