@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-09 14:09:28",
+    "parse_time": "2025-12-09 15:09:23",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30280",
-    "spider_time": 1765289368047,
+    "spider_time": 1765292963178,
     "name": "TOTOLINK LR1200GB setUssd函数操作系统命令注入漏洞",
     "cnvd": "CNVD-2025-30280",
     "publish": "2025-12-08",

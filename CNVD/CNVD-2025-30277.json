@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-09 14:08:54",
+    "parse_time": "2025-12-09 15:08:52",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30277",
-    "spider_time": 1765289334472,
+    "spider_time": 1765292932107,
     "name": "TOTOLINK LR1200GB setParentalRules函数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-30277",
     "publish": "2025-12-08",
