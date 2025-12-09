@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-09 16:08:42",
+    "parse_time": "2025-12-09 17:08:37",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30272",
-    "spider_time": 1765296522267,
+    "spider_time": 1765300117889,
     "name": "TOTOLINK LR1200GB UploadCustomModule函数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-30272",
     "publish": "2025-12-08",
