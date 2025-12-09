@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-09 10:08:03",
+    "parse_time": "2025-12-09 11:05:39",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30254",
-    "spider_time": 1765274883158,
+    "spider_time": 1765278339082,
     "name": "Huawei HarmonyOS screen recording framework模块内存错误引用漏洞（CNVD-2025-30254）",
     "cnvd": "CNVD-2025-30254",
     "publish": "2025-12-08",
