@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-09 03:34:41",
+    "parse_time": "2025-12-09 04:14:53",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30278",
-    "spider_time": 1765251281235,
+    "spider_time": 1765253693599,
     "name": "TOTOLINK LR1200GB setSmsCfg函数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-30278",
     "publish": "2025-12-08",
