@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-09 03:35:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30271",
+    "spider_time": 1765251334988,
+    "name": "Dell PowerScale OneFS资源控制不当漏洞",
+    "cnvd": "CNVD-2025-30271",
+    "publish": "2025-12-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:N",
+    "product": "[\"DELL Dell PowerScale OneFS >=8.2.2.*\\uff0c<=9.6.0.*\"]",
+    "cve": "CVE-2023-44295",
+    "description": "Dell PowerScale OneFS是戴尔（Dell）公司为其PowerScale横向扩展NAS（网络附加存储）解决方案开发的专有操作系统。Dell PowerScale OneFS存在资源控制不当漏洞，攻击者可利用该漏洞导致信息丢失和信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-44295",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-us/000219932/dsa-2023-417-dell-powerscale-onefs-security-updates-for-multiple-security-vulnerabilities",
+    "patch": "Dell PowerScale OneFS资源控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-12-07",
+    "open_time": "2025-12-09",
+    "update_time": "2025-12-09",
+    "data_summary": "bb678c7814b7036379089f7d5679b6e1"
+}

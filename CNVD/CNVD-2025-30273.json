@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-09 03:28:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30273",
+    "spider_time": 1765250913745,
+    "name": "TOTOLINK LR1200GB setOpModeCfg函数操作系统命令注入漏洞",
+    "cnvd": "CNVD-2025-30273",
+    "publish": "2025-12-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK LR1200GB 9.1.0u.6619_B20230130\"]",
+    "cve": "CVE-2024-0292",
+    "description": "TOTOLINK LR1200GB是一款由中国吉翁电子（TOTOLINK）公司推出的无线双频4GLTE路由器，支持2.4GHz和5GHz双频段网络，主要用于提供移动宽带连接和Wi-Fi覆盖。TOTOLINK LR1200GB存在操作系统命令注入漏洞，该漏洞源于对/cgi-bin/cstecgi.cgi页面的setOpModeCfg函数的hostName参数未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.249858",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/233/ids/36.html",
+    "patch": "TOTOLINK LR1200GB setOpModeCfg函数操作系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-01-11",
+    "open_time": "2025-12-09",
+    "update_time": "2025-12-09",
+    "data_summary": "001c5d81ddd11c63433774671ef1af0b"
+}
