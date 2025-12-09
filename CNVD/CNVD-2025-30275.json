@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-09 17:09:02",
+    "parse_time": "2025-12-09 18:12:38",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30275",
-    "spider_time": 1765300142319,
+    "spider_time": 1765303958812,
     "name": "TOTOLINK LR1200GB UploadFirmwareFile函数命令注入漏洞",
     "cnvd": "CNVD-2025-30275",
     "publish": "2025-12-08",
