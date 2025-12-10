@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-10 16:07:21",
+    "parse_time": "2025-12-10 17:16:40",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30263",
-    "spider_time": 1765382841865,
+    "spider_time": 1765387000977,
     "name": "Dell PowerScale OneFS UNIX符号链接跟随漏洞",
     "cnvd": "CNVD-2025-30263",
     "publish": "2025-12-08",
