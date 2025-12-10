@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-10 07:08:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30379",
+    "spider_time": 1765350538027,
+    "name": "Student Record System edit-subject.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-30379",
+    "publish": "2025-12-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Student Record System Student Record System v3.20\"]",
+    "cve": "CVE-2024-3771",
+    "description": "Student Record System是一个应用软件。Student Record System存在SQL注入漏洞，该漏洞源于文件/edit-subject.php的参数sub1/sub2/sub3/sub4/udate缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.260618",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-17",
+    "open_time": "2025-12-10",
+    "update_time": "2025-12-10",
+    "data_summary": "44b94d0310e513cebc7a89a13abd5689"
+}

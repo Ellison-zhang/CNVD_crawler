@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-10 07:13:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30337",
+    "spider_time": 1765350782537,
+    "name": "Grav不安全的直接对象引用漏洞",
+    "cnvd": "CNVD-2025-30337",
+    "publish": "2025-12-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Grav Grav <1.8.0-beta.27\"]",
+    "cve": "CVE-2025-66306",
+    "description": "Grav是一套可扩展的用于个人博客、小型内容发布平台和单页产品展示的CMS（内容管理系统）。Grav存在不安全的直接对象引用漏洞，该漏洞源于应用没有正确实现访问控制机制，直接将客户端传送来的数据作为对象引用，攻击者可利用该漏洞导致敏感信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/getgrav/grav/commit/b7e1958a6e807ac14919447b60e5204a2ea77f62",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://getgrav.org/downloads",
+    "patch": "Grav不安全的直接对象引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-03",
+    "open_time": "2025-12-10",
+    "update_time": "2025-12-10",
+    "data_summary": "58ba3f50ca6c3fc9c442fced6159a2dc"
+}

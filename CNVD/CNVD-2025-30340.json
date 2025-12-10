@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-10 07:12:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30340",
+    "spider_time": 1765350765837,
+    "name": "Grav用户枚举和电子邮件泄露漏洞",
+    "cnvd": "CNVD-2025-30340",
+    "publish": "2025-12-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Grav Grav <1.11.0-beta.1\"]",
+    "cve": "CVE-2025-66307",
+    "description": "Grav是一套可扩展的用于个人博客、小型内容发布平台和单页产品展示的CMS（内容管理系统）。Grav存在用户枚举和电子邮件泄露漏洞，攻击者可利用该漏洞枚举用户并泄露敏感的电子邮件地址，从而可用于有针对性的攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/getgrav/grav-plugin-admin/commit/99f653296504f1d6408510dd2f6f20a45a26f9b0",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://getgrav.org/downloads",
+    "patch": "Grav用户枚举和电子邮件泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-03",
+    "open_time": "2025-12-10",
+    "update_time": "2025-12-10",
+    "data_summary": "23e8f96af51db6c2d78c20778990413d"
+}

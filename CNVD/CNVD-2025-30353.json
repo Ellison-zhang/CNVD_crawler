@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-10 07:11:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30353",
+    "spider_time": 1765350702101,
+    "name": "Grav路径遍历漏洞（CNVD-2025-30353）",
+    "cnvd": "CNVD-2025-30353",
+    "publish": "2025-12-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"Grav Grav <1.8.0-beta.27\"]",
+    "cve": "CVE-2025-66302",
+    "description": "Grav是一套可扩展的用于个人博客、小型内容发布平台和单页产品展示的CMS（内容管理系统）。Grav存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素，攻击者可利用该漏洞导致读取任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/getgrav/grav/commit/ed640a13143c4177af013cf001969ed2c5e197ee",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://getgrav.org/downloads",
+    "patch": "Grav路径遍历漏洞（CNVD-2025-30353）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-03",
+    "open_time": "2025-12-10",
+    "update_time": "2025-12-10",
+    "data_summary": "b62e1efc0b4abba375cbd78abd8d044b"
+}
