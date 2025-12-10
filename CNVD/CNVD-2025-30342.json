@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-10 21:04:59",
+    "parse_time": "2025-12-10 22:07:15",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30342",
-    "spider_time": 1765400699797,
+    "spider_time": 1765404435922,
     "name": "Grav服务器端模板注入漏洞（CNVD-2025-30342）",
     "cnvd": "CNVD-2025-30342",
     "publish": "2025-12-09",
