@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-10 22:07:37",
+    "parse_time": "2025-12-10 23:07:30",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30337",
-    "spider_time": 1765404457557,
+    "spider_time": 1765408050704,
     "name": "Grav不安全的直接对象引用漏洞",
     "cnvd": "CNVD-2025-30337",
     "publish": "2025-12-09",
