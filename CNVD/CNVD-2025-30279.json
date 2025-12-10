@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-10 05:07:33",
+    "parse_time": "2025-12-10 06:09:25",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30279",
-    "spider_time": 1765343253326,
+    "spider_time": 1765346965718,
     "name": "TOTOLINK LR1200GB setTracerouteCfg函数栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-30279",
     "publish": "2025-12-08",
