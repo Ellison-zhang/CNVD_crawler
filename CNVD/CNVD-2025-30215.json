@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-09 23:18:54",
+    "parse_time": "2025-12-10 00:19:54",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30215",
-    "spider_time": 1765322334202,
+    "spider_time": 1765325994919,
     "name": "Wireshark缓冲区溢出漏洞（CNVD-2025-30215）",
     "cnvd": "CNVD-2025-30215",
     "publish": "2025-12-04",
