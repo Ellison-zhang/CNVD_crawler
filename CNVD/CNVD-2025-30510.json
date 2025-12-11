@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-11 11:04:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30510",
+    "spider_time": 1765451075493,
+    "name": "LIVE555 Streaming Media释放后重用漏洞（CNVD-2025-30510）",
+    "cnvd": "CNVD-2025-30510",
+    "publish": "2025-12-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"LIVE555 Streaming Media v2018.09.02\"]",
+    "cve": "CVE-2025-65407",
+    "description": "LIVE555 Streaming Media是一个跨平台的C++开源库，专注于为流媒体应用提供解决方案，支持多种标准协议如RTP/RTCP、RTSP和SIP。LIVE555 Streaming Media存在释放后重用漏洞，该漏洞源于MPEG1or2Demux::newElementaryStream函数负责释放内存的指令发生混乱，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/rgaufman/live555",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.live555.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-03",
+    "open_time": "2025-12-11",
+    "update_time": "2025-12-11",
+    "data_summary": "bcea5551aa2c05fa341773b0b670920e"
+}
