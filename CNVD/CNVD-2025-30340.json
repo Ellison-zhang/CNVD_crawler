@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-11 13:19:04",
+    "parse_time": "2025-12-11 14:07:16",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30340",
-    "spider_time": 1765459144524,
+    "spider_time": 1765462036066,
     "name": "Grav用户枚举和电子邮件泄露漏洞",
     "cnvd": "CNVD-2025-30340",
     "publish": "2025-12-09",
