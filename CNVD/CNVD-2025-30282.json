@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-11 00:20:56",
+    "parse_time": "2025-12-11 02:42:54",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30282",
-    "spider_time": 1765412456261,
+    "spider_time": 1765420974173,
     "name": "TOTOLINK X2000R Gh formIpv6Setup方法堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-30282",
     "publish": "2025-12-08",
