@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-11 09:06:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30465",
+    "spider_time": 1765443971556,
+    "name": "Socomec Net Vision跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-30465",
+    "publish": "2025-12-11",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Socomec Socomec Net Vision 7.20\"]",
+    "cve": "CVE-2024-4600",
+    "description": "Socomec Net Vision是索克曼（SOCOMEC）公司为其不间断电源（UPS）产品开发的一套网络管理解决方案，主要用于实现UPS的远程监控、状态管理和自动化操作。Socomec Net Vision存在跨站请求伪造漏洞，该漏洞源于对set_param.cgi文件的不当清理。攻击者可利用该漏洞诱使已注册的用户执行关键操作，如添加和更新账户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.incibe.es/en/incibe-cert/notices/aviso-sci/multiple-vulnerabilities-socomec-net-vision",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://apac.socomec.com/en/net-vision-7-ups-websnmp-ethernet-card-iot-gateway",
+    "patch": "Socomec Net Vision跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-08",
+    "open_time": "2025-12-11",
+    "update_time": "2025-12-11",
+    "data_summary": "1b9fb14037e9122e120abb031aaec31d"
+}
