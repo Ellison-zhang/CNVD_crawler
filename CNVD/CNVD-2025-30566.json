@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-12 09:07:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30566",
+    "spider_time": 1765530421822,
+    "name": "Apache SkyWalking跨站脚本漏洞（CNVD-2025-30566）",
+    "cnvd": "CNVD-2025-30566",
+    "publish": "2025-12-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Apache SkyWalking <10.3.0\"]",
+    "cve": "CVE-2025-54057",
+    "description": "Apache SkyWalking是美国阿帕奇（Apache）基金会的一款主要用于微服务、云原生和基于容器等环境的应用程序性能监视器。Apache SkyWalking 10.2.0及之前版本存在跨站脚本漏洞，该漏洞源于未正确处理脚本相关HTML标签，攻击者可利用该漏洞导致基本跨站脚本攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lists.apache.org/thread/sl2x2tx8y007x0mo746yddx2lvnv9tcr",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://skywalking.apache.org/",
+    "patch": "Apache SkyWalking跨站脚本漏洞（CNVD-2025-30566）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-03",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "5ea9b6315e81adcbe9e76744ff2f52cf"
+}

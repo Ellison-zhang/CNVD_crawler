@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-12 09:07:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30580",
+    "spider_time": 1765530429904,
+    "name": "Apache Syncope信任管理问题漏洞",
+    "cnvd": "CNVD-2025-30580",
+    "publish": "2025-12-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Apache Syncope\"]",
+    "cve": "CVE-2025-65998",
+    "description": "Apache Syncope是美国阿帕奇（Apache）基金会的一套用于企业环境中的开源数字身份管理系统。该系统支持身份管理、角色配置等。Apache Syncope存在信任管理问题漏洞，该漏洞源于使用硬编码AES密钥加密密码，攻击者可利用该漏洞导致密码明文泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-65998",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/fjh0tb0d1xkbphc5ogdsc348ppz88cts",
+    "patch": "Apache Syncope信任管理问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-27",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "4c676a5c7272e8c47cc4114266570f24"
+}

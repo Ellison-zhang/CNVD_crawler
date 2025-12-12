@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-12 09:06:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30563",
+    "spider_time": 1765530397461,
+    "name": "Tenda Ax3缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-30563",
+    "publish": "2025-12-12",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda AX3 16.03.12.11\"]",
+    "cve": "CVE-2025-65804",
+    "description": "Tenda Ax3是中国腾达（Tenda）公司的一款Ax1800千兆端口双频Wifi 6无线路由器。Tenda Ax3 v16.03.12.11版本存在缓冲区溢出漏洞，该漏洞源于iptvType参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-65804",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://river-brow-763.notion.site/Tenda-AX3-Buffer-Overflow-in-formSetIptv-2aaa595a7aef8072968edc528a2d95b1",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "58cb699dd020703e20b434c11c4d97f6"
+}
