@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-12 04:14:00",
+    "parse_time": "2025-12-12 05:06:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30434",
-    "spider_time": 1765512840742,
+    "spider_time": 1765515960138,
     "name": "Maid Hiring Management System edit-category.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-30434",
     "publish": "2025-12-10",
