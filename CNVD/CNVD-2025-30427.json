@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-12 07:08:47",
+    "parse_time": "2025-12-12 08:06:01",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30427",
-    "spider_time": 1765523327901,
+    "spider_time": 1765526761896,
     "name": "COVID19 Testing Management System /login.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-30427",
     "publish": "2025-12-10",
