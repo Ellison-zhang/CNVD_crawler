@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-12 10:05:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30590",
+    "spider_time": 1765533906374,
+    "name": "WordPress插件SSP Debug信息泄露漏洞",
+    "cnvd": "CNVD-2025-30590",
+    "publish": "2025-12-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"WordPress SSP Debug plugin <=1.0.0\"]",
+    "cve": "CVE-2025-13494",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件SSP Debug存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/ssp-debugging/tags/1.0.0/ssp-debug.php#L221",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://plugins.trac.wordpress.org/browser/ssp-debugging/tags/1.0.0/ssp-debug.php#L221",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "31e098813f2f528366e5729f368655c1"
+}

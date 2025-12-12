@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-12 10:04:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30583",
+    "spider_time": 1765533876595,
+    "name": "WordPress插件Download Manager信息泄露漏洞",
+    "cnvd": "CNVD-2025-30583",
+    "publish": "2025-12-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"WordPress1 Download Manager Plugin <=3.3.32\"]",
+    "cve": "CVE-2025-63070",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件Download Manager存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用该漏洞导致检索嵌入式敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/download-manager/vulnerability/wordpress-download-manager-plugin-3-3-32-sensitive-data-exposure-vulnerability?_s_id=cve",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/download-manager/",
+    "patch": "WordPress插件Download Manager信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-12",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "a5d71eee5f41731f7f636eead422a86b"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-12 10:05:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30595",
+    "spider_time": 1765533933664,
+    "name": "WordPress插件OneClick Chat to Order信息泄露漏洞",
+    "cnvd": "CNVD-2025-30595",
+    "publish": "2025-12-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress OneClick Chat to Order plugin <=1.0.8\"]",
+    "cve": "CVE-2025-13526",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件OneClick Chat to Order存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/oneclick-whatsapp-order/trunk/includes/buttons/wa-order-thank-you.php#L126",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/oneclick-whatsapp-order/",
+    "patch": "WordPress插件OneClick Chat to Order信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-25",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "476dffbeba3ff3f061c5ba66755b78ad"
+}
