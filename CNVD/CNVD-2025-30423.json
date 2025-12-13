@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-13 10:04:01",
+    "parse_time": "2025-12-13 12:05:50",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30423",
-    "spider_time": 1765620241065,
+    "spider_time": 1765627550924,
     "name": "COVID19 Testing Management System /search-report-result.php文件代码注入漏洞",
     "cnvd": "CNVD-2025-30423",
     "publish": "2025-12-10",
