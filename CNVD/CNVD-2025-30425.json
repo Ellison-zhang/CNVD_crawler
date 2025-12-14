@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-14 04:16:18",
+    "parse_time": "2025-12-14 05:05:05",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30425",
-    "spider_time": 1765685778611,
+    "spider_time": 1765688705652,
     "name": "BP Monitoring Management System registration.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-30425",
     "publish": "2025-12-10",
