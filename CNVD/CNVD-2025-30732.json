@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-16 03:31:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30732",
+    "spider_time": 1765855886364,
+    "name": "WordPress AdForest plugin缺失授权漏洞",
+    "cnvd": "CNVD-2025-30732",
+    "publish": "2025-12-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress AdForest plugin <=6.0.11\"]",
+    "cve": "CVE-2025-67569",
+    "description": "WordPress AdForest plugin是一款流行的分类广告解决方案，用于在WordPress网站上构建在线分类广告平台。WordPress AdForest plugin存在缺失授权漏洞，该漏洞源于访问控制安全级别配置不当。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Theme/adforest/vulnerability/wordpress-adforest-theme-6-0-11-broken-access-control-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress AdForest plugin缺失授权漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-12",
+    "open_time": "2025-12-16",
+    "update_time": "2025-12-16",
+    "data_summary": "e18d15eea291b2eaf799d2338f60794c"
+}

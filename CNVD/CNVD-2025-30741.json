@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-16 03:32:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30741",
+    "spider_time": 1765855929273,
+    "name": "WordPress Essential Widgets plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-30741",
+    "publish": "2025-12-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"WordPress Essential Widgets plugin <=2.2.2\"]",
+    "cve": "CVE-2025-67543",
+    "description": "WordPress Essential Widgets plugin是一个用于增强网站功能的工具，主要提供创建和添加高度可定制的部件（Widgets）的能力，帮助用户更灵活地管理网站内容布局。WordPress Essential Widgets plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/essential-widgets/vulnerability/wordpress-essential-widgets-plugin-2-2-2-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/essential-widgets/",
+    "patch": "WordPress Essential Widgets plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-12",
+    "open_time": "2025-12-16",
+    "update_time": "2025-12-16",
+    "data_summary": "0b96742575ee941457cf1d75da9755e5"
+}
