@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-16 09:09:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30768",
+    "spider_time": 1765876146998,
+    "name": "lunary访问控制不当漏洞",
+    "cnvd": "CNVD-2025-30768",
+    "publish": "2025-12-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:C/A:C",
+    "product": "[\"lunary lunary <=1.2.2\"]",
+    "cve": "CVE-2024-3504",
+    "description": "lunary是lunary开源的一个LLM的生产工具包。lunary存在访问控制不当漏洞，攻击者可利用该漏洞将任何组织用户更新为组织所有者。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-3504/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://github.com/lunary-ai/lunary/commit/f7507f0949f6634f725ebb8da37c44f76542901f",
+    "patch": "lunary访问控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-11",
+    "open_time": "2025-12-16",
+    "update_time": "2025-12-16",
+    "data_summary": "3506e89022e3506430894474a5af59f9"
+}
