@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-17 04:11:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30838",
+    "spider_time": 1765944708309,
+    "name": "Apache Airflow安全绕过漏洞（CNVD-2025-30838）",
+    "cnvd": "CNVD-2025-30838",
+    "publish": "2025-12-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Apache Airflow >=3.0.0\\uff0c<3.1.1\"]",
+    "cve": "CVE-2025-62503",
+    "description": "Apache Airflow是美国阿帕奇（Apache）基金会的一套具有创建、管理和监控工作流程功能的开源平台。该平台具有可扩展和动态监控等特点。Apache Airflow存在安全绕过漏洞，该漏洞是由于批量API中的权限边界绕过引起的。攻击者可利用该漏洞通过批量创建API并执行覆盖操作来更新现有记录。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lists.apache.org/thread/3v58249qscyn1hg240gh8hqg9pb4okcr",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/3v58249qscyn1hg240gh8hqg9pb4okcr",
+    "patch": "Apache Airflow安全绕过漏洞（CNVD-2025-30838）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-05",
+    "open_time": "2025-12-17",
+    "update_time": "2025-12-17",
+    "data_summary": "00995e94e4585492a689eb1e7faea1e1"
+}

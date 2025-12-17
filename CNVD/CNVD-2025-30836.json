@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-17 04:11:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30836",
+    "spider_time": 1765944698233,
+    "name": "Apache HTTP Server跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-30836",
+    "publish": "2025-12-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Apache HTTP Server >=2.4.7\\uff0c<=2.4.65\"]",
+    "cve": "CVE-2025-59775",
+    "description": "Apache HTTP Server是美国阿帕奇（Apache）基金会的一款开源网页服务器。该服务器具有快速、可靠且可通过简单的API进行扩充的特点。Apache HTTP Server存在跨站请求伪造漏洞，攻击者可利用该漏洞导致NTLM哈希泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2025/12/04/6",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://httpd.apache.org/download.cgi",
+    "patch": "Apache HTTP Server跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2025-12-17",
+    "update_time": "2025-12-17",
+    "data_summary": "7883b2c5f756b2458d2f368654a71af1"
+}
