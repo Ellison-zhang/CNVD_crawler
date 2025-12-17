@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-17 08:06:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30882",
+    "spider_time": 1765958765101,
+    "name": "Teacher Subject Allocation Management System teacher-info.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-30882",
+    "publish": "2025-12-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"Teacher Subject Allocation Management System Teacher Subject Allocation Management System 1.0\"]",
+    "cve": "CVE-2023-46025",
+    "description": "Teacher Subject Allocation Management System一个教师学科分配管理系统。Teacher Subject Allocation Management System存在SQL注入漏洞，该漏洞源于teacher-info.php的editid参数缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/ersinerenler/phpgurukul-Teacher-Subject-Allocation-Management-System-1.0/blob/main/CVE-2023-46025-phpgurukul-Teacher-Subject-Allocation-Management-System-1.0-SQL-Injection-Vulnerability.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-11-16",
+    "open_time": "2025-12-17",
+    "update_time": "2025-12-17",
+    "data_summary": "64729ce731d982db868be52e7bea1b5a"
+}
