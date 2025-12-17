@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-17 07:10:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30845",
+    "spider_time": 1765955448601,
+    "name": "Human Metapneumovirus Testing Management System /bwdates-report-result.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-30845",
+    "publish": "2025-12-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Human Metapneumovirus Testing Management System Human Metapneumovirus Testing Management System 1.0\"]",
+    "cve": "CVE-2025-5693",
+    "description": "Human Metapneumovirus Testing Management System是一个人类亚肺病毒检测管理系统。Human Metapneumovirus Testing Management System存在SQL注入漏洞，该漏洞源于文件/bwdates-report-result.php中参数fromdate/todate缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/f1rstb100d/myCVE/issues/53",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-12-17",
+    "update_time": "2025-12-17",
+    "data_summary": "9dafd38c43e742f1f4ed1662e5885d93"
+}

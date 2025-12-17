@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-17 07:09:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30874",
+    "spider_time": 1765955352112,
+    "name": "MailEnable代码问题漏洞",
+    "cnvd": "CNVD-2025-30874",
+    "publish": "2025-12-17",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"MailEnable MailEnable <10.54\"]",
+    "cve": "CVE-2025-34396",
+    "description": "MailEnable是一款商业电子邮件服务器软件，专为Windows操作系统设计，提供端到端的电子邮件托管和协作解决方案。MailEnable存在代码问题漏洞，该漏洞源于DLL加载机制不安全，攻击者可利用该漏洞导致本地任意代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://mailenable.com/Standard-ReleaseNotes.txt",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://mailenable.com/download.asp",
+    "patch": "MailEnable代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-12",
+    "open_time": "2025-12-17",
+    "update_time": "2025-12-17",
+    "data_summary": "d2d886b336e1522f63c13bba4a5c5284"
+}

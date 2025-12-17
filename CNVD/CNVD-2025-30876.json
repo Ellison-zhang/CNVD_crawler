@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-17 07:10:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30876",
+    "spider_time": 1765955444590,
+    "name": "MailEnable failure.aspx组件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-30876",
+    "publish": "2025-12-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"MailEnable MailEnable <v10\"]",
+    "cve": "CVE-2025-44148",
+    "description": "MailEnable是一款商业电子邮件服务器软件，专为Windows操作系统设计，提供端到端的电子邮件托管和协作解决方案。MailEnable存在跨站脚本漏洞，该漏洞源于failure.aspx组件对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-44148",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://mailenable.com/download.asp",
+    "patch": "MailEnable failure.aspx组件跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-12-17",
+    "update_time": "2025-12-17",
+    "data_summary": "f24eb7b2a2acde645c6433a96d191b89"
+}
