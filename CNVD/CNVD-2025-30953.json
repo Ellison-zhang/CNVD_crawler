@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-18 07:07:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30953",
+    "spider_time": 1766041676072,
+    "name": "Online Fire Reporting System /search-report-result.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-30953",
+    "publish": "2025-12-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Online Fire Reporting System Online Fire Reporting System 1.2\"]",
+    "cve": "CVE-2025-5614",
+    "description": "Online Fire Reporting System是一个在线火灾报告系统。Online Fire Reporting System存在SQL注入漏洞，该漏洞源于文件/search-report-result.php中参数serachdata缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/YZS17/CVE/blob/main/Online_Fire_Reporting_System/sqli_search-report-result.php_searchdata.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-12-18",
+    "update_time": "2025-12-18",
+    "data_summary": "a50e4cf75aefb6fe8d9f05b362db829b"
+}
