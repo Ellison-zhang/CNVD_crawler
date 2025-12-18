@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-17 23:04:48",
+    "parse_time": "2025-12-18 00:13:27",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30854",
-    "spider_time": 1766012688406,
+    "spider_time": 1766016807320,
     "name": "Human Metapneumovirus Testing Management System /password-recovery.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-30854",
     "publish": "2025-12-16",
