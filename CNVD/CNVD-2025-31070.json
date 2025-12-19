@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-19 22:04:21",
+    "parse_time": "2025-12-19 23:07:37",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31070",
-    "spider_time": 1766181861437,
+    "spider_time": 1766185657986,
     "name": "Advantech WebAccess/VPN StandaloneVpnClientsController.addStandaloneVpnClientAction函数跨站脚本漏洞",
     "cnvd": "CNVD-2025-31070",
     "publish": "2025-12-18",
