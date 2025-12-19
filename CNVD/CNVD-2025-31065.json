@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-19 08:05:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31065",
+    "spider_time": 1766131552926,
+    "name": "Advantech iView SQL注入漏洞（CNVD-2025-31065）",
+    "cnvd": "CNVD-2025-31065",
+    "publish": "2025-12-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Advantech iView <v5.7.04 build 6425\"]",
+    "cve": "CVE-2022-50595",
+    "description": "Advantech iView是由研华公司开发的一款软件，主要用于通过简单网络管理协议来管理B+BSmartWorx系列设备。Advantech iView存在SQL注入漏洞，该漏洞源于SNMP管理工具中的ztp_search_value参数缺少对外部输入SQL语句的验证。攻击者可利用该漏洞导致管理员权限的远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://blog.exodusintel.com/2022/03/01/advantech-iview-ztp_search_value-parameter-sql-injection-remote-code-execution-vulnerability/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.advantech.com/zh-tw/support/details/firmware?id=1-HIPU-183",
+    "patch": "Advantech iView SQL注入漏洞（CNVD-2025-31065）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-11",
+    "open_time": "2025-12-19",
+    "update_time": "2025-12-19",
+    "data_summary": "cc00d591970a0cc67666bbb00b5db6a5"
+}
