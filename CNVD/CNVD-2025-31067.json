@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-19 19:04:19",
+    "parse_time": "2025-12-19 20:04:38",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31067",
-    "spider_time": 1766171059550,
+    "spider_time": 1766174678939,
     "name": "Advantech WebAccess/VPN AjaxFwRulesController.ajaxDeviceFwRulesAction函数SQL注入漏洞",
     "cnvd": "CNVD-2025-31067",
     "publish": "2025-12-18",
