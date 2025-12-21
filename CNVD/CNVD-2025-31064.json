@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-21 20:04:15",
+    "parse_time": "2025-12-21 21:04:00",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31064",
-    "spider_time": 1766347455109,
+    "spider_time": 1766351040929,
     "name": "Advantech iView SQL注入漏洞（CNVD-2025-31064）",
     "cnvd": "CNVD-2025-31064",
     "publish": "2025-12-18",
