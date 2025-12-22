@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-22 00:20:46",
+    "parse_time": "2025-12-22 01:36:02",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30950",
-    "spider_time": 1766362846876,
+    "spider_time": 1766367362147,
     "name": "Online Fire Reporting System /manage-teams.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-30950",
     "publish": "2025-12-17",
