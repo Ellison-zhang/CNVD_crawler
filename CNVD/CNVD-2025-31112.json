@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-22 15:05:16",
+    "parse_time": "2025-12-22 16:07:08",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31112",
-    "spider_time": 1766415916384,
+    "spider_time": 1766419628622,
     "name": "Online Birth Certificate System不安全的直接对象引用漏洞",
     "cnvd": "CNVD-2025-31112",
     "publish": "2025-12-18",
