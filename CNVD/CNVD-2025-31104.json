@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-22 09:06:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31104",
+    "spider_time": 1766394414651,
+    "name": "Advantech WebAccess/VPN命令注入漏洞",
+    "cnvd": "CNVD-2025-31104",
+    "publish": "2025-12-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Advantech WebAccess/VPN <1.1.5\"]",
+    "cve": "CVE-2025-34239",
+    "description": "Advantech WebAccess/VPN是一种集成在研华（Advantech）WebAccess/SCADA软件中的虚拟专用网络功能，旨在为工业自动化和远程监控系统提供安全、可靠的网络连接解决方案。Advantech WebAccess/VPN存在命令注入漏洞，该漏洞源于AppManagementController.appUpgradeAction函数未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-34239",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://icr.advantech.com/download/software",
+    "patch": "Advantech WebAccess/VPN命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-11",
+    "open_time": "2025-12-22",
+    "update_time": "2025-12-22",
+    "data_summary": "72fb3202f07eb901ee1dc54159476685"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-22 09:07:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31102",
+    "spider_time": 1766394454731,
+    "name": "News Portal login.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-31102",
+    "publish": "2025-12-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"News Portal News Portal 4.1\"]",
+    "cve": "CVE-2025-1859",
+    "description": "News Portal是一个新闻门户网站。News Portal存在SQL注入漏洞，该漏洞源于login.php文件缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/panghuanjie/Code-audits/issues/2",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-12-22",
+    "update_time": "2025-12-22",
+    "data_summary": "4150b8962bcef028fd9d2bee6c1e0788"
+}
