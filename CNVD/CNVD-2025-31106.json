@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-22 13:14:46",
+    "parse_time": "2025-12-22 14:05:06",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31106",
-    "spider_time": 1766409286097,
+    "spider_time": 1766412306980,
     "name": "Online Birth Certificate System /search.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-31106",
     "publish": "2025-12-18",
