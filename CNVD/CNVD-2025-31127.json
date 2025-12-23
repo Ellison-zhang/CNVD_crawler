@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-23 02:39:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31127",
+    "spider_time": 1766457568777,
+    "name": "WordPress Actionwear products sync plugin缺失授权漏洞",
+    "cnvd": "CNVD-2025-31127",
+    "publish": "2025-12-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"WordPress Actionwear products sync plugin <=2.3.3\"]",
+    "cve": "CVE-2025-49350",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Actionwear products sync plugin存在缺失授权漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/actionwear-products-sync/vulnerability/wordpress-actionwear-products-sync-plugin-2-3-3-broken-access-control-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-12",
+    "open_time": "2025-12-23",
+    "update_time": "2025-12-23",
+    "data_summary": "37c2085671909b0fdccc61ae10792eee"
+}

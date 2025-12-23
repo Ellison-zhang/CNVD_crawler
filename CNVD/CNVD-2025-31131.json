@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-23 02:39:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31131",
+    "spider_time": 1766457597747,
+    "name": "WordPress BERTHA AI plugin缺少授权漏洞",
+    "cnvd": "CNVD-2025-31131",
+    "publish": "2025-12-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress BERTHA AI plugin <=1.13\"]",
+    "cve": "CVE-2025-62085",
+    "description": "WordPress BERTHA AI plugin是一款专为WordPress网站设计的人工智能插件，主要功能包括自动化内容生成、图像创建以及SEO优化，旨在提升网站内容创作的效率。WordPress BERTHA AI plugin存在缺少授权漏洞，攻击者可利用该漏洞利用错误配置的访问控制安全级别。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/bertha-ai-free/vulnerability/wordpress-bertha-ai-plugin-1-13-broken-access-control-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-12",
+    "open_time": "2025-12-23",
+    "update_time": "2025-12-23",
+    "data_summary": "bb38818845088bfd14915f6566509cd1"
+}

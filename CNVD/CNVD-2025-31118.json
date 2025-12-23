@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-23 02:38:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31118",
+    "spider_time": 1766457520305,
+    "name": "WordPress WP CarDealer权限提升漏洞",
+    "cnvd": "CNVD-2025-31118",
+    "publish": "2025-12-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress WP CarDealer <=1.2.16\"]",
+    "cve": "CVE-2025-13764",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品，WordPress plugin是一个应用插件。WordPress WP CarDealer存在权限提升漏洞，该漏洞源于用户角色注册限制不足，攻击者可利用该漏洞获得网站的管理员访问权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-13764",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/cardealer/",
+    "patch": "WordPress WP CarDealer权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-16",
+    "open_time": "2025-12-23",
+    "update_time": "2025-12-23",
+    "data_summary": "e8c8061f581c6010cfe845a10c264111"
+}

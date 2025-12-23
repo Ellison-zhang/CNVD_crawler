@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-23 02:38:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31114",
+    "spider_time": 1766457485090,
+    "name": "WordPress Fancy Product Designer plugin服务器端请求伪造漏洞",
+    "cnvd": "CNVD-2025-31114",
+    "publish": "2025-12-22",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress Fancy Product Designer plugin <=6.4.8\"]",
+    "cve": "CVE-2025-13231",
+    "description": "WordPress Fancy Product Designer plugin是一款专为WordPress平台设计的电子商务插件，主要用于实现产品在线定制功能。WordPress Fancy Product Designer plugin存在服务器端请求伪造漏洞，该漏洞源于fpd_custom_uplod_file AJAX操作中的url参数存在一个检查时间/使用时间（TOCTOU）竞争条件，攻击者可利用该漏洞导致机密性、完整性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://support.fancyproductdesigner.com/support/discussions/topics/13000036024",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress Fancy Product Designer plugin服务器端请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-22",
+    "open_time": "2025-12-23",
+    "update_time": "2025-12-23",
+    "data_summary": "4e948b7b0a62087a7c117a9167868084"
+}
