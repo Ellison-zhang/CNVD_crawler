@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-23 21:13:40",
+    "parse_time": "2025-12-23 22:09:40",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31163",
-    "spider_time": 1766524420200,
+    "spider_time": 1766527780426,
     "name": "Tenda FH1202 formSetCfm方法堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-31163",
     "publish": "2025-12-19",
