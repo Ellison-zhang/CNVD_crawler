@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-23 17:15:22",
+    "parse_time": "2025-12-23 18:11:54",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31162",
-    "spider_time": 1766510122516,
+    "spider_time": 1766513514062,
     "name": "Tenda FH1202 fromAddressNat方法堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-31162",
     "publish": "2025-12-19",
