@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-22 23:03:55",
+    "parse_time": "2025-12-23 00:15:40",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31103",
-    "spider_time": 1766444635810,
+    "spider_time": 1766448940160,
     "name": "Advantech WebAccess/VPN绝对路径遍历漏洞",
     "cnvd": "CNVD-2025-31103",
     "publish": "2025-12-18",
