@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-23 12:10:36",
+    "parse_time": "2025-12-23 13:19:26",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31165",
-    "spider_time": 1766491836348,
+    "spider_time": 1766495966365,
     "name": "Tenda FH1202 formSetSpeedWan方法堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-31165",
     "publish": "2025-12-19",
