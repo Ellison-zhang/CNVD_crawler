@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-23 03:33:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31143",
+    "spider_time": 1766460802351,
+    "name": "Huawei HarmonyOS/EMUI权限校验漏洞",
+    "cnvd": "CNVD-2025-31143",
+    "publish": "2025-12-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Huawei EMUI 12.0.0\", \"Huawei HarmonyOS 2.1.0\", \"Huawei HarmonyOS  3.0.0\", \"Huawei HarmonyOS  2.0.0\", \"Huawei HarmonyOS  3.1.0\", \"Huawei EMUI 13.0.0\", \"Huawei HarmonyOS 4.0.0\"]",
+    "cve": "CVE-2023-52539",
+    "description": "Huawei HarmonyOS是华为技术有限公司自主研发的面向全场景的分布式操作系统。Huawei EMUI是华为基于Android（安卓）进行开发的情感化操作系统。Huawei HarmonyOS/EMUI存在权限校验漏洞，该漏洞源于设置模块存在权限校验漏洞。攻击者可利用该漏洞影响服务的机密性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-52539",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://consumer.huawei.com/en/support/bulletin/2024/3/",
+    "patch": "Huawei HarmonyOS/EMUI权限校验漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-11",
+    "open_time": "2025-12-23",
+    "update_time": "2025-12-23",
+    "data_summary": "93a2b5797af1b49ff99cdeefaa1a7919"
+}
