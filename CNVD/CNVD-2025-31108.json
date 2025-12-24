@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-23 23:09:35",
+    "parse_time": "2025-12-24 00:23:23",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31108",
-    "spider_time": 1766531375672,
+    "spider_time": 1766535803719,
     "name": "Online Birth Certificate System /user/certificate-form.php文件跨站脚本漏洞",
     "cnvd": "CNVD-2025-31108",
     "publish": "2025-12-18",
