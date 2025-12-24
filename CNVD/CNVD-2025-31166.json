@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-24 00:23:14",
+    "parse_time": "2025-12-24 01:41:10",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31166",
-    "spider_time": 1766535794674,
+    "spider_time": 1766540470724,
     "name": "Tenda FH1203 fromNatStaticSetting方法堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-31166",
     "publish": "2025-12-19",
