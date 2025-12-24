@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-24 14:19:12",
+    "parse_time": "2025-12-24 15:08:32",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31157",
-    "spider_time": 1766585952816,
+    "spider_time": 1766588912900,
     "name": "Tenda FH1202 saveParentControlInfo方法堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-31157",
     "publish": "2025-12-19",
