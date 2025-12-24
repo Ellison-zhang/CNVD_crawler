@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-24 20:04:12",
+    "parse_time": "2025-12-24 21:03:57",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31212",
-    "spider_time": 1766606652447,
+    "spider_time": 1766610237271,
     "name": "Company Visitor Management System /visitors-form.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-31212",
     "publish": "2025-12-23",
