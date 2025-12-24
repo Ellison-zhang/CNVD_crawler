@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-24 13:21:30",
+    "parse_time": "2025-12-24 14:19:25",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31160",
-    "spider_time": 1766582490967,
+    "spider_time": 1766585965543,
     "name": "Tenda FH1202 deviceId参数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-31160",
     "publish": "2025-12-19",
