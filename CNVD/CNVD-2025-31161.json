@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-24 04:18:32",
+    "parse_time": "2025-12-24 05:08:42",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31161",
-    "spider_time": 1766549912325,
+    "spider_time": 1766552922499,
     "name": "Tenda FH1202 formWifiBasicSet方法栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-31161",
     "publish": "2025-12-19",
