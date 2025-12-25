@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-25 02:40:21",
+    "parse_time": "2025-12-25 03:32:40",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31117",
-    "spider_time": 1766630421412,
+    "spider_time": 1766633560604,
     "name": "WordPress List category posts SQL注入漏洞",
     "cnvd": "CNVD-2025-31117",
     "publish": "2025-12-19",
