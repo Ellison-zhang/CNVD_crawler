@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-25 09:05:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31333",
+    "spider_time": 1766653556121,
+    "name": "WordPress Grider for Elementor plugin缺少授权漏洞",
+    "cnvd": "CNVD-2025-31333",
+    "publish": "2025-12-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Grider for Elementor plugin <=1.0.8\"]",
+    "cve": "CVE-2025-66161",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Grider for Elementor plugin存在缺少授权漏洞，攻击者可利用该漏洞利用配置不正确的访问控制安全级别。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/grider-elementor/vulnerability/wordpress-grider-for-elementor-plugin-1-0-8-broken-access-control-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-22",
+    "open_time": "2025-12-25",
+    "update_time": "2025-12-25",
+    "data_summary": "37dd6f1667e1f0f9638128528792ffe1"
+}

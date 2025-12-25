@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-25 09:05:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31327",
+    "spider_time": 1766653527878,
+    "name": "WordPress FileBird Pro plugin缺失授权漏洞",
+    "cnvd": "CNVD-2025-31327",
+    "publish": "2025-12-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress FileBird Pro plugin <=6.4.9\"]",
+    "cve": "CVE-2025-66134",
+    "description": "WordPress FileBird Pro plugin是一款专为WordPress网站设计的媒体库管理插件，旨在帮助用户更高效地组织和操作媒体文件。WordPress FileBird Pro plugin存在缺失授权漏洞，攻击者可利用该漏洞利用错误配置的访问控制安全级别。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/filebird-pro/vulnerability/wordpress-filebird-pro-plugin-6-4-9-broken-access-control-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-22",
+    "open_time": "2025-12-25",
+    "update_time": "2025-12-25",
+    "data_summary": "d1e3b49f73bab9710424a1d8390904db"
+}

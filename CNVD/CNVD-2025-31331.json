@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-25 09:05:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31331",
+    "spider_time": 1766653547254,
+    "name": "WordPress FX Currency Converter plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-31331",
+    "publish": "2025-12-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress FX Currency Converter plugin <=0.2.0\"]",
+    "cve": "CVE-2025-13963",
+    "description": "WordPress FX Currency Converter plugin是一款用于WordPress网站的插件，旨在提供货币转换功能，允许用户在不同货币之间进行实时汇率计算。WordPress FX Currency Converter plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/fx-currency-converter/tags/0.2.0/includes/shortcode.php#L57",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/fx-currency-converter",
+    "patch": "WordPress FX Currency Converter plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-22",
+    "open_time": "2025-12-25",
+    "update_time": "2025-12-25",
+    "data_summary": "db84828b98ec6b2706a3104a8acc438b"
+}
