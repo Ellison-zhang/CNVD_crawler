@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-25 10:06:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31390",
+    "spider_time": 1766657205988,
+    "name": "Apache OpenOffice越界写漏洞",
+    "cnvd": "CNVD-2025-31390",
+    "publish": "2025-12-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"Apache OpenOffice <4.1.16\"]",
+    "cve": "CVE-2025-64406",
+    "description": "Apache OpenOffice是美国阿帕奇（Apache）基金会的一款开源的办公软件套件。Apache OpenOffice存在越界写漏洞，该漏洞源于内存缓冲区数据越界被写，远程攻击者可利用该漏洞使程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-64406",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttps://www.openoffice.org/security/cves/CVE-2025-64406.html",
+    "patch": "Apache OpenOffice越界写漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-12-25",
+    "update_time": "2025-12-25",
+    "data_summary": "802d7de86f1a901fec2828de91f3eb7f"
+}

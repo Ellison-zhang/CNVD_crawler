@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-25 10:04:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31395",
+    "spider_time": 1766657058497,
+    "name": "Apache Fory反序列化漏洞",
+    "cnvd": "CNVD-2025-31395",
+    "publish": "2025-12-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apache Fory >=0.1.0\\uff0c<=0.10.3\", \"Apache Fory >=0.12.0\\uff0c<=0.12.2\"]",
+    "cve": "CVE-2025-61622",
+    "description": "Apache Fory是一个基于JIT动态编译和零拷贝技术的多语言序列化框架，专为分布式系统和高性能计算场景设计。Apache Fory存在反序列化漏洞，该漏洞源于类不安全反序列化，远程攻击者可利用该漏洞可构造恶意数据流触发远程任意代码的执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-61622",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttps://fory.apache.org/download/",
+    "patch": "Apache Fory反序列化漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-09",
+    "open_time": "2025-12-25",
+    "update_time": "2025-12-25",
+    "data_summary": "0244f4ad50e46749cd039899f49dc9ac"
+}
