@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-26 20:06:45",
+    "parse_time": "2025-12-26 21:05:55",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31156",
-    "spider_time": 1766779605694,
+    "spider_time": 1766783155770,
     "name": "Currency Exchange System /editotheraccount.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-31156",
     "publish": "2025-12-22",
