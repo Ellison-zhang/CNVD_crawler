@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-26 14:08:31",
+    "parse_time": "2025-12-26 15:06:21",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31125",
-    "spider_time": 1766758111013,
+    "spider_time": 1766761581806,
     "name": "WordPress db-access SQL注入漏洞",
     "cnvd": "CNVD-2025-31125",
     "publish": "2025-12-19",
