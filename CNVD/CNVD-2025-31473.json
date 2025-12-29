@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-29 09:09:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31473",
+    "spider_time": 1766999346302,
+    "name": "Dell Secure Connect Gateway访问控制错误漏洞（CNVD-2025-31473）",
+    "cnvd": "CNVD-2025-31473",
+    "publish": "2025-12-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"DELL Dell Secure Connect Gateway <5.24.00.00\"]",
+    "cve": "CVE-2024-28969",
+    "description": "Dell Secure Connect Gateway是戴尔公司推出的一款企业级安全连接网关设备。Dell Secure Connect Gateway存在访问控制错误漏洞，该漏洞源于内部更新REST API存在访问控制不当问题，攻击者可利用该漏洞在应用程序的后端数据库上执行仅适用于管理员用户的某些API，这可能会允许未经授权的用户访问受限资源。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-28969",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-us/000225910/dsa-2024-181-security-update-for-dell-secure-connect-gateway-application-and-appliance-vulnerabilities",
+    "patch": "Dell Secure Connect Gateway访问控制错误漏洞（CNVD-2025-31473）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-18",
+    "open_time": "2025-12-29",
+    "update_time": "2025-12-29",
+    "data_summary": "bd6a373d9f8d3114edac87f7290de28c"
+}

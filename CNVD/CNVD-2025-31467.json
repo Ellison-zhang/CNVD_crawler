@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-29 09:07:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31467",
+    "spider_time": 1766999244405,
+    "name": "Google Android逻辑错误漏洞（CNVD-2025-3146717）",
+    "cnvd": "CNVD-2025-31467",
+    "publish": "2025-12-29",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android 14.0\", \"Google Android 13.0\"]",
+    "cve": "CVE-2025-48627",
+    "description": "Google Android是由Google公司主导开发的一种基于Linux内核的自由及开放源代码移动操作系统。Google Android存在逻辑错误漏洞，该漏洞源于代码逻辑错误，攻击者可利用该漏洞导致本地权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/d34ae40f870d4362a069940a035a4d58a536a231",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/2025-12-01",
+    "patch": "Google Android逻辑错误漏洞（CNVD-2025-3146717）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2025-12-29",
+    "update_time": "2025-12-29",
+    "data_summary": "efbef0a34ff4e7f1e6877948dc074860"
+}
