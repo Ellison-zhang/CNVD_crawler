@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-30 14:05:46",
+    "parse_time": "2025-12-30 15:07:38",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31562",
-    "spider_time": 1767103546603,
+    "spider_time": 1767107258329,
     "name": "D-Link DIR-2640堆栈缓冲区溢出远程代码执行漏洞",
     "cnvd": "CNVD-2025-31562",
     "publish": "2025-12-29",
