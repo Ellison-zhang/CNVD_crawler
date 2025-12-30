@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-30 22:11:45",
+    "parse_time": "2025-12-30 23:04:48",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31560",
-    "spider_time": 1767132705446,
+    "spider_time": 1767135888529,
     "name": "D-Link DIR-2640命令注入远程代码执行漏洞",
     "cnvd": "CNVD-2025-31560",
     "publish": "2025-12-29",
