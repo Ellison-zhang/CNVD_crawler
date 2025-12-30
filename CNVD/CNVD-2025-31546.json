@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-30 03:31:53",
+    "parse_time": "2025-12-30 04:16:55",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31546",
-    "spider_time": 1767065513174,
+    "spider_time": 1767068215116,
     "name": "IBM Aspera Orchestrator未验证的密码更改漏洞",
     "cnvd": "CNVD-2025-31546",
     "publish": "2025-12-29",
