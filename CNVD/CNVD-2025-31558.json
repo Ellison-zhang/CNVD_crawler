@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-30 11:05:04",
+    "parse_time": "2025-12-30 12:12:38",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31558",
-    "spider_time": 1767092704638,
+    "spider_time": 1767096758581,
     "name": "D-Link DAP-2622命令注入远程代码执行漏洞",
     "cnvd": "CNVD-2025-31558",
     "publish": "2025-12-29",
