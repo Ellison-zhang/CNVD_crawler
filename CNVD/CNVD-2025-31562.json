@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-30 02:41:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31562",
+    "spider_time": 1767062489420,
+    "name": "D-Link DIR-2640堆栈缓冲区溢出远程代码执行漏洞",
+    "cnvd": "CNVD-2025-31562",
+    "publish": "2025-12-29",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-2640\"]",
+    "cve": "CVE-2023-32149",
+    "description": "D-Link DIR-2640是中国友讯（D-Link）公司生产的一款高功率Wi-Fi路由器，主要用于提供无线网络连接。D-Link DIR-2640存在堆栈缓冲区溢出远程代码执行漏洞，该漏洞源于prog.cgi请求处理基于堆栈的缓冲区溢出远程代码执行漏洞。攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-32149",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10323",
+    "patch": "D-Link DIR-2640堆栈缓冲区溢出远程代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-12",
+    "open_time": "2025-12-30",
+    "update_time": "2025-12-30",
+    "data_summary": "e3ddc3805a30fb2cea9239f2035b7731"
+}

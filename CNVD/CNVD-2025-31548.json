@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-30 02:39:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31548",
+    "spider_time": 1767062350646,
+    "name": "IBM Cloud Pak for Business Automation拒绝服务漏洞",
+    "cnvd": "CNVD-2025-31548",
+    "publish": "2025-12-29",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"IBM Cloud Pak for Business Automation 25.0.0\", \"IBM Cloud Pak for Business Automation 24.0.1\", \"IBM Cloud Pak for Business Automation 24.0.0\"]",
+    "cve": "CVE-2025-36092",
+    "description": "IBM Cloud Pak for Business Automation是一套模块化的集成软件组件，适用于任何类型的混合云环境，旨在通过自动化技术实现业务流程的数字化转型，从而加速业务增长并提升运营效率。IBM Cloud Pak for Business Automation存在拒绝服务漏洞，该漏洞源于输入长度验证不当，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36092",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.ibm.com/support/pages/node/7249999",
+    "patch": "IBM Cloud Pak for Business Automation拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-10",
+    "open_time": "2025-12-30",
+    "update_time": "2025-12-30",
+    "data_summary": "6856cdb8a68ac893911f2f8291e94ee9"
+}

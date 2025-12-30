@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-30 02:41:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31559",
+    "spider_time": 1767062474100,
+    "name": "D-Link DAP-2622硬编码凭据身份验证绕过漏洞",
+    "cnvd": "CNVD-2025-31559",
+    "publish": "2025-12-29",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DAP-2622\"]",
+    "cve": "CVE-2023-35724",
+    "description": "D-Link DAP-2622是一款由友讯科技（D-Link）推出的无线接入点（AP），设计用于企业或商业环境的无线网络覆盖。D-Link DAP-2622存在硬编码凭据身份验证绕过漏洞，该漏洞源于Telnet命令行界面使用硬编码凭据身份验证绕过漏洞。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-35724",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10349",
+    "patch": "D-Link DAP-2622硬编码凭据身份验证绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-12",
+    "open_time": "2025-12-30",
+    "update_time": "2025-12-30",
+    "data_summary": "9bae69edec3508f2de3551033555882a"
+}
