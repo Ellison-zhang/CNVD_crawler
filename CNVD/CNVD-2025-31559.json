@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-30 08:07:51",
+    "parse_time": "2025-12-30 09:07:15",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31559",
-    "spider_time": 1767082071900,
+    "spider_time": 1767085635034,
     "name": "D-Link DAP-2622硬编码凭据身份验证绕过漏洞",
     "cnvd": "CNVD-2025-31559",
     "publish": "2025-12-29",
