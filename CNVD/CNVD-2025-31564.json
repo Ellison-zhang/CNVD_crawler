@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-30 12:13:07",
+    "parse_time": "2025-12-30 13:21:01",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31564",
-    "spider_time": 1767096787018,
+    "spider_time": 1767100861037,
     "name": "D-Link DAP-2622堆栈缓冲区溢出远程代码执行漏洞",
     "cnvd": "CNVD-2025-31564",
     "publish": "2025-12-29",
