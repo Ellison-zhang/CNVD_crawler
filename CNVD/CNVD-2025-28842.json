@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-31 08:26:34",
+    "parse_time": "2025-12-31 08:41:28",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28842",
-    "spider_time": 1767140794318,
+    "spider_time": 1767141688754,
     "name": "Tenda AX-1803 SetSysTimeCfg函数栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-28842",
     "publish": "2025-11-19",

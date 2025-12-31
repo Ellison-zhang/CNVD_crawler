@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-31 08:24:49",
+    "parse_time": "2025-12-31 08:38:43",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28819",
-    "spider_time": 1767140689767,
+    "spider_time": 1767141523092,
     "name": "Student Record System admin-profile.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-28819",
     "publish": "2025-11-19",

@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-31 08:25:54",
+    "parse_time": "2025-12-31 08:40:48",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28651",
-    "spider_time": 1767140754585,
+    "spider_time": 1767141648537,
     "name": "Adobe Illustrator堆缓冲区溢出漏洞（CNVD-2025-28651）",
     "cnvd": "CNVD-2025-28651",
     "publish": "2025-11-19",

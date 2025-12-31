@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-31 08:27:49",
+    "parse_time": "2025-12-31 08:42:45",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29096",
-    "spider_time": 1767140869318,
+    "spider_time": 1767141765699,
     "name": "Tenda AC18 SetRouteStatic函数缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-29096",
     "publish": "2025-11-19",

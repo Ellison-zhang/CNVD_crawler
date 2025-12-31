@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-31 08:27:26",
+    "parse_time": "2025-12-31 08:42:19",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28692",
-    "spider_time": 1767140846334,
+    "spider_time": 1767141739285,
     "name": "Tenda AC15堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-28692",
     "publish": "2025-11-19",

@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-31 08:26:24",
+    "parse_time": "2025-12-31 08:41:18",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28839",
-    "spider_time": 1767140784842,
+    "spider_time": 1767141678915,
     "name": "Tenda AC18 guestSsid参数堆栈缓冲区溢出漏洞",
     "cnvd": "CNVD-2025-28839",
     "publish": "2025-11-19",
