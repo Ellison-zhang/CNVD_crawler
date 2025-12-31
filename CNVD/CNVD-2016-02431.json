@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:11:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2016-02431",
+    "spider_time": 1767147060343,
+    "name": "Oracle MySQL Server: Optimizer子组件拒绝服务漏洞",
+    "cnvd": "CNVD-2016-02431",
+    "publish": "2016-04-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Oracle MySQL Server \\r\\n<=5.7.11\"]",
+    "cve": "CVE-2016-0659",
+    "description": "Oracle MySQL是美国甲骨文（Oracle）公司的一套开源的关系数据库管理系统。该数据库系统具有性能高、成本低、可靠性好等特点。Oracle MySQL 5.7.11及之前版本的Server: Optimizer子组件中存在拒绝服务漏洞。本地攻击者可利用该漏洞造成拒绝服务，影响数据的可用性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.oracle.com/technetwork/security-advisory/cpuapr2016v3-2985753.html",
+    "solution": "目前厂商已经发布了升级补丁以修复此安全问题，补丁获取链接：\nhttp://www.oracle.com/technetwork/security-advisory/cpuapr2016v3-2985753.html",
+    "patch": "Oracle MySQL Server: Optimizer子组件拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2016-04-20",
+    "open_time": "2016-04-21",
+    "update_time": "2016-04-21",
+    "data_summary": "ae37ead2499457e2f3438121a9a7fd46"
+}

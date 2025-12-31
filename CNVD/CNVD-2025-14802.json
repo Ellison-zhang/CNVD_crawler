@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:23:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14802",
+    "spider_time": 1767158597213,
+    "name": "SONY XAV-AX8500堆缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-14802",
+    "publish": "2025-06-30",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"SONY XAV-AX8500\"]",
+    "cve": "CVE-2025-5477",
+    "description": "SONY XAV-AX8500是一款具有增强功能的汽车AV接收器。SONY XAV-AX8500存在堆缓冲区溢出漏洞，该漏洞源于蓝牙L2CAP协议实现不当，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-25-354/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.sony.com/electronics/support/mobile-cd-players-digital-media-players-xav-series/xav-ax8500/downloads",
+    "patch": "SONY XAV-AX8500堆缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-24",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "c5955c0db7d7ff30e44ac899eb50cda2"
+}

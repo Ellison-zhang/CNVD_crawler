@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:01:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24734",
+    "spider_time": 1767168064485,
+    "name": "F5 BIG-IP TMM数据篡改漏洞",
+    "cnvd": "CNVD-2025-24734",
+    "publish": "2025-10-21",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:N/I:P/A:N",
+    "product": "[\"F5 F5 BIG-IP null\"]",
+    "cve": "CVE-2025-58424",
+    "description": "F5 BIG-IP是F5公司的一款集成了网络流量编排、负载均衡、智能DNS，远程接入策略管理等功能的应用交付平台。BIG-IP的TMM模块存在数据篡改漏洞，该漏洞产生的原因是未公开的流量可导致在缺乏消息完整性保护的协议中发生数据损坏和未经授权的数据修改。攻击者可利用该漏洞向未启用消息完整性保护（如未使用TLS）的活动TCP连接注入恶意数据，造成远程未认证的数据篡改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-58424",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://my.f5.com/manage/s/article/K000156572",
+    "patch": "F5 BIG-IP TMM数据篡改漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "647012daacfe07917ab444ac46c2b192"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:57:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18012",
+    "spider_time": 1767160632370,
+    "name": "IBM Db2 for Linux缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18012",
+    "publish": "2025-08-05",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"IBM DB2 for Linux 12.1.0\", \"IBM DB2 for Linux 12.1.1\", \"IBM DB2 for Linux 12.1.2\"]",
+    "cve": "CVE-2025-33092",
+    "description": "IBM Db2 for Linux是IBM公司的一款关系型数据库管理系统。IBM Db2 for Linux 12.1.0、12.1.1和12.1.2版本存在基于栈的缓冲区溢出漏洞，该漏洞源于db2fm组件未对边界进行充分检查。本地用户可利用该漏洞溢出缓冲区并在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-33092",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.ibm.com/support/pages/node/7240940",
+    "patch": "IBM Db2 for Linux缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-30",
+    "open_time": "2025-08-11",
+    "update_time": "2025-08-11",
+    "data_summary": "27d5a3cac189f15cef45493edd62d023"
+}

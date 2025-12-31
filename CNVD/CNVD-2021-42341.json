@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:43:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-42341",
+    "spider_time": 1767149026080,
+    "name": "OpenText Brava! Desktop越界读取漏洞",
+    "cnvd": "CNVD-2021-42341",
+    "publish": "2021-06-17",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"OpenText Brava! Desktop 16.6.3.84\"]",
+    "cve": "CVE-2021-31501",
+    "description": "OpenText Brava! Desktop是一款基于Windows的查看和协作工具，可让您轻松查看几乎任何文件并进行协作。OpenText Brava! Desktop中DWG文件的解析存在越界读取漏洞。该漏洞源于对用户提供的数据缺少适当的验证。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-21-641/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.opentext.com/products-and-solutions/products/enterprise-content-management/opentext-brava",
+    "patch": "OpenText Brava! Desktop越界读取漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-06-03",
+    "open_time": "2021-06-17",
+    "update_time": "2021-06-17",
+    "data_summary": "cc7803e207ffbee8b6e3f5c3532093a9"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:27:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-29683",
+    "spider_time": 1767151670323,
+    "name": "Ffmpeg内存错误引用漏洞（CNVD-2024-29683）",
+    "cnvd": "CNVD-2024-29683",
+    "publish": "2024-07-02",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"FFmpeg FFmpeg n6.1.1\"]",
+    "cve": "CVE-2024-31578",
+    "description": "FFmpeg是FFmpeg团队的一套可录制、转换以及流化音视频的完整解决方案。FFmpeg n6.1.1版本存在内存错误引用漏洞，攻击者可利用该漏洞造成拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-31578",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/FFmpeg/FFmpeg/releases/tag/n7.1-dev",
+    "patch": "Ffmpeg内存错误引用漏洞（CNVD-2024-29683）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-22",
+    "open_time": "2024-07-01",
+    "update_time": "2024-07-01",
+    "data_summary": "14d344a4636756c097330e03364ca737"
+}

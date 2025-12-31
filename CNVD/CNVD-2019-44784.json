@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:26:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2019-44784",
+    "spider_time": 1767147963997,
+    "name": "Siemens SPPA-T3000信息泄露漏洞（CNVD-2019-44784）",
+    "cnvd": "CNVD-2019-44784",
+    "publish": "2019-12-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Siemens SPPA-T3000 Application Server\"]",
+    "cve": "CVE-2019-18334",
+    "description": "SPPA-T3000是一种分布式控制系统，主要应用于火力发电厂和大型可再生能源发电厂。Siemens SPPA-T3000存在信息泄露漏洞。对应用程序服务器具有网络访问权限的攻击者可以通过向8090/tcp发送精心编制的数据包来枚举有效的用户名。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/pdf/ssa-451445.pdf",
+    "solution": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/pdf/ssa-451445.pdf",
+    "patch": "Siemens SPPA-T3000信息泄露漏洞（CNVD-2019-44784）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2019-12-11",
+    "open_time": "2019-12-11",
+    "update_time": "2019-12-11",
+    "data_summary": "eca84f022a576da610f7d15ebe52a973"
+}

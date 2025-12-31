@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:58:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11084",
+    "spider_time": 1767157120992,
+    "name": "NETGEAR RAX50命令注入漏洞",
+    "cnvd": "CNVD-2025-11084",
+    "publish": "2025-05-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR RAX5 V1.0.2.26\"]",
+    "cve": "CVE-2024-57230",
+    "description": "NETGEAR RAX5是美国网件（NETGEAR）公司的一款无线路由器。NETGEAR RAX50存在命令注入漏洞。该漏洞源于apcli_do_enr_pin_wps函数中ifname参数处理不当，攻击者可利用该漏洞发起攻击，导致系统受损或被控制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/yanggao017/vuln/blob/main/NETGEAR/RAX5/CI_3_apcli_do_enr_pin_wps/README.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/support/product/rax5/",
+    "patch": "NETGEAR RAX50命令注入漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-05-08",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "fdabda06ee18802fa874c2159b4bf658"
+}

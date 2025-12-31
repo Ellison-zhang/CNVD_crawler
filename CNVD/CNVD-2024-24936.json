@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:02:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-24936",
+    "spider_time": 1767150141004,
+    "name": "IBM Security Guardium存在未明漏洞（CNVD-2024-24936）",
+    "cnvd": "CNVD-2024-24936",
+    "publish": "2024-05-29",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"IBM Security Guardium 11.3\", \"IBM Security Guardium 11.4\", \"IBM Security Guardium 11.5\", \"IBM Security Guardium 12.0\"]",
+    "cve": "CVE-2023-47712",
+    "description": "IBM Security Guardium是美国国际商业机器（IBM）公司的一套提供数据保护功能的平台。该平台包括自定义UI、报告管理和流线化的审计流程构建等功能。IBM Security Guardium存在安全漏洞，该漏洞源于权限控制不当，攻击者可利用该漏洞在系统上获得提升的权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.ibm.com/support/pages/node/7150840\nhttps://exchange.xforce.ibmcloud.com/vulnerabilities/271524\nhttps://cxsecurity.com/cveshow/CVE-2023-47712/",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://www.ibm.com/support/pages/node/7150840",
+    "patch": "IBM Security Guardium存在未明漏洞（CNVD-2024-24936）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-24",
+    "open_time": "2024-05-30",
+    "update_time": "2024-05-30",
+    "data_summary": "6f65a1e68ada2b5aa9a287832bfc5a08"
+}

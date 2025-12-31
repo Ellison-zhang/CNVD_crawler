@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:32:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2019-01762",
+    "spider_time": 1767148323530,
+    "name": "Google Chrome V8内存访问越界漏洞",
+    "cnvd": "CNVD-2019-01762",
+    "publish": "2019-01-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Google Chrome <70.0.3538.102\"]",
+    "cve": "CVE-2018-17478",
+    "description": "Google Chrome是美国谷歌（Google）公司开发的一款Web浏览器。V8是其中的一套开源JavaScript引擎。Google Chrome 70.0.3538.102之前版本中的V8存在安全漏洞。攻击者可利用该漏洞向任意内存位置执行写入和读取操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.securityfocus.com/bid/105879",
+    "solution": "目前厂商已更新补丁，请相关用户及时下载更新：\nhttps://chromereleases.googleblog.com/",
+    "patch": "Google Chrome V8内存访问越界漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2018-11-13",
+    "open_time": "2019-01-17",
+    "update_time": "2018-11-13",
+    "data_summary": "8d2aed682eee87d41c5018e6686af0ff"
+}

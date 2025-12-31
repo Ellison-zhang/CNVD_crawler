@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:21:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-29338",
+    "spider_time": 1767151285470,
+    "name": "Adobe Commerce命令注入漏洞",
+    "cnvd": "CNVD-2024-29338",
+    "publish": "2024-06-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Adobe Adobe Commerce <=2.4.6-p1\", \"Adobe Adobe Commerce <=2.4.5-p3\", \"Adobe Adobe Commerce <=2.4.4-p4\"]",
+    "cve": "CVE-2023-38208",
+    "description": "Adobe Commerce使用AI和高级数据共享功能从灵活、可延伸和可扩展的单一平台创建端到端的个性化B2C和B2B商务体验。Adobe Commerce存在操作系统命令注入漏洞，该漏洞源于存在操作系统命令注入漏洞。具有管理员权限的攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-38208",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新:\nhttps://helpx.adobe.com/security/products/magento/apsb23-42.html",
+    "patch": "Adobe Commerce命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-08-11",
+    "open_time": "2024-06-26",
+    "update_time": "2024-06-26",
+    "data_summary": "acbd35707d42a459db13ac12dde11fe0"
+}

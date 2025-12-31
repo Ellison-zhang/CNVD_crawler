@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:27:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35657",
+    "spider_time": 1767155220813,
+    "name": "SAP NetWeaver Application Server跨站脚本漏洞（CNVD-2024-35657）",
+    "cnvd": "CNVD-2024-35657",
+    "publish": "2024-08-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"SAP SAP NetWeaver Application Server\"]",
+    "cve": "CVE-2024-32733",
+    "description": "SAP NetWeaver Application Server是德国思爱普（SAP）公司的一款应用程序服务器。SAP NetWeaver Application Server ABAP Platform存在跨站脚本漏洞，该漏洞源于缺少不受信任数据的输入验证和输出编码，未经身份验证的攻击者可利用该漏洞将恶意JavaScript代码注入动态制作的网页中。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-32733",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2024.html",
+    "patch": "SAP NetWeaver Application Server跨站脚本漏洞（CNVD-2024-35657）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-30",
+    "open_time": "2024-08-19",
+    "update_time": "2024-08-19",
+    "data_summary": "af76fcba28956028330e8bbbd49b1641"
+}

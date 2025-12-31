@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:38:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15799",
+    "spider_time": 1767159481010,
+    "name": "Cisco IOS XR输入验证错误漏洞（CNVD-2025-15799）",
+    "cnvd": "CNVD-2025-15799",
+    "publish": "2025-07-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Cisco Cisco IOS XR\"]",
+    "cve": "CVE-2025-20142",
+    "description": "Cisco IOS XR是美国思科（Cisco）公司的一套为其网络设备开发的操作系统。Cisco IOS XR存在安全漏洞，该漏洞源于对畸形IPv4数据包的错误处理，攻击者可利用该漏洞导致线路卡重置，从而导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://blog.apnic.net/2024/09/02/crafting-endless-as-paths-in-bgp/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ipv4uni-LfM3cfBu",
+    "patch": "Cisco IOS XR输入验证错误漏洞（CNVD-2025-15799）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-24",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "044ceb815cdc9f394f4ae1048f64a222"
+}

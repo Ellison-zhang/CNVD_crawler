@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:11:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12243",
+    "spider_time": 1767157871730,
+    "name": "北京用友政务软件股份有限公司一体化平台存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-12243",
+    "publish": "2025-06-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"北京用友政务软件股份有限公司 一体化平台\"]",
+    "cve": null,
+    "description": "北京用友政务软件股份有限公司是面向政府部门、事业单位、非营利组织的全方位业务管理信息化解决方案提供商。北京用友政务软件股份有限公司一体化平台存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修补方案，建议用户下载使用：\nhttps://security.yonyou.com/#/noticeInfo?id=595",
+    "patch": "北京用友政务软件股份有限公司一体化平台存在未授权访问漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-04-23",
+    "open_time": "2025-06-12",
+    "update_time": "2025-06-12",
+    "data_summary": "591be663899f3cf0bdcdff7c03ff55ac"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:45:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22585",
+    "spider_time": 1767167105581,
+    "name": "WordPress Memberlite Shortcodes plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-22585",
+    "publish": "2025-09-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Memberlite Shortcodes plugin <=1.4\"]",
+    "cve": "CVE-2025-10125",
+    "description": "WordPress Memberlite Shortcodes plugin是一个用于扩展主题功能的插件，主要用于为WordPress主题添加额外功能，例如内容展示控件、布局工具等，同时允许用户在不完全更换主题的情况下使用特定功能。WordPress Memberlite Shortcodes plugin存在跨站脚本漏洞，该漏洞源于对参数row的输入清理和转义不足，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/memberlite-shortcodes/tags/1.4/shortcodes/columns.php#L12",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/memberlite-shortcodes",
+    "patch": "WordPress Memberlite Shortcodes plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-19",
+    "open_time": "2025-09-25",
+    "update_time": "2025-09-25",
+    "data_summary": "bffc3c0c70e728dc4c4c6b8e0b09dca5"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:45:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-36355",
+    "spider_time": 1767170708614,
+    "name": "D-Link DI-8100命令注入漏洞",
+    "cnvd": "CNVD-2024-36355",
+    "publish": "2024-08-22",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"D-Link D-Link DI-8100 16.07\"]",
+    "cve": "CVE-2024-7833",
+    "description": "D-Link DI-8100是中国友讯（D-Link）公司的一款专为中小型网络环境设计的无线宽带路由器。D-Link DI-8100 16.07版本存在命令注入漏洞，该漏洞源于文件upgrade_filter. asp的upgrade_filter_asp对参数路径的操纵会导致命令注入，从而可以远程发起攻击。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-7833",
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新:\nhttps://github.com/aLtEr6/pdf/blob/main/3.pdf",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-16",
+    "open_time": "2024-08-23",
+    "update_time": "2024-08-23",
+    "data_summary": "41f96c087d266c0bcb20c445985034ec"
+}

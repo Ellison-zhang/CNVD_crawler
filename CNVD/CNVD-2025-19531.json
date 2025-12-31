@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:14:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19531",
+    "spider_time": 1767161694826,
+    "name": "Rockwell Automation FLEX 5000资源管理错误漏洞（CNVD-2025-19531）",
+    "cnvd": "CNVD-2025-19531",
+    "publish": "2025-08-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Rockwell Automation FLEX 5000\"]",
+    "cve": "CVE-2025-9041",
+    "description": "Rockwell Automation FLEX 5000是美国罗克韦尔（Rockwell Automation）公司的一款高速计数器模组。Rockwell Automation FLEX 5000存在资源管理错误漏洞，该漏洞源于对CIP Class 32请求的错误处理导致模块进入故障状态。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-9041",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1737.html",
+    "patch": "Rockwell Automation FLEX 5000资源管理错误漏洞（CNVD-2025-19531）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-21",
+    "open_time": "2025-08-28",
+    "update_time": "2025-08-28",
+    "data_summary": "0717abb89ffba2ed3c846903538a2c6b"
+}

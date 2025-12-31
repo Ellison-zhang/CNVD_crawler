@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:29:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14977",
+    "spider_time": 1767158988430,
+    "name": "Google Android权限提升漏洞（CNVD-2025-14977）",
+    "cnvd": "CNVD-2025-14977",
+    "publish": "2025-06-30",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Google Android 12.0\", \"Google Android 12.1\", \"Google Android 13.0\", \"Google Android 14.0\", \"Google Android 15.0\"]",
+    "cve": "CVE-2024-40676",
+    "description": "Google Android是由Google公司开发的基于Linux内核的自由及开放源代码的移动操作系统。Google Android存在权限提升漏洞，该漏洞源于AccountManagerService.java的checkKeyIntent函数中的混淆副从问题，允许绕过intent安全检查并安装未知应用，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/e8a53246607b52b15269f97aef9ba7e928ba2473",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://source.android.com/security/bulletin/2024-10-01",
+    "patch": "Google Android权限提升漏洞（CNVD-2025-14977）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "7ae94f8269dfd10583624adc54b7aba6"
+}

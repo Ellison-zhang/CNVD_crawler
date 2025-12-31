@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:09:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-26082",
+    "spider_time": 1767150575591,
+    "name": "D-Link DIR-2150代码执行漏洞",
+    "cnvd": "CNVD-2024-26082",
+    "publish": "2024-06-05",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-2150\"]",
+    "cve": "CVE-2024-5291",
+    "description": "D-Link DIR-2150是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-2150存在代码执行漏洞，该漏洞源于应用未能正确过滤构造代码段的特殊元素。未经身份验证的攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-5291",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.zerodayinitiative.com/advisories/ZDI-24-442/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-27",
+    "open_time": "2024-06-06",
+    "update_time": "2024-06-06",
+    "data_summary": "2b39c2f2db0e88fc9fa13b7d2bdd4fcb"
+}

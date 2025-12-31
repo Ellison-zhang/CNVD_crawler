@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:03:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33893",
+    "spider_time": 1767153793356,
+    "name": "IBM InfoSphere Information Server存在未明漏洞（CNVD-2024-33893）",
+    "cnvd": "CNVD-2024-33893",
+    "publish": "2024-07-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"IBM InfoSphere Information Server 11.7\"]",
+    "cve": "CVE-2024-37533",
+    "description": "IBM InfoSphere Information Server是美国国际商业机器（IBM）公司的一套数据整合平台。该平台可用于整合各种渠道获取的数据信息。IBM InfoSphere Information Server 11.7版本存在安全漏洞，该漏洞源于可能会向具有机器物理访问权限的其他用户泄露敏感用户信息。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-37533",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.ibm.com/support/pages/node/7159173",
+    "patch": "IBM InfoSphere Information Server存在未明漏洞（CNVD-2024-33893）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-25",
+    "open_time": "2024-07-30",
+    "update_time": "2024-07-30",
+    "data_summary": "9c916c8a44e1982749dd710e6ae43fbf"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:12:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-26369",
+    "spider_time": 1767150767432,
+    "name": "Online Student Enrollment System SQL注入漏洞（CNVD-2024-26369）",
+    "cnvd": "CNVD-2024-26369",
+    "publish": "2024-05-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Online Student Enrollment System Online Student Enrollment System v1.0\"]",
+    "cve": "CVE-2024-5393",
+    "description": "Online Student Enrollment System是Lyndon Bermoy个人开发者的一个在线学生注册系统。Online Student Enrollment System 1.0版本存在SQL注入漏洞，攻击者可利用该漏洞使用idno参数向listofcourse.php脚本发送特制的SQL语句，查看、添加、修改或删除后端数据库中的信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Lanxiy7th/lx_CVE_report-/issues/6",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://itsourcecode.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2024-05-28",
+    "open_time": "2024-06-07",
+    "update_time": "2024-06-07",
+    "data_summary": "5cf368b0f068445fbf36d2001b657c67"
+}

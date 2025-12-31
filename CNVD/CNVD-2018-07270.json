@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:19:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2018-07270",
+    "spider_time": 1767147598216,
+    "name": "Apache Syncope信息泄露漏洞",
+    "cnvd": "CNVD-2018-07270",
+    "publish": "2018-04-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Apache Syncope 1.2.x (<1.2.11)\", \"Apache Syncope 2.0.x (<2.0.8)\"]",
+    "cve": "CVE-2018-1322",
+    "description": "Apache Syncope是美国阿帕奇（Apache）软件基金会的一套用于企业环境中的开源数字身份管理系统。该系统支持身份管理、角色配置等。Apache Syncope 1.2.11之前的1.2.x版本和2.0.8之前的2.0.x版本中存在安全漏洞。攻击者可借助‘fiql’和‘orderby’参数利用该漏洞恢复安全值。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://syncope.apache.org/security.html#CVE-2018-1322:_Information_disclosure_via_FIQL_and_ORDER_BY_sorting",
+    "solution": "厂商已发布漏洞修复程序，请及时关注更新：\nhttp://syncope.apache.org/security.html#CVE-2018-1322:_Information_disclosure_via_FIQL_and_ORDER_BY_sorting",
+    "patch": "Apache Syncope信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2018-03-21",
+    "open_time": "2018-04-09",
+    "update_time": "2018-04-09",
+    "data_summary": "7fdd5ccf388931d734ef6030fe3742ff"
+}

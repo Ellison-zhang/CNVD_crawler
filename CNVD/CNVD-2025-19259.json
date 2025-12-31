@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:02:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19259",
+    "spider_time": 1767160949773,
+    "name": "Cisco IOS和Cisco IOS XE输入验证错误漏洞",
+    "cnvd": "CNVD-2025-19259",
+    "publish": "2025-08-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Cisco IOS XE\", \"Cisco ios\"]",
+    "cve": "CVE-2025-20154",
+    "description": "Cisco IOS和Cisco IOS XE都是美国思科（Cisco）公司的产品。Cisco IOS是一套为其网络设备开发的操作系统。Cisco IOS XE是一个操作系统。用于企业有线和无线访问，汇聚，核心和WAN的单一操作系统，Cisco IOS XE降低了业务和网络的复杂性。Cisco IOS和Cisco IOS XE存在输入验证错误漏洞，该漏洞源于TWAMP协议处理不当，攻击者可利用该漏洞导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-twamp-kV4FHugn",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://www.cisco.com/c/en/us/support/index.html",
+    "patch": "Cisco IOS和Cisco IOS XE输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-30",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "896cd18c864360aa31596ccab1653106"
+}

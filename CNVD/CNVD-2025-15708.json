@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:36:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15708",
+    "spider_time": 1767159361052,
+    "name": "Apache NuttX缓冲区溢出漏洞（CNVD-2025-15708）",
+    "cnvd": "CNVD-2025-15708",
+    "publish": "2025-07-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NuttX NuttX >=6.22，<12.9.0\"]",
+    "cve": "CVE-2025-47869",
+    "description": "Apache NuttX是美国阿帕奇（Apache）基金会的一套实时嵌入式操作系统。Apache NuttX 6.22至12.9.0之前版本存在缓冲区溢出漏洞，该漏洞源于应用在处理不受信任的输入时出现边界错误，攻击者可利用该漏洞导致缓冲区溢出。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2025/06/14/2",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://nuttx.apache.org/download/",
+    "patch": "Apache NuttX缓冲区溢出漏洞（CNVD-2025-15708）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-23",
+    "open_time": "2025-07-15",
+    "update_time": "2025-07-15",
+    "data_summary": "f802ba63607ecde4bd71e63bfcf8868e"
+}

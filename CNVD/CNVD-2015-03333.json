@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:05:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2015-03333",
+    "spider_time": 1767146737138,
+    "name": "async-http-client证书校验漏洞",
+    "cnvd": "CNVD-2015-03333",
+    "publish": "2015-05-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Async Http Client Async Http Client 1.7.22-1.mga4\"]",
+    "cve": "CVE-2013-7397",
+    "description": "async-http-client是一个允许Java应用程序执行HTTP请求和异步处理该HTTP响应的客户端库。async-http-client未能正确禁用SSL/TLS证书验证，允许攻击者可利用漏洞进行中间人攻击，伪造有效的证书，获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://advisories.mageia.org/MGASA-2015-0212.html",
+    "solution": "用户可参考如下厂商提供的安全公告获取补丁以修复该漏洞：\nhttps://github.com/AsyncHttpClient/async-http-client/releases",
+    "patch": "async-http-client证书校验漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2015-05-20",
+    "open_time": "2015-05-26",
+    "update_time": "2015-05-26",
+    "data_summary": "b18577e8cf752232786d8dabc3647934"
+}

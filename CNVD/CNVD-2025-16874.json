@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:55:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16874",
+    "spider_time": 1767171350120,
+    "name": "Microsoft Input Method Editor资源管理错误漏洞",
+    "cnvd": "CNVD-2025-16874",
+    "publish": "2025-07-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Windows Server 2016\", \"Microsoft Windows Server 2019\", \"Microsoft Windows Server 2022\", \"Microsoft Window 10 22H2\", \"Microsoft Window 10 21H2\", \"Microsoft Window 11 22H2\", \"Microsoft Window 10 1809\", \"Microsoft Window 10 1607\", \"Microsoft Window 11 23H2\", \"Microsoft Window 11 24H2\", \"Microsoft Windows Server 2025\"]",
+    "cve": "CVE-2025-47991",
+    "description": "Microsoft Input Method Editor（IME）是美国微软（Microsoft）公司的一种软件组件，它使用户能够使用在标准QWERTY键盘上无法轻松表示的语言输入文本。Microsoft Input Method Editor（IME）存在安全漏洞。攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-47991",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47991",
+    "patch": "Microsoft Input Method Editor资源管理错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-25",
+    "update_time": "2025-07-25",
+    "data_summary": "f90800028034b7900aca3ba6802edee5"
+}

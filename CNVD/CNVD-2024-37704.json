@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:36:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37704",
+    "spider_time": 1767155765073,
+    "name": "Cisco Identity Services Engine文件上传漏洞",
+    "cnvd": "CNVD-2024-37704",
+    "publish": "2024-09-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"Cisco Identity Services Engine\"]",
+    "cve": "CVE-2024-20296",
+    "description": "Cisco Identity Services Engine（Cisco ISE）是美国思科（Cisco）公司的一款环境感知平台（ISE身份服务引擎）。该平台通过收集网络、用户和设备中的实时信息，制定并实施相应策略来监管网络。Cisco Identity Services Engine存在文件上传漏洞，该漏洞源于对上传到基于Web的管理界面的文件验证不当。攻击者可利用该漏洞在系统上存储恶意文件，在操作系统上执行任意命令，并将权限提升至root。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-20296",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-file-upload-krW2TxA9",
+    "patch": "Cisco Identity Services Engine文件上传漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-24",
+    "open_time": "2024-09-09",
+    "update_time": "2024-09-09",
+    "data_summary": "d1697a905baad422d8fb4948f0f9f228"
+}

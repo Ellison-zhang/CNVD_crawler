@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:40:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16525",
+    "spider_time": 1767159603101,
+    "name": "Redis存在未明漏洞（CNVD-2025-16525）",
+    "cnvd": "CNVD-2025-16525",
+    "publish": "2025-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Redis Redis >=2.8，<=8.0.3\", \"Redis Redis 7.4.5\", \"Redis Redis 7.2.10\", \"Redis Redis <6.2.19\"]",
+    "cve": "CVE-2025-48367",
+    "description": "Redis是美国Redis公司的一套开源的使用ANSI C编写、支持网络、可基于内存亦可持久化的日志型、键值（Key-Value）存储数据库，并提供多种语言的API。Redis存在安全漏洞，攻击者利用该漏洞可能导致IP协议错误，最终导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/redis/redis/commit/bde62951accfc4bb0a516276fd0b4b307e140ce2",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/redis/redis/releases",
+    "patch": "Redis存在未明漏洞（CNVD-2025-16525）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-11",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "11e3d506f5646f32df479002e845ca0c"
+}

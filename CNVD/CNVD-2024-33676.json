@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:58:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33676",
+    "spider_time": 1767153499626,
+    "name": "ClassCMS跨站脚本漏洞（CNVD-2024-33676）",
+    "cnvd": "CNVD-2024-33676",
+    "publish": "2024-07-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"ClassCMS ClassCMS 4.5\"]",
+    "cve": "CVE-2024-6932",
+    "description": "ClassCMS是中国ClassCMS开源的一款简单、灵活、安全、易于拓展的内容管理系统。ClassCMS存在跨站脚本漏洞，该漏洞源于/admin/?action=home&do=shop:index&keyword=&kind=all文件中的order参数包含跨站脚本。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.271987\nhttps://vuldb.com/?ctiid.271987\nhttps://vuldb.com/?submit.372000\nhttps://github.com/Hebing123/cve/issues/42",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://github.com/ClassCMS/ClassCMS",
+    "patch": "ClassCMS跨站脚本漏洞（CNVD-2024-33676）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-23",
+    "open_time": "2024-07-26",
+    "update_time": "2024-07-26",
+    "data_summary": "f0b787458708a37e284031daefacdb3d"
+}

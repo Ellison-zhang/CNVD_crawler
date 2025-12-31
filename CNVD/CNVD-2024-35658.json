@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:27:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35658",
+    "spider_time": 1767155243603,
+    "name": "SAP NetWeaver Application Server文件上传漏洞",
+    "cnvd": "CNVD-2024-35658",
+    "publish": "2024-08-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"SAP SAP NetWeaver Application Server\"]",
+    "cve": "CVE-2024-33006",
+    "description": "SAP NetWeaver Application Server是德国思爱普（SAP）公司的一款应用程序服务器。SAP NetWeaver Application Server ABAP Platform存在文件上传漏洞，该漏洞源于应用对上传的文件缺少有效的验证。攻击者可利用该漏洞上传恶意文件从而远程执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://me.sap.com/notes/3448171",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2024.html",
+    "patch": "SAP NetWeaver Application Server文件上传漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-30",
+    "open_time": "2024-08-19",
+    "update_time": "2024-08-19",
+    "data_summary": "5d047c8c3718e004801d9730a8a5e2f8"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:05:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-24949",
+    "spider_time": 1767150309912,
+    "name": "Dell OpenManage Enterprise存在未明漏洞",
+    "cnvd": "CNVD-2024-24949",
+    "publish": "2024-05-29",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"DELL Dell OpenManage Enterprise 4.0.0\", \"DELL Dell OpenManage Enterprise 4.0.1\"]",
+    "cve": "CVE-2024-28961",
+    "description": "Dell OpenManage Enterprise是美国戴尔（Dell）公司的一款用于IT基础架构管理的易于使用的一对多系统管理控制台。该软件支持一个控制台中经济高效地为Dell EMC PowerEdge服务器提供全面的生命周期管理。Dell OpenManage Enterprise 4.0.0、4.0.1版本存在安全漏洞，攻击者可利用该漏洞导致使用提升的特权进行未经授权的访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-28961",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000224251/dsa-2024-184-security-update-for-dell-openmanage-enterprise-vulnerability",
+    "patch": "Dell OpenManage Enterprise存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-07",
+    "open_time": "2024-05-30",
+    "update_time": "2024-05-30",
+    "data_summary": "8f5ba4be1df344c57ab79f5d1ad816eb"
+}

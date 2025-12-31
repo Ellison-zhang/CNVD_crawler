@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:55:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-23249",
+    "spider_time": 1767149739151,
+    "name": "Dell VxRail信任管理问题漏洞",
+    "cnvd": "CNVD-2024-23249",
+    "publish": "2024-05-16",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:P/A:N",
+    "product": "[\"DELL Dell VxRail <=7.0.450\"]",
+    "cve": "CVE-2023-32464",
+    "description": "Dell VxRail是美国戴尔（Dell）公司的适用于每个VMware工作负载和用例（包括VDI、计算密集型应用程序）以及在真正的混合云基础架构上托管传统和现代应用程序的单一HCI平台。Dell VxRail 7.0.450及之前版本存在信任管理问题漏洞，该漏洞源于包含不正确的证书验证，攻击者可利用该漏洞通过提供精心设计的证书并拦截受害者的流量以查看或修改受害者传输中的数据来执行中间人攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-32464",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000213011/dsa-2023-071-dell-vxrail-security-update-for-multiple-third-party-component-vulnerabilities-7-0-450",
+    "patch": "Dell VxRail信任管理问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-06-30",
+    "open_time": "2024-05-17",
+    "update_time": "2024-05-17",
+    "data_summary": "e8abd909ec310e4ef26c429054f18340"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:38:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33909",
+    "spider_time": 1767170293895,
+    "name": "NETGEAR RAX30信息泄露漏洞（CNVD-2024-33909）",
+    "cnvd": "CNVD-2024-33909",
+    "publish": "2024-07-26",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"NETGEAR RAX30\"]",
+    "cve": "CVE-2023-27370",
+    "description": "NETGEAR RAX30是美国网件（NETGEAR）公司的一个双频无线路由器。NETGEAR RAX30存在信息泄露漏洞，攻击者可利用该漏洞泄露敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-27370",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://kb.netgear.com/000065619/Security-Advisory-for-Multiple-Vulnerabilities-on-the-RAX30-PSV-2022-0348",
+    "patch": "NETGEAR RAX30信息泄露漏洞（CNVD-2024-33909）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-12",
+    "open_time": "2024-07-30",
+    "update_time": "2024-07-30",
+    "data_summary": "f038c3c9b60c346f16ddcdef6f265b8c"
+}

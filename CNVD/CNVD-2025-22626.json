@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:49:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22626",
+    "spider_time": 1767167340025,
+    "name": "NVIDIA Triton Inference Server操作系统命令注入漏洞",
+    "cnvd": "CNVD-2025-22626",
+    "publish": "2025-09-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NVIDIA Triton Inference Server <25.08\"]",
+    "cve": "CVE-2025-23316",
+    "description": "NVIDIA Triton Inference Server是美国英伟达（NVIDIA）公司的一款开源软件，有助于标准化模型部署并在生产中提供快速且可扩展的AI。NVIDIA Triton Inference Server存在操作系统命令注入漏洞，该漏洞源于Python后端未正确处理模型控制API中的model name参数，攻击者可利用该漏洞可能导致远程代码执行、拒绝服务、信息泄露和数据篡改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-23316",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5691",
+    "patch": "NVIDIA Triton Inference Server操作系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-19",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "e6dbbc515fd7a804333bbdd902cbdd55"
+}

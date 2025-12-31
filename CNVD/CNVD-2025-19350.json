@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:04:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19350",
+    "spider_time": 1767161077479,
+    "name": "SIEMENS SINEC OS V3.2之前第三方组件存在多个漏洞",
+    "cnvd": "CNVD-2025-19350",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"SIEMENS RUGGEDCOM RST2428P (6GK6242-6PA00) <V3.2\", \"SIEMENS SCALANCE XC-300/XR-300/XC-400/XR-500WG/XR-500 family <V3.2\", \"SIEMENS SCALANCE XCM-/XRM-/XCH-/XRH-300 family <V3.2\"]",
+    "cve": null,
+    "description": "RUGGEDCOM RST2428P是一款基于SINEC OS的第2层以太网交换机，拥有多达28个无阻塞接口。SCALANCE X switches用于连接可编程逻辑控制器（PLC）或人机界面（HMI）等工业组件。SIEMENS SINEC OS V3.2之前第三方组件存在多个漏洞，攻击者可利用该漏洞导致值损坏，导致未定义的行为或安全问题。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-355557.html",
+    "solution": "西门子已为受影响的产品发布了新版本，并建议更新至最新版本：\nhttps://cert-portal.siemens.com/productcert/html/ssa-355557.html",
+    "patch": "SIEMENS SINEC OS V3.2之前第三方组件存在多个漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-22",
+    "open_time": "2025-08-22",
+    "update_time": "2025-10-15",
+    "data_summary": "da966b75caef450f087b8bfbbdca01ff"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:25:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-29654",
+    "spider_time": 1767151506248,
+    "name": "Nextcloud存在未明漏洞（CNVD-2024-29654）",
+    "cnvd": "CNVD-2024-29654",
+    "publish": "2024-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:C/A:C",
+    "product": "[\"Nextcloud Nextcloud Server <26.0.13\", \"Nextcloud Nextcloud Server <27.1.8\", \"Nextcloud Nextcloud Server <28.0.4\", \"Nextcloud Nextcloud Enterprise Server <26.0.13\", \"Nextcloud Nextcloud Enterprise Server <27.1.8\", \"Nextcloud Nextcloud Enterprise Server <28.0.4\"]",
+    "cve": "CVE-2024-37882",
+    "description": "Nextcloud是德国Nextcloud公司的一套开源的自托管文件同步和共享的通信应用平台。Nextcloud Server存在安全漏洞，该漏洞源于具有读取和共享权限的共享接收者可以以更多权限重新共享该项目。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-37882",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/nextcloud/security-advisories/security/advisories/GHSA-jjm3-j9xh-5xmq",
+    "patch": "Nextcloud存在未明漏洞（CNVD-2024-29654）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-21",
+    "open_time": "2024-06-28",
+    "update_time": "2024-06-28",
+    "data_summary": "fdaf605149b1876ef476b9a1e9d914d5"
+}

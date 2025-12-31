@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:16:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20457",
+    "spider_time": 1767165371782,
+    "name": "WordPress Mojoomla School Management plugin文件上传漏洞",
+    "cnvd": "CNVD-2025-20457",
+    "publish": "2025-09-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress Mojoomla School Management plugin <=1.93.1\"]",
+    "cve": "CVE-2025-31100",
+    "description": "WordPress Mojoomla School Management plugin是WordPress的一个插件，主要用于学校管理系统，支持班级管理、学生考勤、成绩管理、费用收取等功能。WordPress Mojoomla School Management plugin存在文件上传漏洞，该漏洞源于危险类型文件上传不受限制，攻击者可利用该漏洞将Web Shell上传到Web服务器。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/school-management/vulnerability/wordpress-school-management-plugin-1-93-1-02-07-2025-arbitrary-file-upload-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/wpschoolpress/",
+    "patch": "WordPress Mojoomla School Management plugin文件上传漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-02",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "606deb3402db8badbcc1918cccb4ba4a"
+}

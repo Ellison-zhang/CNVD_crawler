@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:37:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15724",
+    "spider_time": 1767159420579,
+    "name": "Tenda AC9 /goform/AdvSetLanip文件缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-15724",
+    "publish": "2025-07-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC9 15.03.02.13\"]",
+    "cve": "CVE-2025-5839",
+    "description": "Tenda AC9是中国腾达（Tenda）公司的一款无线路由器。Tenda AC9 15.03.02.13版本存在缓冲区溢出漏洞，该漏洞源于文件/goform/AdvSetLanip中参数lanMask未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://candle-throne-f75.notion.site/Tenda-AC9-fromadvsetlanip-20adf0aa11858027b7c3c2f4e44bb867",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.tenda.com.cn/material/show/102908",
+    "patch": "Tenda AC9 /goform/AdvSetLanip文件缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-10",
+    "open_time": "2025-07-15",
+    "update_time": "2025-07-15",
+    "data_summary": "27be5fb098041a65096e4877d51839ab"
+}

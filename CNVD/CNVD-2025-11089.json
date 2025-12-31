@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:58:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11089",
+    "spider_time": 1767157132124,
+    "name": "Moodle跨站脚本漏洞（CNVD-2025-11089）",
+    "cnvd": "CNVD-2025-11089",
+    "publish": "2025-05-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"moodle Moodle\"]",
+    "cve": "CVE-2025-26529",
+    "description": "Moodle是Moodle开源的一套免费的电子学习软件平台，也称课程管理系统、学习管理系统或虚拟学习环境。Moodle存在跨站脚本漏洞。该漏洞源于站点管理实时日志中显示的描述信息需要额外的清理以防止存储的跨站脚本风险。攻击者可利用该漏洞注入恶意代码，导致服务器上的远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://moodle.org/mod/forum/discuss.php?d=466145\nhttp://git.moodle.org/gw?p=moodle.git&a=search&h=HEAD&st=commit&s=MDL-84145",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://download.moodle.org/releases/latest/",
+    "patch": "Moodle跨站脚本漏洞（CNVD-2025-11089）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-28",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "2bc243810359f806f9e518a5ff2eba96"
+}

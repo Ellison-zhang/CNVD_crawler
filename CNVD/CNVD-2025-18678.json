@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:00:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18678",
+    "spider_time": 1767160826760,
+    "name": "Mozilla Firefox竞争条件问题漏洞",
+    "cnvd": "CNVD-2025-18678",
+    "publish": "2025-08-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:N/A:N",
+    "product": "[\"mozilla Thunderbird <102.1\", \"Mozilla Firefox <103.0\", \"Mozilla Firefox ESR <102.1\"]",
+    "cve": "CVE-2022-36318",
+    "description": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Firefox存在安全漏洞，该漏洞源于对用户提供的数据的清理不足，远程攻击者可利用该漏洞在网站上下文中在用户浏览器中执行任意HTML和脚本代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.cybersecurity-help.cz/vdb/SB2022072634",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://www.mozilla.org/en-US/security/advisories/mfsa2022-28/",
+    "patch": "Mozilla Firefox竞争条件问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-07-28",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "a5d42e82f6addac33874f49cf1aa1717"
+}

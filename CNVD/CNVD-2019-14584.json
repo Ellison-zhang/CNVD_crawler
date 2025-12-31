@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:22:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2019-14584",
+    "spider_time": 1767147754405,
+    "name": "CentOS Web Panel跨站脚本漏洞（CNVD-2019-14584）",
+    "cnvd": "CNVD-2019-14584",
+    "publish": "2019-05-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"CentOS Web Panel（CWP） CentOS Web Panel（CWP） 0.9.8.793 (Free)\", \"CentOS Web Panel（CWP） CentOS Web Panel（CWP） 0.9.8.753 (Pro)\"]",
+    "cve": "CVE-2019-1089",
+    "description": "CentOS Web Panel（CWP）是一款免费的虚拟主机控制面板。CWP 0.9.8.793 (Free)版本和0.9.8.753 (Pro)版本中的email字段存在跨站脚本漏洞，该漏洞源于WEB应用缺少对客户端数据的正确验证。攻击者可利用该漏洞执行客户端代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "目前厂商暂未发布修复措施解决此安全问题，建议使用此软件的用户随时关注厂商主页或参考网址以获取解决办法：\nhttp://centos-webpanel.com/",
+    "solution": null,
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2019-04-25",
+    "open_time": "2019-05-17",
+    "update_time": "2019-04-25",
+    "data_summary": "9884a500b40a7c0e48132ff83d0522dd"
+}

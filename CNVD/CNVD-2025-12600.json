@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:15:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12600",
+    "spider_time": 1767158125959,
+    "name": "IBM TXSeries for Multiplatforms跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-12600",
+    "publish": "2025-06-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"IBM TXSeries for Multiplatforms 9.1\", \"IBM TXSeries for Multiplatforms 11.1\"]",
+    "cve": "CVE-2024-56474",
+    "description": "IBM TXSeries for Multiplatforms是美国国际商业机器（IBM）公司的一种事务处理监控和管理的软件产品，它旨在支持多平台上的分布式事务处理。IBM TXSeries for Multiplatforms存在跨站请求伪造漏洞，远程攻击者可利用该漏洞提交特殊的请求，可执行恶意操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-56474",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://www.ibm.com/support/pages/node/7229880",
+    "patch": "IBM TXSeries for Multiplatforms跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-14",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "8a2a06319dd4a196f8c7c02e16786148"
+}

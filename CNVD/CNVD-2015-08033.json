@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:07:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2015-08033",
+    "spider_time": 1767146856726,
+    "name": "Autodesk Design Review FLI RLE远程代码执行漏洞",
+    "cnvd": "CNVD-2015-08033",
+    "publish": "2015-12-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+    "product": "[\"Autodesk, Inc. Autodesk Design Review\"]",
+    "cve": "CVE-2015-8572",
+    "description": "Autodesk Design Review是免费DWF查看器软件。Autodesk Design Review在处理FLI文件中存在安全漏洞，该漏洞由于未能确保执行长度编码数据是否写入已分配缓冲区之外。攻击者利用此漏洞可在当前进程上下文中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.zerodayinitiative.com/advisories/ZDI-15-616/",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://knowledge.autodesk.com/support/design-review/downloads/caas/downloads/content/autodesk-design-review-2013-hotfix.html",
+    "patch": "Autodesk Design Review FLI RLE远程代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2015-12-10",
+    "open_time": "2015-12-11",
+    "update_time": "2015-12-11",
+    "data_summary": "e15e2305dcc5877e1a215c9cd648656c"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:53:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2022-90746",
+    "spider_time": 1767149584102,
+    "name": "libarchive存在二进制漏洞（CNVD-2022-90746）",
+    "cnvd": "CNVD-2022-90746",
+    "publish": "2023-01-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"libarchive libarchive 3.6.1\"]",
+    "cve": "CVE-2022-36227",
+    "description": "libarchive是一款多格式存档和压缩库。libarchive存在二进制漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://libarchive.org/",
+    "patch": "libarchive存在二进制漏洞（CNVD-2022-90746）的补丁",
+    "verify": "已验证",
+    "submit_time": "2022-11-29",
+    "open_time": "2022-12-28",
+    "update_time": "2022-12-28",
+    "data_summary": "dd63af4b44598706c55ddeeecfb77400"
+}

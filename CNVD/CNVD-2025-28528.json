@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:08:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28528",
+    "spider_time": 1767168487697,
+    "name": "Foxit PDF Reader缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-28528",
+    "publish": "2025-11-11",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Foxit PDF Reader\"]",
+    "cve": "CVE-2025-9326",
+    "description": "oxit PDF Reader是中国福昕（Foxit）公司的一款PDF阅读器。Foxit PDF Reader存在缓冲区溢出漏洞，该漏洞源于解析PRC文件时未验证用户输入导致越界读取，可能导致远程代码执行。远程攻击者可利用该漏洞提交特殊的文件请求，诱使用户解析，可使应用程序崩溃或以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-25-866/",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttps://www.foxit.com/support/security-bulletins.html",
+    "patch": "Foxit PDF Reader缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-25",
+    "open_time": "2025-11-18",
+    "update_time": "2025-11-18",
+    "data_summary": "ac347c3f25dd73a521c200077215ed4d"
+}

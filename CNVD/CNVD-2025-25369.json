@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:03:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25369",
+    "spider_time": 1767168190620,
+    "name": "F5 BIG-IP iHealth工具权限绕过漏洞",
+    "cnvd": "CNVD-2025-25369",
+    "publish": "2025-10-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"F5 F5 BIG-IP null\"]",
+    "cve": "CVE-2025-61958",
+    "description": "F5 BIG-IP是F5公司的一款集成了网络流量编排、负载均衡、智能DNS，远程接入策略管理等功能的应用交付平台。BIG-IP的iHealth工具（TMOS Shell的某个模块）存在权限绕过漏洞，该漏洞产生的原因是iHealth工具未正确限制具有资源管理员角色的认证用户，导致其可以绕过tmsh限制并获得Advanced Shell（bash）访问权限。攻击者可利用该漏洞绕过Appliance模式下的安全边界，获取更高权限，造成系统安全风险。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-61958",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://my.f5.com/manage/s/article/K000156572",
+    "patch": "F5 BIG-IP iHealth工具权限绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-27",
+    "update_time": "2025-10-27",
+    "data_summary": "d7f2ffbcd986a2d4c64ee197d3348915"
+}

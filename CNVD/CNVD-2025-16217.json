@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:39:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16217",
+    "spider_time": 1767159592829,
+    "name": "Foxit PDF Editor权限提升漏洞",
+    "cnvd": "CNVD-2025-16217",
+    "publish": "2025-07-11",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Foxit Foxit PDF Reader\"]",
+    "cve": "CVE-2024-9244",
+    "description": "Foxit PDF Editor是中国福昕（Foxit）公司的一款PDF编辑器。Foxit PDF Editor存在安全漏洞，攻击者可利用该漏洞导致本地特权提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-9244",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.foxit.com/support/security-bulletins.html",
+    "patch": "Foxit PDF Editor权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-28",
+    "open_time": "2025-07-17",
+    "update_time": "2025-07-17",
+    "data_summary": "763ec3a3da97e03739eb6ec54e27f858"
+}

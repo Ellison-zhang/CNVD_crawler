@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:07:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11468",
+    "spider_time": 1767157625572,
+    "name": "IBM Security ReaQta EDR信任管理问题漏洞",
+    "cnvd": "CNVD-2025-11468",
+    "publish": "2025-05-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"IBM Security ReaQta EDR 3.12\"]",
+    "cve": "CVE-2024-45641",
+    "description": "IBM Security ReaQta EDR是美国国际商业机器（IBM）公司的一款端点检测与响应（EDR）解决方案，通过行为分析和AI技术实时检测、调查和响应端点威胁，提供自动化威胁狩猎和事件响应能力。IBM Security ReaQta EDR 3.12版本存在信任管理问题漏洞，该漏洞源于SSL证书验证不当，攻击者可利用该漏洞导致未授权操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-45641",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7233972",
+    "patch": "IBM Security ReaQta EDR信任管理问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "a394dd8b68b16d8d48ec3b600641bca8"
+}

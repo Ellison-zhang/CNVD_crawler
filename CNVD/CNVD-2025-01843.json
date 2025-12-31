@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:48:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-01843",
+    "spider_time": 1767170921171,
+    "name": "Huawei PC Manager访问控制错误漏洞",
+    "cnvd": "CNVD-2025-01843",
+    "publish": "2025-01-14",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Huawei PC Manager\"]",
+    "cve": "CVE-2023-52711",
+    "description": "Huawei PC Manager是中国华为（Huawei）公司的一款计算机管理应用程序。Huawei PC Manager存在访问控制错误漏洞，该漏洞源于接口访问控制不当，攻击者可利用该漏洞启动UEFI shell，造成内存泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-52711",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.huawei.com/en/psirt/security-advisories/2024/huawei-sa-voiiaciahpp-6376e0c7-en",
+    "patch": "Huawei PC Manager访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-30",
+    "open_time": "2025-01-20",
+    "update_time": "2025-01-20",
+    "data_summary": "9a879ec25c302f75238d3a4d0464c752"
+}

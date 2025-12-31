@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 09:56:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2016-02822",
+    "spider_time": 1767146173030,
+    "name": "Botan BER解码器安全绕过漏洞",
+    "cnvd": "CNVD-2016-02822",
+    "publish": "2016-05-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:P/I:P/A:N",
+    "product": "[\"Botan Botan 1.10\"]",
+    "cve": "CVE-2015-5726",
+    "description": "Botan是一个C++的加密算法库，它支持AES、DES、SHA-1、RSA、DSA和Diffie-Hellman等多种算法。Botan BER解码器存在安全漏洞，允许远程攻击者可利用该漏洞提交特殊请求读取不可信的ASN.1数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/cygwinports/botan1.10",
+    "solution": "目前厂商已经发布了升级补丁以修复此安全问题，详情请关注厂商主页：\nhttps://github.com/cygwinports/botan1.10",
+    "patch": "Botan BER解码器安全绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2016-05-06",
+    "open_time": "2016-05-09",
+    "update_time": "2016-05-09",
+    "data_summary": "a807a72c6208fdda11517cafc458887d"
+}

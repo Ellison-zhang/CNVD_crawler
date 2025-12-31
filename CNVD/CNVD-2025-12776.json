@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:17:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12776",
+    "spider_time": 1767158258252,
+    "name": "Tenda AC18缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12776",
+    "publish": "2025-06-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda AC18 15.03.3.10_EN\"]",
+    "cve": "CVE-2024-33182",
+    "description": "Tenda AC18是中国腾达（Tenda）公司的一款路由器。Tenda AC18存在缓冲区溢出漏洞，该漏洞源于ip/goform/addWifiMacFilter的deviceId参数。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-33182/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tendacn.com/us/download/detail-3853.html",
+    "patch": "Tenda AC18缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-18",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "21d127b3cc33a740b8cf3cba99d8d48f"
+}

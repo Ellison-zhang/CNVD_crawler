@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:18:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12785",
+    "spider_time": 1767158289690,
+    "name": "Tenda W20E formSetNetCheckTools函数命令注入漏洞",
+    "cnvd": "CNVD-2025-12785",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Tenda Tenda W20E V15.11.0.6\"]",
+    "cve": "CVE-2025-44867",
+    "description": "Tenda W20E是中国腾达（Tenda）公司的一款路由器。Tenda W20E存在命令注入漏洞，该漏洞源于formSetNetCheckTools函数hostName参数未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Summermu/VulnForIoT/tree/main/Tenda_W20E/formSetNetCheckTools/readme.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tendacn.com/us/download/detail-4221.html",
+    "patch": "Tenda W20E formSetNetCheckTools函数命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "07b04f37a8a584cc61b468b561ae7fbc"
+}

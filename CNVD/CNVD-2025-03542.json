@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:01:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03542",
+    "spider_time": 1767146497359,
+    "name": "Apache Hadoop代码注入漏洞",
+    "cnvd": "CNVD-2025-03542",
+    "publish": "2025-02-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Apache Apache Hadoop\"]",
+    "cve": "CVE-2024-51941",
+    "description": "Apache Ambari是美国阿帕奇（Apache）基金会的一个应用软件。提供开发用于配置，管理和监视Apache Hadoop集群的软件来简化Hadoop管理。Apache Hadoop存在代码注入漏洞。该漏洞是由于Ambari Metrics和AMS Alerts功能中允许经过身份验证的用户注入和执行任意代码，此漏洞发生在处理警报定义时，其中可以将恶意输入注入警报脚本执行路径。攻击者可以利用该漏洞在服务器上执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-51941",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新:\nhttp://www.openwall.com/lists/oss-security/2025/01/21/9",
+    "patch": "Apache Hadoop代码注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-25",
+    "open_time": "2025-02-24",
+    "update_time": "2025-02-24",
+    "data_summary": "98157b1e87a3bdcf4a8806d388c2b231"
+}

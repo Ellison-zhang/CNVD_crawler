@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:38:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-30636",
+    "spider_time": 1767152297513,
+    "name": "ASUS Download Master缓冲区溢出漏洞",
+    "cnvd": "CNVD-2024-30636",
+    "publish": "2024-06-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"ASUS ASUS Download Master <=3.1.0.113\"]",
+    "cve": "CVE-2024-31163",
+    "description": "ASUS Download Master是中国华硕（ASUS）公司的一个下载程序。ASUS Download Master存在缓冲区溢出漏洞。该漏洞源于应用在处理不受信任的输入时出现边界错误。攻击者可利用该漏洞在设备上执行任意系统命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.twcert.org.tw/tw/cp-132-7869-3db1d-1.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.asus.com/",
+    "patch": "ASUS Download Master缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-21",
+    "open_time": "2024-07-05",
+    "update_time": "2024-07-05",
+    "data_summary": "16cf228936042d82487aaf0b45aa7025"
+}

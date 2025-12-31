@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:50:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08313",
+    "spider_time": 1767156616091,
+    "name": "Tenda W18E wifiSSID栈溢出漏洞",
+    "cnvd": "CNVD-2025-08313",
+    "publish": "2025-04-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Tenda W18E v16.01.0.11\", \"Tenda W18E 2.0\"]",
+    "cve": "CVE-2025-29217",
+    "description": "Tenda W18E是中国腾达（Tenda）公司的一款无线路由器。Tenda W18E /goform/setModules处理wifiSSID参数存在栈溢出漏洞，攻击者可利用该漏洞提交特殊的请求，可使应用程序崩溃，造成拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-29217",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-24",
+    "open_time": "2025-04-25",
+    "update_time": "2025-04-25",
+    "data_summary": "2c7fb1dc973bc1eef1b7f165db40814b"
+}

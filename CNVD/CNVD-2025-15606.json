@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:33:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15606",
+    "spider_time": 1767159217302,
+    "name": "MongoDB Server资源管理错误漏洞",
+    "cnvd": "CNVD-2025-15606",
+    "publish": "2025-07-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"MongoDB MongoDB Server <7.0.20\", \"MongoDB MongoDB Server <6.0.23\", \"MongoDB MongoDB Server <8.0.9\"]",
+    "cve": "CVE-2025-6714",
+    "description": "MongoDB Server是美国MongoDB公司的一套开源的NoSQL数据库。该数据库提供面向集合的存储、动态查询、数据复制及自动故障转移等功能。MongoDB Server 6.0.23之前版本、7.0.20之前版本和8.0.9之前版本存在安全漏洞，该漏洞源于mongos组件对不完整数据处理不当，可能导致拒绝服务。攻击者可利用该漏洞通过负载均衡器发送特定数据，导致mongos组件停止响应新连接，造成服务中断。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6714",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载接：\nhttps://jira.mongodb.org/browse/SERVER-106753",
+    "patch": "MongoDB Server资源管理错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-08",
+    "open_time": "2025-07-14",
+    "update_time": "2025-07-14",
+    "data_summary": "fa69995698a6e179d50859407e7f11fb"
+}

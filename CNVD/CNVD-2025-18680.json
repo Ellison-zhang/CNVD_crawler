@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:00:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18680",
+    "spider_time": 1767160850511,
+    "name": "Mozilla Thunderbird资源管理错误漏洞",
+    "cnvd": "CNVD-2025-18680",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"Mozilla Thunderbird <91.9\"]",
+    "cve": "CVE-2022-29913",
+    "description": "Mozilla Thunderbird是美国Mozilla基金会的一套从Mozilla Application Suite独立出来的电子邮件客户端软件。该软件支持IMAP、POP邮件协议以及HTML邮件格式。Mozilla Thunderbird 91.9之前版本存在资源管理错误漏洞，该漏洞源于父进程在接收来自子进程的指令时，不会正确检查是否启用了Speech Synthesis功能。攻击者可利用漏洞绕过已实施的安全限制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.cybersecurity-help.cz/vdb/SB2022050529",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://www.mozilla.org/en-US/security/advisories/mfsa2022-18/#CVE-2022-29913",
+    "patch": "Mozilla Thunderbird资源管理错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-05-09",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "d5ca443cafe0da8650a2ed4c80ae3200"
+}

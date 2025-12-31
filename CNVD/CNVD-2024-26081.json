@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:09:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-26081",
+    "spider_time": 1767150565128,
+    "name": "Dell Data Protection Advisor加密问题漏洞",
+    "cnvd": "CNVD-2024-26081",
+    "publish": "2024-06-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:C",
+    "product": "[\"DELL Dell Data Protection Advisor 19.9\"]",
+    "cve": "CVE-2024-28974",
+    "description": "Dell Data Protection Advisor是美国戴尔（Dell）公司的一个报告和分析平台。Dell Data Protection Advisor 19.9版本存在加密问题漏洞，该漏洞源于加密强度不足，攻击者可利用该漏洞进行拒绝服务（DOS）攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-28974",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000225088/dsa-2024-192-security-update-for-data-protection-advisor-and-powerprotect-dp-series-appliance-idpa-for-multiple-vulnerabilities",
+    "patch": "Dell Data Protection Advisor加密问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-31",
+    "open_time": "2024-06-06",
+    "update_time": "2024-06-06",
+    "data_summary": "cc322327e33c3e4330db1abcc52c9090"
+}

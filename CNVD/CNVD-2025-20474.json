@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:19:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20474",
+    "spider_time": 1767165575286,
+    "name": "Google Chrome权限问题漏洞",
+    "cnvd": "CNVD-2025-20474",
+    "publish": "2025-09-01",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Google Chrome <128.0.6613.84\"]",
+    "cve": "CVE-2024-7975",
+    "description": "Google Chrome是由谷歌（Google）公司开发的一款免费网页浏览器，以其快速、安全、简洁的特点成为全球市场份额最高的浏览器，支持多平台使用并内置隐私保护功能。Google Chrome存在权限问题漏洞，攻击者可利用该漏洞通过特制的HTML页面执行UI欺骗。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-7975",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html",
+    "patch": "Google Chrome权限问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-22",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "9096a646aa1a5cd61711c3d31240dee9"
+}

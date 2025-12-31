@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:04:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19349",
+    "spider_time": 1767161068233,
+    "name": "SIEMENS Opcenter Quality模块Opcenter QL Home（SC）、SOA Audit和SOA Cockpit存在多个漏洞",
+    "cnvd": "CNVD-2025-19349",
+    "publish": "2025-08-12",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"SIEMENS SmartClient modules Opcenter QL Home (SC) >=V13.2，<V2506\", \"SIEMENS SOA Audit >=V13.2，<V2506\", \"SIEMENS SOA Cockpit >=V13.2，<V2506\"]",
+    "cve": null,
+    "description": "Opcenter Quality是一个质量管理体系（QMS），它使组织能够保障合规性，优化质量，降低缺陷和返工成本，并通过提高流程稳定性来实现卓越运营。其集成的流程能力（控制图、统计、质量门）能够检测出生产错误，从而避免不合格材料的进一步加工和发货。SIEMENS Opcenter Quality模块Opcenter QL Home（SC）、SOA Audit和SOA Cockpit存在多个漏洞，攻击者可利用该漏洞获得应用程序的完全访问权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-382999.html",
+    "solution": "西门子已为受影响的产品发布了新版本，并建议更新至最新版本：\nhttps://cert-portal.siemens.com/productcert/html/ssa-382999.html",
+    "patch": "SIEMENS Opcenter Quality模块Opcenter QL Home（SC）、SOA Audit和SOA Cockpit存在多个漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-22",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "246f8a7856790c774240588a5018994d"
+}

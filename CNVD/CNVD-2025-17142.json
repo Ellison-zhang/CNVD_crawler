@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:52:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17142",
+    "spider_time": 1767160338027,
+    "name": "Microsoft Azure Functions数据伪造问题漏洞",
+    "cnvd": "CNVD-2025-17142",
+    "publish": "2025-07-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Microsoft Azure Functions\"]",
+    "cve": "CVE-2025-33074",
+    "description": "Microsoft Azure Functions是美国微软（Microsoft）公司的一个托管的平台即服务(PaaS) 提供程序，为Azure云服务提供事件驱动和计划的计算资源。Microsoft Azure Functions存在数据伪造问题漏洞，该漏洞源于加密签名验证不当，攻击者可利用该漏洞可能导致远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-33074",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://azure.microsoft.com/en-us/products/functions",
+    "patch": "Microsoft Azure Functions数据伪造问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "3a9a30874f9e83ffa38eb9f87c3e381c"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:59:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11093",
+    "spider_time": 1767157197967,
+    "name": "Mattermost Mobile Apps拒绝服务漏洞（CNVD-2025-11093）",
+    "cnvd": "CNVD-2025-11093",
+    "publish": "2025-05-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Mattermost Mobile Apps <=2.22.0\"]",
+    "cve": "CVE-2025-20036",
+    "description": "Mattermost Mobile Apps是美国Mattermost公司的一款消息传递移动应用程序。Mattermost Mobile Apps存在拒绝服务漏洞，该漏洞源于未能正确验证帖子属性。攻击者可利用该漏洞导致应用程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://mattermost.com/security-updates",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/security-updates",
+    "patch": "Mattermost Mobile Apps拒绝服务漏洞（CNVD-2025-11093）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-24",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "e5e244c564ff8efc871238f0b71e4dd2"
+}

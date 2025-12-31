@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:13:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12573",
+    "spider_time": 1767158035807,
+    "name": "IBM Aspera Faspex未授权访问漏洞",
+    "cnvd": "CNVD-2025-12573",
+    "publish": "2025-06-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:P/A:N",
+    "product": "[\"IBM IBM Aspera Faspex >=5.0.0，<=5.0.12\"]",
+    "cve": "CVE-2025-33137",
+    "description": "IBM Aspera Faspex是一种集中式文件传输解决方案，旨在通过类似电子邮件的工作流程，实现用户之间的文件交换。IBM Aspera Faspex存在未授权访问漏洞。该漏洞是由于客户端强制执行服务器端安全机制，攻击者可利用该漏洞导致敏感信息泄露或未授权操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-33137",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新:\nhttps://www.ibm.com/support/pages/node/7234114",
+    "patch": "IBM Aspera Faspex未授权访问漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-23",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "9283799fb219bedb4aae783626198057"
+}

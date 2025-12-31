@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:04:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2015-01629",
+    "spider_time": 1767146694427,
+    "name": "IBM SDK Java Technology信息泄露漏洞",
+    "cnvd": "CNVD-2015-01629",
+    "publish": "2015-03-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:P/I:N/A:N",
+    "product": "[\"IBM SDK Java Technology  6R1（<SR8-FP3）\", \"IBM SDK Java Technology  7（<SR8-FP10）\", \"IBM SDK Java Technology 7R1（<SR2-FP10）\", \"IBM SDK Java Technology 5.0（<SR16-FP9）\", \"IBM SDK Java Technology  6（<SR16-FP3）\"]",
+    "cve": "CVE-2014-8892",
+    "description": "IBM SDK Java Technology是美国IBM公司的一款Java 标准开发工具包（SDK）。IBM SDK, Java Technology Edition 5.0 before SR16-FP9, 6 before SR16-FP3, 6R1 before SR8-FP3, 7 before SR8-FP10,7R1 before SR2-FP10存在信息泄露漏洞，允许远程攻击者通过未明安全管理器通过预期的访问权限、获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www-304.ibm.com/support/docview.wss?uid=swg21695474\nhttps://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-8892",
+    "solution": "用户可参考如下厂商提供的安全公告获取补丁以修复该漏洞：\nhttps://www-304.ibm.com/support/docview.wss?uid=swg21695474",
+    "patch": "IBM SDK Java Technology信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2015-03-12",
+    "open_time": "2015-03-13",
+    "update_time": "2015-03-13",
+    "data_summary": "3a9c07e737bf2bdaf40fc71c8a52a560"
+}

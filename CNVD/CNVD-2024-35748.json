@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:27:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35748",
+    "spider_time": 1767155270197,
+    "name": "浙江大华技术股份有限公司智能物联综合管理平台存在信息泄露漏洞（CNVD-2024-35748）",
+    "cnvd": "CNVD-2024-35748",
+    "publish": "2024-08-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"浙江大华技术股份有限公司 智能物联综合管理平台 1.000.0000004.0.R.2309250913\"]",
+    "cve": null,
+    "description": "浙江大华技术股份有限公司是领先的监控产品供应商和解决方案服务商。浙江大华技术股份有限公司智能物联综合管理平台存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请联系厂商更新版本：\nhttps://support.dahuatech.com/afterSales",
+    "patch": "浙江大华技术股份有限公司智能物联综合管理平台存在信息泄露漏洞（CNVD-2024-35748）的补丁",
+    "verify": "已验证",
+    "submit_time": "2024-07-01",
+    "open_time": "2024-08-20",
+    "update_time": "2024-08-20",
+    "data_summary": "719f947fd56a42227881978f4b6af113"
+}

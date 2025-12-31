@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:17:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12778",
+    "spider_time": 1767158267663,
+    "name": "Mattermost信息泄露漏洞",
+    "cnvd": "CNVD-2025-12778",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"Mattermost Mattermost >=9.6.x，<= 9.6.0\", \"Mattermost Mattermost >=9.5.x，<= 9.5.2\", \"Mattermost Mattermost >=9.4.x，<= 9.4.4\", \"Mattermost Mattermost >=8.1.x，<= 8.1.11\"]",
+    "cve": "CVE-2024-32046",
+    "description": "Mattermost是美国Mattermost公司的一个开源协作平台。Mattermost存在信息泄露漏洞，该漏洞源于无法删除API请求中的详细错误消息。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://mattermost.com/security-updates",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/security-updates/",
+    "patch": "Mattermost信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-30",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "3c423e7f393b5e5fd223938b7dfcc474"
+}

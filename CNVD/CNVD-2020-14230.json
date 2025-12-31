@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:28:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2020-14230",
+    "spider_time": 1767148139546,
+    "name": "EyesOfNetwork存在未明漏洞 ",
+    "cnvd": "CNVD-2020-14230",
+    "publish": "2020-02-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"EyesOfNetwork EyesOfNetwork 5.3\"]",
+    "cve": "CVE-2020-8657",
+    "description": "EyesOfNetwork（EON）是一套开源的、免费的IT监控解决方案。该方案提供业务流程配置工具、在活动队列中发生事件时生成弹出窗口等功能。EyesOfNetwork存在安全漏洞。攻击者利用该漏洞计算/猜测管理员访问令牌。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2020-8657",
+    "solution": "目前厂商尚未提供相关漏洞补丁链接么请关注厂商主页随时更新：\nhttps://www.eyesofnetwork.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2020-02-11",
+    "open_time": "2020-02-27",
+    "update_time": "2020-02-27",
+    "data_summary": "419da4548ec592e8a8c8b48c2a0519b3"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:01:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18682",
+    "spider_time": 1767160888896,
+    "name": "Mozilla Firefox缓冲区溢出漏洞（CNVD-2025-18682）",
+    "cnvd": "CNVD-2025-18682",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Mozilla Firefox <96.0\"]",
+    "cve": "CVE-2022-22752",
+    "description": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Firefox存在安全漏洞，该漏洞源于软件当中存在内存破坏类型的漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-37211",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://www.mozilla.org/en-US/security/advisories/mfsa2022-01/",
+    "patch": "Mozilla Firefox缓冲区溢出漏洞（CNVD-2025-18682）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-01-16",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "623cb5cc197eb9a99ba118247f5e4d38"
+}

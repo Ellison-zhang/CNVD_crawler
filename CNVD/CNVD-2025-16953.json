@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:45:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16953",
+    "spider_time": 1767159959189,
+    "name": "Microsoft Windows资源管理错误漏洞（CNVD-2025-16953）",
+    "cnvd": "CNVD-2025-16953",
+    "publish": "2025-07-24",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Windows Server 2019\", \"Microsoft Windows 10 1809\", \"Microsoft Windows 10 21H2\", \"Microsoft Windows 11 22H2\", \"Microsoft Windows 10 22H2\", \"Microsoft Windows Server 2022 23H2\", \"Microsoft Windows 11 23H2\"]",
+    "cve": "CVE-2025-49685",
+    "description": "Microsoft Windows是美国微软（Microsoft）公司的一套个人设备使用的操作系统。Microsoft Windows存在资源管理错误漏洞，该漏洞源于系统未正确限制资源的使用，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-49685",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49685",
+    "patch": "Microsoft Windows资源管理错误漏洞（CNVD-2025-16953）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-17",
+    "open_time": "2025-07-28",
+    "update_time": "2025-07-28",
+    "data_summary": "90a5a5a57fb05e58a13560566fc1b721"
+}

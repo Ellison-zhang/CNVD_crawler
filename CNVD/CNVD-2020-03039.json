@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:26:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2020-03039",
+    "spider_time": 1767147986030,
+    "name": "Apache Httpd mod_rewrite打开重定向漏洞",
+    "cnvd": "CNVD-2020-03039",
+    "publish": "2020-01-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:P/I:P/A:N",
+    "product": "[\"Apache Httpd mod_rewrite >=2.4.0，<2.4.39\"]",
+    "cve": "CVE-2019-10098",
+    "description": "Apache httpd是美国阿帕奇（Apache）软件基金会的一款专为现代操作系统开发和维护的开源HTTP服务器。Apache Httpd mod_rewrite存在打开重定向漏洞，攻击者可利用该漏洞将用户重定向到其他地方。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.exploitalert.com/view-details.html?id=34470",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttp://httpd.apache.org",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2019-11-22",
+    "open_time": "2020-01-21",
+    "update_time": "2020-01-21",
+    "data_summary": "ab2db8b23b0eec7a776b14a8acfc8510"
+}

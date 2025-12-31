@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:29:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14976",
+    "spider_time": 1767158977258,
+    "name": "Google Android输入验证不当漏洞",
+    "cnvd": "CNVD-2025-14976",
+    "publish": "2025-06-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Google Android 12.0\", \"Google Android 12.1\", \"Google Android 13.0\", \"Google Android 14.0\"]",
+    "cve": "CVE-2024-40673",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在输入验证不当漏洞，该漏洞源于ZipFile.java的Source中输入验证不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/libcore/+/b17fd2f8fe468e7d32e713b442f610cd33e4e7a9",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://source.android.com/security/bulletin/2024-10-01",
+    "patch": "Google Android输入验证不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "885be3f24f7d805d26ac8480b52f6198"
+}

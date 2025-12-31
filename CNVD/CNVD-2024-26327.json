@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:24:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-26327",
+    "spider_time": 1767169491502,
+    "name": "Fortinet FortiOS缓冲区溢出漏洞（CNVD-2024-26327）",
+    "cnvd": "CNVD-2024-26327",
+    "publish": "2024-06-05",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Fortinet FortiProxy 7.2.0\", \"Fortinet FortiProxy >=1.0.0，<=1.0.7\", \"Fortinet FortiProxy >=1.1.0，<=1.1.6\", \"Fortinet FortiProxy >=1.2.0，<=1.2.13\", \"Fortinet Inc. FortiOS >=7.2.0，<=7.2.3\", \"Fortinet Inc. FortiOS >=7.0.0，<=7.0.9\", \"Fortinet FortiProxy >=7.0.0，<=7.0.8\", \"Fortinet FortiProxy 7.2.1\", \"Fortinet Inc. FortiOS >=6.2.0，<=6.2.15\", \"Fortinet Inc. FortiOS >=6.4.0，<=6.4.12\", \"Fortinet FortiProxy >=2.0.0，<=2.0.12\", \"Fortinet FortiProxy 7.2.2\", \"Fortinet Inc. FortiOS >=6.0.0，<=6.0.17\"]",
+    "cve": "CVE-2023-22639",
+    "description": "Fortinet FortiOS是美国飞塔（Fortinet）公司的一套专用于FortiGate网络安全平台上的安全操作系统。该系统为用户提供防火墙、防病毒、IPSec/SSLVPN、Web内容过滤和反垃圾邮件等多种安全功能。Fortinet FortiOS存在缓冲区错误漏洞，该漏洞源于存在越界写入问题。攻击者可利用该漏洞远程执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-22639",
+    "solution": "目前厂商暂未发布修复措施解决此安全问题，建议使用此软件的用户随时关注厂商主页或参考网址以获取解决办法：\nhttps://fortiguard.com/psirt/FG-IR-22-494",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-06-20",
+    "open_time": "2024-06-06",
+    "update_time": "2024-06-06",
+    "data_summary": "8e5ade7288d7c7128ec1aeafdf01cf0b"
+}

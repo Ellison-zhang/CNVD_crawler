@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:23:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20491",
+    "spider_time": 1767165789845,
+    "name": "JetBrains TeamCity身份验证绕过漏洞",
+    "cnvd": "CNVD-2025-20491",
+    "publish": "2025-09-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"JetBrains TeamCity <2023.11.4\"]",
+    "cve": "CVE-2024-27198",
+    "description": "JetBrains TeamCity是由JetBrains公司开发的持续集成（CI/CD）工具，主要用于自动化软件构建、测试及部署流程。JetBrains TeamCity存在身份验证绕过漏洞。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-27198",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/help/teamcity/previous-releases-downloads.html#Current+version%3A+TeamCity+2023.11.4",
+    "patch": "JetBrains TeamCity身份验证绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-06",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "3975db4f596544c35e15f330e710e29d"
+}

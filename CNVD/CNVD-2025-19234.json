@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:01:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19234",
+    "spider_time": 1767160910097,
+    "name": "Dell SupportAssist OS Recovery特权提升漏洞",
+    "cnvd": "CNVD-2025-19234",
+    "publish": "2025-08-14",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL SupportAssist OS Recovery <5.5.14.0\"]",
+    "cve": "CVE-2025-38747",
+    "description": "Dell SupportAssist OS Recovery是美国戴尔（Dell）公司的提供了一个恢复环境，其中包含用于诊断和解决在计算机启动到操作系统之前可能发生的问题的工具。Dell SupportAssist OS Recovery临时文件处理存在安全漏洞，该漏洞权限设置不当，本地攻击者可利用该漏洞提交特殊的请求，可提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-38747",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttps://www.dell.com/support/kbdoc/en-us/000353093/dsa-2025-315",
+    "patch": "Dell SupportAssist OS Recovery特权提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-13",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "4caefbb580ec60ed62404a35fe8f9633"
+}

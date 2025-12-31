@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:35:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-30067",
+    "spider_time": 1767152130906,
+    "name": "OpenCart授权问题漏洞（CNVD-2024-30067）",
+    "cnvd": "CNVD-2024-30067",
+    "publish": "2024-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"OpenCart OpenCart >=4.0.0.0，<=4.0.2.3\"]",
+    "cve": "CVE-2023-47444",
+    "description": "OpenCart是中国香港OpenCart团队的一套开源的电子商务系统。该系统提供产品评论、产品评分、产品添加等模块。OpenCart存在授权问题漏洞，该漏洞源于允许具有common/security写入权限的后端用户在config.php和admin/config.php中写入任意不受信任的数据，攻击者可利用该漏洞导致在底层服务器上远程执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://0xbro.red/disclosures/disclosed-vulnerabilities/opencart-cve-2023-47444/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/opencart/opencart",
+    "patch": "OpenCart授权问题漏洞（CNVD-2024-30067）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-11-17",
+    "open_time": "2024-07-03",
+    "update_time": "2024-07-03",
+    "data_summary": "124558eac1739cf695644362bbca4586"
+}

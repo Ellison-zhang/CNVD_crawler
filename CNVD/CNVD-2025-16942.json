@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:43:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16942",
+    "spider_time": 1767159827587,
+    "name": "Microsoft Excel资源管理错误漏洞",
+    "cnvd": "CNVD-2025-16942",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Excel 2016\", \"Microsoft Office Online Server\", \"Microsoft Office 2019\", \"Microsoft 365 Apps for Enterprise\", \"Microsoft Office LTSC 2021\", \"Microsoft Office LTSC for Mac 2021\", \"Microsoft Microsoft Office LTSC 2024\", \"Microsoft Office LTSC for Mac 2024\"]",
+    "cve": "CVE-2025-49711",
+    "description": "Microsoft Excel是美国微软（Microsoft）公司的一款Office套件中的电子表格处理软件。Microsoft Excel存在安全漏洞。攻击者利用该漏洞可以远程执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-49711",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49711",
+    "patch": "Microsoft Excel资源管理错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-28",
+    "update_time": "2025-07-28",
+    "data_summary": "7a5c515036403d0dc88d5bb7db03f796"
+}

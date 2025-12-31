@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:21:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2018-25397",
+    "spider_time": 1767147695905,
+    "name": "Siemens TIM 1531 IRC认证缺失漏洞",
+    "cnvd": "CNVD-2018-25397",
+    "publish": "2018-12-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Siemens TIM 1531 IRC <V2.0\"]",
+    "cve": "CVE-2018-13816",
+    "description": "Siemens TIM 1531 IRC是德国西门子（Siemens）公司的一款通信模块。Siemens TIM 1531 IRC 2.0之前版本中存在安全漏洞，该漏洞源于在102/tcp端口上进行连接时设备未能进行正确的身份验证。攻击者可利用该漏洞执行任意管理操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/pdf/ssa-982399.pdf",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://cert-portal.siemens.com/productcert/pdf/ssa-982399.pdf",
+    "patch": "Siemens TIM 1531 IRC认证缺失漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2018-12-14",
+    "open_time": "2018-12-14",
+    "update_time": "2018-12-14",
+    "data_summary": "9b84f3afe489a706bc10c341f11326fa"
+}

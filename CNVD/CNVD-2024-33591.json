@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:54:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33591",
+    "spider_time": 1767153262683,
+    "name": "Apache Airflow存在跨站脚本漏洞",
+    "cnvd": "CNVD-2024-33591",
+    "publish": "2024-07-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Apache Airflow <2.9.3\"]",
+    "cve": "CVE-2024-39863",
+    "description": "Apache Airflow是美国阿帕奇（Apache）基金会的一套用于创建、管理和监控工作流程的开源平台。该平台具有可扩展和动态监控等特点。Apache Airflow存在跨站脚本漏洞，攻击者可利用该漏洞将恶意脚本注入Web页面，窃取受害者的基于cookie的身份验证凭据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://exchange.xforce.ibmcloud.com/vulnerabilities/298035",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://airflow.apache.org/",
+    "patch": "Apache Airflow存在跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-17",
+    "open_time": "2024-07-25",
+    "update_time": "2024-07-25",
+    "data_summary": "f66b94aca0622cc0b76873d48ddc5026"
+}

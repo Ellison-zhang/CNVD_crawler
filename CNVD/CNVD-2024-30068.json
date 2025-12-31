@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:30:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-30068",
+    "spider_time": 1767169843331,
+    "name": "OpenCart SQL注入漏洞（CNVD-2024-30068）",
+    "cnvd": "CNVD-2024-30068",
+    "publish": "2024-06-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"OpenCart OpenCart 3.0.3.7\"]",
+    "cve": "CVE-2021-37823",
+    "description": "OpenCart是中国香港OpenCart团队的一套开源的电子商务系统。该系统提供产品评论、产品评分、产品添加等模块。OpenCart 3.0.3.7版本存在SQL注入漏洞，攻击者可利用该漏洞通过后台实现SQL注入导致非法获取数据库信息或读取服务器文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2021-37823",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://www.opencart.com/index.php?route=cms/download/history",
+    "patch": "OpenCart SQL注入漏洞（CNVD-2024-30068）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-11-05",
+    "open_time": "2024-07-03",
+    "update_time": "2024-07-03",
+    "data_summary": "f9d3baccab3e5cc9a0f79f44ef77d7ef"
+}

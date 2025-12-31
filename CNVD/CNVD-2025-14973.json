@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:28:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14973",
+    "spider_time": 1767158927978,
+    "name": "Google Android越界读取漏洞",
+    "cnvd": "CNVD-2025-14973",
+    "publish": "2025-06-30",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Google Android\"]",
+    "cve": "CVE-2024-29739",
+    "description": "Google Android ‌是由Google公司开发的基于Linux内核的自由及开放源代码的移动操作系统。Google Android存在越界读取漏洞，该漏洞源于tmu.c文件的tmu_get_temp_lut模块存在缺少边界检查，攻击者可利用该漏洞读取内核内存中的敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-29739",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://source.android.com/security/bulletin/pixel/2024-04-01",
+    "patch": "Google Android越界读取漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-28",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "e8a2bda31bec77539e17f96944bef668"
+}

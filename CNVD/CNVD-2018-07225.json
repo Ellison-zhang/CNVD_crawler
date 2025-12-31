@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:19:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2018-07225",
+    "spider_time": 1767147585039,
+    "name": "Apache HTTP Server远程安全绕过漏洞",
+    "cnvd": "CNVD-2018-07225",
+    "publish": "2018-04-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:P/I:P/A:N",
+    "product": "[\"Apache Apache >=2.2.0，<=2.4.29\"]",
+    "cve": "CVE-2018-15715",
+    "description": "Apache HTTP Server是Apache软件基金会的一个开放源代码的网页服务器。Apache httpd 2.2.0至2.4.29版本存在安全绕过漏洞，攻击者利用此漏洞通过文件名内的尾部换行符，可绕过安全限制，执行未授权操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2018-15715\nhttps://www.securityfocus.com/bid/103525",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://bugzilla.redhat.com/show_bug.cgi?id=1560614",
+    "patch": "Apache HTTP Server远程安全绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2018-04-02",
+    "open_time": "2018-04-09",
+    "update_time": "2018-04-02",
+    "data_summary": "9c2f454762a351887e820f50f4a420ce"
+}

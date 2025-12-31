@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:38:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19820",
+    "spider_time": 1767163088463,
+    "name": "CGM CLININET信任管理问题漏洞",
+    "cnvd": "CNVD-2025-19820",
+    "publish": "2025-08-29",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"CGM CLININET <2025.MS2\"]",
+    "cve": "CVE-2025-30064",
+    "description": "CGM CLININET是德国CGM公司的一款医院信息管理系统。CGM CLININET存在信任管理问题漏洞，该漏洞源于decodeParam函数未验证签名算法，攻击者可利用该漏洞导致生成任意用户会话。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert.pl/en/posts/2025/08/CVE-2025-2313/",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://cert.pl/en/posts/2025/08/CVE-2025-2313/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-29",
+    "open_time": "2025-08-29",
+    "update_time": "2025-08-29",
+    "data_summary": "bf5d97afc3356f4a2a8dff673d08ef2b"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:30:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14979",
+    "spider_time": 1767159042008,
+    "name": "Google Android拒绝服务漏洞",
+    "cnvd": "CNVD-2025-14979",
+    "publish": "2025-06-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"Google Android 14.0\"]",
+    "cve": "CVE-2024-40674",
+    "description": "Google Android是由Google公司开发的基于Linux内核的自由及开放源代码的移动操作系统。Google Android存在拒绝服务漏洞，该漏洞源于WifiConfigurationUtil.java的validateSsid函数代码中的逻辑错误，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/packages/modules/Wifi/+/debc548ac085ba1ab0582172b97d965e9a1ea43a",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://source.android.com/security/bulletin/2024-10-01",
+    "patch": "Google Android拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "6d59302138c6bfd865ab1625c2609486"
+}

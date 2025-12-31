@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:00:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11097",
+    "spider_time": 1767157257346,
+    "name": "Tenda AC10栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11097",
+    "publish": "2025-05-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC10 16.03.10.13\"]",
+    "cve": "CVE-2024-11061",
+    "description": "Tenda AC10是一款专为200兆及以上光纤家庭设计的11ac双频路由器。Tenda AC10存在栈缓冲区溢出漏洞。该漏洞源于/goform/fast_setting_wifi_set文件的FUN_0044db3c函数的参数timeZone导致基于堆栈的缓冲区溢出。攻击者可利用该漏洞对目标有针对性的发起攻击，危害站点系统安全。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-11061",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-3684.html",
+    "patch": "Tenda AC10栈缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-15",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "814f5f540a804abbcb53acb08473ffb7"
+}

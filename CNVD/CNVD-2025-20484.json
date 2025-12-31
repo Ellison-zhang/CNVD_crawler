@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:21:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20484",
+    "spider_time": 1767165686484,
+    "name": "Adobe Premiere Pro释放后重用漏洞",
+    "cnvd": "CNVD-2025-20484",
+    "publish": "2025-09-01",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Adobe Adobe Premiere Pro <=22.0\", \"Adobe Adobe Premiere Pro <=15.4.2\"]",
+    "cve": "CVE-2021-40790",
+    "description": "Adobe Premiere Pro是由Adobe公司开发的非线性视频编辑软件，广泛应用于电影、电视和网络视频的专业制作领域，提供从素材剪辑到成品输出的全流程解决方案。Adobe Premiere Pro存在释放后重用漏洞，攻击者可利用该漏洞导致敏感内存泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/premiere_pro/apsb21-117.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/premiere_pro/apsb21-117.html%E3%80%82",
+    "patch": "Adobe Premiere Pro释放后重用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-12-28",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "4f56799e6dda260fe9999d2e6fa9c4b7"
+}

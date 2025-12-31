@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:26:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14826",
+    "spider_time": 1767158768711,
+    "name": "Adobe InDesign Desktop资源管理错误漏洞",
+    "cnvd": "CNVD-2025-14826",
+    "publish": "2025-06-30",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Adobe InDesign Desktop <=ID20.2\", \"Adobe InDesign Desktop <=ID19.5.3\"]",
+    "cve": "CVE-2025-47106",
+    "description": "Adobe InDesign Desktop是美国奥多比（Adobe）公司的一款页面排版软件。Adobe InDesign Desktop存在资源管理错误漏洞，该漏洞源于释放后重用，攻击者可利用该漏洞导致敏感内存泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-47106",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/indesign/apsb25-53.html",
+    "patch": "Adobe InDesign Desktop资源管理错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "df2aac0c553654dff49cb7b2d665f3dc"
+}

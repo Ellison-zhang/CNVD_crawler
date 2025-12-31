@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:49:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2022-32613",
+    "spider_time": 1767149394811,
+    "name": "多款Cisco产品缓冲区溢出漏洞（CNVD-2022-32613）",
+    "cnvd": "CNVD-2022-32613",
+    "publish": "2022-05-29",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Cisco RV110W\", \"Cisco RV130W\", \"Cisco RV215W\"]",
+    "cve": "CVE-2019-1663",
+    "description": "Cisco RV110W Wireless-N VPN Firewall等都是美国思科（Cisco）公司的一款企业级路由器。Cisco RV110W Wireless-N VPN Firewall、RV130W Wireless-N Multifunction VPN Router和RV215W Wireless-N VPN Router中基于Web的管理界面存在缓冲区溢出漏洞，该漏洞源于程序未能正确地验证用户提交的数据。远程攻击者可通过发送恶意的HTTP请求利用该漏洞在底层操作系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2019-1663",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190227-rmi-cmd-ex",
+    "patch": "多款Cisco产品缓冲区溢出漏洞（CNVD-2022-32613）的补丁",
+    "verify": "已验证",
+    "submit_time": "2022-04-14",
+    "open_time": "2022-04-26",
+    "update_time": "2022-04-26",
+    "data_summary": "95c12e60a1799f7d629991c3c8c7f916"
+}

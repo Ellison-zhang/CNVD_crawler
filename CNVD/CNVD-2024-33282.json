@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:47:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33282",
+    "spider_time": 1767152851957,
+    "name": "Sentrifugo expense_category_name参数跨站脚本漏洞",
+    "cnvd": "CNVD-2024-33282",
+    "publish": "2024-07-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Sentrifugo Sentrifugo 3.2\"]",
+    "cve": "CVE-2024-29877",
+    "description": "Sentrifugo是一套人力资源管理系统。该系统包括人力资源管理、绩效考核、招聘管理和资产管理等功能。Sentrifugo 3.2版本存在跨站脚本漏洞，该漏洞源于/sentrifugo/index.php/expenses/expensecategories/edit文件的expense_category_name参数对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-29877",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttp://www.sentrifugo.com/",
+    "patch": "Sentrifugo expense_category_name参数跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-26",
+    "open_time": "2024-07-19",
+    "update_time": "2024-07-19",
+    "data_summary": "2cdedf046c83b653b14c9b3681261552"
+}

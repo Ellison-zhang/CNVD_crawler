@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:35:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33598",
+    "spider_time": 1767170146102,
+    "name": "Apache StreamPipes安全特征问题漏洞",
+    "cnvd": "CNVD-2024-33598",
+    "publish": "2024-07-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Apache Apache StreamPipes >=0.69.0，<=0.93.0\"]",
+    "cve": "CVE-2024-29868",
+    "description": "Apache StreamPipes是美国阿帕奇（Apache）基金会的一个自助式（工业）物联网工具箱，使非技术用户能够连接、分析和探索IIoT数据流。Apache StreamPipes存在安全特征问题漏洞，该漏洞源于存在加密弱伪随机数生成器(PRNG)，攻击者可利用该漏洞在合理的时间内猜出恢复令牌，从而接管受攻击用户的帐户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-29868",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/g7t7zctvq2fysrw1x17flnc12592nhx7",
+    "patch": "Apache StreamPipes安全特征问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-28",
+    "open_time": "2024-07-25",
+    "update_time": "2024-07-25",
+    "data_summary": "f6742a600f9ed58f0d44771b4d8e475e"
+}

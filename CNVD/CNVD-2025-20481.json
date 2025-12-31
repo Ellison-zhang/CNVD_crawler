@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:20:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20481",
+    "spider_time": 1767165652690,
+    "name": "Adobe Media Encoder越界读取漏洞",
+    "cnvd": "CNVD-2025-20481",
+    "publish": "2025-09-01",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Adobe Adobe Media Encoder 22.0\", \"Adobe Adobe Media Encoder <=15.4.2\"]",
+    "cve": "CVE-2021-43758",
+    "description": "Adobe Media Encoder是Adobe公司开发的专业视频和音频编码应用程序，用于将媒体文件转换为多种行业标准格式，适用于不同设备和平台。Adobe Media Encoder存在越界读取漏洞，攻击者可利用该漏洞导致敏感内存泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/media-encoder/apsb21-118.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/media-encoder/apsb21-118.html%E3%80%82",
+    "patch": "Adobe Media Encoder越界读取漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-12-28",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "7535bdeca8b295a9c478705ec6a75a84"
+}

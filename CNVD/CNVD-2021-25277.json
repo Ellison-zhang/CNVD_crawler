@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:41:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-25277",
+    "spider_time": 1767148871912,
+    "name": "EC-CUBE路径遍历漏洞",
+    "cnvd": "CNVD-2021-25277",
+    "publish": "2021-04-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:P",
+    "product": "[\"Ec-Cube Ec-Cube >=3.0.0，<=3.0.18\", \"Ec-Cube Ec-Cube >=4.0.0，<=4.0.3\"]",
+    "cve": "CVE-2020-5590",
+    "description": "EC-CUBE是日本EC-CUBE公司的一套开源的电子商务系统。EC-CUBE 3.0.0版本至3.0.18版本和4.0.0版本至4.0.3版本中存在路径遍历漏洞。攻击者可利用该漏洞删除服务器上的任意文件或路径。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://jvn.jp/en/jp/JVN77458946/index.html",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://www.ec-cube.net/info/weakness/weakness.php?id=73\nhttps://www.ec-cube.net/info/weakness/weakness.php?id=74",
+    "patch": "EC-CUBE路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2020-06-19",
+    "open_time": "2021-04-06",
+    "update_time": "2021-04-06",
+    "data_summary": "5d6bf30038fa083edce24c4b43638ef1"
+}

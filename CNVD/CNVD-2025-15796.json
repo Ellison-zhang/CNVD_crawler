@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:37:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15796",
+    "spider_time": 1767159454273,
+    "name": "Cisco IOS XE Wireless Controller Software访问控制错误漏洞",
+    "cnvd": "CNVD-2025-15796",
+    "publish": "2025-07-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:C/A:N",
+    "product": "[\"Cisco Cisco IOS XE Wireless Controller software\"]",
+    "cve": "CVE-2025-20190",
+    "description": "Cisco IOS XE Wireless Controller software是美国思科（Cisco）公司的一个无线局域网控制器。Cisco IOS XE Wireless Controller Software存在访问控制错误漏洞，该漏洞源于访问控制不足，攻击者可利用该漏洞导致删除任意用户账户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ewlc-user-del-hQxMpUDj",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.cisco.com/c/en/us/support/index.html",
+    "patch": "Cisco IOS XE Wireless Controller Software访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "df05601a5ad38f46cd12b6da12c75c4e"
+}

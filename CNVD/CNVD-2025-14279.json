@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:20:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14279",
+    "spider_time": 1767158454980,
+    "name": "Tenda AC6 /goform/SetRebootTimer文件缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-14279",
+    "publish": "2025-06-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"深圳市吉祥腾达科技有限公司 AC6 15.03.05.16\"]",
+    "cve": "CVE-2025-5855",
+    "description": "Tenda AC6是中国腾达（Tenda）公司的一款无线路由器。Tenda AC6 15.03.05.16版本存在缓冲区溢出漏洞，该漏洞源于文件/goform/SetRebootTimer中参数rebootTime未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lavender-bicycle-a5a.notion.site/Tenda-AC6-formsetreboottimer-20a53a41781f80c5b6cac51008556c7e?source=copy_link",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.tenda.com.cn/product/help/AC6#download",
+    "patch": "Tenda AC6 /goform/SetRebootTimer文件缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-30",
+    "update_time": "2025-06-30",
+    "data_summary": "07346fc53da0f7436baae96b03050e2a"
+}

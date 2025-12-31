@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:01:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21054",
+    "spider_time": 1767146508638,
+    "name": "GNU Binutils拒绝服务漏洞（CNVD-2025-21054）",
+    "cnvd": "CNVD-2025-21054",
+    "publish": "2025-09-08",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Gnu GNU Binutils\"]",
+    "cve": "CVE-2023-25585",
+    "description": "GNU Binutils是GNU项目开发的一组二进制工具集，主要用于处理目标文件（如可执行文件、库文件等），涵盖编译、链接、调试等阶段的功能。GNU Binutils存在拒绝服务漏洞，该漏洞源于结构体模块module中未初始化字段，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.auscert.org.au/bulletins/ESB-2023.3013",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://ftp.gnu.org/gnu/binutils/?C=M;O=D",
+    "patch": "GNU Binutils拒绝服务漏洞（CNVD-2025-21054）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-05-29",
+    "open_time": "2025-09-11",
+    "update_time": "2025-09-11",
+    "data_summary": "7faaf946908f9b550c143b8f27d9776f"
+}

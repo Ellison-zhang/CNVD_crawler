@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:24:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-29653",
+    "spider_time": 1767151495332,
+    "name": "Dell PowerEdge Server BIOS存在未明漏洞（CNVD-2024-29653）",
+    "cnvd": "CNVD-2024-29653",
+    "publish": "2024-06-27",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:P/I:P/A:P",
+    "product": "[\"DELL Dell PowerEdge Server BIOS\"]",
+    "cve": "CVE-2024-0171",
+    "description": "Dell PowerEdge Server BIOS是美国戴尔（Dell）公司的一款系统更新驱动程序。Dell PowerEdge Server BIOS存在安全漏洞，该漏洞源于服务器 BIOS 包含 TOCTOU 竞争条件漏洞，攻击者可利用该漏洞访问未经授权的资源。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-0171",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000226253/dsa-2024-039-security-update-for-dell-amd-based-poweredge-server-vulnerability",
+    "patch": "Dell PowerEdge Server BIOS存在未明漏洞（CNVD-2024-29653）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-26",
+    "open_time": "2024-06-28",
+    "update_time": "2024-06-28",
+    "data_summary": "88d7b2a5bedb68fe27a8d454af8656b3"
+}

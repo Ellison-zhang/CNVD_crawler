@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:35:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37606",
+    "spider_time": 1767155701479,
+    "name": "Cisco Small Business缓冲区溢出漏洞（CNVD-2024-37606）",
+    "cnvd": "CNVD-2024-37606",
+    "publish": "2024-09-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:N",
+    "product": "[\"Cisco Cisco Small Business\"]",
+    "cve": "CVE-2024-20336",
+    "description": "Cisco Small Business是美国思科（Cisco）公司的一个交换机。Cisco Small Business存在缓冲区溢出漏洞，该漏洞源于基于Web的用户界面中对用户提供的输入验证不足，经过身份验证的远程攻击者可利用该漏洞对受影响的设备执行缓冲区溢出攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-20336",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sb-wap-multi-85G83CRB",
+    "patch": "Cisco Small Business缓冲区溢出漏洞（CNVD-2024-37606）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-12",
+    "open_time": "2024-09-06",
+    "update_time": "2024-09-06",
+    "data_summary": "bd6bb87a3aaffb4176d094c33c4277ee"
+}

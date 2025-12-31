@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:20:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2018-07760",
+    "spider_time": 1767147607390,
+    "name": "CA API Developer Portal跨站脚本漏洞",
+    "cnvd": "CNVD-2018-07760",
+    "publish": "2018-04-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"CA  API Developer Portal >=3.5，<=3.5 CR6\"]",
+    "cve": "CVE-2018-6586",
+    "description": "CA API Developer Portal是美国CA公司的一套为软件开发人员提供API（应用程序编程接口）查询功能的应用程序。CA API Developer Portal 3.5版本至3.5 CR6版本中的profile picture处理存在跨站脚本漏洞，该漏洞源于程序未能正确过滤用户提交的HTML代码。远程攻击者可利用该漏洞执行任意脚本代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://securitytracker.com/id/1040603",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.ca.com/us/product-content/recommended-reading/security-notices/ca20180328-01--security-notice-for-ca-api-developer-portal.html",
+    "patch": "CA API Developer Portal跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2018-03-30",
+    "open_time": "2018-04-17",
+    "update_time": "2018-04-17",
+    "data_summary": "5bb61e34b89a17824f7e43812a5e626d"
+}

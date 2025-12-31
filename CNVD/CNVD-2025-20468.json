@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:00:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20468",
+    "spider_time": 1767146443103,
+    "name": "Google ChromeV8引擎越界写入漏洞",
+    "cnvd": "CNVD-2025-20468",
+    "publish": "2025-09-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <139.0.7258.138\"]",
+    "cve": "CVE-2025-9132",
+    "description": "Google Chrome是由谷歌（Google）公司开发的一款免费网页浏览器，以其快速、安全、简洁的特点成为全球市场份额最高的浏览器，支持多平台使用并内置隐私保护功能。Google Chrome存在V8引擎越界写入漏洞，该漏洞源于内存缓冲区数据越界被写，攻击者可利用该漏洞导致堆内存破坏。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop_19.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.google.com/intl/en_au/chrome/dr/download/?brand=FHFK&ds_kid=43700082450527264&gclsrc=aw.ds&gad_source=1&gad_campaignid=22852283685&gbraid=0AAAAAoY3CA4ilqJA0USKc71zaCr-IKEW-&gclid=EAIaIQobChMIvfmDyraYjwMVmkVHAR2-WQW9EAAYASABEgI8DfD_BwE",
+    "patch": "Google ChromeV8引擎越界写入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-25",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "29b5bd7eb4499a45e86c295d4dec39a9"
+}

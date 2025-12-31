@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:41:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-31391",
+    "spider_time": 1767152466093,
+    "name": "Cisco NX-OS Software命令注入漏洞（CNVD-2024-31391）",
+    "cnvd": "CNVD-2024-31391",
+    "publish": "2024-07-05",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:N",
+    "product": "[\"Cisco Cisco NX-OS Software\"]",
+    "cve": "CVE-2024-20399",
+    "description": "Cisco NX-OS Software是美国思科（Cisco）公司的一套交换机使用的数据中心级操作系统软件。Cisco NX-OS Software存在命令注入漏洞，该漏洞源于传递给特定配置CLI命令的参数的验证不足，经过身份验证的本地攻击者可利用该漏洞以root身份在受影响设备的底层操作系统上执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-20399",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-cmd-injection-xD9OhyOP",
+    "patch": "Cisco NX-OS Software命令注入漏洞（CNVD-2024-31391）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-05",
+    "open_time": "2024-07-10",
+    "update_time": "2024-07-10",
+    "data_summary": "fc453b0f14802395062cb3d23e4d8269"
+}

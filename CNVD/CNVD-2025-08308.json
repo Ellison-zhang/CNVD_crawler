@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:49:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08308",
+    "spider_time": 1767156569212,
+    "name": "lunary信息泄露漏洞（CNVD-2025-08308）",
+    "cnvd": "CNVD-2025-08308",
+    "publish": "2025-04-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"lunary lunary v1.4.29\"]",
+    "cve": "CVE-2024-9099",
+    "description": "lunary是lunary开源的一个LLM的生产工具包。lunary存在信息泄露漏洞，该漏洞源于GET /projects API端点向具有最低权限的用户暴露了所有项目的公共和私有API密钥，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-9099",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://github.com/lunary-ai/lunary/commit/8ba1b8ba2c2c30b1cec30eb5777c1fda670cbbfc",
+    "patch": "lunary信息泄露漏洞（CNVD-2025-08308）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-04-25",
+    "update_time": "2025-04-25",
+    "data_summary": "9f42466aa914cc2ee3f39f0d45e64514"
+}

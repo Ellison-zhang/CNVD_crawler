@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:36:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-30072",
+    "spider_time": 1767152198548,
+    "name": "OpenCart SQL注入漏洞（CNVD-2024-30072）",
+    "cnvd": "CNVD-2024-30072",
+    "publish": "2024-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:N/I:C/A:C",
+    "product": "[\"OpenCart OpenCart 3.0.3.9\"]",
+    "cve": "CVE-2024-21514",
+    "description": "OpenCart是一个开源的在线商店管理系统，用于创建和管理电子商务网站。它以其用户友好性和灵活性而闻名，适合不同规模的在线商店。OpenCart存在SQL注入漏洞，该漏洞源于存在SQL注入问题，未经身份验证的用户可以利用SQL注入来获得对后端数据库的未经授权的访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-21514",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.snyk.io/vuln/SNYK-PHP-OPENCARTOPENCART-7266565",
+    "patch": "OpenCart SQL注入漏洞（CNVD-2024-30072）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-24",
+    "open_time": "2024-07-03",
+    "update_time": "2024-07-03",
+    "data_summary": "8c4620896a78f58fa82f244720722f6b"
+}

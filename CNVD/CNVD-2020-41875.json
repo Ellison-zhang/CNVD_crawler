@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:40:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2020-41875",
+    "spider_time": 1767148801347,
+    "name": "Adobe Acrobat和Reader存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2020-41875",
+    "publish": "2020-08-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Acrobat DC (Continuous) <=2020.006.20042\", \"Adobe Acrobat Reader DC (Continuous) <=2020.006.20042\", \"Adobe Acrobat 2017 (Classic 2017) <=2017.011.30166\", \"Adobe Acrobat Reader 2017 (Classic 2017) <=2017.011.30166\", \"Adobe Acrobat 2015 (Classic 2015) <=2015.006.30518\", \"Adobe Acrobat Reader 2015 (Classic 2015) <=2015.006.30518\"]",
+    "cve": "CVE-2020-9615",
+    "description": "Adobe Acrobat和Reader都是美国奥多比（Adobe）公司的产品。Adobe Acrobat是一套PDF文件编辑和转换工具。Reader是一套PDF文档阅读软件。Adobe Acrobat和Reader存在逻辑缺陷漏洞。攻击者可利用漏洞绕过安全功能，执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/acrobat/apsb20-24.html",
+    "solution": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://helpx.adobe.com/security/products/acrobat/apsb20-24.html",
+    "patch": "Adobe Acrobat Reader DC for macOS 存在逻辑缺陷漏洞",
+    "verify": "已验证",
+    "submit_time": "2020-06-18",
+    "open_time": "2020-07-23",
+    "update_time": "2020-07-23",
+    "data_summary": "71db23445e473d73db458ef588af5b4f"
+}

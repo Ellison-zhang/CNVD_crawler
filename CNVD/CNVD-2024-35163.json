@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:21:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35163",
+    "spider_time": 1767154882397,
+    "name": "D-Link DIR-860L存在未明漏洞（CNVD-2024-35163）",
+    "cnvd": "CNVD-2024-35163",
+    "publish": "2024-08-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-860L\"]",
+    "cve": "CVE-2024-41611",
+    "description": "D-Link DIR-860L是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-860L REVA FIRMWARE PATCH 1.10.B04版本存在安全漏洞，该漏洞源于Telnet服务包含硬编码凭据，攻击者可利用该漏洞能够远程登录Telnet服务并执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-41611",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10397",
+    "patch": "D-Link DIR-860L存在未明漏洞（CNVD-2024-35163）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-02",
+    "open_time": "2024-08-13",
+    "update_time": "2024-08-13",
+    "data_summary": "410e5a3c8a5db71f68e4d9fd1e09e115"
+}

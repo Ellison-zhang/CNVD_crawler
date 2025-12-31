@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:47:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16959",
+    "spider_time": 1767160070603,
+    "name": "Apache Jena输入验证错误漏洞",
+    "cnvd": "CNVD-2025-16959",
+    "publish": "2025-07-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Apache Apache Jena <=5.4.0\"]",
+    "cve": "CVE-2025-50151",
+    "description": "Apache Jena是Apache软件基金会的开源Java框架，用于构建语义网和链接数据应用。Apache Jena 5.4.0及之前版本存在文件路径验证漏洞，该漏洞源于未对管理员上传的配置文件中的文件访问路径进行有效性校验。攻击者可利用该漏洞通过上传恶意配置文件实现任意文件访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-50151",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://lists.apache.org/thread/12gks5z40gh9bszn1xk8mz34gz586xss",
+    "patch": "Apache Jena输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-07-28",
+    "update_time": "2025-07-28",
+    "data_summary": "ec3d63dec4daf6b7836cf0ca381d653c"
+}

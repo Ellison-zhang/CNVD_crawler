@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:47:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-38196",
+    "spider_time": 1767170823594,
+    "name": "FrogCms跨站请求伪造漏洞",
+    "cnvd": "CNVD-2024-38196",
+    "publish": "2024-09-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"FrogCMS FrogCMS v0.95\"]",
+    "cve": "CVE-2024-42627",
+    "description": "FrogCMS是一款轻量级的 PHP 内容管理系统FrogCms v0.9.5版本存在跨站请求伪造漏洞，该漏洞源于/admin/?/snippet/delete/3未充分验证请求是否来自可信用户。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-42627",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/Kirtoc/cms/tree/main/6/readme.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-14",
+    "open_time": "2024-09-14",
+    "update_time": "2024-09-14",
+    "data_summary": "011ba3d90366a4d303e85bc01f9b3497"
+}

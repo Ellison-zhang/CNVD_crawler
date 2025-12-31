@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:46:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04495",
+    "spider_time": 1767156382517,
+    "name": "Google Pixel越界写入漏洞（CNVD-2025-04495）",
+    "cnvd": "CNVD-2025-04495",
+    "publish": "2025-02-27",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android 6.0.1\", \"Google Android 7.0\", \"Google Android 7.1.1\", \"Google Android 7.1.2\", \"Google Android 6.0\", \"Google Android 8.0\", \"Google Android 8.1\"]",
+    "cve": "CVE-2018-9414",
+    "description": "Google Pixel是美国谷歌（Google）公司的一款智能手机。Google Pixel存在越界写入漏洞，该漏洞源于com_android_bluetooth_gatt.cpp的gattServerSendResponseNative中边界检查的缺少，攻击者可以利用该漏洞提升本地权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2018-9414",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://source.android.com/docs/security/bulletin/pixel/2018-07-01",
+    "patch": "Google Pixel越界写入漏洞（CNVD-2025-04495）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-03-07",
+    "update_time": "2025-03-07",
+    "data_summary": "a19cbe50a38249971dae3ef82524b29c"
+}

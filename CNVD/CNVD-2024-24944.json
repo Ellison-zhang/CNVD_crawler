@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 09:57:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-24944",
+    "spider_time": 1767146270286,
+    "name": "Adobe Animate存在未明漏洞（CNVD-2024-24944）",
+    "cnvd": "CNVD-2024-24944",
+    "publish": "2024-05-29",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Animate 24.0.2\", \"Adobe Animate <=23.0.5\"]",
+    "cve": "CVE-2024-30282",
+    "description": "Adobe Animate是美国奥多比（Adobe）公司的一套Flash动画制作软件。Adobe Animate存在安全漏洞，该漏洞源于受到越界写入漏洞的影响。攻击者可利用该漏洞导致在当前用户的上下文中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-30282/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/animate/apsb24-36.html",
+    "patch": "Adobe Animate存在未明漏洞（CNVD-2024-24944）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-20",
+    "open_time": "2024-05-30",
+    "update_time": "2024-05-30",
+    "data_summary": "76eec3d1d085d374b4f04a4fc4bbed8b"
+}

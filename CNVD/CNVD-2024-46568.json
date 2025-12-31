@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:47:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-46568",
+    "spider_time": 1767170874885,
+    "name": "统信软件技术有限公司统信UOS20专业版存在本地提权漏洞",
+    "cnvd": "CNVD-2024-46568",
+    "publish": "2024-11-26",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"统信软件技术有限公司 统信UOS20专业版 1070\"]",
+    "cve": null,
+    "description": "统信软件技术有限公司（简称：统信软件），成立于2019年，是一家专注于操作系统的研发与服务的企业。统信软件技术有限公司统信UOS20专业版存在本地提权漏洞，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.uniontech.com/",
+    "patch": "统信软件技术有限公司统信UOS20专业版存在本地提权漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2024-10-12",
+    "open_time": "2024-11-29",
+    "update_time": "2024-11-29",
+    "data_summary": "c80e9dd99b2e697b41f4d1219566cf7f"
+}

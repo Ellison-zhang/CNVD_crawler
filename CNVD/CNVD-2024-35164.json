@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:21:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35164",
+    "spider_time": 1767154891600,
+    "name": "SiberianCMS SQL注入漏洞（CNVD-2024-35164）",
+    "cnvd": "CNVD-2024-35164",
+    "publish": "2024-08-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"SiberianCMS SiberianCMS\"]",
+    "cve": "CVE-2024-41702",
+    "description": "SiberianCMS是一款企业级内容管理系统，提供多种功能用于创建和管理网站内容。SiberianCMS存在SQL注入漏洞，该漏洞源于系统未能正确中和SQL命令中的特殊元素。攻击者可利用该漏洞执行任意SQL命令，从而获取敏感信息或控制数据库。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.gov.il/en/Departments/faq/cve_advisories",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttps://github.com/Xtraball/SiberianCMS",
+    "patch": "SiberianCMS SQL注入漏洞（CNVD-2024-35164）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-02",
+    "open_time": "2024-08-13",
+    "update_time": "2024-08-13",
+    "data_summary": "34dddcb430a54d967c9897e26ee4fff3"
+}

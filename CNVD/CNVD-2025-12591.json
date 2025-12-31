@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:14:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12591",
+    "spider_time": 1767158086243,
+    "name": "IBM Infosphere Information Server信息泄露漏洞（CNVD-2025-12591）",
+    "cnvd": "CNVD-2025-12591",
+    "publish": "2025-06-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"IBM InfoSphere Information Server 11.7\"]",
+    "cve": "CVE-2025-1138",
+    "description": "Infosphere Information Server是IBM公司的一款用于数据集成和数据质量的企业级软件。Infosphere Information Server 11.7版本中存在安全漏洞。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1138",
+    "solution": "目前厂商已发布升级补丁以修复漏洞。补丁获取链接：\nhttps://www.ibm.com/support/pages/node/7230295",
+    "patch": "IBM Infosphere Information Server信息泄露漏洞（CNVD-2025-12591）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "14305228817e7b84c99ce4b2056c3c3d"
+}

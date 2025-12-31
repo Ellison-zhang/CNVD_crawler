@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:21:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2018-18784",
+    "spider_time": 1767147681916,
+    "name": "Apache Syncope远程代码执行漏洞（CNVD-2018-18784）",
+    "cnvd": "CNVD-2018-18784",
+    "publish": "2018-09-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Apache Syncope <2.0.8\", \"Apache Syncope <1.2.11\"]",
+    "cve": "CVE-2018-1321",
+    "description": "Apache Syncope是美国阿帕奇（Apache）软件基金会的一套用于企业环境中的开源数字身份管理系统。该系统支持身份管理、角色配置等。Apache Syncope使用XSLT将报告数据导出为各种格式。 攻击者可以通过制作XSL模板，将模板绑定到报表，执行然后导出报表来执行恶意操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.exploitalert.com/view-details.html?id=30873",
+    "solution": "用户可联系供应商获得补丁信息：\nhttps://syncope.apache.org/security",
+    "patch": "Apache Syncope远程代码执行漏洞（CNVD-2018-18784）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2018-09-14",
+    "open_time": "2018-09-14",
+    "update_time": "2018-09-14",
+    "data_summary": "882c9c2f9ac8cf106580ece7e8416409"
+}

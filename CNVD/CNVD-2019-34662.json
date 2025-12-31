@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:24:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2019-34662",
+    "spider_time": 1767147866216,
+    "name": "indexhibits CMS存在代码执行漏洞",
+    "cnvd": "CNVD-2019-34662",
+    "publish": "2019-10-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"indexhibits社区 indexhibits CMS v2.1.5\"]",
+    "cve": "CVE-2019-8954",
+    "description": "Indexhibit是一个创建于2006年的开创性CMS Web应用程序，用于以已建立的索引+展览格式创建网站。indexhibits CMS存在代码执行漏洞，攻击者利用漏洞重装web系统，并进入后台getshell获取服务器权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商暂未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.indexhibit.org/",
+    "patch": "indexhibits CMS存在代码执行漏洞",
+    "verify": "已验证",
+    "submit_time": "2019-09-11",
+    "open_time": "2019-10-11",
+    "update_time": "2019-10-11",
+    "data_summary": "09a7ff517649108043449802620bd7ba"
+}

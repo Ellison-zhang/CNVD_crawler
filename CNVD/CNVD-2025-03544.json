@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:45:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03544",
+    "spider_time": 1767156346336,
+    "name": "Apache Superset信息泄露漏洞（CNVD-2025-03544）",
+    "cnvd": "CNVD-2025-03544",
+    "publish": "2025-02-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Apache Superset <4.1.0\"]",
+    "cve": "CVE-2024-53948",
+    "description": "Apache Superset是美国阿帕奇（Apache）基金会的一个数据可视化和数据探索平台。Apache Superset 4.1.0之前版本存在信息泄露漏洞，该漏洞源于错误消息生成中含有分析元数据信息。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2024/12/09/3",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/8howpf3png0wrgpls46ggk441oczlfvf",
+    "patch": "Apache Superset信息泄露漏洞（CNVD-2025-03544）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-13",
+    "open_time": "2025-02-24",
+    "update_time": "2025-02-24",
+    "data_summary": "7bc21b30887c77d3c0564ee304d76ba8"
+}

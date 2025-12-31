@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:03:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33894",
+    "spider_time": 1767153801737,
+    "name": "DedeCMS代码注入漏洞（CNVD-2024-33894）",
+    "cnvd": "CNVD-2024-33894",
+    "publish": "2024-07-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"DedeCMS DeDeCMS 5.7.114\"]",
+    "cve": "CVE-2024-6940",
+    "description": "DedeCMS是一款流行的内容管理系统，广泛用于创建和管理网站内容，适用于企业网站、个人博客等多种应用场景。DedeCMS 5.7.114版本中的article_template_rand.php文件存在代码注入漏洞，该漏洞源于对输入内容的处理不当，攻击者可利用该漏洞通过恶意构造的输入数据触发代码注入，可能导致任意代码执行、服务器控制、数据泄露或篡改等。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.271995\nhttps://vuldb.com/?ctiid.271995\nhttps://vuldb.com/?submit.372810\nhttps://gitee.com/fushuling/cve/blob/master/dedeCMS%20V5.7.114%20article_template_rand.php%20code%20injection.md",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.dedecms.com/",
+    "patch": "DedeCMS代码注入漏洞（CNVD-2024-33894）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-23",
+    "open_time": "2024-07-30",
+    "update_time": "2024-07-30",
+    "data_summary": "14929ece4ea645abf125de5cec0f8f72"
+}

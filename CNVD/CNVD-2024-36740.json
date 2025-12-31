@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:45:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-36740",
+    "spider_time": 1767170732632,
+    "name": "IBM Db2拒绝服务漏洞（CNVD-2024-36740）",
+    "cnvd": "CNVD-2024-36740",
+    "publish": "2024-08-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"IBM IBM DB2 11.1\", \"IBM IBM DB2 11.5\"]",
+    "cve": "CVE-2024-37529",
+    "description": "IBM Db2是一款由IBM开发的高性能关系型数据库管理系统（RDBMS），专为处理大量数据和复杂业务需求而设计。IBM Db2在11.1和11.5版本中存在拒绝服务漏洞。该漏洞的产生原因是不当的内存分配。经过身份验证的用户可以执行特别构造的查询来消耗大量内存或其他资源，导致服务中断或系统崩溃。攻击者可利用该漏洞使目标系统或服务不可用，导致合法用户无法访问这些资源。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-37529",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新:\nhttps://exchange.xforce.ibmcloud.com/vulnerabilities/292639",
+    "patch": "IBM Db2拒绝服务漏洞（CNVD-2024-36740）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-16",
+    "open_time": "2024-08-28",
+    "update_time": "2024-08-28",
+    "data_summary": "d8674efd8cda04251130c51e1e0a4b25"
+}

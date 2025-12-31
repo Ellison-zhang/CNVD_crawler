@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:18:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2017-08797",
+    "spider_time": 1767147509847,
+    "name": "Cisco Aironet 1800、2800和3800 Series Access Points Plug-and-Play子系统任意代码执行漏洞",
+    "cnvd": "CNVD-2017-08797",
+    "publish": "2017-06-08",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:M/Au:N/C:C/I:C/A:C",
+    "product": "[\"Cisco Aironet 3800 Series Access Points 8.3\", \"Cisco Aironet 2800 Series Access Points 8.3\", \"Cisco Aironet 1850 Series Access Points 8.3(15.84)\", \"Cisco Aironet 1850 Series Access Points 8.3(102.0)\", \"Cisco Aironet 1800 Series Access Points 8.3\"]",
+    "cve": "CVE-2017-3873",
+    "description": "Cisco Aironet 1800、2800和3800 Series Access Points都是美国思科（Cisco）公司的路由器接入设备。Plug-and-Play (PnP)是其中的一个即插即用服务的子系统。Cisco Aironet 1800、2800和3800 Series Access Points 8.3.102.0版本中的PnP子系统存在任意代码执行漏洞，由于程序未能充分的验证PnP服务器响应。攻击者可利用该漏洞以root权限执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170503-cme\nhttps://nvd.nist.gov/vuln/detail/CVE-2017-3873\nhttp://www.securityfocus.com/bid/98296",
+    "solution": "目前厂商已经发布了升级补丁以修复此安全问题，补丁获取链接：\nhttps://bst.cloudapps.cisco.com/bugsearch/bug/CSCvb42386",
+    "patch": "Cisco Aironet 1800、2800和3800 Series Access Points Plug-and-Play子系统任意代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2017-05-08",
+    "open_time": "2017-06-08",
+    "update_time": "2017-05-08",
+    "data_summary": "6eee23207d47ec0808b390496812a58b"
+}

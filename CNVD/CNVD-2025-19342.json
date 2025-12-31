@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:03:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19342",
+    "spider_time": 1767160994457,
+    "name": "Siemens RUGGEDCOM APE1808 Nozomi Guardian/CMC漏洞",
+    "cnvd": "CNVD-2025-19342",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Siemens RUGGEDCOM APE1808\"]",
+    "cve": null,
+    "description": "RUGGEDCOM APE1808是一款工业级应用托管平台。Siemens RUGGEDCOM APE1808存在Nozomi Guardian/CMC漏洞，攻击者可利用该漏洞执行未经授权的任意操作系统命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-978177.html",
+    "solution": "目前厂商已发布了升级版本以修复这个安全问题，请到厂商的主页下载：\nhttps://cert-portal.siemens.com/productcert/html/ssa-978177.html",
+    "patch": "Siemens RUGGEDCOM APE1808 Nozomi Guardian/CMC漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-22",
+    "open_time": "2025-08-22",
+    "update_time": "2025-11-20",
+    "data_summary": "383aa9f329723d728c2072f9a8bd654c"
+}

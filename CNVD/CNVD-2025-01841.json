@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:43:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-01841",
+    "spider_time": 1767156187410,
+    "name": "D-Link DAP-2555拒绝服务漏洞",
+    "cnvd": "CNVD-2025-01841",
+    "publish": "2025-01-14",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"D-Link DAP-2555 REVA_FIRMWARE_1.20\"]",
+    "cve": "CVE-2024-37607",
+    "description": "D-Link DAP-2555是中国友讯（D-Link）公司的一款无线接入点。D-Link DAP-2555 REVA_FIRMWARE_1.20版本存在拒绝服务漏洞，该漏洞源于空指针取消引用。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-37607",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://docs.google.com/document/d/1haRDAIN8SbAF8qKNHAm1awnI_LCAPauR8T_pbFREnMM/edit?usp=sharing",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-20",
+    "open_time": "2025-01-20",
+    "update_time": "2025-01-20",
+    "data_summary": "5e4037280b5282e328c740d5c6fa2ca0"
+}

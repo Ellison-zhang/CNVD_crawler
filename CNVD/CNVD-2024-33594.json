@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:54:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33594",
+    "spider_time": 1767153291376,
+    "name": "IBM Datacap Navigator跨站脚本漏洞",
+    "cnvd": "CNVD-2024-33594",
+    "publish": "2024-07-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"IBM Datacap Navigator\", \"IBM datacap 9.1.5\", \"IBM datacap 9.1.6\", \"IBM datacap 9.1.7\", \"IBM datacap 9.1.8\", \"IBM datacap 9.1.9\"]",
+    "cve": "CVE-2024-39728",
+    "description": "IBM Datacap Navigator是美国国际商业机器（IBM）公司的一个用于 Datacap 的 Web 客户机。IBM Datacap Navigator存在跨站脚本漏洞，该漏洞源于允许在Web UI中嵌入任意JavaScript代码，从而改变预期功能，可能导致凭据泄露。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-39728/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7160185",
+    "patch": "IBM Datacap Navigator跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-17",
+    "open_time": "2024-07-25",
+    "update_time": "2024-07-25",
+    "data_summary": "31b8e6362797c828f0ebae8b4bb50ae2"
+}

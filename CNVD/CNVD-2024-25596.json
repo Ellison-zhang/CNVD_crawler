@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:07:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-25596",
+    "spider_time": 1767150423980,
+    "name": "Mozilla Firefox代码执行漏洞（CNVD-2024-25596）",
+    "cnvd": "CNVD-2024-25596",
+    "publish": "2024-06-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Mozilla Firefox <124.0.1\"]",
+    "cve": "CVE-2024-29943",
+    "description": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Firefox存在代码执行漏洞，该漏洞是由对JavaScript对象的越界读取或写入引起的。攻击者可利用该漏洞在易受攻击的系统上执行任意代码或导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.mozilla.org/security/advisories/mfsa2024-15/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/en-US/security/advisories/mfsa2024-15/",
+    "patch": "Mozilla Firefox代码执行漏洞（CNVD-2024-25596）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-26",
+    "open_time": "2024-06-03",
+    "update_time": "2024-06-03",
+    "data_summary": "d3166b027883115189e7864ca92d02f1"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:04:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19347",
+    "spider_time": 1767161046805,
+    "name": "Siemens SINEC Traffic Analyzer多个漏洞",
+    "cnvd": "CNVD-2025-19347",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Siemens SINEC Traffic Analyzer (6GK8822-1BG01-0BA0) <V3.0\", \"Siemens SINEC Traffic Analyzer (6GK8822-1BG01-0BA0) null\"]",
+    "cve": null,
+    "description": "SINEC Traffic Analyzer 是 西门子 （Siemens）提供的一款网络管理工具，主要用于网络流量监控、性能分析和故障诊断。该工具支持 SCALANCE 、 RUGGEDCOM 等工业网络设备的配置与管理，可帮助用户优化网络性能并保障工业通信的稳定性。 ‌12Siemens SINEC Traffic Analyzer存在多个漏洞，攻击者可利用该漏洞导致NGINX工作进程终止。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-517338.html",
+    "solution": "西门子已发布SINEC Traffic Analyzer的新版本，并建议更新至最新版本。西门子正在准备进一步的修复版本，并为尚未提供修复或修复尚未到位的产品的对策提出建议：\nhttps://cert-portal.siemens.com/productcert/html/ssa-517338.html",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-22",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "1df593606f0c68764c71ead00cb9f6b3"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:17:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19550",
+    "spider_time": 1767161836786,
+    "name": "NVIDIA Triton Inference Server整数溢出漏洞",
+    "cnvd": "CNVD-2025-19550",
+    "publish": "2025-08-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"NVIDIA Triton Inference Server <25.05\"]",
+    "cve": "CVE-2025-23323",
+    "description": "Triton Inference Server是NVIDIA开发的一款高性能推理服务引擎，专为生产环境中的AI模型部署设计，支持多种框架（TensorFlow、PyTorch、ONNX 等），并优化了GPU和CPU的推理性能。NVIDIA Triton Inference Server存在整数溢出漏洞，该漏洞源于整数值处理不当，远程攻击者可利用该漏洞提交特殊的HTTP请求，可使服务程序崩溃，造成拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvidia.custhelp.com/app/answers/detail/a_id/5687",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttps://github.com/triton-inference-server/server/releases",
+    "patch": "NVIDIA Triton Inference Server整数溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-13",
+    "open_time": "2025-08-28",
+    "update_time": "2025-08-28",
+    "data_summary": "e4a4b02ed4c67b18bb134c66bea018e3"
+}

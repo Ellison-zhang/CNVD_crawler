@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:04:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11170",
+    "spider_time": 1767157447206,
+    "name": "NETGEAR ProSAFE Network Management System SQL注入漏洞",
+    "cnvd": "CNVD-2025-11170",
+    "publish": "2025-05-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"NETGEAR ProSAFE Network Management System\"]",
+    "cve": "CVE-2024-6813",
+    "description": "NETGEAR ProSAFE Network Management System是一款网络管理系统。NETGEAR ProSAFE Network Management System存在SQL注入漏洞，攻击者可利用该漏洞提交特殊的SQL请求，操作数据库，获取敏感信息或执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-24-902/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://kb.netgear.com/000066231/Security-Advisory-for-SQL-Injection-on-the-NMS300-PSV-2024-0018",
+    "patch": "NETGEAR ProSAFE Network Management System SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-29",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "4d7b30c0221245fe2fe4497c4905b794"
+}

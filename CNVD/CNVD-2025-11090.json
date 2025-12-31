@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:59:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11090",
+    "spider_time": 1767157154341,
+    "name": "Moodle SQL注入漏洞",
+    "cnvd": "CNVD-2025-11090",
+    "publish": "2025-05-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"moodle Moodle\"]",
+    "cve": "CVE-2025-26533",
+    "description": "Moodle是Moodle开源的一套免费的电子学习软件平台，也称课程管理系统、学习管理系统或虚拟学习环境。Moodle存在SQL注入漏洞，该漏洞源于未对用户输入进行充分的过滤。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://moodle.org/mod/forum/discuss.php?d=466150\nhttp://git.moodle.org/gw?p=moodle.git&a=search&h=HEAD&st=commit&s=MDL-84271",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://download.moodle.org/releases/latest/",
+    "patch": "Moodle SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-28",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "0dbbce8f1c1f63ae473277ebcb5e6dfa"
+}

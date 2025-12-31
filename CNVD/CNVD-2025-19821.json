@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:38:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19821",
+    "spider_time": 1767163096655,
+    "name": "CGM CLININET信息泄露漏洞",
+    "cnvd": "CNVD-2025-19821",
+    "publish": "2025-08-29",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"CGM CLININET <2024.MS4\"]",
+    "cve": "CVE-2025-30063",
+    "description": "CGM CLININET是德国CGM公司的一款医院信息管理系统。CGM CLININET存在信息泄露漏洞，该漏洞源于配置文件包含数据库登录信息且可被本地用户读取，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert.pl/en/posts/2025/08/CVE-2025-2313/",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://cert.pl/en/posts/2025/08/CVE-2025-2313/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-29",
+    "open_time": "2025-08-29",
+    "update_time": "2025-08-29",
+    "data_summary": "c28ba63957f11f34692055a7feeb96a5"
+}

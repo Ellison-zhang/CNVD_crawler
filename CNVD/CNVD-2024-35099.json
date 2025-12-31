@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:40:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35099",
+    "spider_time": 1767170449023,
+    "name": "Google Chrome存在未明漏洞（CNVD-2024-35099）",
+    "cnvd": "CNVD-2024-35099",
+    "publish": "2024-08-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <117.0.5938.62\"]",
+    "cve": "CVE-2023-7012",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome存在安全漏洞，该漏洞源于Permission Prompts模块中发现数据验证不足问题。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-7012",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_12.html",
+    "patch": "Google Chrome存在未明漏洞（CNVD-2024-35099）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-18",
+    "open_time": "2024-08-09",
+    "update_time": "2024-08-09",
+    "data_summary": "944f8299e4169a788e11df2d48e53c15"
+}

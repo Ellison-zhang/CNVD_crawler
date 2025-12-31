@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:05:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-25257",
+    "spider_time": 1767150358854,
+    "name": "MinIO信息泄露漏洞（CNVD-2024-25257）",
+    "cnvd": "CNVD-2024-25257",
+    "publish": "2024-05-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"MinIO MinIO <RELEASE.2024-05-27T19-17-46Z\"]",
+    "cve": "CVE-2024-36107",
+    "description": "MinIO是一款高性能的对象存储服务，采用GNU Affero通用公共许可证v3.0发布。MinIO RELEASE.2022-10-02T19-29-29Z版本存在安全漏洞，该漏洞源于GetObject存在If-Modified-Since、If-Unmodified-Since标头的信息泄露。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/minio/minio/security/advisories/GHSA-95fr-cm4m-q5p9",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://github.com/minio/minio",
+    "patch": "MinIO信息泄露漏洞（CNVD-2024-25257）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-29",
+    "open_time": "2024-05-31",
+    "update_time": "2024-05-31",
+    "data_summary": "17e37560b9cd55c5f954963be39e1c33"
+}

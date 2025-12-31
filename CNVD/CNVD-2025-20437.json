@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:12:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20437",
+    "spider_time": 1767165135449,
+    "name": "Emby Server跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-20437",
+    "publish": "2025-09-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Emby Server Emby Server <4.5.0\"]",
+    "cve": "CVE-2020-26948",
+    "description": "Emby Server是一款个人媒体服务器软件，支持存储、管理和流化个人媒体内容，支持多种设备访问。Emby Server存在跨站请求伪造漏洞，该漏洞允许攻击者通过Items/RemoteSearch/Image的ImageURL参数使用SSRF。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/btnz-k/emby_ssrf/blob/master/emby_scan.rb",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://emby.media/download.html",
+    "patch": "Emby Server跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2020-10-20",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "d8b8faea9b1ec22e3c7066d85e5f0ab6"
+}

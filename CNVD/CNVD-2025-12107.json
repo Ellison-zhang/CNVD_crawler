@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:10:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12107",
+    "spider_time": 1767157851358,
+    "name": "GNU Global代码执行漏洞",
+    "cnvd": "CNVD-2025-12107",
+    "publish": "2025-06-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Gnu GNU Global <=6.6.12\"]",
+    "cve": "CVE-2024-38448",
+    "description": "GNU Global是美国GNU社区的一个免费的代码标记系统。GNU Global存在代码执行漏洞，该漏洞源于使用了shell元字符，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-38448",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://lists.gnu.org/archive/html/bug-global/2024-05/msg00009.html",
+    "patch": "GNU Global代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-21",
+    "open_time": "2025-06-11",
+    "update_time": "2025-06-11",
+    "data_summary": "0bafcdbedd10b2ff9189dada12e05ef8"
+}

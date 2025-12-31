@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:02:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11161",
+    "spider_time": 1767157341038,
+    "name": "Tenda RX9 Pro/RX9 /goform/SetVirtualServerCfg页面缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11161",
+    "publish": "2025-05-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda RX9 Pro 22.03.02.10\", \"Tenda RX9 Pro 22.03.02.20\", \"Tenda RX9 22.03.02.10\", \"Tenda RX9 22.03.02.20\"]",
+    "cve": "CVE-2024-10282",
+    "description": "Tenda RX9 Pro和Tenda RX9都是中国腾达（Tenda）公司的一款无线路由器。Tenda RX9 Pro和Tenda RX9存在缓冲区溢出漏洞，该漏洞源于/goform/SetVirtualServerCfg页面的sub_42EA38函数中的list参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.281557",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "Tenda RX9 Pro/RX9 /goform/SetVirtualServerCfg页面缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-31",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "65a7bb8b24ee14bdad8e60ef48d2405e"
+}

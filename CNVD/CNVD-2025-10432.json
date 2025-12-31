@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:53:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10432",
+    "spider_time": 1767156788791,
+    "name": "NETGEAR FVS336G命令注入漏洞",
+    "cnvd": "CNVD-2025-10432",
+    "publish": "2025-05-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"NETGEAR FVS336G v2\", \"NETGEAR FVS336G v3\"]",
+    "cve": "CVE-2024-23690",
+    "description": "NETGEAR FVS336G是美国网件（NETGEAR）公司的一款VPN（虚拟私人网络）防火墙路由器。NETGEAR FVS336G存在命令注入漏洞。该漏洞源于应用未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞以root身份执行任意操作系统命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-23690",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-05-22",
+    "update_time": "2025-05-22",
+    "data_summary": "9ae82551aac37b8e8b903dd8941d9574"
+}

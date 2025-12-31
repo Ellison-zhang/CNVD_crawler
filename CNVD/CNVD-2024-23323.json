@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:58:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-23323",
+    "spider_time": 1767149921942,
+    "name": "Cisco NX-OS Software身份验证错误漏洞",
+    "cnvd": "CNVD-2024-23323",
+    "publish": "2024-05-16",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Cisco Nexus 3000 Series Switche\", \"Cisco Nexus 7000 series switches\", \"Cisco Nexus 6000 Series Switches\", \"Cisco Nexus 5600 Platform Switches\", \"Cisco Nexus 5500 Platform Switches\", \"Cisco Nexus 1000V Switch for VMware vSphere\", \"Cisco MDS 9000 Series Multilayer Switches\", \"Cisco Nexus 1000 Virtual Edge for VMware vSphere\", \"Cisco Nexus 1000V Switch for Microsoft Hyper-V\", \"Cisco Nexus 9000 Series Switches in standalone NX-OS mode\"]",
+    "cve": "CVE-2023-20168",
+    "description": "Cisco NX-OS Software是美国思科（Cisco）公司的一套交换机使用的数据中心级操作系统软件。Cisco NX-OS Software存在身份验证错误漏洞，该漏洞源于TACACS+和RADIUS处理身份验证尝试时的输入验证不正确。攻击者可利用该漏洞通过在登录提示符下输入特制的字符串来导致系统拒绝服务（DoS）。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-20168",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-remoteauth-dos-XB6pv74m",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-08-30",
+    "open_time": "2024-05-20",
+    "update_time": "2024-05-20",
+    "data_summary": "c81a4507df78ffd970186c935762294a"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 09:57:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15611",
+    "spider_time": 1767146268132,
+    "name": "Old Age Home Management System SQL注入漏洞",
+    "cnvd": "CNVD-2025-15611",
+    "publish": "2025-07-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Old Age Home Management System Old Age Home Management System v1.0\"]",
+    "cve": "CVE-2025-6909",
+    "description": "Old Age Home Management System是一个养老院管理系统。Old Age Home Management System存在SQL注入漏洞，该漏洞源于文件/admin/add-scdetails.php中参数emeradd缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/f1rstb100d/myCVE/issues/92",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-07-14",
+    "update_time": "2025-07-14",
+    "data_summary": "3eb2108d6c1275fbcdea7e1909f80593"
+}

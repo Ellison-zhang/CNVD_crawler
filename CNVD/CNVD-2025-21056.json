@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 17:40:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21056",
+    "spider_time": 1767174029893,
+    "name": "GNU Binutils缓冲区溢出漏洞（CNVD-2025-21056）",
+    "cnvd": "CNVD-2025-21056",
+    "publish": "2025-09-08",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Gnu GNU Binutils 2.39\"]",
+    "cve": "CVE-2023-1579",
+    "description": "GNU Binutils是GNU项目开发的一组二进制工具集，主要用于处理目标文件（如可执行文件、库文件等），涵盖编译、链接、调试等阶段的功能。GNU Binutils存在缓冲区溢出漏洞，该漏洞源于bfd_getl64函数中在处理不受信任的输入时出现边界错误。攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-1579",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://github.com/bminor/binutils-gdb",
+    "patch": "GNU Binutils缓冲区溢出漏洞（CNVD-2025-21056）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-04-06",
+    "open_time": "2025-09-11",
+    "update_time": "2025-09-11",
+    "data_summary": "da642512d5277aaff90fe46dc622642e"
+}

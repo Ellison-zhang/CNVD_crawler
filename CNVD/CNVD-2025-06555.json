@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:48:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06555",
+    "spider_time": 1767156489196,
+    "name": "Tencent TscanCode tsclua存在未明漏洞",
+    "cnvd": "CNVD-2025-06555",
+    "publish": "2025-03-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tencent  TscanCode v2.15.01\"]",
+    "cve": "CVE-2022-35158",
+    "description": "Tencent TscanCode是中国腾讯（Tencent）公司的一种针对C/C++、C＃、Lua代码的快速准确的静态分析解决方案。Tencent TscanCode tsclua存在未明漏洞，该漏洞源于其lua解析器允许攻击者通过精心制作的lua脚本造成拒绝服务。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-35158",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://github.com/Tencent/TscanCode/issues/65",
+    "patch": "Tencent TscanCode tsclua未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-08-05",
+    "open_time": "2025-04-03",
+    "update_time": "2025-04-03",
+    "data_summary": "3c35ad9ff879bb831be637ae527ea666"
+}

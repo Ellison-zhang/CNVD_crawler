@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:22:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2019-16594",
+    "spider_time": 1767147766002,
+    "name": "Exim远程代码执行漏洞",
+    "cnvd": "CNVD-2019-16594",
+    "publish": "2019-06-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Exim Exim >=4.87，<=4.91\"]",
+    "cve": "CVE-2019-10149",
+    "description": "Exim是一个运行于Unix系统中的开源消息传送代理（MTA），它主要负责邮件的路由、转发和投递。Exim中存在远程代码执行漏洞。该漏洞源于网络系统或产品未对输入的数据进行正确的验证。攻击者可利用该漏洞获取Exim服务器控制权。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vigilance.fr/vulnerability/Exim-code-execution-29463\nhttps://www.exploitalert.com/view-details.html?id=33319",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://exim.org/static/doc/security/CVE-2019-10149.txt",
+    "patch": "Exim远程代码执行漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2019-06-04",
+    "open_time": "2019-06-06",
+    "update_time": "2019-06-06",
+    "data_summary": "b4417fd875e70eedaac00d1cb3600660"
+}

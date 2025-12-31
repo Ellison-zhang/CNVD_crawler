@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:17:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-84278",
+    "spider_time": 1767169021863,
+    "name": "Trend Micro Maximum Security不正确访问控制漏洞",
+    "cnvd": "CNVD-2021-84278",
+    "publish": "2021-11-05",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Trend Micro Maximum Security 2021 v17\"]",
+    "cve": "CVE-2021-32460",
+    "description": "Trend Micro Maximum Security是美国趋势科技（Trend Micro）公司的一套计算机安全防护软件。该软件包括病毒查杀、恶意软件防护和身份验证保护等功能。Trend Micro Maximum Security存在安全漏洞，该漏洞源于应用程序设置的文件和文件夹的最大安全控制台中不正确的默认权限。攻击者可利用漏洞查看或修改文件和目录的内容。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2021-32460",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://helpcenter.trendmicro.com/en-us/article/TMKA-10336",
+    "patch": "Trend Micro Maximum Security不正确访问控制漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-06-04",
+    "open_time": "2021-11-05",
+    "update_time": "2021-11-05",
+    "data_summary": "7ad7ecd886ea339c4a7f960c03e67e96"
+}

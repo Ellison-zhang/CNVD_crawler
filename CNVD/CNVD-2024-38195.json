@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:37:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-38195",
+    "spider_time": 1767155856298,
+    "name": "Concrete CMS跨站脚本漏洞",
+    "cnvd": "CNVD-2024-38195",
+    "publish": "2024-09-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"Concrete CMS Concrete CMS <8.5.18\", \"Concrete CMS Concrete CMS >=9.0.0，<9.3.3\"]",
+    "cve": "CVE-2024-7394",
+    "description": "Concrete CMS是Concrete CMS开源的一个面向团队的开源内容管理系统。Concrete CMS存在跨站脚本漏洞，该漏洞源于getAttributeSetName函数对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-7394",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/concretecms/concretecms/pull/12166",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-14",
+    "open_time": "2024-09-14",
+    "update_time": "2024-09-14",
+    "data_summary": "8f97b08f33152d80ec9a3fe2b51c8192"
+}

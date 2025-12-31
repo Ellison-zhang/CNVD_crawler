@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:51:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2022-60929",
+    "spider_time": 1767149518961,
+    "name": "Apache CouchDB存在命令执行漏洞",
+    "cnvd": "CNVD-2022-60929",
+    "publish": "2022-09-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apache CouchDB <3.2.2\"]",
+    "cve": "CVE-2022-24706",
+    "description": "Apache CouchDB是美国阿帕奇（Apache）基金会的使用Erlang开发的一套面向文档的数据库系统。Apache CouchDB存在命令执行漏洞，攻击者可利用该漏洞获取管理员权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://apache.org/",
+    "patch": "Apache CouchDB存在命令执行漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2022-08-06",
+    "open_time": "2022-09-01",
+    "update_time": "2022-09-01",
+    "data_summary": "d72a5bf12d2ca1c7b6b7fc55efdcadff"
+}

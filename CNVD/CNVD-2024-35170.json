@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:42:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35170",
+    "spider_time": 1767170573421,
+    "name": "Apache Traffic Server输入验证错误漏洞（CNVD-2024-35170）",
+    "cnvd": "CNVD-2024-35170",
+    "publish": "2024-08-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Apache Traffic Server >=8.0.0，<=8.1.10\", \"Apache Traffic Server >=9.0.0，<=9.2.4\"]",
+    "cve": "CVE-2024-35161",
+    "description": "Apache Traffic Server（ATS）是美国阿帕奇（Apache）基金会的一套可扩展的HTTP代理和缓存服务器。Apache Traffic Server存在输入验证错误漏洞，该漏洞源于将格式错误的HTTP分块尾部转发到原始服务器。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-35161/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/c4mcmpblgl8kkmyt56t23543gp8v56m0",
+    "patch": "Apache Traffic Server输入验证错误漏洞（CNVD-2024-35170）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-30",
+    "open_time": "2024-08-13",
+    "update_time": "2024-08-13",
+    "data_summary": "377fc970191099db87120990295f3e6c"
+}

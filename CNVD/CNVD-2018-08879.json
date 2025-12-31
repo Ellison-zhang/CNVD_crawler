@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:20:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2018-08879",
+    "spider_time": 1767147629910,
+    "name": "Drupal Entity API模块安全绕过漏洞",
+    "cnvd": "CNVD-2018-08879",
+    "publish": "2018-05-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+    "product": "[\"Drupal Entity API 7.*-1.*;<7.*-1.3\"]",
+    "cve": "CVE-2014-1399",
+    "description": "Drupal是Drupal社区所维护的一套用PHP语言开发的免费、开源的内容管理系统。Entity API是其中的一个可通过统一的方式来处理实体和属性的API模块。entity wrapper access API是其中的一个实体包装器访问API（应用程序接口）。Drupal Entity API模块7.x-1.3之前的7.x-1.x版本中的entity wrapper access API存在安全漏洞。远程攻击者可利用该漏洞绕过对引用实体的访问限制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.drupal.org/node/2169595",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://www.drupal.org/node/2169595",
+    "patch": "Drupal Entity API模块安全绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2018-04-12",
+    "open_time": "2018-05-04",
+    "update_time": "2018-04-12",
+    "data_summary": "0a422d1522f5edd4222e3b33900e91de"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:52:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12592",
+    "spider_time": 1767171140393,
+    "name": "IBM CICS TX gets代码执行漏洞",
+    "cnvd": "CNVD-2025-12592",
+    "publish": "2025-06-10",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"IBM CICS TX Standard 11.1\"]",
+    "cve": "CVE-2025-1331",
+    "description": "IBM CICS TX Standard是美国国际商业机器（IBM）公司的一个综合的单一事务运行时包。IBM CICS TX gets函数处理DNS返回请求存在安全漏洞，本地攻击者可以利用该漏洞提交特殊的请求，可以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1331",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7232923",
+    "patch": "IBM CICS TX gets代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-12",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "1598a9089bb346817312da0d89dca974"
+}

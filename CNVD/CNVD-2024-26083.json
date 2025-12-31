@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:09:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-26083",
+    "spider_time": 1767150585760,
+    "name": "IBM Security Verify Access输入验证错误漏洞（CNVD-2024-26083）",
+    "cnvd": "CNVD-2024-26083",
+    "publish": "2024-06-05",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"IBM Security Verify Access OIDC Provider >=22.09，<=23.03\"]",
+    "cve": "CVE-2024-22338",
+    "description": "IBM Security Verify Access（ISAM）是美国国际商业机器（IBM）公司的一款提高用户访问安全的服务。该服务通过使用基于风险的访问、单点登录、集成访问管理控制、身份联合以及移动多因子认证实现对Web、移动、IoT 和云技术等平台安全简单的访问IBM Security Verify Access OIDC Provider 22.09 到 23.03版本存在输入验证错误漏洞，该漏洞源于可能会因危险输入验证而向本地用户泄露敏感信息。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://exchange.xforce.ibmcloud.com/vulnerabilities/279978",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7155340",
+    "patch": "IBM Security Verify Access输入验证错误漏洞（CNVD-2024-26083）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-04",
+    "open_time": "2024-06-06",
+    "update_time": "2024-06-06",
+    "data_summary": "89890f2071c1385c38ce49aa0085cf27"
+}

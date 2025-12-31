@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:40:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-16447",
+    "spider_time": 1767148851294,
+    "name": "Siemens SIMATIC S7-PLCSIM无限循环漏洞",
+    "cnvd": "CNVD-2021-16447",
+    "publish": "2021-03-11",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Siemens SIMATIC S7-PLCSIM 5.4\"]",
+    "cve": "CVE-2021-25673",
+    "description": "SIMATIC S7-PLCSIM V5.4是一个Windows应用程序，它模拟用户程序的执行，用于模拟模拟S7-300 CPU、S7-400 CPU和WinAC系列控制器。Siemens SIMATIC S7-PLCSIM存在安全漏洞。攻击者可利用漏洞会在应用程序中造成拒绝服务情况。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/pdf/ssa-256092.pdf",
+    "solution": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/pdf/ssa-256092.pdf",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-03-09",
+    "open_time": "2021-03-11",
+    "update_time": "2021-03-11",
+    "data_summary": "dd57a2402dea4163e96e81977b244d18"
+}

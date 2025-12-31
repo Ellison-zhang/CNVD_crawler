@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:19:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20473",
+    "spider_time": 1767165566111,
+    "name": "Google Chrome数据验证不足漏洞",
+    "cnvd": "CNVD-2025-20473",
+    "publish": "2025-09-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <128.0.6613.84\"]",
+    "cve": "CVE-2024-7974",
+    "description": "Google Chrome是由谷歌（Google）公司开发的一款免费网页浏览器，以其快速、安全、简洁的特点成为全球市场份额最高的浏览器，支持多平台使用并内置隐私保护功能。Google Chrome存在数据验证不足漏洞，攻击者可利用该漏洞通过精心设计的Chrome扩展程序导致堆损坏。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-7974",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html",
+    "patch": "Google Chrome数据验证不足漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-22",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "00abd1603efdf6735f12f1926a5d61e6"
+}

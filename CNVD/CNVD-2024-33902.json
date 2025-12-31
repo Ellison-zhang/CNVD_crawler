@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:37:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33902",
+    "spider_time": 1767170222275,
+    "name": "NETGEAR ProSAFE目录遍历漏洞",
+    "cnvd": "CNVD-2024-33902",
+    "publish": "2024-07-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"NETGEAR ProSAFE\"]",
+    "cve": "CVE-2023-41182",
+    "description": "NETGEAR ProSAFE是美国网件（NETGEAR）公司的一个网络管理系统。NETGEAR ProSAFE存在目录遍历漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-41182",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://kb.netgear.com/000065705/Security-Advisory-for-Post-authentication-Command-Injection-on-the-Prosafe-Network-Management-System-PSV-2023-0037",
+    "patch": "NETGEAR ProSAFE目录遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-19",
+    "open_time": "2024-07-30",
+    "update_time": "2024-07-30",
+    "data_summary": "36456dda9e82b8ad5edcd5057bc32f5f"
+}

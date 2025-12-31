@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:42:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-32988",
+    "spider_time": 1767152556378,
+    "name": "Delta Electronics CNCSoft-G2缓冲区溢出漏洞（CNVD-2024-32988）",
+    "cnvd": "CNVD-2024-32988",
+    "publish": "2024-07-17",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Delta Electronics CNCSoft-G2 2.0.0.5\"]",
+    "cve": "CVE-2024-39883",
+    "description": "Delta Electronics CNCSoft-G2是中国台达电子（Delta Electronics）公司的一种人机界面（HMI）软件。Delta Electronics CNCSoft-G2存在缓冲区溢出漏洞，远程攻击者可利用该漏洞在当前进程的上下文中执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-191-01",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://downloadcenter.deltaww.com/en-US/DownloadCenter?v=1&q=cncsoft&sort_expr=cdate&sort_dir=DESC",
+    "patch": "Delta Electronics CNCSoft-G2缓冲区溢出漏洞（CNVD-2024-32988）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-16",
+    "open_time": "2024-07-17",
+    "update_time": "2024-07-17",
+    "data_summary": "099a505f8b9f7dcbead389ab6beb8a60"
+}

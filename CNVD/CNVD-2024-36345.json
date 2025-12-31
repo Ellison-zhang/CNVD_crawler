@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:28:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-36345",
+    "spider_time": 1767155304789,
+    "name": "SAP Business Workflow信息泄露漏洞",
+    "cnvd": "CNVD-2024-36345",
+    "publish": "2024-08-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"SAP SAP Business Workflow\"]",
+    "cve": "CVE-2024-34689",
+    "description": "SAP Business Workflow是德国思爱普（SAP）公司的用于执行业务流程的关键组件，它允许用户设计、实施和管理业务流程，确保流程的合规性，并通过自动化减少手动操作的需要。SAP Business Workflow存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，经过身份验证的攻击者可利用该漏洞通过特别制作的HTTP请求枚举内部网络中可访问的HTTP端点，成功利用可能导致信息泄露，对应用程序的完整性和可用性无影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-34689",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://me.sap.com/notes/3458789",
+    "patch": "SAP Business Workflow信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-19",
+    "open_time": "2024-08-23",
+    "update_time": "2024-08-23",
+    "data_summary": "9ad2cd351bf231f2e3f9f70962227e18"
+}

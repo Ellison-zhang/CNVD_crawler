@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:15:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-47374",
+    "spider_time": 1767168924750,
+    "name": "handlebars信息泄露漏洞（CNVD-2021-47374）",
+    "cnvd": "CNVD-2021-47374",
+    "publish": "2021-07-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:P/I:N/A:N",
+    "product": "[\"handlebars handlebars\"]",
+    "cve": "CVE-2021-32817",
+    "description": "handlebars是一款语义化的Web模板系统。express-hbs 存在信息泄露漏洞，该漏洞源于通过Express渲染API将纯模板数据与引擎配置选项混合。布局参数可能会在下游应用程序中触发文件公开漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://securitylab.github.com/advisories/GHSL-2021-019-express-hbs/",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://github.com/TryGhost/express-hbs/commit/ff6fad6e357699412d4e916273314e5e7af1500e",
+    "patch": "handlebars信息泄露漏洞（CNVD-2021-47374）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-07-01",
+    "open_time": "2021-07-05",
+    "update_time": "2021-07-05",
+    "data_summary": "2930f6b3156dedb39ea3411c4b8c98c9"
+}

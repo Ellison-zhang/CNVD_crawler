@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:38:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-30637",
+    "spider_time": 1767152307680,
+    "name": "ASUS Download Master跨站脚本漏洞",
+    "cnvd": "CNVD-2024-30637",
+    "publish": "2024-06-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"ASUS ASUS Download Master <=3.1.0.113\"]",
+    "cve": "CVE-2024-31160",
+    "description": "ASUS Download Master是中国华硕（ASUS）公司的一个下载程序。ASUS Download Master 3.1.0.113版本及之前版本存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.twcert.org.tw/tw/cp-132-7863-49a2d-1.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.asus.com/",
+    "patch": "ASUS Download Master跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-21",
+    "open_time": "2024-07-05",
+    "update_time": "2024-07-05",
+    "data_summary": "52061db10333d39caa7f8fbd52aa0a9b"
+}

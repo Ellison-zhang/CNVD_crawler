@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:55:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17535",
+    "spider_time": 1767160515533,
+    "name": "NETGEAR R6700v3授权问题漏洞",
+    "cnvd": "CNVD-2025-17535",
+    "publish": "2025-07-29",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR R6700v3 1.0.4.120_10.0.91\"]",
+    "cve": "CVE-2022-27643",
+    "description": "NETGEAR R6700v3是美国网件推出的Nighthawk AC1750智能双频千兆路由器。NETGEAR R6700v3存在授权问题漏洞，该漏洞源于在将用户提供的数据复制到缓冲区之前未正确验证其长度。攻击者可利用该漏洞执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-22-519/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://kb.netgear.com/000064720/Security-Advisory-for-Pre-Authentication-Buffer-Overflow-on-Multiple-Products-PSV-2021-0323",
+    "patch": "NETGEAR R6700v3授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-03-25",
+    "open_time": "2025-08-05",
+    "update_time": "2025-08-05",
+    "data_summary": "2a9df84b93a22aefb99bb5f2624840b0"
+}

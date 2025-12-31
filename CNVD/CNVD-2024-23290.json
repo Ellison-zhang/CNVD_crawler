@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:20:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-23290",
+    "spider_time": 1767169242580,
+    "name": "IBM Engineering Requirements Management DOORS跨站脚本漏洞",
+    "cnvd": "CNVD-2024-23290",
+    "publish": "2024-05-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"IBM Engineering Requirements Management DOORS 9.7.2.7\", \"IBM Engineering Requirements Management DOORS Web Access 9.7.2.7\"]",
+    "cve": "CVE-2023-28525",
+    "description": "IBM Engineering Requirements Management DOORS是一个需求管理工具。IBM Engineering Requirements Management DOORS存在跨站脚本漏洞，攻击者可利用该漏洞在Web UI中嵌入任意JavaScript代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://exchange.xforce.ibmcloud.com/vulnerabilities/251052",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7124058",
+    "patch": "IBM Engineering Requirements Management DOORS跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-05",
+    "open_time": "2024-05-20",
+    "update_time": "2024-05-20",
+    "data_summary": "e0d90429eeec7ac47180cae0f7586727"
+}

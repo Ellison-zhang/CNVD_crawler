@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:40:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-13248",
+    "spider_time": 1767148844086,
+    "name": "Apache Solr远程代码执行漏洞 ",
+    "cnvd": "CNVD-2021-13248",
+    "publish": "2021-03-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Apache Apache Solr 6.6.0-6.6.5\", \"Apache Apache Solr 7.0.0-7.7.3\", \"Apache Apache Solr 8.0.0-8.6.2\"]",
+    "cve": "CVE-2020-13957",
+    "description": "Apache Solr是一个独立的企业级搜索应用服务器，它对外提供类似于Web-service的 API 接口。用户可以通过 http 请求，向搜索引擎服务器提交一定格式的 XML 文件，生成索引；也可以通过Http Get操作提出查找请求，并得到XML格式的返回结果。Apache Solr远程代码执行漏洞，攻击者可以通过该漏洞达到远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布相关漏洞补丁链接，请及时更新：\nhttp://lucene.apache.org/solr/\nhttps://www.mail-archive.com/announce@apache.org/msg06149.html",
+    "patch": "Apache Solr远程代码执行漏洞 的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2020-10-13",
+    "open_time": "2021-03-01",
+    "update_time": "2021-03-01",
+    "data_summary": "e13b8067c6ecfab6ceccbf4778b64965"
+}

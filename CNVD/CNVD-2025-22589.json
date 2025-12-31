@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 17:41:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22589",
+    "spider_time": 1767174085513,
+    "name": "WordPress StoreEngine plugin路径遍历漏洞",
+    "cnvd": "CNVD-2025-22589",
+    "publish": "2025-09-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"WordPress StoreEngine plugin <=1.5.0\"]",
+    "cve": "CVE-2025-9215",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress StoreEngine plugin存在路径遍历漏洞，该漏洞源于file_download函数存在路径遍历问题。攻击者可利用该漏洞导致任意文件读取。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/d0n601/CVE-2025-9215",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/storeengine",
+    "patch": "WordPress StoreEngine plugin路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-19",
+    "open_time": "2025-09-25",
+    "update_time": "2025-09-25",
+    "data_summary": "82cb846d3b8b0c93b9b2539a21a54b7c"
+}

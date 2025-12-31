@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:27:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14958",
+    "spider_time": 1767158847557,
+    "name": "Google Android缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-14958",
+    "publish": "2025-06-30",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Google Android\"]",
+    "cve": "CVE-2024-56184",
+    "description": "Google Android ‌是由Google公司开发的基于Linux内核的自由及开放源代码的移动操作系统。Google Android存在缓冲区溢出漏洞，该漏洞源于tipc_dev_ql的static long dev_send中边界检查不正确，攻击者可利用该漏洞导致本地信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-56184",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://source.android.com/security/bulletin/pixel/2025-03-01",
+    "patch": "Google Android缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "7caa0f838491b09468682a87672a6b46"
+}

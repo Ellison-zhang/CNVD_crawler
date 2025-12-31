@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:06:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-25565",
+    "spider_time": 1767150405505,
+    "name": "Mozilla Firefox拒绝服务漏洞（CNVD-2024-25565）",
+    "cnvd": "CNVD-2024-25565",
+    "publish": "2024-06-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"mozilla Firefox <123\"]",
+    "cve": "CVE-2024-1556",
+    "description": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Firefox存在拒绝服务漏洞，该漏洞是由内置探查器中的无效内存访问引起的。攻击者可利用该漏洞导致浏览器崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.mozilla.org/en-US/security/advisories/mfsa2024-05/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/en-US/security/advisories/mfsa2024-05/",
+    "patch": "Mozilla Firefox拒绝服务漏洞（CNVD-2024-25565）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-01",
+    "open_time": "2024-06-03",
+    "update_time": "2024-06-03",
+    "data_summary": "6c6ab7fa7daa476a0b4c8dd427041de2"
+}

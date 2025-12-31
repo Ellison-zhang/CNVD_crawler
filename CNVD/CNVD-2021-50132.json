@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:45:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-50132",
+    "spider_time": 1767149137548,
+    "name": "tsMuxer堆缓冲区溢出漏洞（CNVD-2021-50132）",
+    "cnvd": "CNVD-2021-50132",
+    "publish": "2021-07-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:N/I:N/A:P",
+    "product": "[\"Daniel Kamil Kozar tsMuxer 2.6.16\"]",
+    "cve": "CVE-2021-34068",
+    "description": "tsMuxer是一款传输流多路复用与TS封装工具。tsMuxer 2.6.16版存在堆缓冲区溢出漏洞。攻击者可通过特制文件利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2021-34068",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/justdan96/tsMuxer/pull/425/files",
+    "patch": "tsMuxer堆缓冲区溢出漏洞（CNVD-2021-50132）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-06-24",
+    "open_time": "2021-07-13",
+    "update_time": "2021-07-13",
+    "data_summary": "e315d8cf8c02174524639c8dc3c9c188"
+}

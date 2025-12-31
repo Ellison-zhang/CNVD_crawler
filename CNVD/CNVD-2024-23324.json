@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:21:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-23324",
+    "spider_time": 1767169293863,
+    "name": "SAP Master Data Governance授权问题漏洞",
+    "cnvd": "CNVD-2024-23324",
+    "publish": "2024-05-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"SAP SAP Master Data Governance 800\", \"SAP SAP Master Data Governance 801\", \"SAP SAP Master Data Governance 802\", \"SAP SAP Master Data Governance 803\", \"SAP SAP Master Data Governance 804\", \"SAP SAP Master Data Governance 618\", \"SAP SAP Master Data Governance 619\", \"SAP SAP Master Data Governance 620\", \"SAP SAP Master Data Governance 621\", \"SAP SAP Master Data Governance 622\"]",
+    "cve": "CVE-2024-24741",
+    "description": "SAP Master Data Governance是德国思爱普（SAP）公司的一套用于维护、验证和分发主数据的数据管理工具。SAP Master Data Governance for Material Data存在授权问题漏洞，该漏洞源于不会对经过身份验证的用户执行必要的授权检查，攻击者可利用该漏洞导致权限升级。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-24741",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://me.sap.com/notes/2897391",
+    "patch": "SAP Master Data Governance授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-21",
+    "open_time": "2024-05-20",
+    "update_time": "2024-05-20",
+    "data_summary": "5613e8c9f2222f74e94848db51a06b6b"
+}

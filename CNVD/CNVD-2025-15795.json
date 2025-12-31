@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:37:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15795",
+    "spider_time": 1767159446040,
+    "name": "Cisco Identity Services Web接口跨站脚本漏洞",
+    "cnvd": "CNVD-2025-15795",
+    "publish": "2025-07-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"Cisco Identity Services 3.1\", \"Cisco Identity Services 3.2\", \"Cisco Identity Services 3.3\", \"Cisco Identity Services 3.4\"]",
+    "cve": "CVE-2025-20267",
+    "description": "Cisco Identity Services Engine是一款身份中心化解决方案,旨在提供全面的身份和访问管理(IAM)功能。Cisco Identity Services Web接口存在跨站脚本漏洞，远程攻击者可利用该漏洞注入恶意脚本或HTML代码，当恶意数据被查看时，可获取敏感信息或劫持用户会话。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20267",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-stored-xss-Yff54m73",
+    "patch": "Cisco Identity Services Web接口跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-27",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "67eab850c37befbcc78763be271eb51c"
+}

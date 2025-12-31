@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:24:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2019-36866",
+    "spider_time": 1767147897778,
+    "name": "MediaWiki信息泄露漏洞（CNVD-2019-36866）",
+    "cnvd": "CNVD-2019-36866",
+    "publish": "2019-10-23",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:P/I:N/A:N",
+    "product": "[\"MediaWiki Mediawiki <=1.33.0\"]",
+    "cve": "CVE-2019-16738",
+    "description": "MediaWiki是用PHP编写的免费软件开源wiki包，最初用于维基百科，现在也被非营利Wikimedia基金会的若干其他项目和许多其他wikis使用。MediaWiki 1.33.0及更早版本存在信息泄露漏洞。攻击者可通过用户ID查找利用该漏洞获取用户名。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2019-16738",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://phabricator.wikimedia.org/T230402",
+    "patch": "MediaWiki信息泄露漏洞（CNVD-2019-36866）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2019-09-26",
+    "open_time": "2019-10-24",
+    "update_time": "2019-10-24",
+    "data_summary": "7c5c6bf6bd09f16b96cded63c9b5141f"
+}

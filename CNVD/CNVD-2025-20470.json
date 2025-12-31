@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:18:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20470",
+    "spider_time": 1767165539599,
+    "name": "Google Chrome释放后重用漏洞（CNVD-2025-20470）",
+    "cnvd": "CNVD-2025-20470",
+    "publish": "2025-09-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <138.0.7204.183\"]",
+    "cve": "CVE-2025-8292",
+    "description": "Google Chrome是由谷歌（Google）公司开发的一款免费网页浏览器，以其快速、安全、简洁的特点成为全球市场份额最高的浏览器，支持多平台使用并内置隐私保护功能。Google Chrome存在释放后重用漏洞，该漏洞源于Media Stream中释放后重用问题，攻击者可利用该漏洞通过特制HTML页面导致堆损坏。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/07/stable-channel-update-for-desktop_29.html\nhttps://issues.chromium.org/issues/426054987",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://chromereleases.googleblog.com/",
+    "patch": "Google Chrome释放后重用漏洞（CNVD-2025-20470）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-01",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "029cbae801aad441c0e1289d0db11d49"
+}

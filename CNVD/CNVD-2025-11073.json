@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:58:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11073",
+    "spider_time": 1767157089675,
+    "name": "Oracle OpenGrok跨站脚本漏洞",
+    "cnvd": "CNVD-2025-11073",
+    "publish": "2025-05-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Oracle Oracle OpenGrok 1.13.25\"]",
+    "cve": "CVE-2025-21572",
+    "description": "Oracle OpenGrok是美国甲骨文（Oracle）公司的一个快速高效的源代码搜索与交叉引用工具，支持多种编程语言，用于大型代码库的导航和分析。Oracle OpenGrok存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.oracle.com/security-alerts/all-oracle-cves-outside-other-oracle-public-documents.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://github.com/oracle/opengrok/releases",
+    "patch": "Oracle OpenGrok跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "150a40020782087ff0e1329a68f55ab9"
+}

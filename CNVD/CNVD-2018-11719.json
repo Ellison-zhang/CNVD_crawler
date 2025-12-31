@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 09:57:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2018-11719",
+    "spider_time": 1767146245386,
+    "name": "Yii2-StateMachine extension for Yii2跨站脚本漏洞",
+    "cnvd": "CNVD-2018-11719",
+    "publish": "2018-06-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Yii2-StateMachine extension for Yii2 Yii2-StateMachine extension for Yii2 2.*.*\"]",
+    "cve": "CVE-2018-12290",
+    "description": "Yii2-StateMachine extension for Yii2是一套用于演示Yii2框架的演示网站系统。Yii2-StateMachine extension for Yii2 2.x.x版本中存在跨站脚本漏洞，该漏洞源于程序未能严格的过滤‘role’参数。远程攻击者可‘role’参数利用该漏洞注入JavaScript代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/ptheofan/yii2-statemachine-demo",
+    "solution": "目前厂商暂未发布修复措施解决此安全问题，建议使用此软件的用户随时关注厂商主页或参考网址以获取解决办法：\nhttps://github.com/ptheofan/yii2-statemachine-demo",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2018-06-19",
+    "open_time": "2018-06-20",
+    "update_time": "2018-06-20",
+    "data_summary": "75cae3b31409337b0fa8a7992bf68e6b"
+}

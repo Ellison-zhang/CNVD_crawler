@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 17:41:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22613",
+    "spider_time": 1767174109689,
+    "name": "Huawei HarmonyOS越界访问漏洞",
+    "cnvd": "CNVD-2025-22613",
+    "publish": "2025-09-23",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Huawei HarmonyOS 5.0.1\", \"Huawei HarmonyOS 5.1.0\"]",
+    "cve": "CVE-2025-54645",
+    "description": "Huawei HarmonyOS是华为自主研发的面向全场景的分布式操作系统。Huawei HarmonyOS存在越界访问漏洞，该漏洞是由于位置服务模块中的数据验证不足，攻击者可利用该漏洞影响可用性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-54645",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://consumer.huawei.com/en/support/bulletin/2025/8/",
+    "patch": "Huawei HarmonyOS越界访问漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-18",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "a7afd3b60508cd8931b748bb9a13c4d9"
+}

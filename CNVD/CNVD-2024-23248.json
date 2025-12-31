@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:20:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-23248",
+    "spider_time": 1767169212673,
+    "name": "FreeRDP writePixelBGRX缓冲区溢出漏洞",
+    "cnvd": "CNVD-2024-23248",
+    "publish": "2024-05-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:P",
+    "product": "[\"FreeRDP FreeRDP <=3.0.0-beta2\"]",
+    "cve": "CVE-2023-40574",
+    "description": "FreeRDP是FreeRDP团队的一款开源的远程桌面协议的实现。FreeRDP writePixelBGRX存在缓冲区溢出漏洞，远程攻击者可以利用该漏洞提交特殊的请求，可使应用程序崩溃，造成拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-40574",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/FreeRDP/FreeRDP/security/advisories/GHSA-422p-gj6x-93cw",
+    "patch": "FreeRDP writePixelBGRX缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-09-04",
+    "open_time": "2024-05-17",
+    "update_time": "2024-05-17",
+    "data_summary": "b398fcb7b75ebe48b6f461c65b048d47"
+}

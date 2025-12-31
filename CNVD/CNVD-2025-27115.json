@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:06:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27115",
+    "spider_time": 1767168402676,
+    "name": "Tenda A15缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-27115",
+    "publish": "2025-11-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda A15 15.13.07.13\"]",
+    "cve": "CVE-2025-12619",
+    "description": "Tenda A15是腾达公司的一款无线路由器设备。Tenda A15 15.13.07.13版本存在缓冲区溢出漏洞，该漏洞源于/goform/openNetworkGateway文件中的fromSetWirelessRepeat函数对wpapsk_crypto2_4g参数处理不当。攻击者可利用该漏洞通过远程触发缓冲区溢出执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.330913\nhttps://vuldb.com/?ctiid.330913\nhttps://vuldb.com/?submit.678888\nhttps://www.yuque.com/ba1ma0-an29k/nnxoap/tzg68iadbmqx6esm?singleDoc\nhttps://pan.baidu.com/s/1N5pzWOYFGl7KGuh9yjlDHg\nhttps://www.tenda.com.cn/",
+    "solution": "目前厂商尚未发布升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://vuldb.com/?id.330913",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-05",
+    "open_time": "2025-11-07",
+    "update_time": "2025-11-07",
+    "data_summary": "acdbc27e01f9d894c482e3aa9bebdd50"
+}

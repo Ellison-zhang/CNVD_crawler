@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:42:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-31219",
+    "spider_time": 1767148931642,
+    "name": "Microsoft Windows Runtime权限提升漏洞（CNVD-2021-31219）",
+    "cnvd": "CNVD-2021-31219",
+    "publish": "2021-04-27",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Microsoft Windows Server 2019\", \"Microsoft Microsoft Windows Server 1803\", \"Microsoft Microsoft Windows Server 1903\", \"Microsoft Windows 10 1803\", \"Microsoft Windows 10 1809\", \"Microsoft Windows 10 1903\", \"Microsoft Microsoft Windows Server 1909\", \"Microsoft Windows 10 1909\", \"Microsoft Windows Server 2004\", \"Microsoft Windows 10 2004\"]",
+    "cve": "CVE-2020-1306",
+    "description": "Microsoft Windows Runtime（.net framework）是美国微软（Microsoft）公司的一款Windows操作系统中必要的功能支持库。Microsoft Windows Runtime中存在权限提升漏洞，该漏洞源于程序未正确处理内存中的对象，攻击者可通过运行特制应用程序利用该漏洞以提升的权限执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2020-1306",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1306",
+    "patch": "Microsoft Windows Runtime权限提升漏洞（CNVD-2021-31219）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2020-06-10",
+    "open_time": "2021-04-27",
+    "update_time": "2021-04-27",
+    "data_summary": "bf37aea875c07637d0d5655d67a81de4"
+}

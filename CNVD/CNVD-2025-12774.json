@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:17:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12774",
+    "spider_time": 1767158248025,
+    "name": "Mattermost拒绝服务漏洞（CNVD-2025-12774）",
+    "cnvd": "CNVD-2025-12774",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:N/A:C",
+    "product": "[\"Mattermost Mattermost >=9.5.x，<=9.5.7\", \"Mattermost Mattermost >=9.10.x，<=9.10.0\"]",
+    "cve": "CVE-2024-39810",
+    "description": "Mattermost是美国Mattermost公司的一个开源协作平台。Mattermost存在拒绝服务漏洞，该漏洞源于未能对ElasticSearch配置中的CA路径文件进行时间限制和大小限制，攻击者可利用该漏洞将任意文件添加为CA路径字段，导致应用程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://mattermost.com/security-updates",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/security-updates/",
+    "patch": "Mattermost拒绝服务漏洞（CNVD-2025-12774）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-29",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "392b6d58475e5c042d90e8790ac92a2f"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:07:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27898",
+    "spider_time": 1767168478292,
+    "name": "LinkAce跨站脚本漏洞（CNVD-2025-27898）",
+    "cnvd": "CNVD-2025-27898",
+    "publish": "2025-11-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:P",
+    "product": "[\"LinkAce LinkAce <=2.3.1\"]",
+    "cve": "CVE-2025-62722",
+    "description": "LinkAce是一个自托管档案库，用于收集您最喜爱的网站的链接。LinkAce 2.3.1及之前版本存在跨站脚本漏洞，该漏洞源于社交媒体共享功能对标题字段输入验证不足，攻击者可利用该漏洞导致存储型跨站脚本攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Kovah/LinkAce/commit/95d29b71ad9d4750cff8bbe7488802f6a4afa6aa",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/Kovah/LinkAce/releases",
+    "patch": "LinkAce跨站脚本漏洞（CNVD-2025-27898）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-10",
+    "open_time": "2025-11-14",
+    "update_time": "2025-11-14",
+    "data_summary": "4aef98b6fe564391b38ff809b72b6bb2"
+}

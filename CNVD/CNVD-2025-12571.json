@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:13:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12571",
+    "spider_time": 1767158013113,
+    "name": "IBM Tivoli Monitoring远程代码执行漏洞（CNVD-2025-12571）",
+    "cnvd": "CNVD-2025-12571",
+    "publish": "2025-06-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"IBM Tivoli Monitoring >=6.3.0.7，<=6.3.0.7 Service Pack 19\"]",
+    "cve": "CVE-2025-3357",
+    "description": "IBM Tivoli Monitoring是一套企业级的监控解决方案，旨在帮助企业管理复杂的IT环境，确保系统的可用性和性能。IBM Tivoli Monitoring存在远程代码攻击漏洞。该漏洞是由于动态分配数组的索引值验证不当，远程攻击者可利用该漏洞无需身份验证即可执行任意代码，且可能获得系统最高权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-3357",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新:\nhttps://www.ibm.com/support/pages/node/7234923",
+    "patch": "IBM Tivoli Monitoring远程代码执行漏洞（CNVD-2025-12571）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-30",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "a8e47485db99069e4e7367e727a51fac"
+}

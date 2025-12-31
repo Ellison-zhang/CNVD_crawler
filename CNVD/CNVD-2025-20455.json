@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:15:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20455",
+    "spider_time": 1767165353456,
+    "name": "WordPress Login with phone number plugin缺少授权漏洞",
+    "cnvd": "CNVD-2025-20455",
+    "publish": "2025-09-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Login with phone number plugin <=1.6.93\"]",
+    "cve": "CVE-2024-32832",
+    "description": "WordPress Login with phone number plugin是一款用于实现手机验证码登录的插件，支持WordPress和WooCommerce平台，用户可通过手机短信或WhatsApp进行身份验证。WordPress Login with phone number plugin存在缺少授权漏洞，该漏洞源于使用电话号码登录时缺少授权。攻击者可利用该漏洞导致机密性、完整性和可用性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/login-with-phone-number/vulnerability/wordpress-login-with-phone-number-plugin-1-6-93-broken-access-control-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/login-with-phone-number/",
+    "patch": "WordPress Login with phone number plugin缺少授权漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-02",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "8ed2868c4f3dc64877165e493d0e7477"
+}

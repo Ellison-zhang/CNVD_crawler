@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:24:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20498",
+    "spider_time": 1767165878269,
+    "name": "NETGEAR CAX30缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-20498",
+    "publish": "2025-09-02",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR CAX30 <2.2.1.12\"]",
+    "cve": "CVE-2023-44445",
+    "description": "NETGEAR CAX30是Netgear推出的Nighthawk AX6系列6-Stream WiFi 6路由器，支持DOCSIS 3.1技术，可提供多吉比特互联网和无线速度，适合家庭智能设备在高峰期同时使用。NETGEAR CAX30存在缓冲区溢出漏洞，该漏洞源于sso二进制文件中存在缓冲区溢出漏洞，攻击者可利用该漏洞以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-23-1636/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://kb.netgear.com/000065859/Security-Advisory-for-Pre-authentication-Buffer-Overflow-on-the-CAX30-PSV-2023-0093",
+    "patch": "NETGEAR CAX30缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-11-27",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "9392684c797b8f41b0cd388ad90161ae"
+}

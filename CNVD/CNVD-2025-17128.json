@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:49:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17128",
+    "spider_time": 1767160192347,
+    "name": "Google Chrome资源管理错误漏洞（CNVD-2025-17128）",
+    "cnvd": "CNVD-2025-17128",
+    "publish": "2025-07-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Google Chrome <133.0.6943.53\"]",
+    "cve": "CVE-2025-0444",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome存在资源管理错误漏洞，该漏洞源于Skia中的释放后重用，攻击者可利用该漏洞通过精心设计的HTML页面导致堆损坏。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-0444",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://chromereleases.googleblog.com/2025/02/stable-channel-update-for-desktop.html",
+    "patch": "Google Chrome资源管理错误漏洞（CNVD-2025-17128）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-13",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "06cdc1fb48f766e9a13da033b3bb6fe0"
+}

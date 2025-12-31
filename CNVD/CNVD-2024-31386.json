@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:40:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-31386",
+    "spider_time": 1767152428443,
+    "name": "Tenda A301存在未明漏洞（CNVD-2024-31386）",
+    "cnvd": "CNVD-2024-31386",
+    "publish": "2024-07-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Tenda A301 15.13.08.12\"]",
+    "cve": "CVE-2024-6403",
+    "description": "Tenda A301是中国腾达（Tenda）公司的一款无线信号扩展器。Tenda A301 15.13.08.12版本存在安全漏洞，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-6403",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://vuldb.com/?id.269948",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-05",
+    "open_time": "2024-07-10",
+    "update_time": "2024-07-10",
+    "data_summary": "38b05db2cc1e46534e400926e283faf9"
+}

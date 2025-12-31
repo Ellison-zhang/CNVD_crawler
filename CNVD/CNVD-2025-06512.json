@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:47:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06512",
+    "spider_time": 1767156469567,
+    "name": "Tencent WeChat存在未明漏洞（CNVD-2025-06512）",
+    "cnvd": "CNVD-2025-06512",
+    "publish": "2025-03-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tencent  WeChat 8.0.37\"]",
+    "cve": "CVE-2024-40433",
+    "description": "Tencent WeChat（微信）是中国腾讯（Tencent）公司的一款在线社交应用程序。该程序支持发送语音短信、视频、图片和文字等。Tencent WeChat存在未明漏洞。攻击者可利用该漏洞通过web-view组件提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-40433",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tencent.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-31",
+    "open_time": "2025-04-03",
+    "update_time": "2025-04-03",
+    "data_summary": "ddb36cfc8826148401b8df08ac82b417"
+}

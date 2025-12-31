@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:25:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2019-42570",
+    "spider_time": 1767147924992,
+    "name": "Centraleyezer跨站脚本漏洞",
+    "cnvd": "CNVD-2019-42570",
+    "publish": "2019-11-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:N/I:P/A:N",
+    "product": "[\"Centraleyezer Centraleyezer\"]",
+    "cve": "CVE-2019-12299",
+    "description": "Centraleyezer是一套漏洞跟踪和管理平台。该平台主要用于漏洞报告、确定优先级、升级和跟踪漏洞等。Centraleyezer(On Premises)中存在跨站脚本漏洞，攻击者可利用该漏洞执行客户端代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://seclists.org/fulldisclosure/2019/Nov/8\nhttps://medium.com/insidersec0x42/centraleyezer-stored-xss-using-html-entities-cve-2019-12299-5c295ae54ef",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://centraleyezer.io/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2019-11-19",
+    "open_time": "2019-11-28",
+    "update_time": "2019-11-28",
+    "data_summary": "571a6cd5e6435b7cce8d441073f1debe"
+}

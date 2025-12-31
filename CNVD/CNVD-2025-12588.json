@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:14:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12588",
+    "spider_time": 1767158056702,
+    "name": "IBM App Connect Enterprise加密问题漏洞",
+    "cnvd": "CNVD-2025-12588",
+    "publish": "2025-06-10",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:C/I:N/A:N",
+    "product": "[\"IBM IBM App Connect Enterprise >=8.1，<=12.10\"]",
+    "cve": "CVE-2025-1993",
+    "description": "IBM App Connect Enterprise是美国国际商业机器（IBM）公司的一个操作系统。IBM App Connect Enterprise将现有业界信任的IBM Integration Bus技术与IBM App Connect Professional以及新的云本机技术进行了组合，提供一个可满足现代数字企业全面集成需求的平台。IBM App Connect Enterprise存在加密问题漏洞，该漏洞源于加密算法强度不足，攻击者可利用该漏洞导致数据泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1993",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7233054",
+    "patch": "IBM App Connect Enterprise加密问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "fe5fd6c3ffb37d6ce5f213693651ebdd"
+}

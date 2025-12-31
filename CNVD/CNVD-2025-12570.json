@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:13:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12570",
+    "spider_time": 1767158002927,
+    "name": "IBM Planning Analytics Local代码问题漏洞",
+    "cnvd": "CNVD-2025-12570",
+    "publish": "2025-06-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"IBM IBM Planning Analytics Local 2.0\", \"IBM IBM Planning Analytics Local 2.1\"]",
+    "cve": "CVE-2025-33005",
+    "description": "IBM Planning Analytics Local是美国国际商业机器（IBM）公司的一个基于网络的本地架构。IBM Planning Analytics Local 2.0和2.1版本存在代码问题漏洞，该漏洞源于注销后未使会话失效，攻击者可利用该漏洞导致冒充其他用户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-33005",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7235182",
+    "patch": "IBM Planning Analytics Local代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-06",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "c67d521a9973e4799f19ad308005614b"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:18:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2017-03799",
+    "spider_time": 1767147484994,
+    "name": "WordPress DTracker插件内容注入漏洞",
+    "cnvd": "CNVD-2017-03799",
+    "publish": "2017-04-01",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress DTracker Plugin 1.5\"]",
+    "cve": "CVE-2017-1002007",
+    "description": "WordPress是WordPress软件基金会的一套使用PHP语言开发的博客平台,该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress DTracker插件存在内容注入漏洞，该漏洞源于程序未能正确验证用户提供的输入。允许攻击者可利用漏洞在受影响的浏览器上下文中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.securityfocus.com/bid/96890",
+    "solution": "目前没有详细的解决方案提供：\nhttp://www.wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2017-03-20",
+    "open_time": "2017-04-01",
+    "update_time": "2017-03-20",
+    "data_summary": "0b1ccc7e57e6ca38310ea1f9c8f5a8dc"
+}

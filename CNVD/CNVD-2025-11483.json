@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:07:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11483",
+    "spider_time": 1767157672127,
+    "name": "Samsung SMR堆缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11483",
+    "publish": "2025-05-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Samsung SMR <Aug-2022 Release 1\"]",
+    "cve": "CVE-2022-33719",
+    "description": "Samsung SMR是韩国三星电子公司推出的一种系统补丁包，主要用于提供三星手机应用的补丁程序‌‌。Samsung SMR存在堆缓冲区溢出漏洞，该漏洞源于基带中输入验证不正确，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://security.samsungmobile.com/securityUpdate.smsb?year=2022&month=08",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://security.samsungmobile.com/securityUpdate.smsb?year=2022&month=08",
+    "patch": "Samsung SMR堆缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-08-10",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "a91ca5f42924d310f6680fd42aafb22a"
+}

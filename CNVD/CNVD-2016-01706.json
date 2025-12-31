@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:08:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2016-01706",
+    "spider_time": 1767146918142,
+    "name": "IBM WebSphere Commerce拒绝服务漏洞（CNVD-2016-01706）",
+    "cnvd": "CNVD-2016-01706",
+    "publish": "2016-03-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"IBM Websphere Commerce 6.x-6.0.0.11\", \"IBM Websphere Commerce 7.x-7.0.0.9\", \"IBM Websphere Commerce 8.x-8.0.0.3\"]",
+    "cve": "CVE-2016-0208",
+    "description": "IBM WebSphere Commerce是美国IBM公司的一套电子商务解决方案。该方案可在一个单一的客户交互平台上支持所有的销售业务模型，包括B2C、B2B和B2B2C。IBM WebSphere Commerce中存在安全漏洞。远程攻击者可利用该漏洞造成拒绝服务（order-processing中断）。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www-01.ibm.com/support/docview.wss?uid=swg1JR54988\nhttp://www-01.ibm.com/support/docview.wss?uid=swg21975774",
+    "solution": "目前厂商已经发布了升级补丁以修复此安全问题，补丁获取链接：\nhttp://www-01.ibm.com/support/docview.wss?uid=swg21975774",
+    "patch": "IBM WebSphere Commerce拒绝服务漏洞（CNVD-2016-01706）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2016-03-16",
+    "open_time": "2016-03-17",
+    "update_time": "2016-03-17",
+    "data_summary": "8b540419efd803b48fe38f2b751ed12d"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:05:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-24971",
+    "spider_time": 1767150332278,
+    "name": "ModelDB路径遍历漏洞",
+    "cnvd": "CNVD-2024-24971",
+    "publish": "2024-05-29",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"VertaAI ModelDB\"]",
+    "cve": "CVE-2024-1961",
+    "description": "ModelDB是VertaAI开源的一个用于机器学习模型版本控制、元数据和实验管理的开源系统。ModelDB存在路径遍历漏洞，该漏洞源于在文件上传功能中对用户提供的文件路径的清理不当。攻击者可利用该漏洞通过操纵“artifact_path”参数在文件系统中的任何位置写入任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-1961/",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://nvd.nist.gov/vuln/detail/CVE-2024-1961",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-17",
+    "open_time": "2024-05-30",
+    "update_time": "2024-05-30",
+    "data_summary": "08b1b7f2fa52376f9a9b09a808add33b"
+}

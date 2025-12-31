@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:20:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2018-08558",
+    "spider_time": 1767147616421,
+    "name": "IBM RLKS Administration and Reporting Tool信息泄露漏洞（CNVD-2018-08558）",
+    "cnvd": "CNVD-2018-08558",
+    "publish": "2018-04-27",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"IBM RLKS Administration and Reporting Tool 8.1.4\", \"IBM RLKS Administration and Reporting Tool 8.1.4.2\", \"IBM RLKS Administration and Reporting Tool 8.1.4.9\", \"IBM RLKS Administration and Reporting Tool 8.1.4.3\", \"IBM RLKS Administration and Reporting Tool 8.1.4.4\", \"IBM RLKS Administration and Reporting Tool 8.1.4.5\", \"IBM RLKS Administration and Reporting Tool 8.1.4.6\", \"IBM RLKS Administration and Reporting Tool 8.1.4.7\", \"IBM RLKS Administration and Reporting Tool 8.1.4.8\"]",
+    "cve": "CVE-2015-5045",
+    "description": "IBM RLKS（Rational License Key Server）是美国IBM公司的一款许可证密钥服务器。Administration and Reporting Tool是其中的一个许可证密钥管理和报告工具。IBM RLKS Administration and Reporting Tool中存在安全漏洞。本地攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www-01.ibm.com/support/docview.wss?uid=swg21982895",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttp://www-01.ibm.com/support/docview.wss?uid=swg21982895",
+    "patch": "IBM RLKS Administration and Reporting Tool信息泄露漏洞（CNVD-2018-08558）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2018-04-12",
+    "open_time": "2018-04-27",
+    "update_time": "2018-04-27",
+    "data_summary": "0432567a0fcfb7cd4b9dd771af8cc6ca"
+}

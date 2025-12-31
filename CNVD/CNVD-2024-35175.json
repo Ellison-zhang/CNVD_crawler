@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:23:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35175",
+    "spider_time": 1767155016618,
+    "name": "D-Link DIR-823X代码执行漏洞",
+    "cnvd": "CNVD-2024-35175",
+    "publish": "2024-08-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-823X v21_D240126\"]",
+    "cve": "CVE-2024-39962",
+    "description": "D-Link DIR-823X是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-823X AX3000存在代码执行漏洞，该漏洞源于在/goform/set_ntp.ntp_zone_val参数未能正确过滤构造代码段的特殊元素。攻击者可利用该漏洞导致任意代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-39962",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://gist.github.com/Swind1er/40c33f1b1549028677cb4e2e5ef69109",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-24",
+    "open_time": "2024-08-13",
+    "update_time": "2024-08-13",
+    "data_summary": "74c86cc8e6af743b3d12d22209ffaecd"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:47:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06356",
+    "spider_time": 1767156438093,
+    "name": "零视技术（上海）有限公司H5S视频平台存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-06356",
+    "publish": "2025-03-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"零视技术（上海）有限公司 H5S视频平台 r14.9.0225.22\"]",
+    "cve": null,
+    "description": "零视技术（上海）有限公司是一家以从事软件和信息技术服务业为主的企业。零视技术（上海）有限公司H5S视频平台存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息，创建用户。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布漏洞修复程序，请及时关注更新：\nhttps://linkingvision.cn/",
+    "patch": "零视技术（上海）有限公司H5S视频平台存在逻辑缺陷漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-02-08",
+    "open_time": "2025-04-03",
+    "update_time": "2025-04-03",
+    "data_summary": "33cd617644d9f979601253a43669beca"
+}

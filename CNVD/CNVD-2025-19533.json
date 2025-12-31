@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:15:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19533",
+    "spider_time": 1767161724979,
+    "name": "NVIDIA WebDataset操作系统命令注入漏洞",
+    "cnvd": "CNVD-2025-19533",
+    "publish": "2025-08-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"NVIDIA WebDataset\"]",
+    "cve": "CVE-2025-23294",
+    "description": "NVIDIA WebDataset是美国英伟达（NVIDIA）公司的一种高性能数据存储方式。NVIDIA WebDataset存在操作系统命令注入漏洞，攻击者可利用该漏洞通过绕过身份验证过程并在特定情况下接管其他Web应用程序用户的帐户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-23294",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.cve.org/CVERecord?id=CVE-2025-23294",
+    "patch": "NVIDIA WebDataset操作系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-21",
+    "open_time": "2025-08-28",
+    "update_time": "2025-08-28",
+    "data_summary": "36d47ae28dfb373605d81c6e61b9e431"
+}

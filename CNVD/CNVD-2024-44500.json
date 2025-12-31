@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:47:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-44500",
+    "spider_time": 1767170853085,
+    "name": "Adobe Acrobat Reader资源管理错误漏洞（CNVD-2024-44500）",
+    "cnvd": "CNVD-2024-44500",
+    "publish": "2024-11-05",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Acrobat DC <=24.002.20991(Windows)\", \"Adobe Acrobat DC <=24.002.20964(MacOS)\", \"Adobe Acrobat Reader DC <=24.002.20991(Windows)\", \"Adobe Acrobat Reader DC <=24.002.20964(MacOS)\", \"Adobe Acrobat 2024 <=24.001.30123\", \"Adobe Acrobat 2020 <=20.005.30636(Windows)\", \"Adobe Acrobat 2020 <=20.005.30635(MacOS)\", \"Adobe Acrobat Reader 2020 <=20.005.30636(Windows)\", \"Adobe Acrobat Reader 2020 <=20.005.30635(MacOS)\"]",
+    "cve": "CVE-2024-41830",
+    "description": "Adobe Acrobat Reader是美国奥多比（Adobe）公司的一款PDF查看器。该软件用于打印，签名和注释PDF。Adobe Acrobat Reader存在安全漏洞，攻击者可利用该漏洞在当前用户的环境中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-41830",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/acrobat/apsb24-57.html",
+    "patch": "Adobe Acrobat Reader资源管理错误漏洞（CNVD-2024-44500）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-16",
+    "open_time": "2024-11-12",
+    "update_time": "2024-11-12",
+    "data_summary": "95129f169201c4bbfe0b69e1c4301417"
+}

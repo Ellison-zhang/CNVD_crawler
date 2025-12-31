@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:40:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-44820",
+    "spider_time": 1767156040222,
+    "name": "Google Nest信任管理问题漏洞",
+    "cnvd": "CNVD-2024-44820",
+    "publish": "2024-11-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Nest\"]",
+    "cve": "CVE-2024-44097",
+    "description": "Google Nest是美国谷歌（Google）公司的一款智能家居产品。Google Nest存在信任管理问题漏洞，该漏洞源于应用程序在初始化TLS连接时未能正确验证服务器证书，网络攻击者可利用该漏洞拦截连接并读取数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-44097",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.google.com/product-documentation/answer/14950962?sjid=9489879942601373169-NA",
+    "patch": "Google Nest信任管理问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-17",
+    "open_time": "2024-11-14",
+    "update_time": "2024-11-14",
+    "data_summary": "595e735f25b99af6be7c62f8a78aafcd"
+}

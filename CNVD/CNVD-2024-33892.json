@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:36:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33892",
+    "spider_time": 1767170190805,
+    "name": "Adobe Experience Manager输入验证错误漏洞（CNVD-2024-33892）",
+    "cnvd": "CNVD-2024-33892",
+    "publish": "2024-07-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"Adobe Adobe Experience Manager <=6.5.20\"]",
+    "cve": "CVE-2024-41839",
+    "description": "Adobe Experience Manager（AEM）是美国奥多比（Adobe）公司的一套可用于构建网站、移动应用程序和表单的内容管理解决方案。该方案支持移动内容管理、营销销售活动管理和多站点管理等。Adobe Experience Manager 6.5.20版本之前存在输入验证错误漏洞，该漏洞源于受到不正确输入验证漏洞的影响，该漏洞可能导致绕过安全功能。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-41839",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://helpx.adobe.com/security/products/experience-manager/apsb24-28.html",
+    "patch": "Adobe Experience Manager输入验证错误漏洞（CNVD-2024-33892）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-25",
+    "open_time": "2024-07-30",
+    "update_time": "2024-07-30",
+    "data_summary": "9d3791323694ff85c41060e7efb5ff2b"
+}

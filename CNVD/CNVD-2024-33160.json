@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:44:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33160",
+    "spider_time": 1767152672611,
+    "name": "WonderCMS MENU参数跨站脚本漏洞",
+    "cnvd": "CNVD-2024-33160",
+    "publish": "2024-07-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WonderCMS WonderCMS v3.4.3\"]",
+    "cve": "CVE-2024-32746",
+    "description": "WonderCMS是一套基于PHP的开源内容管理系统（CMS）。WonderCMS v3.4.3版本存在跨站脚本漏洞，该漏洞源于Settings部分的MENU参数对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-32746",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.wondercms.com/download",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2024-04-22",
+    "open_time": "2024-07-18",
+    "update_time": "2024-07-18",
+    "data_summary": "4ac1ba1c8a510f8601311628720e1814"
+}

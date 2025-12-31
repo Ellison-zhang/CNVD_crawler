@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:20:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2018-13345",
+    "spider_time": 1767147637083,
+    "name": "reSIProcate拒绝服务漏洞",
+    "cnvd": "CNVD-2018-13345",
+    "publish": "2018-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Resiprocate Resiprocate <=1.10.2\"]",
+    "cve": "CVE-2018-12584",
+    "description": "reSIProcate是SIP（会话初始化协议）、ICE（P2P通信协议）和TURN（资料传输协议）等协议的C++实现。reSIProcate 1.10.2及之前版本中的resip/stack/ConnectionBase.cxx文件的‘ConnectionBase::preparseNewBytes’函数存在安全漏洞。远程攻击者可利用该漏洞造成拒绝服务（缓冲区溢出）并可能执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2018-12584",
+    "solution": "厂商已发布漏洞修复程序，请及时关注更新：\nhttps://github.com/resiprocate/resiprocate/commit/2cb291191c93c7c4e371e22cb89805a5b31d6608",
+    "patch": "reSIProcate拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2018-07-17",
+    "open_time": "2018-07-18",
+    "update_time": "2018-07-18",
+    "data_summary": "f79562cffa4dce39896b5ec24df5c1b4"
+}

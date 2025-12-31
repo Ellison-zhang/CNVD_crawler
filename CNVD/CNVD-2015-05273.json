@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:06:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2015-05273",
+    "spider_time": 1767146814783,
+    "name": "LEMON-S PHP Gazou BBS plus任意文件上传漏洞",
+    "cnvd": "CNVD-2015-05273",
+    "publish": "2015-08-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"LEMON-S PHP Gazou BBS plus <2.36\"]",
+    "cve": "CVE-2015-2974",
+    "description": "LEMON-S PHP Gazou BBS plus是一套免费的基于PHP的电子公告牌系统（BBS）。LEMON-S PHP Gazou BBS plus 2.35及之前版本中存在安全漏洞。远程攻击者可借助特制的图像文件利用该漏洞上传任意HTML文档。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.securityfocus.com/bid/76061",
+    "solution": "目前厂商已经发布了升级补丁以修复此安全问题，补丁获取链接：\nhttp://php.lemon-s.com/gazoup.html",
+    "patch": "LEMON-S PHP Gazou BBS plus任意文件上传漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2015-08-12",
+    "open_time": "2015-08-14",
+    "update_time": "2015-08-12",
+    "data_summary": "163824c3b67a7feb562cbc0ae075fbf1"
+}

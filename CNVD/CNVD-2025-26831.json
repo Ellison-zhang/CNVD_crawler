@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:06:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26831",
+    "spider_time": 1767168392263,
+    "name": "Wazifa System logincontrol.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-26831",
+    "publish": "2025-10-31",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Wazifa System Wazifa System 1.0\"]",
+    "cve": "CVE-2024-10699",
+    "description": "Wazifa System是一个内容管理系统。Wazifa System存在SQL注入漏洞，该漏洞源于文件/controllers/logincontrol.php的参数username缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.282867",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-07",
+    "open_time": "2025-11-04",
+    "update_time": "2025-11-04",
+    "data_summary": "5a1c3f23d1f9493cec773a1b0dda4927"
+}

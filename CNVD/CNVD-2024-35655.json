@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:26:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35655",
+    "spider_time": 1767155179808,
+    "name": "SAP Enable Now Manager授权问题漏洞",
+    "cnvd": "CNVD-2024-35655",
+    "publish": "2024-08-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"SAP SAP Enable Now Manager\"]",
+    "cve": "CVE-2024-32730",
+    "description": "SAP Enable Now Manager是德国思爱普（SAP）公司的中央内容管理和协作平台。SAP Enable Now Manager存在授权问题漏洞，该漏洞源于不会对经过身份验证的用户执行必要的授权检查，攻击者可利用该漏洞导致权限升级。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://me.sap.com/notes/3441944",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2024.html",
+    "patch": "SAP Enable Now Manager授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-30",
+    "open_time": "2024-08-19",
+    "update_time": "2024-08-19",
+    "data_summary": "78f1646f5fa4f2a1519e9726e32cc9a6"
+}

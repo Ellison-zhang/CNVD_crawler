@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:07:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20419",
+    "spider_time": 1767164872464,
+    "name": "Kenwood DMX958XR命令注入漏洞（CNVD-2025-20419）",
+    "cnvd": "CNVD-2025-20419",
+    "publish": "2025-09-05",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Kenwood DMX958XR 1.0.0005.4600\"]",
+    "cve": "CVE-2025-8636",
+    "description": "Kenwood DMX958XR是Kenwood公司的一款车载信息娱乐系统。Kenwood DMX958XR存在命令注入漏洞，攻击者可利用该漏洞在root上下文中执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-8636",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.kenwood.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-18",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "8f39647ccdd988350b509f84642c3c9e"
+}

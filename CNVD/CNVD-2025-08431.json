@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:52:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08431",
+    "spider_time": 1767156731082,
+    "name": "Dell Unity URL重定向漏洞",
+    "cnvd": "CNVD-2025-08431",
+    "publish": "2025-04-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"DELL Dell Unity <=5.4\"]",
+    "cve": "CVE-2025-24381",
+    "description": "Dell Unity是Dell EMC推出的一款中端存储阵列软件，主要用于数据存储和管理。Dell Unity存在URL重定向漏洞，该漏洞源于URL重定向到不可信站点，可能导致钓鱼攻击。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-24381",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-us/000300090/dsa-2025-116-security-update-for-dell-unity-dell-unityvsa-and-dell-unity-xt-security-update-for-multiple-vulnerabilities",
+    "patch": "Dell Unity URL重定向漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-31",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "81950a6e22375b2f716e0edf40af86aa"
+}

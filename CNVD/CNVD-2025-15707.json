@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:35:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15707",
+    "spider_time": 1767159349889,
+    "name": "Apache InLong反序列化漏洞（CNVD-2025-15707）",
+    "cnvd": "CNVD-2025-15707",
+    "publish": "2025-07-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apache InLong >=1.13.0，<2.1.0\"]",
+    "cve": "CVE-2025-27531",
+    "description": "Apache InLong是美国阿帕奇（Apache）基金会的一站式的海量数据集成框架。提供自动化、安全、可靠的数据传输能力。Apache InLong 1.13.0至2.1.0之前版本存在反序列化漏洞，该漏洞源于应用程序在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞导致任意文件读取。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2025/02/28/2",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://inlong.apache.org/versions/",
+    "patch": "Apache InLong反序列化漏洞（CNVD-2025-15707）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-23",
+    "open_time": "2025-07-15",
+    "update_time": "2025-07-15",
+    "data_summary": "d297ccc2255761a093a986d5df4d6276"
+}

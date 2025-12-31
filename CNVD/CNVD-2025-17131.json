@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:50:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17131",
+    "spider_time": 1767160216606,
+    "name": "Adobe InDesign缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-17131",
+    "publish": "2025-07-28",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Adobe InDesign <=19.0\", \"Adobe InDesign <=20.0\"]",
+    "cve": "CVE-2024-49529",
+    "description": "Adobe InDesign是Adobe公司的一个桌面出版程序，主要用于各种印刷品的排版编辑。Adobe InDesign存在缓冲区溢出漏洞，该漏洞源于存在越界读取问题，攻击者可利用该漏洞导致敏感内存泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-49529",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/indesign/apsb24-91.html",
+    "patch": "Adobe InDesign缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-28",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "57d9ffe27e2cdaaa9e59ea68dd10e06e"
+}

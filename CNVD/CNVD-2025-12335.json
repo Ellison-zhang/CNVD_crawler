@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:11:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12335",
+    "spider_time": 1767157893716,
+    "name": "Adobe After Effects越界写入漏洞（CNVD-2025-12335）",
+    "cnvd": "CNVD-2025-12335",
+    "publish": "2025-06-10",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Adobe After Effects <=24.6.4\", \"Adobe Adobe After Effects 25.1\"]",
+    "cve": "CVE-2025-27183",
+    "description": "Adobe After Effects是一款用于创建动态图形、视觉效果和动态影像的专业软件。Adobe After Effects中存在越界写入漏洞。该漏洞源于程序未能正确处理内存边界，导致在分配的内存缓冲区之外写入数据。攻击者可以利用该漏洞在当前用户的上下文中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-27183",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://helpx.adobe.com/security/products/after_effects/apsb25-23.html",
+    "patch": "Adobe After Effects越界写入漏洞（CNVD-2025-12335）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-11",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "d5424bbf094924c2df2ca53e4e46ecae"
+}

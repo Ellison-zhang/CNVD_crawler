@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:16:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-27892",
+    "spider_time": 1767150978201,
+    "name": "SAP PDFViewer存在未明漏洞（CNVD-2024-27892）",
+    "cnvd": "CNVD-2024-27892",
+    "publish": "2024-06-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"SAP SAP PDFViewer\"]",
+    "cve": "CVE-2024-33007",
+    "description": "SAP PDFViewer是美国思爱普（SAP）公司的一个PDF查看器。SAP PDFViewer存在安全漏洞，该漏洞源于如果PDF文档包含嵌入的JavaScript，PDFViewer将执行PDF中嵌入的JavaScript，可能会导致潜在的安全威胁。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://me.sap.com/notes/3446076",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2024.html",
+    "patch": "SAP PDFViewer存在未明漏洞（CNVD-2024-27892）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-14",
+    "open_time": "2024-06-19",
+    "update_time": "2024-06-19",
+    "data_summary": "485b520dba9f9a45ee867ea11a1a945d"
+}

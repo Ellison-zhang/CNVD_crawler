@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:13:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-26506",
+    "spider_time": 1767150801021,
+    "name": "Fortinet FortiNAC访问控制错误漏洞（CNVD-2024-26506）",
+    "cnvd": "CNVD-2024-26506",
+    "publish": "2024-06-06",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Fortinet FortiNAC 8.3.7\", \"Fortinet FortiNAC >=8.7.0，<=8.7.6\", \"Fortinet FortiNAC >=8.8.0，<=8.8.11\", \"Fortinet FortiNAC 9.4.0\", \"Fortinet FortiNAC >=9.2.0，<=9.2.5\", \"Fortinet FortiNAC >=8.6.0，<=8.6.5\", \"Fortinet FortiNAC >=8.5.0，<=8.5.4\", \"Fortinet FortiNAC >=9.1.0，<=9.1.7\"]",
+    "cve": "CVE-2022-40678",
+    "description": "Fortinet FortiNAC是美国飞塔（Fortinet）公司的一套网络访问控制解决方案。该产品主要用于网络访问控制和物联网安全防护。Fortinet FortiNAC存在访问控制错误漏洞，该漏洞源于凭据保护不足。有权访问数据库的攻击者可利用该漏洞恢复密码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-40678",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.com/psirt/FG-IR-22-265",
+    "patch": "Fortinet FortiNAC访问控制错误漏洞（CNVD-2024-26506）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-02-20",
+    "open_time": "2024-06-11",
+    "update_time": "2024-06-11",
+    "data_summary": "b2b576d65a2601844fa68087e7cf6809"
+}

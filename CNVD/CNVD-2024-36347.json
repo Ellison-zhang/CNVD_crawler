@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:01:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-36347",
+    "spider_time": 1767146487543,
+    "name": "SAP CRM跨站脚本漏洞（CNVD-2024-36347）",
+    "cnvd": "CNVD-2024-36347",
+    "publish": "2024-08-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"SAP SAP CRM\"]",
+    "cve": "CVE-2024-37174",
+    "description": "SAP CRM是德国思爱普（SAP）公司的一个客户关系管理系统。SAP CRM存在跨站脚本漏洞，该漏洞源于自定义CSS支持选项没有充分编码用户控制的输入，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-37174",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://me.sap.com/notes/3467377",
+    "patch": "SAP CRM跨站脚本漏洞（CNVD-2024-36347）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-19",
+    "open_time": "2024-08-23",
+    "update_time": "2024-08-23",
+    "data_summary": "5b4f4e932f7a32b9782fefe29793777e"
+}

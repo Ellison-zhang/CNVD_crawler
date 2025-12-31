@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:47:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05993",
+    "spider_time": 1767156428892,
+    "name": "SAP NetWeaver Application Server ABAP跨站脚本漏洞",
+    "cnvd": "CNVD-2025-05993",
+    "publish": "2025-03-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"SAP Netweaver Application Server ABAP\"]",
+    "cve": "CVE-2025-25242",
+    "description": "SAP NetWeaver Application Server ABAP是SAP公司的一款应用服务器，用于运行ABAP应用程序。SAP NetWeaver Application Server ABAP中存在跨站脚本漏洞，该漏洞源于允许恶意脚本在应用程序中执行。攻击者可以利用该漏洞执行恶意脚本，对应用程序的机密性和完整性造成一定的影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://me.sap.com/notes/3562390\nhttps://url.sap/sapsecuritypatchday",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://sap.com/",
+    "patch": "SAP NetWeaver Application Server ABAP跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-14",
+    "open_time": "2025-03-27",
+    "update_time": "2025-03-27",
+    "data_summary": "592469c8dca03c515f3991dcbda7e0af"
+}

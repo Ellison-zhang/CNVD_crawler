@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:10:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20432",
+    "spider_time": 1767165056738,
+    "name": "Emby Server跨站脚本漏洞",
+    "cnvd": "CNVD-2025-20432",
+    "publish": "2025-09-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"Emby Server Emby Server 4.7.13.0\"]",
+    "cve": "CVE-2023-4167",
+    "description": "Emby Server是一款个人媒体服务器软件，支持存储、管理和流化个人媒体内容，支持多种设备访问。Emby Server存在跨站脚本漏洞。该漏洞源于文件/web/的一些未知处理，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.236183\nhttps://github.com/whoamiecho/vuls/blob/main/emby.md\nhttps://vuldb.com/?ctiid.236183\nhttps://cxsecurity.com/cveshow/CVE-2023-4167/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://github.com/MediaBrowser/Emby.Releases/releases/download/4.7.13.0/embyserver-win-x64-4.7.13.0.7z",
+    "patch": "Emby Server跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-08-10",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "4c45d5413da263ae9dfe0d2174c728b9"
+}

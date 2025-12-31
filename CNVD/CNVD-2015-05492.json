@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:07:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2015-05492",
+    "spider_time": 1767146837133,
+    "name": "Drupal Navigate模块跨站脚本漏洞（CNVD-2015-05492）",
+    "cnvd": "CNVD-2015-05492",
+    "publish": "2015-08-24",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:M/Au:S/C:N/I:P/A:N",
+    "product": "[\"Drupal Navigate Module\"]",
+    "cve": "CVE-2015-5500",
+    "description": "Drupal是Drupal社区所维护的一套用PHP语言开发的免费、开源的内容管理系统。Navigate是其中的一个支持快速部署的可定制导航模块。Drupal Navigate模块中存在跨站脚本漏洞。远程攻击者可利用该漏洞以特定的权限注入任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2015/07/04/4",
+    "solution": "目前没有详细的解决方案提供：\nhttps://www.drupal.org/project/navigate",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2015-08-19",
+    "open_time": "2015-08-24",
+    "update_time": "2015-08-24",
+    "data_summary": "d2a7d4c13c9cd1baa492375c22ed3a22"
+}

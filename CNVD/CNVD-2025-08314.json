@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:49:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08314",
+    "spider_time": 1767170969859,
+    "name": "SAP S/4HANA存在未明漏洞（CNVD-2025-08314）",
+    "cnvd": "CNVD-2025-08314",
+    "publish": "2025-04-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"SAP SAP S/4HANA\"]",
+    "cve": "CVE-2025-23188",
+    "description": "SAP S/4HANA是德国思爱普（SAP）公司的一个基于SAP HANA内存数据库系统的的企业资源管理软件。SAP S/4HANA存在安全漏洞，该漏洞源于缺少授权检查，攻击者可利用该漏洞未经授权访问敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-23188",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/march-2025.html",
+    "patch": "SAP S/4HANA存在未明漏洞（CNVD-2025-08314）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-04-25",
+    "update_time": "2025-04-25",
+    "data_summary": "07dbaee3f061a0e36e7c33d88c335add"
+}

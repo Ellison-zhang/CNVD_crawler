@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:31:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14982",
+    "spider_time": 1767159090537,
+    "name": "SONY XAV-AX5500栈缓冲区溢出漏洞（CNVD-2025-14982）",
+    "cnvd": "CNVD-2025-14982",
+    "publish": "2025-07-01",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"SONY XAV-AX5500\"]",
+    "cve": "CVE-2024-23933",
+    "description": "SONY XAV-AX5500是一款7英寸车载中控设备，具有多种功能和先进的技术特点。SONY XAV-AX5500存在栈缓冲区溢出漏洞，该漏洞源于Apple CarPlay协议的实现中，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-24-877/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.sony.com/electronics/support/mobile-cd-players-digital-media-players-xav-series/xav-ax5500/software/00274156",
+    "patch": "SONY XAV-AX5500栈缓冲区溢出漏洞（CNVD-2025-14982）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-01",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "94ae8da58347c7c824beacb74ba7bcb3"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 17:00:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19559",
+    "spider_time": 1767171611811,
+    "name": "Mozilla Firefox for Android安全绕过漏洞（CNVD-2025-19559）",
+    "cnvd": "CNVD-2025-19559",
+    "publish": "2025-08-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Mozilla Firefox for android <141\"]",
+    "cve": "CVE-2025-8041",
+    "description": "Mozilla Firefox for Android是美国Mozilla基金会的一款针对Android设备设计的网页浏览器。Mozilla Firefox for Android 141之前版本存在安全绕过漏洞，该漏洞源于地址栏URL显示截断方式不当，攻击者可利用该漏洞绕过安全限制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.mozilla.org/show_bug.cgi?id=1670725",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2025-56/",
+    "patch": "Mozilla Firefox for Android安全绕过漏洞（CNVD-2025-19559）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-26",
+    "open_time": "2025-08-28",
+    "update_time": "2025-08-28",
+    "data_summary": "a587bce639091168931a590b44af24d4"
+}

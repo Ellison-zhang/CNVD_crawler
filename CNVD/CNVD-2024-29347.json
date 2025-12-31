@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:23:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-29347",
+    "spider_time": 1767151425681,
+    "name": "Dell Display Manager特权管理不当漏洞",
+    "cnvd": "CNVD-2024-29347",
+    "publish": "2024-06-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL display manager 2.1.1.17\"]",
+    "cve": "CVE-2023-32451",
+    "description": "Dell Display Manager是美国戴尔（Dell）公司的一个Windows应用程序。用于管理一个显示器或一组显示器。Dell Display Manager 2.1.1.17版本存在特权管理不当漏洞。攻击者可利用该漏洞在安装和卸载过程中执行恶意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-32451",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000215216/dsa-2023-182-dell",
+    "patch": "Dell Display Manager特权管理不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-02-22",
+    "open_time": "2024-06-26",
+    "update_time": "2024-06-26",
+    "data_summary": "5f61a1c6d9716ebd928556b80634dc52"
+}

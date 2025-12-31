@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:56:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-23288",
+    "spider_time": 1767149793101,
+    "name": "IBM FileNet Content Manager权限许可和访问控制问题漏洞",
+    "cnvd": "CNVD-2024-23288",
+    "publish": "2024-05-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"IBM FileNet Content Manager 5.5.10.0\", \"IBM FileNet Content Manager 5.5.11.0\", \"IBM FileNet Content Manager 5.5.8.0\", \"IBM CP4BA-Filenet Content Manager 21.0.3\", \"IBM CP4BA-Filenet Content Manager 23.0.1\"]",
+    "cve": "CVE-2023-47716",
+    "description": "IBM FileNet Content Manager是美国国际商业机器（IBM）公司的一套针对FileNet P8平台的内容管理解决方案。该方案将文档管理与即用型工作流程工具相结合，可管理图像、视频、Web内容、合规性文档等。IBM FileNet Content Manager存在权限许可和访问控制问题漏洞，攻击者可利用该漏洞在特定情况下获取其他用户的授权权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://exchange.xforce.ibmcloud.com/vulnerabilities/271656",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7078780",
+    "patch": "IBM FileNet Content Manager权限许可和访问控制问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-05",
+    "open_time": "2024-05-20",
+    "update_time": "2024-05-20",
+    "data_summary": "d1065d2ae4f81cc5084df81d21cf2360"
+}

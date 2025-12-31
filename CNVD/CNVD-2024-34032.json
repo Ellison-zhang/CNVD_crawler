@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:38:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-34032",
+    "spider_time": 1767170325669,
+    "name": "LG Simple Editor本地权限提升漏洞",
+    "cnvd": "CNVD-2024-34032",
+    "publish": "2024-07-30",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"LG Simple Editor\"]",
+    "cve": "CVE-2023-40516",
+    "description": "LG Simple Editor是韩国乐金（LG）公司的一个简易编辑器，通过简化流程和在标牌上即时播放来创建新内容。LG Simple Editor存在本地权限提升漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-40516",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.lg.com/global/business/lg-simple-editor",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-19",
+    "open_time": "2024-07-31",
+    "update_time": "2024-07-31",
+    "data_summary": "14317a9a451278415b94822242b97810"
+}

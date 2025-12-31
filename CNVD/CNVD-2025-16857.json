@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:41:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16857",
+    "spider_time": 1767159669487,
+    "name": "Tenda AC500栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16857",
+    "publish": "2025-07-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC500 2.0.1.9(1307)\"]",
+    "cve": "CVE-2025-7586",
+    "description": "Tenda AC500是腾达推出的无线控制器设备，专为中小型企业设计，支持跨VLAN管理无线网络。Tenda AC500存在栈缓冲区溢出漏洞，该漏洞源于文件/goform/setWtpData中参数radio_2g_1未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/panda666-888/vuls/blob/main/tenda/ac500/formSetAPCfg.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-25",
+    "update_time": "2025-07-25",
+    "data_summary": "1d82105e30054ef9da958bc8487c594e"
+}

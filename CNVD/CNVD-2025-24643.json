@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 09:57:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24643",
+    "spider_time": 1767146235258,
+    "name": "DataEase SQL注入漏洞",
+    "cnvd": "CNVD-2025-24643",
+    "publish": "2025-10-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"DataEase DataEase <2.10.14\"]",
+    "cve": "CVE-2025-62422",
+    "description": "DataEase是一套基于Java开发的开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化。DataEase /de2api/datasetData/tableField处理tableName参数存在SQL注入漏洞，该漏洞源于提交的SQL语句过滤不当，远程攻击者可利用该漏洞非法操作数据库、窃取敏感数据或破坏数据完整性等。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/dataease/dataease/security/advisories/GHSA-54m5-xrw4-mv36",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttps://github.com/dataease/dataease/releases/tag/v2.10.14",
+    "patch": "DataEase SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-20",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "e6cba4d45ac3cc4595bf2480b6599819"
+}

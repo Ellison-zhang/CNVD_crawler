@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:18:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2017-10572",
+    "spider_time": 1767147521396,
+    "name": "Linux kernel本地拒绝服务漏洞（CNVD-2017-10572）",
+    "cnvd": "CNVD-2017-10572",
+    "publish": "2017-06-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Linux Linux kernel <=4.11.2\"]",
+    "cve": "CVE-2017-9211",
+    "description": "Linux kernel是美国Linux基金会发布的操作系统Linux所使用的内核。Linux kernel 4.11.2及之前的的版本中的crypto/skcipher.c文件的‘crypto_skcipher_init_tfm’函数存在安全漏洞。本地攻击者可借助特制的应用程序利用该漏洞造成拒绝服务（空指针逆向引用）。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.securityfocus.com/bid/98618\nhttps://nvd.nist.gov/vuln/detail/CVE-2017-9211",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://bugzilla.redhat.com/show_bug.cgi?id=1454757",
+    "patch": "Linux kernel本地拒绝服务漏洞（CNVD-2017-10572）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2017-05-24",
+    "open_time": "2017-06-22",
+    "update_time": "2017-05-24",
+    "data_summary": "5abe6eb83287c6c75d2b22442bd9dd8c"
+}

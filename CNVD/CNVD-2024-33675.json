@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:58:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33675",
+    "spider_time": 1767153491461,
+    "name": "RockOA跨站脚本漏洞（CNVD-2024-33675）",
+    "cnvd": "CNVD-2024-33675",
+    "publish": "2024-07-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"信呼 RockOA 2.6.3\"]",
+    "cve": "CVE-2024-6939",
+    "description": "RockOA（信呼）是一套开源的办公OA系统。RockOA 2.6.3存在跨站脚本漏洞，该漏洞源于 /webmain/public/upload/tpl_upload.html 文件中的 callback参数包含跨站脚本。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.271994\nhttps://vuldb.com/?ctiid.271994\nhttps://vuldb.com/?submit.372744\nhttps://github.com/rainrocka/xinhu/issues/7",
+    "solution": "目前没有详细的解决方案提供：\nhttp://www.rockoa.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-23",
+    "open_time": "2024-07-26",
+    "update_time": "2024-07-26",
+    "data_summary": "6f6b7cde9ef81d934df400b3349a53b9"
+}

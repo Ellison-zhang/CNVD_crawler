@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:48:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07533",
+    "spider_time": 1767156528981,
+    "name": "Tenda FH1202访问控制不当漏洞（CNVD-2025-07533）",
+    "cnvd": "CNVD-2025-07533",
+    "publish": "2025-04-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Shenzhen Tenda Technology Co.,Ltd. FH1202 1.2.0.14(408)\"]",
+    "cve": "CVE-2025-2991",
+    "description": "Tenda FH1202是中国腾达公司的一款无线路由器。Tenda FH1202中存在访问控制不当漏洞。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-2991",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-07",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "09d3f82069155965e59dc0ee85a744e9"
+}

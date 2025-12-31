@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:58:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11083",
+    "spider_time": 1767157110058,
+    "name": "Mattermost信息泄露漏洞（CNVD-2025-11083）",
+    "cnvd": "CNVD-2025-11083",
+    "publish": "2025-05-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"Mattermost Mattermost >=10.5.x，<=10.5.1\", \"Mattermost Mattermost >=10.4.x，<=10.4.3\", \"Mattermost Mattermost >=9.11.x，<=9.11.9\"]",
+    "cve": "CVE-2025-27571",
+    "description": "Mattermost是美国Mattermost公司的一个开源协作平台。Mattermost存在信息泄露漏洞，攻击者可利用该漏洞获取归档频道中的敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://mattermost.com/security-updates",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/download/",
+    "patch": "Mattermost信息泄露漏洞（CNVD-2025-11083）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "fa5f9ecf8a7b8f7b791302db93192235"
+}

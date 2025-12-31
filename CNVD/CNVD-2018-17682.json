@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:21:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2018-17682",
+    "spider_time": 1767147674682,
+    "name": "Cisco多款路由器管理接口缓冲区溢出漏洞",
+    "cnvd": "CNVD-2018-17682",
+    "publish": "2018-09-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Cisco RV110W Wireless-N VPN Firewall firmware\", \"Cisco RV130W Wireless-N Multifunction VPN Router\", \"Cisco RV215W Wireless-N VPN Router\"]",
+    "cve": "CVE-2018-0423",
+    "description": "Cisco RV110W、RV130W和RV215W均为思科公司路由器产品。Cisco多款路由器管理接口存在缓冲区溢出漏洞，该漏洞是由于基于Web的管理界面的Guest用户功能中对用户提供的输入的边界限制不当造成的。攻击者可以通过向目标设备发送恶意请求来利用此漏洞，从而触发缓冲区溢出情况。成功利用可能允许攻击者使设备停止响应，导致拒绝服务条件，或者允许攻击者执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180905-rv-routers-overflow",
+    "solution": "目前没有详细的解决方案提供：\nhttps://www.cisco.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2018-09-06",
+    "open_time": "2018-09-06",
+    "update_time": "2018-09-06",
+    "data_summary": "8c0da9710376b9720a20a0bcad5c0fbb"
+}

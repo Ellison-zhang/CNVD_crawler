@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:35:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20924",
+    "spider_time": 1767166504738,
+    "name": "Beauty Parlour Management System search-appointment.php跨站脚本漏洞",
+    "cnvd": "CNVD-2025-20924",
+    "publish": "2025-09-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"Beauty Parlour Management System Beauty Parlour Management System 1.0\"]",
+    "cve": "CVE-2024-37798",
+    "description": "Beauty Parlour Management System是一个是用于规范美容院经营流程、提升管理效率的软件系统。Beauty Parlour Management System存在跨站脚本漏洞，该漏洞源于Admin Panel的search-appointment.php存在跨站脚本漏洞，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://owasp.org/www-community/attacks/xss/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-21",
+    "open_time": "2025-09-10",
+    "update_time": "2025-09-10",
+    "data_summary": "34af5155e788a8a747d79ee22b57613a"
+}

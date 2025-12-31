@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:23:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14807",
+    "spider_time": 1767158625901,
+    "name": "SAP Business One Integration Framework访问控制错误漏洞",
+    "cnvd": "CNVD-2025-14807",
+    "publish": "2025-06-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"SAP SAP Business One Integration Framework\"]",
+    "cve": "CVE-2025-42998",
+    "description": "SAP Business One Integration Framework是一个为成长型企业提供的集成解决方案。SAP Business One Integration Framework存在访问控制错误漏洞，该漏洞源于安全设置检查不足，攻击者可利用该漏洞导致绕过403错误访问受限页面。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://me.sap.com/notes/3594258",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.sap.com/index.html",
+    "patch": "SAP Business One Integration Framework访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-23",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "afb50c1a996aeb1a825e785b6672fd7c"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:28:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20551",
+    "spider_time": 1767166081928,
+    "name": "Tenda AC7 formSetCfm方法缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-20551",
+    "publish": "2025-09-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda Ac7 Firmware 15.03.06.44\"]",
+    "cve": "CVE-2024-2892",
+    "description": "Tenda AC7是腾达科技推出的一款专为大户型设计的1200M双频无线路由器，采用802.11ac标准，支持双频并发传输，无线速率可达1167Mbps。Tenda AC7存在缓冲区溢出漏洞，该漏洞源于formSetCfm方法的funcpara1参数存在缓冲区溢出漏洞。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.257935\nhttps://vuldb.com/?ctiid.257935\nhttps://vuldb.com/?submit.300355\nhttps://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/AC7/v1/formSetCfm.md\nhttps://cxsecurity.com/cveshow/CVE-2024-2892/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-2776.html",
+    "patch": "Tenda AC7 formSetCfm方法缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-28",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "549e7e0e1757ffc49a79d1c0e63704fa"
+}

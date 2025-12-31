@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:29:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2020-14817",
+    "spider_time": 1767148148163,
+    "name": "Cisco Firepower 4100 Series和Firepower 9300 Security Appliances FXOS Software操作系统命令注入漏洞（CNVD-2020-14817）",
+    "cnvd": "CNVD-2020-14817",
+    "publish": "2020-03-01",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Cisco Firepower 4100 Series\", \"Cisco Firepower 9300 Security Appliances\"]",
+    "cve": "CVE-2020-3169",
+    "description": "Cisco Firepower 4100 Series和Cisco Firepower 9300 Security Appliance都是美国思科（Cisco）公司的产品。Cisco Firepower 9300 Security Appliance是一款9300系列的安全设备。Cisco FXOS Software是一套运行在思科安全设备中的防火墙软件。Cisco Firepower 9300 Security Appliance是一款9300系列的安全设备。Cisco Firepower 4100 Series是一款4100系列的防火墙设备。Cisco Firepower 4100 Series和Firepower 9300 Security Appliances中的FXOS Software的CLI存在操作系统命令注入漏洞，该漏洞源于程序未能充分验证发送到CLI命令的参数。本地攻击者可借助恶意输入利用该漏洞在底层的Linux操作系统上以root权限执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2020-3169",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20200226-fpwr-cmdinj",
+    "patch": "Cisco Firepower 4100 Series和Firepower 9300 Security Appliances FXOS Software操作系统命令注入漏洞（CNVD-2020-14817）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2020-02-28",
+    "open_time": "2020-03-02",
+    "update_time": "2020-03-02",
+    "data_summary": "b5d1d06f090e3ebb23ccfd5a2c2ebb9d"
+}

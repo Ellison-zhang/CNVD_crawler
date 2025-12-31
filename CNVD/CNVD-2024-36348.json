@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:44:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-36348",
+    "spider_time": 1767170686152,
+    "name": "SAP CRM授权问题漏洞",
+    "cnvd": "CNVD-2024-36348",
+    "publish": "2024-08-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"SAP SAP CRM\"]",
+    "cve": "CVE-2024-37175",
+    "description": "SAP CRM是德国思爱普（SAP）公司的一个客户关系管理系统。SAP CRM存在授权问题漏洞，该漏洞源于没有对经过身份验证的用户执行必要的授权检查，攻击者可利用该漏洞导致权限升级，访问一些敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-37175",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://me.sap.com/notes/3467377",
+    "patch": "SAP CRM授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-19",
+    "open_time": "2024-08-23",
+    "update_time": "2024-08-23",
+    "data_summary": "d38d136936751ca7f3e1d4588fec8855"
+}

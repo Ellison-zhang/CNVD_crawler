@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:41:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35162",
+    "spider_time": 1767170508784,
+    "name": "WonderCMS服务端请求伪造漏洞",
+    "cnvd": "CNVD-2024-35162",
+    "publish": "2024-08-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"WonderCMS WonderCMS 3.4.3\"]",
+    "cve": "CVE-2024-41305",
+    "description": "WonderCMS是WonderCMS公司的一套基于PHP的开源内容管理系统（CMS）。WonderCMS 3.4.3版本存在服务端请求伪造漏洞，该漏洞源于Plugins Page中未能正确验证用户输入，攻击者可利用该漏洞通过向pluginThemeUrl参数注入精心设计的URL来强制应用程序发出任意请求。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-41305/",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://nvd.nist.gov/vuln/detail/CVE-2024-41305",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-02",
+    "open_time": "2024-08-13",
+    "update_time": "2024-08-13",
+    "data_summary": "f4d9e4818ff186bf9df30abe73e37082"
+}

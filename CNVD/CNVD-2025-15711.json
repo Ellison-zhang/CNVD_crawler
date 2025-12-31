@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 17:24:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15711",
+    "spider_time": 1767173081127,
+    "name": "Tenda FH1205缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-15711",
+    "publish": "2025-07-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda FH1205 2.0.0.7\"]",
+    "cve": "CVE-2025-6112",
+    "description": "tenda FH1205是一款面向家庭用户的双频无线路由器，具有较高的性价比和稳定的网络性能。Tenda FH1205 2.0.0.7版本中存在缓冲区溢出漏洞。该漏洞影响/goform/AdvSetLanip文件中 fromadvsetlanip函数，攻击者可利用该漏洞通过操纵参数lanMask可以触发缓冲区溢出。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6112",
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新:\nhttps://lavender-bicycle-a5a.notion.site/Tenda-FH1205-fromadvsetlanip-20b53a41781f80bf850ff39f88ad7f2b?source=copy_link",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-20",
+    "open_time": "2025-07-15",
+    "update_time": "2025-07-15",
+    "data_summary": "b436d471c719d58ff7ecd5551fe2bbb8"
+}

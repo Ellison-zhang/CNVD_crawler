@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:47:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06484",
+    "spider_time": 1767156459289,
+    "name": "Apple GarageBand存在未明漏洞（CNVD-2025-06484）",
+    "cnvd": "CNVD-2025-06484",
+    "publish": "2025-03-26",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apple GarageBand 10.4.12\"]",
+    "cve": "CVE-2024-44142",
+    "description": "Apple GarageBand是美国苹果（Apple）公司的一个应用软件。Apple GarageBand存在未明漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-44142",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.apple.com/en-us/121866",
+    "patch": "Apple GarageBand存在未明漏洞（CNVD-2025-06484）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-04-03",
+    "update_time": "2025-04-03",
+    "data_summary": "7594a56701d32d0441276e80a39ec1d2"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:38:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15800",
+    "spider_time": 1767159490298,
+    "name": "Cisco IOS XR拒绝服务漏洞（CNVD-2025-15800）",
+    "cnvd": "CNVD-2025-15800",
+    "publish": "2025-07-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Cisco Cisco IOS XR\"]",
+    "cve": "CVE-2025-20209",
+    "description": "Cisco IOS XR是美国Cisco公司为其网络设备开发的操作系统。Cisco IOS XR中存在拒绝服务漏洞。该漏洞源于对畸形IKEv2数据包的错误处理。攻击者可以利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://blog.apnic.net/2024/09/02/crafting-endless-as-paths-in-bgp/\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-xrike-9wYGpRGq",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.cisco.com",
+    "patch": "Cisco IOS XR拒绝服务漏洞（CNVD-2025-15800）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-20",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "ff1870f87a0d4594abd1c6ccb47b2741"
+}

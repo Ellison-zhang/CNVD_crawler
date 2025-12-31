@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:45:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-36745",
+    "spider_time": 1767170744753,
+    "name": "IBM InfoSphere Information Server信息泄露漏洞（CNVD-2024-36745）",
+    "cnvd": "CNVD-2024-36745",
+    "publish": "2024-08-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"IBM IBM InfoSphere Information Server 11.7\"]",
+    "cve": "CVE-2024-39751",
+    "description": "IBM InfoSphere Information Server是美国国际商业机器（IBM）公司的一套数据整合平台。该平台可用于整合各种渠道获取的数据信息。IBM InfoSphere Information Server 11.7版本存在信息泄露漏洞，该漏洞源于当浏览器中返回详细的技术错误消息时，远程攻击者可利用此漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-39751",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7160580",
+    "patch": "IBM InfoSphere Information Server信息泄露漏洞（CNVD-2024-36745）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-14",
+    "open_time": "2024-08-28",
+    "update_time": "2024-08-28",
+    "data_summary": "dd7809341ef35134be96bf5136b9f070"
+}

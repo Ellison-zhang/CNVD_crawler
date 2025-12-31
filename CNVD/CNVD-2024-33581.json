@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:54:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33581",
+    "spider_time": 1767153241311,
+    "name": "PDF-XChange Editor越界读取漏洞（CNVD-2024-33581）",
+    "cnvd": "CNVD-2024-33581",
+    "publish": "2024-07-24",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"PDF-XChange PDF-XChange Editor\"]",
+    "cve": "CVE-2023-42042",
+    "description": "PDF-XChange Editor是PDF-XChange公司的一个运行在Microsoft Windows系统中的PDF文件查看软件。PDF-XChange Editor存在越界读取漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-42042",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.pdf-xchange.com/product/downloads",
+    "patch": "PDF-XChange Editor越界读取漏洞（CNVD-2024-33581）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-19",
+    "open_time": "2024-07-25",
+    "update_time": "2024-07-25",
+    "data_summary": "160bafe0bfda880ac89dd933c4a263c2"
+}

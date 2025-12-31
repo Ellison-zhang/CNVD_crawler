@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:32:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33277",
+    "spider_time": 1767169968767,
+    "name": "Sentrifugo agencyids参数SQL注入漏洞",
+    "cnvd": "CNVD-2024-33277",
+    "publish": "2024-07-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Sentrifugo Sentrifugo 3.2\"]",
+    "cve": "CVE-2024-29872",
+    "description": "Sentrifugo是一套人力资源管理系统。该系统包括人力资源管理、绩效考核、招聘管理和资产管理等功能。Sentrifugo 3.2版本存在SQL注入漏洞，该漏洞源于/sentrifugo/index.php/empscreening/add文件的agencyids参数缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-29872",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttp://www.sentrifugo.com/",
+    "patch": "Sentrifugo agencyids参数SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-26",
+    "open_time": "2024-07-19",
+    "update_time": "2024-07-19",
+    "data_summary": "e027fce704ac7fd6d8bfebbf1fb2e965"
+}

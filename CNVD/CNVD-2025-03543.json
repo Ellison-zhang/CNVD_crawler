@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:45:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03543",
+    "spider_time": 1767156336123,
+    "name": "Apache Traffic Control SQL注入漏洞",
+    "cnvd": "CNVD-2025-03543",
+    "publish": "2025-02-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Apache Traffic Control >=8.0.0，<8.0.2\"]",
+    "cve": "CVE-2024-45387",
+    "description": "Apache Traffic Control是美国阿帕奇（Apache）基金会的一套分布式、可扩展的内容分发解决方案。该产品主要用于构建大规模内容分发网络。Apache Traffic Control存在SQL注入漏洞，该漏洞源于Traffic Ops缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-45387",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/t38nk5n7t8w3pb66z7z4pqfzt4443trr",
+    "patch": "Apache Traffic Control SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-25",
+    "open_time": "2025-02-24",
+    "update_time": "2025-02-24",
+    "data_summary": "9840946dfc1aa2aa16efa6708a02c673"
+}

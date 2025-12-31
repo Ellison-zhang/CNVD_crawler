@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:55:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33596",
+    "spider_time": 1767153314813,
+    "name": "Apache Linkis代码问题漏洞",
+    "cnvd": "CNVD-2024-33596",
+    "publish": "2024-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Apache linkis <1.6.0\"]",
+    "cve": "CVE-2023-46801",
+    "description": "Apache Linkis是美国阿帕奇（Apache）基金会的一款中间件产品，可以在上层应用和底层数据引擎之间建立起有效的连接。Apache Linkis 1.6.0之前版本存在代码问题漏洞，该漏洞源于数据源管理模块在添加Mysql数据源时存在远程代码执行漏洞，攻击者可利用该漏洞将恶意文件注入服务器并执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2023-46801/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/0dnzh64xy1n7qo3rgo2loz9zn7m9xgdx",
+    "patch": "Apache Linkis代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-17",
+    "open_time": "2024-07-25",
+    "update_time": "2024-07-25",
+    "data_summary": "4b44634fb158a6d3d44ceb76224dcc3f"
+}

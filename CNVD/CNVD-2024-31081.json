@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:40:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-31081",
+    "spider_time": 1767152405085,
+    "name": "Huawei HarmonyOS和EMUI WMS模块业务逻辑错误漏洞",
+    "cnvd": "CNVD-2024-31081",
+    "publish": "2024-07-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"Huawei HarmonyOS 3.0.0\", \"Huawei HarmonyOS 3.1.0\", \"Huawei EMUI 13.0.0\"]",
+    "cve": "CVE-2023-52378",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei EMUI是华为公司开发的一种基于Android操作系统的用户界面。Huawei HarmonyOS和EMUI WMS模块存在业务逻辑错误漏洞，攻击者可利用该漏洞导致功能异常。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-52378",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/cn/support/bulletin/2024/2/\nhttps://device.harmonyos.com/cn/docs/security/update/security-bulletins-202402-0000001834855405",
+    "patch": "Huawei HarmonyOS和EMUI WMS模块业务逻辑错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-01",
+    "open_time": "2024-07-09",
+    "update_time": "2024-07-09",
+    "data_summary": "1bb53c00c6942c13382aa6eb19a251cb"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:19:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2022-82265",
+    "spider_time": 1767169170616,
+    "name": "Wordpress Plugin IP2Location Country Blocker跨站请求伪造漏洞",
+    "cnvd": "CNVD-2022-82265",
+    "publish": "2022-11-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:N/I:P/A:P",
+    "product": "[\"WordPress IP2Location Country Blocker <2.26.6\"]",
+    "cve": "CVE-2021-25108",
+    "description": "WordPress是Wordpress基金会的一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是WordPress开源的一个应用插件。Wordpress Plugin IP2Location Country Blocker 中存在跨站请求伪造漏洞，该漏洞源于产品的ip2location_country_blocker_save_rules链接未对用户身份做有效验证。攻击者可利用该漏洞向服务端发送非预期的请求。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2021-25108",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wpscan.com/vulnerability/9d416ca3-bd02-4fcf-b3b8-f2f2280d02d2",
+    "patch": "Wordpress Plugin IP2Location Country Blocker跨站请求伪造漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2022-03-31",
+    "open_time": "2022-11-29",
+    "update_time": "2022-11-29",
+    "data_summary": "142be7bc386bc4aedeeed75963f6b8ed"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:15:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-47376",
+    "spider_time": 1767168935150,
+    "name": "101应用软件存在未明漏洞（CNVD-2021-47376）",
+    "cnvd": "CNVD-2021-47376",
+    "publish": "2021-07-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"101 101 >=1.0.0，<=1.6.3\"]",
+    "cve": "CVE-2021-25943",
+    "description": "101是一个应用软件。提供一个一个JS util库。101 1.0.0版本至1.6.3版本存在安全漏洞，攻击者可利用该漏洞导致拒绝服务并可能导致远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.whitesourcesoftware.com/vulnerability-database/CVE-2021-25943",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://github.com/tjmehta/101/blob/d87f63ce2a4cbdc476e8287abd78327c3144d646/set.js#L52",
+    "patch": "101应用软件存在未明漏洞（CNVD-2021-47376）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-07-01",
+    "open_time": "2021-07-05",
+    "update_time": "2021-07-05",
+    "data_summary": "ac236bd319f89f922409dac7fc827a06"
+}

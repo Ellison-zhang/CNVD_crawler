@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:24:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2019-31847",
+    "spider_time": 1767147854492,
+    "name": "Microsoft Windows和Microsoft Windows Server提权漏洞（CNVD-2019-31847）",
+    "cnvd": "CNVD-2019-31847",
+    "publish": "2019-09-18",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Windows Server 2008 R2 SP1\", \"Microsoft Windows Server 2008 SP2\", \"Microsoft Windows 7 SP1\", \"Microsoft Windows Windows Server 2012\", \"Microsoft Windows 8.1\", \"Microsoft Windows RT 8.1 SP0\", \"Microsoft Windows Server 2012 R2\", \"Microsoft Windows 10\", \"Microsoft Windows 10 1607\", \"Microsoft Windows Server 2016\", \"Microsoft Windows Server 1803\", \"Microsoft Windows Server 2019\", \"Microsoft Windows Server 1903\", \"Microsoft Windows 10 1703\", \"Microsoft Windows 10 1709\", \"Microsoft Windows 10 1803\", \"Microsoft Windows 10 1809\", \"Microsoft Windows 10 1903\"]",
+    "cve": "CVE-2019-1215",
+    "description": "Microsoft Windows和Microsoft Windows Server都是美国微软（Microsoft）公司的产品。Microsoft Windows是一套个人设备使用的操作系统。Microsoft Windows Server是一套服务器操作系统。Microsoft Windows和Microsoft Windows Server中ws2ifsl.sys(Winsock)处理内存对象的方式存在提权漏洞，攻击者可借助特制的应用程序利用该漏洞以提升的权限执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1215",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2019-1215",
+    "patch": "Microsoft Windows和Microsoft Windows Server提权漏洞（CNVD-2019-31847）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2019-09-12",
+    "open_time": "2019-09-18",
+    "update_time": "2019-09-18",
+    "data_summary": "c02a512b777940f48e453334e62c4749"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:20:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35160",
+    "spider_time": 1767154811920,
+    "name": "Mattermost存在未明漏洞（CNVD-2024-35160）",
+    "cnvd": "CNVD-2024-35160",
+    "publish": "2024-08-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Mattermost Mattermost\"]",
+    "cve": "CVE-2024-36492",
+    "description": "Mattermost是美国Mattermost公司的一个开源协作平台。Mattermost存在安全漏洞，该漏洞源于在共享频道中同步用户时未能禁止修改本地用户。攻击者可利用该漏洞覆盖现有的本地用户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-36492/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://mattermost.com/security-updates",
+    "patch": "Mattermost存在未明漏洞（CNVD-2024-35160）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-05",
+    "open_time": "2024-08-13",
+    "update_time": "2024-08-13",
+    "data_summary": "64bf638b9942a26af7bdf9ec02c7e112"
+}

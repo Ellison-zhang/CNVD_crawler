@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:49:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-84259",
+    "spider_time": 1767149343294,
+    "name": "Fortinet FortiWeb拒绝服务漏洞",
+    "cnvd": "CNVD-2021-84259",
+    "publish": "2021-11-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"Fortinet FortiWeb <=6.4.0\", \"Fortinet FortiWeb <=6.3.15\", \"Fortinet FortiWeb <=6.2.5\"]",
+    "cve": "CVE-2021-36187",
+    "description": "Fortinet FortiWeb是美国飞塔（Fortinet）公司的一款Web应用层防火墙，它能够阻断如跨站点脚本、SQL注入、Cookie中毒、schema中毒等攻击的威胁，保证Web应用程序的安全性并保护敏感的数据库内容。Fortinet FortiWeb 6.4.0 版、6.3.15 版及以下、6.2.5 及以下版中存在安全漏洞，攻击者可利用该漏洞通过精心设计的HTTP请求对 Web 服务器守护程序造成拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2021-36187",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://fortiguard.com/advisory/FG-IR-21-039",
+    "patch": "Fortinet FortiWeb拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-11-03",
+    "open_time": "2021-11-05",
+    "update_time": "2021-11-05",
+    "data_summary": "1554fe99bcd8d8e6b5edf69db9bc9851"
+}

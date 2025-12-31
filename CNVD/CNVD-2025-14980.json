@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:30:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14980",
+    "spider_time": 1767159055373,
+    "name": "SONY XAV-AX5500栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-14980",
+    "publish": "2025-07-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"SONY XAV-AX5500\"]",
+    "cve": "CVE-2024-23934",
+    "description": "SONY XAV-AX5500 是一款7英寸车载中控设备，具有多种功能和先进的技术特点。SONY XAV-AX5500存在栈缓冲区溢出漏洞，该漏洞源于WMV媒体文件中构建的扩展内容描述对象可触发固定长度的基于堆栈的缓冲区的溢出，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-24-875/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.sony.com/electronics/support/mobile-cd-players-digital-media-players-xav-series/xav-ax5500/software/00274156",
+    "patch": "SONY XAV-AX5500栈缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-01",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "2fe8f60a7504127018a8465d5a25478b"
+}

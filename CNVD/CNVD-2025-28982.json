@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:08:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28982",
+    "spider_time": 1767168496830,
+    "name": "Siemens Mendix Rich Text组件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-28982",
+    "publish": "2025-11-17",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"SIEMENS Mendix RichText >=v4.0.0，<v4.6.1\"]",
+    "cve": "CVE-2025-40834",
+    "description": "Mendix Rich Text组件是一个功能强大的富文本编辑器。可创建带有HTML输出的丰富格式文本。Siemens Mendix RichText组件V4.0.0版本至V4.6.1之前版本存在跨站脚本漏洞，该漏洞源于对用户提供的数据缺乏有效过滤与转义，攻击者可利用漏洞植入跨站脚本。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-190588.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://marketplace.mendix.com/index3.html",
+    "patch": "Siemens Mendix Rich Text组件跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2025-11-20",
+    "update_time": "2025-11-20",
+    "data_summary": "53c27b02bdb9d3919271e605caaa0bd1"
+}

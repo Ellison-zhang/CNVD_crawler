@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:46:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16954",
+    "spider_time": 1767159970659,
+    "name": "Google Chrome资源管理错误漏洞（CNVD-2025-16954）",
+    "cnvd": "CNVD-2025-16954",
+    "publish": "2025-07-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <138.0.7204.157\"]",
+    "cve": "CVE-2025-7657",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome 138.0.7204.157之前版本存在安全漏洞，该漏洞源于WebRTC中存在释放后重用，可能导致堆损坏。远程攻击者可利用该漏洞提交特殊的WEB请求，诱使用户解析，可以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7657",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://chromereleases.googleblog.com/2025/07/stable-channel-update-for-desktop_15.html",
+    "patch": "Google Chrome资源管理错误漏洞（CNVD-2025-16954）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-28",
+    "update_time": "2025-07-28",
+    "data_summary": "cc93758f8e3d6148230c59a78add0f35"
+}

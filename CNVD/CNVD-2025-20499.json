@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:24:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20499",
+    "spider_time": 1767165887391,
+    "name": "NETGEAR Nighthawk WiFi6 Router跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-20499",
+    "publish": "2025-09-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR Nighthawk WiFi6 Router <V1.0.10.94\"]",
+    "cve": "CVE-2023-1205",
+    "description": "NETGEAR Nighthawk WiFi6 Router是 NETGEAR 推出的支持WiFi 6技术的路由器系列，主要面向追求高速网络体验的用户。NETGEAR Nighthawk WiFi6 Router存在跨站请求伪造漏洞，该漏洞源于该设备未正确实施CSRF保护。 目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2023-1205/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "NETGEAR Nighthawk WiFi6 Router跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-03-14",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "34222e3f2b1b4603f2ad7f162bb77405"
+}

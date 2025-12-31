@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:22:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-29343",
+    "spider_time": 1767151370804,
+    "name": "Dell Client Platform授权问题漏洞",
+    "cnvd": "CNVD-2024-29343",
+    "publish": "2024-06-20",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"DELL Client Platform\"]",
+    "cve": "CVE-2024-0160",
+    "description": "Dell Client platforms是美国戴尔（Dell）公司的一个客户端平台。Dell Client Platform存在授权问题漏洞，该漏洞源于存在不正确的授权，攻击者可利用该漏洞绕过BIOS授权来修改BIOS中的设置。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-0160",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000224763/dsa-2024-122",
+    "patch": "Dell Client Platform授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-18",
+    "open_time": "2024-06-26",
+    "update_time": "2024-06-26",
+    "data_summary": "2a2d540ad0adaf066f4e2736ff7c7d5b"
+}

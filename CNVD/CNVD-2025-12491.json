@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:52:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12491",
+    "spider_time": 1767171133233,
+    "name": "新华三技术有限公司H3C Magic NX15000存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-12491",
+    "publish": "2025-06-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"新华三技术有限公司 H3C Magic NX15000 V100R006\"]",
+    "cve": null,
+    "description": "H3C Magic NX15000是一款万兆Wi-Fi 6路由器。新华三技术有限公司H3C Magic NX15000存在未授权访问漏洞，攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.h3c.com",
+    "patch": "新华三技术有限公司H3C Magic NX15000存在未授权访问漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-04-27",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "cb7a2e5b2af63117b3613d5ca827a7e5"
+}

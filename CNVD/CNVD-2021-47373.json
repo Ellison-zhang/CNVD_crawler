@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:44:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-47373",
+    "spider_time": 1767149057307,
+    "name": "Haml跨站脚本漏洞",
+    "cnvd": "CNVD-2021-47373",
+    "publish": "2021-07-05",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:M/Au:S/C:N/I:P/A:N",
+    "product": "[\"Haml haml\"]",
+    "cve": "CVE-2021-32818",
+    "description": "haml是Haml（HAML）团队的一款开源的HTML抽象标记语言。haml-coffee 存在跨站脚本漏洞，haml-coffee支持通过其配置选项覆盖一系列HTML助手函数。通过模板配置污染对escapeHtml参数的控制确保了haml-coffee不会清除可能导致Cross Si的模板输入。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://securitylab.github.com/advisories/GHSL-2021-025-haml-coffee/",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://securitylab.github.com/advisories/GHSL-2021-025-haml-coffee/",
+    "patch": "Haml跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-07-01",
+    "open_time": "2021-07-05",
+    "update_time": "2021-07-05",
+    "data_summary": "fbf5c026813d619b0e088abd902edf6d"
+}

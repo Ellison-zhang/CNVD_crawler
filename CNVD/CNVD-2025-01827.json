@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:42:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-01827",
+    "spider_time": 1767156165949,
+    "name": "Google Android resizeToAtLeast权限提升漏洞",
+    "cnvd": "CNVD-2025-01827",
+    "publish": "2025-01-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android\"]",
+    "cve": "CVE-2024-43097",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在安全漏洞，该漏洞源于SkRegion.cpp文件的resizeToAtLeast函数整数溢出，可能存在越界写入。本地攻击者可利用该漏洞提交特殊的请求，可提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-43097",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://source.android.com/security/bulletin/2024-12-01",
+    "patch": "Google Android resizeToAtLeast权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-07",
+    "open_time": "2025-01-20",
+    "update_time": "2025-01-20",
+    "data_summary": "bf985e04fc27784fd9fb8129d5b98511"
+}

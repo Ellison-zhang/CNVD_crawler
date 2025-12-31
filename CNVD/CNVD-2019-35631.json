@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:24:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2019-35631",
+    "spider_time": 1767147877931,
+    "name": "Adobe Acrobat/Reader类型混淆漏洞（CNVD-2019-35631）",
+    "cnvd": "CNVD-2019-35631",
+    "publish": "2019-10-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Adobe Acrobat DC (Continuous) <=2019.012.20040\", \"Adobe Acrobat Reader DC (Continuous) <=2019.012.20040\", \"Adobe Acrobat 2017 (Classic 2017) <=2017.011.30148\", \"Adobe Acrobat Reader 2017 (Classic 2017) <=2017.011.30148\", \"Adobe Acrobat 2015 (Classic 2015) <=2015.006.30503\", \"Adobe Acrobat Reader 2015 (Classic 2015) <=2015.006.30503\"]",
+    "cve": "CVE-2019-8200",
+    "description": "Adobe Acrobat是由Adobe公司开发的一款PDF编辑软件。Adobe Reader(也被称为Acrobat Reader)是Adobe公司开发的一款PDF文件阅读软件。Adobe Acrobat/Reader存在类型混淆漏洞。攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/acrobat/apsb19-49.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/acrobat/apsb19-49.html",
+    "patch": "Adobe Acrobat/Reader类型混淆漏洞（CNVD-2019-35631）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2019-10-16",
+    "open_time": "2019-10-17",
+    "update_time": "2019-10-17",
+    "data_summary": "74a9b5919a49989818e1c6fe0cb1211c"
+}

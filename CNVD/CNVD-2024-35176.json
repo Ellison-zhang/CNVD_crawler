@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:43:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35176",
+    "spider_time": 1767170591330,
+    "name": "Dell Edge Gateway缓冲区溢出漏洞",
+    "cnvd": "CNVD-2024-35176",
+    "publish": "2024-08-06",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"DELL Dell Edge Gateway 3200\", \"DELL Dell Edge Gateway 5200\"]",
+    "cve": "CVE-2023-32466",
+    "description": "Dell Edge Gateway是美国戴尔（Dell）公司的一系列智能网关设备。旨在聚合、保护、分析和中继来自网络边缘各种传感器和设备的数据。Dell Edge Gateway BIOS 3200版本和5200版本存在缓冲区溢出漏洞，该漏洞源于包含越界写入漏洞，高权限本地经过身份验证的攻击者可利用该漏洞导致任意代码执行或权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-32466",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000214917/dsa-2023-225-security-update-for-dell-bios-edge-gateway-5200-and-edge-gateway-3200",
+    "patch": "Dell Edge Gateway缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-25",
+    "open_time": "2024-08-13",
+    "update_time": "2024-08-13",
+    "data_summary": "03aa87f2dda9a08e3d518ece33e9f7ff"
+}

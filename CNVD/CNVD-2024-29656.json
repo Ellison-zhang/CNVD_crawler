@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:28:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-29656",
+    "spider_time": 1767169680184,
+    "name": "OpenCart存在未明漏洞（CNVD-2024-29656）",
+    "cnvd": "CNVD-2024-29656",
+    "publish": "2024-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"OpenCart OpenCart v4.0.2.2\"]",
+    "cve": "CVE-2023-40834",
+    "description": "OpenCart是中国香港OpenCart团队的一套开源的电子商务系统。该系统提供产品评论、产品评分、产品添加等模块。OpenCart v4.0.2.2版本存在安全漏洞，该漏洞源于登录页面容易受到暴力破解攻击。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-40834",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://cxsecurity.com/issue/WLB-2023090027",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-09-12",
+    "open_time": "2024-06-28",
+    "update_time": "2024-06-28",
+    "data_summary": "c2f00beec755811387217166e9bc1fa9"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:06:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11447",
+    "spider_time": 1767157583562,
+    "name": "Adobe Document Service代码问题漏洞",
+    "cnvd": "CNVD-2025-11447",
+    "publish": "2025-06-03",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Adobe Adobe Document Service\"]",
+    "cve": "CVE-2024-47578",
+    "description": "Adobe Document Service 是 Adobe 公司提供的一项用于处理文档的服务，支持 PDF 创建、编辑等功能。Adobe Document Service存在代码问题漏洞，该漏洞源于允许拥有管理员权限的攻击者通过易受攻击的Web应用程序发送特制请求，攻击者可利用该漏洞读取或修改任何文件，使整个系统不可用。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://me.sap.com/notes/3536965\nhttps://url.sap/sapsecuritypatchday",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/december-2024.html",
+    "patch": "Adobe Document Service代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-13",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "e1567da93e9642a0e513a60cb3fe5513"
+}

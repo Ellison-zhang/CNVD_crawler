@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:38:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-30834",
+    "spider_time": 1767152319874,
+    "name": "IBM InfoSphere Information Server存在未明漏洞（CNVD-2024-30834）",
+    "cnvd": "CNVD-2024-30834",
+    "publish": "2024-07-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"IBM InfoSphere Information Server\"]",
+    "cve": "CVE-2024-35119",
+    "description": "IBM InfoSphere Information Server是美国国际商业机器（IBM）公司的一套数据整合平台。该平台可用于整合各种渠道获取的数据信息。IBM InfoSphere Information Server存在安全漏洞，该漏洞源于当堆栈跟踪中返回详细的技术错误消息时，远程攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://exchange.xforce.ibmcloud.com/vulnerabilities/290342",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7159052",
+    "patch": "IBM InfoSphere Information Server存在未明漏洞（CNVD-2024-30834）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-02",
+    "open_time": "2024-07-06",
+    "update_time": "2024-07-06",
+    "data_summary": "3023e75ce1f7bb3a81a8ba9e0ad9ebcb"
+}

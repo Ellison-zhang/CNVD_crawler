@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:52:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13136",
+    "spider_time": 1767171163025,
+    "name": "苏州科达科技股份有限公司MSS流媒体服务器存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-13136",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"苏州科达科技股份有限公司 MSS流媒体服务器\"]",
+    "cve": null,
+    "description": "苏州科达科技股份有限公司是领先的视讯与安防产品及解决方案提供商。苏州科达科技股份有限公司MSS流媒体服务器存在逻辑缺陷漏洞，攻击者可利用漏洞非法创建新用户账号，并在登录时提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.kedacom.com/",
+    "patch": "苏州科达科技股份有限公司MSS流媒体服务器存在逻辑缺陷漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-04-29",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "1f92235dfd10b7fdc738cdb70b23a759"
+}

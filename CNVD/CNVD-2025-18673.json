@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:59:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18673",
+    "spider_time": 1767160787477,
+    "name": "Mozilla Thunderbird跨站脚本漏洞（CNVD-2025-18673）",
+    "cnvd": "CNVD-2025-18673",
+    "publish": "2025-08-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Mozilla Thunderbird >=129.0，<138.0.1\", \"Mozilla Thunderbird <128.10.1\"]",
+    "cve": "CVE-2025-3909",
+    "description": "Mozilla Thunderbird是美国Mozilla基金会的一套从Mozilla Application Suite独立出来的电子邮件客户端软件。该软件支持IMAP、POP邮件协议以及HTML邮件格式。Mozilla Thunderbird存在跨站脚本漏洞，该漏洞源于X-Mozilla-External-Attachment-URL标头处理不当，攻击者可利用该漏洞导致JavaScript执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.mozilla.org/show_bug.cgi?id=1958376",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.thunderbird.net/en-US/thunderbird/releases/",
+    "patch": "Mozilla Thunderbird跨站脚本漏洞（CNVD-2025-18673）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "b9e48834f22aa446ec6c0d3e2617354c"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:46:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37705",
+    "spider_time": 1767170815429,
+    "name": "Cisco Finesse Web管理接口服务端请求伪造漏洞",
+    "cnvd": "CNVD-2024-37705",
+    "publish": "2024-09-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Cisco Finesse\"]",
+    "cve": "CVE-2024-20404",
+    "description": "Cisco Finesse是美国思科(Cisco)公司的一套呼叫中心管理软件。Cisco Finesse Web管理接口存在服务端请求伪造漏洞，远程攻击者可以利用该漏洞提交特殊的请求，可获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-20404",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-finesse-ssrf-rfi-Um7wT8Ew",
+    "patch": "Cisco Finesse Web管理接口服务端请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-11",
+    "open_time": "2024-09-09",
+    "update_time": "2024-09-09",
+    "data_summary": "7526f16ab1ec59b66619cfe3f73e7065"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:16:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19538",
+    "spider_time": 1767161795042,
+    "name": "NVIDIA NeMo Framework代码问题漏洞",
+    "cnvd": "CNVD-2025-19538",
+    "publish": "2025-08-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"NVIDIA NeMo Framework\"]",
+    "cve": "CVE-2025-23303",
+    "description": "NVIDIA Nemo Framework是美国英伟达（NVIDIA）公司的一款用于构建和部署生成式AI模型的框架。NVIDIA NeMo Framework存在代码问题漏洞，攻击者可利用该漏洞通过上传任意文件，绕过文件大小限制，执行恶意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-23303",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.cve.org/CVERecord?id=CVE-2025-23303",
+    "patch": "NVIDIA NeMo Framework代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-21",
+    "open_time": "2025-08-28",
+    "update_time": "2025-08-28",
+    "data_summary": "82e4439efc8e9acee837104e8975259e"
+}

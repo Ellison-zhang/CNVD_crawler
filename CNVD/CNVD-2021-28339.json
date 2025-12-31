@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:14:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-28339",
+    "spider_time": 1767168843134,
+    "name": "Xstream任意文件删除漏洞",
+    "cnvd": "CNVD-2021-28339",
+    "publish": "2021-04-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:P",
+    "product": "[\"XStream XStream <1.4.15\"]",
+    "cve": "CVE-2020-26259",
+    "description": "XStream是XStream团队的一个轻量级的、简单易用的开源Java类库，它主要用于将对象序列化成XML（JSON）或反序列化为对象。XStream存在任意文件删除漏洞。该漏洞源于反序列化处理过程中异常处理，远程攻击者可利用该漏洞删除主机上的任意已知文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2020-26259",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://x-stream.github.io/CVE-2020-26259.html",
+    "patch": "Xstream任意文件删除漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2020-12-16",
+    "open_time": "2021-04-15",
+    "update_time": "2021-04-15",
+    "data_summary": "9387f9ec5e60c5c7d2147e2ce092b93a"
+}

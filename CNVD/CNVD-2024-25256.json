@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:05:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-25256",
+    "spider_time": 1767150351677,
+    "name": "Foxit Reader信任管理问题漏洞",
+    "cnvd": "CNVD-2024-25256",
+    "publish": "2024-05-30",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Foxit Reader 2024.2.0.25138\"]",
+    "cve": "CVE-2024-29072",
+    "description": "Foxit Reader是中国福昕（Foxit）公司的一款PDF文档阅读器。Foxit Reader 2024.2.0.25138版本存在信任管理问题漏洞，该漏洞源于存在权限提升漏洞。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://talosintelligence.com/vulnerability_reports/TALOS-2024-1989",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.foxitsoftware.com/pdf-reader/",
+    "patch": "Foxit Reader信任管理问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-29",
+    "open_time": "2024-05-31",
+    "update_time": "2024-05-31",
+    "data_summary": "c0a5c6a9917b27635f536038c2c22ed5"
+}

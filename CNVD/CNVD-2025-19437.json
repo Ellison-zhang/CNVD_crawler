@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:09:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19437",
+    "spider_time": 1767161381108,
+    "name": "杭州飞致云信息科技有限公司DataEase存在逻辑缺陷漏洞（CNVD-2025-19437）",
+    "cnvd": "CNVD-2025-19437",
+    "publish": "2025-08-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"杭州飞致云信息科技有限公司 DataEase\"]",
+    "cve": null,
+    "description": "DataEase是开源的数据可视化分析工具。杭州飞致云信息科技有限公司DataEase存在逻辑缺陷漏洞，攻击者可利用该漏洞绕过身份验证。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.fit2cloud.com",
+    "patch": "杭州飞致云信息科技有限公司DataEase存在逻辑缺陷漏洞（CNVD-2025-19437）的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-08-26",
+    "update_time": "2025-08-26",
+    "data_summary": "213ea7578cffbca3fa31755badb87b2d"
+}

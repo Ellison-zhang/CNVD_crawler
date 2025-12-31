@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:15:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12755",
+    "spider_time": 1767158134161,
+    "name": "Tenda AC18 /goform/SetSysAutoRebbotCfg缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12755",
+    "publish": "2025-06-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC18 V15.03.05.05\"]",
+    "cve": "CVE-2025-5608",
+    "description": "Tenda AC18是中国腾达（Tenda）公司的一款路由器。Tenda AC18存在缓冲区溢出漏洞，该漏洞源于对文件/goform/SetSysAutoRebbotCfg中参数rebootTime的错误操作，攻击者可利用该漏洞提交特殊的请求，执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lavender-bicycle-a5a.notion.site/Tenda-AC18-formsetreboottimer-20653a41781f801ab9e2e022dd089d69",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/search?keyword=AC18",
+    "patch": "Tenda AC18缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-10",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "dab2773b9f2b9496e6cdbbda8063c7ae"
+}

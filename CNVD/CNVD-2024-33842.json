@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:00:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33842",
+    "spider_time": 1767153659264,
+    "name": "Foxit PDF Reader越界读取漏洞（CNVD-2024-33842）",
+    "cnvd": "CNVD-2024-33842",
+    "publish": "2024-07-26",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Foxit PDF Reader\"]",
+    "cve": "CVE-2023-38106",
+    "description": "Foxit PDF Reader是中国福昕（Foxit）公司的一款PDF阅读器。Foxit PDF Reader存在越界读取漏洞，攻击者可利用该漏洞泄露敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-38106",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.foxit.com/support/security-bulletins.html",
+    "patch": "Foxit PDF Reader越界读取漏洞（CNVD-2024-33842）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-19",
+    "open_time": "2024-07-29",
+    "update_time": "2024-07-29",
+    "data_summary": "62cca91d13bae916b8d9336ca13827fa"
+}

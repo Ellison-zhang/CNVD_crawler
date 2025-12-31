@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:50:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23075",
+    "spider_time": 1767167409107,
+    "name": "IBM Watson Studio跨站脚本漏洞",
+    "cnvd": "CNVD-2025-23075",
+    "publish": "2025-09-26",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:P/A:N",
+    "product": "[\"IBM Watson Studio >=4.0，<=5.2.0\"]",
+    "cve": "CVE-2025-33116",
+    "description": "IBM Watson Studio是IBM公司的一款数据科学与机器学习平台，集成在Cloud Pak for Data中，用于构建、训练和部署AI模型。IBM Watson Studio 4.0至5.2.0版本存在跨站脚本漏洞，该漏洞源于未对用户输入进行充分过滤。攻击者可利用该漏洞通过嵌入恶意JavaScript代码篡改Web界面功能，在受信任会话中窃取用户凭证。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-33116",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.ibm.com/support/pages/node/7246140",
+    "patch": "IBM Watson Studio跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-26",
+    "open_time": "2025-09-30",
+    "update_time": "2025-09-30",
+    "data_summary": "7ae09259e43a32bde475ea12bce2b896"
+}

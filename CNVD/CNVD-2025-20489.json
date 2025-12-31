@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:22:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20489",
+    "spider_time": 1767165767536,
+    "name": "JetBrains TeamCity权限提升漏洞（CNVD-2025-20489）",
+    "cnvd": "CNVD-2025-20489",
+    "publish": "2025-09-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"JetBrains TeamCity <2025.07\"]",
+    "cve": "CVE-2025-54530",
+    "description": "JetBrains TeamCity是由JetBrains公司开发的持续集成（CI/CD）工具，主要用于自动化软件构建、测试及部署流程。JetBrains TeamCity存在权限提升漏洞，该漏洞源于目录权限设置不当。攻击者可利用该漏洞通过不当的目录权限实现权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-54530",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains TeamCity权限提升漏洞（CNVD-2025-20489）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-30",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "7b6a68158d133ddb912b70c5b1e458e6"
+}

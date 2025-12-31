@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 17:05:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19877",
+    "spider_time": 1767171954547,
+    "name": "D-Link DSL-7740C traceroute6函数命令注入漏洞",
+    "cnvd": "CNVD-2025-19877",
+    "publish": "2025-08-29",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"D-Link DSL-7740C DSL7740C.V6.TR069.20211230\"]",
+    "cve": "CVE-2025-29517",
+    "description": "D-Link DSL-7740C是中国友讯（D-Link）公司的一款调制解调器。D-Link DSL-7740C traceroute6函数存在命令注入漏洞，攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-29517",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.dlink.com/en/security-bulletin/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-28",
+    "open_time": "2025-08-29",
+    "update_time": "2025-08-29",
+    "data_summary": "984b32cb9a47e1132a5810eede0e8c30"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:42:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22169",
+    "spider_time": 1767166949080,
+    "name": "Dell PowerProtect Data Manager操作系统命令注入漏洞",
+    "cnvd": "CNVD-2025-22169",
+    "publish": "2025-09-17",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL PowerProtect Data Manager 19.19\", \"DELL PowerProtect Data Manager 19.20\"]",
+    "cve": "CVE-2025-43884",
+    "description": "Dell PowerProtect Data Manager（PPDM）是美国戴尔（Dell）公司的一套数据保护解决方案。该产品支持数据备份、虚拟机备份和数据库保护等功能。Dell PowerProtect Data Manager 19.19和19.20版本存在安全漏洞，攻击者可利用该漏洞导致命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43884",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000367456/dsa-2025-326-security-update-for-dell-powerprotect-data-manager-multiple-security-vulnerabilities",
+    "patch": "Dell PowerProtect Data Manager操作系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-12",
+    "open_time": "2025-09-22",
+    "update_time": "2025-09-22",
+    "data_summary": "92091a30e48052ae00f9a4794416ac9c"
+}

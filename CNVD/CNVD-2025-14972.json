@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:28:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14972",
+    "spider_time": 1767158920794,
+    "name": "Google ChromeOS权限提升漏洞",
+    "cnvd": "CNVD-2025-14972",
+    "publish": "2025-06-30",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google ChromeOS 15786.48.2\"]",
+    "cve": "CVE-2025-1121",
+    "description": "Google ChromeOS是美国谷歌（Google）公司的一套基于Web的轻量型开源操作系统。Google ChromeOS存在权限提升漏洞，该漏洞源于安装程序和恢复映像处理中的权限提升，攻击者可利用该漏洞导致代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1121",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://chromeos.google/",
+    "patch": "Google ChromeOS权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "60442237f55ef7d1abc65e2fbb4e8aa9"
+}

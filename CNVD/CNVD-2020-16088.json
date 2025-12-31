@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:29:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2020-16088",
+    "spider_time": 1767148157570,
+    "name": "Yubico YubiKey Validation Server SQL注入漏洞",
+    "cnvd": "CNVD-2020-16088",
+    "publish": "2020-03-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Yubico Yubico YubiKey Validation Server <2.40\"]",
+    "cve": "CVE-2020-10184",
+    "description": "Yubico YubiKey Validation Server是瑞典Yubico公司的一款身份认证服务器。YubiKey Validation Server 2.40之前版本中存在SQL注入漏洞。该漏洞源于基于数据库的应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2020-10184",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.yubico.com/support/security-advisories/ysa-2020-01/",
+    "patch": "Yubico YubiKey Validation Server SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2020-03-08",
+    "open_time": "2020-03-09",
+    "update_time": "2020-03-09",
+    "data_summary": "96567ffbbf0a55c05c57d2518c396a66"
+}

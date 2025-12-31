@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:38:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21049",
+    "spider_time": 1767166718351,
+    "name": "TOTOLINK A3300R setPasswordCfg方法命令注入漏洞",
+    "cnvd": "CNVD-2025-21049",
+    "publish": "2025-09-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A3300R V17.0.0cu.557_B20221024\"]",
+    "cve": "CVE-2023-37171",
+    "description": "TOTOLINK A3300R是中国吉翁电子（TOTOLINK）生产的一款双频无线路由器，主要用于家庭及小型网络环境。TOTOLINK A3300R存在命令注入漏洞。该漏洞源于setPasswordCfg方法的admuser参数未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/kafroc/Vuls/tree/main/TOTOLINK/A3300R/cmdi_2",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/241/ids/36.html",
+    "patch": "TOTOLINK A3300R setPasswordCfg方法命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-07-11",
+    "open_time": "2025-09-11",
+    "update_time": "2025-09-11",
+    "data_summary": "4342f7b7f5b78492f7003e76fce1fcef"
+}

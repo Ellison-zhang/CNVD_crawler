@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:18:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13133",
+    "spider_time": 1767158338585,
+    "name": "新华三技术有限公司H3C Magic NX15000万兆Wi-Fi 6路由器存在命令执行漏洞",
+    "cnvd": "CNVD-2025-13133",
+    "publish": "2025-06-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"新华三技术有限公司 H3C Magic NX15000万兆Wi-Fi 6路由器 V100R005\"]",
+    "cve": null,
+    "description": "H3C Magic NX15000万兆Wi-Fi 6路由器是一款高端路由器，面向追求全屋覆盖及高品质网络的用户和群体。新华三技术有限公司H3C Magic NX15000万兆Wi-Fi 6路由器存在命令执行漏洞，攻击者可利用漏洞注入恶意代码，获取服务器权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.h3c.com/",
+    "patch": "新华三技术有限公司H3C Magic NX15000万兆Wi-Fi 6路由器存在命令执行漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-04-29",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "ea85c7a1f588b7ccbd1be5abee31f705"
+}

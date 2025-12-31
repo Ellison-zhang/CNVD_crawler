@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:04:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-24943",
+    "spider_time": 1767150259868,
+    "name": "XAMPP资源管理错误漏洞",
+    "cnvd": "CNVD-2024-24943",
+    "publish": "2024-05-29",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"XAMPP XAMPP <=7.3.2\"]",
+    "cve": "CVE-2024-5055",
+    "description": "XAMPP是一个易于安装的Apache发行版，包含MariaDB、PHP和Perl。该产品主要用于构建网页服务器。XAMPP 7.3.2及之前版本存在资源管理错误漏洞，该漏洞源于未对输入的错误消息做正确的处理，攻击者可利用该漏洞造成应用拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-5055",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.incibe.es/en/incibe-cert/notices/aviso/vulnerability-uncontrolled-resource-consumption-xampp",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-22",
+    "open_time": "2024-05-30",
+    "update_time": "2024-05-30",
+    "data_summary": "16283eefc94f3197611aa3f252db7293"
+}

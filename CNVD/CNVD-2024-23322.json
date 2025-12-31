@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:21:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-23322",
+    "spider_time": 1767169282150,
+    "name": "Cisco Application Policy Infrastructure Controller访问控制错误漏洞（CNVD-2024-23322）",
+    "cnvd": "CNVD-2024-23322",
+    "publish": "2024-05-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Cisco Application Policy Infrastructure Controller 5.2\", \"Cisco Application Policy Infrastructure Controller 6.0\"]",
+    "cve": "CVE-2023-20230",
+    "description": "Cisco Application Policy Infrastructure Controller（APIC）是美国思科（Cisco）公司的一款自动化的基础架构部署和治理解决方案。Cisco Application Policy Infrastructure Controller存在访问控制错误漏洞，该漏洞源于使用受限安全域对租户边界之外的策略实施多租户时访问控制不当，经过身份验证的攻击者可利用该漏洞读取、修改或删除不同网络关联的用户创建的非租户策略。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-20230",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apic-uapa-F4TAShk",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-08-30",
+    "open_time": "2024-05-20",
+    "update_time": "2024-05-20",
+    "data_summary": "b103f6a71a3cfaee4bcff932c0650961"
+}

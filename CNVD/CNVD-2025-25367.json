@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:02:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25367",
+    "spider_time": 1767168171718,
+    "name": "F5 BIG-IP Next TMM内存资源管理漏洞",
+    "cnvd": "CNVD-2025-25367",
+    "publish": "2025-10-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"F5 F5 BIG-IP null\"]",
+    "cve": "CVE-2025-54805",
+    "description": "F5 BIG-IP是F5公司的一款集成了网络流量编排、负载均衡、智能DNS，远程接入策略管理等功能的应用交付平台。BIG-IP Next的TMM模块存在内存资源管理漏洞，该漏洞产生的原因是在通过声明式API在虚拟服务器上配置iRule后，重新实例化时清理过程会导致TMM内存资源利用率增加。攻击者可利用该漏洞导致系统性能下降，最终可能引发拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-54805",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://my.f5.com/manage/s/article/K000156572",
+    "patch": "F5 BIG-IP Next TMM内存资源管理漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-27",
+    "update_time": "2025-10-27",
+    "data_summary": "efef1ed53dd010fbee337ed260501120"
+}

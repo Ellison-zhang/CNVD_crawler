@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:43:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35555",
+    "spider_time": 1767170604474,
+    "name": "Tenda i22 formApPortalWebAuth栈溢出漏洞",
+    "cnvd": "CNVD-2024-35555",
+    "publish": "2024-08-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda i22 1.0.0.3(4687)\"]",
+    "cve": "CVE-2024-7585",
+    "description": "Tenda i22是一款腾达(Tenda)的双频吸顶无线接入点。Tenda i22 /goform/apPortalAuth处理formApPortalWebAuth存在栈溢出漏洞，远程攻击者可以利用该漏洞提交特殊的请求，可使应用程序崩溃或可以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/BeaCox/IoT_vuln/tree/main/tenda/i22/ApPortalWebAuth",
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.tenda.com.cn/download/detail-2747.html",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-12",
+    "open_time": "2024-08-15",
+    "update_time": "2024-08-15",
+    "data_summary": "6f524d3bc0eb80c9c15e3f56d0764328"
+}

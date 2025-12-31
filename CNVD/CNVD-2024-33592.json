@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:54:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33592",
+    "spider_time": 1767153270876,
+    "name": "Apache Airflow代码执行漏洞（CNVD-2024-33592）",
+    "cnvd": "CNVD-2024-33592",
+    "publish": "2024-07-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Apache Airflow >=2.4.0，<2.9.3\"]",
+    "cve": "CVE-2024-39877",
+    "description": "Apache Airflow是美国阿帕奇（Apache）基金会的一套用于创建、管理和监控工作流程的开源平台。该平台具有可扩展和动态监控等特点。Apache Airflow存在代码执行漏洞，攻击者可利用该漏洞在调度器上下文中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://exchange.xforce.ibmcloud.com/vulnerabilities/298036",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://airflow.apache.org/",
+    "patch": "Apache Airflow代码执行漏洞（CNVD-2024-33592）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-17",
+    "open_time": "2024-07-25",
+    "update_time": "2024-07-25",
+    "data_summary": "46784247332a371d1b6fcccdd8df1e01"
+}

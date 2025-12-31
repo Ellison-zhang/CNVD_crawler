@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:49:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22628",
+    "spider_time": 1767167377509,
+    "name": "Adobe Substance3D Stager缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-22628",
+    "publish": "2025-09-19",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Substance3D Stager <=3.1.3\"]",
+    "cve": "CVE-2025-54262",
+    "description": "Adobe Substance3D Stager是美国奥多比（Adobe）公司的一款3D场景的布景与渲染软件。Adobe Substance3D Stager 3.1.3及之前版本存在安全漏洞，攻击者可利用该漏洞导致在当前用户环境中执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-54262",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/substance3d_stager/apsb25-81.html",
+    "patch": "Adobe Substance3D Stager缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-18",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "e46303e6daf0d491f5d9cb799c058e04"
+}

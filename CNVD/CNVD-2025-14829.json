@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:26:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14829",
+    "spider_time": 1767158802875,
+    "name": "SAP BusinessObjects Business Intelligence跨站脚本漏洞",
+    "cnvd": "CNVD-2025-14829",
+    "publish": "2025-06-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:P/A:P",
+    "product": "[\"SAP BusinessObjects Business Intelligence\"]",
+    "cve": "CVE-2025-23192",
+    "description": "SAP BusinessObjects Business Intelligence是SAP公司推出的一款企业级商务智能解决方案。SAP BusinessObjects Business Intelligence存在跨站脚本漏洞，该漏洞源于未经验证的攻击者可存储恶意脚本，攻击者可利用该漏洞导致敏感会话信息泄露，篡改或使浏览器信息不可用。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://me.sap.com/notes/3560693\nhttps://url.sap/sapsecuritypatchday",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.sap.com/index.html",
+    "patch": "SAP BusinessObjects Business Intelligence跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "03d1b7edb06d86163d8b25c03fcb5695"
+}

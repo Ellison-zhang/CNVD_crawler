@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:24:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2019-36166",
+    "spider_time": 1767147888129,
+    "name": "Oracle Virtualization VM VirtualBox组件存在未明漏洞（CNVD-2019-36166）",
+    "cnvd": "CNVD-2019-36166",
+    "publish": "2019-10-18",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:M/Au:N/C:P/I:P/A:P",
+    "product": "[\"Oracle Virtualization VM VirtualBox <5.2.20\"]",
+    "cve": "CVE-2018-3297",
+    "description": "Oracle Virtualization是美国甲骨文（Oracle）公司的一套虚拟化解决方案。该方案用于统一管理从应用程序到磁盘的整个硬件和软件体系，可实现从桌面到数据中心的虚拟化。VM VirtualBox是其中的一个虚拟机组件。Oracle Virtualization中的VM VirtualBox组件5.2.20之前版本的Core子组件存在安全漏洞。攻击者可利用该漏洞接管Oracle VM VirtualBox，影响数据的保密性、完整性和可用性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.oracle.com/technetwork/security-advisory/cpuoct2018-4428296.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/technetwork/security-advisory/cpuoct2018-4428296.html",
+    "patch": "Oracle Virtualization VM VirtualBox组件存在未明漏洞（CNVD-2019-36166）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2018-10-19",
+    "open_time": "2019-10-20",
+    "update_time": "2019-10-20",
+    "data_summary": "af04a44f9fc6da226acc681216e854be"
+}

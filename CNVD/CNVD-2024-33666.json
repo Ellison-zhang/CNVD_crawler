@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:57:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33666",
+    "spider_time": 1767153442347,
+    "name": "NETGEAR ProSAFE身份认证绕过漏洞",
+    "cnvd": "CNVD-2024-33666",
+    "publish": "2024-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR ProSAFE\"]",
+    "cve": "CVE-2023-38096",
+    "description": "NETGEAR ProSAFE是美国网件（NETGEAR）公司的一个网络管理系统。NETGEAR ProSAFE存在身份认证绕过漏洞，攻击者可利用该漏洞绕过身份认证。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-38096",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://kb.netgear.com/000065707/Security-Advisory-for-Multiple-Vulnerabilities-on-the-ProSAFE-Network-Management-System-PSV-2023-0024-PSV-2023-0025",
+    "patch": "NETGEAR ProSAFE身份认证绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-12",
+    "open_time": "2024-07-26",
+    "update_time": "2024-07-26",
+    "data_summary": "c2f21e3b628c3f1b64e562ad9dade18e"
+}

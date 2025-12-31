@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:24:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14809",
+    "spider_time": 1767158645779,
+    "name": "SAP Commerce信息泄露漏洞",
+    "cnvd": "CNVD-2025-14809",
+    "publish": "2025-06-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:N",
+    "product": "[\"SAP SAP Commerce\"]",
+    "cve": "CVE-2025-24874",
+    "description": "SAP Commerce是由 SAP公司 开发的一款基于云的电子商务解决方案。SAP Commerce存在信息泄露漏洞，该漏洞源于使用已弃用的 X-FRAME-OPTIONS 标头来防止点击劫持，攻击者可利用该漏洞导致敏感信息的泄漏和篡改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-24874",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://me.sap.com/notes/3559510",
+    "patch": "SAP Commerce信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-23",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "d3c56d64793ac22fc408b40ef17363b0"
+}

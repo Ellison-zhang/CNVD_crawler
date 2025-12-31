@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:19:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2017-34324",
+    "spider_time": 1767147574516,
+    "name": "Apple macOS拒绝服务漏洞（CNVD-2017-34324）",
+    "cnvd": "CNVD-2017-34324",
+    "publish": "2017-11-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Apple macOS <10.13\"]",
+    "cve": "CVE-2017-7126",
+    "description": "Apple macOS High Sierra是美国苹果（Apple）公司的一套专为Mac计算机所开发的专用操作系统。file是其中的一个文件系统组件。Apple macOS High Sierra中的file组件存在安全漏洞。远程攻击者可利用该漏洞造成拒绝服务（应用程序崩溃）。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://support.apple.com/en-us/HT208144\nhttp://www.securityfocus.com/bid/100993",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://support.apple.com/zh-cn/HT208144",
+    "patch": "Apple macOS拒绝服务漏洞（CNVD-2017-34324）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2017-09-26",
+    "open_time": "2017-11-17",
+    "update_time": "2017-09-26",
+    "data_summary": "4867d471821d509d8dd316bb3ae11243"
+}

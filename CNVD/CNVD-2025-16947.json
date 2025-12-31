@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:44:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16947",
+    "spider_time": 1767159882098,
+    "name": "Microsoft Windows资源管理错误漏洞（CNVD-2025-16947）",
+    "cnvd": "CNVD-2025-16947",
+    "publish": "2025-07-24",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Windows Server 2016\", \"Microsoft Windows Server 2019\", \"Microsoft Windows Server 2022\", \"Microsoft Window 10 22H2\", \"Microsoft Window 10 21H2\", \"Microsoft Window 11 22H2\", \"Microsoft Window 10 1809\", \"Microsoft Window 10 1607\", \"Microsoft Window 11 23H2\", \"Microsoft Window 11 24H2\", \"Microsoft Windows Server 2025\"]",
+    "cve": "CVE-2025-49725",
+    "description": "Microsoft Windows是美国微软（Microsoft）公司的一套个人设备使用的操作系统。Microsoft Windows存在资源管理错误漏洞。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-49725",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49725",
+    "patch": "Microsoft Windows资源管理错误漏洞（CNVD-2025-16947）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-28",
+    "update_time": "2025-07-28",
+    "data_summary": "af4f7c496cfd41517a697bcd0fb37cb8"
+}

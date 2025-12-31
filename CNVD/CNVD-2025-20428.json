@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:09:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20428",
+    "spider_time": 1767164990129,
+    "name": "Emby Windows服务端请求伪造漏洞",
+    "cnvd": "CNVD-2025-20428",
+    "publish": "2025-09-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"Emby Emby Windows 4.8\"]",
+    "cve": "CVE-2025-46385",
+    "description": "Emby Windows是Emby LLC开发的Windows平台媒体播放应用，支持Windows 10、11及更高版本系统。Emby Windows存在服务端请求伪造漏洞，该漏洞源于服务器未实现足够的验证机制来确认请求的来源，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.gov.il/en/departments/dynamiccollectors/cve_advisories_listing?skip=0",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://emby.media/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "9f8e2e3b6e3b95c6f3d622c6f4601421"
+}

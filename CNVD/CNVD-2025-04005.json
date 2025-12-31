@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 09:57:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04005",
+    "spider_time": 1767146247590,
+    "name": "杭州海康威视数字技术股份有限公司DS-A80624S存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-04005",
+    "publish": "2025-02-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"杭州海康威视数字技术股份有限公司 DS-A80624S\"]",
+    "cve": null,
+    "description": "DS-A80624S是海康威视推出的一款24盘位的网络存储设备。杭州海康威视数字技术股份有限公司DS-A80624S存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布补丁修复漏洞，请广大用户及时下载更新：\nhttps://www.hikvision.com/cn/support/CybersecurityCenter/SecurityNotices/20230410/",
+    "patch": "杭州海康威视数字技术股份有限公司DS-A80624S存在逻辑缺陷漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-01-07",
+    "open_time": "2025-02-28",
+    "update_time": "2025-03-03",
+    "data_summary": "6b664e18fcbb29e65591367dbe48c58e"
+}

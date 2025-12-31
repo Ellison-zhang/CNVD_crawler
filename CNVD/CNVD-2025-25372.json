@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 17:45:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25372",
+    "spider_time": 1767174340699,
+    "name": "F5 BIG-IP SSL Orchestrator内存损坏漏洞",
+    "cnvd": "CNVD-2025-25372",
+    "publish": "2025-10-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"F5 F5 BIG-IP null\", \"F5 F5 SSL Orchestrator\"]",
+    "cve": "CVE-2025-55036",
+    "description": "F5 BIG-IP是F5公司的一款集成了网络流量编排、负载均衡、智能DNS，远程接入策略管理等功能的应用交付平台。BIG-IP SSL Orchestrator的显式前向代理模块存在内存损坏漏洞，该漏洞产生的原因是当在虚拟服务器上配置显式前向代理并启用代理连接功能时，未公开的流量可能导致内存损坏。攻击者可利用该漏洞导致系统性能下降，最终可能导致Traffic Management Microkernel（TMM）进程被强制重启或手动重启，造成拒绝服务（DoS）。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-55036",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://my.f5.com/manage/s/article/K000156572",
+    "patch": "F5 BIG-IP SSL Orchestrator内存损坏漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-27",
+    "update_time": "2025-10-27",
+    "data_summary": "7af3c667b186d47b2607018d46422f26"
+}

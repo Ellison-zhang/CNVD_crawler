@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:19:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2022-76705",
+    "spider_time": 1767169142852,
+    "name": "Jenkins Pipeline SCM API for Blue Ocean Plugin未授权访问漏洞",
+    "cnvd": "CNVD-2022-76705",
+    "publish": "2022-11-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"Jenkins Blue Ocean <=1.25.3\"]",
+    "cve": "CVE-2022-30952",
+    "description": "Blue Ocean插件是为Jenkins Pipeline设计的一个聚合工具，当然也兼容自由风格项目。它图形化了pipeline的流程，使流水线更加直观。Jenkins Pipeline SCM API for Blue Ocean Plugin 1.25.3及之前版本未授权访问漏洞，具有特定权限的攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-30952",
+    "solution": "SCM API 插件 1.25.4版本已修复漏洞，请用户下载更新：\nhttps://www.jenkins.io/",
+    "patch": "Jenkins Pipeline SCM API for Blue Ocean Plugin未授权访问漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-11-14",
+    "open_time": "2022-11-14",
+    "update_time": "2022-11-14",
+    "data_summary": "4f4284ca1eb8d5b79645077b554b86ff"
+}

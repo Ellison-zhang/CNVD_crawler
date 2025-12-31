@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:44:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02168",
+    "spider_time": 1767156240975,
+    "name": "LINKSYS EA7500缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-02168",
+    "publish": "2025-01-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Linksys EA7500 3.0.1.207964\"]",
+    "cve": "CVE-2023-46012",
+    "description": "Linksys EA7500是美国Linksys公司的一款无线路由器。LINKSYS EA7500 3.0.1.207964版本存在缓冲区溢出漏洞。该漏洞源于应用在处理不受信任的输入时出现边界错误。远程攻击者可利用该漏洞通过向IGD UPnP发出HTTP请求来执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-46012",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/dest-3/CVE-2023-46012/tree/main",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-11",
+    "open_time": "2025-01-22",
+    "update_time": "2025-01-22",
+    "data_summary": "1bbd21c1a99b998cc399c42b1a58ea6e"
+}

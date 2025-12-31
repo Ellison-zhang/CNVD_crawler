@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:02:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19256",
+    "spider_time": 1767160929414,
+    "name": "Cisco Unified Intelligence Center服务端请求伪造漏洞",
+    "cnvd": "CNVD-2025-19256",
+    "publish": "2025-08-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Cisco Unified Intelligence Center 11.5(1)\", \"Cisco Unified Intelligence Center 12.0(1)\", \"Cisco Unified Intelligence Center 11.6(1)\", \"Cisco Unified Intelligence Center 12.5(1)\", \"Cisco Unified Intelligence Center 11.0(1)\", \"Cisco Unified Intelligence Center 11.0(2)\", \"Cisco Unified Intelligence Center 11.0(3)\", \"Cisco Unified Intelligence Center 10.5(1)\", \"Cisco Unified Intelligence Center 12.5(1)SU\", \"Cisco Unified Intelligence Center 12.6(1)\", \"Cisco Unified Intelligence Center 12.6(1)_ET\", \"Cisco Unified Intelligence Center 12.6(1)_ES05_ET\", \"Cisco Unified Intelligence Center 12.6(2)\", \"Cisco Unified Intelligence Center 12.6(2)_504_Issue_ET\", \"Cisco Unified Intelligence Center 12.6.1_ExcelIssue_ET\", \"Cisco Unified Intelligence Center 12.6(2)_Permalink_ET\", \"Cisco Unified Intelligence Center 12.6.2_CSCwk19536_ET\", \"Cisco Unified Intelligence Center 12.6.2_CSCwm96922_ET\", \"Cisco Unified Intelligence Center 12.6.2_Amq_OOS_ET\", \"Cisco Unified Intelligence Center 12.5(2)ET_CSCwi79933\", \"Cisco Unified Intelligence Center 12.6(2)_ET\", \"Cisco Unified Intelligence Center 12.6.2_CSCwn48501_ET\"]",
+    "cve": "CVE-2025-20288",
+    "description": "Cisco Unified Intelligence Center是美国思科（Cisco）公司的一套基于Web的报表平台。该平台提供报告相关的业务数据和呼叫中心数据的展示功能。Cisco Unified Intelligence Center存在服务端请求伪造漏洞，该漏洞源于特定HTTP请求输入验证不当，攻击者可利用该漏洞可能导致服务端请求伪造攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20288",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cuis-ssrf-JSuDjeV",
+    "patch": "Cisco Unified Intelligence Center服务端请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "310988f816a107f560c33b49ea3069f0"
+}

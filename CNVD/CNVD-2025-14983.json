@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:31:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14983",
+    "spider_time": 1767159099684,
+    "name": "SONY XAV-AX5500代码执行漏洞",
+    "cnvd": "CNVD-2025-14983",
+    "publish": "2025-07-01",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"SONY XAV-AX5500\"]",
+    "cve": "CVE-2024-23922",
+    "description": "SONY XAV-AX5500是一款7英寸车载中控设备，具有多种功能和先进的技术特点。SONY XAV-AX5500存在代码执行漏洞，该漏洞源于缺少对软件更新包的正确验证，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-24-878/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.sony.com/electronics/support/mobile-cd-players-digital-media-players-xav-series/xav-ax5500/software/00274156",
+    "patch": "SONY XAV-AX5500代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-01",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "8bfae439d3c65e41431cb63a5e9d5566"
+}

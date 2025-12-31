@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:01:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22582",
+    "spider_time": 1767146511785,
+    "name": "WordPress Catch Dark Mode plugin文件包含漏洞",
+    "cnvd": "CNVD-2025-22582",
+    "publish": "2025-09-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress Catch Dark Mode plugin <=2.0\"]",
+    "cve": "CVE-2025-10143",
+    "description": "WordPress Catch Dark Mode plugin是一款用于在WordPress网站中启用暗黑模式的官方插件，提供多种自定义选项和预置主题方案。WordPress Catch Dark Mode plugin存在文件包含漏洞，该漏洞源于catch_dark_mode短码存在本地文件包含问题，攻击者可利用该漏洞执行任意PHP代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/catch-dark-mode/trunk/plugin.php#L483",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/catch-dark-mode",
+    "patch": "WordPress Catch Dark Mode plugin文件包含漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-19",
+    "open_time": "2025-09-25",
+    "update_time": "2025-09-25",
+    "data_summary": "443eb05dab9729098f0ce0a0342ea0d8"
+}

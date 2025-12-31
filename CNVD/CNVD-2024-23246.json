@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:54:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-23246",
+    "spider_time": 1767149678927,
+    "name": "FreeRDP progressive_decompress函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2024-23246",
+    "publish": "2024-05-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:P",
+    "product": "[\"FreeRDP FreeRDP <2.11.0\", \"FreeRDP FreeRDP <3.0-Beta3\"]",
+    "cve": "CVE-2023-40569",
+    "description": "FreeRDP是FreeRDP团队的一款开源的远程桌面协议（RDP）的实现。FreeRDP存在缓冲区溢出漏洞，该漏洞源于progressive_decompress函数中nXSrc和nYSrc变量的错误计算。攻击者可利用该漏洞导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/FreeRDP/FreeRDP/blob/5be5553e0da72178a4b94cc1ffbdace9ceb153e5/libfreerdp/codec/progressive.c#L2598-L2616",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/FreeRDP/FreeRDP/security/advisories/GHSA-hm8c-rcjg-c8qp",
+    "patch": "FreeRDP progressive_decompress函数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-09-05",
+    "open_time": "2024-05-17",
+    "update_time": "2024-05-17",
+    "data_summary": "cdcfd391ac3931a1929a23a64817a568"
+}

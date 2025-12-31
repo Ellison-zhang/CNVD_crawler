@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:36:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33845",
+    "spider_time": 1767170179907,
+    "name": "Foxit PDF Reader template越界读漏洞",
+    "cnvd": "CNVD-2024-33845",
+    "publish": "2024-07-26",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Foxit PDF Reader\"]",
+    "cve": "CVE-2024-30323",
+    "description": "Foxit PDF Reader是一款PDF文档阅读器和打印器，拥有快捷的启动速度和丰富的功能。Foxit PDF Reader template存在越界读漏洞，远程攻击者可以利用该漏洞提交特殊的文件请求，诱使用户解析，可使应用程序崩溃或以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-30323",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://www.foxit.com/support/security-bulletins.html",
+    "patch": "Foxit PDF Reader template越界读漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-07",
+    "open_time": "2024-07-29",
+    "update_time": "2024-07-29",
+    "data_summary": "e961e217ca6849922374bf7ea49faa23"
+}

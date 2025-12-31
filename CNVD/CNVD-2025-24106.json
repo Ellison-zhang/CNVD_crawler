@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:53:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24106",
+    "spider_time": 1767167623113,
+    "name": "Simple Scheduling System addfaculty.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-24106",
+    "publish": "2025-10-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Simple Scheduling System Simple Scheduling System 1.0\"]",
+    "cve": "CVE-2025-11106",
+    "description": "Simple Scheduling System是一个简易调度系统。Simple Scheduling System存在SQL注入漏洞，该漏洞源于/schedulingsystem/addfaculty.php文件未对falname参数进行安全过滤。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.326187\nhttps://vuldb.com/?ctiid.326187\nhttps://vuldb.com/?submit.662443\nhttps://github.com/WANGshuyan2025/cve/issues/3\nhttps://code-projects.org/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-29",
+    "open_time": "2025-10-17",
+    "update_time": "2025-10-17",
+    "data_summary": "7292b7ddd1c49da6ab08c3c311f3f70b"
+}

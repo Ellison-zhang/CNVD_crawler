@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:18:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-28618",
+    "spider_time": 1767151093610,
+    "name": "Microsoft Edge for iOS欺骗漏洞（CNVD-2024-28618）",
+    "cnvd": "CNVD-2024-28618",
+    "publish": "2024-06-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Microsoft Edge for iOS\"]",
+    "cve": "CVE-2024-30057",
+    "description": "Microsoft Edge是美国微软（Microsoft）公司的一款Windows 10之后版本系统附带的Web浏览器。Microsoft Edge for iOS存在欺骗漏洞，攻击者可利用该漏洞进行欺骗攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-30057",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security",
+    "patch": "Microsoft Edge for iOS欺骗漏洞（CNVD-2024-28618）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-17",
+    "open_time": "2024-06-24",
+    "update_time": "2024-06-24",
+    "data_summary": "a53abeee3606f579257505d7b4cb3a72"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:05:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19353",
+    "spider_time": 1767161142558,
+    "name": "SIEMENS Desigo CC family和SENTRON Powermanager权限提升漏洞",
+    "cnvd": "CNVD-2025-19353",
+    "publish": "2025-08-14",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"SIEMENS Desigo CC family V5.0 all\", \"SIEMENS Desigo CC family V5.1 all\", \"SIEMENS Desigo CC family V6 all\", \"SIEMENS Desigo CC family V7 all\", \"SIEMENS Desigo CC family V8 all\", \"SIEMENS SENTRON Powermanager V5 all\", \"SIEMENS SENTRON Powermanager V6 all\", \"SIEMENS SENTRON Powermanager V7 all\", \"SIEMENS SENTRON Powermanager V8 all\"]",
+    "cve": null,
+    "description": "Desigo CC产品系列包括Desigo CC（一个用于管理高性能建筑的集成建筑管理平台）、Desigo CC Compact（一个专为中小型建筑量身定制的解决方案）、Desigo CC Connect（一个基于Desigo CC平台的软件网关）以及Cerberus DMS（一个危险管理站，可帮助用户管理消防安全和安保事件）。 SENTRON Powermanager电力监控软件通过在易于理解的仪表板上显示单个设备和整个系统的重要特性，来分析能耗。SIEMENS Desigo CC family和SENTRON Powermanager存在权限提升漏洞，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-201595.html",
+    "solution": "西门子发布了关于如何更新CodeMeter运行时组件的说明，并建议在受影响的系统上应用该更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-201595.html",
+    "patch": "SIEMENS Desigo CC family和SENTRON Powermanager权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-22",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "ae617e070b7c44c06026970659b743b2"
+}

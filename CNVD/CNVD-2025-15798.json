@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:37:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15798",
+    "spider_time": 1767159471771,
+    "name": "Cisco Secure Network Analytics数据伪造问题漏洞",
+    "cnvd": "CNVD-2025-15798",
+    "publish": "2025-07-11",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:N",
+    "product": "[\"Cisco Secure Network Analytics 7.5.0\", \"Cisco Secure Network Analytics 7.5.1\", \"Cisco Secure Network Analytics 7.5.2\"]",
+    "cve": "CVE-2025-20178",
+    "description": "Cisco Secure Network Analytics是一个网络安全解决方案，旨在提供企业范围的网络可见性和高级威胁检测与响应能力。Cisco Secure Network Analytics存在数据伪造问题漏洞，远程攻击者可以利用该漏洞提交特殊的备份请求，可以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20178",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sna-prvesc-4BQmK33Z",
+    "patch": "Cisco Secure Network Analytics数据伪造问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-21",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "9870bb667fbad1a6d80f0befe9de43a8"
+}

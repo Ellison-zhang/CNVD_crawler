@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:20:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35161",
+    "spider_time": 1767154824120,
+    "name": "D-Link DIR-600操作系统命令注入漏洞",
+    "cnvd": "CNVD-2024-35161",
+    "publish": "2024-08-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"D-Link DIR-600 <=2.18\"]",
+    "cve": "CVE-2024-7357",
+    "description": "D-Link DIR-600是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-600 2.18及之前版本存在操作系统命令注入漏洞，该漏洞源于操纵服务参数会导致os命令注入。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-7357/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10408",
+    "patch": "D-Link DIR-600操作系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-05",
+    "open_time": "2024-08-13",
+    "update_time": "2024-08-13",
+    "data_summary": "5be9ecffcebd1d91935511f1f2564a83"
+}

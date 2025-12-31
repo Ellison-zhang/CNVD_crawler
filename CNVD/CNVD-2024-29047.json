@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:20:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-29047",
+    "spider_time": 1767151258967,
+    "name": " 北京亿赛通科技发展有限责任公司电子文档安全管理系统存在XML实体注入漏洞",
+    "cnvd": "CNVD-2024-29047",
+    "publish": "2024-07-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"北京亿赛通科技发展有限责任公司 电子文档安全管理系统 V5.6.2.126.139\"]",
+    "cve": null,
+    "description": "北京亿赛通科技发展有限责任公司是国内数据安全、网络安全及安全服务三大业务提供商。北京亿赛通科技发展有限责任公司电子文档安全管理系统存在XML实体注入漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修补方案，建议用户下载使用：\nhttps://update.nsfocus.com/update/listCdgDetail/v/cdg820-old\nhttps://update.nsfocus.com/update/listCdgDetail/v/new-system5.6.2",
+    "patch": "北京亿赛通科技发展有限责任公司电子文档安全管理系统存在XML实体注入漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2024-06-03",
+    "open_time": "2024-06-26",
+    "update_time": "2024-07-20",
+    "data_summary": "229f528bbc294077978ed07087a5e30c"
+}

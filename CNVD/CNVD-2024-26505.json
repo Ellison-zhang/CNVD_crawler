@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:25:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-26505",
+    "spider_time": 1767169511839,
+    "name": "Fortinet FortiOS访问控制错误漏洞（CNVD-2024-26505）",
+    "cnvd": "CNVD-2024-26505",
+    "publish": "2024-06-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:M/C:P/I:P/A:P",
+    "product": "[\"Fortinet FortiOS >=7.2.0，<=7.2.4\", \"Fortinet FortiOS >=7.0.0，<=7.0.12\"]",
+    "cve": "CVE-2023-28001",
+    "description": "Fortinet FortiOS是美国飞塔（Fortinet）公司的一套专用于FortiGate网络安全平台上的安全操作系统。该系统为用户提供防火墙、防病毒、IPSec/SSLVPN、Web内容过滤和反垃圾邮件等多种安全功能。Fortinet FortiOS存在访问控制错误漏洞，该漏洞源于程序存在会话过期不足，攻击者可利用该漏洞通过在REST API中重用已删除用户的会话来执行未经授权的代码或命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-28001",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.com/psirt/FG-IR-23-028",
+    "patch": "Fortinet FortiOS访问控制错误漏洞（CNVD-2024-26505）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-07-13",
+    "open_time": "2024-06-11",
+    "update_time": "2024-06-11",
+    "data_summary": "6b47d9178ae1f512356490e853504347"
+}

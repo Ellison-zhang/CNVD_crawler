@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:33:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15607",
+    "spider_time": 1767159230556,
+    "name": "Apache Seata反序列化漏洞",
+    "cnvd": "CNVD-2025-15607",
+    "publish": "2025-07-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apache Apache Seata >=2.0.0，<2.3.0\"]",
+    "cve": "CVE-2025-32897",
+    "description": "Apache Seata是美国阿帕奇（Apache）基金会的一款在微服务架构下提供高性能和简单易用的分布式事务服务的开源项目。Apache Seata 2.0.0至2.3.0之前版本存在反序列化漏洞，该漏洞源于应用程序在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞导致代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lists.apache.org/thread/9fhtf7yvpjpzlwd1m0wfgg6tp2btxpy1",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://seata.incubator.apache.org/",
+    "patch": "Apache Seata反序列化漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-07",
+    "open_time": "2025-07-14",
+    "update_time": "2025-07-14",
+    "data_summary": "90efbb1ba546a63209e403fe0205c7e5"
+}

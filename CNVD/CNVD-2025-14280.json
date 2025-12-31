@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:21:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14280",
+    "spider_time": 1767158479198,
+    "name": "Google Chrome类型混淆漏洞",
+    "cnvd": "CNVD-2025-14280",
+    "publish": "2025-06-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <137.0.7151.103\"]",
+    "cve": "CVE-2025-5959",
+    "description": "Google Chrome是一款流行的Web浏览器。Google Chrome存在类型混淆漏洞，该漏洞源于使用不兼容类型访问资源，远程攻击者可利用该漏洞提交特殊的WEB请求，诱使用户解析，可使应用程序崩溃或者以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/06/stable-channel-update-for-desktop_10.html",
+    "solution": "厂商已提供漏洞修复程序，请及时关注厂商更新：\nhttps://issues.chromium.org/issues/422313191",
+    "patch": "Google Chrome类型混淆漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-30",
+    "update_time": "2025-06-30",
+    "data_summary": "9af725fd2bd718177049076f8dfc2b5e"
+}

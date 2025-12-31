@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:07:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2015-05480",
+    "spider_time": 1767146828248,
+    "name": "vBulletin任意文件上传漏洞",
+    "cnvd": "CNVD-2015-05480",
+    "publish": "2015-08-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Vbulletin Vbulletin\"]",
+    "cve": "76368",
+    "description": "vBulletin是美国Internet Brands和vBulletin Solutions公司共同开发的一款开源的商业Web论坛程序。vBulletin中存在任意文件上传漏洞。攻击者可利用该漏洞向受影响计算机上传任意文件，在受影响应用程序上下文中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.securityfocus.com/bid/76368",
+    "solution": "目前厂商已经发布了升级补丁以修复此安全问题，详情请关注厂商主页：\nhttp://www.vbulletin.com/",
+    "patch": "vBulletin任意文件上传漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2015-08-19",
+    "open_time": "2015-08-24",
+    "update_time": "2015-08-24",
+    "data_summary": "45bc8e489448051c5f4c5c39d3746f00"
+}

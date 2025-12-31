@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:06:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11436",
+    "spider_time": 1767157571318,
+    "name": "Adobe Commerce跨站脚本漏洞",
+    "cnvd": "CNVD-2025-11436",
+    "publish": "2025-06-03",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:N",
+    "product": "[\"Adobe Adobe Commerces 2.4.7-p3\", \"Adobe Adobe Commerces 2.4.6-p8\", \"Adobe Adobe Commerces 2.4.5-p10\", \"Adobe Adobe Commerces <=2.4.4-p11\", \"Adobe Adobe Commerce 2.4.8-beta1\"]",
+    "cve": "CVE-2025-24438",
+    "description": "Adobe Commerce是一款企业级电子商务解决方案，旨在为全球的B2B和B2C企业提供卓越的在线购物体验。Adobe Commerces存在跨站脚本漏洞。该漏洞源于未能正确处理用户输入内容，攻击者可利用该漏洞获取用户的敏感信息，进一步影响数据的保密性和完整性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-24438",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/magento/apsb25-08.html",
+    "patch": "Adobe Commerce跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-14",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "aed3175cbfa8e84080a859b4afadc3c6"
+}

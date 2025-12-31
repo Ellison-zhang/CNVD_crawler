@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:28:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-36344",
+    "spider_time": 1767155291622,
+    "name": "Tenda AC9存在未明漏洞（CNVD-2024-36344）",
+    "cnvd": "CNVD-2024-36344",
+    "publish": "2024-08-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda Ac9\"]",
+    "cve": "CVE-2024-42634",
+    "description": "Tenda AC9是中国腾达（Tenda）公司的一款无线路由器。Tenda AC9存在安全漏洞，该漏洞产生的原因是设备固件中存在未授权访问的缺陷。攻击者可以利用该漏洞绕过身份验证，获取设备的管理权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/goldds96/Report/blob/main/Tenda/AC9/CI.md",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttp://www.tendacn.com",
+    "patch": "Tenda AC9存在未明漏洞（CNVD-2024-36344）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-20",
+    "open_time": "2024-08-23",
+    "update_time": "2024-08-23",
+    "data_summary": "cd92d5faa713fa3b1cb7d473fdeaece8"
+}

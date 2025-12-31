@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:02:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25368",
+    "spider_time": 1767168179961,
+    "name": "F5 BIG-IP ePVA拒绝服务漏洞",
+    "cnvd": "CNVD-2025-25368",
+    "publish": "2025-10-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"F5 F5 BIG-IP null\"]",
+    "cve": "CVE-2025-53856",
+    "description": "F5 BIG-IP是F5公司的一款集成了网络流量编排、负载均衡、智能DNS，远程接入策略管理等功能的应用交付平台。BIG-IP的ePVA模块存在拒绝服务漏洞，该漏洞产生的原因是当虚拟服务器、NAT对象或SNAT对象使用ePVA功能且Auto Las tHop设置被禁用时，未公开的流量可能导致TMM进程终止。攻击者可利用该漏洞造成BIG-IP系统的拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-53856",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://my.f5.com/manage/s/article/K000156572",
+    "patch": "F5 BIG-IP ePVA拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-27",
+    "update_time": "2025-10-27",
+    "data_summary": "fd281ff7ea5ed6a3d3d8155379939816"
+}

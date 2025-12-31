@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:06:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-25258",
+    "spider_time": 1767150382066,
+    "name": "D-Link D-View信任管理问题漏洞",
+    "cnvd": "CNVD-2024-25258",
+    "publish": "2024-05-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link D-View\"]",
+    "cve": "CVE-2024-5296",
+    "description": "D-Link D-View是中国友讯（D-Link）公司的一款基于Web设计的网络设备管理软件。D-Link D-View8存在信任管理问题漏洞，该漏洞源于使用硬编码加密密钥，攻击者可利用该漏洞可以绕过系统上的身份验证。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-24-447/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10386",
+    "patch": "D-Link D-View信任管理问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-27",
+    "open_time": "2024-05-31",
+    "update_time": "2024-05-31",
+    "data_summary": "9db04f09e0b06facd1b9500b01a5a27c"
+}

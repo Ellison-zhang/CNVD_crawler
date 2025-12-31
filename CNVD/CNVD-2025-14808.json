@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:23:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14808",
+    "spider_time": 1767158636119,
+    "name": "SAP Manage Processing Rules授权问题漏洞",
+    "cnvd": "CNVD-2025-14808",
+    "publish": "2025-06-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"SAP SAP Manage Processing Rules\"]",
+    "cve": "CVE-2025-42987",
+    "description": "SAP是企业应用软件、企业资源管理应用、供应链管理应用、采购应用软件、差旅和费用管理软件。SAP Manage Processing Rules存在授权问题漏洞，该漏洞源于授权检查不足，攻击者可利用该漏洞编辑共享规则。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://me.sap.com/notes/3596850",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.sap.com/index.html",
+    "patch": "SAP Manage Processing Rules授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-23",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "c0cd763aacd5605572113ae6b357ca1e"
+}

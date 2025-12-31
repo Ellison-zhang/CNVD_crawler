@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:01:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-29676",
+    "spider_time": 1767146504481,
+    "name": "FFmpeg缓冲区溢出漏洞（CNVD-2024-29676）",
+    "cnvd": "CNVD-2024-29676",
+    "publish": "2024-07-02",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"FFmpeg FFmpeg v.N113007-g8d24a28d06\"]",
+    "cve": "CVE-2023-51791",
+    "description": "FFmpeg是FFmpeg团队的一套可录制、转换以及流化音视频的完整解决方案。FFmpeg v.N113007-g8d24a28d06版本存在缓冲区溢出漏洞，攻击者可利用该漏洞通过gen_alias_map中的libavcodec/jpegxl_parser.c执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2023-51791/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://trac.ffmpeg.org/ticket/10738",
+    "patch": "FFmpeg缓冲区溢出漏洞（CNVD-2024-29676）的补丁",
+    "verify": "已验证",
+    "submit_time": "2024-04-24",
+    "open_time": "2024-07-01",
+    "update_time": "2024-07-01",
+    "data_summary": "e6d6f75ba25f282d375bed1d28be7494"
+}

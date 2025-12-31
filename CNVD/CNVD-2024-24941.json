@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:03:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-24941",
+    "spider_time": 1767150231668,
+    "name": "友讯电子设备（上海）有限公司DAR-8000-10反序列化漏洞",
+    "cnvd": "CNVD-2024-24941",
+    "publish": "2024-05-29",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"友讯电子设备（上海）有限公司 DAR-8000-10 <=20230922\"]",
+    "cve": "CVE-2024-4699",
+    "description": "DAR-8000-10是中国友讯（D-Link）公司的上网行为审计网关。友讯电子设备（上海）有限公司DAR-8000-10 20230922及之前版本存在反序列化漏洞，该漏洞源于文件/importhtml.php的参数sql在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞导致代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?submit.331311",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10354",
+    "patch": "友讯电子设备（上海）有限公司DAR-8000-10反序列化漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-22",
+    "open_time": "2024-05-30",
+    "update_time": "2024-05-30",
+    "data_summary": "815aa5746c3828890b4d287bb5d732eb"
+}

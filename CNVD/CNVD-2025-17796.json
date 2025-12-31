@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 17:25:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17796",
+    "spider_time": 1767173128254,
+    "name": "TOTOLINK A702R缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-17796",
+    "publish": "2025-07-31",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A702R 4.0.0B20230721.1521\"]",
+    "cve": "CVE-2025-8140",
+    "description": "TOTOLINK A702R是TOTOLINK公司的一款无线路由器。TOTOLINK A702R 4.0.0B20230721.1521版本存在缓冲区溢出漏洞，该漏洞源于HTTP POST请求处理组件中/boafrm/formWlanMultipleAP文件对submit-url参数的处理不当。攻击者可利用该漏洞通过远程构造恶意数据触发缓冲区溢出，从而可能导致设备拒绝服务或执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.317536\nhttps://vuldb.com/?ctiid.317536\nhttps://vuldb.com/?submit.620486\nhttps://github.com/panda666-888/vuls/blob/main/totolink/a702r/formWlanMultipleAP.md\nhttps://www.totolink.net/",
+    "solution": "目前厂商尚未发布升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://vuldb.com/?id.317536",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-28",
+    "open_time": "2025-08-07",
+    "update_time": "2025-08-07",
+    "data_summary": "401c6ab7ae580e9501452b61cfd41a0c"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:32:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33074",
+    "spider_time": 1767169927064,
+    "name": "上海布雷德科技有限公司springblade框架存在SQL注入漏洞",
+    "cnvd": "CNVD-2024-33074",
+    "publish": "2024-07-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"上海布雷德科技有限公司 springblade框架\"]",
+    "cve": null,
+    "description": "上海布雷德科技有限公司是一家以高端软件技术咨询、微服务技术架构设计为主营业务的软件技术型企业。上海布雷德科技有限公司springblade框架存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "据厂商提供的信息，该产品3.7.1版本开始（2023-12-08）已修复此漏洞，建议用户下载使用：\nhttps://bladex.cn/",
+    "patch": "上海布雷德科技有限公司springblade框架存在SQL注入漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2024-05-31",
+    "open_time": "2024-07-18",
+    "update_time": "2024-07-18",
+    "data_summary": "8df7d18afe7db859eea2f23db0471844"
+}

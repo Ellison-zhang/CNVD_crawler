@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:23:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20492",
+    "spider_time": 1767165801035,
+    "name": "JetBrains TeamCity访问控制不当漏洞",
+    "cnvd": "CNVD-2025-20492",
+    "publish": "2025-09-01",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"JetBrains TeamCity <2023.11.2\"]",
+    "cve": "CVE-2024-24936",
+    "description": "JetBrains TeamCity是由JetBrains公司开发的持续集成（CI/CD）工具，主要用于自动化软件构建、测试及部署流程。JetBrains TeamCity存在访问控制不当漏洞，该漏洞源于缺少S3 Artifact Storage插件端点的访问控制。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-24936",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains TeamCity访问控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-02-26",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "cfe11bc08e1319711f7c119b525a4ee1"
+}

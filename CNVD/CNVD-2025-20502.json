@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:25:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20502",
+    "spider_time": 1767165941439,
+    "name": "NETGEAR Nighthawk WiFi6 Router命令注入漏洞",
+    "cnvd": "CNVD-2025-20502",
+    "publish": "2025-09-02",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR Nighthawk WiFi6 Router <1.0.9.90\"]",
+    "cve": "CVE-2022-47208",
+    "description": "NETGEAR Nighthawk WiFi6 Router是NETGEAR推出的支持WiFi 6技术 的路由器系列，主要面向追求高速网络体验的用户。NETGEAR Nighthawk WiFi6 Router存在命令注入漏洞，该漏洞源于用户输入过滤不当，攻击者可利用该漏洞在未经身份验证的情况下在设备上执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.tenable.com/security/research/tra-2022-37",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "NETGEAR Nighthawk WiFi6 Router命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-12-20",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "eaf9de68fe26a4f692629bdc37695380"
+}

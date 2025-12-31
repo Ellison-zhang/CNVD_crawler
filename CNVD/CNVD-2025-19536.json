@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:16:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19536",
+    "spider_time": 1767161775602,
+    "name": "NVIDIA Megatron-LM代码注入漏洞（CNVD-2025-19536）",
+    "cnvd": "CNVD-2025-19536",
+    "publish": "2025-08-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"NVIDIA Megatron-LM\"]",
+    "cve": "CVE-2025-23306",
+    "description": "NVIDIA Megatron-LM是美国英伟达（NVIDIA）公司的一个基于PyTorch的分布式训练框架，专门用于训练大型Transformer语言模型。NVIDIA Megatron-LM存在代码注入漏洞，该漏洞源于megatron/training/arguments.py组件，攻击者可利用该漏洞通过注入恶意代码并执行，获取系统权限或进行远程控制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-23306",
+    "solution": "厂商已提供漏洞修复程序，请及时关注厂商更新：\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5685",
+    "patch": "NVIDIA Megatron-LM代码注入漏洞（CNVD-2025-19536）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-21",
+    "open_time": "2025-08-28",
+    "update_time": "2025-08-28",
+    "data_summary": "f12a86489121a85482e0600e86b503c7"
+}

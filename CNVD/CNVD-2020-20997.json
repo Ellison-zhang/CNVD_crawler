@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:39:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2020-20997",
+    "spider_time": 1767148748765,
+    "name": "Joomla!访问控制错误漏洞（CNVD-2020-20997）",
+    "cnvd": "CNVD-2020-20997",
+    "publish": "2020-04-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Joomla! Joomla!  >=2.5.0，<=3.9.15\"]",
+    "cve": "CVE-2020-10238",
+    "description": "Joomla!是美国Open Source Matters团队的一套使用PHP和MySQL开发的开源、跨平台的内容管理系统(CMS)。Joomla! 2.5.0版本至3.9.15版本中存在访问控制错误漏洞，该漏洞源于com_templates中的各种操作未能进行ACL检查，攻击者可利用该漏洞绕过访问限制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://developer.joomla.org/security-centre/804-20200303-core-incorrect-access-control-in-com-templates",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://developer.joomla.org/security-centre.html",
+    "patch": "Joomla!访问控制错误漏洞（CNVD-2020-20997）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2020-03-13",
+    "open_time": "2020-04-02",
+    "update_time": "2020-04-02",
+    "data_summary": "e25fe57b5248cc2efd30aabffd9670bf"
+}

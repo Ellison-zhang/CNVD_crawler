@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:32:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2019-29252",
+    "spider_time": 1767148333710,
+    "name": "Adobe Acrobat和Reader缓冲区溢出漏洞（CNVD-2019-29252）",
+    "cnvd": "CNVD-2019-29252",
+    "publish": "2019-08-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Adobe Acrobat DC（Continuous，macOS平台） <=2019.012.20034\", \"Adobe Acrobat DC（Continuous，Windows平台） <=2019.012.20035\", \"Adobe Acrobat Reader DC（Continuous，macOS平台） <=2019.012.20034\", \"Adobe Acrobat Reader DC（Continuous，Windows平台） <=2019.012.20035\", \"Adobe Acrobat DC（Classic 2017，macOS平台） <=2017.011.30142\", \"Adobe Acrobat DC（Classic 2017，Windows平台） <=2017.011.30143\", \"Adobe Acrobat Reader DC（Classic 2017，macOS平台） <=2017.011.30142\", \"Adobe Acrobat Reader DC（Classic 2017，Windows平台） <=2017.011.30143\", \"Adobe Acrobat DC（Classic 2015，macOS平台） <=2015.006.30497\", \"Adobe Acrobat DC（Classic 2015，Windows平台） <=2015.006.30498\", \"Adobe Acrobat Reader DC (Classic 2015，macOS平台) <=2015.006.30497\", \"Adobe Acrobat Reader DC (Classic 2015，Windows平台) <=2015.006.30498\"]",
+    "cve": "CVE-2019-8004",
+    "description": "Adobe Acrobat和Reader都是美国奥多比（Adobe）公司的产品。Adobe Acrobat是一套PDF文件编辑和转换工具。Reader是一套PDF文档阅读软件。Adobe Acrobat和Reader存在缓冲区溢出漏洞。攻击者可利用该漏洞泄露信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2019-8004",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/acrobat/apsb19-41.html",
+    "patch": "Adobe Acrobat和Reader缓冲区溢出漏洞（CNVD-2019-29252）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2019-08-15",
+    "open_time": "2019-08-29",
+    "update_time": "2019-08-29",
+    "data_summary": "79cf34aa32a8f8257e4f0b031120880b"
+}

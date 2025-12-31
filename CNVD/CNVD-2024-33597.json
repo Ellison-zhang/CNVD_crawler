@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:35:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33597",
+    "spider_time": 1767170133558,
+    "name": "Apache CloudStack代码注入漏洞",
+    "cnvd": "CNVD-2024-33597",
+    "publish": "2024-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apache CloudStack >=4.0.0，<4.18.2.1\", \"Apache CloudStack >=4.19.0.0，<4.19.0.2\"]",
+    "cve": "CVE-2024-38346",
+    "description": "Apache CloudStack是美国阿帕奇（Apache）基金会的一套基础架构即服务（IaaS）云计算平台。该平台主要用于部署和管理大型虚拟机网络。Apache CloudStack存在代码注入漏洞，该漏洞源于在未经身份验证的端口上运行时，该端口可能被滥用来在目标虚拟机管理程序和管理服务器主机上运行任意命令。其中一些命令具有命令注入漏洞，攻击者可利用该漏洞以特权用户身份运行的主机上的代理执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-38346/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/6l51r00csrct61plkyd3qg3fj99215d1",
+    "patch": "Apache CloudStack代码注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-09",
+    "open_time": "2024-07-25",
+    "update_time": "2024-07-25",
+    "data_summary": "a719c3a3e6800c81283a61ae951d25c4"
+}

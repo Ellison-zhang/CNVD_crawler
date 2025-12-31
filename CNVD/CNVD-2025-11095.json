@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:00:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11095",
+    "spider_time": 1767157210943,
+    "name": "NETGEAR RAX30缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11095",
+    "publish": "2025-05-27",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR NETGEAR RAX30 <1.0.12.100_HOTFIX\"]",
+    "cve": "CVE-2023-51635",
+    "description": "NETGEAR RAX30是美国网件（NETGEAR）公司的一个双频无线路由器。NETGEAR RAX30存在缓冲区溢出漏洞，该漏洞源于缺乏对用户提供的数据长度进行验证，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://kb.netgear.com/000065928/Security-Advisory-for-Multiple-Vulnerabilities-on-the-RAX30-PSV-2023-0139https://www.zerodayinitiative.com/advisories/ZDI-24-584/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://kb.netgear.com/000065928/Security-Advisory-for-Multiple-Vulnerabilities-on-the-RAX30-PSV-2023-0139",
+    "patch": "NETGEAR RAX30缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-09",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "a5e3c18fcbd667485ae220ae1d0a76e1"
+}

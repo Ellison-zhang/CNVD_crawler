@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:05:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19399",
+    "spider_time": 1767161159048,
+    "name": "新华三技术有限公司Web网管用户登录存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-19399",
+    "publish": "2025-08-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"新华三技术有限公司 Web网管用户登录存系统\"]",
+    "cve": null,
+    "description": "新华三技术有限公司是业界领先的数字化解决方案领导者，致力于成为客户业务创新、数字化转型最可信赖的合作伙伴。新华三技术有限公司Web网管用户登录存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.h3c.com",
+    "patch": "新华三技术有限公司Web网管用户登录存在SQL注入漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-08-26",
+    "update_time": "2025-08-26",
+    "data_summary": "c771df0ebb83c84d2dade1241c9201c4"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:25:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-29655",
+    "spider_time": 1767151536477,
+    "name": "Nextcloud存在未明漏洞（CNVD-2024-29655）",
+    "cnvd": "CNVD-2024-29655",
+    "publish": "2024-06-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"Nextcloud Nextcloud Server <25.0.7\", \"Nextcloud Nextcloud Server <26.0.2\", \"Nextcloud Nextcloud Enterprise Server <25.0.7\", \"Nextcloud Nextcloud Enterprise Server <26.0.2\"]",
+    "cve": "CVE-2024-37314",
+    "description": "Nextcloud是德国Nextcloud公司的一套开源的自托管文件同步和共享的通信应用平台。Nextcloud Photos存在安全漏洞，该漏洞源于用户可以从注册用户的相册中删除照片。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-37314",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/nextcloud/security-advisories/security/advisories/GHSA-9chh-5prm-wp43",
+    "patch": "Nextcloud存在未明漏洞（CNVD-2024-29655）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-21",
+    "open_time": "2024-06-28",
+    "update_time": "2024-06-28",
+    "data_summary": "d8274fdf1022314438558129c487117a"
+}

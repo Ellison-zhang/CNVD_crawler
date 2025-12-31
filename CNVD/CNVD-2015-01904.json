@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:05:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2015-01904",
+    "spider_time": 1767146734939,
+    "name": "FerretCMS存在多个跨站请求伪造漏洞",
+    "cnvd": "CNVD-2015-01904",
+    "publish": "2015-03-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:N/I:P/A:N",
+    "product": "[\"FerretCMS FerretCMS\"]",
+    "cve": "CVE-2015-1374",
+    "description": "FerretCMS是一款内容管理系统。FerretCMS存在多个跨站请求伪造漏洞，允许攻击者利用此漏洞执行未授权操作及访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.securityfocus.com/bid/73116",
+    "solution": "目前没有详细解决方案提供：\nhttps://github.com/JRogaishio/ferretCMS",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2015-03-20",
+    "open_time": "2015-03-24",
+    "update_time": "2015-03-20",
+    "data_summary": "4b8e217b012b141c72b1c14ef5e300e5"
+}

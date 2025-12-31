@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:45:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-62976",
+    "spider_time": 1767149148013,
+    "name": "Liferay Portal和Liferay DXP跨站脚本漏洞（CNVD-2021-62976）",
+    "cnvd": "CNVD-2021-62976",
+    "publish": "2021-08-18",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:M/Au:S/C:N/I:P/A:N",
+    "product": "[\"Liferay Liferay DXP <7.1 fix pack 20\", \"Liferay Liferay DXP <7.2 fix pack 9\", \"Liferay Liferay Portal >=7.0.0，<=7.3.4\", \"Liferay Liferay DXP <7.0 fix pack 96\"]",
+    "cve": "CVE-2021-33328",
+    "description": "Liferay Portal和Liferay DXP都是美国Liferay公司的产品。Liferay Portal是一套基于J2EE的门户解决方案。该方案使用了EJB以及JMS等技术，并可作为Web发布和共享工作区、企业协作平台、社交网络等。Liferay DXP是一套数字化体验协作平台。Liferay Portal和Liferay DXP存在跨站脚本漏洞，攻击者可利用该漏洞注入任意web脚本或HTML代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://issues.liferay.com/browse/LPE-17100",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://issues.liferay.com/browse/",
+    "patch": "Liferay Portal和Liferay DXP跨站脚本漏洞（CNVD-2021-62976）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-08-05",
+    "open_time": "2021-08-18",
+    "update_time": "2021-08-18",
+    "data_summary": "095d2caa023d7a276221c1cdc6714413"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:12:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12442",
+    "spider_time": 1767157950736,
+    "name": "新天科技股份有限公司智慧报装网上营业厅存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-12442",
+    "publish": "2025-06-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"新天科技股份有限公司 智慧报装网上营业厅 V1.0\"]",
+    "cve": null,
+    "description": "新天科技股份有限公司是水表，电能表，气表的专业生产厂家和供应商。新天科技股份有限公司智慧报装网上营业厅存在SQL注入漏洞，攻击者可利用漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.suntront.com/",
+    "patch": "新天科技股份有限公司智慧报装网上营业厅存在SQL注入漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-04-27",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "8773ef81d5d748151307e754bd263c1c"
+}

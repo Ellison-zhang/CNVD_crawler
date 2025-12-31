@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:17:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-28514",
+    "spider_time": 1767151031845,
+    "name": "SuiteCRM远程执行代码漏洞",
+    "cnvd": "CNVD-2024-28514",
+    "publish": "2024-06-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"SuiteCRM SuiteCRM v7.11.23\"]",
+    "cve": "CVE-2022-27474",
+    "description": "SuiteCRM是Suitecrm团队的一个客户关系管理系统。SuiteCRM v7.11.23版本存在远程执行代码漏洞，该漏洞源于外部输入数据构造代码段的过程中，网络系统或产品未能正确过滤其中的特殊元素。攻击者可利用该漏洞通过注入FirstName文本字段的精心设计的有效负载远程执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Mount4in/Mount4in.github.io/blob/master/suitecrm.docx",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://suitecrm.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-04-19",
+    "open_time": "2024-06-21",
+    "update_time": "2024-06-21",
+    "data_summary": "c39f9fba81049efe2ec1ee9526b67a3e"
+}

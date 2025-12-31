@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:28:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-29684",
+    "spider_time": 1767169701075,
+    "name": "FFmpeg堆缓冲区溢出漏洞（CNVD-2024-29684）",
+    "cnvd": "CNVD-2024-29684",
+    "publish": "2024-07-02",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"FFmpeg FFmpeg n6.1\"]",
+    "cve": "CVE-2024-31582",
+    "description": "FFmpeg是一套可以用来记录、转换数字音频、视频，并能将其转化为流的开源计算机程序。FFmpeg存在堆缓冲区溢出漏洞，攻击者可利用该漏洞导致拒绝服务（DoS）。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-31582",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://github.com/ffmpeg/ffmpeg/commit/99debe5f823f45a482e1dc08de35879aa9c74bd2",
+    "patch": "FFmpeg堆缓冲区溢出漏洞（CNVD-2024-29684）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-22",
+    "open_time": "2024-07-01",
+    "update_time": "2024-07-01",
+    "data_summary": "b92e93bbe345689510555bcd9eef49d8"
+}

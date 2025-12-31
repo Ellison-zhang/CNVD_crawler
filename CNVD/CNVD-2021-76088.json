@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:48:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-76088",
+    "spider_time": 1767149303327,
+    "name": "PortlandLabs Concrete CMS跨站脚本漏洞（CNVD-2021-76088）",
+    "cnvd": "CNVD-2021-76088",
+    "publish": "2021-10-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:N/I:P/A:N",
+    "product": "[\"PortlandLabs Concrete CMS <=8.5.5\"]",
+    "cve": "CVE-2021-40106",
+    "description": "PortlandLabs Concrete Cms是美国PortlandLabs公司的一个面向团队的开源内容管理系统。PortlandLabs Concrete CMS中存在跨站脚本漏洞，该漏洞源于产品播客评论功能的website字段未能正确处理用户输入输入。攻击者可通过该漏洞导致客户端代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://hackerone.com/reports/1102042",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://www.concretecms.com/download_file/61dab82f-fb01-47bc-8cf1-deffff890224/9",
+    "patch": "PortlandLabs Concrete CMS跨站脚本漏洞（CNVD-2021-76088）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-09-29",
+    "open_time": "2021-10-11",
+    "update_time": "2021-10-11",
+    "data_summary": "8d5db6ae5e0f23ea2367c10240a0d5f0"
+}

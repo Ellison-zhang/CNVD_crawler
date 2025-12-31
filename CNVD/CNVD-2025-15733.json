@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:37:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15733",
+    "spider_time": 1767159438783,
+    "name": "TOTOLINK CP450堆栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-15733",
+    "publish": "2025-07-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:P/A:P",
+    "product": "[\"TOTOLINK CP450 4.1.0cu.747_B20191224\"]",
+    "cve": "CVE-2024-34203",
+    "description": "TOTOLINK CP450 是中国吉翁电子公司生产的户外无线客户终端设备，主要用于农村及偏远地区的无线宽带接入服务。TOTOLINK CP450存在堆栈缓冲区溢出漏洞，该漏洞源于setLanguageCfg方法未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/n0wstr/IOTVuln/tree/main/CP450/setLanguageCfg",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "TOTOLINK CP450堆栈缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-22",
+    "open_time": "2025-07-15",
+    "update_time": "2025-07-15",
+    "data_summary": "3a0b485ac5edb72a4f13e4682fe7c43b"
+}

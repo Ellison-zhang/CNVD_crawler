@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:45:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-36737",
+    "spider_time": 1767170718877,
+    "name": "Tenda FH1206 formSafeEmailFilter函数栈溢出漏洞",
+    "cnvd": "CNVD-2024-36737",
+    "publish": "2024-08-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda FH1206 02.03.01.35\"]",
+    "cve": "CVE-2024-7707",
+    "description": "Tenda FH1206是中国腾达（Tenda）公司的一款无线路由器。Tenda FH1206 /goform/SafeEmailFilter中的formSafeEmailFilter函数处理page参数存在栈溢出漏洞，远程攻击者可利用该漏洞提交特殊的请求，可使服务程序崩溃或以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/VodkaVortex/IoT/blob/main/formSafeEmailFilter.md",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.tenda.com.cn/product/overview/FH1206.html",
+    "patch": "Tenda FH1206 formSafeEmailFilter函数栈溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-20",
+    "open_time": "2024-08-28",
+    "update_time": "2024-08-28",
+    "data_summary": "766e775c3ea5a5c60adbf4925d00eba7"
+}

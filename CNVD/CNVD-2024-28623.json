@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:26:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-28623",
+    "spider_time": 1767169611831,
+    "name": "Microsoft Edge (Chromium-based)欺骗漏洞（CNVD-2024-28623）",
+    "cnvd": "CNVD-2024-28623",
+    "publish": "2024-06-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Microsoft Edge (Chromium-based)\"]",
+    "cve": "CVE-2024-30058",
+    "description": "Microsoft Edge是美国微软（Microsoft）公司的一款Windows 10之后版本系统附带的Web浏览器。Microsoft Edge (Chromium-based)存在欺骗漏洞，攻击者可利用该漏洞进行欺骗攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30058",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30058",
+    "patch": "Microsoft Edge (Chromium-based)欺骗漏洞（CNVD-2024-28623）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-17",
+    "open_time": "2024-06-24",
+    "update_time": "2024-06-24",
+    "data_summary": "6496248720c6f8a3adc306be1f49356d"
+}

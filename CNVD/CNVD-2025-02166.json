@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:43:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02166",
+    "spider_time": 1767156220028,
+    "name": "Linksys E7350 apcli_cancel_wps命令注入漏洞",
+    "cnvd": "CNVD-2025-02166",
+    "publish": "2025-01-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Linksys E7350 1.1.00.032\"]",
+    "cve": "CVE-2024-57222",
+    "description": "Linksys E7350是一款领势公司的无线路由器设备。Linksys E7350 apcli_cancel_wps函数处理ifname参数存在安全漏洞，远程攻击者可利用该漏洞提交特殊的请求，可以应用程序上下文执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/yanggao017/vuln/blob/main/Linksys/E7350/CI_5_apcli_cancel_wps/README.md",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://support.linksys.com/kb/article/6935-cn/",
+    "patch": "Linksys E7350 apcli_cancel_wps命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-13",
+    "open_time": "2025-01-22",
+    "update_time": "2025-01-22",
+    "data_summary": "c7dc019a90a437f9ef80f8d3f5a30c8c"
+}

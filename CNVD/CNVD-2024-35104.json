@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:18:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35104",
+    "spider_time": 1767154701419,
+    "name": "Linux kernel存在未明漏洞（CNVD-2024-35104）",
+    "cnvd": "CNVD-2024-35104",
+    "publish": "2024-08-06",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:N/I:N/A:C",
+    "product": "[\"Linux Kernel\"]",
+    "cve": "CVE-2024-42230",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在安全漏洞，该漏洞源于powerpc/pseries模块中在使用kexec时，pseries平台在其他CPU关闭之前禁用了AIL，这可能导致在禁用AIL后执行scv指令的CPU中断，从而在意外的位置触发中断并导致内核崩溃。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-42230",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/21a741eb75f80397e5f7d3739e24d7d75e619011",
+    "patch": "Linux kernel存在未明漏洞（CNVD-2024-35104）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-02",
+    "open_time": "2024-08-09",
+    "update_time": "2024-08-09",
+    "data_summary": "9cb49ee627d4502d6d3b76c3e5120dd9"
+}

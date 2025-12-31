@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:55:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10443",
+    "spider_time": 1767156936621,
+    "name": "Netgear R6850 BRS_top.html文件信息泄露漏洞",
+    "cnvd": "CNVD-2025-10443",
+    "publish": "2025-05-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"NETGEAR Netgear R6850 v1.1.0.88\"]",
+    "cve": "CVE-2024-30571",
+    "description": "Netgear R6850是美国网件（NETGEAR）公司的一款无线路由器。Netgear R6850存在信息泄露漏洞，该漏洞源于BRS_top.html组件中对于敏感信息保护不足，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-30571",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-10",
+    "open_time": "2025-05-22",
+    "update_time": "2025-05-22",
+    "data_summary": "98c676795a4ae98e699ef4c97a2a4ef4"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:23:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-29348",
+    "spider_time": 1767151436968,
+    "name": " Dell PowerProtect Data Domain操作系统命令注入漏洞",
+    "cnvd": "CNVD-2024-29348",
+    "publish": "2024-06-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"DELL PowerProtect DD 6.2.1.110\", \"DELL PowerProtect DD 7.10.1.15\", \"DELL PowerProtect DD 7.7.5.25\", \"DELL PowerProtect DD <7.13.0.10\"]",
+    "cve": "CVE-2023-48668",
+    "description": "Dell PowerProtect Data Domain（Dell PowerProtect DD）是美国戴尔（Dell）公司的一套用于数据保护、备份、存储和重复数据消除的硬件设备。Dell PowerProtect Data Domain存在操作系统命令注入漏洞，该漏洞源于管理操作中包含操作系统命令注入漏洞。 本地高权限攻击者可以利用该漏洞导致使用易受攻击的应用程序的权限在托管系统应用程序的底层操作系统上执行任意操作系统命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-48668",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新:\nhttps://www.dell.com/support/kbdoc/en-us/000220264/dsa-2023-412-dell-technologies-powerprotect-security-update-for-multiple-security-vulnerabilities",
+    "patch": "Dell PowerProtect Data Domain操作系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-12-15",
+    "open_time": "2024-06-26",
+    "update_time": "2024-06-26",
+    "data_summary": "5ed1281d9e28c4d69b960bc1d40d77f6"
+}

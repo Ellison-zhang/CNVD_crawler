@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:46:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16956",
+    "spider_time": 1767159992617,
+    "name": "Google Pixel缓冲区溢出漏洞（CNVD-2025-16956）",
+    "cnvd": "CNVD-2025-16956",
+    "publish": "2025-07-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"Google Pixel\"]",
+    "cve": "CVE-2018-9383",
+    "description": "Google Pixel是美国谷歌（Google）公司的一款智能手机。Google Pixel存在缓冲区溢出漏洞，该漏洞源于缺少边界检查，从而允许越界读取内存，攻击者可利用该漏洞在受影响的应用程序上下文中运行任意代码，控制服务器进程。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2018-9383",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/pixel/2018-06-01",
+    "patch": "Google Pixel缓冲区溢出漏洞（CNVD-2025-16956）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-17",
+    "open_time": "2025-07-28",
+    "update_time": "2025-07-28",
+    "data_summary": "36ef9ae1c59d7ed8233646a21424085a"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:44:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33174",
+    "spider_time": 1767152681792,
+    "name": "新华三技术有限公司Magic R230存在未明漏洞",
+    "cnvd": "CNVD-2024-33174",
+    "publish": "2024-07-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"新华三技术有限公司 Magic R230 V100R002\"]",
+    "cve": "CVE-2024-38902",
+    "description": "Magic R230是中国新华三（H3C）公司的一款无线路由器。新华三技术有限公司Magic R230 V100R002存在安全漏洞，该漏洞源于在/etc/shadow中存在硬编码密码漏洞，攻击者可以利用该漏洞以root身份登录。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-38902",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.h3c.com/cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-17",
+    "open_time": "2024-07-18",
+    "update_time": "2024-07-18",
+    "data_summary": "22fcc6383dbda9b404dc35cdb2c3701a"
+}

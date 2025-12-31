@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:11:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2016-09334",
+    "spider_time": 1767147101102,
+    "name": "JumboTCMS V7.1.5.0829 ordernum参数存在sql注入漏洞",
+    "cnvd": "CNVD-2016-09334",
+    "publish": "2016-11-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"北京子木将博科技有限公司 将博CMS通用版\"]",
+    "cve": null,
+    "description": "JumboTCMS V7.1.5.0829是一套由微软.Net框架构建的开源网站内容管理系统。JumboTCMS V7.1.5.0829 user/ajax.aspx?oper=ajaxPayOrder页面ordernum参数存在sql注入漏洞。攻击者利用漏洞可获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://loudong.360.cn/vul/info/id/180332;https://butian.360.cn/vul/info/qid/QTVA-2016-541001",
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.jumbotcms.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2016-10-09",
+    "open_time": "2016-10-18",
+    "update_time": "2016-10-18",
+    "data_summary": "7a36c90f6deb1fa4c9e49abb0145a094"
+}

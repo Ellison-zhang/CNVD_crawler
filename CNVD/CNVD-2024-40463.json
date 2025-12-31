@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:38:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-40463",
+    "spider_time": 1767155887570,
+    "name": "友讯电子设备（上海）有限公司DIR-X4860操作系统命令注入漏洞",
+    "cnvd": "CNVD-2024-40463",
+    "publish": "2024-09-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"友讯电子设备（上海）有限公司 DIR-X4860 1.04\", \"友讯电子设备（上海）有限公司 DIR-X4860 1.00\"]",
+    "cve": "CVE-2024-45698",
+    "description": "DIR-X4860是中国友讯（D-Link）公司的一款无线路由器。友讯电子设备（上海）有限公司DIR-X4860存在操作系统命令注入漏洞，该漏洞源于未能正确验证telnet服务中的用户输入，未经身份验证的远程攻击者可利用该漏洞使用硬编码凭据登录telnet并注入任意操作系统命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-45698",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.dlink.com/ProductInfo.aspx?m=DIR-X4860-US",
+    "patch": "友讯电子设备（上海）有限公司DIR-X4860操作系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-09-23",
+    "open_time": "2024-10-12",
+    "update_time": "2024-10-12",
+    "data_summary": "a38e416a31801e256a529bcc814c228f"
+}

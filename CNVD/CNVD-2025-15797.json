@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:37:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15797",
+    "spider_time": 1767159464561,
+    "name": "Cisco IOS XE Software Web接口命令注入漏洞",
+    "cnvd": "CNVD-2025-15797",
+    "publish": "2025-07-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Cisco IOS XE Software\"]",
+    "cve": "CVE-2025-20194",
+    "description": "Cisco IOS是多数思科系统路由器和网络交换机上使用的互联网络操作系统。Cisco IOS XE Software Web接口存在安全漏洞，远程攻击者可以利用该漏洞提交特殊的请求，可以在应用程序上下文执行任意命令，读取系统文件等。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20194",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-webui-multi-ARNHM4v6",
+    "patch": "Cisco IOS XE Software Web接口命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-12",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "4d1179cf22272392a9fb28091da23c46"
+}

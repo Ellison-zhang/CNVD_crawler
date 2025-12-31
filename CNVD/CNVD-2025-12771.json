@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:16:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12771",
+    "spider_time": 1767158204436,
+    "name": "Mattermost信息泄露漏洞",
+    "cnvd": "CNVD-2025-12771",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"Mattermost Mattermost >=9.5.x，<=9.5.9\"]",
+    "cve": "CVE-2024-10241",
+    "description": "Mattermost是美国Mattermost公司的一个开源协作平台。Mattermost存在信息泄露漏洞，该漏洞源于无法正确过滤频道数据，攻击者可利用该漏洞使用cmd+K或ctrl+K获取私人频道名。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/security-updates/",
+    "patch": "Mattermost信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-30",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "bdb83013ec4526df8acee6add479785d"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:55:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10445",
+    "spider_time": 1767156955382,
+    "name": "Siemens Siveillance Video V2024 R1系统配置密码重置漏洞",
+    "cnvd": "CNVD-2025-10445",
+    "publish": "2025-05-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Siemens Siveillance Video >=V24.1\"]",
+    "cve": null,
+    "description": "Siveillance Video（以前称为Siveillance VMS）是一款功能强大的IP视频管理软件，专为从小型简单到大规模和高安全性的部署而设计。Siveillance 视频产品组合包括四个版本：Siveillance Video Core、Core Plus、Advanced 和 Pro，可满足从中小型解决方案到大型复杂部署的特定需求。Siemens Siveillance Video V2024 R1存在系统配置密码重置漏洞，该漏洞源于从旧版本的Siveillance Video更新时，Siveillance Video V2024 R1的安装程序会重置系统配置密码。攻击者可利用漏洞删除系统配置文件中的密码保护，还可影响更新到V2024 R1后创建的备份数据集。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-552330.html",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.siemens.com/cert/advisories",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-22",
+    "update_time": "2025-05-22",
+    "data_summary": "8f16cca93c7c900327bb1a4a9d8c96b8"
+}

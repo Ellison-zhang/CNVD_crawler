@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:16:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20458",
+    "spider_time": 1767165383963,
+    "name": "WordPress Ocean Extra plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-20458",
+    "publish": "2025-09-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Ocean Extra plugin <=2.4.9\"]",
+    "cve": "CVE-2025-9499",
+    "description": "WordPress Ocean Extra plugin是WordPress平台上的免费插件，专为OceanWP主题设计，旨在通过增加额外功能与灵活性提升网站构建体验。WordPress Ocean Extra plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.wordfence.com/threat-intel/vulnerabilities/id/290e9d95-0dac-4cc8-8cef-9e7974405f36?source=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/ocean-extra/",
+    "patch": "WordPress Ocean Extra plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-02",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "0ea894a069742baec94ab165e6e61c2b"
+}

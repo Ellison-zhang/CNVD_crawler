@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:19:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19560",
+    "spider_time": 1767161948463,
+    "name": "Mozilla Firefox for Android信息泄露漏洞（CNVD-2025-19560）",
+    "cnvd": "CNVD-2025-19560",
+    "publish": "2025-08-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Mozilla Firefox for android <141\"]",
+    "cve": "CVE-2025-8042",
+    "description": "Mozilla Firefox for Android是美国Mozilla基金会的一款针对Android设备设计的网页浏览器。Mozilla Firefox for Android 141之前版本存在信息泄露漏洞，该漏洞源于沙箱iframe无allow-downloads属性时仍可启动下载，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.mozilla.org/show_bug.cgi?id=1791322",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2025-56/",
+    "patch": "Mozilla Firefox for Android信息泄露漏洞（CNVD-2025-19560）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-26",
+    "open_time": "2025-08-28",
+    "update_time": "2025-08-28",
+    "data_summary": "230b5866d72b26b33b883e682bc72c4d"
+}

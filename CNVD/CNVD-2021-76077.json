@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:16:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-76077",
+    "spider_time": 1767168990175,
+    "name": "PortlandLabs Concrete CMS存在未明漏洞（CNVD-2021-76077）",
+    "cnvd": "CNVD-2021-76077",
+    "publish": "2021-11-01",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"PortlandLabs Concrete CMS <=8.5.5\"]",
+    "cve": "CVE-2021-40104",
+    "description": "PortlandLabs Concrete Cms是美国PortlandLabs公司的一个面向团队的开源内容管理系统。PortlandLabs Concrete CMS 8.5.5及之前存在安全漏洞，该漏洞源于程序存在\\\"SVG Sanitizer\\\"绕过问题。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2021-40104",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://documentation.concretecms.org/developers/introduction/version-history/856-release-notes。",
+    "patch": "PortlandLabs Concrete CMS存在未明漏洞（CNVD-2021-76077）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-09-29",
+    "open_time": "2021-10-11",
+    "update_time": "2021-10-11",
+    "data_summary": "27f01d6cb65857919904fe2f933e85b0"
+}

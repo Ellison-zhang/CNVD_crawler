@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:36:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-30071",
+    "spider_time": 1767152187116,
+    "name": "OpenCart跨站脚本漏洞（CNVD-2024-30071）",
+    "cnvd": "CNVD-2024-30071",
+    "publish": "2024-06-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:P/A:N",
+    "product": "[\"OpenCart OpenCart >=4.0.0.0\"]",
+    "cve": "CVE-2024-21515",
+    "description": "OpenCart是一个开源的在线商店管理系统，用于创建和管理电子商务网站。它以其用户友好性和灵活性而闻名，适合不同规模的在线商店。OpenCart存在跨站脚本漏洞，该漏洞源于用户提供的属性的输入清理和输出转义不足，攻击者可利用该漏洞在页面中注入任意web脚本，这些脚本将在用户访问注入的页面时执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-21515",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.snyk.io/vuln/SNYK-PHP-OPENCARTOPENCART-7266573",
+    "patch": "OpenCart跨站脚本漏洞（CNVD-2024-30071）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-24",
+    "open_time": "2024-07-03",
+    "update_time": "2024-07-03",
+    "data_summary": "4e82f25bbaccced881fe7e11cfe2a446"
+}

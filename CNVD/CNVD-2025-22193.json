@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:43:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22193",
+    "spider_time": 1767166999613,
+    "name": "Microsoft Visual Studio Code存在未明漏洞（CNVD-2025-22193）",
+    "cnvd": "CNVD-2025-22193",
+    "publish": "2025-09-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Microsoft Visual Studio Code >=1.0.0，<1.104.0\"]",
+    "cve": "CVE-2025-55319",
+    "description": "Microsoft Visual Studio Code是美国微软（Microsoft）公司的一款开源的代码编辑器。Microsoft Visual Studio Code存在安全漏洞，该漏洞源于未充分过滤或验证用户提供的数据，攻击者可利用该漏洞远程执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-55319",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-55319",
+    "patch": "Microsoft Visual Studio Code存在未明漏洞（CNVD-2025-22193）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-15",
+    "open_time": "2025-09-22",
+    "update_time": "2025-09-22",
+    "data_summary": "a58744d17ad7ef640ec61b5ac0e035cb"
+}

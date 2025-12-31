@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:58:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11081",
+    "spider_time": 1767157099882,
+    "name": "Oracle Application Object Library存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-11081",
+    "publish": "2025-05-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Oracle Oracle Application Object Library >=12.2.5，<=12.2.14\"]",
+    "cve": "CVE-2025-30730",
+    "description": "Oracle Application Object Library是美国甲骨文公司的一个系统管理组件。Oracle Application Object Library存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.oracle.com/security-alerts/cpuapr2025.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.oracle.com/security-alerts/cpuapr2025.html",
+    "patch": "Oracle Application Object Library存在拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "8dc536c81513cfda0d1471e5449daa7d"
+}

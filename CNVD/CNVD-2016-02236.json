@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:08:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2016-02236",
+    "spider_time": 1767146938769,
+    "name": "Microsoft Edge内存破坏漏洞（CNVD-2016-02236）",
+    "cnvd": "CNVD-2016-02236",
+    "publish": "2016-04-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Edge\"]",
+    "cve": "CVE-2016-0156",
+    "description": "Microsoft Edge是美国微软（Microsoft）公司开发的一款Web浏览器，是Windows 10操作系统附带的默认浏览器。Microsoft Edge中存在内存破坏漏洞，该漏洞源于程序访问内存对象不当。远程攻击者可利用该漏洞在当前用户的上下文中执行任意代码，损坏内存。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://technet.microsoft.com/security/bulletin/MS16-038",
+    "solution": "目前厂商已经发布了升级补丁以修复此安全问题，补丁获取链接：\nhttp://technet.microsoft.com/security/bulletin/MS16-038",
+    "patch": "Microsoft Edge内存破坏漏洞（CNVD-2016-02236）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2016-04-14",
+    "open_time": "2016-04-15",
+    "update_time": "2016-04-15",
+    "data_summary": "019469d52dee7508c011c9066f06bc5a"
+}

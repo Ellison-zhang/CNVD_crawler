@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:01:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11157",
+    "spider_time": 1767157303010,
+    "name": "Moodle跨站请求伪造漏洞（CNVD-2025-11157）",
+    "cnvd": "CNVD-2025-11157",
+    "publish": "2025-05-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"moodle Moodle\"]",
+    "cve": "CVE-2024-43434",
+    "description": "Moodle是Moodle开源的一套免费的电子学习软件平台，也称课程管理系统、学习管理系统或虚拟学习环境。Moodle存在跨站请求伪造漏洞，该漏洞源于批量消息发送功能存在错误的CSRF令牌检查，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.redhat.com/show_bug.cgi?id=2304262",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://moodle.org/mod/forum/discuss.php?d=461203",
+    "patch": "Moodle跨站请求伪造漏洞（CNVD-2025-11157）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-13",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "e69514958c7623298bbe3b2f7dcff8c3"
+}

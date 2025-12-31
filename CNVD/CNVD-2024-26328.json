@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:24:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-26328",
+    "spider_time": 1767169498688,
+    "name": "Fortinet FortiOS远程代码执行漏洞",
+    "cnvd": "CNVD-2024-26328",
+    "publish": "2024-06-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Fortinet FortiProxy >=1.1.0，<=1.1.6\", \"Fortinet FortiProxy >=1.2.0，<=1.2.13\", \"Fortinet FortiProxy >=2.0.0，<=2.0.12\", \"Fortinet FortiOS >=7.2.0，<=7.2.4\", \"Fortinet FortiProxy >=7.0.0，<=7.0.9\", \"Fortinet FortiProxy >=7.2.0，<=7.2.3\", \"Fortinet FortiOS >=7.0.0，<=7.0.11\", \"Fortinet FortiOS >=6.0.0，<=6.0.16\", \"Fortinet FortiOS >=6.4.0，<=6.4.12\", \"Fortinet FortiOS >=6.2.0，<=6.2.13\"]",
+    "cve": "CVE-2023-27997",
+    "description": "Fortinet FortiOS是美国飞塔（Fortinet）公司的一套专用于FortiGate网络安全平台上的安全操作系统。该系统为用户提供防火墙、防病毒、IPSec/SSLVPN、Web内容过滤和反垃圾邮件等多种安全功能。Fortinet FortiOS存在安全漏洞，该漏洞源于基于堆的缓冲区溢出漏洞。未经身份认证的攻击者可利用该漏洞远程执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-27997",
+    "solution": "目前厂商尚未发布升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://docs.fortinet.com/product/fortigate/6.0",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-06-16",
+    "open_time": "2024-06-06",
+    "update_time": "2024-06-06",
+    "data_summary": "2e58ef358b49fda0b824a5f9f15792ee"
+}

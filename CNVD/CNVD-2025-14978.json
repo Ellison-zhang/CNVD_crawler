@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 17:24:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14978",
+    "spider_time": 1767173044376,
+    "name": "Google Android权限提升漏洞（CNVD-2025-14978）",
+    "cnvd": "CNVD-2025-14978",
+    "publish": "2025-06-30",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Android\"]",
+    "cve": "CVE-2024-34732",
+    "description": "Google Android是由Google公司开发的基于Linux内核的自由及开放源代码的移动操作系统。Google Android存在权限提升漏洞，该漏洞源于rgxmem.c的RGXMMUCacheInvalidate竞争条件，攻击者可利用该漏洞提升权限，执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-34732",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://source.android.com/security/bulletin/2024-10-01",
+    "patch": "Google Android权限提升漏洞（CNVD-2025-14978）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "3887539181cdb97ff4d3c3215ab50036"
+}

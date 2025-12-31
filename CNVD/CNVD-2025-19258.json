@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:02:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19258",
+    "spider_time": 1767160940614,
+    "name": "Cisco Customer Collaboration Platform信息泄露漏洞",
+    "cnvd": "CNVD-2025-19258",
+    "publish": "2025-08-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Cisco Customer Collaboration Platform <=12.5(1) SU2\", \"Cisco Customer Collaboration Platform 12.5(1) SU4\"]",
+    "cve": "CVE-2025-20129",
+    "description": "Cisco Customer Collaboration Platform（Cisco CCP）是美国思科（Cisco）公司的一个客户协作平台。Cisco Customer Collaboration Platform存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用该漏洞导致敏感数据泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20129",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ccp-info-disc-ZyGerQpd",
+    "patch": "Cisco Customer Collaboration Platform信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "b191a4bc3817bae8b587f1afc38d35ec"
+}

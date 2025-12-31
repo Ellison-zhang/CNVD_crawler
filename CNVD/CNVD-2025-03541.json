@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:45:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03541",
+    "spider_time": 1767156325884,
+    "name": "Apache Wicket资源管理错误漏洞",
+    "cnvd": "CNVD-2025-03541",
+    "publish": "2025-02-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Apache Wicket 7.0.0\"]",
+    "cve": "CVE-2024-53299",
+    "description": "Apache Wicket是美国阿帕奇（Apache）基金会的一套开源、轻量、基于组件的框架，它提供了一种面向对象的方式来开发基于Web的动态UI应用程序。Apache Wicket 7.0.0版本存在资源管理错误漏洞。该漏洞源于应用存在不受控制的资源消耗，攻击者可利用该漏洞导致程序拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-53299",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/gyp2ht00c62827y0379lxh5dbx3hhho5",
+    "patch": "Apache Wicket资源管理错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-02-24",
+    "update_time": "2025-02-24",
+    "data_summary": "acab20a9ddc9940bfe5431f4b36d2db3"
+}

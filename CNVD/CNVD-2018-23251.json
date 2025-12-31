@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:00:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2018-23251",
+    "spider_time": 1767146452175,
+    "name": "IBM Rational Quality Manager跨站脚本漏洞（CNVD-2018-23251）",
+    "cnvd": "CNVD-2018-23251",
+    "publish": "2018-11-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"IBM Rational Quality Manager 5.0 - 5.0.2\", \"IBM Rational Quality Manager 6.0 - 6.0.5\"]",
+    "cve": "CVE-2017-1729",
+    "description": "IBM Rational Quality Manager是跨几乎任何平台和任何类型的测试的业务驱动型软件和系统质量协作中心。该软件可帮助团队无缝共享信息，使用自动化来加快项目进度，并为有针对性的发布决策报告指标。IBM Rational Quality Manager存在跨站脚本漏洞。攻击者可利用该漏洞在Web UI中嵌入任意JavaScript代码，会改变预期功能，从而可导致受信任会话中的凭据泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www-01.ibm.com/support/docview.wss?uid=ibm10716607",
+    "solution": "厂商已发布漏洞修复程序，请及时关注更新：\nhttp://www-01.ibm.com/support/docview.wss?uid=ibm10716607",
+    "patch": "IBM Rational Quality Manager跨站脚本漏洞（CNVD-2018-23251）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2018-07-11",
+    "open_time": "2018-11-15",
+    "update_time": "2018-11-15",
+    "data_summary": "45d85c146e2ea6b36119c0a31ed4ce12"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:23:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-24947",
+    "spider_time": 1767169435981,
+    "name": "Linux kernel存在未明漏洞（CNVD-2024-24947）",
+    "cnvd": "CNVD-2024-24947",
+    "publish": "2024-05-29",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Linux Kernel\"]",
+    "cve": "CVE-2024-27012",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在安全漏洞，该漏洞源于集合失败时恢复集合元素。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-27012",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/86658fc7414d4b9e25c2699d751034537503d637",
+    "patch": "Linux kernel存在未明漏洞（CNVD-2024-24947）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-08",
+    "open_time": "2024-05-30",
+    "update_time": "2024-05-30",
+    "data_summary": "0e59bd2a81da682ca5133a4f0e2c6911"
+}

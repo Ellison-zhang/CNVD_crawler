@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:56:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18009",
+    "spider_time": 1767160589668,
+    "name": "IBM Informix Dynamic Server跨站脚本漏洞",
+    "cnvd": "CNVD-2025-18009",
+    "publish": "2025-08-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"IBM Informix Dynamic Server 14.10\", \"IBM Informix Dynamic Server 12.10\"]",
+    "cve": "CVE-2024-49343",
+    "description": "IBM Informix Dynamic Server（IDS）是美国国际商业机器（IBM）公司的一款可扩展的对象关系数据库服务器，它为集群数据中心提供持续数据可用性和灾难恢复等功能。IBM Informix Dynamic Server 12.10版本和14.10版本存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞可以通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-49343",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7240777",
+    "patch": "IBM Informix Dynamic Server跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-01",
+    "open_time": "2025-08-11",
+    "update_time": "2025-08-11",
+    "data_summary": "89e4f9d79f03fe5035e440f7c527f686"
+}

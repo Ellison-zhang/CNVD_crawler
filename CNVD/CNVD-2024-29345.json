@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:27:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-29345",
+    "spider_time": 1767169645978,
+    "name": "Dell OpenManage Server Administrator本地提权漏洞",
+    "cnvd": "CNVD-2024-29345",
+    "publish": "2024-06-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL OpenManage Server Administrator <=11.0.1.0\"]",
+    "cve": "CVE-2024-37130",
+    "description": "Dell OpenManage Server Administrator是一款服务器管理工具，用于服务器的监控和配置。Dell OpenManage Server Administrator存在XSL Hijacking导致的本地提权漏洞，低权限的攻击者可利用该漏洞提升至管理员权限，完全控制机器。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-37130",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.dell.com/support/kbdoc/en-us/000225914/dsa-2024-264-dell-openmanage-server-administrator-omsa-security-update-for-local-privilege-escalation-via-xsl-hijacking-vulnerability",
+    "patch": "Dell OpenManage Server Administrator本地提权漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-11",
+    "open_time": "2024-06-26",
+    "update_time": "2024-06-26",
+    "data_summary": "81fa8d5241c86fb271574b310df5b1ec"
+}

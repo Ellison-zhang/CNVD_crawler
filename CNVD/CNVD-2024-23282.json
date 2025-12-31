@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:56:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-23282",
+    "spider_time": 1767149772724,
+    "name": "Tenda AX1806存在未明漏洞",
+    "cnvd": "CNVD-2024-23282",
+    "publish": "2024-05-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AX1806 1.0.0.1\"]",
+    "cve": "CVE-2024-4237",
+    "description": "Tenda AX1806是中国腾达（Tenda）公司的一个 WiFi6 无线路由器。Tenda AX1806 1.0.0.1版本存在安全漏洞，该漏洞源于对参数password的错误操作会导致基于堆栈的缓冲区溢出。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-4237/",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.tendacn.com/download/detail-4219.html",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-29",
+    "open_time": "2024-05-17",
+    "update_time": "2024-05-17",
+    "data_summary": "e4bb7164886a8184b57a45041fa225df"
+}

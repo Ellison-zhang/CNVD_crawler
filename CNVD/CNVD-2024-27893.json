@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:26:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-27893",
+    "spider_time": 1767169561323,
+    "name": "SAP Replication Server存在未明漏洞（CNVD-2024-27893）",
+    "cnvd": "CNVD-2024-27893",
+    "publish": "2024-06-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:N/A:C",
+    "product": "[\"SAP SAP Replication Server\"]",
+    "cve": "CVE-2024-33008",
+    "description": "SAP LT Replication Server是德国思爱普（SAP）公司的一个解决方案。SAP Replication Server存在安全漏洞，攻击者可利用该漏洞使用网关对RSSD执行某些命令，可能会导致内存损坏。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-33008",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2024.html",
+    "patch": "SAP Replication Server存在未明漏洞（CNVD-2024-27893）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-14",
+    "open_time": "2024-06-19",
+    "update_time": "2024-06-19",
+    "data_summary": "860157c2c85794da894ee154943535b1"
+}

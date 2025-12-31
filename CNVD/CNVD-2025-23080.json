@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:50:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23080",
+    "spider_time": 1767167449732,
+    "name": "IBM Watsonx.data操作系统命令注入漏洞",
+    "cnvd": "CNVD-2025-23080",
+    "publish": "2025-09-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"IBM IBM Watsonx.data 2.2\"]",
+    "cve": "CVE-2025-36143",
+    "description": "IBM Watsonx.data是美国国际商业机器（IBM）公司的一款开放式数据湖仓平台。IBM Watsonx.data 2.2版本存在操作系统命令注入漏洞，该漏洞源于未正确验证用户输入，攻击者可利用该漏洞导致特权用户执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36143",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7245379",
+    "patch": "IBM Watsonx.data操作系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-23",
+    "open_time": "2025-09-30",
+    "update_time": "2025-09-30",
+    "data_summary": "7750346669e8f2777314607f52a78743"
+}

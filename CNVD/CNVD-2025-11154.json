@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 09:57:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11154",
+    "spider_time": 1767146240677,
+    "name": "Moodle访问控制错误漏洞",
+    "cnvd": "CNVD-2025-11154",
+    "publish": "2025-05-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"moodle Moodle\"]",
+    "cve": "CVE-2024-43430",
+    "description": "Moodle是Moodle开源的一套免费的电子学习软件平台，也称课程管理系统、学习管理系统或虚拟学习环境。Moodle存在访问控制错误漏洞，该漏洞源于对测验的外部API访问覆盖包含的访问控制不足。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-43430",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://moodle.org/mod/forum/discuss.php?d=461198",
+    "patch": "Moodle访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-15",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "630d7780756fabeaad55f140fefe452c"
+}

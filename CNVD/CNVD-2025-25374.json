@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 17:45:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25374",
+    "spider_time": 1767174352887,
+    "name": "F5 BIG-IP权限提升漏洞",
+    "cnvd": "CNVD-2025-25374",
+    "publish": "2025-10-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"F5 F5 BIG-IP null\"]",
+    "cve": "CVE-2025-59481",
+    "description": "F5 BIG-IP是F5公司的一款集成了网络流量编排、负载均衡、智能DNS，远程接入策略管理等功能的应用交付平台。BIG-IP的iControl REST和TMOS Shell（tmsh）模块存在权限提升漏洞，该漏洞产生的原因是认证后的攻击者（至少具备资源管理员角色）可通过受影响的iControl REST接口或本地tmsh命令，执行具有更高权限的系统命令，进而绕过安全边界。攻击者可利用该漏洞在BIG-IP管理端口或self IP地址下，执行任意高级Shell（bash）命令、创建或删除文件，甚至绕过设备模式的安全限制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-59481",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://my.f5.com/manage/s/article/K000156572",
+    "patch": "F5 BIG-IP权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-27",
+    "update_time": "2025-10-27",
+    "data_summary": "8f4130e53c23848e327f9b0f243743e2"
+}

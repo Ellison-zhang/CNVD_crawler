@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:11:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12194",
+    "spider_time": 1767157860516,
+    "name": "用友网络科技股份有限公司用友U8Cloud存在命令执行漏洞",
+    "cnvd": "CNVD-2025-12194",
+    "publish": "2025-06-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"用友网络科技股份有限公司 用友U8Cloud\"]",
+    "cve": null,
+    "description": "用友U8Cloud是一款企业级ERP，用于协助企业实现业务协同和流程管理的高效化和数字化。用友网络科技股份有限公司用友U8Cloud存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修补方案，建议用户下载使用：\nhttps://security.yonyou.com/#/noticeInfo?id=614",
+    "patch": "用友网络科技股份有限公司用友U8Cloud存在命令执行漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-06-12",
+    "update_time": "2025-06-12",
+    "data_summary": "3ac0deeb2bb01e452187d7bd875129ee"
+}

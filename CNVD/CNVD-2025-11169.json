@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:03:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11169",
+    "spider_time": 1767157437035,
+    "name": "NETGEAR WN604信息泄露漏洞",
+    "cnvd": "CNVD-2025-11169",
+    "publish": "2025-05-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"NETGEAR WN604 <=20240719\"]",
+    "cve": "CVE-2024-7153",
+    "description": "NETGEAR WN604是美国网件（NETGEAR）公司的一款小型无线路由器。NETGEAR WN604存在信息泄露漏洞。攻击者可利用该漏洞访问siteSurvey.php页面，获取无线网络的SSID、安全类型、加密方式和频道等敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.272556",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-31",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "de439a0e83a0da0e883386f5dcafb9ce"
+}

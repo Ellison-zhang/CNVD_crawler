@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:02:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25366",
+    "spider_time": 1767168160526,
+    "name": "F5 BIG-IP SSL/TLS配置文件拒绝服务漏洞",
+    "cnvd": "CNVD-2025-25366",
+    "publish": "2025-10-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"F5 F5 BIG-IP null\"]",
+    "cve": "CVE-2025-61974",
+    "description": "F5 BIG-IP是F5公司的一款集成了网络流量编排、负载均衡、智能DNS，远程接入策略管理等功能的应用交付平台。BIG-IP的SSL/TLS模块存在拒绝服务漏洞，该漏洞产生的原因是当在虚拟服务器上配置客户端SSL配置文件时，未公开的请求会导致内存资源利用率增加。攻击者可利用该漏洞导致系统性能下降，最终可能造成拒绝服务影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-61974",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://my.f5.com/manage/s/article/K000156572",
+    "patch": "F5 BIG-IP SSL/TLS配置文件拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-27",
+    "update_time": "2025-10-27",
+    "data_summary": "6e2d579819a24fc6e3b61dcaf25feab8"
+}

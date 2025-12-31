@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:05:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2015-05226",
+    "spider_time": 1767146740295,
+    "name": "WordPress Flickr Justified Gallery插件'fjgwpp.php'跨站脚本漏洞",
+    "cnvd": "CNVD-2015-05226",
+    "publish": "2015-08-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Flickr Justified Gallery\"]",
+    "cve": "76064",
+    "description": "WordPress是WordPress软件基金会的一套使用PHP语言开发的博客平台，该平台支持在PHP和MySQL的服务器上架设个人博客网站。Flickr Justified Gallery是其中的一个JQuery图片库插件。WordPress Flickr Justified Gallery插件'fjgwpp.php'存在跨站脚本漏洞，由于程序未能充分过滤用户提交的输入。允许攻击者利用此漏洞窃取基于cookie的身份验证，在受影响的浏览器上下位置执行任意脚本代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.securityfocus.com/bid/76064",
+    "solution": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://wordpress.org/plugins/flickr-justified-gallery/changelog/",
+    "patch": "WordPress Flickr Justified Gallery插件'fjgwpp.php'跨站脚本漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2015-08-12",
+    "open_time": "2015-08-13",
+    "update_time": "2015-08-13",
+    "data_summary": "80a015e5ce0153fe9ba99b679134c81d"
+}

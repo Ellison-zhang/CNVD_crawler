@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:07:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11469",
+    "spider_time": 1767157635730,
+    "name": "IBM Storage Scale命令注入漏洞",
+    "cnvd": "CNVD-2025-11469",
+    "publish": "2025-05-30",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"IBM IBM Storage Scale 5.2.2.0\", \"IBM IBM Storage Scale 5.2.2.1\"]",
+    "cve": "CVE-2025-1137",
+    "description": "IBM Storage Scale是美国国际商业机器（IBM）公司的一个存储解决方案，旨在帮助企业有效地管理和扩展存储资源，满足不断增长的数据存储需求。IBM Storage Scale 5.2.2.0版本和5.2.2.1版本存在命令注入漏洞，该漏洞源于输入中和不当，攻击者可利用该漏洞导致特权命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1137",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7233085",
+    "patch": "IBM Storage Scale命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "b29eeca2f250384b251166662c09b48e"
+}

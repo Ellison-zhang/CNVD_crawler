@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:51:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23740",
+    "spider_time": 1767167517966,
+    "name": "GNU gdb释放后重用漏洞",
+    "cnvd": "CNVD-2025-23740",
+    "publish": "2025-10-14",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Gnu GNU gdb 13.0.50.20220805-git\"]",
+    "cve": "CVE-2023-39129",
+    "description": "GNU gdb是GNU开源组织开发的程序调试工具，支持C、C++、Go、Fortran等多种编程语言。GNU gdb存在释放后重用漏洞，该漏洞源于/gdb/coff-pe-read.c中函数add_pe_exported_sym()负责释放内存的指令发生混乱。攻击者可利用该漏洞导致程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-39129",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://sourceware.org/bugzilla/show_bug.cgi?id=30640",
+    "patch": "GNU gdb释放后重用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-07-30",
+    "open_time": "2025-10-15",
+    "update_time": "2025-10-15",
+    "data_summary": "865eaec32e4a554aba5f9985b1b39fdf"
+}

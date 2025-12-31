@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:31:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-36739",
+    "spider_time": 1767155496413,
+    "name": "Linux kernel空指针解引用漏洞（CNVD-2024-36739）",
+    "cnvd": "CNVD-2024-36739",
+    "publish": "2024-08-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Linux Linux kernel 6.11\", \"Linux Linux kernel >=6.7，<6.10.4\", \"Linux Linux kernel >=6.2，<6.6.45\", \"Linux Linux kernel >=5.15，<6.1.104\"]",
+    "cve": "CVE-2024-42269",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在空指针解引用漏洞，该漏洞源于空指针取消引用。攻击者可以利用该漏洞进行进一步恶意操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-42269",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/419ee6274c5153b89c4393c1946faa4c3cad4f9e",
+    "patch": "Linux kernel空指针解引用漏洞（CNVD-2024-36739）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-20",
+    "open_time": "2024-08-28",
+    "update_time": "2024-08-28",
+    "data_summary": "067ddcfed6596ac7c0b63b8d53a5c29d"
+}

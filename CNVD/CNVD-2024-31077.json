@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:39:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-31077",
+    "spider_time": 1767152385758,
+    "name": "Huawei HarmonyOS和EMUIWi-Fi模块关键功能认证缺失漏洞",
+    "cnvd": "CNVD-2024-31077",
+    "publish": "2024-07-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Huawei EMUI 12.0.0\", \"Huawei HarmonyOS 3.0.0\", \"Huawei HarmonyOS 2.1.0\", \"Huawei HarmonyOS 2.0.0\", \"Huawei HarmonyOS 3.1.0\", \"Huawei EMUI 13.0.0\", \"Huawei HarmonyOS 4.0.0\"]",
+    "cve": "CVE-2022-48621",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei EMUI是华为公司开发的一种基于Android操作系统的用户界面。Huawei HarmonyOS和EMUIWi-Fi模块存在关键功能认证缺失漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-48621",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/cn/support/bulletin/2024/2/\nhttps://device.harmonyos.com/cn/docs/security/update/security-bulletins-202402-0000001834855405",
+    "patch": "Huawei HarmonyOS和EMUI Wi-Fi模块关键功能认证缺失漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-01",
+    "open_time": "2024-07-09",
+    "update_time": "2024-07-09",
+    "data_summary": "19febbc9562ea2470a467b9e788dbf06"
+}

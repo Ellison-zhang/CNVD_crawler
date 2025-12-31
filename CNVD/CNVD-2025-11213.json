@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:04:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11213",
+    "spider_time": 1767157494136,
+    "name": "NETGEAR ProSAFE权限提升漏洞",
+    "cnvd": "CNVD-2025-11213",
+    "publish": "2025-05-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR ProSAFE\"]",
+    "cve": "CVE-2023-50231",
+    "description": "NETGEAR ProSAFE是美国网件（NETGEAR）公司的一个网络管理系统。NETGEAR ProSAFE存在权限提升漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-50231",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://kb.netgear.com/000065901/Security-Advisory-for-Stored-Cross-Site-Scripting-on-the-NMS300-PSV-2023-0106",
+    "patch": "NETGEAR ProSAFE权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-13",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "af8b36260397069e11b88bcc1293bd3d"
+}

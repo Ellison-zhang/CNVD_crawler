@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:08:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2015-08554",
+    "spider_time": 1767146901958,
+    "name": "IBM MQ Light远程拒绝服务漏洞",
+    "cnvd": "CNVD-2015-08554",
+    "publish": "2015-12-31",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"IBM MQ Light\"]",
+    "cve": "CVE-2015-4943",
+    "description": "IBM MQ Light是美国IBM公司的一个基于IBM Bluemix（在云上创建、部署和管理应用程序的PaaS平台）的消息服务。IBM MQ Light存在远程拒绝服务漏洞。攻击者可利用该漏洞使应用程序崩溃，拒绝服务合法用户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.securityfocus.com/bid/79689",
+    "solution": "用户可联系供应商获得补丁信息：\nhttp://www.ibm.com/",
+    "patch": "IBM MQ Light远程拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2015-12-31",
+    "open_time": "2015-12-31",
+    "update_time": "2015-12-31",
+    "data_summary": "dcbdbcd6bf02d962fe6ad0cf7eccf7bc"
+}

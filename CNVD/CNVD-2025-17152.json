@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:57:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17152",
+    "spider_time": 1767171449491,
+    "name": "JetBrains TeamCity路径遍历漏洞",
+    "cnvd": "CNVD-2025-17152",
+    "publish": "2025-07-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"JetBrains TeamCity <2023.11.3\"]",
+    "cve": "CVE-2024-24942",
+    "description": "JetBrains TeamCity是捷克JetBrains公司的一套分布式构建管理和持续集成工具。该工具提供持续单元测试、代码质量分析和构建问题分析报告等功能。JetBrains TeamCity存在路径遍历漏洞，该漏洞源于路径遍历允许读取JAR档案中的数据。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-24942",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains TeamCity路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-02-26",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "65b649540a63e43ccf87ce296c9ef1b1"
+}

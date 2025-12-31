@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:02:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-24730",
+    "spider_time": 1767150128698,
+    "name": "深圳市吉祥腾达科技有限公司W15E formSetRemoteWebManage方法缓冲区溢出漏洞",
+    "cnvd": "CNVD-2024-24730",
+    "publish": "2024-05-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"深圳市吉祥腾达科技有限公司 W15E 15.11.0.14\"]",
+    "cve": "CVE-2024-4124",
+    "description": "W15E是深圳市吉祥腾达科技有限公司的一款无线路由器。深圳市吉祥腾达科技有限公司W15E 15.11.0.14版本存在缓冲区溢出漏洞，该漏洞源于/goform/SetRemoteWebManage文件的formSetRemoteWebManage方法的remoteIP参数未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.261867",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.tendacn.com/download/detail-2722.html",
+    "patch": "深圳市吉祥腾达科技有限公司W15E formSetRemoteWebManage方法缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-28",
+    "open_time": "2024-05-29",
+    "update_time": "2024-05-29",
+    "data_summary": "c0c081a8b9f9f2ff72bc1073933661f7"
+}

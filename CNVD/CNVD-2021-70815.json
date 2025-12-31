@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:46:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-70815",
+    "spider_time": 1767149193691,
+    "name": "大华部分产品身份认证绕过漏洞（CNVD-2021-70815）",
+    "cnvd": "CNVD-2021-70815",
+    "publish": "2021-09-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"浙江大华技术股份有限公司 IPC-HX3XXX Versions which Build time before May，2020\", \"浙江大华技术股份有限公司 HX5XXX Versions which Build time before May，2020\", \"浙江大华技术股份有限公司 HUM7XXX Versions which Build time before May，2020\", \"浙江大华技术股份有限公司 VTO75X95X Versions which Build time before December，2019\", \"浙江大华技术股份有限公司  VTO65XXX Versions which Build time before December，2019\", \"浙江大华技术股份有限公司 VTH542XH Versions which Build time before December，2019\", \"浙江大华技术股份有限公司 NVR1XXX Versions which Build time before December，2019\", \"浙江大华技术股份有限公司 NVR2XXX Versions which Build time before December，2019\", \"浙江大华技术股份有限公司 NVR5XXX Versions which Build time before December，2019\", \"浙江大华技术股份有限公司 NVR6XX Versions which Build time before December，2019\", \"浙江大华技术股份有限公司 XVR4xxx Versions which Build time before December，2019\", \"浙江大华技术股份有限公司 XVR5xxx Versions which Build time before December，2019\", \"浙江大华技术股份有限公司 XVR7xxx Versions which Build time before December，2019\"]",
+    "cve": "CVE-2021-33045",
+    "description": "浙江大华技术股份有限公司是一家领先的监控产品供应商和解决方案服务商。大华部分产品存在身份认证绕过漏洞，攻击者可利用漏洞通过构造恶意数据包绕过设备身份认证。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dahuasecurity.com/support/cybersecurity/details/957",
+    "solution": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://www.dahuasecurity.com/support/cybersecurity/details/957",
+    "patch": "大华部分产品身份认证绕过漏洞（CNVD-2021-70815）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-09-10",
+    "open_time": "2021-09-14",
+    "update_time": "2021-09-14",
+    "data_summary": "ef6d4fe1223fb87a3f9cc4b53050bad3"
+}

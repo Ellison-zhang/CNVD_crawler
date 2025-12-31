@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:18:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2017-11647",
+    "spider_time": 1767147529582,
+    "name": "FreeRADIUS安全绕过漏洞",
+    "cnvd": "CNVD-2017-11647",
+    "publish": "2017-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"FreeRADIUS FreeRADIUS 3.0.14\"]",
+    "cve": "CVE-2017-9148",
+    "description": "FreeRadius是FreeRADIUS Server项目的一套实现了RADIUS协议的软件。该软件主要用于账户认证管理、记账管理和上网账户管理等，并包含有一个Radius服务器、一个BSD协议授权的客户端库、一个PAM库和一个Apache模块。FreeRADIUS 3.0.14之前的版本中的TLS会话缓存存在安全绕过漏洞。远程攻击者可借助PEAP或TTLS利用该漏洞绕过身份验证。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://freeradius.org/security.html",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttp://freeradius.org/security.html",
+    "patch": "FreeRADIUS安全绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2017-06-02",
+    "open_time": "2017-06-27",
+    "update_time": "2017-06-02",
+    "data_summary": "b89178edd93331b718fdeffe4b29fb96"
+}

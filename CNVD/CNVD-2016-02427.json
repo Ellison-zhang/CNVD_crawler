@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:10:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2016-02427",
+    "spider_time": 1767147051101,
+    "name": "Oracle Java SE和Java SE Embedded Serialization子组件存在未明漏洞（CNVD-2016-02427）",
+    "cnvd": "CNVD-2016-02427",
+    "publish": "2016-04-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Oracle Java SE 6u113\", \"Oracle Java SE 7u99\", \"Oracle Java SE 8u77\", \"Oracle Java SE Embedded 8u77\"]",
+    "cve": "CVE-2016-0687",
+    "description": "Oracle Java SE和Java SE Embedded都是美国甲骨文（Oracle）公司的产品。Java SE（Java 平台标准版）用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序；Java SE Embedded是一款针对嵌入式系统开发功能强大、可靠、可移植的应用程序的Java平台。Oracle Java SE和Java SE Embedded的Serialization子组件中存在未明漏洞。远程攻击者可利用该漏洞控制组件，影响数据的保密性，完整性及可用性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.oracle.com/technetwork/security-advisory/cpuapr2016v3-2985753.html",
+    "solution": "目前厂商已经发布了升级补丁以修复此安全问题，补丁获取链接：\nhttp://www.oracle.com/technetwork/security-advisory/cpuapr2016v3-2985753.html",
+    "patch": "Oracle Java SE和Java SE Embedded Serialization子组件存在未明漏洞（CNVD-2016-02427）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2016-04-20",
+    "open_time": "2016-04-21",
+    "update_time": "2016-04-21",
+    "data_summary": "bc6208d477afe529b8da8e16a4110b9f"
+}

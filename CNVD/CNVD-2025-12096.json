@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:08:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12096",
+    "spider_time": 1767157693498,
+    "name": "Gnu Guix权限提升漏洞",
+    "cnvd": "CNVD-2025-12096",
+    "publish": "2025-06-09",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Gnu Guix <5ab3c4c\"]",
+    "cve": "CVE-2024-52867",
+    "description": "Gnu Guix是美国GNU社区的一款开源的、跨平台程序包管理器。Gnu Guix存在权限提升漏洞，该漏洞源于允许特权升级，本地用户可以访问构建输出。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-52867",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://git.savannah.gnu.org/cgit/guix.git/commit/?id=5ab3c4c1e43ebb637551223791db0ea3519986e1",
+    "patch": "Gnu Guix权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-21",
+    "open_time": "2025-06-11",
+    "update_time": "2025-06-11",
+    "data_summary": "f64688aed4fc45f005d4c4fa653bdd4a"
+}

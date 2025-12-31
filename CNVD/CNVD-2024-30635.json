@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 09:57:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-30635",
+    "spider_time": 1767146220215,
+    "name": "Google Chrome资源管理错误漏洞（CNVD-2024-30635）",
+    "cnvd": "CNVD-2024-30635",
+    "publish": "2024-06-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <126.0.6478.114\"]",
+    "cve": "CVE-2024-6103",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome存在资源管理错误漏洞，该漏洞源于Dawn 中存在释放后重用问题，远程攻击者可利用该漏洞导致堆损坏。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop_18.html\nhttps://issues.chromium.org/issues/344639860\nhttps://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/6HYUEHZ35ZPY2EONVZCGO6LPT3AMLZCP/",
+    "solution": "目前厂商已发布升级补丁以修复漏洞.补丁获取链接：\nhttps://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop_18.html",
+    "patch": "Google Chrome资源管理错误漏洞（CNVD-2024-30635）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-21",
+    "open_time": "2024-07-05",
+    "update_time": "2024-07-05",
+    "data_summary": "9fdae14100e8a3e55edb568f22ee0e2f"
+}

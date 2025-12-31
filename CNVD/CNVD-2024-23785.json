@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:59:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-23785",
+    "spider_time": 1767149996015,
+    "name": "SAP Solution Manager输入验证错误漏洞",
+    "cnvd": "CNVD-2024-23785",
+    "publish": "2024-05-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"SAP SAP Solution Manager 720\"]",
+    "cve": "CVE-2023-23855",
+    "description": "SAP Solution Manager是德国思爱普（SAP）公司的一套集系统监控、SAP支持桌面、自助服务、ASAP实施等多个功能为一体的系统管理平台。SAP Solution Manager 720版本存在输入验证错误漏洞，该漏洞源于对URL验证不充分。经过身份验证的攻击者可利用该漏洞将用户重定向到恶意站点，从而读取或修改信息或使用户遭受网络钓鱼攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-23855",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://launchpad.support.sap.com/#/notes/3270509",
+    "patch": "SAP Solution Manager输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-02-17",
+    "open_time": "2024-05-23",
+    "update_time": "2024-05-23",
+    "data_summary": "f9bae4f526f3e8c260d2181ba8bdcd17"
+}

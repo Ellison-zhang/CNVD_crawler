@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:34:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-36757",
+    "spider_time": 1767155690697,
+    "name": "TOTOLINK LR350命令注入漏洞",
+    "cnvd": "CNVD-2024-36757",
+    "publish": "2024-08-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK LR350 9.3.5u.6369_B20220309\"]",
+    "cve": "CVE-2024-7214",
+    "description": "TOTOLINK LR350是中国吉翁电子（TOTOLINK）公司的一款无线路由器。TOTOLINK LR350 9.3.5u.6369_B20220309版本存在命令注入漏洞，该漏洞源于/cgi-bin/cstecgi.cgi页面的setWanCfg函数中的hostName参数未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-7214",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://vuldb.com/?id.272785",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-02",
+    "open_time": "2024-08-28",
+    "update_time": "2024-08-28",
+    "data_summary": "3a9b18467fe8f4185fdc1541d7b85b1c"
+}

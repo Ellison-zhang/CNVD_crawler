@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:46:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-70816",
+    "spider_time": 1767149205079,
+    "name": "大华部分产品身份认证绕过漏洞",
+    "cnvd": "CNVD-2021-70816",
+    "publish": "2021-09-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"浙江大华技术股份有限公司 IPC-HX3XXX Versions which Build time before June，2021\", \"浙江大华技术股份有限公司 HX5XXX Versions which Build time before June，2021\", \"浙江大华技术股份有限公司 HUM7XXX Versions which Build time before June，2021\", \"浙江大华技术股份有限公司 VTO75X95X Versions which Build time before June，2021\", \"浙江大华技术股份有限公司  VTO65XXX Versions which Build time before June，2021\", \"浙江大华技术股份有限公司 VTH542XH Versions which Build time before June，2021\", \"浙江大华技术股份有限公司  PTZ Dome Camera SD1A1 Versions which Build time before June，2021\", \"浙江大华技术股份有限公司 SD22 Versions which Build time before June，2021\", \"浙江大华技术股份有限公司 SD49 Versions which Build time before June，2021\", \"浙江大华技术股份有限公司 SD50 Versions which Build time before June，2021\", \"浙江大华技术股份有限公司 SD52C Versions which Build time before June，2021\", \"浙江大华技术股份有限公司 SD6AL Versions which Build time before June，2021\", \"浙江大华技术股份有限公司  Thermal TPC-BF1241 Versions which Build time before June，2021\", \"浙江大华技术股份有限公司 TPC-BF2221 Versions which Build time before June，2021\", \"浙江大华技术股份有限公司 TPC-SD2221 Versions which Build time before June，2021\", \"浙江大华技术股份有限公司  TPC-BF5XXX Versions which Build time before June，2021\", \"浙江大华技术股份有限公司 TPC-SD8X21 Versions which Build time before June，2021\", \"浙江大华技术股份有限公司 TPC-PT8X21B Versions which Build time before June，2021\"]",
+    "cve": "CVE-2021-33044",
+    "description": "浙江大华技术股份有限公司是一家领先的监控产品供应商和解决方案服务商。大华部分产品存在身份认证绕过漏洞，攻击者可利用漏洞通过构造恶意数据包绕过设备身份认证。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dahuasecurity.com/support/cybersecurity/details/957",
+    "solution": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://www.dahuasecurity.com/support/cybersecurity/details/957",
+    "patch": "大华部分产品身份认证绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-09-10",
+    "open_time": "2021-09-14",
+    "update_time": "2021-09-14",
+    "data_summary": "b6278ea2b2f28a9c0aaa8858d27e885a"
+}

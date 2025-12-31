@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:23:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2019-28857",
+    "spider_time": 1767147788510,
+    "name": "Apple macOS Multiple组件存在未明漏洞（CNVD-2019-28857）",
+    "cnvd": "CNVD-2019-28857",
+    "publish": "2019-08-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Apple macOS Mojave <10.14.6\"]",
+    "cve": "CVE-2019-8694",
+    "description": "Apple macOS Mojave是美国苹果（Apple）公司的一套专为Mac计算机所开发的专用操作系统。Apple macOS Mojave 10.14.6之前版本中的Grapher组件存在安全漏洞。攻击者可利用该漏洞以系统权限执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.securityfocus.com/bid/109322 http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-8656 https://www.apple.com/",
+    "solution": "目前厂商已经发布了升级补丁以修复此安全问题，补丁获取链接：\nhttps://lists.apple.com/archives/security-announce/2019/Jul/msg00001.html",
+    "patch": "Apple macOS Multiple组件存在未明漏洞（CNVD-2019-28857）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2019-07-25",
+    "open_time": "2019-08-27",
+    "update_time": "2019-07-25",
+    "data_summary": "0daeeb9d45e328e1b7596c9517ee59d4"
+}

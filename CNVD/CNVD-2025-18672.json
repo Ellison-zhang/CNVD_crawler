@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:59:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18672",
+    "spider_time": 1767160778304,
+    "name": "Mozilla VPN权限提升漏洞",
+    "cnvd": "CNVD-2025-18672",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Mozilla VPN <2.28.0\"]",
+    "cve": "CVE-2025-5687",
+    "description": "Mozilla VPN是美国Mozilla基金会的开源虚拟专用网络Web浏览器扩展，桌面应用程序和移动应用程序。Mozilla VPN存在权限提升漏洞，该漏洞源于权限提升，攻击者可利用该漏洞通过权限提升，篡改系统配置，植入恶意软件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5687",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2025-48/",
+    "patch": "Mozilla VPN权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-17",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "169345f57bf8869c9c9d6fdaef570156"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:21:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-29330",
+    "spider_time": 1767151267143,
+    "name": "Fortinet FortiOS命令执行漏洞（CNVD-2024-29330）",
+    "cnvd": "CNVD-2024-29330",
+    "publish": "2024-06-17",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Fortinet FortiOS >=6.4.0，<=6.4.14\", \"Fortinet FortiOS >=7.0.0，<=7.0.13\", \"Fortinet FortiOS >=6.2.0，<=6.2.15\", \"Fortinet FortiOS >=7.4.0，<=7.4.2\", \"Fortinet FortiOS >=7.2.0，<=7.2.6\", \"Fortinet FortiOS 6.0\"]",
+    "cve": "CVE-2024-23110",
+    "description": "Fortinet FortiOS是美国飞塔（Fortinet）公司的一套专用于FortiGate网络安全平台上的安全操作系统。该系统为用户提供防火墙、防病毒、IPSec/SSLVPN、Web内容过滤和反垃圾邮件等多种安全功能。Fortinet FortiOS存在命令执行漏洞，该漏洞源于应用未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞通过特制的命令执行未经授权的代码或命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-23110",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.com/psirt/FG-IR-23-460",
+    "patch": "Fortinet FortiOS命令执行漏洞（CNVD-2024-29330）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-14",
+    "open_time": "2024-06-26",
+    "update_time": "2024-06-26",
+    "data_summary": "197c38c11bf0c914a3747c183b0a90f3"
+}

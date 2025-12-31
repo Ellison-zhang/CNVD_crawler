@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:37:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33906",
+    "spider_time": 1767170263090,
+    "name": "Linux kernel tcpm_register_source_caps函数内存错误引用漏洞",
+    "cnvd": "CNVD-2024-33906",
+    "publish": "2024-07-26",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Linux Kernel\"]",
+    "cve": "CVE-2024-40903",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在内存错误引用漏洞，该漏洞源于usb:typec:tcpm组件的tcpm_register_source_caps函数负责释放内存的指令发生混乱。攻击者可利用该漏洞可能导致程序崩溃，任意代码执行等。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-40903",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/04c05d50fa79a41582f7bde8a1fd4377ae4a39e5",
+    "patch": "Linux kernel tcpm_register_source_caps函数内存错误引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-19",
+    "open_time": "2024-07-30",
+    "update_time": "2024-07-30",
+    "data_summary": "6e7b13149a091976cc8e48a5e132d2e1"
+}

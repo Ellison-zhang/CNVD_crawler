@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:42:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35168",
+    "spider_time": 1767170532936,
+    "name": "ChurchCRM SQL注入漏洞（CNVD-2024-35168）",
+    "cnvd": "CNVD-2024-35168",
+    "publish": "2024-08-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"ChurchCRM ChurchCRM <=5.8.0\"]",
+    "cve": "CVE-2024-39304",
+    "description": "ChurchCRM是一个为教会打造的开源CRM系统。ChurchCRM 5.8.0及之前版本存在SQL注入漏洞，该漏洞源于应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-39304",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/ChurchCRM/CRM/security/advisories/GHSA-2rh6-gr3h-83j9",
+    "patch": "ChurchCRM SQL注入漏洞（CNVD-2024-35168）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-31",
+    "open_time": "2024-08-13",
+    "update_time": "2024-08-13",
+    "data_summary": "bf92d34dff6c35c60bd36455df86e450"
+}

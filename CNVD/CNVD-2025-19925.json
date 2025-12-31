@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:46:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19925",
+    "spider_time": 1767163572913,
+    "name": "Google Android rfc_utils.cc文件内存错误引用漏洞",
+    "cnvd": "CNVD-2025-19925",
+    "publish": "2025-09-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google android 15\"]",
+    "cve": "CVE-2025-22408",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android rfc_utils.cc文件存在内存错误引用漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://source.android.com/security/bulletin/2025-03-01",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-03-01",
+    "patch": "Google Android rfc_utils.cc文件内存错误引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-28",
+    "open_time": "2025-09-01",
+    "update_time": "2025-09-01",
+    "data_summary": "76ef6c9ec5fc446ef3c029839bc8ca2b"
+}

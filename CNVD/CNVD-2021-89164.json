@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:49:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-89164",
+    "spider_time": 1767149382645,
+    "name": "Open Design Alliance Drawings SDK存在未明漏洞（CNVD-2021-89164）",
+    "cnvd": "CNVD-2021-89164",
+    "publish": "2021-11-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+    "product": "[\"Open Design Alliance Drawings SDK <2022.11\"]",
+    "cve": "CVE-2021-43336",
+    "description": "Open Design Alliance Drawings SDK是美国Open Design Alliance公司的一款应用于图纸设计的软件开发包。该开发包通过方便的，面向对象的API访问.dwg和.dgn中的数据，提供C++API、支持修复文件、.NET，JAVA，Python开发语言的支持等功能。Open Design Alliance Drawings SDK 2022.11之前版本存在安全漏洞，该漏洞源于软件读取DXF文件时存在一个out - bounds Write漏洞。具体的问题存在于DXF文件的解析中。DXF文件中的精心制作的数据(无效数量的属性)可能触发超过已分配缓冲区末端的写操作。攻击者可以利用此漏洞在当前进程的上下文中执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.opendesign.com/security-advisories",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://www.opendesign.com/security-advisories",
+    "patch": "Open Design Alliance Drawings SDK存在未明漏洞（CNVD-2021-89164）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-11-16",
+    "open_time": "2021-11-19",
+    "update_time": "2021-11-19",
+    "data_summary": "f09f5f3e05bcbfa624728763183fd9f0"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:09:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-26080",
+    "spider_time": 1767150554854,
+    "name": "MantisBT跨站脚本漏洞（CNVD-2024-26080）",
+    "cnvd": "CNVD-2024-26080",
+    "publish": "2024-06-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"MantisBT MantisBT <2.26.2\"]",
+    "cve": "CVE-2024-34081",
+    "description": "MantisBT是MantisBT团队的一套基于Web的开源缺陷跟踪系统。该系统以Web操作的形式提供项目管理及缺陷跟踪服务。MantisBT 2.26.2之前版本存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者利用该漏洞可以通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-34081",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/mantisbt/mantisbt/security/advisories/GHSA-wgx7-jp56-65mq",
+    "patch": "MantisBT跨站脚本漏洞（CNVD-2024-26080）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-31",
+    "open_time": "2024-06-06",
+    "update_time": "2024-06-06",
+    "data_summary": "433a445d2af8f695c60ccbb1758ea8d7"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:27:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35659",
+    "spider_time": 1767155253801,
+    "name": "SAP NetWeaver授权问题漏洞",
+    "cnvd": "CNVD-2024-35659",
+    "publish": "2024-08-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:P/A:P",
+    "product": "[\"SAP NetWeaver\"]",
+    "cve": "CVE-2024-27899",
+    "description": "SAP NetWeaver是德国思爱普（SAP）公司的一套面向服务的集成化应用平台。该平台主要为SAP应用程序提供开发和运行环境。SAP NetWeaver存在授权问题漏洞，该漏洞源于用户管理引擎中存在安全错误配置。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://me.sap.com/notes/3434839\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news.html?anchorId=section_370125364\nhttps://cxsecurity.com/cveshow/CVE-2024-27899/",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/april-2024.html",
+    "patch": "SAP NetWeaver授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-12",
+    "open_time": "2024-08-19",
+    "update_time": "2024-08-19",
+    "data_summary": "4413494a809c6086f6d2a6efbc8caeb6"
+}

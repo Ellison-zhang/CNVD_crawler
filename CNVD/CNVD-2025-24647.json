@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 17:44:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24647",
+    "spider_time": 1767174285623,
+    "name": "Centreon存在未明漏洞（CNVD-2025-24647）",
+    "cnvd": "CNVD-2025-24647",
+    "publish": "2025-10-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Centreon Centreon >=24.10.0，<24.10.13\", \"Centreon Centreon >=24.04.0，<24.04.18\", \"Centreon Centreon >=23.10.0，<23.10.28\"]",
+    "cve": "CVE-2025-8428",
+    "description": "Centreon是法国Centreon公司的一套开源的系统监控工具。该产品主要提供对网络、系统和应用程序等资源的监控功能。Centreon存在安全漏洞，攻击者可利用该漏洞可以通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-8428",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/centreon/centreon/releases",
+    "patch": "Centreon存在未明漏洞（CNVD-2025-24647）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "88d9d4b3b7e7d8a1815270e033315b05"
+}

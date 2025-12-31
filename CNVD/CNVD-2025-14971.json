@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:28:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14971",
+    "spider_time": 1767158912540,
+    "name": "SAP Netweaver未授权访问漏洞",
+    "cnvd": "CNVD-2025-14971",
+    "publish": "2025-06-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"SAP SAP Netweaver\"]",
+    "cve": "CVE-2025-31331",
+    "description": "SAP NetWeaver是SAP的集成技术平台。SAP Netweaver存在未授权访问漏洞，该漏洞源于授权检查绕过，攻击者可利用该漏洞未授权访问ABAP代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-31331",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://me.sap.com/notes/3577131",
+    "patch": "SAP Netweaver未授权访问漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "d08589afe145abaed15379f7aa35b489"
+}

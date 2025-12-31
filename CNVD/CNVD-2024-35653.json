@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:43:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35653",
+    "spider_time": 1767170628651,
+    "name": "SAP CRM信息泄露漏洞",
+    "cnvd": "CNVD-2024-35653",
+    "publish": "2024-08-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"SAP SAP CRM\"]",
+    "cve": "CVE-2024-39598",
+    "description": "SAP CRM是德国思爱普（SAP）公司的一个客户关系管理系统。SAP CRM存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，经过身份验证的攻击者可利用该漏洞通过特别制作的HTTP请求枚举内部网络中可访问的HTTP端点，成功利用可能导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://url.sap/sapsecuritypatchday",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://me.sap.com/notes/3467377",
+    "patch": "SAP CRM信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-19",
+    "open_time": "2024-08-19",
+    "update_time": "2024-08-19",
+    "data_summary": "6d6460415082a564606aced54c7d4eb4"
+}

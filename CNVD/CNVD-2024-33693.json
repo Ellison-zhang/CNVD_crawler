@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:36:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33693",
+    "spider_time": 1767170167780,
+    "name": "Tenda O3 formexeCommand函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2024-33693",
+    "publish": "2024-07-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda O3 1.0.0.10\"]",
+    "cve": "CVE-2024-6963",
+    "description": "Tenda O3是中国腾达（Tenda）公司的一个室外无线网桥。Tenda O3存在安全漏洞，该漏洞源于函数formexeCommand中对参数cmdinput的操纵会导致基于栈的缓冲区溢出，从而允许远程发起攻击。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/O3V2.0/formexeCommand.md\nhttps://vuldb.com/?ctiid.272117\nhttps://vuldb.com/?id.272117",
+    "solution": "目前没有详细的解决方案提供：\nhttps://www.tenda.com.cn/download/detail-2832.html",
+    "patch": "Tenda O3 formexeCommand函数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-23",
+    "open_time": "2024-07-26",
+    "update_time": "2024-07-26",
+    "data_summary": "ee417c34a2c5f2c39fabb788cabfc467"
+}

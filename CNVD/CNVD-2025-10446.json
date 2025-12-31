@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:56:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10446",
+    "spider_time": 1767156962588,
+    "name": "Siemens VersiCharge AC Series EV充电器M0固件任意代码执行漏洞",
+    "cnvd": "CNVD-2025-10446",
+    "publish": "2025-05-14",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:N/I:C/A:N",
+    "product": "[\"Siemens VersiCharge AC Series V1.1\"]",
+    "cve": "CVE-2025-31929",
+    "description": "VersiCharge AC Series电动车辆充电桩‌是西门子推出的一款电动车辆充电设备，适用于各种应用场景，包括工作场所、零售、停车场、多单元住宅、公共充电和家庭充电等‌。Siemens VersiCharge AC Series EV充电器M0固件存在任意代码执行漏洞，该漏洞源于受影响的设备在M0硬件中不包含不可变的信任根。对设备具有物理访问权限的攻击者可利用漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-556937.html",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.siemens.com/cert/advisories",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-22",
+    "update_time": "2025-05-22",
+    "data_summary": "185a7cfcceef3a302f16d1a78121e187"
+}

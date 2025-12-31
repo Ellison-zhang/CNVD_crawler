@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:27:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2020-04326",
+    "spider_time": 1767148057120,
+    "name": "Adobe Acrobat和Reader存在内存越界读取漏洞（CNVD-2020-04326）",
+    "cnvd": "CNVD-2020-04326",
+    "publish": "2020-01-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Adobe Adobe Acrobat Reader DC 2019.012.20034\"]",
+    "cve": "CVE-2019-8021",
+    "description": "Adobe Acrobat和Reader都是美国奥多比（Adobe）公司的产品。前者是一套PDF文件编辑和转换工具，后者是一套PDF文档阅读软件。Adobe Acrobat和Reader存在内存越界读取漏洞，远程攻击者可利用该漏洞获取敏感信息的访问权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "目前厂商已经发布了升级补丁以修复此安全问题，补丁获取链接: https://helpx.adobe.com/security/products/acrobat/apsb19-41.html",
+    "patch": "Adobe Acrobat和Reader存在内存越界读取漏洞（CNVD-2020-04326）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2019-12-16",
+    "open_time": "2020-02-07",
+    "update_time": "2020-02-07",
+    "data_summary": "c21aa118ae41eae26c9e6d2169ded6dc"
+}

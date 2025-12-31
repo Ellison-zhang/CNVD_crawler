@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:41:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35153",
+    "spider_time": 1767170484169,
+    "name": "Online Bus Reservation Site SQL注入漏洞",
+    "cnvd": "CNVD-2024-35153",
+    "publish": "2024-08-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Online Bus Reservation Site Online Bus Reservation Site 1.0\"]",
+    "cve": "CVE-2024-7311",
+    "description": "Online Bus Reservation Site是一个在线巴士预订网站。Online Bus Reservation Site 1.0版本存在SQL注入漏洞，该漏洞源于对参数Email缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-7311",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://vuldb.com/?id.273203",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-09",
+    "open_time": "2024-08-13",
+    "update_time": "2024-08-13",
+    "data_summary": "6dedc9f7cd5c06238e36cf75085d6b32"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:24:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14819",
+    "spider_time": 1767158670444,
+    "name": "Adobe Commerce访问控制错误漏洞",
+    "cnvd": "CNVD-2025-14819",
+    "publish": "2025-06-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Adobe Adobe Commerce 2.4.8\", \"Adobe Adobe Commerce <=2.4.7-p5\", \"Adobe Adobe Commerce <=2.4.6-p10\", \"Adobe Adobe Commerce <=2.4.5-p12\", \"Adobe Adobe Commerce <=2.4.4-p13\"]",
+    "cve": "CVE-2025-27207",
+    "description": "Adobe Commerce是美国奥多比（Adobe）公司的一种面向商家和品牌的全球领先的数字商务解决方案。Adobe Commerce存在访问控制错误漏洞，该漏洞源于访问控制不当，攻击者可利用该漏洞绕过安全措施并获得未经授权的读取访问权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-27207",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/magento/apsb25-50.html",
+    "patch": "Adobe Commerce访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "9564ec15954d2ff5ada1c9e2f22149f9"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:27:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-29340",
+    "spider_time": 1767169633396,
+    "name": "Dell BIOS输入验证错误漏洞（CNVD-2024-29340）",
+    "cnvd": "CNVD-2024-29340",
+    "publish": "2024-06-20",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:M/C:C/I:C/A:C",
+    "product": "[\"Dell BIOS\"]",
+    "cve": "CVE-2024-32860",
+    "description": "Dell BIOS是美国戴尔（Dell）公司的一个计算机主板上小型内存芯片上的嵌入式软件。Dell BIOS存在输入验证错误漏洞，该漏洞源于在外部开发的组件中存在输入验证不当漏洞，攻击者利用该漏洞可能导致代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-32860",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000223440/dsa-2024-125",
+    "patch": "Dell BIOS输入验证错误漏洞（CNVD-2024-29340）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-18",
+    "open_time": "2024-06-26",
+    "update_time": "2024-06-26",
+    "data_summary": "e1d9d18dae2e78f5de07afd0862abecc"
+}

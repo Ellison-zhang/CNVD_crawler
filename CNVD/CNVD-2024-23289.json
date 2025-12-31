@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:20:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-23289",
+    "spider_time": 1767169231365,
+    "name": "IBM Engineering Requirements Management DOORS跨站请求伪造漏洞",
+    "cnvd": "CNVD-2024-23289",
+    "publish": "2024-05-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"IBM Engineering Requirements Management DOORS 9.7.2.7\", \"IBM Engineering Requirements Management DOORS Web Access 9.7.2.7\"]",
+    "cve": "CVE-2023-28949",
+    "description": "IBM Engineering Requirements Management DOORS是一个需求管理工具。IBM Engineering Requirements Management DOORS存在跨站请求伪造漏洞，攻击者可利用该漏洞执行来自网站信任的用户的恶意和未经授权的操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://exchange.xforce.ibmcloud.com/vulnerabilities/251216",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7124058",
+    "patch": "IBM Engineering Requirements Management DOORS跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-05",
+    "open_time": "2024-05-20",
+    "update_time": "2024-05-20",
+    "data_summary": "a2971d2a332791ee0c686b2df2cd11bb"
+}

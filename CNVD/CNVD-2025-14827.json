@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:26:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14827",
+    "spider_time": 1767158779926,
+    "name": "SAP NetWeaver Visual Composer目录遍历漏洞",
+    "cnvd": "CNVD-2025-14827",
+    "publish": "2025-06-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:P/A:N",
+    "product": "[\"SAP NetWeaver Visual Composer\"]",
+    "cve": "CVE-2025-42977",
+    "description": "SAP NetWeaver Visual Composer是SAP NetWeaver平台中的一个图形化建模环境，主要用于快速开发和部署复合应用程序‌。SAP NetWeaver Visual Composer存在目录遍历漏洞，该漏洞源于输入路径验证不足， 攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://support.sap.com/en/my-support/knowledge-base/security-notes-news/june-2025.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://help.sap.com/docs/SAP_NETWEAVER_VISUAL_COMPOSER",
+    "patch": "SAP NetWeaver Visual Composer目录遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "d36fe9f3d96cfff4905e4cad933134f1"
+}

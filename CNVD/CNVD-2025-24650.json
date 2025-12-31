@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 17:45:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24650",
+    "spider_time": 1767174308147,
+    "name": "Centreon命令注入漏洞（CNVD-2025-24650）",
+    "cnvd": "CNVD-2025-24650",
+    "publish": "2025-10-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Centreon Centreon >=24.10.0，<24.10.13\", \"Centreon Centreon >=24.04.0，<24.04.18\", \"Centreon Centreon >=23.10.0，<23.10.28\"]",
+    "cve": "CVE-2025-5946",
+    "description": "Centreon是法国Centreon公司的一套开源的系统监控工具。该产品主要提供对网络、系统和应用程序等资源的监控功能。Centreon存在命令注入漏洞，该漏洞源于应用未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5946",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/centreon/centreon/releases",
+    "patch": "Centreon命令注入漏洞（CNVD-2025-24650）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "4602c1c7360a7088e7eee680b5d36e72"
+}

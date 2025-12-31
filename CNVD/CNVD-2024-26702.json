@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:13:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-26702",
+    "spider_time": 1767150830673,
+    "name": "Siemens PowerSys认证错误漏洞",
+    "cnvd": "CNVD-2024-26702",
+    "publish": "2024-06-11",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Siemens PowerSys <3.11\"]",
+    "cve": "CVE-2024-36266",
+    "description": "PowerSys是一个服务程序，用于PowerLink 50/100或SWT 3000设备的调试、维护和诊断。Siemens PowerSys存在认证错误漏洞，本地攻击者可利用该漏洞绕过身份验证，获取受管理远程设备的管理权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-024584.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-024584.html",
+    "patch": "Siemens PowerSys认证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-11",
+    "open_time": "2024-06-12",
+    "update_time": "2024-06-12",
+    "data_summary": "7189a6e96b7b2b015ade127c202979a7"
+}

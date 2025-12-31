@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:35:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15620",
+    "spider_time": 1767159309483,
+    "name": "Apache Traffic Server资源管理错误漏洞（CNVD-2025-15620）",
+    "cnvd": "CNVD-2025-15620",
+    "publish": "2025-07-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Apache Traffic Server（ATS） >=10.0.0，<=10.0.5\", \"Apache Traffic Server（ATS） >=9.0.0，<=9.2.10\"]",
+    "cve": "CVE-2025-49763",
+    "description": "Apache Traffic Server（ATS）是美国阿帕奇（Apache）基金会的一套可扩展的HTTP代理和缓存服务器。Apache Traffic Server（ATS） 10.0.0至10.0.5版本和9.0.0至9.2.10版本存在资源管理错误漏洞，该漏洞源于ESI插件未限制最大包含深度，攻击者可利用该漏洞导致内存消耗过度。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lists.apache.org/thread/15t32nxbypqg1m2smp640vjx89o6v5f8",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://trafficserver.apache.org/downloads",
+    "patch": "Apache Traffic Server资源管理错误漏洞（CNVD-2025-15620）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-14",
+    "update_time": "2025-07-14",
+    "data_summary": "c8e0e2895b03a89151c01524d55c473f"
+}

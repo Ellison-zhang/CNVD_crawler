@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:03:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25370",
+    "spider_time": 1767168203771,
+    "name": "F5 BIG-IP TMM拒绝服务漏洞",
+    "cnvd": "CNVD-2025-25370",
+    "publish": "2025-10-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"F5 F5 BIG-IP null\"]",
+    "cve": "CVE-2025-58096",
+    "description": "F5 BIG-IP是F5公司的一款集成了网络流量编排、负载均衡、智能DNS，远程接入策略管理等功能的应用交付平台。BIG-IP的TMM（Traffic Management Microkernel）模块存在拒绝服务漏洞，该漏洞产生的原因是当数据库变量tm.tcpudptxchecksum被配置为非默认值Software-only时，特定的未公开流量可能导致TMM进程终止。攻击者可利用该漏洞对BIG-IP系统发起拒绝服务（DoS）攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-58096",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://my.f5.com/manage/s/article/K000156572",
+    "patch": "F5 BIG-IP TMM拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-27",
+    "update_time": "2025-10-27",
+    "data_summary": "33cbdfd47ac7ae3a3d1464689c0fc27e"
+}

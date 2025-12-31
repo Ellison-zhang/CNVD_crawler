@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:56:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10579",
+    "spider_time": 1767156995271,
+    "name": "Siemens OZW Web服务器代码执行和SQL注入漏洞（CNVD-2025-10579 ）",
+    "cnvd": "CNVD-2025-10579",
+    "publish": "2025-05-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Siemens OZW772 <5.2\", \"Siemens OZW672 <V8.0\", \"Siemens OZW672 <V6.0\"]",
+    "cve": "CVE-2025-26389",
+    "description": "OZW设备（Web服务器）用于远程监控楼宇控制器设备，例如用于监控供暖控制或空调状况。Siemens OZW672和OZW772 Web服务器存在代码执行和SQL注入漏洞，攻击者可利用漏洞以root权限（在V8.0之前的版本中）在设备上执行任意代码，或以管理员用户身份进行身份验证（在V6.0之前的版本中）。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-047424.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-047424.html",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-05-23",
+    "update_time": "2025-05-23",
+    "data_summary": "863079e6deee76d4a1df100da7a99645"
+}

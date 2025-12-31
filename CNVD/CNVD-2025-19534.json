@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:15:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19534",
+    "spider_time": 1767161732216,
+    "name": "NVIDIA Merlin Transformers4Rec代码注入漏洞",
+    "cnvd": "CNVD-2025-19534",
+    "publish": "2025-08-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"NVIDIA Merlin Transformers4Rec\"]",
+    "cve": "CVE-2025-23298",
+    "description": "NVIDIA Merlin Transformers4Rec是美国英伟达（NVIDIA）公司的一个用于构建序列化和会话式推荐系统的软件。NVIDIA Merlin Transformers4Rec存在代码注入漏洞，该漏洞源于Python依赖，攻击者可利用该漏洞通过绕过安全机制，执行恶意操作，影响系统稳定性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-23298",
+    "solution": "厂商已提供漏洞升级程序，请及时关注更新：\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5683",
+    "patch": "NVIDIA Merlin Transformers4Rec代码注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-21",
+    "open_time": "2025-08-28",
+    "update_time": "2025-08-28",
+    "data_summary": "a92f3933c5bd45cce0868f0a61a880c7"
+}

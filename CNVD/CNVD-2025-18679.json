@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:00:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18679",
+    "spider_time": 1767160838322,
+    "name": "Mozilla Firefox内存破坏漏洞（CNVD-2025-18679）",
+    "cnvd": "CNVD-2025-18679",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Mozilla Thunderbird <91.11\", \"Mozilla Firefox ESR <91.11\", \"Mozilla Firefox <102.0\"]",
+    "cve": "CVE-2022-34484",
+    "description": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Firefox存在内存破坏漏洞，该漏洞源于应用存在内存损坏。攻击者可利用漏洞实现任意代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-38684",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://www.mozilla.org/en-US/security/advisories/mfsa2022-24/",
+    "patch": "Mozilla Firefox内存破坏漏洞（CNVD-2025-18679）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-06-30",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "80226c78fef74f18f9d216d75604f801"
+}

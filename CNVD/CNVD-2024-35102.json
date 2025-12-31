@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:41:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35102",
+    "spider_time": 1767170471856,
+    "name": "Linux kernel存在未明漏洞（CNVD-2024-35102）",
+    "cnvd": "CNVD-2024-35102",
+    "publish": "2024-08-06",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Linux Kernel\"]",
+    "cve": "CVE-2024-42159",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在安全漏洞，该漏洞源于scsi:mpi3mr模块中在存储信息时，mr_sas_port->phy_mask的值可能大于该字段的大小，不应允许这种情况发生。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-42159",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/3668651def2c1622904e58b0280ee93121f2b10b",
+    "patch": "Linux kernel存在未明漏洞（CNVD-2024-35102）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-02",
+    "open_time": "2024-08-09",
+    "update_time": "2024-08-09",
+    "data_summary": "97ddd98405e1d7c8ba6a00d2875e5075"
+}

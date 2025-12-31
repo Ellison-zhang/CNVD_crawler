@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:54:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17302",
+    "spider_time": 1767160472456,
+    "name": "WeGIA操作系统命令注入漏洞",
+    "cnvd": "CNVD-2025-17302",
+    "publish": "2025-07-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WeGIA WeGIA <3.4.2\"]",
+    "cve": "CVE-2025-50201",
+    "description": "WeGIA是一个福利机构的网络管理器。WeGIA存在操作系统命令注入漏洞，该漏洞源于/html/configuracao/debug_info.php端点中的branch参数未正确清理。攻击者可利用该漏洞在系统上执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-50201",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://github.com/LabRedesCefetRJ/WeGIA/commit/45f32ad1d52775fc99f3c90075c8136c6d4d1d3d",
+    "patch": "WeGIA操作系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-24",
+    "open_time": "2025-07-31",
+    "update_time": "2025-07-31",
+    "data_summary": "4489966c97dbd92d9ebed144d29106d3"
+}

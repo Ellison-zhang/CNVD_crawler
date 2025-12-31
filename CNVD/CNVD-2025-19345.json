@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:03:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19345",
+    "spider_time": 1767161026417,
+    "name": "Siemens Simcenter Femap文件解析漏洞",
+    "cnvd": "CNVD-2025-19345",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"SIEMENS Simcenter Femap V2406 <V2406.0003\", \"SIEMENS Simcenter Femap V2412 <V2412.0002\"]",
+    "cve": null,
+    "description": "Simcenter Femap是一个高级仿真应用程序，用于创建、编辑和检查复杂产品或系统的有限元模型。Siemens Simcenter Femap存在文件解析漏洞，当应用程序读取STP或BMP文件格式的文件时，可能会触发该漏洞。攻击者可利用该漏洞导致应用程序崩溃或可能导致任意代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-674084.html",
+    "solution": "西门子已为受影响的产品发布了新版本，并建议更新到最新版本：\nhttps://support.sw.siemens.com/product/275652363/",
+    "patch": "Siemens Simcenter Femap文件解析漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-22",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "0edd73d70d4f581a77b9bfc40ed34527"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:51:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08398",
+    "spider_time": 1767156711592,
+    "name": "Siemens TeleControl Server Basic存在多个SQL注入漏洞",
+    "cnvd": "CNVD-2025-08398",
+    "publish": "2025-04-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Siemens TeleControl Server Basic <V3.1.2.2\"]",
+    "cve": null,
+    "description": "‌TeleControl Server Basic是西门子（Siemens）公司推出的一种用于TeleControl Basic控制中心的软件。TeleControl Server Basic允许通过WAN/LAN对设备进行远程监控和控制。Siemens TeleControl Server Basic v3.1.2.2之前版本存在多个SQL注入漏洞，攻击者可利用漏洞读取和写入应用程序的数据库，导致拒绝服务，并在具有有限“NT AUTHORITYNetworkService”权限的作系统shell中执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-443402.html",
+    "solution": "厂商已发布V3.1.2.2修复漏洞，请广大用户及时下载更新：\nhttps://support.industry.siemens.com/cs/ww/en/view/109987362/",
+    "patch": "Siemens TeleControl Server Basic存在多个SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-16",
+    "open_time": "2025-04-25",
+    "update_time": "2025-05-08",
+    "data_summary": "58b1660088269666d9f3ac6850a7569f"
+}

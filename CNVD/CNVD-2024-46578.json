@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:41:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-46578",
+    "spider_time": 1767156072809,
+    "name": "厦门四信通信科技有限公司设备管理平台存在未授权访问漏洞",
+    "cnvd": "CNVD-2024-46578",
+    "publish": "2024-11-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"厦门四信通信科技有限公司 设备管理平台\"]",
+    "cve": null,
+    "description": "厦门四信通信科技有限公司是全球领先的物联网通信设备及解决方案服务提供商。厦门四信通信科技有限公司设备管理平台存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://device.fourfaith-cloud.com/",
+    "patch": "厦门四信通信科技有限公司设备管理平台存在未授权访问漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2024-10-12",
+    "open_time": "2024-11-29",
+    "update_time": "2024-11-29",
+    "data_summary": "4b91f7bf56822a22a0351d3a0a422614"
+}

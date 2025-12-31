@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:45:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-47379",
+    "spider_time": 1767149130382,
+    "name": "deep-override存在未明漏洞",
+    "cnvd": "CNVD-2021-47379",
+    "publish": "2021-07-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"deep-override deep-override >=1.0.0，<=1.0.1\"]",
+    "cve": "CVE-2021-25941",
+    "description": "deep-override是一个应用软件。提供一个递归对象扩展和覆盖。deep-override 1.0.0版本至1.0.1版本存在安全漏洞，攻击者可利用导致拒绝服务，并可能导致远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/ASaiAnudeep/deep-override/commit/2aced17651fb684959a6e04b1465a8329b3d5268",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://github.com/ASaiAnudeep/deep-override/commit/2aced17651fb684959a6e04b1465a8329b3d5268",
+    "patch": "deep-override存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-07-01",
+    "open_time": "2021-07-05",
+    "update_time": "2021-07-05",
+    "data_summary": "b8511a51f8f2285dfa1d544dcd072790"
+}

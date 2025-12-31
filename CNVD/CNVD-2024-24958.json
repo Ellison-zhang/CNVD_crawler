@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:05:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-24958",
+    "spider_time": 1767150322061,
+    "name": "Tenda FH1206缓冲区溢出漏洞",
+    "cnvd": "CNVD-2024-24958",
+    "publish": "2024-05-29",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda FH1206 1.2.0.8(8155)\"]",
+    "cve": "CVE-2024-4020",
+    "description": "Tenda FH1206是中国腾达（Tenda）公司的一款无线路由器。Tenda FH1206 1.2.0.8(8155)版本存在安全漏洞，该漏洞源于文件/goform/addressNat的函数fromAddressNat存在缓冲区溢出漏洞。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-4020",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-22",
+    "open_time": "2024-05-30",
+    "update_time": "2024-05-30",
+    "data_summary": "64695aca81c8827d3d7f8a6e8a722291"
+}

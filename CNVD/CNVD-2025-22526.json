@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:43:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22526",
+    "spider_time": 1767167018929,
+    "name": "Siemens Mobility Trainguard End-of-Train和Head-of-Train弱身份验证漏洞",
+    "cnvd": "CNVD-2025-22526",
+    "publish": "2025-09-17",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Siemens Trainguard End-of-Train(EOT)\", \"Siemens Trainguard Head-of-Train(HOT)\"]",
+    "cve": null,
+    "description": "Trainguard End-of-Train(EOT)是一款用于连接车载遥测的新一代列车末端设备。Trainguard Head-of-Train(HOT)是一款列车前端设备。这些设备采用S-9152标准进行通信。Siemens Mobility Trainguard End-of-Train和Head-of-Train存在弱身份验证漏洞，漏洞源于该设备的通信协议缺乏身份验证，攻击者可利用漏洞注入恶意命令，导致运行中断或导致制动失灵。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssb-065467.html",
+    "solution": "目前暂无详细的解决方案：\nhttps://cert-portal.siemens.com/productcert/html/ssb-065467.html",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-16",
+    "open_time": "2025-09-25",
+    "update_time": "2025-09-25",
+    "data_summary": "53899185cafff7091b04463313443cd5"
+}

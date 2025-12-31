@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:08:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29019",
+    "spider_time": 1767168505975,
+    "name": "Siemens PS/IGES Parasolid Translator Component越界读取漏洞",
+    "cnvd": "CNVD-2025-29019",
+    "publish": "2025-11-17",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Siemens PS/IGES Parasolid Translator Component <v29.0.258\"]",
+    "cve": "CVE-2025-40936",
+    "description": "Parasolid Translator Component是用于在Parasolid和多种行业格式（如STEP或IGES）之间进行高速端到端翻译的单格式翻译工具包。Siemens PS/IGES Parasolid Translator Component V29.0.258之前版本存在越界读取漏洞，攻击者可利用漏洞导致应用程序崩溃或执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-241605.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-241605.html",
+    "patch": "Siemens PS/IGES Parasolid Translator Component越界读取漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2025-11-20",
+    "update_time": "2025-11-20",
+    "data_summary": "d884f4e2edb94d741ef5ca0b9dd4375b"
+}

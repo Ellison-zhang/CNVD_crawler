@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:54:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33593",
+    "spider_time": 1767153282186,
+    "name": "IBM InfoSphere Information Server跨站脚本漏洞（CNVD-2024-33593）",
+    "cnvd": "CNVD-2024-33593",
+    "publish": "2024-07-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"IBM InfoSphere Information Server 11.7\"]",
+    "cve": "CVE-2024-40690",
+    "description": "IBM InfoSphere Information Server是美国国际商业机器（IBM）公司的一套数据整合平台。该平台可用于整合各种渠道获取的数据信息。IBM InfoSphere Information Server 11.7版本存在跨站脚本漏洞，该漏洞源于容易受到跨站脚本攻击，经过身份验证的攻击者可利用该漏洞在Web UI中嵌入任意JavaScript代码，从而更改预期功能导致可信会话中的凭据泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-40690/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7160103",
+    "patch": "IBM InfoSphere Information Server跨站脚本漏洞（CNVD-2024-33593）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-17",
+    "open_time": "2024-07-25",
+    "update_time": "2024-07-25",
+    "data_summary": "7f46231c63709de5dec51adf10e3a0da"
+}

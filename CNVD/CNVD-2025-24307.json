@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:58:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24307",
+    "spider_time": 1767167910200,
+    "name": "Simple Car Rental System /book_car.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-24307",
+    "publish": "2025-10-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Simple Car Rental System Simple Car Rental System 1.0\"]",
+    "cve": "CVE-2024-11632",
+    "description": "Simple Car Rental System是一个汽车租赁软件。Simple Car Rental System存在SQL注入漏洞，该漏洞源于文件/book_car.php参数fname、id_no、gender、email、phone和location的错误操作会导致SQL注入。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-11632",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-27",
+    "open_time": "2025-10-21",
+    "update_time": "2025-10-21",
+    "data_summary": "74ebbe38516e393d0a9c9ae8a970ba6f"
+}

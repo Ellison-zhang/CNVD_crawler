@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:39:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21055",
+    "spider_time": 1767166787517,
+    "name": "GNU Binutils缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-21055",
+    "publish": "2025-09-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"GNU Binutils >=2.35，<=2.40\"]",
+    "cve": "CVE-2023-1972",
+    "description": "GNU Binutils是GNU项目开发的一组二进制工具集，主要用于处理目标文件（如可执行文件、库文件等），涵盖编译、链接、调试等阶段的功能。GNU Binutils存在缓冲区溢出漏洞，该漏洞源于bfd/elf.c的_bfd_elf_slurp_version_tables() 中发现了潜在的基于堆的缓冲区溢出。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://access.redhat.com/security/cve/cve-2023-1972",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://sourceware.org/git/?p=binutils-gdb.git;a=blobdiff;f=bfd/elf.c;h=185028cbd97ae0901c4276c8a4787b12bb75875a;hp=027d01437352555bc4ac0717cb0486c751a7775d;hb=c22d38baefc5a7a1e1f5cdc9dbb556b1f0ec5c57;hpb=f2f9bde5cde7ff34ed0a4c4682a211d402aa1086",
+    "patch": "GNU Binutils缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-04-12",
+    "open_time": "2025-09-11",
+    "update_time": "2025-09-11",
+    "data_summary": "f8c9513897a2ab6d7c6042708d758468"
+}

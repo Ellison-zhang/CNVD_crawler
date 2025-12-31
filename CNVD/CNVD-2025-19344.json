@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:03:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19344",
+    "spider_time": 1767161015819,
+    "name": "Siemens COMOS本地任意代码执行漏洞",
+    "cnvd": "CNVD-2025-19344",
+    "publish": "2025-08-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:C",
+    "product": "[\"SIEMENS COMOS <V10.6\"]",
+    "cve": null,
+    "description": "COMOS是一个用于协同工厂设计、运营和管理的统一数据平台，支持在整个工厂生命周期内收集、处理、保存和分发信息。Siemens COMOS存在本地任意代码执行漏洞，攻击者可利用该漏洞引发拒绝服务攻击（崩溃、退出或重新启动）或可能的代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-769791.html",
+    "solution": "西门子已发布COMOS的新版本，并建议更新到最新版本：\nhttps://support.sw.siemens.com/product/222981661/",
+    "patch": "Siemens COMOS本地任意代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-22",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "ac38a28aa910c282de484911040bd73c"
+}

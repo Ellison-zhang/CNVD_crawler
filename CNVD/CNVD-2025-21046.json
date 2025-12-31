@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:37:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21046",
+    "spider_time": 1767166656439,
+    "name": "GNU Binutils内存泄漏漏洞",
+    "cnvd": "CNVD-2025-21046",
+    "publish": "2025-09-08",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Gnu GNU Binutils 2.34\"]",
+    "cve": "CVE-2020-21490",
+    "description": "GNU Binutils是GNU项目开发的一组二进制工具集，主要用于处理目标文件（如可执行文件、库文件等），涵盖编译、链接、调试等阶段的功能。GNU Binutils存在内存泄漏漏洞，该漏洞源于处理microblaze-dis.c时发生内存泄漏。攻击者可利用该漏洞使系统失去响应。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://sourceware.org/bugzilla/show_bug.cgi?id=25249\nhttps://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;h=378fd436405b3051df34ac995b2e03fe1f3d1907",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://sourceware.org/bugzilla/show_bug.cgi?id=25249",
+    "patch": "GNU Binutils内存泄漏漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-08-25",
+    "open_time": "2025-09-11",
+    "update_time": "2025-09-11",
+    "data_summary": "cde4176c80ea203766a815b2910e0deb"
+}

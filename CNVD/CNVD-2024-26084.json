@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:24:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-26084",
+    "spider_time": 1767169480028,
+    "name": "Google Chrome存在未明漏洞（CNVD-2024-26084）",
+    "cnvd": "CNVD-2024-26084",
+    "publish": "2024-06-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome\"]",
+    "cve": "CVE-2024-5274",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome存在安全漏洞，该漏洞源于V8中的类型混淆。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-5274",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_23.html",
+    "patch": "Google Chrome存在未明漏洞（CNVD-2024-26084）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-27",
+    "open_time": "2024-06-06",
+    "update_time": "2024-06-06",
+    "data_summary": "deac5c9036ee1c338770e94fc25620e5"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:26:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20504",
+    "spider_time": 1767165960834,
+    "name": "NETGEAR R6200v2命令注入漏洞",
+    "cnvd": "CNVD-2025-20504",
+    "publish": "2025-09-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"NETGEAR R6200v2 1.0.3.12\"]",
+    "cve": "CVE-2022-30079",
+    "description": "NETGEAR R6200v2是美国网件（NETGEAR）推出的双频千兆无线路由器，符合IEEE 802.11ac标准。NETGEAR R6200v2存在命令注入漏洞，该漏洞源于允许远程身份验证的攻击者修改易受攻击参数中的值。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2022-30079/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.downloads.netgear.com/files/GDC/R6200V2/R6200v2-V1.0.3.12_10.1.11.zip",
+    "patch": "NETGEAR R6200v2命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-09-13",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "f0eabb99f19ad8fca09c17081a935831"
+}

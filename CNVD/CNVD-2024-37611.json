@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:46:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37611",
+    "spider_time": 1767170796121,
+    "name": "Dell PowerProtect Data Manager授权问题漏洞（CNVD-2024-3761184）",
+    "cnvd": "CNVD-2024-37611",
+    "publish": "2024-09-04",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"DELL Dell PowerProtect Data Manager <=19.14\"]",
+    "cve": "CVE-2023-43081",
+    "description": "Dell PowerProtect Data Manager（PPDM）是美国戴尔（Dell）公司的一套数据保护解决方案。该产品支持数据备份、虚拟机备份和数据库保护等功能。Dell PowerProtect Data Manager 19.14及之前版本存在授权问题漏洞，该漏洞源于ddfscon组件存在不正确的默认权限，低权限本地攻击者可利用该漏洞覆盖日志文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-43081",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/home/en-us/product-support/product/enterprise-copy-data-management/drivers",
+    "patch": "Dell PowerProtect Data Manager授权问题漏洞（CNVD-2024-3761184）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-11-24",
+    "open_time": "2024-09-06",
+    "update_time": "2024-09-06",
+    "data_summary": "b4a7d5003c2a479df06a545675fc3fd5"
+}

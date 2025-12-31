@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:02:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19341",
+    "spider_time": 1767160970290,
+    "name": "Siemens RUGGEDCOM CROSSBOW Station Access Controller (SAC)多个漏洞",
+    "cnvd": "CNVD-2025-19341",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"SIEMENS RUGGEDCOM CROSSBOW Station Access Controller (SAC) <V5.7\"]",
+    "cve": null,
+    "description": "RUGGEDCOM CROSSBOW是一种安全的访问管理解决方案，旨在为智能电子设备提供符合NERC CIP标准的访问。Siemens RUGGEDCOM CROSSBOW Station Access Controller (SAC)存在多个漏洞，攻击者可利用漏洞执行任意代码或造成拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-994087.html",
+    "solution": "西门子已发布RUGGEDCOM CROSSBOW站点接入控制器（SAC）的新版本，并建议更新至最新版本：\nhttps://support.industry.siemens.com/cs/ww/en/view/109989951/",
+    "patch": "Siemens RUGGEDCOM CROSSBOW Station Access Controller (SAC)多个漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-22",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "c8064b553a64dab7a64bcbdcd1af6900"
+}

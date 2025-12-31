@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:35:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21037",
+    "spider_time": 1767166558989,
+    "name": "TOTOLINK A3300R setStaticDhcpRules方法命令注入漏洞",
+    "cnvd": "CNVD-2025-21037",
+    "publish": "2025-09-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A3300R V17.0.0cu.557_B20221024\"]",
+    "cve": "CVE-2024-24326",
+    "description": "TOTOLINK A3300R是中国吉翁电子（TOTOLINK）生产的一款双频无线路由器，主要用于家庭及小型网络环境。TOTOLINK A3300R存在命令注入漏洞，该漏洞源于setStaticDhcpRules方法的arpEnable参数未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/funny-mud-peee/IoT-vuls/blob/main/TOTOLINK%20A3300R/8/TOTOlink%20A3300R%20setStaticDhcpRules.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/241/ids/36.html",
+    "patch": "TOTOLINK A3300R setStaticDhcpRules方法命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-02-02",
+    "open_time": "2025-09-11",
+    "update_time": "2025-09-11",
+    "data_summary": "f020f97d4fe774ddebea644b3781532c"
+}

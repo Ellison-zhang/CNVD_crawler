@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:02:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19260",
+    "spider_time": 1767160960138,
+    "name": "Cisco Catalyst SD-WAN Manager信任管理问题漏洞",
+    "cnvd": "CNVD-2025-19260",
+    "publish": "2025-08-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:N/A:N",
+    "product": "[\"Cisco Cisco Catalyst SD-WAN Manager\"]",
+    "cve": "CVE-2025-20157",
+    "description": "Cisco Catalyst SD-WAN Manager（Cisco SD-WAN vManage）是美国思科（Cisco）公司的一个高度可定制的仪表板。可简化和自动化Cisco SD-WAN的部署、配置、管理和操作。Cisco Catalyst SD-WAN Manager存在信任管理问题漏洞，该漏洞源于证书验证不当，攻击者可利用该漏洞导致敏感信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20157",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.cisco.com/c/en/us/support/index.html",
+    "patch": "Cisco Catalyst SD-WAN Manager信任管理问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "d635b465ae04f2c9fd9119fc0cef28b1"
+}

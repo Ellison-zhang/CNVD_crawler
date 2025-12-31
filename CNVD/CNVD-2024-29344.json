@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:23:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-29344",
+    "spider_time": 1767151383033,
+    "name": "Dell Common Event Enabler反序列化漏洞",
+    "cnvd": "CNVD-2024-29344",
+    "publish": "2024-06-20",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"DELL Common Event Enabler <8.9.10.0\"]",
+    "cve": "CVE-2024-28964",
+    "description": "Dell Common Event Enabler用于为常见的防病毒代理程序 (CAVA) 和常见事件发布代理程序 (CEPA) 提供工作环境。Dell Common Event Enabler存在反序列化漏洞。本地攻击者可以利用该漏洞导致在登录用户的上下文中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-28964",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://www.dell.com/support/kbdoc/en-us/000224987/dsa-2024-179-security-update-for-dell-emc-common-event-enabler-windows-for-cavatools-vulnerabilities",
+    "patch": "Dell Common Event Enabler反序列化漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-13",
+    "open_time": "2024-06-26",
+    "update_time": "2024-06-26",
+    "data_summary": "61b14b146d014f8f86eac5ef03f5ce65"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:54:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-23245",
+    "spider_time": 1767149667632,
+    "name": "FreeRDP nsc_rle_decompress_data函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2024-23245",
+    "publish": "2024-05-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:N/I:N/A:C",
+    "product": "[\"FreeRDP FreeRDP <2.11.0\", \"FreeRDP FreeRDP <3.0-Beta3\"]",
+    "cve": "CVE-2023-39354",
+    "description": "FreeRDP是FreeRDP团队的一款开源的远程桌面协议（RDP）的实现。FreeRDP存在缓冲区溢出漏洞，该漏洞源于nsc_rle_decompress_data函数中处理`context-+大于+Planes` 时未能检查它是否包含足够长度的数据。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-39354",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/FreeRDP/FreeRDP/security/advisories/GHSA-c3r2-pxxp-f8r6",
+    "patch": "FreeRDP nsc_rle_decompress_data函数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-09-05",
+    "open_time": "2024-05-17",
+    "update_time": "2024-05-17",
+    "data_summary": "08cc7ef01394579b7e6c3d16317ca86f"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:36:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-30069",
+    "spider_time": 1767152166339,
+    "name": "OpenCart PHP注入漏洞",
+    "cnvd": "CNVD-2024-30069",
+    "publish": "2024-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"OpenCart OpenCart >=4.0.0.0\"]",
+    "cve": "CVE-2024-21519",
+    "description": "OpenCart是一个开源的在线商店管理系统，用于创建和管理电子商务网站。它以其用户友好性和灵活性而闻名，适合不同规模的在线商店。OpenCart存在PHP注入漏洞，该漏洞源于存在任意文件创建问题，具有管理员权限的攻击者可以创建具有任意文件名的备份文件。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-21519",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.snyk.io/vuln/SNYK-PHP-OPENCARTOPENCART-7266578",
+    "patch": "OpenCart PHP注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-24",
+    "open_time": "2024-07-03",
+    "update_time": "2024-07-03",
+    "data_summary": "9e88d6b4b41daa026cb57ceca5cd5c69"
+}

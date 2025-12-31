@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:46:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-68759",
+    "spider_time": 1767149182483,
+    "name": "Quokka存在未明漏洞",
+    "cnvd": "CNVD-2021-68759",
+    "publish": "2021-09-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Quokka Quokka 0.4.0\"]",
+    "cve": "CVE-2020-18705",
+    "description": "Quokka是开源的一个用 Python 编写的内容管理框架。Quokka 0.4.0版本存在安全漏洞，攻击者可利用该漏洞通过组件\\\"quokka/core/content/views.py\\\"执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2020-18705",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://github.com/rochacbruno/quokka。",
+    "patch": "Quokka存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-08-18",
+    "open_time": "2021-09-07",
+    "update_time": "2021-09-07",
+    "data_summary": "376a929c113e9ca28b24689aad9987ec"
+}

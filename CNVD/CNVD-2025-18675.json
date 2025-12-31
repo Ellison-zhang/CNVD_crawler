@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:00:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18675",
+    "spider_time": 1767160808358,
+    "name": "Mozilla Firefox信息泄露漏洞",
+    "cnvd": "CNVD-2025-18675",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Mozilla Firefox <108.0\", \"Mozilla Firefox ESR <102.6\"]",
+    "cve": "CVE-2022-46872",
+    "description": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Firefox存在安全漏洞。攻击者可利用该漏洞读取任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-46872",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.mozilla.org/en-US/security/advisories/mfsa2022-51/",
+    "patch": "Mozilla Firefox信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-12-13",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "b54fc8506b6c59683fd1d03e086fa2ec"
+}

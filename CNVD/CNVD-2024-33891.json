@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:00:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33891",
+    "spider_time": 1767146401604,
+    "name": "Adobe Experience Manager跨站脚本漏洞（CNVD-2024-33891）",
+    "cnvd": "CNVD-2024-33891",
+    "publish": "2024-07-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Adobe Adobe Experience Manager <=6.5.20\"]",
+    "cve": "CVE-2024-34128",
+    "description": "Adobe Experience Manager（AEM）是美国奥多比（Adobe）公司的一套可用于构建网站、移动应用程序和表单的内容管理解决方案。该方案支持移动内容管理、营销销售活动管理和多站点管理等。Adobe Experience Manager 6.5.20版本之前存在跨站脚本漏洞，该漏洞源于受到存储型跨站脚本漏洞的影响，低权限攻击者可利用该漏洞将恶意脚本注入易受攻击的表单字段。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-34128",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://helpx.adobe.com/security/products/experience-manager/apsb24-28.html",
+    "patch": "Adobe Experience Manager跨站脚本漏洞（CNVD-2024-33891）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-25",
+    "open_time": "2024-07-30",
+    "update_time": "2024-07-30",
+    "data_summary": "3cd8cb00a19edc844b4ee9803e918d08"
+}

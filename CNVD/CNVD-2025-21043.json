@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:37:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21043",
+    "spider_time": 1767166633091,
+    "name": "GNU Binutils内存消耗过多漏洞",
+    "cnvd": "CNVD-2025-21043",
+    "publish": "2025-09-08",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"GNU Binutils <2.40\"]",
+    "cve": "CVE-2022-48063",
+    "description": "GNU Binutils是GNU项目开发的一组二进制工具集，主要用于处理目标文件（如可执行文件、库文件等），涵盖编译、链接、调试等阶段的功能。GNU Binutils存在内存消耗过多漏洞，该漏洞源于dwarf2.c的load_separate_debug_files函数包含内存消耗过多漏洞，攻击者可利用该漏洞通过提供特制的ELF文件实施DNS攻击，进而导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-48063",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://sourceware.org/bugzilla/show_bug.cgi?id=29924",
+    "patch": "GNU Binutils内存消耗过多漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-12-08",
+    "open_time": "2025-09-11",
+    "update_time": "2025-09-11",
+    "data_summary": "9eaddd619d539fa7ceba08d648acf76b"
+}

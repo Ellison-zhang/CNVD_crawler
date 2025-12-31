@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:31:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-31398",
+    "spider_time": 1767169918937,
+    "name": "Foxit PDF Reader远程代码执行漏洞（CNVD-2024-31398）",
+    "cnvd": "CNVD-2024-31398",
+    "publish": "2024-07-10",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Foxit PDF Reader\"]",
+    "cve": "CVE-2023-27331",
+    "description": "Foxit PDF Reader是中国福昕（Foxit）公司的一款PDF阅读器。Foxit PDF Reader存在远程代码执行漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-27331",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.foxit.com/support/security-bulletins.html",
+    "patch": "Foxit PDF Reader远程代码执行漏洞（CNVD-2024-31398）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-05",
+    "open_time": "2024-07-11",
+    "update_time": "2024-07-11",
+    "data_summary": "df739066d678aa892fd46e50509ff7e9"
+}

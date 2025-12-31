@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:41:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21568",
+    "spider_time": 1767166911473,
+    "name": "Apartment Visitors Management System searchdata参数SQL注入漏洞",
+    "cnvd": "CNVD-2025-21568",
+    "publish": "2025-09-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Apartment Visitors Management System Apartment Visitors Management System 1.0\"]",
+    "cve": "CVE-2025-2051",
+    "description": "Apartment Visitors Management System是一个公寓访客管理系统。Apartment Visitors Management System存在SQL注入漏洞，该漏洞源于searchdata参数缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/guttlefish/vul/issues/9",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-09-18",
+    "update_time": "2025-09-18",
+    "data_summary": "0035950112843ab174f3a72e199d13fa"
+}

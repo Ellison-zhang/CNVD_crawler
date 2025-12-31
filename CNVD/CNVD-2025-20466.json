@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:18:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20466",
+    "spider_time": 1767165511503,
+    "name": "WordPress BetPress plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-20466",
+    "publish": "2025-09-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"WordPress BetPress plugin <=1.0.1\"]",
+    "cve": "CVE-2025-48309",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress BetPress plugin存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/betpress/vulnerability/wordpress-betpress-plugin-1-0-1-lite-csrf-to-stored-xss-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-31",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "20186ca4a38d6559409ca240205cb851"
+}

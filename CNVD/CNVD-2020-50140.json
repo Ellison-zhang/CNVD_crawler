@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:40:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2020-50140",
+    "spider_time": 1767148811513,
+    "name": "XnView缓冲区溢出漏洞（CNVD-2020-50140）",
+    "cnvd": "CNVD-2020-50140",
+    "publish": "2020-09-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+    "product": "[\"Xnview XnView 2.04\"]",
+    "cve": "CVE-2013-3937",
+    "description": "XnView是法国软件开发者Gougelet Pierre-Emmanuel所研发的一套多平台图片查看软件。该软件可用于查看、转换、组织和编辑图形及视频文件。XnView 2.04版本中存在缓冲区溢出漏洞，该漏洞源于程序未正确对用户提供的输入进行边界检查，导致程序复制数据的大小超出了分配的内存缓冲区空间。攻击者可利用该漏洞在应用程序上下文中执行任意代码，也可能造成拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.securityfocus.com/bid/64438",
+    "solution": "目前厂商已经发布了升级补丁以修复此安全问题，补丁获取链接：\nhttp://newsgroup.xnview.com/viewtopic.php?f=35&t=29087",
+    "patch": "XnView缓冲区溢出漏洞（CNVD-2020-50140）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2020-01-07",
+    "open_time": "2020-09-02",
+    "update_time": "2020-01-07",
+    "data_summary": "50ff8a74350e3b02a70c10375d8d86be"
+}

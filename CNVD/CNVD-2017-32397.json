@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 09:59:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2017-32397",
+    "spider_time": 1767146391081,
+    "name": "Mahara Resume Blocktype跨站脚本漏洞",
+    "cnvd": "CNVD-2017-32397",
+    "publish": "2017-11-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:N/I:P/A:N",
+    "product": "[\"Mahara Mahara <1.0.13\", \"Mahara Mahara <1.1.7，1.1.x\"]",
+    "cve": "CVE-2009-3299",
+    "description": "Mahara是一个开源的电子文件夹、网络日志、履历表生成器和社会联网系统。Mahara 1.0.13之前版本和1.1.7之前的1.1.x版的resume blocktype中的存在跨站脚本漏洞，由于Mahara未能正确地验证传送给resume blocktype的输入参数便返回给了用户，允许远程攻击者借助未加规定向量，注入任意web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.securityfocus.com/bid/36892/",
+    "solution": "目前厂商暂未发布修复措施解决此安全问题，建议使用此软件的用户随时关注厂商主页或参考网址以获取解决办法：\nhttps://mahara.org/interaction/forum/topic.php?id=1170",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2017-10-17",
+    "open_time": "2017-11-02",
+    "update_time": "2017-10-17",
+    "data_summary": "ebe3197a3efaa27680374390f3c74134"
+}

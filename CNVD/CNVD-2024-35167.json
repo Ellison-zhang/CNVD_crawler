@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:21:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35167",
+    "spider_time": 1767154899806,
+    "name": "IBM Aspera Orchestrator跨站请求伪造漏洞",
+    "cnvd": "CNVD-2024-35167",
+    "publish": "2024-08-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"IBM Aspera Orchestrator 4.0.1\"]",
+    "cve": "CVE-2023-38001",
+    "description": "IBM Aspera Orchestrator是美国国际商业机器（IBM）公司的一个基于Web的应用程序。可为数据驱动型企业提供高效的文件处理管道。IBM Aspera Orchestrator 4.0.1版本存在跨站请求伪造漏洞。攻击者可利用该漏洞执行恶意和未经授权的操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-38001",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7161538",
+    "patch": "IBM Aspera Orchestrator跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-01",
+    "open_time": "2024-08-13",
+    "update_time": "2024-08-13",
+    "data_summary": "fcaecdc3dc532eba8101d5f695f04c45"
+}

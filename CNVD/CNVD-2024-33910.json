@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:08:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33910",
+    "spider_time": 1767154086409,
+    "name": "NETGEAR ProSAFE SQL注入漏洞（CNVD-2024-33910）",
+    "cnvd": "CNVD-2024-33910",
+    "publish": "2024-07-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"NETGEAR ProSAFE\"]",
+    "cve": "CVE-2023-38099",
+    "description": "NETGEAR ProSAFE是美国网件（NETGEAR）公司的一个网络管理系统。NETGEAR ProSAFE存在SQL注入漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-38099",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://kb.netgear.com/000065707/Security-Advisory-for-Multiple-Vulnerabilities-on-the-ProSAFE-Network-Management-System-PSV-2023-0024-PSV-2023-0025",
+    "patch": "NETGEAR ProSAFE SQL注入漏洞（CNVD-2024-33910）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-12",
+    "open_time": "2024-07-30",
+    "update_time": "2024-07-30",
+    "data_summary": "02c7395333fc061dbe179aa232f4eba9"
+}

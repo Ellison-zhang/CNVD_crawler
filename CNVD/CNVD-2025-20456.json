@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:16:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20456",
+    "spider_time": 1767165362607,
+    "name": "WordPress LWSCache plugin授权问题漏洞",
+    "cnvd": "CNVD-2025-20456",
+    "publish": "2025-09-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"WordPress LWSCache plugin <=2.8.5\"]",
+    "cve": "CVE-2025-8147",
+    "description": "WordPress LWSCache plugin是WordPress官方开发的一款缓存插件，主要用于优化网站加载速度并提升SEO排名。WordPress LWSCache plugin存在授权问题漏洞，该漏洞源于lwscache_activatePlugin函数授权不当，攻击者可利用该漏洞导致未经授权的数据修改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.wordfence.com/threat-intel/vulnerabilities/id/01a6a5bf-636b-416c-86fa-43f639624e80?source=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/lwscache/#developers",
+    "patch": "WordPress LWSCache plugin授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-02",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "c2f6879802b32f070e9eae3b39919141"
+}

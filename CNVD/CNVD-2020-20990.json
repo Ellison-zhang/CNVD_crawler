@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:38:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2020-20990",
+    "spider_time": 1767148737269,
+    "name": "Intel Graphics Drivers拒绝服务漏洞 ",
+    "cnvd": "CNVD-2020-20990",
+    "publish": "2020-04-02",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"Intel Graphics Drivers  <26.20.100.7212\"]",
+    "cve": "CVE-2020-0567",
+    "description": "Intel Graphics Drivers是美国英特尔（Intel）公司的一款集成显卡驱动程序。Intel Graphics Drivers存在安全漏洞。攻击者可利用漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00315.html",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00315.html",
+    "patch": "Intel Graphics Drivers拒绝服务漏洞 的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2020-03-12",
+    "open_time": "2020-04-02",
+    "update_time": "2020-04-02",
+    "data_summary": "67e82d9cae59528df7ba673fdd605037"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:14:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-40493",
+    "spider_time": 1767168889206,
+    "name": "FFmpeg拒绝服务漏洞（CNVD-2021-40493）",
+    "cnvd": "CNVD-2021-40493",
+    "publish": "2021-06-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:N/I:N/A:P",
+    "product": "[\"FFmpeg FFmpeg 4.2\"]",
+    "cve": "CVE-2020-22056",
+    "description": "FFmpeg是一套可录制、转换以及流化音视频的完整解决方案。FFmpeg存在安全漏洞，该漏洞源于dict.c中的av字典集函数存在内存泄露。攻击者可利用该漏洞进行拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2020-22056",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttp://www.ffmpeg.org/",
+    "patch": "FFmpeg拒绝服务漏洞（CNVD-2021-40493）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-06-03",
+    "open_time": "2021-06-09",
+    "update_time": "2021-06-09",
+    "data_summary": "1197047fadc70041fad96319ea5f77b6"
+}

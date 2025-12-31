@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:48:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07519",
+    "spider_time": 1767156498634,
+    "name": "Tenda AC15 webCgiGetUploadFile存在缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-07519",
+    "publish": "2025-04-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda AC15 15.13.07.13\"]",
+    "cve": "CVE-2025-29462",
+    "description": "Tenda AC15是中国腾达公司的一款无线路由器。Tenda AC15 webCgiGetUploadFile存在缓冲区溢出漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-29462",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-08",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "97a787149b1dc6f42affebc23b3e631a"
+}

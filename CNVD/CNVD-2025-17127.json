@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:49:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17127",
+    "spider_time": 1767160181163,
+    "name": "Google Chrome越界访问漏洞",
+    "cnvd": "CNVD-2025-17127",
+    "publish": "2025-07-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Google Chrome <132.0.6834.110\"]",
+    "cve": "CVE-2025-0612",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome存在越界访问漏洞，攻击者可利用漏洞通过特制的HTML页面导致堆损坏。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-0612",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://chromereleases.googleblog.com/2025/01/stable-channel-update-for-desktop_22.html",
+    "patch": "Google Chrome越界访问漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-10",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "b46d7fe1de833c8ead6dce40334951b1"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:32:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15481",
+    "spider_time": 1767159155034,
+    "name": "Tenda AC6缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-15481",
+    "publish": "2025-07-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Tenda AC6 <=15.03.05.19\"]",
+    "cve": "CVE-2025-50528",
+    "description": "Tenda AC6是中国腾达（Tenda）公司的一款无线路由器。Tenda AC6 V15.03.05.19及之前版本存在缓冲区溢出漏洞，该漏洞源于fromNatStaticSetting函数未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-50528",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/pfwqdxwdd/cve/blob/main/1.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-07",
+    "open_time": "2025-07-11",
+    "update_time": "2025-07-11",
+    "data_summary": "4d0b06d4b482648fb1a9e41a94f04936"
+}

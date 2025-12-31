@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:25:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35560",
+    "spider_time": 1767155107783,
+    "name": "microweber admin.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2024-35560",
+    "publish": "2024-08-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Microweber Microweber 2.0.16\"]",
+    "cve": "CVE-2024-41381",
+    "description": "Microweber是Microweber开源的一套可提供拖拽功能的网上商店管理系统。该系统包括添加商品、图片等模块。microweber 2.0.16版本存在跨站脚本漏洞，该漏洞源于modulessettingsadmin.php对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-41381",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/microweber/microweber/issues/1110",
+    "patch": "microweber admin.php文件跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-09",
+    "open_time": "2024-08-15",
+    "update_time": "2024-08-15",
+    "data_summary": "bdf7ccb74c608c516e323472ad403032"
+}

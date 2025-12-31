@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:52:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17141",
+    "spider_time": 1767160326790,
+    "name": "Microsoft Windows Media Foundation远程代码执行漏洞",
+    "cnvd": "CNVD-2025-17141",
+    "publish": "2025-07-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Windows Server 2019\", \"Microsoft Windows Server 2022\", \"Microsoft Window 10 22H2\", \"Microsoft Window 10 21H2\", \"Microsoft Window 11 22H2\", \"Microsoft Window 10 1809\", \"Microsoft Window 11 23H2\", \"Microsoft Window 11 24H2\", \"Microsoft Windows Server 2025\"]",
+    "cve": "CVE-2025-29963",
+    "description": "Microsoft Windows Media Foundation是美国微软（Microsoft）公司的一个多媒体开发库，目的是为Windows平台提供统一的多媒体影音解决方案，开发者可以透过Media Foundation播放视频和声音文件、进行影音编码或者多媒体文件转码等等工作。Microsoft Windows Media Foundation存在安全漏洞。攻击者利用该漏洞可以远程执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-29963",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29963",
+    "patch": "Microsoft Windows Media Foundation远程代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "cc8494a30fe24791ada3e093beb2dee7"
+}

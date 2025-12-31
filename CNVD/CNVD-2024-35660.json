@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:27:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35660",
+    "spider_time": 1767155263024,
+    "name": "SAP BusinessObjects BI Platform反序列化漏洞",
+    "cnvd": "CNVD-2024-35660",
+    "publish": "2024-08-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"SAP BusinessObjects BI Platform 4.2\", \"SAP BusinessObjects BI Platform 4.3\"]",
+    "cve": "CVE-2022-41203",
+    "description": "SAP BusinessObjects BI Platform是德国思爱普（SAP）公司的用于数据报告、可视化和共享的集中套件。SAP BusinessObjects BI Platform 4.2，4.3版本存在反序列化漏洞，该漏洞源于应用程序在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞影响系统的机密性、完整性或可用性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.sap.com/documents/2022/02/fa865ea4-167e-0010-bca6-c68f7e60039b.html",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://launchpad.support.sap.com/#/notes/3243924",
+    "patch": "SAP BusinessObjects BI Platform反序列化漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-11-10",
+    "open_time": "2024-08-19",
+    "update_time": "2024-08-19",
+    "data_summary": "424f5255e9e8acac718483d64e935f70"
+}

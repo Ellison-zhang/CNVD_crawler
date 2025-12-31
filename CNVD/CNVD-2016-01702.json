@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:08:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2016-01702",
+    "spider_time": 1767146910526,
+    "name": "IBM FlashSystem V9000跨站请求伪造漏洞",
+    "cnvd": "CNVD-2016-01702",
+    "publish": "2016-03-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+    "product": "[\"IBM Flash System V9000 7.4(<7.4.1.4)\", \"IBM Flash System V9000 7.5(<7.5.1.30\", \"IBM Flash System V9000 7.6(<7.6.0.4)\"]",
+    "cve": "CVE-2015-7446",
+    "description": "IBM FlashSystem V9000是美国IBM公司的一套全闪存企业级存储解决方案。该方案提供全套灾难恢复工具（包括快照、克隆和复制）来保护数据安全以及使用IBM Virtual Storage Center实现虚拟化配置和性能管理等。IBM FlashSystem V9000中存在跨站请求伪造漏洞。远程攻击者可利用该漏洞插入XSS序列。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www-01.ibm.com/support/docview.wss?uid=ssg1S1005570",
+    "solution": "目前厂商已经发布了升级补丁以修复此安全问题，补丁获取链接：\nhttp://www-01.ibm.com/support/docview.wss?uid=ssg1S1005570",
+    "patch": "IBM FlashSystem V9000跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2016-03-16",
+    "open_time": "2016-03-17",
+    "update_time": "2016-03-17",
+    "data_summary": "dd112999fddf32e596219342193ed285"
+}

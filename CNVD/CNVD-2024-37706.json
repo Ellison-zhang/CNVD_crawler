@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:37:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37706",
+    "spider_time": 1767155825050,
+    "name": "Cisco Identity Services Engine跨站请求伪造漏洞（CNVD-2024-37706）",
+    "cnvd": "CNVD-2024-37706",
+    "publish": "2024-09-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"Cisco Identity Services Engine\"]",
+    "cve": "CVE-2024-20368",
+    "description": "Cisco Identity Services Engine（ISE）是美国思科（Cisco）公司的一款环境感知平台（ISE身份服务引擎）。该平台通过收集网络、用户和设备中的实时信息，制定并实施相应策略来监管网络。Cisco Identity Services Engine存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-20368",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-csrf-NfAKXrp5",
+    "patch": "Cisco Identity Services Engine跨站请求伪造漏洞（CNVD-2024-37706）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-10",
+    "open_time": "2024-09-09",
+    "update_time": "2024-09-09",
+    "data_summary": "23b365b9031bf97359b0e7f3ad689861"
+}

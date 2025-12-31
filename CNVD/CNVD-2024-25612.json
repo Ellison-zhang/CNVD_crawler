@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:07:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-25612",
+    "spider_time": 1767150433263,
+    "name": "Mozilla Firefox for iOS安全绕过漏洞",
+    "cnvd": "CNVD-2024-25612",
+    "publish": "2024-06-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"Mozilla Firefox for iOS < 124\"]",
+    "cve": "CVE-2024-31392",
+    "description": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Firefox for iOS存在安全绕过漏洞，该漏洞是由于如果在延迟后将不安全元素添加到页面中，则无法将安全图标替换为混合内容安全状态。攻击者可利用此漏洞显示内容混杂的页面。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.mozilla.org/security/advisories/mfsa2024-17/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2024-17/",
+    "patch": "Mozilla Firefox for iOS安全绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-09",
+    "open_time": "2024-06-03",
+    "update_time": "2024-06-03",
+    "data_summary": "1a6b5af5fabfe2ef0361d9de05fa9162"
+}

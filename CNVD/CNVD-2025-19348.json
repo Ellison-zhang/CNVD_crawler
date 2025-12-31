@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:04:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19348",
+    "spider_time": 1767161059002,
+    "name": "Siemens POWER METER SICAM Q100/Q200信息泄露漏洞",
+    "cnvd": "CNVD-2025-19348",
+    "publish": "2025-08-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"SIEMENS POWER METER SICAM Q200 family >=V2.70，<V2.80\", \"Siemens POWER METER SICAM Q100 (7KG9501-0AA31-2AA1) >=V2.60，<V2.62\", \"Siemens POWER METER SICAM Q100 (7KG9501-0AA01-2AA1) >=V2.60，<V2.62\", \"SIEMENS POWER METER SICAM Q100 (7KG9501-0AA01-0AA1) >=V2.60，<V2.62\", \"SIEMENS POWER METER SICAM Q100 (7KG9501-0AA31-0AA1) >=V2.60，<V2.62\"]",
+    "cve": null,
+    "description": "SIEMENS POWER METER SICAM Q100和Siemens POWER METER SICAM Q200都是德国西门子（Siemens）公司的一款多功能电能质量记录仪。Siemens POWER METER SICAM Q100/Q200存在信息泄露漏洞，攻击者可利用该漏洞提取SMTP帐户密码，并将配置的SMTP服务用于任意目的。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-529291.html",
+    "solution": "西门子已为受影响的产品发布了新版本，并建议更新至最新版本：\nhttps://support.industry.siemens.com/cs/ww/en/view/109743592/",
+    "patch": "Siemens POWER METER SICAM Q100/Q200信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-22",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "55d4649cc10ee29830c8be6d245faba4"
+}

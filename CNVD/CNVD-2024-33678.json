@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:58:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33678",
+    "spider_time": 1767153535015,
+    "name": "TP-LINK Tapo C210栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2024-33678",
+    "publish": "2024-07-25",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"TP-LINK Tapo C210\"]",
+    "cve": "CVE-2023-41184",
+    "description": "TP-LINK Tapo C210是中国普联（TP-LINK）公司的一款网络摄像头设备。TP-LINK Tapo C210存在栈缓冲区溢出漏洞，攻击者可利用该漏洞在受影响的设备上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-41184",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.tp-link.com/en/support/download/tapo-c210/#Firmware-Release-Notes",
+    "patch": "TP-LINK Tapo C210栈缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-19",
+    "open_time": "2024-07-26",
+    "update_time": "2024-07-26",
+    "data_summary": "f47c209f89838b98ecda551906326373"
+}

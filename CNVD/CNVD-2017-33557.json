@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:19:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2017-33557",
+    "spider_time": 1767147563990,
+    "name": "多款Apple产品WebKit组件远程代码执行漏洞（CNVD-2017-33557）",
+    "cnvd": "CNVD-2017-33557",
+    "publish": "2017-11-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+    "product": "[\"Apple tvOS <11\", \"Apple Safari <11\", \"Apple IOS <11\", \"Apple iTunes <12.7\", \"Apple iCloud <7.0\"]",
+    "cve": "CVE-2017-7095",
+    "description": "Apple iOS等都是美国苹果（Apple）公司的产品。Apple iOS是为移动设备所开发的一套操作系统；Safari是一款Web浏览器，是Mac OS X和iOS操作系统附带的默认浏览器。iCloud for Windows是一款基于Windows平台的云服务。WebKit是其中的一个Web浏览器引擎组件。多款Apple产品中的WebKit组件存在远程代码执行漏洞。远程攻击者可借助恶意制作的Web内容利用该漏洞执行任意代码（内存破坏）。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://support.apple.com/en-us/HT208142",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://support.apple.com/en-us/HT208142",
+    "patch": "多款Apple产品WebKit组件远程代码执行漏洞（CNVD-2017-33557）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2017-09-26",
+    "open_time": "2017-11-10",
+    "update_time": "2017-11-10",
+    "data_summary": "c66639dcdd321d2f0097b1d1a25361f9"
+}

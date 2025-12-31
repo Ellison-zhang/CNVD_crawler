@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:59:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24484",
+    "spider_time": 1767167990407,
+    "name": "Tenda AC23 schedStartTime参数堆栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-24484",
+    "publish": "2025-10-21",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC23 US_AC23V1.0re_V16.03.07.45_cn_TDC01\"]",
+    "cve": "CVE-2023-24334",
+    "description": "Tenda AC23是腾达推出的一款双频无线路由器，支持802.11acWave2技术，双频并发传输速率可达2033Mbps，其中5GHz频段最高可达1733Mbps，适用于4K视频、在线直播等高带宽应用。Tenda AC23存在堆栈缓冲区溢出漏洞，该漏洞源于允许攻击者通过schedStartTime参数运行任意命令，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/caoyebo/CVE/tree/main/TENDA%20AC23%20-%20CVE-2023-24334",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-02-26",
+    "open_time": "2025-10-22",
+    "update_time": "2025-10-22",
+    "data_summary": "9549d53fb3b8750ae62f1b0da1497cf4"
+}

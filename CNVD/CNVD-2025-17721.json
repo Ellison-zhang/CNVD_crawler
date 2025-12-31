@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:55:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17721",
+    "spider_time": 1767160535335,
+    "name": "联奕科技股份有限公司公寓管理系统存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-17721",
+    "publish": "2025-07-28",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"联奕科技股份有限公司 公寓管理系统\"]",
+    "cve": null,
+    "description": "联奕科技股份有限公司致力于为中国高校打造数字化教学、科研、管理、生活一体化环境，最终实现教育信息化、决策科学化和管理规范化的综合服务型智慧校园。联奕科技股份有限公司公寓管理系统存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.ly-sky.com/",
+    "patch": "联奕科技股份有限公司公寓管理系统存在逻辑缺陷漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-08-07",
+    "update_time": "2025-08-07",
+    "data_summary": "f3d7a7d6f7959f31d12d0fd6864f45a3"
+}

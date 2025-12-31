@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:34:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15619",
+    "spider_time": 1767159299310,
+    "name": "Apache Traffic Server访问控制错误漏洞",
+    "cnvd": "CNVD-2025-15619",
+    "publish": "2025-07-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Apache Traffic Server（ATS） >=9.0.0，<=9.2.10\", \"Apache Traffic Server（ATS） >=10.0.0，<=10.0.6\"]",
+    "cve": "CVE-2025-31698",
+    "description": "Apache Traffic Server（ATS）是美国阿帕奇（Apache）基金会的一套可扩展的HTTP代理和缓存服务器。Apache Traffic Server（ATS） 10.0.0至10.0.6版本和9.0.0至9.2.10版本存在访问控制错误漏洞，该漏洞源于ACL配置未使用PROXY协议提供的IP地址。攻击者可利用该漏洞导致机密性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-31698",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://trafficserver.apache.org/downloads",
+    "patch": "Apache Traffic Server访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-14",
+    "update_time": "2025-07-14",
+    "data_summary": "93381fab19d50ee8a428ac33207aaed7"
+}

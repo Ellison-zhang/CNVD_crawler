@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 17:16:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02171",
+    "spider_time": 1767172569978,
+    "name": "SonicWALL SonicOS memcpy函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-02171",
+    "publish": "2025-01-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"SonicWall SonicOS >=7.1.1，<7.1.1-7058\", \"SonicWall SonicOS <7.0.1-5161\", \"SonicWall SonicOS >=7.1.2，<7.1.2-7019\"]",
+    "cve": "CVE-2024-29013",
+    "description": "SonicWALL SonicOS是美国SonicWALL公司的一套专为SonicWall防火墙设备设计的操作系统。SonicWALL SonicOS SSL-VPN存在安全漏洞。远程攻击者利用该漏洞通过 memcpy 函数导致拒绝服务 (DoS)。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-29013",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://psirt.global.sonicwall.com/vuln-detail/SNWLID-2024-0009",
+    "patch": "SonicWALL SonicOS memcpy函数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-28",
+    "open_time": "2025-01-22",
+    "update_time": "2025-01-22",
+    "data_summary": "1bb6cc6ec3a379424e3ae43325e45dbf"
+}

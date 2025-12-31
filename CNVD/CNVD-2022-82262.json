@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:52:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2022-82262",
+    "spider_time": 1767149552291,
+    "name": "Wordpress Plugin Paid Memberships Pro SQL注入漏洞",
+    "cnvd": "CNVD-2022-82262",
+    "publish": "2022-11-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"WordPress Paid Memberships Pro Plugin <2.6.7\"]",
+    "cve": "CVE-2021-25114",
+    "description": "WordPress是WordPress（Wordpress）基金会的一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。Wordpress Plugin Paid Memberships Pro 2.6.7之前版本存在SQL注入漏洞，该漏洞源于插件在SQL语句中使用之前未能在其 REST 路由之一（对未经身份验证的用户可用）中转义discount_code。攻击者可利用该漏洞执行恶意SQL语句。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2021-25114",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wpscan.com/vulnerability/6c25a5f0-a137-4ea5-9422-8ae393d7b76b",
+    "patch": "Wordpress Plugin Paid Memberships Pro SQL注入漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2022-03-31",
+    "open_time": "2022-11-29",
+    "update_time": "2022-11-29",
+    "data_summary": "3a9f8cc4793fb93f5ba17e2d6d879464"
+}

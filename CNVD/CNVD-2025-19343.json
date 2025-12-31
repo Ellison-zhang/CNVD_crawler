@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:03:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19343",
+    "spider_time": 1767161004697,
+    "name": " Siemens SIPROTEC 5 Compact 7SX800 (CP050)本地USB端口网络数据包带宽限制不当漏洞",
+    "cnvd": "CNVD-2025-19343",
+    "publish": "2025-08-12",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"Siemens SIPROTEC 5 Compact 7SX800 (CP050) <V10.0\"]",
+    "cve": null,
+    "description": "SIPROTEC 5 Compact 7SX800 (CP050)为变电站和其他应用领域提供了一系列集成的保护、控制、测量和自动化功能。Siemens SIPROTEC 5 Compact 7SX800 (CP050)存在本地USB端口网络数据包带宽限制不当漏洞，攻击者可利用该漏洞向受影响的设备发送特制的高带宽数据包，从而迫使它们耗尽内存并停止通过本地USB端口对任何网络流量做出响应。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-894058.html",
+    "solution": "西门子已为受影响的产品发布了新版本，并建议更新到最新版本：\nhttps://cert-portal.siemens.com/productcert/html/ssa-894058.html",
+    "patch": "Siemens SIPROTEC 5 Compact 7SX800 (CP050)本地USB端口网络数据包带宽限制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-22",
+    "open_time": "2025-08-22",
+    "update_time": "2025-10-15",
+    "data_summary": "080d000f0821ac5f5f08ab856d3a01a8"
+}

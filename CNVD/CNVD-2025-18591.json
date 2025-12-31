@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:58:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18591",
+    "spider_time": 1767171521905,
+    "name": "IBM Cloud Pak for Business Automation授权问题漏洞",
+    "cnvd": "CNVD-2025-18591",
+    "publish": "2025-08-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"IBM Cloud Pak for Business Automation >=24.0.0，<=24.0.0IF005\", \"IBM Cloud Pak for Business Automation >=24.0.1，<=24.0.1IF002\"]",
+    "cve": "CVE-2025-36023",
+    "description": "IBM Cloud Pak for Business Automation是IBM推出的企业级业务流程自动化平台，提供智能文档处理、工作流管理和决策自动化等功能。IBM Cloud Pak for Business Automation存在安全漏洞，该漏洞源于用户可通过受控键值间接引用对象。攻击者可利用该漏洞通过用户可控参数获取敏感用户及系统信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36023",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.ibm.com/support/pages/node/7241570",
+    "patch": "IBM Cloud Pak for Business Automation授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-11",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "99e8a211b04a309ab821a877b2f637f2"
+}

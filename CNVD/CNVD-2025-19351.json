@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:04:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19351",
+    "spider_time": 1767161089648,
+    "name": "多款SIEMENS产品权限提升漏洞",
+    "cnvd": "CNVD-2025-19351",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"SIEMENS SIMATIC PDM Maintenance Station V5.0 all\", \"Siemens SIMATIC Process Historian 2020 all\", \"Siemens SIMATIC Process Historian 2022 all\", \"SIEMENS SIMATIC Process Historian 2024 all\", \"SIEMENS SIMATIC Information Server 2020 all\", \"Siemens SIMATIC Information Server 2022 all\", \"Siemens SIMATIC Information Server 2024 all\", \"Siemens SIMATIC WinCC OA V3.18 <V3.18 P032\", \"Siemens SIMATIC WinCC OA V3.19 <V3.19 P020\", \"SIEMENS SIMATIC WinCC OA V3.20 <V3.20 P008\"]",
+    "cve": null,
+    "description": "SIMATIC Information Server用于报告和可视化存储在SIMATIC过程历史记录中的过程数据。SIMATIC PDM MS提供跨多种通信协议的独立现场设备管理、诊断和数据采集功能，这些功能与自动化项目无关。SIMATIC Process Historian是SIMATIC PCS 7、SIMATIC WinCC和SIMATIC PCS neo的长期归档系统。它在其数据库中存储生产工厂的过程值、报警和批次数据，并为报告和可视化应用程序提供历史过程数据。SIMATIC WinCC Open Architecture (OA) 是SIMATIC HMI系列的一部分。它专为需要高度客户定制化适应性的应用、大型或复杂的应用以及具有特定系统要求或功能的应用和项目而设计。多款SIEMENS产品存在权限提升漏洞，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-331739.html",
+    "solution": "西门子已为受影响的产品发布了新版本，并建议更新至最新版本。对于尚未有修复版本或修复版本尚未可用的产品，西门子正在准备进一步的修复版本，并给出相应的应对措施建议：\nhttps://cert-portal.siemens.com/productcert/html/ssa-331739.html",
+    "patch": "多款SIEMENS产品权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-22",
+    "open_time": "2025-08-22",
+    "update_time": "2025-10-15",
+    "data_summary": "11d32ba11abd16f05c9ccd7068ade422"
+}

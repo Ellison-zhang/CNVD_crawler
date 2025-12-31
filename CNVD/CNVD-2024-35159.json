@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:20:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35159",
+    "spider_time": 1767154803730,
+    "name": "Bolt CMS跨站脚本漏洞（CNVD-2024-35159）",
+    "cnvd": "CNVD-2024-35159",
+    "publish": "2024-08-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"Bolt CMS Bolt CMS 3.7.1\"]",
+    "cve": "CVE-2024-7299",
+    "description": "Bolt CMS是Bolt CMS开源的一套基于PHP的开源的内容管理系统。Bolt CMS 3.7.1版本存在跨站脚本漏洞，该漏洞源于文件 /preview/page的参数body会导致跨站脚本。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-7299",
+    "solution": "暂无",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-05",
+    "open_time": "2024-08-13",
+    "update_time": "2024-08-13",
+    "data_summary": "1699c6687d9212a1232b8c58ffbf4b66"
+}

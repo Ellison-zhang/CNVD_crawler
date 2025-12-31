@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:28:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14969",
+    "spider_time": 1767158888177,
+    "name": "SAP supplier relationship management信息泄露漏洞",
+    "cnvd": "CNVD-2025-14969",
+    "publish": "2025-06-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"SAP supplier relationship management\"]",
+    "cve": "CVE-2025-30011",
+    "description": "SAP supplier relationship management是由德国SAP公司开发的供应商关系管理软件。SAP supplier relationship management存在信息泄露漏洞，该漏洞源于使用废弃Java小程序组件，攻击者可利用该漏洞通过发送恶意请求来获取系统的内部版本信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://me.sap.com/notes/3578900",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2025.html",
+    "patch": "SAP supplier relationship management信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-19",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "41d17fe6c1d89b429bb9017fc4884e04"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 15:48:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22624",
+    "spider_time": 1767167323551,
+    "name": "D-Link DAP-1325命令注入远程代码执行漏洞",
+    "cnvd": "CNVD-2025-22624",
+    "publish": "2025-09-24",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DAP-1325\"]",
+    "cve": "CVE-2023-44403",
+    "description": "D-Link DAP-1325是D-Link公司生产的一款无线接入点/桥接器，主要用于扩展无线网络覆盖范围，支持有线网络与无线网络的转换或连接不同无线网络。D-Link DAP-1325存在命令注入远程代码执行漏洞，该漏洞源于HNAP SetWLanRadioSettings通道命令注入远程代码执行漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-44403",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/",
+    "patch": "D-Link DAP-1325命令注入远程代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-13",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "bd05b9cb4239b31fc271bed01e61ba18"
+}

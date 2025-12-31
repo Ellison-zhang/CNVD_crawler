@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:57:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18193",
+    "spider_time": 1767160664880,
+    "name": "GNU Binutils缓冲区溢出漏洞（CNVD-2025-18193）",
+    "cnvd": "CNVD-2025-18193",
+    "publish": "2025-08-07",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"Gnu GNU Binutils 2.44\"]",
+    "cve": "CVE-2025-8224",
+    "description": "GNU Binutils是GNU项目开发的二进制工具集，用于处理目标文件和可执行文件。GNU Binutils 2.44版本存在安全漏洞，该漏洞源于BFD库文件中bfd/elf.c组件的bfd_elf_get_str_section函数处理异常。攻击者可利用该漏洞通过本地访问触发空指针解引用，导致程序崩溃或执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.317812\nhttps://vuldb.com/?ctiid.317812\nhttps://vuldb.com/?submit.621878\nhttps://sourceware.org/bugzilla/show_bug.cgi?id=32109\nhttps://sourceware.org/bugzilla/show_bug.cgi?id=32109#c2\nhttps://sourceware.org/bugzilla/attachment.cgi?id=15680\nhttps://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;h=db856d41004301b3a56438efd957ef5cabb91530\nhttps://www.gnu.org/",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://vuldb.com/?id.317812",
+    "patch": "GNU Binutils缓冲区溢出漏洞（CNVD-2025-18193）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-28",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "788a02078250ab4f42d44a9a8005e534"
+}

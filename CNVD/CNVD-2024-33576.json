@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:34:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33576",
+    "spider_time": 1767170077181,
+    "name": "Apache StreamPark命令注入漏洞（CNVD-2024-33576）",
+    "cnvd": "CNVD-2024-33576",
+    "publish": "2024-07-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"Apache StreamPark >=2.0.0，<2.1.4\"]",
+    "cve": "CVE-2024-29737",
+    "description": "Apache StreamPark是美国阿帕奇（Apache）基金会的一个流媒体应用程序开发框架。Apache StreamPark 2.0.0至2.1.4之前版本存在命令注入漏洞，该漏洞源于输入参数验证不严格，攻击者可以利用该漏洞插入命令进行远程命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-29737/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/xhx7jt1t24s6d7o435wxng8t0ojfbfh5",
+    "patch": "Apache StreamPark命令注入漏洞（CNVD-2024-33576）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-22",
+    "open_time": "2024-07-25",
+    "update_time": "2024-07-25",
+    "data_summary": "f002bbdbaa411776e99107214b947e51"
+}

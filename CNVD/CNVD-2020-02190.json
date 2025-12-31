@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:26:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2020-02190",
+    "spider_time": 1767147973846,
+    "name": "Microsoft Windows Kerne权限提升漏洞",
+    "cnvd": "CNVD-2020-02190",
+    "publish": "2020-01-14",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Windows Windows Server 2012\", \"Microsoft Windows 8.1\", \"Microsoft Windows RT 8.1 SP0\", \"Microsoft Windows Server 2012 R2\", \"Microsoft Windows 10\"]",
+    "cve": "CVE-2019-1392",
+    "description": "Microsoft Windows和Microsoft Windows Server都是美国微软（Microsoft）公司的产品。Microsoft Windows是一套个人设备使用的操作系统。Microsoft Windows Server是一套服务器操作系统。Windows Kernel是其中的一个Windows系统内核。Microsoft Windows Kernel中存在权限提升漏洞，该漏洞源于程序未能正确处理内存中的对象。攻击者可通过登录到系统并运行特制的应用程序利用该漏洞在内核模式中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2019-1392",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1392",
+    "patch": "Microsoft Windows Kerne权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2019-11-21",
+    "open_time": "2020-01-14",
+    "update_time": "2020-01-14",
+    "data_summary": "3668be445880749fec323258a391e0e3"
+}

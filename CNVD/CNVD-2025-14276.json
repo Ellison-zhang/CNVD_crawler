@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 13:20:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14276",
+    "spider_time": 1767158443847,
+    "name": "Fortinet FortiClientWindows信任管理问题漏洞",
+    "cnvd": "CNVD-2025-14276",
+    "publish": "2025-06-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:P/A:N",
+    "product": "[\"Fortinet FortiClientWindows 7.4.0\", \"Fortinet FortiClientWindows >=7.2.0，<=7.2.6\", \"Fortinet FortiClientWindows 7.0\"]",
+    "cve": "CVE-2024-54019",
+    "description": "Fortinet FortiClientWindows是美国飞塔（Fortinet）公司的一套基于Windows平台的移动终端安全解决方案。该方案与FortiGate防火墙设备连接时可提供IPsec和SSL加密、广域网优化、终端合规和双因子认证等功能。Fortinet FortiClientWindows 7.4.0版本、7.2.0至7.2.6版本和7.0所有版本存在信任管理问题漏洞，该漏洞源于证书与主机不匹配验证不当，攻击者可利用该漏洞通过DNS欺骗或其他形式的重定向重定向VPN连接。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://fortiguard.fortinet.com/psirt/FG-IR-24-365",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.fortinet.com/support/product-downloads",
+    "patch": "Fortinet FortiClientWindows信任管理问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-30",
+    "update_time": "2025-06-30",
+    "data_summary": "76f0ee91d5a3ca05d823639a6d274259"
+}

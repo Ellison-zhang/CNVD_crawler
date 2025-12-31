@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:58:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19352",
+    "spider_time": 1767171532081,
+    "name": "SIEMENS BFCClient存在多个漏洞",
+    "cnvd": "CNVD-2025-19352",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"SIEMENS BFCClient <V2.17\"]",
+    "cve": null,
+    "description": "SIEMENS BFCClient是提供设备联网服务，通过设备数据采集、可视化和分析，帮助制造企业实现降本增效。SIEMENS BFCClient存在多个漏洞，攻击者可利用该漏洞读取内存内容、改变应用程序行为或造成拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-028723.html",
+    "solution": "西门子已发布BFCClient的新版本，并建议更新至最新版本：\nhttps://cert-portal.siemens.com/productcert/html/ssa-028723.html",
+    "patch": "SIEMENS BFCClient存在多个漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-22",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "66896cd5165afd9767c1d056065445eb"
+}

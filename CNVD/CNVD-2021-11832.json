@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:40:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-11832",
+    "spider_time": 1767148831611,
+    "name": "Siemens DIGSI 4权限提升漏洞",
+    "cnvd": "CNVD-2021-11832",
+    "publish": "2021-02-22",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"SIEMENS DIGSI 4 < V4.94 SP1 HF 1\"]",
+    "cve": "CVE-2020-25245",
+    "description": "DIGSI 4是SIPROTEC 4和SIPROTEC紧凑型保护装置的操作和配置软件。Siemens DIGSI 4存在权限提升漏洞。攻击者可利用漏洞将DLL与系统执行的代码放在一起。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/pdf/ssa-536315.pdf",
+    "solution": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/pdf/ssa-536315.pdf",
+    "patch": "Siemens DIGSI 4权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-02-20",
+    "open_time": "2021-02-22",
+    "update_time": "2021-02-22",
+    "data_summary": "c6772aa5485d198ac33dd7c6e7630142"
+}

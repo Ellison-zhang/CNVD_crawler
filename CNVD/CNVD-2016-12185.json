@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:17:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2016-12185",
+    "spider_time": 1767147462675,
+    "name": "Docker安全绕过漏洞（CNVD-2016-12185）",
+    "cnvd": "CNVD-2016-12185",
+    "publish": "2016-12-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Docker Docker <1.8.3\"]",
+    "cve": "CVE-2014-8179",
+    "description": "Docker是美国Docker公司的一款开源的应用容器引擎。Docker 1.8.3之前的版本中存在安全绕过漏洞。攻击者可利用该漏洞绕过安全限制，执行未授权操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.securityfocus.com/bid/94272",
+    "solution": "目前厂商已经发布了升级补丁以修复此安全问题，详情请关注厂商主页：\nhttps://www.docker.com/",
+    "patch": "Docker安全绕过漏洞（CNVD-2016-12185）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2016-12-07",
+    "open_time": "2016-12-13",
+    "update_time": "2016-12-07",
+    "data_summary": "946443405cf1f998d11bf10739fab0e2"
+}

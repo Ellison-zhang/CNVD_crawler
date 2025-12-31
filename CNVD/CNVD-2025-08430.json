@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:52:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08430",
+    "spider_time": 1767156720878,
+    "name": "Siemens RUGGEDCOM APE1808 Fortigate NGFW存在多个漏洞",
+    "cnvd": "CNVD-2025-08430",
+    "publish": "2025-04-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Siemens RUGGEDCOM APE1808\"]",
+    "cve": null,
+    "description": "RUGGEDCOM APE1808是一个功能强大的实用程序级应用程序托管平台，可让您在恶劣的工业环境中部署一系列商用应用程序，用于边缘计算和网络安全。Siemens RUGGEDCOM APE1808 Fortigate NGFW存在多个漏洞，攻击者可利用漏洞影响系统的机密性、可用性、完整性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-366067.html",
+    "solution": "目前暂无详细的解决方案：\nhttp://www.siemens.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-16",
+    "open_time": "2025-04-25",
+    "update_time": "2025-05-08",
+    "data_summary": "5f5b11ef515c2daa5344dbfbef42f234"
+}

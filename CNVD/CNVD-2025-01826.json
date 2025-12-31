@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:42:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-01826",
+    "spider_time": 1767156156731,
+    "name": "Google Android skia_alloc_func越界写漏洞",
+    "cnvd": "CNVD-2025-01826",
+    "publish": "2025-01-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android\"]",
+    "cve": "CVE-2024-43768",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android SkDeflate.cp包含的skia_alloc_func存在越界写漏洞，本地攻击者可利用该漏洞提交特殊的请求，可提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-43768",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2024-12-01",
+    "patch": "Google Android skia_alloc_func越界写漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-07",
+    "open_time": "2025-01-20",
+    "update_time": "2025-01-20",
+    "data_summary": "118a9ff1145455750b3ae2223046326a"
+}

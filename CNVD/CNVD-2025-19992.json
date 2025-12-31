@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 14:50:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19992",
+    "spider_time": 1767163801816,
+    "name": "Google Android拒绝服务漏洞（CNVD-2025-19992）",
+    "cnvd": "CNVD-2025-19992",
+    "publish": "2025-09-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Google Android 13\", \"Google Android 12L\", \"Google Android 14\", \"Google android 15\"]",
+    "cve": "CVE-2025-0081",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在信息泄露漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://source.android.com/security/bulletin/2025-03-01",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/docs/security/bulletin/2025-03-01?hl=zh-cn",
+    "patch": "Google Android拒绝服务漏洞（CNVD-2025-19992）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-28",
+    "open_time": "2025-09-02",
+    "update_time": "2025-09-02",
+    "data_summary": "317f8f271f38519e044f57b537999fb0"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:34:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-36756",
+    "spider_time": 1767155680518,
+    "name": "TOTOLINK LR1200GB命令注入漏洞",
+    "cnvd": "CNVD-2024-36756",
+    "publish": "2024-08-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK LR1200GB 9.3.1cu.2832\"]",
+    "cve": "CVE-2024-7215",
+    "description": "TOTOLINK LR1200GB是中国吉翁电子（TOTOLINK）公司的一款无线双频4G LTE路由器。TOTOLINK LR1200GB 9.3.1cu.2832版本存在命令注入漏洞，该漏洞源于/cgi-bin/cstecgi.cgi页面的NTPSyncWithHost函数中的host_time参数未能正确过滤构造命令特殊字符、命令等。攻击者可利用此漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-7215",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://vuldb.com/?id.272786",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-02",
+    "open_time": "2024-08-28",
+    "update_time": "2024-08-28",
+    "data_summary": "7683a1973d3fe7d9ac4fe6827181e3b7"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:59:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33692",
+    "spider_time": 1767153545208,
+    "name": "Tenda O3 fromVirtualSet函数缓冲区溢出漏洞（CNVD-2024-33692）",
+    "cnvd": "CNVD-2024-33692",
+    "publish": "2024-07-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda O3 1.0.0.10\"]",
+    "cve": "CVE-2024-6965",
+    "description": "Tenda O3是中国腾达（Tenda）公司的一个室外无线网桥。Tenda O3存在安全漏洞，该漏洞源于对fromVirtualSet函数中参数ip/localPort/public Port/app的操作会导致基于栈的缓冲区溢出。目前没有详细得漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/O3V2.0/fromVirtualSet.md\nhttps://vuldb.com/?ctiid.272119\nhttps://vuldb.com/?id.272119",
+    "solution": "目前没有详细的解决方案提供：\nhttps://www.tenda.com.cn/download/detail-2832.html",
+    "patch": "Tenda O3 fromVirtualSet函数缓冲区溢出漏洞（CNVD-2024-33692）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-23",
+    "open_time": "2024-07-26",
+    "update_time": "2024-07-26",
+    "data_summary": "9f9475bd68d1d9626bb6bf89211770f9"
+}

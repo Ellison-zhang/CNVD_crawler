@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:59:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-23784",
+    "spider_time": 1767149988800,
+    "name": "TP-LINK AC1350存在未明漏洞（CNVD-2024-23784）",
+    "cnvd": "CNVD-2024-23784",
+    "publish": "2024-05-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"TP-LINK AC1350 v5.1.0 Build 20220926\"]",
+    "cve": "CVE-2023-49909",
+    "description": "TP-LINK AC1350是中国普联（TP-LINK）公司的一款路由器。TP-LINK AC1350存在安全漏洞，攻击者可利用该漏洞通过一系列特制的HTTP请求导致远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-49909",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.tp-link.com/us/support/download/eap115/v4/#Firmware",
+    "patch": "TP-LINK AC1350存在未明漏洞（CNVD-2024-23784）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-11",
+    "open_time": "2024-05-23",
+    "update_time": "2024-05-23",
+    "data_summary": "024badfd3b1cfec7c01e68d365dacd9b"
+}

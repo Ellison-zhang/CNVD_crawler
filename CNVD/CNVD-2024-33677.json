@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 11:58:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-33677",
+    "spider_time": 1767153508782,
+    "name": "IBM Sterling B2B Integrator存在未明漏洞（CNVD-2024-33677）",
+    "cnvd": "CNVD-2024-33677",
+    "publish": "2024-07-25",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"IBM IBM Sterling B2B Integrator Standard Edition >=6.0.0.0，<=6.1.2.5\", \"IBM IBM Sterling B2B Integrator Standard Edition >=6.2.0.0，<=6.2.0.2\"]",
+    "cve": "CVE-2023-42010",
+    "description": "IBM Sterling B2B Integrator是美国国际商业机器（IBM）公司的一套集成了重要的B2B流程、交易和关系的软件。该软件支持与不同的合作伙伴社区之间实现复杂的B2B流程的安全集成。IBM Sterling B2B Integrator存在安全漏洞，该漏洞源于通过中间人的方式可以获取HTTP响应中的敏感信息。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-42010",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.ibm.com/support/pages/node/7160433",
+    "patch": "IBM Sterling B2B Integrator存在未明漏洞（CNVD-2024-33677）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-19",
+    "open_time": "2024-07-26",
+    "update_time": "2024-07-26",
+    "data_summary": "90bb1fb765f231d048b78660387aed21"
+}

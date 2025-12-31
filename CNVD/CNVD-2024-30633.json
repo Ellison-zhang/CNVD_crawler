@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 16:31:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-30633",
+    "spider_time": 1767169875453,
+    "name": "Google Chrome存在越界内存访问漏洞",
+    "cnvd": "CNVD-2024-30633",
+    "publish": "2024-06-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <126.0.6478.114\"]",
+    "cve": "CVE-2024-6101",
+    "description": "Chrome是谷歌公司推出的一款Web浏览器，采用Blink渲染引擎，提供快速、安全的浏览体验。 Chrome支持多种平台，包括Windows、Mac OS和Linux，用户可以通过Chrome浏览器访问各种网站，浏览各种内容。Google Chrome存在越界内存访问漏洞。攻击者可利用该漏洞通过构造特殊字符触发越界内存访问，可能导致拒绝服务或执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-6101",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新\nhttps://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop_18.html",
+    "patch": "Google Chrome存在越界内存访问漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-24",
+    "open_time": "2024-07-05",
+    "update_time": "2024-07-05",
+    "data_summary": "66efee54aef7edecf17c21dabcffed63"
+}

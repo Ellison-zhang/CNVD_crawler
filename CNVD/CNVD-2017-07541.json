@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 10:18:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2017-07541",
+    "spider_time": 1767147497690,
+    "name": "Cisco Prime Collaboration Provisioning Software目录遍历漏洞",
+    "cnvd": "CNVD-2017-07541",
+    "publish": "2017-05-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Cisco Prime Collaboration Provisioning Software <11.1\"]",
+    "cve": "CVE-2017-6635",
+    "description": "Cisco Prime Collaboration Provisioning Software是美国思科（Cisco）公司的一套基于Web的下一代通信服务软件。该软件对IP电话、语音邮件和统一通信环境提供IP通信服务功能。Cisco Prime Collaboration Provisioning Software 11.1之前的版本中的Web界面存在目录遍历漏洞，该漏洞源于程序未能对HTTP请求执行输入验证，并且未对被请求的HTTP URLs执行基于role的访问控制（RBACs）。远程攻击者可通过发送特制的HTTP请求利用该漏洞删除受影响系统上的任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170517-pcp3",
+    "solution": "目前厂商已经发布了升级补丁以修复此安全问题，补丁获取链接：\nhttps://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170517-pcp3",
+    "patch": "Cisco Prime Collaboration Provisioning Software目录遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2017-05-23",
+    "open_time": "2017-05-26",
+    "update_time": "2017-05-23",
+    "data_summary": "103337ad050b6d486f1fa14ee709bbc0"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 12:45:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03545",
+    "spider_time": 1767156356574,
+    "name": "Apache Superset授权问题漏洞（CNVD-2025-03545）",
+    "cnvd": "CNVD-2025-03545",
+    "publish": "2025-02-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:C/A:N",
+    "product": "[\"Apache Superset >=2.0.0，<4.1.0\"]",
+    "cve": "CVE-2024-53949",
+    "description": "Apache Superset是美国阿帕奇（Apache）基金会的一个数据可视化和数据探索平台。Apache Superset存在授权问题漏洞，该漏洞源于不当的授权设置，当FAB_ADD_SECURITY_API启用时，攻击者可利用该漏洞使用此API。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2024/12/09/4",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/d3scbwmfpzbpm6npnzdw5y4owtqqyq8d",
+    "patch": "Apache Superset授权问题漏洞（CNVD-2025-03545）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-13",
+    "open_time": "2025-02-24",
+    "update_time": "2025-02-24",
+    "data_summary": "a07c086f7ea98228cfe35a069366fda1"
+}
