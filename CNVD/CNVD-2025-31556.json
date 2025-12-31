@@ -1,7 +1,7 @@
 {
-    "parse_time": "2025-12-30 23:04:30",
+    "parse_time": "2025-12-31 00:22:30",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31556",
-    "spider_time": 1767135870738,
+    "spider_time": 1767140550985,
     "name": "Online Nurse Hiring System edit-nurse.php文件SQL注入漏洞",
     "cnvd": "CNVD-2025-31556",
     "publish": "2025-12-29",
