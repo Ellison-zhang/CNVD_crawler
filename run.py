@@ -332,12 +332,12 @@ retry_count = 0
 
 
 def main():
-    # proxy = {
-    # }
     proxy = {
-        "http": "http://192.168.60.78:7897",
-        "https": "http://192.168.60.78:7897",
     }
+    # proxy = {
+    #     "http": "http://192.168.60.78:7897",
+    #     "https": "http://192.168.60.78:7897",
+    # }
     page = 0
     size = 100
     cookies = {}
