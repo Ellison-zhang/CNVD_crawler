@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 08:26:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28840",
+    "spider_time": 1767140789011,
+    "name": "Tenda AC18 ssid参数跨站脚本漏洞",
+    "cnvd": "CNVD-2025-28840",
+    "publish": "2025-11-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Tenda AC18 V15.03.05.05_multi\"]",
+    "cve": "CVE-2025-63834",
+    "description": "Tenda AC18是深圳市吉祥腾达科技有限公司于2016年7月推出的双频无线路由器，主要面向别墅及大户型家庭用户。Tenda AC18存在跨站脚本漏洞，该漏洞源于无线设置中的ssid参数对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/babraink/cve_report/blob/main/cve_report/tenda/tendaAC18/wifiset_ssid_xss/README.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-11-20",
+    "update_time": "2025-11-20",
+    "data_summary": "21feee409325a1448b82387113809eb9"
+}

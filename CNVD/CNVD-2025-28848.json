@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 08:27:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28848",
+    "spider_time": 1767140831642,
+    "name": "Tenda W12硬编码漏洞",
+    "cnvd": "CNVD-2025-28848",
+    "publish": "2025-11-19",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:M/C:P/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u5409\\u7965\\u817e\\u8fbe\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 W12 <=123.0.0.63948\", \"Tenda W12 <=3.0.0.6(3948)\"]",
+    "cve": "CVE-2025-9778",
+    "description": "Tenda W12是腾达科技推出的双频千兆无线面板式接入点（AP），专为酒店、别墅、大户型等场景设计，支持IEEE802.11ac协议和Wave2标准，具备1167Mbps双频并发速率。Tenda W12存在硬编码漏洞，该漏洞源于文件/etc_ro/shadow中组件Administrative Interface存在硬编码凭证。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-9778",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-04",
+    "open_time": "2025-11-20",
+    "update_time": "2025-11-20",
+    "data_summary": "298c441555fe23f7e181cc7ef5e23980"
+}

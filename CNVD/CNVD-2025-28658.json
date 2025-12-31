@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 08:27:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28658",
+    "spider_time": 1767140826495,
+    "name": "Google Android权限提升漏洞（CNVD-2025-28658）",
+    "cnvd": "CNVD-2025-28658",
+    "publish": "2025-11-19",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android 14.0\", \"Google Android 15.0\", \"Google Android 16.0\", \"Google Android 13.0\"]",
+    "cve": "CVE-2025-48523",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在权限提升漏洞，该漏洞是由于SelectAccountActivity.java中onCreate函数中的逻辑错误导致的未经许可添加联系人的方式造成的。攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/packages/apps/Contacts/+/7c8dbcffbc9382fcdb788919106c3b0525db83ab",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-09-01",
+    "patch": "Google Android权限提升漏洞（CNVD-2025-28658）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "3327643e624ba1a0e75ed07412bb8177"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-31 08:25:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28729",
+    "spider_time": 1767140728287,
+    "name": "WordPress插件Add Multiple Marker存在未明漏洞",
+    "cnvd": "CNVD-2025-28729",
+    "publish": "2025-11-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Add Multiple Marker plugin <=1.2\"]",
+    "cve": "CVE-2025-11999",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件Add Multiple Marker存在安全漏洞，该漏洞源于缺少能力检查，攻击者可利用该漏洞导致更新地图API和重置地图。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-11999",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://plugins.trac.wordpress.org/browser/add-multiple-marker/tags/1.2/functions.php",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "e3370726bb97b1af407ed8f429290647"
+}

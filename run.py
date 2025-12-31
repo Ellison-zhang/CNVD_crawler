@@ -332,12 +332,12 @@ retry_count = 0
 
 
 def main():
-    proxy = {
-    }
     # proxy = {
-    #     "http": "http://192.168.110.27:7890",
-    #     "https": "http://192.168.110.27:7890",
     # }
+    proxy = {
+        "http": "http://192.168.60.78:7897",
+        "https": "http://192.168.60.78:7897",
+    }
     page = 0
     size = 100
     cookies = {}
@@ -384,10 +384,13 @@ def main():
         sleep(retry_time)
         r1, _ = cnvd_jsl("https://www.cnvd.org.cn/flaw/list", params=params, proxies=proxy, cookies=cookies)
         # print('循环内<再次>查询到页面内容，html为：' , r1.text[:50])
+    current_data = datetime.now().strftime("%Y-%m-%d")
     if '<table class="tlist">' in r1.text:
         cnvd_ids = get_cnvd(r1.content)
         print(f'[{get_current_time()}][+] 获取到漏洞{len(cnvd_ids)}个，原始数据为：\n{cnvd_ids}')
         for cvnd_id, update_time in cnvd_ids:
+            if update_time != current_data:
+                continue
             try:
                 if os.path.exists(f"CNVD/{cvnd_id}.json"):
                     with open(f"CNVD/{cvnd_id}.json", "r", encoding='utf8') as f:
