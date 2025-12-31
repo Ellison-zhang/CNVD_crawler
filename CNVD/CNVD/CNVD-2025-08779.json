@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-29 09:05:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08779",
+    "spider_time": 1745917505679,
+    "name": "Adobe Premiere Pro缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-08779",
+    "publish": "2025-04-29",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Premiere Pro <=25.1\", \"Adobe Premiere Pro <=24.6.4\"]",
+    "cve": "CVE-2025-27196",
+    "description": "Adobe Premiere Pro是美国奥多比（Adobe）公司的一套非线性编辑的视频剪辑软件。Adobe Premiere Pro存在缓冲区溢出漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-27196",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/premiere_pro/apsb25-28.html",
+    "patch": "Adobe Premiere Pro缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-04-29",
+    "update_time": "2025-04-29",
+    "data_summary": "7dc8f00c71e37e808cb83e1e00260841"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-22 09:04:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19263",
+    "spider_time": 1755853477944,
+    "name": "GNU libcdio csp_eth_init函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-19263",
+    "publish": "2025-08-22",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:C/A:N",
+    "product": "[\"Gnu GNU libcdio v2.0\"]",
+    "cve": "CVE-2025-51823",
+    "description": "GNU libcdio是美国GNU社区的一个用于CD-ROM和CD映像访问的库。GNU libcdio 2.0版本存在缓冲区溢出漏洞，该漏洞源于csp_eth_init函数中ifname参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/libcsp/libcsp/issues/850",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/libcsp/libcsp/issues/850",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "5298495c02bf7a5b41bd03dfac4d17ed"
+}

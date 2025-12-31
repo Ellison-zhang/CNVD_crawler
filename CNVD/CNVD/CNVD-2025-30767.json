@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-16 09:07:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30767",
+    "spider_time": 1765876042181,
+    "name": "Intel QAT Engine for OpenSSL software控制流管理不足漏洞",
+    "cnvd": "CNVD-2025-30767",
+    "publish": "2025-12-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:N/A:N",
+    "product": "[\"Intel Intel QAT Engine for OpenSSL software <1.6.1\"]",
+    "cve": "CVE-2024-33617",
+    "description": "Intel QAT Engine for OpenSSL software是一个开源软件插件，旨在通过Intel Quick Assist Technology（QAT）硬件加速OpenSSL的加密操作。Intel QAT Engine for OpenSSL software存在控制流管理不足漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-33617",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01177.html",
+    "patch": "Intel QAT Engine for OpenSSL software控制流管理不足漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-15",
+    "open_time": "2025-12-16",
+    "update_time": "2025-12-16",
+    "data_summary": "2483e0ed63f66142e498c5e356fa2ca7"
+}

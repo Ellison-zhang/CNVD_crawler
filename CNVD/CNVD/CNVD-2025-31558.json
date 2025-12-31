@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-30 23:04:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31558",
+    "spider_time": 1767135878657,
+    "name": "D-Link DAP-2622命令注入远程代码执行漏洞",
+    "cnvd": "CNVD-2025-31558",
+    "publish": "2025-12-29",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"D-Link DAP-2622\"]",
+    "cve": "CVE-2023-44416",
+    "description": "D-Link DAP-2622是一款由友讯科技（D-Link）推出的无线接入点（AP），设计用于企业或商业环境的无线网络覆盖。D-Link DAP-2622存在命令注入远程代码执行漏洞，该漏洞源于Telnet CLI命令注入远程代码执行漏洞。攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-44416",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dlink.com/",
+    "patch": "D-Link DAP-2622命令注入远程代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-13",
+    "open_time": "2025-12-30",
+    "update_time": "2025-12-30",
+    "data_summary": "62ddc6da7c04d80e6053beaed5ec4ac7"
+}

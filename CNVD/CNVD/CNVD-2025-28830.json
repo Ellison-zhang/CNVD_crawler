@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-20 07:04:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28830",
+    "spider_time": 1763622273810,
+    "name": "WordPress Save as PDF Button plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-28830",
+    "publish": "2025-11-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Save as PDF Button plugin <=1.9.2\"]",
+    "cve": "CVE-2025-8397",
+    "description": "WordPress Save as PDF Button plugin是为WordPress网站添加一键生成PDF功能的工具，允许访客通过点击按钮将网页内容（如文章、产品页等）保存为PDF文件。WordPress Save as PDF Button plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.svn.wordpress.org/save-as-pdf/trunk/save-as-pdf.php",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-11-20",
+    "update_time": "2025-11-20",
+    "data_summary": "21c7cb53d67a9d0c1be7379f70e7dd1d"
+}

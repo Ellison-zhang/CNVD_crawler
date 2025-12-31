@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-26 07:05:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29384",
+    "spider_time": 1764140713844,
+    "name": "Mediawiki - CirrusSearch Extension拒绝服务漏洞",
+    "cnvd": "CNVD-2025-29384",
+    "publish": "2025-11-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"MediaWiki Mediawiki - CirrusSearch Extension <1.43\"]",
+    "cve": "CVE-2025-62666",
+    "description": "Mediawiki - CirrusSearch Extension是MediaWiki的一个扩展，用于提供高级搜索功能，增强搜索效率。Mediawiki - CirrusSearch Extension存在拒绝服务漏洞，该漏洞源于资源分配无限制或节流，攻击者可利用该漏洞导致HTTP拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-62666",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://phabricator.wikimedia.org/T401220",
+    "patch": "Mediawiki - CirrusSearch Extension拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-23",
+    "open_time": "2025-11-26",
+    "update_time": "2025-11-26",
+    "data_summary": "4ff2566d0e368a26f3c4dae093ec39f3"
+}

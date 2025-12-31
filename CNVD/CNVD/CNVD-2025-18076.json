@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-11 10:04:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18076",
+    "spider_time": 1754906666076,
+    "name": "Oracle MySQL存在未明漏洞（CNVD-2025-18076）",
+    "cnvd": "CNVD-2025-18076",
+    "publish": "2025-08-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Oracle MySQL Server <=8.0.39\", \"Oracle MySQL Server <=8.4.2\", \"Oracle MySQL Server <=9.0.1\", \"Oracle MySQL Cluster <=7.5.35\", \"Oracle MySQL Cluster <=7.6.31\", \"Oracle MySQL Cluster <=8.0.39\", \"Oracle MySQL Cluster <=9.0.1\", \"Oracle MySQL Cluster <=8.4.2\"]",
+    "cve": "CVE-2024-21230",
+    "description": "Oracle MySQL是美国甲骨文（Oracle）公司的一套开源的关系数据库管理系统。MySQL Server是其中的一个数据库服务器组件。MySQL Connectors是其中的一个连接使用MySQL的应用程序的驱动程序。Oracle MySQL的MySQL Server和MySQL Connectors存在安全漏洞，攻击者可利用该漏洞导致MySQL Server挂起或频繁重复崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://access.redhat.com/security/cve/cve-2024-21230",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpuoct2024.html",
+    "patch": "Oracle MySQL存在未明漏洞（CNVD-2025-18076）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-23",
+    "open_time": "2025-08-11",
+    "update_time": "2025-08-11",
+    "data_summary": "ac0f70cfd6fdda7ea5c7a44cccbc08eb"
+}

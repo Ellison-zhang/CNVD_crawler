@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-17 09:04:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21454",
+    "spider_time": 1758099858253,
+    "name": "Mattermost Confluence Plugin存在未明漏洞（CNVD-2025-21454）",
+    "cnvd": "CNVD-2025-21454",
+    "publish": "2025-09-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:N/I:N/A:C",
+    "product": "[\"Mattermost Confluence Plugin <1.5.0\"]",
+    "cve": "CVE-2025-53514",
+    "description": "Mattermost Confluence Plugin是美国Mattermost公司的一个插件。Mattermost Confluence Plugin存在安全漏洞，攻击者可利用该漏洞导致插件崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-53514",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://mattermost.com/security-updates/",
+    "patch": "Mattermost Confluence Plugin存在未明漏洞（CNVD-2025-21454）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-09-17",
+    "update_time": "2025-09-17",
+    "data_summary": "f7348e16d5269a73b3c9c4fa7f04685a"
+}

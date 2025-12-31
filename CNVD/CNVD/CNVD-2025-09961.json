@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-16 10:07:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09961",
+    "spider_time": 1747390047740,
+    "name": "Siemens SCALANCE LPE9403操作系统命令注入漏洞",
+    "cnvd": "CNVD-2025-09961",
+    "publish": "2025-05-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Siemens SCALANCE LPE9403 (6GK5998-3GS00-2AC2) <V4.0\"]",
+    "cve": "CVE-2025-27394",
+    "description": "Siemens SCALANCE LPE9403是德国西门子（Siemens）公司的一款用于工业现场数据处理的本地处理引擎。用于捕获、收集和预处理工业现场数据。SCALANCE LPE9403 (6GK5998-3GS00-2AC2)存在操作系统命令注入漏洞，该漏洞源于创建新SNMP用户时未正确清理用户输入，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-075201.html",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.siemens.com/",
+    "patch": "Siemens SCALANCE LPE9403操作系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-20",
+    "open_time": "2025-05-16",
+    "update_time": "2025-05-16",
+    "data_summary": "9312a009df9a9035b0549b8fb4998c09"
+}

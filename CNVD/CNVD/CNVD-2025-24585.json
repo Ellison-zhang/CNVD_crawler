@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 04:04:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24585",
+    "spider_time": 1761192262037,
+    "name": "Rockwell Automation Comms-1783-NATR跨站脚本漏洞",
+    "cnvd": "CNVD-2025-24585",
+    "publish": "2025-10-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Rockwell Automation Comms - 1783-NATR <=1.006\"]",
+    "cve": "CVE-2025-7329",
+    "description": "Rockwell Automation Comms-1783-NATR是美国罗克韦尔（Rockwell Automation）公司的一款工业以太网地址转换设备。Rockwell Automation Comms-1783-NATR存在跨站脚本漏洞，该漏洞是由于对用户提供的输入验证不当造成的。攻击者可利用该漏洞更新管理员登录后的配置字段。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1756.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1756.html",
+    "patch": "Rockwell Automation Comms-1783-NATR跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "f37740abdab1245d3e58144f35cdbed6"
+}

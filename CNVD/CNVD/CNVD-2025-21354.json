@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-16 11:04:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21354",
+    "spider_time": 1758020654624,
+    "name": "Xen存在未明漏洞（CNVD-2025-21354）",
+    "cnvd": "CNVD-2025-21354",
+    "publish": "2025-09-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Xen Xen\"]",
+    "cve": "CVE-2025-58145",
+    "description": "Xen是Xen开源的一款开源的虚拟机监视器产品。该产品能够使不同和不兼容的操作系统运行在同一台计算机上，并支持在运行时进行迁移，保证正常运行并且避免宕机。Xen存在安全漏洞，攻击者可利用该漏洞导致空指针取消引用。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-58145",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://xenbits.xenproject.org/xsa/advisory-473.html",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-15",
+    "open_time": "2025-09-16",
+    "update_time": "2025-09-16",
+    "data_summary": "64a7531081df5393e0a8791dfc259a12"
+}

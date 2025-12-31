@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-28 06:13:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08624",
+    "spider_time": 1745820828098,
+    "name": "昱能科技股份有限公司Altenergy电力系统存在命令执行漏洞",
+    "cnvd": "CNVD-2025-08624",
+    "publish": "2025-04-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u6631\\u80fd\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 Altenergy\\u7535\\u529b\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "昱能科技股份有限公司成立于2010年，公司专注于MLPE组件级电力电子的研发及产业化，产品包括微型逆变器、智控关断器、功率优化器、EMA智能监控及运维平台及光伏系统解决方案。昱能科技股份有限公司Altenergy电力系统存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.apsystems.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-11",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "a7adcaf23dcb655c74e0fb5bfdcb0cb2"
+}

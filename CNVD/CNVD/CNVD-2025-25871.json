@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-30 09:07:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25871",
+    "spider_time": 1761815231382,
+    "name": "Newforma Project Center Server代码执行漏洞（CNVD-2025-25871）",
+    "cnvd": "CNVD-2025-25871",
+    "publish": "2025-10-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Newforma Newforma Project Center Server <2023.1\"]",
+    "cve": "CVE-2025-35055",
+    "description": "Newforma Project Center Server是Newforma公司的一个建筑、工程和施工(AEC)行业的项目信息管理解决方案，用于集中存储和管理项目文档和协作。Newforma Project Center Server存在代码执行漏洞，该漏洞源于UserWeb/Common/UploadBlueimp.ashx允许经过身份验证的攻击者上传任意文件，攻击者可利用该漏洞导致上传和执行Web脚本或其他恶意内容。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://raw.githubusercontent.com/cisagov/CSAF/develop/csaf_files/IT/white/2025/va-25-282-01.json",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.newforma.com/newforma-project-center/",
+    "patch": "Newforma Project Center Server代码执行漏洞（CNVD-2025-25871）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-30",
+    "update_time": "2025-10-30",
+    "data_summary": "81529b5429413bc96fb6db13b401828b"
+}

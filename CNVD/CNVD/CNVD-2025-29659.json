@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-04 06:11:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29659",
+    "spider_time": 1764828698255,
+    "name": "DELL Alienware Command Center临时文件不安全漏洞",
+    "cnvd": "CNVD-2025-29659",
+    "publish": "2025-12-01",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:C/A:N",
+    "product": "[\"DELL Alienware Command Center <6.10.15.0\"]",
+    "cve": "CVE-2025-46368",
+    "description": "DELL Alienware Command Center是戴尔为Alienware品牌电脑开发的专属控制软件，主要用于自定义硬件功能、优化性能和管理游戏设置。DELL Alienware Command Center存在临时文件不安全漏洞，攻击者可利用该漏洞导致篡改信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-46368",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-us/000379467/dsa-2025-392",
+    "patch": "DELL Alienware Command Center临时文件不安全漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-12-02",
+    "update_time": "2025-12-02",
+    "data_summary": "414e1535a1b58ea29100c188244c9181"
+}

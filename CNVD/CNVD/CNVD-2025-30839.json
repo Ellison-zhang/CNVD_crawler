@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-17 04:11:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30839",
+    "spider_time": 1765944713807,
+    "name": "Apache Kylin服务端请求伪造漏洞（CNVD-2025-30839）",
+    "cnvd": "CNVD-2025-30839",
+    "publish": "2025-12-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Apache Kylin >=4.0.0\\uff0c<=5.0.2\"]",
+    "cve": "CVE-2025-61735",
+    "description": "Apache Kylin是美国阿帕奇（Apache）基金会的一款开源的分布式分析型数据仓库。该产品主要提供Hadoop/Spark之上的SQL查询接口及多维分析（OLAP）等功能。Apache Kylin 4.0.0版本至5.0.2版本存在服务端请求伪造漏洞，该漏洞源于服务器未实现足够的验证机制来确认请求的来源，攻击者可利用该漏洞探测服务器内网资源。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lists.apache.org/thread/yscobmx869zvprsykb94r24jtmb58ckh",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://kylin.apache.org/",
+    "patch": "Apache Kylin服务端请求伪造漏洞（CNVD-2025-30839）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-31",
+    "open_time": "2025-12-17",
+    "update_time": "2025-12-17",
+    "data_summary": "2652dabceef339faa5cf2ea1e0c7ba32"
+}

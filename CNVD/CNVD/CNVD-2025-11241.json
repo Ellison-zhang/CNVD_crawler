@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-30 11:05:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11241",
+    "spider_time": 1748603136663,
+    "name": "WAVLINK WL-WN530H4命令注入漏洞",
+    "cnvd": "CNVD-2025-11241",
+    "publish": "2025-05-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WAVLINK WAVLINK WL-WN530H4 20220801\"]",
+    "cve": "CVE-2025-44868",
+    "description": "WAVLINK WL-WN530H4是中国睿因（WAVLINK）公司的一款高性能USB无线网卡，支持802.11ac双频Wi-Fi。WAVLINK WL-WN530H4存在命令注入漏洞，该漏洞源于adm.cgi中ping_test函数对pingIp参数未能正确过滤构造命令特殊字符、命令等，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Summermu/VulnForIoT/tree/main/Wavlink_WL-WN530H4/ping_test/readme.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.wavlink.com/en_us/index.html",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "089c35f65c3747fe1931ccdbfd144090"
+}

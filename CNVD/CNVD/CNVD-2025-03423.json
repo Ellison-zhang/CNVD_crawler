@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-21 08:04:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03423",
+    "spider_time": 1740125061649,
+    "name": "Linux kernel afs_proc_addr_prefs_write函数拒绝服务漏洞",
+    "cnvd": "CNVD-2025-03423",
+    "publish": "2025-02-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Linux Linux kernel <6.12.11\"]",
+    "cve": "CVE-2025-21672",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在拒绝服务漏洞，该漏洞源于afs_proc_addr_prefs_write函数在参数argc小于0时直接返回，而未释放已持有的inode锁，攻击者可利用该漏洞导致返回用户空间时仍持有锁，可能引发死锁。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-21672",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/17a4fde81d3a7478d97d15304a6d61094a10c2e3",
+    "patch": "Linux kernel afs_proc_addr_prefs_write函数拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-02-21",
+    "update_time": "2025-02-21",
+    "data_summary": "87244ae07d5324dca222426a769f6d02"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-25 08:04:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22506",
+    "spider_time": 1758787479547,
+    "name": "Directory Management System跨站脚本漏洞",
+    "cnvd": "CNVD-2025-22506",
+    "publish": "2025-09-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Directory Management System Directory Management System 2.0\"]",
+    "cve": "CVE-2025-9656",
+    "description": "Directory Management System是一个目录管理系统。Directory Management System存在跨站脚本漏洞，该漏洞源于文件/admin/add-directory.php中参数fullname对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞可以通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?submit.637137",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-02",
+    "open_time": "2025-09-25",
+    "update_time": "2025-09-25",
+    "data_summary": "5ada006b950cf35ca33f6f720b6f0abf"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-10 09:04:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23247",
+    "spider_time": 1760087068423,
+    "name": "NVIDIA CUDA toolkit缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-23247",
+    "publish": "2025-10-10",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"NVIDIA CUDA Toolkit <13.0\"]",
+    "cve": "CVE-2025-23271",
+    "description": "NVIDIA CUDA Toolkit是美国英伟达（NVIDIA）公司的一个应用于创建高性能GPU加速应用程序的开发软件。NVIDIA CUDA Toolkit存在缓冲区溢出漏洞，攻击者可利用该漏洞导致部分拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-23271",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5661",
+    "patch": "NVIDIA CUDA toolkit缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-28",
+    "open_time": "2025-10-10",
+    "update_time": "2025-10-10",
+    "data_summary": "c13fc01d4f20286958dbcb7f3cfb1c0a"
+}

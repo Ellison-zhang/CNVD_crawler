@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-02 08:11:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29475",
+    "spider_time": 1764663112573,
+    "name": "WordPress Ace Post Type Builder plugin未经授权的自定义分类法删除漏洞",
+    "cnvd": "CNVD-2025-29475",
+    "publish": "2025-11-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Ace Post Type Builder plugin <=1.9\"]",
+    "cve": "CVE-2025-13405",
+    "description": "WordPress Ace Post Type Builder plugin是一款用于创建和管理自定义文章类型（CustomPostTypes,CPT）的插件，帮助用户在WordPress中扩展内容结构，支持自定义字段、分类和标签等高级功能。WordPress Ace Post Type Builder plugin存在未经授权的自定义分类法删除漏洞，该漏洞源于cptb_delete_custom_taxonomy函数缺少授权验证，攻击者可利用该漏洞导致未授权自定义分类删除。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/ace-post-type-builder/tags/1.9/includes/class-cptb-core.php#L400",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-27",
+    "open_time": "2025-11-28",
+    "update_time": "2025-11-28",
+    "data_summary": "67c33b9099a029be58de29ca59b24f9b"
+}

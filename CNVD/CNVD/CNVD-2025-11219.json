@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-30 09:04:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11219",
+    "spider_time": 1748595893875,
+    "name": "Nextcloud信息泄露漏洞",
+    "cnvd": "CNVD-2025-11219",
+    "publish": "2025-05-30",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"Nextcloud Nextcloud\"]",
+    "cve": "CVE-2024-52513",
+    "description": "Nextcloud是德国Nextcloud公司的一套开源的自托管文件同步和共享的通信应用平台。Nextcloud存在信息泄露漏洞，该漏洞源于收到Files drop或Password protected共享链接后，恶意用户无需提供密码即可下载文本文件中引用的附件。攻击者可利用该漏洞造成信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-52513",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://nextcloud.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-21",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "02f1fdb8db852e47d034145ae5663ef6"
+}

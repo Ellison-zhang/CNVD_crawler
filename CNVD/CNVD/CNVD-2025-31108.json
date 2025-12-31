@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-24 07:10:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31108",
+    "spider_time": 1766560249509,
+    "name": "Online Birth Certificate System /user/certificate-form.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-31108",
+    "publish": "2025-12-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Online Birth Certificate System Online Birth Certificate System 1.0\"]",
+    "cve": "CVE-2024-57175",
+    "description": "Online Birth Certificate System是一个在线出生证明系统。Online Birth Certificate System存在跨站脚本漏洞，该漏洞源于/user/certificate-form.php对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Ajmal101/CVE-2024-57175/blob/main/README.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-12-22",
+    "update_time": "2025-12-22",
+    "data_summary": "3625d1e7ad20c123fe08e3d058854360"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-18 10:08:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16338",
+    "spider_time": 1752833282221,
+    "name": "Tenda F1203 fromWizardHandle方法缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16338",
+    "publish": "2025-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda F1203 2.0.1.6\"]",
+    "cve": "CVE-2024-32310",
+    "description": "Tenda F1203是深圳市吉祥腾达科技有限公司于2015年1月发布的双频无线路由器。Tenda F1203存在缓冲区溢出漏洞，该漏洞源于fromWizardHandle方法的PPW参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/F/F1203/fromWizardHandle.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-2494.html",
+    "patch": "Tenda F1203 fromWizardHandle方法缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-22",
+    "open_time": "2025-07-18",
+    "update_time": "2025-07-18",
+    "data_summary": "8b2be2fac03c41b65c4d4ed9a1d036cf"
+}

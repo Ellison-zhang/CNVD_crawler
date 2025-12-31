@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-03 07:06:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14966",
+    "spider_time": 1751526371031,
+    "name": "Growatt Cloud Applications授权绕过漏洞",
+    "cnvd": "CNVD-2025-14966",
+    "publish": "2025-07-03",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Growatt Growatt Cloud Applications <=3.6.0\"]",
+    "cve": "CVE-2025-27938",
+    "description": "Growatt Cloud Applications是中国古瑞瓦特（Growatt）公司的一个监控平台。Growatt Cloud Applications 3.6.0及之前版本存在授权绕过漏洞，未经身份验证的攻击者可利用该漏洞获取用户智能设备集合的受限信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-105-04",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://en.growatt.com/",
+    "patch": "Growatt Cloud Applications授权绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "fd95b4ea86b49d2308bd8719cc3bd0e8"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-12 09:06:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30572",
+    "spider_time": 1765530372057,
+    "name": "Microsoft Exchange Server输入验证错误漏洞（CNVD-2025-3057284）",
+    "cnvd": "CNVD-2025-30572",
+    "publish": "2025-12-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Exchange Server\"]",
+    "cve": "CVE-2025-64666",
+    "description": "Microsoft Exchange Server是美国微软（Microsoft）公司的一套电子邮件服务程序。它提供邮件存取、储存、转发，语音邮件，邮件过滤筛选等功能。Microsoft Exchange Server存在安全漏洞。攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-64666",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-64666",
+    "patch": "Microsoft Exchange Server输入验证错误漏洞（CNVD-2025-3057284）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-12",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "846776dfd72f69ce680db3942bade14b"
+}

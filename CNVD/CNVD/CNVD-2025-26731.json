@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-06 09:16:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26731",
+    "spider_time": 1762420594046,
+    "name": "Google Android权限提升漏洞（CNVD-2025-26731）",
+    "cnvd": "CNVD-2025-26731",
+    "publish": "2025-11-04",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android 15.0\", \"Google Android 16.0\"]",
+    "cve": "CVE-2025-32345",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在权限提升漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/packages/apps/Settings/+/6c9a5944dd0458b90263da2e4a4ba618c69779dd",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-09-01",
+    "patch": "Google Android权限提升漏洞（CNVD-2025-26731）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-11-03",
+    "update_time": "2025-11-03",
+    "data_summary": "4594d2cb5f52ccb1f0e8682f57d8dd38"
+}

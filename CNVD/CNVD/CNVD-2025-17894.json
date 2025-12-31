@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 08:05:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17894",
+    "spider_time": 1754640326584,
+    "name": "NVIDIA Jetson AGX Orin和NVIDIA IGX Orin输入验证错误漏洞",
+    "cnvd": "CNVD-2025-17894",
+    "publish": "2025-08-08",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:M/C:C/I:C/A:C",
+    "product": "[\"NVIDIA NVIDIA IGX Orin\", \"NVIDIA Jetson AGX Orin\"]",
+    "cve": "CVE-2024-0112",
+    "description": "NVIDIA Jetson AGX Orin和NVIDIA IGX Orin都是美国英伟达（NVIDIA）公司的产品，NVIDIA Jetson AGX Orin是一款紧凑、功能强大的计算机，NVIDIA IGX Orin是一个工业级边缘AI平台，可提供高性能、先进的功能安全和信息安全。NVIDIA Jetson AGX Orin和NVIDIA IGX Orin存在输入验证错误漏洞，该漏洞源于输入验证不正确，攻击者可利用该漏洞导致代码执行、拒绝服务、数据损坏、信息泄露或权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-0112",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5611",
+    "patch": "NVIDIA Jetson AGX Orin和NVIDIA IGX Orin输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-30",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "0637c95ed13b1cf211fe1804204887ad"
+}

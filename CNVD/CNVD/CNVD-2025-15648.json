@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-14 10:04:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15648",
+    "spider_time": 1752487472824,
+    "name": "WordPress Sharable Password Protected Posts信息泄露漏洞",
+    "cnvd": "CNVD-2025-15648",
+    "publish": "2025-07-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress Sharable Password Protected Posts <1.1.1\"]",
+    "cve": "CVE-2025-5920",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品，WordPress plugin是一个应用插件。WordPress Sharable Password Protected Posts存在信息泄露漏洞，该漏洞源于REST API暴露密钥，攻击者可利用该漏洞实现密码保护文章被访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5920",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/sharable-password-protected-posts/",
+    "patch": "WordPress Sharable Password Protected Posts信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-11",
+    "open_time": "2025-07-14",
+    "update_time": "2025-07-14",
+    "data_summary": "2ffe5a81e0b9865d5a9fe63ee5819ae7"
+}

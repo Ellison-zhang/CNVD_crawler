@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 09:05:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08436",
+    "spider_time": 1745744718081,
+    "name": "上海爱数信息技术股份有限公司爱数分布式对象存储服务ECeph存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-08436",
+    "publish": "2025-04-27",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:P/A:N",
+    "product": "[\"\\u4e0a\\u6d77\\u7231\\u6570\\u4fe1\\u606f\\u6280\\u672f\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u7231\\u6570\\u5206\\u5e03\\u5f0f\\u5bf9\\u8c61\\u5b58\\u50a8\\u670d\\u52a1ECeph v7.3.0\"]",
+    "cve": null,
+    "description": "上海爱数信息技术股份有限公司是领先的全域数据能力平台商，提供大数据基础设施，对全域数据进行整合、治理、保护，实现数据资产化和知识化，与客户共创数据驱动型组织。上海爱数信息技术股份有限公司爱数分布式对象存储服务ECeph存在逻辑缺陷漏洞,攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.aishu.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "f19ec10037cbd5d4f6738d6669137cc6"
+}

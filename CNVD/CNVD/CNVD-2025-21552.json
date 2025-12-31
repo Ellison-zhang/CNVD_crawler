@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-18 03:14:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21552",
+    "spider_time": 1758165240086,
+    "name": "RiteCMS跨站脚本漏洞（CNVD-2025-21552）",
+    "cnvd": "CNVD-2025-21552",
+    "publish": "2025-09-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"RiteCMS RiteCMS v3.0.0\"]",
+    "cve": "CVE-2024-28623",
+    "description": "RiteCMS是一款基于PHP和SQLite的开源内容管理系统。RiteCMS存在跨站脚本漏洞，该漏洞源于组件main_menu/edit_section对用户提供的数据缺乏有效过滤与转义，攻击者利用该漏洞窃取受害者基于cookie的身份验证凭据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-28623",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/GURJOTEXPERT/ritecms",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2024-03-15",
+    "open_time": "2025-09-18",
+    "update_time": "2025-09-18",
+    "data_summary": "a5dd410f687f313a91917a2a5436f684"
+}

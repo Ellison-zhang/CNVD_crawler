@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 08:05:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19106",
+    "spider_time": 1755763550339,
+    "name": "Apache Tomcat拒绝服务漏洞（CNVD-2025-19106）",
+    "cnvd": "CNVD-2025-19106",
+    "publish": "2025-08-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Apache Tomcat >=11.0.0-M1\\uff0c<=11.0.9\", \"Apache Tomcat >=10.1.0-M1\\uff0c<=10.1.43\", \"Apache Tomcat >=9.0.0.M1\\uff0c<=9.0.107\"]",
+    "cve": "CVE-2025-48989",
+    "description": "Apache Tomcat是美国阿帕奇（Apache）基金会的一款轻量级Web应用服务器，用于实现对Servlet和JavaServer Page（JSP）的支持。Apache Tomcat存在拒绝服务漏洞，该漏洞是由于HTTP/2实现中的强制重置攻击引起的。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-48989",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/9ydfg0xr0tchmglcprhxgwhj0hfwxlyf",
+    "patch": "Apache Tomcat拒绝服务漏洞（CNVD-2025-19106）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "176f3ff3f2d774348d21d877197e6d5a"
+}

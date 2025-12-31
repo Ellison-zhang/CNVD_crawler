@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-03 07:04:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11252",
+    "spider_time": 1748934242375,
+    "name": "Google Chrome越界读写漏洞",
+    "cnvd": "CNVD-2025-11252",
+    "publish": "2025-06-03",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome(Windows/Mac) >=137.0.7151.68/.69\", \"Google Chrome(Linux) >=137.0.7151.68\"]",
+    "cve": "CVE-2025-5419",
+    "description": "Google Chrome是由谷歌公司开发的网页浏览器。Google Chrome存在越界读写漏洞，该漏洞源于V8引擎中的越界读写问题，攻击者可利用漏洞通过恶意网页触发漏洞，绕过沙箱防护实现远程代码执行，完全控制用户设备。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "目前厂商已经发布了升级版本以修复这个安全问题，请到厂商的主页下载：\nhttps://www.google.cn/chrome/",
+    "patch": "Google Chrome越界读写漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-03",
+    "open_time": "2025-06-03",
+    "update_time": "2025-06-03",
+    "data_summary": "770068a48e7c11dfd5946f98fd681de6"
+}

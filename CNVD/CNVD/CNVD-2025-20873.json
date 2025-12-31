@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-09 10:04:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20873",
+    "spider_time": 1757412295877,
+    "name": "Apache Apisix权限提升漏洞（CNVD-2025-20873）",
+    "cnvd": "CNVD-2025-20873",
+    "publish": "2025-09-09",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apache APISIX >=0.2\\uff0c<=0.5\"]",
+    "cve": "CVE-2025-27446",
+    "description": "Apache Apisix是美国阿帕奇（Apache）基金会的一个云原生的微服务API网关服务。该软件基于OpenResty和etcd来实现，具备动态路由和插件热加载，适合微服务体系下的API管理。Apache Apisix(java-plugin-runner) 存在权限提升漏洞，该漏洞源于本地监听文件权限不当，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-27446",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://apisix.apache.org/blog/",
+    "patch": "Apache Apisix权限提升漏洞（CNVD-2025-20873）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-11",
+    "open_time": "2025-09-09",
+    "update_time": "2025-09-09",
+    "data_summary": "ee85f1022031725f550355ed1ca9618f"
+}

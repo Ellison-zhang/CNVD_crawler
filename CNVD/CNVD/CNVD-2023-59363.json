@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 19:03:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2023-59363",
+    "spider_time": 1750791807174,
+    "name": " 湖南强智科技发展有限公司教务管理系统存在SQL注入漏洞（CNVD-2023-59363）",
+    "cnvd": "CNVD-2023-59363",
+    "publish": "2025-06-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u6e56\\u5357\\u5f3a\\u667a\\u79d1\\u6280\\u53d1\\u5c55\\u6709\\u9650\\u516c\\u53f8 \\u6559\\u52a1\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "湖南强智科技发展有限公司是业界领先的教育信息化服务提供商。湖南强智科技发展有限公司教务管理系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "修复内容：\n1、修复SQL注入漏洞\n修复方式：\n1，更新修复解压包里面对应版本文件即可\n2、重启tomcat",
+    "patch": "修复教务处管理系统存在SQL注入漏洞",
+    "verify": "已验证",
+    "submit_time": "2023-05-25",
+    "open_time": "2023-07-27",
+    "update_time": "2025-06-25",
+    "data_summary": "4407b08de259a992ac934e045e3b395f"
+}

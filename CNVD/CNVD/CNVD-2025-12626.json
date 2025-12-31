@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 10:04:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12626",
+    "spider_time": 1750068292676,
+    "name": "Mattermost权限问题漏洞",
+    "cnvd": "CNVD-2025-12626",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Mattermost Mattermost >=10.7.x\\uff0c<=10.7.0\", \"Mattermost Mattermost >=10.5.x\\uff0c<=10.5.3\", \"Mattermost Mattermost >=9.11.x\\uff0c<=9.11.12\", \"Mattermost Mattermost >=10.6.x\\uff0c<=10.6.2\"]",
+    "cve": "CVE-2025-3913",
+    "description": "Mattermost是美国Mattermost公司的一个开源协作平台。Mattermost存在权限问题漏洞，该漏洞源于权限验证不足，攻击者可利用该漏洞访问团队邀请ID。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://mattermost.com/security-updates",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/security-updates",
+    "patch": "Mattermost权限问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "7874a72b10e8b86add6a0b566f44f5f3"
+}

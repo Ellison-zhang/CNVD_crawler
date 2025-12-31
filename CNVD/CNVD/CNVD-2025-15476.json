@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-11 07:05:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15476",
+    "spider_time": 1752217540503,
+    "name": "Ivanti Avalanche路径遍历漏洞（CNVD-2025-15476）",
+    "cnvd": "CNVD-2025-15476",
+    "publish": "2025-07-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Ivanti Ivanti Avalanche <6.4.7\"]",
+    "cve": "CVE-2024-13179",
+    "description": "Ivanti Avalanche是一款企业移动设备管理（MDM）解决方案，主要用于管理智能手机、平板电脑、工业移动计算机等设备，确保其安全性、可用性和可访问性。Ivanti Avalanche存在路径遍历漏洞，攻击者可利用该漏洞绕过身份验证。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-13179",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Avalanche-6-4-7-Multiple-CVEs",
+    "patch": "Ivanti Avalanche路径遍历漏洞（CNVD-2025-15476）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-23",
+    "open_time": "2025-07-11",
+    "update_time": "2025-07-11",
+    "data_summary": "ebe78358bc81d38abd1e2cd19d6b744f"
+}

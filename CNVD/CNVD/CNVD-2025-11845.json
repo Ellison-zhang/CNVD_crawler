@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 11:04:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11845",
+    "spider_time": 1749207842956,
+    "name": "广州通则康威科技股份有限公司5G工业网关ZLT IR40M存在弱口令漏洞",
+    "cnvd": "CNVD-2025-11845",
+    "publish": "2025-06-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5e7f\\u5dde\\u901a\\u5219\\u5eb7\\u5a01\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 5G\\u5de5\\u4e1a\\u7f51\\u5173ZLT IR40M v1.0.13\"]",
+    "cve": null,
+    "description": "广州通则康威科技股份有限公司是一家主要从事计算机、通信和其他电子设备制造业的企业。广州通则康威科技股份有限公司5G工业网关ZLT IR40M存在弱口令漏洞，攻击者可利用该漏洞登录系统，获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.gztozed.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "821edb9f21e4d4cdb1cb537ed3da2c9d"
+}

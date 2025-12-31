@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 07:04:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12741",
+    "spider_time": 1750230272171,
+    "name": "Tenda AC9跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-12741",
+    "publish": "2025-06-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Tenda AC9 15.03.02.13\"]",
+    "cve": "CVE-2025-5900",
+    "description": "Tenda AC9是一款由Tenda公司生产的无线路由器。Tenda AC9存在跨站请求伪造漏洞。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://candle-throne-f75.notion.site/Tenda-AC9-fromSysToolReboot-20adf0aa1185806a9d20ee5c355c08a6?pvs=73\nhttps://candle-throne-f75.notion.site/Tenda-AC9-fromSysToolRestoreSet-20adf0aa11858094a25ae21f9b4203da\nhttps://vuldb.com/?ctiid.311673\nhttps://vuldb.com/?id.311673\nhttps://vuldb.com/?submit.592198\nhttps://vuldb.com/?submit.592199\nhttps://www.tenda.com.cn/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "17014e8ae21966974a9afe00a1a06df0"
+}

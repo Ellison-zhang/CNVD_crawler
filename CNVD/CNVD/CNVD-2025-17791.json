@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-07 10:04:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17791",
+    "spider_time": 1754561069756,
+    "name": "GLPI权限许可和访问控制问题漏洞（CNVD-2025-17791）",
+    "cnvd": "CNVD-2025-17791",
+    "publish": "2025-08-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"GLPI GLPI >=9.1.0\\uff0c<=10.0.18\"]",
+    "cve": "CVE-2025-53112",
+    "description": "GLPI是一款免费的资产和IT管理软件套件，提供ITIL服务台功能、许可证跟踪及软件审计。GLPI 9.1.0至10.0.18版本存在安全漏洞，该漏洞源于未对特定资源删除操作进行权限检查。攻击者可利用该漏洞未经授权删除特定资源。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-53112",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://github.com/glpi-project/glpi/security/advisories/GHSA-rp7w-6343-3m2r",
+    "patch": "GLPI权限许可和访问控制问题漏洞（CNVD-2025-17791）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-01",
+    "open_time": "2025-08-07",
+    "update_time": "2025-08-07",
+    "data_summary": "426e67694831da7ce08235443a515ddb"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-21 01:32:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07785",
+    "spider_time": 1745199129394,
+    "name": "Microsoft Visual Studio权限提升漏洞",
+    "cnvd": "CNVD-2025-07785",
+    "publish": "2025-04-10",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Visual Studio 2022 17.8\", \"Microsoft Visual Studio 2022 17.10\", \"Microsoft Visual Studio 2022 17.12\"]",
+    "cve": "CVE-2025-29802",
+    "description": "Microsoft Visual Studio是美国微软公司的开发工具包系列产品，是一个基本完整的开发工具集。Microsoft Visual Studio存在权限提升漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-29802",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2025-29802",
+    "patch": "Microsoft Visual Studio权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-09",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "ddf961d5e4fd5c3fe6653d9c6998ec7b"
+}

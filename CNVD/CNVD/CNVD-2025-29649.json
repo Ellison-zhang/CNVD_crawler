@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-04 03:33:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29649",
+    "spider_time": 1764819198560,
+    "name": "Google Chrome Passkeys实现不当漏洞",
+    "cnvd": "CNVD-2025-29649",
+    "publish": "2025-12-01",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Google Chrome <140.0.7339.80\"]",
+    "cve": "CVE-2025-12910",
+    "description": "Google Chrome是由‌谷歌公司开发的免费网页浏览器。Google Chrome存在Passkeys实现不当漏洞，攻击者可利用该漏洞通过调试日志获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/09/stable-channel-update-for-desktop.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.google.com/chrome/",
+    "patch": "Google Chrome Passkeys实现不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-12",
+    "open_time": "2025-12-02",
+    "update_time": "2025-12-02",
+    "data_summary": "fd06592a44966e99c378b9a872e0b148"
+}

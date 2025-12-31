@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-20 08:05:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13072",
+    "spider_time": 1750406728147,
+    "name": "D-Link DSL-3782缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-13072",
+    "publish": "2025-06-20",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"D-Link DSL-3782 v1.01\"]",
+    "cve": "CVE-2025-25891",
+    "description": "D-Link DSL-3782是中国友讯（D-Link）公司的一款无线路由器。D-Link DSL-3782存在缓冲区溢出漏洞，该漏洞源于destination、netmask and gateway参数，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/2664521593/mycve/blob/main/BOF_in_D-Link_DSL-3782_4.pdf",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-28",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "3728dfb260aaf234d2ada9ea64bf431e"
+}

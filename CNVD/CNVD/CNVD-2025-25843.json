@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-30 10:04:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25843",
+    "spider_time": 1761818661089,
+    "name": "WordPress Breeze Checkout Plugin缺少授权漏洞",
+    "cnvd": "CNVD-2025-25843",
+    "publish": "2025-10-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"WordPress Wordpress Plugin Breeze Checkout <=1.4.0\"]",
+    "cve": "CVE-2025-49961",
+    "description": "WordPress Breeze Checkout Plugin是一款由Cloudways开发的免费开源缓存插件，主要用于优化WordPress网站的加载速度和性能。WordPress Breeze Checkout Plugin存在缺少授权漏洞，该漏洞源于缺少授权，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/breeze-checkout/vulnerability/wordpress-breeze-checkout-plugin-1-4-0-broken-access-control-vulnerability",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-24",
+    "open_time": "2025-10-30",
+    "update_time": "2025-10-30",
+    "data_summary": "77e9e6c226693d97c350ab295599fcf7"
+}

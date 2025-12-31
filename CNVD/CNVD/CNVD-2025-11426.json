@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:05:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11426",
+    "spider_time": 1749110727216,
+    "name": "JetBrains Toolbox App命令注入漏洞",
+    "cnvd": "CNVD-2025-11426",
+    "publish": "2025-06-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"JetBrains Toolbox App <2.6\"]",
+    "cve": "CVE-2025-43012",
+    "description": "JetBrains Toolbox App是一款用于管理JetBrains开发工具的应用程序，提供安装、更新和管理功能。JetBrains Toolbox App存在命令注入漏洞，该漏洞源于SSH插件处理输入不当。攻击者可利用该漏洞通过构造恶意命令执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.jetbrains.com/privacy-security/issues-fixed/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/toolbox-app/",
+    "patch": "JetBrains Toolbox App命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "edd21f7bbc2d2dcac87c68a3e16ded72"
+}

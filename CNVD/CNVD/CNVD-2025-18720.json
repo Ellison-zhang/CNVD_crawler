@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 11:03:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18720",
+    "spider_time": 1755255813994,
+    "name": "WordPress WooCommerce Purchase Orders plugin任意文件删除漏洞",
+    "cnvd": "CNVD-2025-18720",
+    "publish": "2025-08-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:C/A:C",
+    "product": "[\"WordPress WooCommerce Purchase Orders plugin <=1.0.2\"]",
+    "cve": "CVE-2025-5391",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress WooCommerce Purchase Orders plugin存在任意文件删除漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素。攻击者可利用该漏洞导致任意文件删除。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/wc-purchase-orders/trunk/includes/class-bbpo-purchase-orders.php#L151",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "fc881b48c04d76eea6f05159e9a7fccc"
+}

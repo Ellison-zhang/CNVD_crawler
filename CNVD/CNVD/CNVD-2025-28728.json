@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-26 06:10:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28728",
+    "spider_time": 1764137413117,
+    "name": "WordPress插件Authors List信息泄露漏洞",
+    "cnvd": "CNVD-2025-28728",
+    "publish": "2025-11-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"WordPress Authors List plugin <=2.0.6.1\"]",
+    "cve": "CVE-2025-12010",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件Authors List存在信息泄露漏洞，该漏洞源于Authors_List_Shortcode类允许任意方法调用，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-12010",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://plugins.trac.wordpress.org/browser/authors-list/tags/2.0.6.1/includes/class-authors-list-shortcode.php#L852",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "61b06fcbb86347fc7c93fc66f37d8e5b"
+}

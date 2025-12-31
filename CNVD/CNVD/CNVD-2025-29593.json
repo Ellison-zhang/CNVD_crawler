@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-01 10:04:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29593",
+    "spider_time": 1764583498468,
+    "name": "Hospital Management System user-login.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-29593",
+    "publish": "2025-12-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Hospital Management System Hospital Management System 4.0\"]",
+    "cve": "CVE-2025-7604",
+    "description": "Hospital Management System是一套基于PHP和MySQL的医院管理系统。Hospital Management System存在SQL注入漏洞，该漏洞源于文件/user-login.php中参数Username缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/f1rstb100d/myCVE/issues/143",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-12-01",
+    "update_time": "2025-12-01",
+    "data_summary": "e5b4c2d7a4181dd52aee98db72c2eff5"
+}

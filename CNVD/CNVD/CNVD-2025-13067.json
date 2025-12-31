@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-20 07:03:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13067",
+    "spider_time": 1750403037270,
+    "name": "D-Link DI-8100存在未明漏洞",
+    "cnvd": "CNVD-2025-13067",
+    "publish": "2025-06-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DI-8100 16.07.26A1\"]",
+    "cve": "CVE-2025-44083",
+    "description": "D-Link DI-8100是中国友讯（D-Link）公司的一款专为中小型网络环境设计的无线宽带路由器。D-Link DI-8100存在安全漏洞，该漏洞源于管理员登录身份验证绕过。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/piposy/IOTsec/blob/main/Dlink/DI8100/DI8100-A1-1.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "c2a131fd1b788b6c599a25c2c3e1254b"
+}

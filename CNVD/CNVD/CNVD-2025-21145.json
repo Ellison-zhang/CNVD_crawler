@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-12 09:07:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21145",
+    "spider_time": 1757668028786,
+    "name": "MB CONNECT LINE mbNET.mini资源管理错误漏洞",
+    "cnvd": "CNVD-2025-21145",
+    "publish": "2025-09-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:N/A:C",
+    "product": "[\"MB CONNECT LINE mbNET.mini <2.3.3\"]",
+    "cve": "CVE-2025-41676",
+    "description": "MB CONNECT LINE的mbNET.mini是一款专为工业场景设计的工业路由器，主要用于实现机器和系统的安全远程连接。MB CONNECT LINE mbNET.mini存在资源管理错误漏洞，该漏洞源于通过快速发送特制的POST请求到send-sms操作来耗尽关键系统资源，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://certvde.com/de/advisories/VDE-2025-058",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mbconnectline.com/download-portal/",
+    "patch": "MB CONNECT LINE mbNET.mini资源管理错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-09-12",
+    "update_time": "2025-09-12",
+    "data_summary": "1489db5fcda102cb2eb69bd47b5872a6"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-12 09:07:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21147",
+    "spider_time": 1757668041150,
+    "name": "MB CONNECT LINE mbNET.mini缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-21147",
+    "publish": "2025-09-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"MB CONNECT LINE mbNET.mini <2.3.3\"]",
+    "cve": "CVE-2025-41679",
+    "description": "MB CONNECT LINE的mbNET.mini是一款专为工业场景设计的工业路由器，主要用于实现机器和系统的安全远程连接。MB CONNECT LINE mbNET.mini存在缓冲区溢出漏，该漏洞源于应用在处理不受信任的输入时出现边界错误，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://certvde.com/de/advisories/VDE-2025-058",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mbconnectline.com/download-portal/",
+    "patch": "MB CONNECT LINE mbNET.mini缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-09-12",
+    "update_time": "2025-09-12",
+    "data_summary": "7ebf561ce6979779892ad0ea08852504"
+}

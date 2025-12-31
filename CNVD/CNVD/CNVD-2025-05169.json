@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-17 03:14:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05169",
+    "spider_time": 1742181256029,
+    "name": "Apache Camel任意命令执⾏漏洞",
+    "cnvd": "CNVD-2025-05169",
+    "publish": "2025-03-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apache Camel >=4.10.0\\uff0c<=4.10.1\", \"Apache Camel >=4.8.0\\uff0c<=4.8.4\", \"Apache Camel >=3.10.0\\uff0c<=3.22.3\"]",
+    "cve": "CVE-2025-27636",
+    "description": "Apache Camel是美国阿帕奇（Apache）基金会的一套开源的基于Enterprise Integration Pattern（企业整合模式，简称EIP）的集成框架。该框架提供企业集成模式的Java对象（POJO）的实现，且通过应用程序接口来配置路由和中介的规则。Apache Camel存在任意命令执⾏漏洞，该漏洞是由于Apache Camel对请求头⼤⼩写处理不当，攻击者可利用该漏洞通过传递特殊格式的头部（如\"CAmelExecCommandExecutable\"而非\"CamelExecCommandExecutable\"）绕过安全过滤，覆盖预定义命令，导致任意命令执⾏。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/akamai/CVE-2025-27636-Apache-Camel-PoC",
+    "solution": "厂商已提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.apache.org/",
+    "patch": "Apache Camel任意命令执⾏漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-03-17",
+    "update_time": "2025-03-17",
+    "data_summary": "0e473743c863826e3ad2910bb7795cd9"
+}

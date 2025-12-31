@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 10:05:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08186",
+    "spider_time": 1745489157364,
+    "name": "惠普贸易（上海）有限公司HP LaserJet Pro MFP 4101存在命令执行漏洞",
+    "cnvd": "CNVD-2025-08186",
+    "publish": "2025-04-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u60e0\\u666e\\u8d38\\u6613\\uff08\\u4e0a\\u6d77\\uff09\\u6709\\u9650\\u516c\\u53f8 HP LaserJet Pro MFP 4101\"]",
+    "cve": null,
+    "description": "HP LaserJet Pro MFP 4101是一款多功能激光打印机，集打印、复印、扫描和传真功能于一体，适合办公室使用。惠普贸易（上海）有限公司HP LaserJet Pro MFP 4101存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.hp.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-10",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "a8c6e01167b7227374d8d693a0a537aa"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 11:03:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18725",
+    "spider_time": 1755255838820,
+    "name": "WordPress OpenStreetMap for Gutenberg and WPBakery Page Builder plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-18725",
+    "publish": "2025-08-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"WordPress OpenStreetMap for Gutenberg and WPBakery Page Builder plugin <=1.2.0\"]",
+    "cve": "CVE-2025-6572",
+    "description": "WordPress OpenStreetMap for Gutenberg and WPBakery Page Builder plugin主要提供在页面中嵌入交互式地图的功能，支持自定义位置、地图样式、标记点等。WordPress OpenStreetMap for Gutenberg and WPBakery Page Builder plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wpscan.com/vulnerability/58c7a8ac-1acd-45b7-abe5-5635fbb5d4c1/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.https://wordpress.org/org/plugins/wp-event-solution",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "a40a4243aed4fecfd1670231b9a8c676"
+}

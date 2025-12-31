@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-06 11:03:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09086",
+    "spider_time": 1746529415398,
+    "name": "WordPress插件Able Player跨站脚本漏洞",
+    "cnvd": "CNVD-2025-09086",
+    "publish": "2025-05-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Able Player plugin <=1.2.1\"]",
+    "cve": "CVE-2025-3752",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress插件Able Player存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&old=3281106%40ableplayer&new=3281106%40ableplayer",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/ableplayer",
+    "patch": "WordPress插件Able Player跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-30",
+    "open_time": "2025-05-06",
+    "update_time": "2025-05-06",
+    "data_summary": "977673e79ab1dedfdd22777b790b569e"
+}

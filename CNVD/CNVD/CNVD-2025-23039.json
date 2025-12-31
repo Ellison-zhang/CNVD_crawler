@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-30 07:05:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23039",
+    "spider_time": 1759215951519,
+    "name": "Google Android存在未明漏洞（CNVD-2025-23039）",
+    "cnvd": "CNVD-2025-23039",
+    "publish": "2025-09-30",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Google Android 15.0\"]",
+    "cve": "CVE-2025-0077",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在安全漏洞，攻击者可利用该漏洞导致本地权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/37a4df78c7e1b91066b341b05fb767f27c5da835",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-05-01",
+    "patch": "Google Android存在未明漏洞（CNVD-2025-23039）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-09-30",
+    "update_time": "2025-09-30",
+    "data_summary": "d976957062e8116f37527486f475223e"
+}

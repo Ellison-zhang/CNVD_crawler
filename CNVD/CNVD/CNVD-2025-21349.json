@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-16 09:07:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21349",
+    "spider_time": 1758013620419,
+    "name": "Google Android信息泄露漏洞（CNVD-2025-21349）",
+    "cnvd": "CNVD-2025-21349",
+    "publish": "2025-09-16",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"Google Android 16.0\"]",
+    "cve": "CVE-2025-26461",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-26461",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/android-16",
+    "patch": "Google Android信息泄露漏洞（CNVD-2025-21349）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-09",
+    "open_time": "2025-09-16",
+    "update_time": "2025-09-16",
+    "data_summary": "f75da4dec4d2feab3277d30aeb198cc3"
+}

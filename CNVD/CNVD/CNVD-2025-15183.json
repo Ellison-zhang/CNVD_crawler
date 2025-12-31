@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-07 10:04:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15183",
+    "spider_time": 1751882685429,
+    "name": "GNU PSPP缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-15183",
+    "publish": "2025-07-07",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"GNU PSPP 82fb509fb2fedd33e7ac0c46ca99e108bb3bdffb\"]",
+    "cve": "CVE-2025-5898",
+    "description": "GNU PSPP是一款免费统计软件，用于替代商业软件SPSS进行数据分析和统计。GNU PSPP存在缓冲区溢出漏洞，该漏洞源于utilities/pspp-convert.c文件中的parse_variables_option函数。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://drive.google.com/file/d/1ZigqDFZQn5YUWFLu1V2juDGWQgbJFAtX/view?usp=sharing\nhttps://savannah.gnu.org/bugs/index.php?67071\nhttps://vuldb.com/?ctiid.311670\nhttps://vuldb.com/?id.311670\nhttps://vuldb.com/?submit.586105\nhttps://www.gnu.org/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-07-07",
+    "update_time": "2025-07-07",
+    "data_summary": "74603071fda876fb04b1a3d37e11aa47"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-13 10:04:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23474",
+    "spider_time": 1760349878578,
+    "name": "DELL BSAFE Crypto-J信息泄露漏洞",
+    "cnvd": "CNVD-2025-23474",
+    "publish": "2025-10-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:N/A:N",
+    "product": "[\"DELL BSAFE Crypto-J >=6.0\\uff0c<6.3.1\", \"DELL BSAFE Crypto-J 7.0\"]",
+    "cve": "CVE-2025-26333",
+    "description": "DELL BSAFE Crypto-J是戴尔公司开发的加密工具包，主要用于帮助开发人员为应用程序添加隐私和身份验证功能。DELL BSAFE Crypto-J存在信息泄露漏洞，该漏洞源于错误消息包含敏感环境信息，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-26333",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000296144/dsa-2025-100-dell-bsafe-crypto-j-security-update",
+    "patch": "DELL BSAFE Crypto-J信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-28",
+    "open_time": "2025-10-13",
+    "update_time": "2025-10-13",
+    "data_summary": "bd080f328962b5fe4c1bef86e1616e56"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 01:34:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23756",
+    "spider_time": 1760664856580,
+    "name": "WordPress Auto Bulb Finder plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-23756",
+    "publish": "2025-10-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Auto Bulb Finder plugin <=2.8.0\"]",
+    "cve": "CVE-2025-9858",
+    "description": "WordPress Auto Bulb Finder plugin是一款用于在WordPress网站中快速查询车辆灯泡型号的插件，支持通过年份、品牌、车型等信息检索适配的汽车灯泡规格。WordPress Auto Bulb Finder plugin存在跨站脚本漏洞，该漏洞源于abf_vehicle缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/auto-bulb-finder-for-wp-wc/tags/2.8.0/includes/blocks/custom-block.php#L45",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-13",
+    "open_time": "2025-10-15",
+    "update_time": "2025-10-15",
+    "data_summary": "ca9d33686b3f9039dbb5f8d41f36a1df"
+}

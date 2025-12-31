@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-21 07:03:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03327",
+    "spider_time": 1740121422496,
+    "name": "Linux Ratfor缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-03327",
+    "publish": "2025-02-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Linux Ratfor <=1.06\"]",
+    "cve": "CVE-2024-55577",
+    "description": "Linux Ratfor是一种作为Fortran 66的预处理器实现的编程语言。Linux Ratfor 1.06及之前版本存在缓冲区溢出漏洞，该漏洞源于应用在处理不受信任的输入时出现边界错误。攻击者可利用该漏洞通过特制的文件时，会执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-55577",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttp://www.dgate.org/ratfor/",
+    "patch": "Linux Ratfor缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-02-21",
+    "update_time": "2025-02-21",
+    "data_summary": "dbf9240d65345235ed4eda8d44d94a0e"
+}

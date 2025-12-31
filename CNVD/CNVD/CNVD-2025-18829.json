@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-19 02:32:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18829",
+    "spider_time": 1755570767732,
+    "name": "Google ChromeOS访问控制错误漏洞",
+    "cnvd": "CNVD-2025-18829",
+    "publish": "2025-08-19",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Google ChromeOS 16238.64.0\"]",
+    "cve": "CVE-2025-6044",
+    "description": "Google ChromeOS是美国谷歌（Google）公司的一个操作系统。Google ChromeOS存在访问控制错误漏洞，该漏洞源于Stylus Tools组件访问控制不当，攻击者可利用该漏洞获取用户文件信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://issues.chromium.org/issues/b/421184743",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://issues.chromium.org/issues/b/421184743",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-11",
+    "open_time": "2025-08-19",
+    "update_time": "2025-08-19",
+    "data_summary": "f343fe0119dbc9f2cd1c487bf9ac4656"
+}

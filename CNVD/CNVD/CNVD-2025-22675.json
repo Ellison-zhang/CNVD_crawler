@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 10:04:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22675",
+    "spider_time": 1758881044350,
+    "name": "多款Apple产品拒绝服务漏洞（CNVD-2025-22675）",
+    "cnvd": "CNVD-2025-22675",
+    "publish": "2025-09-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"Apple iOS <26\", \"Apple iPadOS <26\", \"Apple macOS Tahoe <26\", \"Apple Safari <26\"]",
+    "cve": "CVE-2025-43368",
+    "description": "Apple Safari是一款Web浏览器，是Mac OS X和iOS操作系统附带的默认浏览器。Apple iOS是一套为移动设备所开发的操作系统。Apple macOS是一套专为Mac计算机所开发的专用操作系统。多款Apple产品存在拒绝服务漏洞，攻击者可利用该漏洞导致Safari意外崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://support.apple.com/en-us/125108",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.apple.com/en-us/125108",
+    "patch": "多款Apple产品拒绝服务漏洞（CNVD-2025-22675）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-18",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "9956fc6a9f21f62e683ed1db47d46f94"
+}

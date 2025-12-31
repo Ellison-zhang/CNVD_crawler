@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-18 10:06:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16360",
+    "spider_time": 1752833217323,
+    "name": "LiteLLM资源管理错误漏洞",
+    "cnvd": "CNVD-2025-16360",
+    "publish": "2025-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Berri AI LiteLLM 26c03c9\"]",
+    "cve": "CVE-2024-10188",
+    "description": "LiteLLM是Berri AI开源的一个应用程序。可以使用OpenAI格式调用所有LLM API。LiteLLM存在资源管理错误漏洞，该漏洞源于ast.literal_eval解析用户输入不安全，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-10188",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/berriai/litellm/commit/21156ff5d0d84a7dd93f951ca033275c77e4f73c",
+    "patch": "LiteLLM资源管理错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-07-18",
+    "update_time": "2025-07-18",
+    "data_summary": "a674943c569d8da278a6c9950416ab6d"
+}

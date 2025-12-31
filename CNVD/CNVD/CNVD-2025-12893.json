@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-19 09:05:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12893",
+    "spider_time": 1750323913938,
+    "name": "TOTOLINK A7000R loginauth函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12893",
+    "publish": "2025-06-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A7000R 9.1.0u.6268_B20220504\"]",
+    "cve": "CVE-2024-7212",
+    "description": "TOTOLINK A7000R是中国吉翁电子（TOTOLINK）公司的一款无线路由器。TOTOLINK A7000R存在缓冲区溢出漏洞，该漏洞源于/cgi-bin/cstecgi.cgi页面的loginauth函数中的password参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.272783",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-02",
+    "open_time": "2025-06-19",
+    "update_time": "2025-06-19",
+    "data_summary": "dd3c3bd98bf6e808d4c16dcb641055f0"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-04 03:33:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29651",
+    "spider_time": 1764819205853,
+    "name": "Google Chrome输入验证错误漏洞",
+    "cnvd": "CNVD-2025-29651",
+    "publish": "2025-12-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <140.0.7339.80\"]",
+    "cve": "CVE-2025-12907",
+    "description": "Google Chrome是由‌谷歌公司开发的免费网页浏览器。Google Chrome存在输入验证错误漏洞，该漏洞源于Devtools中未充分验证不可信输入，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/09/stable-channel-update-for-desktop.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.google.com/chrome/",
+    "patch": "Google Chrome输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-12",
+    "open_time": "2025-12-02",
+    "update_time": "2025-12-02",
+    "data_summary": "0b56b87189d36936ff7a77f39d50c22a"
+}

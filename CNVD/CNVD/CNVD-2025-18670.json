@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 09:09:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18670",
+    "spider_time": 1755248944626,
+    "name": "HDF5 H5Z__scaleoffset_decompress_one_byte函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18670",
+    "publish": "2025-08-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"HDF5 HDF5 1.14.6\"]",
+    "cve": "CVE-2025-2308",
+    "description": "HDF5是HDF开源的一个库。HDF5存在缓冲区溢出漏洞，该漏洞源于H5Z__scaleoffset_decompress_one_byte函数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/madao123123/crash_report/blob/main/hdf5_poc/hdf5_poc2.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.hdfgroup.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "190cf06704aa08a1bd95edc19379a72f"
+}

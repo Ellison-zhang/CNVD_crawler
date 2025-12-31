@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-12 08:04:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12276",
+    "spider_time": 1749715485078,
+    "name": "GNU GRUB2缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12276",
+    "publish": "2025-06-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"GNU GRUB2 <=2.12\"]",
+    "cve": "CVE-2025-0678",
+    "description": "GNU GRUB2是一个开源的引导加载程序，用于在计算机启动时加载操作系统内核。GNU GRUB2存在缓冲区溢出漏洞，该漏洞源于从squash4文件系统读取数据时，存在整数溢出。攻击者可利用该漏洞破坏GRUB2的内部关键数据，执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://access.redhat.com/security/cve/CVE-2025-0678\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2346118",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/software/grub/grub-download.html",
+    "patch": "GNU GRUB2缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-06-12",
+    "update_time": "2025-06-12",
+    "data_summary": "537e1aa3a2437b921d7f972d3b2dd692"
+}

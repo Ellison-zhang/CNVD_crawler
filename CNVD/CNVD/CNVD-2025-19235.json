@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-22 08:07:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19235",
+    "spider_time": 1755850076964,
+    "name": "Adobe Substance3D Painter越界读取漏洞（CNVD-2025-19235）",
+    "cnvd": "CNVD-2025-19235",
+    "publish": "2025-08-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Adobe Substance 3D Painter <=11.0.2\"]",
+    "cve": "CVE-2025-54190",
+    "description": "Adobe Substance3D Painter提供实时3D纹理绘制功能，配备智能材质系统与物理渲染视区，支持8K分辨率材质输出。Adobe Substance3D Painter存在越界读取漏洞，攻击者可利用该漏洞导致敏感内存泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-54190",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/substance3d_painter/apsb25-77.html",
+    "patch": "Adobe Substance3D Painter越界读取漏洞（CNVD-2025-19235）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-18",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "b00115ebfca1d7bd4ed59f69c5b50b7d"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-19 07:04:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12861",
+    "spider_time": 1750316661323,
+    "name": "WordPress Backup and Staging by WP Time Capsule plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12861",
+    "publish": "2025-06-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"WordPress Backup and Staging by WP Time Capsule plugin <=1.22.23\"]",
+    "cve": "CVE-2025-47477",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Backup and Staging by WP Time Capsule plugin存在跨站脚本漏洞，该漏洞源于输入中和不当，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/wp-time-capsule/vulnerability/wordpress-backup-and-staging-by-wp-time-capsule-plugin-1-22-23-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/wp-time-capsule/",
+    "patch": "WordPress Backup and Staging by WP Time Capsule plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-19",
+    "update_time": "2025-06-19",
+    "data_summary": "01cbdb8e3f6baf365c9a8094409a2798"
+}

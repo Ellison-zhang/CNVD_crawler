@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 10:04:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11772",
+    "spider_time": 1749204290962,
+    "name": "langflow存在命令执行漏洞",
+    "cnvd": "CNVD-2025-11772",
+    "publish": "2025-06-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"langflow langflow V1.3.4\"]",
+    "cve": null,
+    "description": "langflow是一个开源的可视化工具。langflow存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.langflow.org/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "9ba8edc6d73b6bf0b57db2091fa48223"
+}

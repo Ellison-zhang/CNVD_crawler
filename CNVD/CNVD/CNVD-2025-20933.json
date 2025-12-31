@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-10 07:04:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20933",
+    "spider_time": 1757487855420,
+    "name": "TOTOLINK A3002R macstr、bandstr和clientoff参数命令注入漏洞",
+    "cnvd": "CNVD-2025-20933",
+    "publish": "2025-09-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"TOTOLINK A3002R v4.0.0-B20230531.1404\"]",
+    "cve": "CVE-2025-55589",
+    "description": "TOTOLINK A3002R是由中国吉翁电子（TOTOLINK）公司生产的无线路由器，主要功能是为家庭或小型办公环境提供无线网络连接。TOTOLINK A3002R存在OS命令注入漏洞，该漏洞源于macstr、bandstr和clientoff参数存在多个OS命令注入。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/goldenGlow21/softwares_PoC/blob/main/A3002R_V4/Boa%20-%20Command%20Injection/PoC%201.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-25",
+    "open_time": "2025-09-10",
+    "update_time": "2025-09-10",
+    "data_summary": "2203e30361d40250541eb985edf181d9"
+}

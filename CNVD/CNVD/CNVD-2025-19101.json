@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 08:07:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19101",
+    "spider_time": 1755763664429,
+    "name": "Apache Superset授权问题漏洞（CNVD-2025-19101）",
+    "cnvd": "CNVD-2025-19101",
+    "publish": "2025-08-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Apache Superset <5.0.0\"]",
+    "cve": "CVE-2025-55675",
+    "description": "Apache Superset是美国阿帕奇（Apache）基金会的一个数据可视化和数据探索平台。Apache Superset存在授权问题漏洞，该漏洞源于/explore端点访问控制不当，攻击者可利用该漏洞获取有关数据源的元数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-55675",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/op681b4kbd7g84tfjf9omz0sxggbcv33",
+    "patch": "Apache Superset授权问题漏洞（CNVD-2025-19101）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "09a40ad5e69d85e56d6b21190f9f5ee1"
+}

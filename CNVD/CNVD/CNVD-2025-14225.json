@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 10:05:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14225",
+    "spider_time": 1751018728360,
+    "name": "PDF-XChange Editor U3D文件解析越界读取信息泄露漏洞",
+    "cnvd": "CNVD-2025-14225",
+    "publish": "2025-06-27",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"PDF-XChange PDF-XChange Editor\"]",
+    "cve": "CVE-2025-6641",
+    "description": "PDF-XChange Editor是PDF-XChange公司的一个运行在Microsoft Windows系统中的PDF文件查看软件。PDF-XChange Editor U3D文件解析存在越界读取信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6641",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.pdf-xchange.com/product/pdf-xchange-editor",
+    "patch": "PDF-XChange Editor U3D文件解析越界读取信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "c0aea2f8ff61beb1597b0c1484fa8104"
+}

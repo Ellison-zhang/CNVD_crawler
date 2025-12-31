@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 10:04:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12622",
+    "spider_time": 1750068272041,
+    "name": "WordPress Infility Global SQL注入漏洞",
+    "cnvd": "CNVD-2025-12622",
+    "publish": "2025-06-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:P",
+    "product": "[\"WordPress Infility Global <=2.12.4\"]",
+    "cve": "CVE-2025-47651",
+    "description": "WordPress Infility Global是一个用于管理WordPress网站全局设置的插件。WordPress Infility Global存在SQL注入漏洞。该漏洞源于特殊元素中和不当，攻击者可利用该漏洞读取或修改数据库的敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/infility-global/vulnerability/wordpress-infility-global-2-11-2-sql-injection-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/infility-global/",
+    "patch": "WordPress Infility Global SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "eba7af57e7652e7fa34ac5170f035873"
+}

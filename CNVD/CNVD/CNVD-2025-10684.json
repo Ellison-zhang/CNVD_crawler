@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-27 04:08:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10684",
+    "spider_time": 1748318883379,
+    "name": "Netgear DC112A deviceName命令注入漏洞",
+    "cnvd": "CNVD-2025-10684",
+    "publish": "2025-05-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR DC112A V1.0.0.64\"]",
+    "cve": "CVE-2025-28219",
+    "description": "Netgear DC112A是一款无线路由器。Netgear DC112A存在命令注入漏洞，该漏洞源于usb_adv.cgi处理deviceName参数，攻击者可利用该漏洞提交特殊的请求，执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/IdaJea/IOT_vuln_1/blob/master/DC112A_V1.0.0.64/sub_69600.pdf",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-31",
+    "open_time": "2025-05-27",
+    "update_time": "2025-05-27",
+    "data_summary": "24e293f11e7f62563bbdb1bdfaedbb6a"
+}

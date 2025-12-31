@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-11 07:12:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30360",
+    "spider_time": 1765437135946,
+    "name": "Hostel Management System跨站脚本漏洞",
+    "cnvd": "CNVD-2025-30360",
+    "publish": "2025-12-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Hostel Management System Hostel Management System 2.1\"]",
+    "cve": "CVE-2023-36939",
+    "description": "Hostel Management System是一套旅馆管理系统。Hostel Management System存在跨站脚本漏洞，该漏洞源于search booking字段对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://medium.com/@ridheshgohil1092/cve-2023-36939-xss-online-security-guards-hiring-system-7547ee114134",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://phpgurukul.com/online-security-guards-hiring-system-using-php-and-mysql/",
+    "patch": "Hostel Management System跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-07-12",
+    "open_time": "2025-12-10",
+    "update_time": "2025-12-10",
+    "data_summary": "423a9ede8a642f58c73660c178ada6b7"
+}

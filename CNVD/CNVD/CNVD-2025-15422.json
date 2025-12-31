@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-10 10:03:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15422",
+    "spider_time": 1752141832147,
+    "name": "WordPress Forminator Forms代码问题漏洞",
+    "cnvd": "CNVD-2025-15422",
+    "publish": "2025-07-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Forminator Forms <=1.44.2\"]",
+    "cve": "CVE-2025-6464",
+    "description": "WordPress Forminator Forms是一款功能强大的免费表单构建插件，支持创建多种类型的交互式表单。WordPress Forminator Forms存在代码问题漏洞，该漏洞源于函数entry_delete_upload_files中反序列化不可信输入，攻击者可利用该漏洞通过提升权限，修改用户权限设置，获取更高权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6464",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/forminator",
+    "patch": "WordPress Forminator Forms代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-08",
+    "open_time": "2025-07-10",
+    "update_time": "2025-07-10",
+    "data_summary": "9462951ce9bc9ba89dfa304be13bff2f"
+}

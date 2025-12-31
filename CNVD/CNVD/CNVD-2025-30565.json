@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-12 09:06:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30565",
+    "spider_time": 1765530408987,
+    "name": "Apache CloudStack访问控制错误漏洞（CNVD-2025-30565）",
+    "cnvd": "CNVD-2025-30565",
+    "publish": "2025-12-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"Apache CloudStack >=4.0.0\\uff0c<4.20.2.0\", \"Apache CloudStack 4.21.0.0\"]",
+    "cve": "CVE-2025-59454",
+    "description": "Apache CloudStack是美国阿帕奇（Apache）基金会的一套基础架构即服务（IaaS）云计算平台。该平台主要用于部署和管理大型虚拟机网络。Apache CloudStack存在访问控制错误漏洞，该漏洞源于访问控制检查不足，攻击者可利用该漏洞导致用户访问超出预期范围的信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lists.apache.org/thread/0hlklvlwhzsfw39nocmyxb6svjbs9xbc",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cloudstack.apache.org/",
+    "patch": "Apache CloudStack访问控制错误漏洞（CNVD-2025-30565）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-03",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "246392a0db6e359bc5eeea341b5e45b8"
+}

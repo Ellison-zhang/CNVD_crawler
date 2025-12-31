@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-30 07:06:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23055",
+    "spider_time": 1759216009906,
+    "name": "Microsoft Edge (Chromium-based)权限提升漏洞（CNVD-2025-23055）",
+    "cnvd": "CNVD-2025-23055",
+    "publish": "2025-09-30",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:N/I:C/A:N",
+    "product": "[\"Microsoft Edge (Chromium-based)\"]",
+    "cve": "CVE-2025-47182",
+    "description": "Microsoft Edge是美国微软（Microsoft）公司的一款Windows 10之后版本系统附带的Web浏览器。Microsoft Edge (Chromium-based)存在权限提升漏洞，该漏洞是由于输入验证不当造成的。攻击者可利用该漏洞在系统上获得提升的权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47182",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47182",
+    "patch": "Microsoft Edge (Chromium-based)权限提升漏洞（CNVD-2025-23055）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-09-30",
+    "update_time": "2025-09-30",
+    "data_summary": "4dbb3b5331245f3278f53f362ad826e2"
+}

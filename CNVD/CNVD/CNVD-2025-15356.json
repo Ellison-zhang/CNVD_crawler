@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-09 10:04:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15356",
+    "spider_time": 1752055464081,
+    "name": "GNU C库存在未明漏洞",
+    "cnvd": "CNVD-2025-15356",
+    "publish": "2025-07-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:P/A:P",
+    "product": "[\"Gnu GNU C\\u5e93 >=2.39\"]",
+    "cve": "CVE-2025-5702",
+    "description": "GNU C库是GNU项目开发的C标准库实现，为Linux系统提供核心的API支持，是大多数C程序运行的基础。GNU C库存在安全漏洞，该漏洞源于在向向量寄存器v20至v31写入数据时，未保存调用者的内容，这些寄存器根据powerpc64le ABI被定义为非易失寄存器。攻击者可利用该漏洞覆盖寄存器内容，改变调用者的控制流，或泄露函数输入字符串至程序的其他部分。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://sourceware.org/bugzilla/show_bug.cgi?id=33056",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-07-09",
+    "update_time": "2025-07-09",
+    "data_summary": "54913e49211c3d573703fa5b7a2db325"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-20 09:04:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13127",
+    "spider_time": 1750410290872,
+    "name": "WordPress Inset plugin文件包含漏洞",
+    "cnvd": "CNVD-2025-13127",
+    "publish": "2025-06-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Inset plugin <=1.18.0\"]",
+    "cve": "CVE-2025-26592",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Inset plugin存在文件包含漏洞，该漏洞源于未对本地文件资源的调用做有效过滤，攻击者可利用该漏洞导致PHP本地文件包含。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/theme/inset/vulnerability/wordpress-inset-1-18-0-local-file-inclusion-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "6c9bdd98d394f23cb37aad6ef5ff585d"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-10 10:05:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23282",
+    "spider_time": 1760090701520,
+    "name": "PyTorch信息泄露漏洞",
+    "cnvd": "CNVD-2025-23282",
+    "publish": "2025-10-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Pytorch Pytorch <2.7.0\"]",
+    "cve": "CVE-2025-46150",
+    "description": "PyTorch是PyTorch开源的一个Python包。PyTorch存在信息泄露漏洞，该漏洞源于使用torch.compile时FractionalMaxPool2d产生不一致结果，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://gist.github.com/shaoyuyoung/4bcefba4004f8271e64b5185c95a248a",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://pytorch.org/get-started/previous-versions/?ajs_aid=277996d0-7b09-4ed6-9cea-e4ec582778fb",
+    "patch": "PyTorch信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-28",
+    "open_time": "2025-10-10",
+    "update_time": "2025-10-10",
+    "data_summary": "c8501a610a26cc8c343686cbcb4c8d2d"
+}

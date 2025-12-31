@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-25 04:08:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19354",
+    "spider_time": 1756094882504,
+    "name": "Apple多款产品存在越界写入漏洞",
+    "cnvd": "CNVD-2025-19354",
+    "publish": "2025-08-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:C/I:C/A:N",
+    "product": "[\"Apple iPadOS\\u200c <17.7.10\", \"Apple iPadOS\\u200c >=18.0\\uff0c<18.6.2\", \"Apple iPhone OS <18.6.2\", \"Apple MacOS >=14.0\\uff0c<14.7.8\", \"Apple MacOS >=15.0\\uff0c<15.6.1\", \"Apple MacOS >=13.0.0\\uff0c<13.7.8\"]",
+    "cve": "CVE-2025-43300",
+    "description": "iPadOS‌是苹果公司为iPad设备开发的移动端操作系统，它是基于iOS开发的，专门针对iPad进行优化。iPhone OS是苹果公司为iPhone和iPod touch开发的操作系统‌。macOS是一套由苹果开发的运行于Macintosh系列电脑上的操作系统。‌Apple iPadOS‌、iPhone OS及macOS存在越界写入漏洞，该漏洞存在于Image I/O框架中，攻击者可利用漏洞在处理恶意图像文件可能会导致内存损坏，还可能进一步发起其他攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43300",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.apple.com/en-us/124925",
+    "patch": "Apple多款产品存在越界写入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-25",
+    "update_time": "2025-08-25",
+    "data_summary": "22cf7a724edc8a09de9cdc3d6ade0d1a"
+}

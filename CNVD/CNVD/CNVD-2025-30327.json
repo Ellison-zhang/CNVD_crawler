@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-10 03:30:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30327",
+    "spider_time": 1765337450616,
+    "name": "WordPress插件Extensions for Leaflet Map跨站脚本漏洞",
+    "cnvd": "CNVD-2025-30327",
+    "publish": "2025-12-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Extensions for Leaflet Map plugin <=4.7\"]",
+    "cve": "CVE-2025-12369",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件Extensions for Leaflet Map存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/extensions-leaflet-map/tags/4.7/php/geojsonmarker.php#L90",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/extensions-leaflet-map",
+    "patch": "WordPress插件Extensions for Leaflet Map跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-11",
+    "open_time": "2025-12-10",
+    "update_time": "2025-12-10",
+    "data_summary": "c99d6cfa7d27e3d72515df93f0710f59"
+}

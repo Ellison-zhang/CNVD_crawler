@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-25 02:27:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03614",
+    "spider_time": 1740450439366,
+    "name": "TOTOLINK EX1800T cstecgi.cgi sub_40662C堆栈溢出漏洞",
+    "cnvd": "CNVD-2025-03614",
+    "publish": "2025-02-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK EX1800T 9.1.0cu.2112_B20220316\"]",
+    "cve": "CVE-2024-12352",
+    "description": "TOTOLINK EX1800T是中国吉翁电子（TOTOLINK）公司的一款Wi-Fi范围扩展器。TOTOLINK EX1800T cstecgi.cgi sub_40662C存在堆栈溢出漏洞，该漏洞源于/cgi-bin/cstecgi.cgi文件的sub_40662C函数的ssid参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-12352",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.totolink.net/",
+    "patch": "TOTOLINK EX1800T cstecgi.cgi sub_40662C堆栈溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-13",
+    "open_time": "2025-02-25",
+    "update_time": "2025-02-25",
+    "data_summary": "bc81ef427ebcf02f4b33bc294dc1cd6a"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-21 09:04:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29171",
+    "spider_time": 1763715865021,
+    "name": "SAP Business Connector输入验证错误漏洞",
+    "cnvd": "CNVD-2025-29171",
+    "publish": "2025-11-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"SAP SAP Business Connector 4.8\"]",
+    "cve": "CVE-2025-42893",
+    "description": "SAP Business Connector是德国思爱普（SAP）公司的一种中间件。SAP Business Connector存在输入验证错误漏洞，攻击者可利用该漏洞导致敏感信息泄露和未授权操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-42893",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://url.sap/sapsecuritypatchday",
+    "patch": "SAP Business Connector输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-11-21",
+    "update_time": "2025-11-21",
+    "data_summary": "abd2f2832914c03285fba6d1f7bbfb91"
+}

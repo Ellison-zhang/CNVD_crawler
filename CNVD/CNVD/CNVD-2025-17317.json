@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 08:06:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17317",
+    "spider_time": 1753949177882,
+    "name": "WordPress JetTabs跨站脚本漏洞",
+    "cnvd": "CNVD-2025-17317",
+    "publish": "2025-07-31",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:C",
+    "product": "[\"WordPress JetTabs <=2.2.9\"]",
+    "cve": "CVE-2025-53984",
+    "description": "WordPress JetTabs是Elementor页面构建器的插件，主要用于在WordPress网站中添加时尚的标签和选项卡功能，支持通过Elementor小部件构建丰富内容并自定义样式。WordPress JetTabs存在跨站脚本漏洞，该漏洞源于输入中和不当，攻击者可利用该漏洞通过跨站脚本攻击，篡改网页内容，误导用户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-53984",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress JetTabs跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-07-31",
+    "update_time": "2025-07-31",
+    "data_summary": "641bb05d45f47347977e89fec50fee84"
+}

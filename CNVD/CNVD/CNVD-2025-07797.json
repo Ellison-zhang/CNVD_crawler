@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-21 07:04:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07797",
+    "spider_time": 1745219070046,
+    "name": "NETGEAR WNR854T SetDefaultConnectionService函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-07797",
+    "publish": "2025-04-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR WNR854T 1.5.2\"]",
+    "cve": "CVE-2024-54808",
+    "description": "NETGEAR WNR854T是美国网件（NETGEAR）公司的一款无线路由器。NETGEAR WNR854T 1.5.2版本存在缓冲区溢出漏洞，该漏洞源于SetDefaultConnectionService函数未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-54808",
+    "solution": "目前没有详细解决方案提供：\nhttps://faultpoint.com/post/2025-03-25-8-cves-on-the-wnr854t-junkyard/#803",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-21",
+    "open_time": "2025-04-21",
+    "update_time": "2025-04-21",
+    "data_summary": "59aa8b6968156bfbce3a3f30a0de72c4"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-29 12:12:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24715",
+    "spider_time": 1761739951101,
+    "name": "SAMSUNG Notes越界读入漏洞（CNVD-2025-24715）",
+    "cnvd": "CNVD-2025-24715",
+    "publish": "2025-10-24",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Samsung Notes <4.4.26.71\"]",
+    "cve": "CVE-2025-20920",
+    "description": "SAMSUNG Notes是韩国三星（SAMSUNG）公司的一个应用软件。用于提供一个记录功能。SAMSUNG Notes存在越界读入漏洞，攻击者可利用该漏洞读取越界内存。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=03",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=03",
+    "patch": "SAMSUNG Notes越界读入漏洞（CNVD-2025-24715）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "cb4f70171e3211ebcc6e74fa2d3c4566"
+}

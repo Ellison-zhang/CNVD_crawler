@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-30 10:05:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11233",
+    "spider_time": 1748599506748,
+    "name": "D-Link DWR-M961缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11233",
+    "publish": "2025-05-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DWR-M961 1.1.36\"]",
+    "cve": "CVE-2025-3785",
+    "description": "D-Link DWR-M961是中国友讯（D-Link）公司的一款路由器。D-Link DWR-M961存在缓冲区溢出漏洞，该漏洞源于文件/boafrm/formStaticDHCP中参数Hostname未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/ZOKEYE/CVE/blob/main/D-link.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.dlink.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-30",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "6c26ebaf0bfd519d7a4ea13de1a39ae1"
+}

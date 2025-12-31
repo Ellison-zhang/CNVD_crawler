@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 08:06:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22671",
+    "spider_time": 1758873972344,
+    "name": "Complaint Management System /admin/state.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-22671",
+    "publish": "2025-09-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Complaint Management System Complaint Management System 1.0\"]",
+    "cve": "CVE-2024-12977",
+    "description": "Complaint Management System是一个投诉管理系统。Complaint Management System存在SQL注入漏洞，该漏洞源于/admin/state.php文件的state参数的输入缺乏充分的验证。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.289353",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-30",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "26142e9d8e5ea5cbfd716953a08df368"
+}

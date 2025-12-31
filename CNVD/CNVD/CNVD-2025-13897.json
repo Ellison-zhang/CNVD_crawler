@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 07:04:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13897",
+    "spider_time": 1751007858652,
+    "name": "TOTOLINK CP450硬编码漏洞",
+    "cnvd": "CNVD-2025-13897",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK CP450 4.1.0cu.747_B20191224\"]",
+    "cve": "CVE-2024-7332",
+    "description": "TOTOLINK CP450是一款由中国吉翁电子（TOTOLINK）公司生产的无线网桥设备‌。TOTOLINK CP450存在硬编码漏洞。这会影响组件Telnet Service的/web_cste/cgi-bin/product.ini文件的未知部分。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-7332",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-01",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "38f6489a358fa41e518b0a25006f4a5c"
+}

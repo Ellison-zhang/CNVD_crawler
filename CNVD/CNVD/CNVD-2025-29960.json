@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-04 07:06:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29960",
+    "spider_time": 1764831971405,
+    "name": "Microsoft Nuance PowerScribe 360信息泄漏漏洞",
+    "cnvd": "CNVD-2025-29960",
+    "publish": "2025-12-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Microsoft Nuance PowerScribe 360 4.0.1\", \"Microsoft Nuance PowerScribe 360 4.0.2\", \"Microsoft Nuance PowerScribe 360 4.0.3\", \"Microsoft Nuance PowerScribe 360 4.0.4\", \"Microsoft Nuance PowerScribe 360 4.0.5\", \"Microsoft Nuance PowerScribe 360 4.0.6\", \"Microsoft Nuance PowerScribe 360 4.0.7\", \"Microsoft Nuance PowerScribe 360 4.0.8\", \"Microsoft Nuance PowerScribe 360 4.0.9\", \"Microsoft Nuance PowerScribe One 2019.1\", \"Microsoft Nuance PowerScribe One 2019.10\", \"Microsoft Nuance PowerScribe One 2019.2\", \"Microsoft Nuance PowerScribe One 2019.3\", \"Microsoft Nuance PowerScribe One 2019.4\", \"Microsoft Nuance PowerScribe One 2019.5\", \"Microsoft Nuance PowerScribe One 2019.6\", \"Microsoft Nuance PowerScribe One 2019.7\", \"Microsoft Nuance PowerScribe One 2019.8\", \"Microsoft Nuance PowerScribe One 2019.9\", \"Microsoft PowerScribe One 2023.1 SP2 Patch 7\"]",
+    "cve": "CVE-2025-30398",
+    "description": "Microsoft Nuance PowerScribe 360是医疗影像报告系统，主要用于放射科的语音识别、报告生成和工作流程管理。Microsoft Nuance PowerScribe 360存在信息泄漏漏洞，该漏洞是由于授权验证不当造成的。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-30398",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2025-30398",
+    "patch": "Microsoft Nuance PowerScribe 360信息泄漏漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-12-04",
+    "update_time": "2025-12-04",
+    "data_summary": "4a193a0526fa03263c6ade16b66be942"
+}

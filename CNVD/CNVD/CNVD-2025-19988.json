@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-02 04:04:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19988",
+    "spider_time": 1756785890041,
+    "name": "Google Android代码执行漏洞（CNVD-2025-19988）",
+    "cnvd": "CNVD-2025-19988",
+    "publish": "2025-09-02",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Android 13\", \"Google Android 14\", \"Google android 15\"]",
+    "cve": "CVE-2025-0084",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://source.android.com/security/bulletin/2025-03-01",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/docs/security/bulletin/2025-03-01?hl=zh-cn",
+    "patch": "Google Android代码执行漏洞（CNVD-2025-19988）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-28",
+    "open_time": "2025-09-02",
+    "update_time": "2025-09-02",
+    "data_summary": "3f1a9bb58c5d941269ffb68771816a16"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-21 01:32:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07786",
+    "spider_time": 1745199134521,
+    "name": "Microsoft Windows USB Print Driver权限提升漏洞",
+    "cnvd": "CNVD-2025-07786",
+    "publish": "2025-04-10",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Windows Server 2022\", \"Microsoft Windows 10 21H2\", \"Microsoft Windows 11 22H2\", \"Microsoft Windows 10 22H2\", \"Microsoft Windows 11 23H2\", \"Microsoft Windows 11 22H3\", \"Microsoft Windows Server 2025\", \"Microsoft Windows 11 24h2\"]",
+    "cve": "CVE-2025-26639",
+    "description": "Microsoft Windows USB Print Driver是Microsoft提供的USB打印机设备驱动程序。Microsoft Windows USB Print Driver存在权限提升漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-26639",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2025-26639",
+    "patch": "Microsoft Windows USB Print Driver权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-09",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "ef070dd0c4d971c58e1ed6ebf388941a"
+}

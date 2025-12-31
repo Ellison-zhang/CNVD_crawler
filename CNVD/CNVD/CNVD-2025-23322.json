@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-11 08:05:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23322",
+    "spider_time": 1760169933139,
+    "name": "Teachers Record Management System add-teacher.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-23322",
+    "publish": "2025-10-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"(\\u6682\\u65e0)\"]",
+    "cve": "CVE-2024-51063",
+    "description": "Teachers Record Management System是一个教师记录管理系统。Teachers Record Management System存在SQL注入漏洞，该漏洞源于存在add-teacher.php文件通过手机号码或电子邮件参数进行的SQL注入漏洞。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-51063",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-11",
+    "open_time": "2025-10-11",
+    "update_time": "2025-10-11",
+    "data_summary": "4b6d9d3d31ec75c4fb72463696b1fa5f"
+}

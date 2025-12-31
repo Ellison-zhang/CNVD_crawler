@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-10 03:31:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30331",
+    "spider_time": 1765337466399,
+    "name": "WordPress插件MeetingHub信息泄露漏洞",
+    "cnvd": "CNVD-2025-30331",
+    "publish": "2025-12-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress MeetingHub plugin <=1.23.9\"]",
+    "cve": "CVE-2025-62038",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件MeetingHub存在信息泄露漏洞，攻击者可利用该漏洞导致检索敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/meetinghub/vulnerability/wordpress-meetinghub-plugin-1-23-9-sensitive-data-exposure-vulnerability",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/meetinghub/",
+    "patch": "WordPress插件MeetingHub信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-11",
+    "open_time": "2025-12-10",
+    "update_time": "2025-12-10",
+    "data_summary": "85986ed470637fcd89477d09820cc646"
+}

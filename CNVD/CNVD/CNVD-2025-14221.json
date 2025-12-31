@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 10:05:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14221",
+    "spider_time": 1751018725231,
+    "name": "D-Link DIR-619L堆栈缓冲区溢出漏洞（CNVD-2025-14221）",
+    "cnvd": "CNVD-2025-14221",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-619L 2.06B01\"]",
+    "cve": "CVE-2025-6614",
+    "description": "D-Link DIR-619L是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-619L存在堆栈缓冲区溢出漏洞，该漏洞是由于文件/goform/formSetWANType_Wizard5的函数formSetWANType_Wizard5中的边界检查不正确造成的。攻击者可利用该漏洞使缓冲区溢出，在系统上执行任意代码，或导致应用程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6614",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/wudipjq/my_vuln/blob/main/D-Link6/vuln_75/75.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "3a4c5135d4ce43e3685d6a0670119947"
+}

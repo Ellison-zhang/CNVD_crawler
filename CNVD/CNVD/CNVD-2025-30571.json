@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-12 09:07:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30571",
+    "spider_time": 1765530446082,
+    "name": "Tenda CH22缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-30571",
+    "publish": "2025-12-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda CH22 1.0.0.1\"]",
+    "cve": "CVE-2025-13400",
+    "description": "Tenda CH22是中国腾达（Tenda）公司的一款网络设备。Tenda CH22 1.0.0.1版本存在缓冲区溢出漏洞，该漏洞源于文件/goform/WrlExtraGet中参数chkHz未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-13400",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/f000x0/cve/issues/14",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-21",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "deb81baca7fe52134e04a73374a71cdb"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 07:06:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17308",
+    "spider_time": 1753945605148,
+    "name": "WordPress WP Applink跨站脚本漏洞",
+    "cnvd": "CNVD-2025-17308",
+    "publish": "2025-07-31",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress WP Applink <=0.4.1\"]",
+    "cve": "CVE-2025-6385",
+    "description": "WordPress WP Applink是一款用于生成iTunes关联链接的WordPress插件，主要用于在文章中嵌入iPhone、iPad、Mac应用及音乐、电影等iTunes产品的推广链接。WordPress WP Applink存在跨站脚本漏洞，该漏洞源于输入清理和输出转义不足，攻击者可利用该漏洞通过在用户浏览器中注入恶意脚本，这些脚本将在用户访问注入的页面时执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6385",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-30",
+    "open_time": "2025-07-31",
+    "update_time": "2025-07-31",
+    "data_summary": "65e37b9c7d8e6de4178548893ef90d95"
+}

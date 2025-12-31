@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-27 09:04:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10715",
+    "spider_time": 1748336661738,
+    "name": "PCMan FTP Server缓冲区溢出漏洞（CNVD-2025-10715）",
+    "cnvd": "CNVD-2025-10715",
+    "publish": "2025-05-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"PCMan PCMan FTP Server 2.0.7\"]",
+    "cve": "CVE-2025-4288",
+    "description": "PCMan FTP Server是PCMan开源的一套FTP服务器软件。PCMan FTP Server存在缓冲区溢出漏洞，该漏洞源于RNFR命令处理器。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://fitoxs.com/exploit/exploit-aab361888e671e1705f94c27c26f9bc7c9c63d3c66d5df89e31dcaf7fa17f528.txt\nhttps://vuldb.com/?ctiid.307395\nhttps://vuldb.com/?id.307395\nhttps://vuldb.com/?submit.561625",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://pcman.openfoundry.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-08",
+    "open_time": "2025-05-27",
+    "update_time": "2025-05-27",
+    "data_summary": "78ab4524cdba741d11520abd0b466aef"
+}

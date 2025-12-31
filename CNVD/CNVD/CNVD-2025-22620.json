@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 09:04:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22620",
+    "spider_time": 1758877466554,
+    "name": "Nipah virus Testing Management System profile.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-22620",
+    "publish": "2025-09-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Nipah Virus Testing Management System Nipah Virus Testing Management System 1.0\"]",
+    "cve": "CVE-2025-4026",
+    "description": "Nipah Virus Testing Management System是一个在线病毒诊断平台。Nipah Virus Testing Management System 存在SQL注入漏洞，该漏洞源于文件/profile.php中参数adminname/mobilenumber缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?ctiid.306389",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-07",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "df8c44eff0493c5feb3afe3ef565725a"
+}

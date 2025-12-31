@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 08:05:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18599",
+    "spider_time": 1755245115460,
+    "name": "OpenBao存在未明漏洞（CNVD-2025-18599）",
+    "cnvd": "CNVD-2025-18599",
+    "publish": "2025-08-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"openbao openbao >=0.1.0\\uff0c<=2.3.1\"]",
+    "cve": "CVE-2025-54998",
+    "description": "OpenBao是OpenBao开源的一个敏感数据管理软件。OpenBao存在安全漏洞，攻击者可利用该漏洞导致暴力破解。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://discuss.hashicorp.com/t/hcsec-2025-16-vault-userpass-and-ldap-user-lockout-bypass/76035",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/openbao/openbao/releases",
+    "patch": "OpenBao存在未明漏洞（CNVD-2025-18599）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "0cd6934919e903cb0e96028e77c02bf4"
+}

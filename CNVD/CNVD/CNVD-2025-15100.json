@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-04 09:04:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15100",
+    "spider_time": 1751619885950,
+    "name": "WordPress Download Attachments plugin访问控制不当漏洞",
+    "cnvd": "CNVD-2025-15100",
+    "publish": "2025-07-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"WordPress Download Attachments plugin <=1.3.1\"]",
+    "cve": "CVE-2025-49995",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Download Attachments plugin存在访问控制不当漏洞，该漏洞源于用户控制密钥导致授权绕过，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/download-attachments/vulnerability/wordpress-download-attachments-plugin-1-3-1-insecure-direct-object-references-idor-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/download-attachments/",
+    "patch": "WordPress Download Attachments plugin访问控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-04",
+    "update_time": "2025-07-04",
+    "data_summary": "e8521acb09c2cd205eb39dcbc3ab9abf"
+}

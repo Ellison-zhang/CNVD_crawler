@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-10 08:05:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15412",
+    "spider_time": 1752134738866,
+    "name": "WordPress WP Front-end login and register跨站脚本漏洞",
+    "cnvd": "CNVD-2025-15412",
+    "publish": "2025-07-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress WP Front-end login and register <=2.1.0\"]",
+    "cve": "CVE-2024-11405",
+    "description": "WP Front-end login and register是WordPress前端账户管理插件，主要用于在网站前端实现用户注册、登录及密码修改功能，无需跳转至WordPress后台。WordPress WP Front-end login and register存在跨站脚本漏洞，该漏洞源于对参数email和wpmp_reset_password_token的输入清理和输出转义不足，攻击者可利用该漏洞通过跨站脚本攻击，篡改网页内容。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-11405",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.com/zh-cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-08",
+    "open_time": "2025-07-10",
+    "update_time": "2025-07-10",
+    "data_summary": "f466a79fbfc5c125ee381e0d7b765d42"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-07 08:06:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15166",
+    "spider_time": 1751875616903,
+    "name": "Adobe InDesign空指针解引用漏洞（CNVD-2025-15166）",
+    "cnvd": "CNVD-2025-15166",
+    "publish": "2025-07-07",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Adobe Adobe InDesign <=19.5.2\", \"Adobe Adobe InDesign <=20.2\"]",
+    "cve": "CVE-2025-30320",
+    "description": "Adobe InDesign是美国奥多比（Adobe）公司的一套排版编辑应用程序。Adobe InDesign ID19.5.2版本和ID20.2及之前版本存在空指针解引用漏洞，攻击者可利用该漏洞导致应用程序拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/indesign/apsb25-37.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/indesign/apsb25-37.html",
+    "patch": "Adobe InDesign空指针解引用漏洞（CNVD-2025-15166）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-07-07",
+    "update_time": "2025-07-07",
+    "data_summary": "3c5b1bc8db3b747a8712ff8bd815bc35"
+}

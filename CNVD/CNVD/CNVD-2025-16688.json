@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-23 10:04:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16688",
+    "spider_time": 1753265078005,
+    "name": "Microsoft Office代码执行漏洞（CNVD-2025-16688）",
+    "cnvd": "CNVD-2025-16688",
+    "publish": "2025-07-23",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Office 2016\", \"Microsoft Office Online Server\", \"Microsoft Office 2019\", \"Microsoft 365 Apps for Enterprise\", \"Microsoft Office LTSC 2021\", \"Microsoft Office LTSC for Mac 2021\", \"Microsoft Office for Android\", \"Microsoft Microsoft Office LTSC 2024\", \"Microsoft Office LTSC for Mac 2024\"]",
+    "cve": "CVE-2025-49697",
+    "description": "Microsoft Office是美国微软（Microsoft）公司的一款办公软件套件产品。该产品常用组件包括Word、Excel、Access、Powerpoint、FrontPage等。Microsoft Office存在代码执行漏洞，该漏洞是由于不当边界检查引起。攻击者可利用该漏洞在系统上执行任意代码或导致应用程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49697",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49697",
+    "patch": "Microsoft Office代码执行漏洞（CNVD-2025-16688）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-23",
+    "update_time": "2025-07-23",
+    "data_summary": "42a78ea2d2a1aacf9e62ddaa022021fc"
+}

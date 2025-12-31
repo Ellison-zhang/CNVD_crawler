@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-09 10:04:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11931",
+    "spider_time": 1749463468762,
+    "name": "GNU PSPP拒绝服务漏洞",
+    "cnvd": "CNVD-2025-11931",
+    "publish": "2025-06-09",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:N/I:N/A:P",
+    "product": "[\"Gnu GNU PSPP <=2.0.1\"]",
+    "cve": "CVE-2025-47229",
+    "description": "GNU PSPP是一款用于数据采样、统计和分析的应用程序。GNU PSPP存在拒绝服务漏洞，攻击者可利用该漏洞导致断言失败和应用程序退出。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://savannah.gnu.org/bugs/?67049",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-09",
+    "update_time": "2025-06-09",
+    "data_summary": "cfc999a841ea08e21caae1466a64e8da"
+}

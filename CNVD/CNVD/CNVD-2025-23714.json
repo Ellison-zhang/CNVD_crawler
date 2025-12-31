@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-15 03:19:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23714",
+    "spider_time": 1760498350707,
+    "name": "IBM OpenPages with Watson加密问题漏洞",
+    "cnvd": "CNVD-2025-23714",
+    "publish": "2025-10-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"IBM OpenPages with Watson 9.0\", \"IBM OpenPages with Watson 8.3\"]",
+    "cve": "CVE-2024-49784",
+    "description": "IBM OpenPages with Watson是美国国际商业机器（IBM）公司的一个AI驱动的金融风险分析解决方案。该平台基于AI技术来预测风险系数，将风险数据通过集成、自动识别、测量、监控、分析、管理等步骤将金融活动中的风险最小化。IBM OpenPages with Watson存在加密问题漏洞，该漏洞源于AES加密和CBC模式存储安全性不足，攻击者利用该漏洞导致数据泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-49784",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7239145",
+    "patch": "IBM OpenPages with Watson加密问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-10-15",
+    "update_time": "2025-10-15",
+    "data_summary": "f0d5eeb24fc5c92df08a4390ad475d96"
+}

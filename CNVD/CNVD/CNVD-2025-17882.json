@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 07:07:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17882",
+    "spider_time": 1754636869888,
+    "name": "WordPress FunnelCockpit跨站脚本漏洞",
+    "cnvd": "CNVD-2025-17882",
+    "publish": "2025-08-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress FunnelCockpit <=1.4.2\"]",
+    "cve": "CVE-2025-6588",
+    "description": "WordPress FunnelCockpit是一个用于追踪和分析潜在客户从初步接触到最终成交全过程的开源工具，基于WordPress平台开发。WordPress FunnelCockpit存在跨站脚本漏洞，该漏洞源于输入清理和输出转义不足，攻击者可利用该漏洞通过在用户浏览器中注入恶意脚本，执行恶意脚本。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6588",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-30",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "06bff9df2e2f432e41c7699576984eda"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-13 02:25:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02820",
+    "spider_time": 1739413505830,
+    "name": "IBM Maximo Application Suite跨站脚本漏洞（CNVD-2025-02820）",
+    "cnvd": "CNVD-2025-02820",
+    "publish": "2025-02-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"IBM IBM Maximo Application Suite 9.0.0\"]",
+    "cve": "CVE-2024-35145",
+    "description": "IBM Maximo Application Suite是美国国际商业机器（IBM）公司的一个为智能资产管理、监控、维护、计算机视觉、安全性和可靠性提供的单一平台。IBM Maximo Application Suite 9.0.0版本存在跨站脚本漏洞。该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞在Web UI中嵌入任意JavaScript代码，从而改变预期功能，可能导致受信任会话中的凭据泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-35145",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7174956",
+    "patch": "IBM Maximo Application Suite跨站脚本漏洞（CNVD-2025-02820）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-02-13",
+    "update_time": "2025-02-13",
+    "data_summary": "ab8f7865032508e88cb5aa9bc5a9217a"
+}

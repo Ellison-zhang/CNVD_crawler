@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-04 06:11:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29645",
+    "spider_time": 1764828666418,
+    "name": "Google Chrome实现不当漏洞",
+    "cnvd": "CNVD-2025-29645",
+    "publish": "2025-12-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <142.0.7444.166\"]",
+    "cve": "CVE-2025-13042",
+    "description": "Google Chrome是由‌谷歌公司开发的免费网页浏览器。Google Chrome存在实现不当漏洞，该漏洞源于V8实现不当，攻击者可利用该漏洞通过特制HTML页面利用堆损坏。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/11/stable-channel-update-for-desktop_11.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.google.com/intl/zh-CN/chrome/",
+    "patch": "Google Chrome实现不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2025-12-02",
+    "update_time": "2025-12-02",
+    "data_summary": "b4a245a8bf5e0236c0e2a56652a4864b"
+}

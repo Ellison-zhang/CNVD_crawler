@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-08 10:04:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15269",
+    "spider_time": 1751969064860,
+    "name": "Dell Encryption Admin Utilities不正确链路解析漏洞",
+    "cnvd": "CNVD-2025-15269",
+    "publish": "2025-07-08",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL Encryption Admin Utilities <11.10.2\"]",
+    "cve": "CVE-2025-36564",
+    "description": "Dell Encryption Admin Utilities是美国Dell公司的一款用于数据加密管理和故障排除的软件。Dell Encryption Admin Utilities 11.10.2之前版本存在不正确链路解析漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dell.com/support/kbdoc/en-us/000325203/dsa-2025-224",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000325203/dsa-2025-224",
+    "patch": "Dell Encryption Admin Utilities不正确链路解析漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-07-08",
+    "update_time": "2025-07-08",
+    "data_summary": "528715fed497290621518ac965b9a0b4"
+}

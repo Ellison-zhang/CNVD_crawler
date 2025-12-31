@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-12 10:05:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30594",
+    "spider_time": 1765533928371,
+    "name": "WordPress插件LearnPress信息泄露漏洞",
+    "cnvd": "CNVD-2025-30594",
+    "publish": "2025-12-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"WordPress LearnPress Plugin <=4.2.9.4\"]",
+    "cve": "CVE-2025-11368",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件LearnPress存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/learnpress/trunk/inc/rest-api/v1/frontend/class-lp-rest-ajax-controller.php#L23",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/learnpress",
+    "patch": "WordPress插件LearnPress信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-25",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "61e810c020a02d614fadc48f8381669e"
+}

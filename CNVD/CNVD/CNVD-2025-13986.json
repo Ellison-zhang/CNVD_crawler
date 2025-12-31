@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:09:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13986",
+    "spider_time": 1751011759962,
+    "name": "深圳市吉祥腾达科技有限公司CH22存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-13986",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u5409\\u7965\\u817e\\u8fbe\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 CH22 V1.0.0.1\"]",
+    "cve": null,
+    "description": "CH22是一款企业级无线路由器，适用于中小型企业或家庭办公环境。它支持单频2.4GHz无线网络，最高传输速率可达450Mbps。深圳市吉祥腾达科技有限公司CH22存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.tenda.com.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "2893b69904a4e42991a00715e9c6a84f"
+}

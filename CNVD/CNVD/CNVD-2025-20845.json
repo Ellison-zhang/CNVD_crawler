@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-10 06:06:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20845",
+    "spider_time": 1757484382464,
+    "name": "DELL Alienware Command Center链接跟随漏洞",
+    "cnvd": "CNVD-2025-20845",
+    "publish": "2025-09-08",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL Alienware Command Center <5.10.2.0\"]",
+    "cve": "CVE-2025-43726",
+    "description": "DELL Alienware Command Center是戴尔（Dell）为Alienware系列游戏电脑、显示器及外围设备开发的专属控制软件，主要用于优化硬件性能、个性化设置及系统管理。DELL Alienware Command Center存在链接跟随漏洞，该漏洞源于链接解析不当，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43726",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000361664/dsa-2025-336",
+    "patch": "DELL Alienware Command Center链接跟随漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-04",
+    "open_time": "2025-09-09",
+    "update_time": "2025-09-09",
+    "data_summary": "727f4d6ba5b38585776f020d06ae2099"
+}

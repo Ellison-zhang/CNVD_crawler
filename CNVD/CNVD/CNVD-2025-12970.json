@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-20 20:04:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12970",
+    "spider_time": 1750449870212,
+    "name": "武汉达梦数据库股份有限公司达梦新云缓存数据库存在二进制漏洞",
+    "cnvd": "CNVD-2025-12970",
+    "publish": "2025-06-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u6b66\\u6c49\\u8fbe\\u68a6\\u6570\\u636e\\u5e93\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u8fbe\\u68a6\\u65b0\\u4e91\\u7f13\\u5b58\\u6570\\u636e\\u5e93 <=V1.0-20241213-c8d8c6a6\"]",
+    "cve": null,
+    "description": "达梦新云缓存数据库是自主研发的深度兼容原生Redis的Key-Value数据库。武汉达梦数据库股份有限公司达梦新云缓存数据库存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修补方案，建议用户下载使用：\nhttps://www.dameng.com/list_103.html",
+    "patch": "武汉达梦数据库股份有限公司达梦新云缓存数据库存在二进制漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-04-30",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-21",
+    "data_summary": "0f246b25c8dce7866d4c05f195c67ab2"
+}

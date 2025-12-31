@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-20 08:05:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13071",
+    "spider_time": 1750406724205,
+    "name": "D-Link DAR-7000命令注入漏洞",
+    "cnvd": "CNVD-2025-13071",
+    "publish": "2025-06-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"D-Link DAR-7000 3.2\"]",
+    "cve": "CVE-2025-1800",
+    "description": "D-Link DAR-7000是一款互联网行为管理和审计网关设备，提供互联网行为管理和审计功能。D-Link DAR-7000存在命令注入漏洞，该漏洞源于/view/vpn/sxh_vpn/sxh_vpnlic.php文件中的get_ip_addr_details函数ethname参数未经过正确的过滤或验证。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.298030\nhttps://vuldb.com/?ctiid.298030\nhttps://vuldb.com/?submit.502971\nhttps://github.com/sjwszt/CVE/blob/main/CVE_1.md\nhttps://www.dlink.com/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "a272de72e5e44de8146c686bdd64eaad"
+}

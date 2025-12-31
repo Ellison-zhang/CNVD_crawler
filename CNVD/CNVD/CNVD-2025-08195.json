@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 10:04:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08195",
+    "spider_time": 1745489042196,
+    "name": "北京中农信达信息技术有限公司三资管理系统存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-08195",
+    "publish": "2025-04-24",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:N/I:P/A:N",
+    "product": "[\"\\u5317\\u4eac\\u4e2d\\u519c\\u4fe1\\u8fbe\\u4fe1\\u606f\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 \\u4e09\\u8d44\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "北京中农信达信息技术有限公司成立于2004年，是一家专业化、系统化的三农信息化综合服务提供商。北京中农信达信息技术有限公司三资管理系统存在逻辑缺陷漏洞，攻击者可利用该漏洞越权添加用户。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.agrij.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-10",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "8891cf4a79d5e140e01bb7069401e43a"
+}

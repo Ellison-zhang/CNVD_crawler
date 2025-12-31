@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-09 08:06:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23124",
+    "spider_time": 1759997167507,
+    "name": "Tenda AC18 /goform/exeCommand命令注入漏洞",
+    "cnvd": "CNVD-2025-23124",
+    "publish": "2025-10-09",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda AC18 15.03.05.05\"]",
+    "cve": "CVE-2024-30891",
+    "description": "Tenda AC18是深圳市吉祥腾达科技有限公司于2016年7月推出的双频无线路由器，主要面向别墅及大户型家庭用户。Tenda AC18存在命令注入漏洞，该漏洞源于/goform/exeCommand中未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞通过构造cmdinput参数执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Lantern-r/IoT-vuln/blob/main/Tenda/AC18/formexeCommand.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2024-04-10",
+    "open_time": "2025-10-09",
+    "update_time": "2025-10-09",
+    "data_summary": "b99c2ff1d93f0e73c5f55c894357625b"
+}

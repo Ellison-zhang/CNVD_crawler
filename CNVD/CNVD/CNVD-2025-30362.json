@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-11 06:09:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30362",
+    "spider_time": 1765433367165,
+    "name": "Hostel Management System my-profile.php文件跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-30362",
+    "publish": "2025-12-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+    "product": "[\"Hostel Management System Hostel Management System 2.1\"]",
+    "cve": "CVE-2021-43137",
+    "description": "Hostel Management System是一套旅馆管理系统。Hostel Management System存在跨站请求伪造漏洞，该漏洞源于软件中my-profile.php中的name字段缺少有效的过滤与限制，目前没有详细漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://phpgurukul.com/employee-record-management-system-in-php-and-mysql/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-12-03",
+    "open_time": "2025-12-10",
+    "update_time": "2025-12-10",
+    "data_summary": "deee3f8ce014e167ece45b216dad19fe"
+}

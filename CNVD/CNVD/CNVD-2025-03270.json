@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-20 08:04:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03270",
+    "spider_time": 1740038680703,
+    "name": "SAP Supplier Relationship Management路径遍历漏洞",
+    "cnvd": "CNVD-2025-03270",
+    "publish": "2025-02-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"SAP supplier relationship management\"]",
+    "cve": "CVE-2025-25243",
+    "description": "SAP Supplier Relationship Management是一款领先的采购供给链管理软件,旨在帮助企业优化供给商关系,提高采购效率和质量。SAP Supplier Relationship Management存在路径遍历漏洞，远程攻击者可以利用该漏洞提交特殊的请求，可以应用程序上下文查看系统文件内容，获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-25243",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/february-2025.html",
+    "patch": "SAP Supplier Relationship Management路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-02-20",
+    "update_time": "2025-02-20",
+    "data_summary": "140d181d80dea88422073c14f4a590e6"
+}

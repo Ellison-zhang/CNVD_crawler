@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 08:05:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18598",
+    "spider_time": 1755245112245,
+    "name": "OpenBao存在未明漏洞（CNVD-2025-18598）",
+    "cnvd": "CNVD-2025-18598",
+    "publish": "2025-08-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:N",
+    "product": "[\"openbao openbao <=2.3.1\"]",
+    "cve": "CVE-2025-55001",
+    "description": "OpenBao是OpenBao开源的一个敏感数据管理软件。OpenBao 2.3.1及之前版本存在安全漏洞，攻击者可利用该漏洞导致MFA要求被绕过。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://discuss.hashicorp.com/t/hcsec-2025-20-vault-ldap-mfa-enforcement-bypass-when-using-username-as-alias/76092",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/openbao/openbao/releases",
+    "patch": "OpenBao存在未明漏洞（CNVD-2025-18598）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "e4d53cb9c787e76a2a070e2e68935135"
+}

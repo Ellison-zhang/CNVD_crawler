@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 11:03:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11834",
+    "spider_time": 1749207813787,
+    "name": "Samsung PENUP访问控制错误漏洞",
+    "cnvd": "CNVD-2025-11834",
+    "publish": "2025-06-06",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"Samsung samsung PENUP <3.9.19.32\"]",
+    "cve": "CVE-2025-20978",
+    "description": "Samsung  PENUP是韩国三星（SAMSUNG）公司的一个数字绘画应用程序。Samsung PENUP存在访问控制错误漏洞，该漏洞源于访问控制不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=05",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=05",
+    "patch": "Samsung PENUP访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "24e469237fd26e9e21a5170e3e60536f"
+}

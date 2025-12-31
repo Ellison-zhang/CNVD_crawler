@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-04 03:29:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29923",
+    "spider_time": 1764818942839,
+    "name": "ZEIT Next.js远程代码执行漏洞",
+    "cnvd": "CNVD-2025-29923",
+    "publish": "2025-12-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"ZEIT Next.js >=15.0.0\\uff0c<=15.0.4\", \"ZEIT Next.js >=15.1.0\\uff0c<=15.1.8\", \"ZEIT Next.js >=15.2.*\\uff0c<=15.5.6\", \"ZEIT Next.js >=16.0.0\\uff0c<=16.0.6\", \"ZEIT Next.js >=14.3.0\\uff0c<=canary.77\\u53ca\\u4ee5\\u4e0aCanary\\u7248\\u672c\"]",
+    "cve": "CVE-2025-66478",
+    "description": "Next.js是一个用于构建全栈Web应用程序的React框架。ZEIT Next.js存在远程代码执行漏洞，该漏洞源于Next.js 15.x和16.x版本在使用App Router时，依赖了存在缺陷的React服务端DOM包，攻击者可利用该漏洞注入恶意代码远程执行命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-66478",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
+    "patch": "ZEIT Next.js远程代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-04",
+    "open_time": "2025-12-04",
+    "update_time": "2025-12-04",
+    "data_summary": "9c9800e91793aae3da7da8093af415b7"
+}

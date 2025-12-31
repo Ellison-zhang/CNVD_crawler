@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 01:31:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18511",
+    "spider_time": 1755221513689,
+    "name": "深圳市明源云科技有限公司明源云ERP存在SQL注入漏洞（CNVD-2025-18511）",
+    "cnvd": "CNVD-2025-18511",
+    "publish": "2025-08-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u660e\\u6e90\\u4e91\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u660e\\u6e90\\u4e91ERP\"]",
+    "cve": null,
+    "description": "明源云ERP是一款由明源云科技有限公司开发的企业管理软件。深圳市明源云科技有限公司明源云ERP存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mingyuanyun.com",
+    "patch": "深圳市明源云科技有限公司明源云ERP存在SQL注入漏洞（CNVD-2025-18511）的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-07-01",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "435e88e1f849b96b3a7d5185056496ea"
+}

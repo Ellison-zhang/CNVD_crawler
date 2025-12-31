@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-29 12:12:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25552",
+    "spider_time": 1761739964103,
+    "name": "Hostel Management System /login-hm.inc.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-25552",
+    "publish": "2025-10-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Hostel Management System Hostel Management System 1.0\"]",
+    "cve": "CVE-2025-6155",
+    "description": "Hostel Management System是一套旅馆管理系统。Hostel Management System存在SQL注入漏洞，该漏洞源于/includes/login-hm.inc.php文件中Username参数缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/zzb1388/cve/issues/3",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-23",
+    "open_time": "2025-10-28",
+    "update_time": "2025-10-28",
+    "data_summary": "8258d6427b269e5a4108848917092dba"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-11 10:07:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15555",
+    "spider_time": 1752228445879,
+    "name": "Huawei HarmonyOS存在未明漏洞（CNVD-2025-15555）",
+    "cnvd": "CNVD-2025-15555",
+    "publish": "2025-07-11",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:N/A:P",
+    "product": "[\"Huawei HarmonyOS 5.0.0\"]",
+    "cve": "CVE-2025-48909",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS 5.0.0版本存在安全漏洞，攻击者可利用该漏洞影响服务机密性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-48909",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2025/6/",
+    "patch": "Huawei HarmonyOS存在未明漏洞（CNVD-2025-15555）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-10",
+    "open_time": "2025-07-11",
+    "update_time": "2025-07-11",
+    "data_summary": "81a75e9aed3856c5638c241ab9bce798"
+}

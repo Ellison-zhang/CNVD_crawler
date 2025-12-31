@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-14 10:04:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15645",
+    "spider_time": 1752487466029,
+    "name": "WordPress Team Showcase plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-15645",
+    "publish": "2025-07-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"WordPress Team Showcase plugin <25.05.13\"]",
+    "cve": "CVE-2025-49247",
+    "description": "WordPress Team Showcase Plugin是一种用于在网站展示团队成员的插件，主要用于企业或工作室官网，通过可视化方式展示核心成员信息以增强信任感。WordPress Team Showcase plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/team-showcase-cm/vulnerability/wordpress-team-showcase-plugin-25-05-13-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress Team Showcase plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-11",
+    "open_time": "2025-07-14",
+    "update_time": "2025-07-14",
+    "data_summary": "cebdb6670020fcbc08b7bc22d1b21243"
+}

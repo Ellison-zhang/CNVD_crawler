@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-10 08:06:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11983",
+    "spider_time": 1749542762011,
+    "name": "TOTOLINK A3100R comment缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11983",
+    "publish": "2025-06-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A3100R V5.9c.1527\"]",
+    "cve": "CVE-2025-45787",
+    "description": "TOTOLINK A3100R是中国吉翁电子（TOTOLINK）公司的一系列无线路由器。TOTOLINK A3100R存在缓冲区溢出漏洞，该漏洞源于setIpPortFilterRules中comment参数，攻击者可利用该漏洞使应用程序崩溃或以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/tree/main/ToTolink/A3100R-1",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/170/ids/36.html",
+    "patch": "TOTOLINK A3100R comment缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-12",
+    "open_time": "2025-06-10",
+    "update_time": "2025-06-10",
+    "data_summary": "9da00ed9813ae8a91251fb4abbde7b17"
+}

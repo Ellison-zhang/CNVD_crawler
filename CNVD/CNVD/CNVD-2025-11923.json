@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-09 09:04:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11923",
+    "spider_time": 1749459878690,
+    "name": "GNU coreutils缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11923",
+    "publish": "2025-06-09",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:P",
+    "product": "[\"Gnu GNU coreutils\"]",
+    "cve": "CVE-2025-5278",
+    "description": "GNU coreutils是GNU社区的一个核心工具组。GNU coreutils存在缓冲区溢出漏洞，该漏洞源于sort工具中函数begfield在处理不受信任的输入时出现边界错误，攻击者可利用该漏洞导致崩溃或数据泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://access.redhat.com/security/cve/CVE-2025-5278",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-30",
+    "open_time": "2025-06-09",
+    "update_time": "2025-06-09",
+    "data_summary": "e7b3dbabc4fe50f6dbb5f4cfa0108a44"
+}

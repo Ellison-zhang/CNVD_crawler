@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-09 03:30:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15322",
+    "spider_time": 1752031809792,
+    "name": "TOTOLINK A8000RU存在未明漏洞",
+    "cnvd": "CNVD-2025-15322",
+    "publish": "2025-07-09",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A8000RU v7.1cu.643_B20200521\"]",
+    "cve": "CVE-2024-28338",
+    "description": "TOTOLINK A8000RU是中国吉翁电子（TOTOLINK）公司的一款无线路由器。TOTOLINK A8000RU存在未明漏洞，攻击者可利用该漏洞通过提供特制的会话cookie登录到管理员帐户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/funny-mud-peee/IoT-vuls/blob/main/TOTOLINK%20A8000RU/TOTOlink%20A8000RU%20login%20bypass.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-14",
+    "open_time": "2025-07-09",
+    "update_time": "2025-07-09",
+    "data_summary": "e84403174794e9c0fe724932c545e06f"
+}

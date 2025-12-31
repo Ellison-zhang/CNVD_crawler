@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-14 10:04:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27923",
+    "spider_time": 1763114686335,
+    "name": "Calibre输入验证错误漏洞（CNVD-2025-27923）",
+    "cnvd": "CNVD-2025-27923",
+    "publish": "2025-11-14",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Calibre Calibre <=8.13.0\"]",
+    "cve": "CVE-2025-64486",
+    "description": "Calibre是一个开源免费的全能电子书阅读管理与格式转换工具。Calibre 8.13.0及之前版本存在输入验证错误漏洞，该漏洞源于处理FB2文件中的二进制资源时未验证文件名，攻击者可利用该漏洞导致任意文件写入和代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-64486",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/kovidgoyal/calibre/releases",
+    "patch": "Calibre输入验证错误漏洞（CNVD-2025-27923）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-12",
+    "open_time": "2025-11-14",
+    "update_time": "2025-11-14",
+    "data_summary": "21ea0c8388248dd7ee0d4cf2fc05e595"
+}

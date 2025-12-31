@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-09 03:17:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20776",
+    "spider_time": 1757387825302,
+    "name": "WordPress插件Abandoned Contact Form存在未明漏洞",
+    "cnvd": "CNVD-2025-20776",
+    "publish": "2025-09-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:C",
+    "product": "[\"WordPress Abandoned Contact Form plugin <=2.0\"]",
+    "cve": "CVE-2025-52817",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress插件Abandoned Contact Form存在安全漏洞，该漏洞源于缺少授权，攻击者利用该漏洞导致利用错误配置的访问控制安全级别。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/abandoned-contact-form-7/vulnerability/wordpress-abandoned-contact-form-7-2-0-broken-access-control-vulnerability?_s_id=cve",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/abandoned-contact-form-7/",
+    "patch": "WordPress插件Abandoned Contact Form存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-07",
+    "open_time": "2025-09-09",
+    "update_time": "2025-09-09",
+    "data_summary": "e01a536d40c2c6a92ef58b67c2ad4e9e"
+}

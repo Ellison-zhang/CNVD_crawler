@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-07 09:07:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17705",
+    "spider_time": 1754557633150,
+    "name": "TOTOLINK N300RB命令注入漏洞",
+    "cnvd": "CNVD-2025-17705",
+    "publish": "2025-08-07",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK N300RB 8.54\"]",
+    "cve": "CVE-2025-52089",
+    "description": "TOTOLINK N300R是韩国网络品牌TOTOLINK推出的面向家庭和小型办公场景的无线路由器。TOTOLINK N300RB存在命令注入漏洞，该漏洞源于静态密钥保护的远程支持功能，攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://access.redhat.com/security/cve/cve-2025-52089",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-08-07",
+    "update_time": "2025-08-07",
+    "data_summary": "452fff9d250ecb269b7e207b6039b56c"
+}

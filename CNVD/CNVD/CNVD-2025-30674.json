@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-15 10:05:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30674",
+    "spider_time": 1765793143152,
+    "name": "Tenda FH1205 setSchedWifi方法堆栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-30674",
+    "publish": "2025-12-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"Tenda FH1205 V2.0.0.7(775)\"]",
+    "cve": "CVE-2024-30631",
+    "description": "Tenda FH1205是中国腾达公司推出的一款家庭无线路由器，面向普通家庭网络环境，提供无线连接功能。Tenda FH1205存在堆栈缓冲区溢出漏洞，该漏洞源于setSchedWifi方法的schedStartTime参数未能正确验证输入数据的长度大小，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/FH/FH1205/setSchedWifi_start.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tenda.com.cn/download/detail-2236.html",
+    "patch": "Tenda FH1205 setSchedWifi方法堆栈缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-03",
+    "open_time": "2025-12-15",
+    "update_time": "2025-12-15",
+    "data_summary": "58a49f46d257962fce4697b1dc5eab28"
+}

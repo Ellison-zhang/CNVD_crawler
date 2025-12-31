@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-02 10:05:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14816",
+    "spider_time": 1751450744964,
+    "name": "TOTOLINK A6000R代码执行漏洞",
+    "cnvd": "CNVD-2025-14816",
+    "publish": "2025-07-02",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A6000R 1.0.1-B20201211.2000\"]",
+    "cve": "CVE-2024-37626",
+    "description": "TOTOLINK A6000R是中国吉翁电子（TOTOLINK）公司的一款无线路由器。TOTOLINK A6000R存在代码执行漏洞，该漏洞源于允许远程攻击者通过vif_enable函数中的iface参数执行任意代码。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-37626/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-24",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "e91540c48b3f5198ecb0b1ca92257e54"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 06:05:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16627",
+    "spider_time": 1753164320386,
+    "name": "Siemens SINEC NMS路径遍历漏洞（CNVD-2025-16627）",
+    "cnvd": "CNVD-2025-16627",
+    "publish": "2025-07-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Siemens SINEC NMS <4.0\"]",
+    "cve": "CVE-2025-40738",
+    "description": "Siemens SINEC NMS是德国西门子（Siemens）公司的一个网络管理系统(NMS)，该系统可用于全天候集中监控、管理和配置具有数万台设备的工业网络，包括与安全相关的领域。Siemens SINEC NMS存在路径遍历漏洞，该漏洞源于未正确验证ZIP文件路径，攻击者可利用该漏洞导致任意文件写入。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-078892.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.industry.siemens.com/cs/document/109989514/download-and-sales-and-delivery-release-for-the-product-sinec-nms-v4-0?lc=en-ww",
+    "patch": "Siemens SINEC NMS路径遍历漏洞（CNVD-2025-16627）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-22",
+    "update_time": "2025-07-22",
+    "data_summary": "05c679d9a609ad6b9a2bac8fb90d07ab"
+}

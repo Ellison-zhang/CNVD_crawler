@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 11:03:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12560",
+    "spider_time": 1749812628196,
+    "name": "WordPress Ultimate Gift Cards for WooCommerce plugin SQL注入漏洞",
+    "cnvd": "CNVD-2025-12560",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"WordPress Ultimate Gift Cards for WooCommerce plugin <=3.1.4\"]",
+    "cve": "CVE-2025-5103",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Ultimate Gift Cards for WooCommerce plugin存在SQL注入漏洞，该漏洞源于应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5103",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/woo-gift-cards-lite/#developers",
+    "patch": "WordPress Ultimate Gift Cards for WooCommerce plugin SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "eb6defd582403ab8d4bad4e7b7e1da72"
+}

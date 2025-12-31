@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-11 09:13:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15515",
+    "spider_time": 1752225193417,
+    "name": "MongoDB Server授权问题漏洞（CNVD-2025-15515）",
+    "cnvd": "CNVD-2025-15515",
+    "publish": "2025-07-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"MongoDB MongoDB Server <7.0.20\", \"MongoDB MongoDB Server <6.0.22\", \"MongoDB MongoDB Server <8.0.7\"]",
+    "cve": "CVE-2025-6713",
+    "description": "MongoDB Server是美国MongoDB公司的一套开源的NoSQL数据库。该数据库提供面向集合的存储、动态查询、数据复制及自动故障转移等功能。MongoDB Server 8.0.7之前版本、7.0.20之前版本和6.0.22之前版本存在安全漏洞，该漏洞源于对$mergeCursors阶段处理不当，可能导致未授权数据访问。攻击者可利用该漏洞通过特制聚合管道绕过授权机制访问数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6713",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载接：\nhttps://jira.mongodb.org/browse/SERVER-106752",
+    "patch": "MongoDB Server授权问题漏洞（CNVD-2025-15515）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-08",
+    "open_time": "2025-07-11",
+    "update_time": "2025-07-11",
+    "data_summary": "97e962df9459255f21b8cf4ffbc5b19c"
+}

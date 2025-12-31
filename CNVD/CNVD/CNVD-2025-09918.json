@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-16 03:22:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09918",
+    "spider_time": 1747365756813,
+    "name": "NETGEAR EX6200 sub_3C03C函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-09918",
+    "publish": "2025-05-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"NETGEAR EX6200 1.0.3.94\"]",
+    "cve": "CVE-2025-4141",
+    "description": "NETGEAR EX6200是美国网件（NETGEAR）公司的一款无线网络信号扩展器。NETGEAR EX6200存在缓冲区溢出漏洞，该漏洞源于sub_3C03C函数参数host未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-4141",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-05-16",
+    "update_time": "2025-05-16",
+    "data_summary": "7f98967ce0f86504a73bb21df09d932a"
+}

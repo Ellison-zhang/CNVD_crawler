@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-23 08:14:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-37667",
+    "spider_time": 1755936854526,
+    "name": "RT-Thread dfs_v2 romfs函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2024-37667",
+    "publish": "2024-09-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"RT-Thread RT-Thread <=5.0.2\"]",
+    "cve": "CVE-2024-24335",
+    "description": "RT-Thread是RT-Thread开源的一个开源物联网实时操作系统（RTOS）。RT-Thread存在缓冲区溢出漏洞，该漏洞源于dfs_v2 romfs文件未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/RT-Thread/rt-thread/issues/8271",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/RT-Thread/rt-thread/issues/8271",
+    "patch": "RT-Thread dfs_v2 romfs函数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-29",
+    "open_time": "2024-09-06",
+    "update_time": "2024-09-06",
+    "data_summary": "d3ff6604343f0ff5f0fafc27c88e5509"
+}

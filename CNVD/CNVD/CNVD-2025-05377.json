@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 09:04:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05377",
+    "spider_time": 1742375048634,
+    "name": "Linux kernel释放后使用漏洞",
+    "cnvd": "CNVD-2025-05377",
+    "publish": "2025-03-19",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Linux Linux kernel 6.14\", \"Linux Linux kernel >=6.13\\uff0c<6.13.5\", \"Linux Linux kernel >=4.14\\uff0c<6.12.17\"]",
+    "cve": "CVE-2025-21861",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在释放后使用漏洞，该漏洞源于在迁移设备时将待释放的页面添加到LRU，可能导致内存损坏。攻击者可利用该漏洞进行进一步恶意操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-21861",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/069dd21ea8262204f94737878389c2815a054a9e",
+    "patch": "Linux kernel释放后使用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-18",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "6deab3faf0fdbeaebfd32ceda214c9b8"
+}

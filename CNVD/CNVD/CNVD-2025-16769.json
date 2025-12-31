@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-24 08:06:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16769",
+    "spider_time": 1753344386339,
+    "name": "Dell Client Platform BIOS访问控制错误漏洞",
+    "cnvd": "CNVD-2025-16769",
+    "publish": "2025-07-24",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"DELL Dell Client Platform BIOS\"]",
+    "cve": "CVE-2025-36600",
+    "description": "Dell Client Platform BIOS是美国戴尔（Dell）公司的一个客户端平台BIOS。Dell Client Platform BIOS存在访问控制错误漏洞，该漏洞源于外部开发组件中对镜像或别名内存区域的访问控制不当，攻击者可利用该漏洞导致代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36600",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000320876/dsa-2025-205",
+    "patch": "Dell Client Platform BIOS访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-24",
+    "update_time": "2025-07-24",
+    "data_summary": "7884ee7b782e2fb81e11f5f5373f06a4"
+}

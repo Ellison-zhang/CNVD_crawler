@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-08 06:05:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09231",
+    "spider_time": 1746684311986,
+    "name": "FreeBSD缓冲区溢出漏洞（CNVD-2025-09231）",
+    "cnvd": "CNVD-2025-09231",
+    "publish": "2025-05-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:C",
+    "product": "[\"FreeBSD FreeBSD\"]",
+    "cve": "CVE-2025-0373",
+    "description": "FreeBSD是FreeBSD基金会的一套类Unix操作系统。FreeBSD存在缓冲区溢出漏洞，该漏洞源于cd9660、tarfs和ext2fs文件系统中VOP_VPTOFH的实现会使目标FID缓冲区溢出4个字节，攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://security.freebsd.org/advisories/FreeBSD-SA-25:02.fs.asc",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.freebsd.org/advisories/FreeBSD-SA-25:02.fs.asc",
+    "patch": "FreeBSD缓冲区溢出漏洞（CNVD-2025-09231）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-05-08",
+    "update_time": "2025-05-08",
+    "data_summary": "b3b9737906f90f6a41b696222d4910bc"
+}

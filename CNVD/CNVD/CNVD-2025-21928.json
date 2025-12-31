@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-19 09:05:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21928",
+    "spider_time": 1758272739584,
+    "name": "PDF-XChange Editor远程代码执行漏洞（CNVD-2025-21928）",
+    "cnvd": "CNVD-2025-21928",
+    "publish": "2025-09-19",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"PDF-XChange PDF-XChange Editor 10.5.2.395\", \"PDF-XChange PDF-Tools 10.5.2.395\"]",
+    "cve": "CVE-2025-6645",
+    "description": "PDF-XChange Editor是PDF-XChange公司的一个运行在Microsoft Windows系统中的PDF文件查看软件。PDF-XChange Editor存在远程代码执行漏洞，攻击者可利用该漏洞在当前进程的上下文中执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.pdf-xchange.com/support/security-bulletins.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.pdf-xchange.com/product/pdf-xchange-editor",
+    "patch": "PDF-XChange Editor远程代码执行漏洞（CNVD-2025-21928）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-09-19",
+    "update_time": "2025-09-19",
+    "data_summary": "76ce479bfbcfd5920507a68f668282b2"
+}

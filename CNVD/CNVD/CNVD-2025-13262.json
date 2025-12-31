@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-23 07:04:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13262",
+    "spider_time": 1750662283697,
+    "name": "Netgear DGND3700信息泄露漏洞",
+    "cnvd": "CNVD-2025-13262",
+    "publish": "2025-06-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Netgear DGND3700 1.1.00.15_1.00.15NA\"]",
+    "cve": "CVE-2025-4977",
+    "description": "Netgear DGND3700是美国网件（NETGEAR）公司的一款调制解调器路由器。Netgear DGND3700存在信息泄露漏洞，该漏洞源于文件/BRS_top.html处理不当，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/at0de/my_vulns/blob/main/Netgear/DGND3700v2/BRS_top.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-06-23",
+    "update_time": "2025-06-23",
+    "data_summary": "95011760b46c99d9040d10426cb5f3cd"
+}

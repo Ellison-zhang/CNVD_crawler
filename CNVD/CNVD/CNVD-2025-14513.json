@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-01 09:05:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14513",
+    "spider_time": 1751360724791,
+    "name": "Adobe Experience Manager跨站脚本漏洞（CNVD-2025-14513）",
+    "cnvd": "CNVD-2025-14513",
+    "publish": "2025-07-01",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Adobe Adobe Experience Manager <=6.5.22\"]",
+    "cve": "CVE-2025-46904",
+    "description": "Adobe Experience Manager是Adobe公司推出的一款综合性内容管理解决方案。Adobe Experience Manager存在跨站脚本漏洞，该漏洞源于表单字段对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-46904",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/experience-manager/apsb25-48.html",
+    "patch": "Adobe Experience Manager跨站脚本漏洞（CNVD-2025-14513）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-07-01",
+    "update_time": "2025-07-01",
+    "data_summary": "dfd5b7f749c567d5b681dbe40fb069e8"
+}

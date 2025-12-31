@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-07 08:07:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15172",
+    "spider_time": 1751875639693,
+    "name": "Adobe Substance 3D Stager内存错误引用漏洞（CNVD-2025-15172）",
+    "cnvd": "CNVD-2025-15172",
+    "publish": "2025-07-07",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Adobe Substance 3D Stager <=3.1.1\"]",
+    "cve": "CVE-2025-43568",
+    "description": "Adobe Substance 3D Stager是美国奥多比（Adobe）公司的一个虚拟3D工作室。Adobe Substance 3D Stager存在内存错误引用漏洞，攻击者可利用该漏洞在当前用户的上下文中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/substance3d_stager/apsb25-46.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/substance3d_stager/apsb25-46.html",
+    "patch": "Adobe Substance 3D Stager内存错误引用漏洞（CNVD-2025-15172）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-07-07",
+    "update_time": "2025-07-07",
+    "data_summary": "aea8d1a11f91fc9fe182bb4b475c08a5"
+}

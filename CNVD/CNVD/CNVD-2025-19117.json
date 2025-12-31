@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 08:05:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19117",
+    "spider_time": 1755763555299,
+    "name": "Zoom Workplace VDI App for Windows权限提升漏洞",
+    "cnvd": "CNVD-2025-19117",
+    "publish": "2025-08-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Zoom Zoom Workplace VDI App for Windows\"]",
+    "cve": "CVE-2024-27244",
+    "description": "Zoom Workplace VDI App for Windows是专为虚拟化桌面环境（如 Windows 365 云电脑 ）设计的客户端应用程序，支持Azure虚拟桌面等虚拟化平台。Zoom Workplace VDI App for Windows存在权限提升漏洞，该漏洞源于数据真实性验证不充分，攻击者可利用该漏洞通过本地访问进行权限升级。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-27244",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.zoom.com/en/trust/security-bulletin/zsb-24015/",
+    "patch": "Zoom Workplace VDI App for Windows权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-05",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "b708ad22146d4d8b60b13262d2dd0020"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-30 08:06:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17167",
+    "spider_time": 1753862801584,
+    "name": "Oracle MySQL存在未明漏洞（CNVD-2025-17167）",
+    "cnvd": "CNVD-2025-17167",
+    "publish": "2025-07-30",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Oracle MySQL Cluster >=8.0.0\\uff0c<=8.0.42\", \"Oracle MySQL Cluster >=8.4.0\\uff0c<=8.4.5\", \"Oracle MySQL Cluster >=9.0.0\\uff0c<=9.3.0\"]",
+    "cve": "CVE-2025-50068",
+    "description": "Oracle MySQL是一个开源的关系型数据库管理系统。MySQL Client是MySQL客户端，是用于与服务器通信以处理服务器管理的数据库中的信息的程序。Oracle MySQL的MySQL Cluster 8.0.0至8.0.42版本、8.4.0至8.4.5版本和9.0.0至9.3.0版本存在安全漏洞，攻击者可利用该漏洞导致系统被接管。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.oracle.com/security-alerts/cpujul2025.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpujul2025.html",
+    "patch": "Oracle MySQL存在未明漏洞（CNVD-2025-17167）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "2398edb425893a76a905984eab1260b0"
+}

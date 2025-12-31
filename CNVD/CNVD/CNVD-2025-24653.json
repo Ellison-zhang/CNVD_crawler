@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 08:05:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24653",
+    "spider_time": 1761206745724,
+    "name": "多款Mozilla产品信息泄露漏洞（CNVD-2025-24653）",
+    "cnvd": "CNVD-2025-24653",
+    "publish": "2025-10-23",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Mozilla Firefox <143\", \"Mozilla Firefox ESR <140.3\", \"Mozilla Thunderbird <143\", \"Mozilla Thunderbird <140.3\"]",
+    "cve": "CVE-2025-10536",
+    "description": "Mozilla Firefox是一款开源Web浏览器。Mozilla Thunderbird是一套从Mozilla Application Suite独立出来的电子邮件客户端软件。该软件支持IMAP、POP邮件协议以及HTML邮件格式。多款Mozilla产品存在信息泄露漏洞，该漏洞是由于Networking:Cache组件中的错误引起的。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.mozilla.org/show_bug.cgi?id=1981502",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2025-73/",
+    "patch": "多款Mozilla产品信息泄露漏洞（CNVD-2025-24653）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-18",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "e618445dd64d3da4b1197c21f7f2d12a"
+}

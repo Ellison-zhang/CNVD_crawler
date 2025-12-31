@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 07:06:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22635",
+    "spider_time": 1758870394136,
+    "name": "Rail Pass Management System changeimage.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-22635",
+    "publish": "2025-09-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Rail Pass Management System Rail Pass Management System 1.0\"]",
+    "cve": "CVE-2025-4070",
+    "description": "Rail Pass Management System是一个铁路通行证管理系统。Rail Pass Management System存在SQL注入漏洞，该漏洞源于/admin/changeimage.php文件中参数editid缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Arcueicl/cve/issues/1",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-07",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "68c7c48187e1b5f295fec03fdfaf2762"
+}

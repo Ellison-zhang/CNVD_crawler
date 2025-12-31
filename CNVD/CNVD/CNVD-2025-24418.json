@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-21 10:04:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24418",
+    "spider_time": 1761041074775,
+    "name": "Centreon Web SQL注入漏洞（CNVD-2025-24418）",
+    "cnvd": "CNVD-2025-24418",
+    "publish": "2025-10-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Centreon Centreon Web >=24.10.0\\uff0c<24.10.9\", \"Centreon Centreon Web >=24.04.0\\uff0c<24.04.16\", \"Centreon Centreon Web >=23.10.0\\uff0c<23.10.26\"]",
+    "cve": "CVE-2025-4650",
+    "description": "Centreon Web是法国Centreon公司的一套开源的系统监控工具。该产品主要提供对网络、系统和应用程序等资源的监控功能。Centreon Web存在安全漏洞，该漏洞源于Meta Service指标页面存在SQL注入。攻击者可利用该漏洞执行SQL注入攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://thewatch.centreon.com/latest-security-bulletins-64/cve-2025-4650-centreon-web-all-versions-high-severity-4901\nhttps://github.com/centreon/centreon/releases\nhttps://access.redhat.com/security/cve/cve-2025-4650\nhttps://nvd.nist.gov/vuln/detail/CVE-2025-4650",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://github.com/centreon/centreon/releases",
+    "patch": "Centreon Web SQL注入漏洞（CNVD-2025-24418）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-21",
+    "update_time": "2025-10-21",
+    "data_summary": "e38a87d530eabf4a444b12a70efd7c07"
+}

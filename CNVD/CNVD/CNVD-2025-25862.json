@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-30 09:07:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25862",
+    "spider_time": 1761815228253,
+    "name": "Newforma Project Center Server信息泄露漏洞（CNVD-2025-25862）",
+    "cnvd": "CNVD-2025-25862",
+    "publish": "2025-10-30",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Newforma Project Center Server <=2024.3\"]",
+    "cve": "CVE-2025-35054",
+    "description": "Newforma Project Center Server是Newforma公司的一个建筑、工程和施工(AEC)行业的项目信息管理解决方案，用于集中存储和管理项目文档和协作。Newforma Project Center Server存在信息IELTS漏洞，攻击者可利用该漏洞导致获取额外系统和资源访问权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://raw.githubusercontent.com/cisagov/CSAF/develop/csaf_files/IT/white/2025/va-25-282-01.json",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.newforma.com/newforma-project-center/",
+    "patch": "Newforma Project Center Server信息泄露漏洞（CNVD-2025-25862）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-30",
+    "update_time": "2025-10-30",
+    "data_summary": "a13ccd659539e8275651604b2871cfb4"
+}

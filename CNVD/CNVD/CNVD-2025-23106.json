@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-01 12:06:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23106",
+    "spider_time": 1759320374181,
+    "name": "VMware Tools for Windows访问控制错误漏洞",
+    "cnvd": "CNVD-2025-23106",
+    "publish": "2025-10-01",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"VMware VMware Tools for Windows\"]",
+    "cve": "CVE-2025-41246",
+    "description": "VMware Tools for Windows是美国威睿（VMware）公司的一套基于Windows平台的、VMWare虚拟机自带的增强工具，它是VMware提供的用于增强虚拟显卡和硬盘性能、以及同步虚拟机与主机时钟的驱动程序。VMware Tools for Windows存在安全漏洞，该漏洞源于用户访问控制处理不当，已通过vCenter或ESX认证的攻击者可利用该漏洞访问其他客户虚拟机。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-41246",
+    "solution": "厂商已提供漏洞修复方案，请及时关注厂商更新：\nhttps://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36149",
+    "patch": "VMware Tools for Windows访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-01",
+    "open_time": "2025-10-01",
+    "update_time": "2025-10-01",
+    "data_summary": "4b64d1e6feec025ab04e08473c62f8b2"
+}

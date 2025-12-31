@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 08:05:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18607",
+    "spider_time": 1755245134738,
+    "name": "OpenBao存在未明漏洞（CNVD-2025-18607）",
+    "cnvd": "CNVD-2025-18607",
+    "publish": "2025-08-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"openbao openbao >=0.1.0\\uff0c<=2.3.1\"]",
+    "cve": "CVE-2025-55000",
+    "description": "OpenBao是OpenBao开源的一个敏感数据管理软件。OpenBao 0.1.0至2.3.1版本存在安全漏洞，该漏洞源于TOTP密钥引擎可多次接受有效代码，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://discuss.hashicorp.com/t/hcsec-2025-17-vault-totp-secrets-engine-code-reuse/76036",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/openbao/openbao/releases",
+    "patch": "OpenBao存在未明漏洞（CNVD-2025-18607）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "e4eb4809b0d227070feee88f26c0f9d6"
+}

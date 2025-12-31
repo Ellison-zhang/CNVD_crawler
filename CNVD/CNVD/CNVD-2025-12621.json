@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 10:04:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12621",
+    "spider_time": 1750068264504,
+    "name": "WordPress Essential Real Estate文件名控制不当漏洞",
+    "cnvd": "CNVD-2025-12621",
+    "publish": "2025-06-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Essential Real Estate <=5.2.1\"]",
+    "cve": "CVE-2025-48126",
+    "description": "WordPress Essential Real Estate是一款WordPress插件，用于创建和管理房地产网站。WordPress Essential Real Estate存在文件名控制不当漏洞。攻击者可利用该漏洞构造恶意请求，导致PHP本地文件包含。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/essential-real-estate/vulnerability/wordpress-essential-real-estate-5-2-1-local-file-inclusion-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/essential-real-estate/",
+    "patch": "WordPress Essential Real Estate文件名控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "30bc96fc5eb46796821cb0a8a80194b7"
+}

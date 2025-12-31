@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-16 09:06:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07328",
+    "spider_time": 1744794397819,
+    "name": "F5 BIG-IP远程命令注入漏洞",
+    "cnvd": "CNVD-2025-07328",
+    "publish": "2025-04-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:N",
+    "product": "[\"F5 BIG-IP (all modules) 17.1.1\"]",
+    "cve": "CVE-2025-23239",
+    "description": "F5 BIG-IP是美国F5公司的一款集成了网络流量管理、应用程序安全管理、负载均衡等功能的应用交付平台。F5 BIG-IP存在远程命令注入漏洞，该漏洞源于应用未能正确过滤构造命令特殊字符、命令等。攻击者可利用此漏洞穿越安全边界。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://my.f5.com/manage/s/article/K000138757",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://my.f5.com/manage/s/article/K000138757",
+    "patch": "F5 BIG-IP远程命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-04-16",
+    "update_time": "2025-04-16",
+    "data_summary": "0ac31159fe70f9b8b6ad296d8a22b26b"
+}

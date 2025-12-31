@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-12 08:05:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09397",
+    "spider_time": 1747037126425,
+    "name": "Dell Trusted Device后置链接漏洞",
+    "cnvd": "CNVD-2025-09397",
+    "publish": "2025-05-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL Dell Trusted Device <7.0.3.0\"]",
+    "cve": "CVE-2025-29983",
+    "description": "Dell Trusted Device是美国戴尔（Dell）公司的一款应用程序。Dell Trusted Device存在后置链接漏洞，该漏洞源于链接解析不当，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-29983",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/product-details/en-us/product/trusted-device/drivers",
+    "patch": "Dell Trusted Device后置链接漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-05-12",
+    "update_time": "2025-05-12",
+    "data_summary": "cb53896d8232ab7871c3c1d4ad0ab68b"
+}

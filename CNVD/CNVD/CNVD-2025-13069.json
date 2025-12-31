@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-20 07:04:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13069",
+    "spider_time": 1750403051011,
+    "name": "D-Link DIR-823G授权问题漏洞",
+    "cnvd": "CNVD-2025-13069",
+    "publish": "2025-06-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"D-Link DIR-823G 1.0.2B05_20181207\"]",
+    "cve": "CVE-2025-2359",
+    "description": "D-Link DIR-823G是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-823G存在授权问题漏洞，该漏洞源于授权不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lavender-bicycle-a5a.notion.site/D-Link-DIR-823G-SetDDNSSettings-1ac53a41781f80d98649dd3cbe106e9b?pvs=4",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-19",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "9b99d25876fc727789c871379a2b21f6"
+}

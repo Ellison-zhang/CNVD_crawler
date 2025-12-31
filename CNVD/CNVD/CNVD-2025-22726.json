@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-28 10:04:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22726",
+    "spider_time": 1759053845633,
+    "name": "GPT Academic存在未明漏洞",
+    "cnvd": "CNVD-2025-22726",
+    "publish": "2025-09-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"GPT Academic GPT Academic 3.83\"]",
+    "cve": "CVE-2024-12387",
+    "description": "GPT Academic是一个为GPT/GLM等LLM大语言模型提供实用化交互的接口。GPT Academic存在安全漏洞，该漏洞源于特制zip炸弹上传，攻击者可利用该漏洞导致内存耗尽崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://huntr.com/bounties/02b4ab21-d29b-4cd7-ad80-f83081ce82a4",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://huntr.com/bounties/02b4ab21-d29b-4cd7-ad80-f83081ce82a4",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-09-28",
+    "update_time": "2025-09-28",
+    "data_summary": "9484823ad9524c40e32ca4f74f2f1e6a"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-20 09:04:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18921",
+    "spider_time": 1755680664783,
+    "name": "Google Chrome堆缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18921",
+    "publish": "2025-08-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <139.0.7258.127\"]",
+    "cve": "CVE-2025-8879",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome存在堆缓冲区溢出漏洞，该漏洞是由于libaom的不当边界检查造成的。攻击者可利用该漏洞溢出缓冲区，从而在系统上执行任意代码或导致应用程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop_12.html",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop_12.html",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-20",
+    "update_time": "2025-08-20",
+    "data_summary": "c7c36a81a3c31e40e6354995d9226bf4"
+}

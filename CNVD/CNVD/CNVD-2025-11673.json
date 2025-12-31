@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 07:04:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11673",
+    "spider_time": 1749193446209,
+    "name": "Planet UNI-NMS-Lite系统命令注入漏洞",
+    "cnvd": "CNVD-2025-11673",
+    "publish": "2025-06-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Planet UNI-NMS-Lite\"]",
+    "cve": "CVE-2025-46271",
+    "description": "Planet UNI-NMS-Lite是中国PLANET公司的一个通用网络管理系统，可监控所有已部署的有线或无线 PoE 工业级网络设备。Planet UNI-NMS-Lite存在命令注入漏洞，攻击者可利用该漏洞提交特殊的请求，读取和操作设备数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-114-06",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.planet.com.tw/en/product/uni-nms",
+    "patch": "Planet UNI-NMS-Lite系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-27",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "2b3dfeb3ef8f9e2d596a28ebd92f5c67"
+}

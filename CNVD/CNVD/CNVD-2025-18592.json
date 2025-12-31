@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 07:05:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18592",
+    "spider_time": 1755241528135,
+    "name": "IBM WebSphere Application Server Liberty跨站脚本漏洞（CNVD-2025-18592）",
+    "cnvd": "CNVD-2025-18592",
+    "publish": "2025-08-15",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:M/C:P/I:P/A:N",
+    "product": "[\"IBM WebSphere Application Server >=17.0.0.3\\uff0c<=25.0.0.8\"]",
+    "cve": "CVE-2025-36000",
+    "description": "IBM WebSphere Application Server Liberty是IBM公司的一款轻量级Java应用服务器，用于快速开发和部署云原生应用。IBM WebSphere Application Server Liberty 17.0.0.3至25.0.0.8版本存在存储型跨站脚本(XSS)漏洞，该漏洞源于特权用户可在Web界面中嵌入任意JavaScript代码。攻击者可利用该漏洞篡改Web UI预期功能，在受信任会话中窃取用户凭证等敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36000",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.ibm.com/support/pages/node/7242026",
+    "patch": "IBM WebSphere Application Server Liberty跨站脚本漏洞（CNVD-2025-18592）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-13",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "70241965031cf0c9c090df81b73047be"
+}

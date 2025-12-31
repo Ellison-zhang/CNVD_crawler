@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 02:37:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23578",
+    "spider_time": 1760668679288,
+    "name": "GPT-SoVITS-WebUI代码问题漏洞（CNVD-2025-23578）",
+    "cnvd": "CNVD-2025-23578",
+    "publish": "2025-10-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"GPT-SoVITS-WebUI GPT-SoVITS-WebUI <=20250228v3\"]",
+    "cve": "CVE-2025-49840",
+    "description": "GPT-SoVITS-WebUI是一个TTS训练模型。GPT-SoVITS-WebUI存在代码问题漏洞，该漏洞源于inference_webui.py在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞在系统上执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/RVC-Boss/GPT-SoVITS/blob/165882d64f474b3563fa91adc1a679436ae9c3b8/GPT_SoVITS/inference_webui.py#L310",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/RVC-Boss/GPT-SoVITS/releases",
+    "patch": "GPT-SoVITS-WebUI代码问题漏洞（CNVD-2025-23578）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-10-14",
+    "update_time": "2025-10-14",
+    "data_summary": "a52a8ffe603f1c7597d2417092ea3079"
+}

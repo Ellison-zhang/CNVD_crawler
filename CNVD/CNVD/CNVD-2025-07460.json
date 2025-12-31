@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:29:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07460",
+    "spider_time": 1744946951807,
+    "name": "北京春田知韵科技有限公司豆包APP存在信息泄露漏洞",
+    "cnvd": "CNVD-2025-07460",
+    "publish": "2025-04-12",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u6625\\u7530\\u77e5\\u97f5\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u8c46\\u5305APP\"]",
+    "cve": null,
+    "description": "豆包APP是一个基于云雀模型开发的AI工具。北京春田知韵科技有限公司豆包APP存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.doubao.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-26",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "a9b0ad70d6a5e5626f1de8970f3cc9cf"
+}

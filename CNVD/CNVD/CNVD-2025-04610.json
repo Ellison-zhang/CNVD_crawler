@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-07 09:03:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04610",
+    "spider_time": 1741338216739,
+    "name": "D-Link DAP-1562栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-04610",
+    "publish": "2025-03-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"D-Link D-Link DAP-1562 1.10\"]",
+    "cve": "CVE-2025-1876",
+    "description": "D-Link DAP-1562是中国友讯（D-Link）公司的一款无线网桥。D-Link DAP-1562 1.10版本存在安全漏洞，该漏洞源于HTTP Header Handler存在栈缓冲区溢出，可能导致远程攻击。攻击者可利用该漏洞在设备上执行任意代码，导致设备的保密性、完整性和可用性受损。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1876",
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新:\nhttps://vuldb.com/?ctiid.298190",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-03-07",
+    "update_time": "2025-03-07",
+    "data_summary": "e1e40886bfe39e8d366a1f2d04ad3367"
+}

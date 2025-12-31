@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-09 08:05:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11916",
+    "spider_time": 1749456343924,
+    "name": "Dell PowerProtect Data Manager Reporting信息泄露漏洞",
+    "cnvd": "CNVD-2025-11916",
+    "publish": "2025-06-09",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:P/I:N/A:N",
+    "product": "[\"DELL PowerProtect Data Manager Reporting 19.17\", \"DELL PowerProtect Data Manager Reporting 19.18\", \"DELL PowerProtect Data Manager Reporting 19.16\"]",
+    "cve": "CVE-2025-23376",
+    "description": "Dell PowerProtect Data Manager Reporting是一款数据保护管理软件。Dell PowerProtect Data Manager Reporting存在信息泄露漏洞，该漏洞源于程序未能正确处理模板输入，攻击者可利用该漏洞获取敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.cve.org/CVERecord?id=CVE-2025-23376",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000311083/dsa-2025-062-security-update-for-dell-powerprotect-data-manager-multiple-security-vulnerabilities",
+    "patch": "Dell PowerProtect Data Manager Reporting信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-30",
+    "open_time": "2025-06-09",
+    "update_time": "2025-06-09",
+    "data_summary": "dc7f8b361a17111f0dc2462abf926887"
+}

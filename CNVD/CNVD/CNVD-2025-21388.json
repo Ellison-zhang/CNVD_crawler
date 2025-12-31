@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-18 02:28:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21388",
+    "spider_time": 1758162490669,
+    "name": "Tenda W30E formDeleteMeshNode函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-21388",
+    "publish": "2025-09-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda W30E 16.01.0.19 (5037)\"]",
+    "cve": "CVE-2025-57086",
+    "description": "Tenda W30E是腾达科技推出的一款专为SOHO、小微企业及小型商铺设计的企业级无线路由器。Tenda W30E存在缓冲区溢出漏洞，该漏洞源于formDeleteMeshNode函数中String参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/vulnDetailRecord/VulforDevice/blob/main/Tenda/W30E/formDeleteMeshNode.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-11",
+    "open_time": "2025-09-17",
+    "update_time": "2025-09-17",
+    "data_summary": "663baf406e31ee4910dd01771278aed4"
+}

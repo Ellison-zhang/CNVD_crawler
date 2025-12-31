@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-03 07:04:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11253",
+    "spider_time": 1748934247675,
+    "name": "Google ChromeOS越界读取漏洞",
+    "cnvd": "CNVD-2025-11253",
+    "publish": "2025-06-03",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google ChromeOS 16093.57.0\"]",
+    "cve": "CVE-2025-2509",
+    "description": "Google ChromeOS是美国谷歌（Google）公司的一个操作系统。Google ChromeOS存在越界读取漏洞，攻击者可利用该漏洞导致虚拟机逃逸。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://issues.chromium.org/issues/b/385851796",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.google.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-03",
+    "update_time": "2025-06-03",
+    "data_summary": "29b10e2b4f21e816fbc69f0470e16ae8"
+}

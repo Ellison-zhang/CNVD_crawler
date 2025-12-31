@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-14 10:04:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27985",
+    "spider_time": 1763114675686,
+    "name": "Samba操作系统命令注入漏洞",
+    "cnvd": "CNVD-2025-27985",
+    "publish": "2025-11-14",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Samba Samba >=4.0.0\\uff0c<=4.23.1\"]",
+    "cve": "CVE-2025-10230",
+    "description": "Samba是Samba开源的一个适用于 Linux 和 Unix 的标准 Windows 互操作性程序套件。Samba存在操作系统命令注入漏洞，该漏洞源于前端WINS钩子处理中对NetBIOS名称未进行适当验证或转义，可能导致远程命令执行。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.samba.org/samba/security/CVE-2025-10230.html",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttps://www.samba.org/samba/history/",
+    "patch": "Samba操作系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-20",
+    "open_time": "2025-11-14",
+    "update_time": "2025-11-14",
+    "data_summary": "39c8451f61a65ae1cf946010ed06cd9b"
+}

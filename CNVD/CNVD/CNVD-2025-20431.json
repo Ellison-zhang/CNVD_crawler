@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-05 07:05:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20431",
+    "spider_time": 1757055937343,
+    "name": "Emby Media Server跨站脚本漏洞",
+    "cnvd": "CNVD-2025-20431",
+    "publish": "2025-09-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Emby Media Server 4.8.3.0\"]",
+    "cve": "CVE-2024-30931",
+    "description": "Emby Media Server是一款个人媒体服务器软件，用于组织、管理和共享音乐、电影、电视剧等多媒体内容。Emby Media Server存在跨站脚本漏洞，该漏洞可以通过notifications.html组件提升权限，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-30931",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://emby.media/",
+    "patch": "Emby Media Server跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-26",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "0eddd5e2e843e06a166c75705a4c8e99"
+}

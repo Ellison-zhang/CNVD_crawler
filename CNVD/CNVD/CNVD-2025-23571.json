@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-14 03:19:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23571",
+    "spider_time": 1760411973454,
+    "name": "AndSoft e-TMS加密问题漏洞",
+    "cnvd": "CNVD-2025-23571",
+    "publish": "2025-10-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"AndSoft e-TMS v25.03\"]",
+    "cve": "CVE-2025-59745",
+    "description": "AndSoft e-TMS是西班牙AndSoft公司的一款物流管理软件。AndSoft e-TMS 存在加密问题漏洞，该漏洞源于使用MD5加密密码，攻击者可利用该漏洞导致用户凭据泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.incibe.es/en/incibe-cert/notices/aviso/update-24092025-multiple-vulnerabilities-andsofts-e-tms",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://andsoft.es/es/solucio-1/menu-1/caracteristicas.html",
+    "patch": "AndSoft e-TMS加密问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-13",
+    "open_time": "2025-10-14",
+    "update_time": "2025-10-14",
+    "data_summary": "033d5583a6b2250190da3a83c30cee46"
+}

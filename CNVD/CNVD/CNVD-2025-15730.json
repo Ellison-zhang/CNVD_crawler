@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-15 07:06:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15730",
+    "spider_time": 1752563212204,
+    "name": "Ivanti CSA SQL注入漏洞",
+    "cnvd": "CNVD-2025-15730",
+    "publish": "2025-07-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Ivanti Ivanti CSA <5.0.3\"]",
+    "cve": "CVE-2024-11773",
+    "description": "Ivanti CSA是Ivanti公司推出的本地部署虚拟设备，主要用于简化IT服务管理与云服务的集成，支持自动化流程以提高运营效率。Ivanti CSA存在SQL注入漏洞，攻击者可利用该漏洞运行任意SQL语句。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-11773",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Cloud-Services-Application-CSA-CVE-2024-11639-CVE-2024-11772-CVE-2024-11773?language=en_US",
+    "patch": "Ivanti CSA SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-23",
+    "open_time": "2025-07-15",
+    "update_time": "2025-07-15",
+    "data_summary": "81f11ea567632f7d8ba1171595acc6a8"
+}

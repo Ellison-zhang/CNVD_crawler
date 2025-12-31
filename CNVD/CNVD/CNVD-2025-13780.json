@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 09:04:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13780",
+    "spider_time": 1750928671530,
+    "name": "TOTOLINK A3002R /boafrm/formMultiAP文件缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-13780",
+    "publish": "2025-06-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A3002R 4.0.0-B20230531.1404\"]",
+    "cve": "CVE-2025-6164",
+    "description": "TOTOLINK A3002R是中国吉翁电子（TOTOLINK）公司的一款无线路由器。TOTOLINK A3002R 4.0.0-B20230531.1404版本存在缓冲区溢出漏洞，该漏洞源于HTTP POST Request Handler组件中文件/boafrm/formMultiAP的参数submit-url未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6164",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/awindog/cve/blob/main/688/10.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-24",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "a024663228e67ddb1d22a61ddf232703"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-30 04:06:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11206",
+    "spider_time": 1748577970085,
+    "name": "TOTOLINK A3002R formDhcpv6s接口dnsaddr参数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11206",
+    "publish": "2025-05-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A3002R v4.0.0-B20230531.1404\"]",
+    "cve": "CVE-2025-45865",
+    "description": "TOTOLINK A3002R是中国吉翁电子（TOTOLINK）公司的一款无线路由器。TOTOLINK A3002R存在缓冲区溢出漏洞，该漏洞源于formDhcpv6s接口中dnsaddr参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.totolink.net/home/menu/detail/menu_listtpl/download/id/258/ids/36.html",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "7b1dc5d5cff958b8632c9ff627435c99"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-10 07:04:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23233",
+    "spider_time": 1760079861364,
+    "name": "Student Result Management System Using PHP跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-23233",
+    "publish": "2025-10-10",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:P/A:P",
+    "product": "[\"Student Result Management System Using PHP Student Result Management System Using PHP 2.0\"]",
+    "cve": "CVE-2025-56710",
+    "description": "Student Result Management System Using PHP是一个学生成绩管理系统。Student Result Management System Using PHP存在跨站请求伪造漏洞，该漏洞源于Profile Page未充分验证请求是否来自可信用户，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://medium.com/@mrshaikh841/csrf-pocs-1c96d9305298",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-18",
+    "open_time": "2025-10-10",
+    "update_time": "2025-10-10",
+    "data_summary": "1c8c4bd9ec894c16c1a0fab5b8672d1b"
+}

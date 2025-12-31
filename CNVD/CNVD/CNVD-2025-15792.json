@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-15 11:04:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15792",
+    "spider_time": 1752577466081,
+    "name": "Tenda A15 HTTP POST请求缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-15792",
+    "publish": "2025-07-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda A15 15.13.07.13\", \"Tenda A15 15.13.07.09\"]",
+    "cve": "CVE-2025-4897",
+    "description": "Tenda A15是一款双频千兆无线路由器。Tenda A15存在缓冲区溢出漏洞。该漏洞源于HTTP POST请求处理器组件对/goform/multimodalAdd文件的处理不当，攻击者可利用该漏洞远程执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.309453\nhttps://vuldb.com/?ctiid.309453\nhttps://vuldb.com/?submit.578035\nhttps://github.com/byxs0x0/cve2/blob/main/tenda%20AC15.md\nhttps://www.tenda.com.cn/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-07-15",
+    "update_time": "2025-07-15",
+    "data_summary": "78c828c9912f2049307e11d22ca7a330"
+}

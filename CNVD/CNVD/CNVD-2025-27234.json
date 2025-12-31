@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-07 06:20:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27234",
+    "spider_time": 1762496445579,
+    "name": "Tenda CH22 fromSafeUrlFilter函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-27234",
+    "publish": "2025-11-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda CH22 1.0.0.1\"]",
+    "cve": "CVE-2025-12233",
+    "description": "Tenda CH22是中国腾达（Tenda）公司的一款网络设备。Tenda CH22 1.0.0.1版本存在缓冲区溢出漏洞，该漏洞源于文件/goform/SafeUrlFilter中函数fromSafeUrlFilter的参数page未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-12233",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://tenda.com.cn/material/show/2230",
+    "patch": "Tenda CH22 fromSafeUrlFilter函数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-31",
+    "open_time": "2025-11-07",
+    "update_time": "2025-11-07",
+    "data_summary": "1088baafc6bcb0e8732d8b0b99cdf82b"
+}

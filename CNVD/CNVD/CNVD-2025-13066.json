@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-20 07:03:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13066",
+    "spider_time": 1750403031780,
+    "name": "D-Link DIR-632 /biurl_grou文件缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-13066",
+    "publish": "2025-06-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-632 FW103B08\"]",
+    "cve": "CVE-2025-5969",
+    "description": "D-Link DIR-632是中国友讯（D-Link）公司的一款路由器。D-Link DIR-632存在缓冲区溢出漏洞，该漏洞源于HTTP POST Request Handler组件中文件/biurl_grou未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/xiaobor123/vul-finds/tree/main/vul-find-dir632-dlink-FUN_00425fd8",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "1e13a41f6b4a5f0b5e75b5e897381c1e"
+}

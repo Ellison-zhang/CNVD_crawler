@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-14 07:04:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27882",
+    "spider_time": 1763103892898,
+    "name": "WordPress Ovatheme Events Manager plugin未经授权的访问漏洞",
+    "cnvd": "CNVD-2025-27882",
+    "publish": "2025-11-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress Ovatheme Events Manager plugin <=1.8.6\"]",
+    "cve": "CVE-2025-7663",
+    "description": "WordPress Ovatheme Events Manager plugin是WordPress平台上的一个事件管理插件，主要用于创建和管理活动日历、门票销售等功能。WordPress Ovatheme Events Manager plugin存在未经授权的访问漏洞，该漏洞源于缺少能力检查，攻击者可利用该漏洞导致未经授权的访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://themeforest.net/item/em4u-event-management-multipurpose-wordpress-theme/20846579",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/53f12e61-fdb0-4838-b733-fc4d7a4ff016?source=cve",
+    "patch": "WordPress Ovatheme Events Manager plugin未经授权的访问漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-12",
+    "open_time": "2025-11-14",
+    "update_time": "2025-11-14",
+    "data_summary": "da3e39d468851aa75e0a5f9e18ba53e2"
+}

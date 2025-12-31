@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-15 07:06:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15726",
+    "spider_time": 1752563189901,
+    "name": "Tenda AC9命令注入漏洞",
+    "cnvd": "CNVD-2025-15726",
+    "publish": "2025-07-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Tenda AC9 15.03.02.13\"]",
+    "cve": "CVE-2025-5836",
+    "description": "Tenda AC9是中国腾达（Tenda）公司的一款无线路由器。Tenda AC9存在命令注入漏洞，该漏洞源于文件/goform/SetIPTVCfg中参数list未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://candle-throne-f75.notion.site/Tenda-AC9-formSetIptv-209df0aa11858061ae2bcbf83918d034",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/material/show/102908",
+    "patch": "Tenda AC9命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-10",
+    "open_time": "2025-07-15",
+    "update_time": "2025-07-15",
+    "data_summary": "3617bc8206ff3552d39d3a3bc156d198"
+}

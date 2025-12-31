@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 09:08:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16535",
+    "spider_time": 1753088919300,
+    "name": "NETGEAR EX6150 sub_410090函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16535",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"NETGEAR EX6100 1.0.0.46_1.0.76\"]",
+    "cve": "CVE-2025-6511",
+    "description": "NETGEAR EX6100是一款双频无线扩展器，主要用于增强现有WiFi网络的覆盖范围，尤其适合大户型房间或存在信号盲区的场景。NETGEAR EX6100存在缓冲区溢出漏洞，该漏洞源于sub_410090函数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/xiaobor123/vul-finds/tree/main/vul-find-ex6150-netgear",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "eced3a883e7eacbe779792db49cf351d"
+}

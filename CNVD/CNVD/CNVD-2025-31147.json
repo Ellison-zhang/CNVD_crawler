@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-24 01:35:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31147",
+    "spider_time": 1766540129014,
+    "name": "Apple macOS Tahoe验证不足漏洞",
+    "cnvd": "CNVD-2025-31147",
+    "publish": "2025-12-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Apple macOS Tahoe <26.1\"]",
+    "cve": "CVE-2025-43466",
+    "description": "Apple macOS Tahoe是苹果公司于‌2025年6月10日‌发布的桌面操作系统，采用LiquidGlass设计语言，并整合了多项AI与跨设备功能。Apple macOS Tahoe存在验证不足漏洞，攻击者可利用该漏洞导致应用访问敏感用户数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43466",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://support.apple.com/en-us/125634",
+    "patch": "Apple macOS Tahoe验证不足漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-19",
+    "open_time": "2025-12-23",
+    "update_time": "2025-12-23",
+    "data_summary": "e186fc9afc74eaee665c28fd0690ab33"
+}

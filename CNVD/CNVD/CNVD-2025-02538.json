@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-12 17:31:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02538",
+    "spider_time": 1739352701811,
+    "name": "Microsoft Windows Telephony Server存在未明漏洞（CNVD-2025-02538）",
+    "cnvd": "CNVD-2025-02538",
+    "publish": "2025-01-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Windows Server 2016\", \"Microsoft Windows Server 2019\", \"Microsoft Windows Server 2012\", \"Microsoft Windows Server 2008 R2\", \"Microsoft Windows Server 2012 R2\", \"Microsoft Window 11\", \"Microsoft Window 10\", \"Microsoft Windows Server 2022 23H2\", \"Microsoft Windows Server 2008 22H2\", \"Microsoft Windows Server 2008 21H2\", \"Microsoft Windows Server 2008 1809\", \"Microsoft Windows Server 2008 1607\", \"Microsoft Windows Server 2022 22H2\", \"Microsoft Windows Server 2022 24H2\"]",
+    "cve": "CVE-2025-21417",
+    "description": "Microsoft Windows Telephony Server是美国微软（Microsoft）公司的一个组件，它支持电话应用程序编程接口（TAPI），允许计算机程序与共享的电话服务进行通信。Microsoft Windows Telephony Server存在安全漏洞。攻击者利用该漏洞可以远程执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-21417",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21417",
+    "patch": "Microsoft Windows Telephony Server存在未明漏洞（CNVD-2025-02538）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-17",
+    "open_time": "2025-02-06",
+    "update_time": "2025-02-06",
+    "data_summary": "71b705dc2971d83a3d4a89f390f490ef"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-28 10:03:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22723",
+    "spider_time": 1759053832276,
+    "name": "GPT Academic开放重定向漏洞",
+    "cnvd": "CNVD-2025-22723",
+    "publish": "2025-09-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"GPT Academic GPT Academic 3.83\"]",
+    "cve": "CVE-2024-10812",
+    "description": "GPT Academic是一个为GPT/GLM等LLM大语言模型提供实用化交互的接口。GPT Academic存在开放重定向漏洞，该漏洞源于用户重定向到用户控制的file参数指定的URL时未进行适当的验证或清理，攻击者可利用该漏洞导致钓鱼攻击、恶意软件分发和用户凭据窃取。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://huntr.com/bounties/51408ebd-e0be-489d-8088-f210087dbd6a",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/binary-husky/gpt_academic/releases/tag/version3.91",
+    "patch": "GPT Academic开放重定向漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-09-28",
+    "update_time": "2025-09-28",
+    "data_summary": "cec866982d11383a3add997d1d47cdf8"
+}

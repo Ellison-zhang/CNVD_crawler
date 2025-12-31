@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-16 09:04:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07323",
+    "spider_time": 1744794281866,
+    "name": "F5 BIG-IP PEM存在未明漏洞",
+    "cnvd": "CNVD-2025-07323",
+    "publish": "2025-04-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"F5 BIG-IP PEM >=17.1.0\\uff0c<=17.1.1\", \"F5 BIG-IP PEM >=16.1.0\\uff0c<=16.1.4\", \"F5 BIG-IP PEM >=15.1.0\\uff0c<=15.1.10\"]",
+    "cve": "CVE-2025-22891",
+    "description": "F5 BIG-IP PEM是美国F5公司的使用在BIG-IP中的一款策略执行器。F5 BIG-IP PEM存在安全漏洞，该漏洞是由于当BIG-IP PEM控制平面侦听器虚拟服务器配置有Diameter Endpoint配置文件时，攻击者可利用该漏洞导致虚拟服务器停止处理新的客户端连接并导致内存资源利用率增加。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://my.f5.com/manage/s/article/K000139778",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://my.f5.com/manage/s/article/K000139778",
+    "patch": "F5 BIG-IP PEM存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-04-16",
+    "update_time": "2025-04-16",
+    "data_summary": "9ede9132d5aba8a176c77e987877f72e"
+}

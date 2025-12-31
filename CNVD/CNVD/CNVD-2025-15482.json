@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-11 08:06:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15482",
+    "spider_time": 1752221213186,
+    "name": "D-Link DCS-7517信任管理问题漏洞",
+    "cnvd": "CNVD-2025-15482",
+    "publish": "2025-07-11",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:N/A:N",
+    "product": "[\"D-Link DCS-7517 <=2.02.0\"]",
+    "cve": "CVE-2025-6932",
+    "description": "D-Link DCS-7517是中国友讯（D-Link）公司的一款网络摄像机。D-Link DCS-7517 2.02.0及之前版本存在信任管理问题漏洞，该漏洞源于使用硬编码密码。攻击者可利用该漏洞导致机密性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6932",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttp://cdn2.v50to.cc/dlink/DCS-7517_B1_FW_v2.02.01/report_2.pdf",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-07-11",
+    "update_time": "2025-07-11",
+    "data_summary": "5135fd7867119b49b5b8f1e896699876"
+}

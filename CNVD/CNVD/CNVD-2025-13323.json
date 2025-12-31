@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 02:36:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13323",
+    "spider_time": 1750732563157,
+    "name": "Adobe Substance3D Sampler越界写入漏洞（CNVD-2025-13323）",
+    "cnvd": "CNVD-2025-13323",
+    "publish": "2025-06-24",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Substance 3D Sampler <=5.0\"]",
+    "cve": "CVE-2025-43581",
+    "description": "Adobe Substance 3D Sampler是Adobe公司推出的一款专业软件，旨在帮助用户轻松创建和迭代真实材质贴图。Adobe Substance3D Sampler存在越界写入漏洞，攻击者可利用该漏洞在系统上执行代码，或导致应用程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/substance3d-sampler/apsb25-55.html",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://helpx.adobe.com/security/products/substance3d-sampler/apsb25-55.html",
+    "patch": "Adobe Substance3D Sampler越界写入漏洞（CNVD-2025-13323）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-24",
+    "update_time": "2025-06-24",
+    "data_summary": "03722cea1377b1b1d196657a3c311c43"
+}

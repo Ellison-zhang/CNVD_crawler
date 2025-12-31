@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-05 10:05:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30169",
+    "spider_time": 1764929125018,
+    "name": "WordPress HT Mega plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-30169",
+    "publish": "2025-12-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress HT Mega plugin <=3.0.0\"]",
+    "cve": "CVE-2025-13141",
+    "description": "WordPress HT Mega plugin是一款专为WordPress网站设计的Elementor页面构建器插件。WordPress HT Mega plugin存在跨站脚本漏洞，该漏洞源于对用户提供HTML标签名的输入验证不足，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/changeset/3398480/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/ht-mega-for-elementor",
+    "patch": "WordPress HT Mega plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-25",
+    "open_time": "2025-12-05",
+    "update_time": "2025-12-05",
+    "data_summary": "7c7c6ffa8d8e27fa31b7b19b91696e2e"
+}

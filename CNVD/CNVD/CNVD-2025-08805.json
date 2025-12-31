@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-29 10:06:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08805",
+    "spider_time": 1745921182498,
+    "name": "Esri Portal for ArcGIS信息泄露漏洞",
+    "cnvd": "CNVD-2025-08805",
+    "publish": "2025-04-29",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"esri Esri Portal For ArcGis <=11.2\"]",
+    "cve": "CVE-2024-38040",
+    "description": "Esri Portal For ArcGIS是esri公司的一种允许在组织内与其他人共享地图、场景、应用程序和其他地理信息的组件。Esri Portal for ArcGIS存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-38040",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.esri.com/arcgis-blog/products/trust-arcgis/administration/portal-for-arcgis-security-2024-update-2-released/",
+    "patch": "Esri Portal for ArcGIS信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-08",
+    "open_time": "2025-04-29",
+    "update_time": "2025-04-29",
+    "data_summary": "48dbba1cead57b31e2cc3e654df46e10"
+}

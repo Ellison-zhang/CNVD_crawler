@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-09 08:05:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23120",
+    "spider_time": 1759997135187,
+    "name": "Tenda AC18弱密码漏洞",
+    "cnvd": "CNVD-2025-23120",
+    "publish": "2025-10-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:P/A:P",
+    "product": "[\"Tenda AC18 15.03.05.19\"]",
+    "cve": "CVE-2025-8182",
+    "description": "Tenda AC18是深圳市吉祥腾达科技有限公司于2016年7月推出的双频无线路由器，主要面向别墅及大户型家庭用户。Tenda AC18存在弱密码漏洞，该漏洞源于Samba组件中/etc_ro/smb.conf文件的代码缺陷。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.317596\nhttps://vuldb.com/?ctiid.317596\nhttps://vuldb.com/?submit.621977\nhttps://www.notion.so/23a54a1113e7802abfabf1275a555f48\nhttps://www.tenda.com.cn/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-28",
+    "open_time": "2025-10-09",
+    "update_time": "2025-10-09",
+    "data_summary": "c3d6ed4ff0ddad29fdf18459c44bb49e"
+}

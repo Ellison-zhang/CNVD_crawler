@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-28 06:11:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08639",
+    "spider_time": 1745820660902,
+    "name": "Job Castle存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08639",
+    "publish": "2025-04-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Job Castle Job Castle\"]",
+    "cve": null,
+    "description": "Job Castle是一个网络应用程序，可帮助雇主上传他们的要求，候选人上传他们的简历，以便他们得到相应的匹配和排名。Job Castle存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注主页及时更新：\nhttps://code-projects.org/job-castle-in-php-css-java-and-mysql-free-download/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-11",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "e830a0e66edeaae5f653e8aa25eae084"
+}

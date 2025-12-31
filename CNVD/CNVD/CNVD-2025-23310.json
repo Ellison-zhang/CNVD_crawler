@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-13 08:05:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23310",
+    "spider_time": 1760342755197,
+    "name": "Taxi Stand Management System admin/admin-profile.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-23310",
+    "publish": "2025-10-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"Taxi Stand Management System Taxi Stand Management System 1.0\"]",
+    "cve": "CVE-2025-7942",
+    "description": "Taxi Stand Management System是一个出租车站管理系统。Taxi Stand Management System存在跨站脚本漏洞，该漏洞源于/admin/admin-profile.php文件中adminname参数未对用户输入进行有效过滤。攻击者可利用该漏洞通过注入恶意脚本实施远程跨站脚本攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.317083\nhttps://vuldb.com/?ctiid.317083\nhttps://vuldb.com/?submit.619169\nhttps://github.com/LagonGit/ReportCVE/issues/7\nhttps://phpgurukul.com/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-10-11",
+    "update_time": "2025-10-11",
+    "data_summary": "b413deb60edd1e87d34e13a89c9f3d90"
+}

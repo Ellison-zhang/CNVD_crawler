@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 08:05:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12692",
+    "spider_time": 1750147506922,
+    "name": "Samsung Internet ClientProvider授权问题漏洞",
+    "cnvd": "CNVD-2025-12692",
+    "publish": "2025-06-17",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:P/I:P/A:P",
+    "product": "[\"Samsung Samsung Internet <28.0.0.59\"]",
+    "cve": "CVE-2025-20995",
+    "description": "Samsung Internet ‌是三星公司推出的一款网页浏览器。Samsung Internet存在授权问题漏洞，该漏洞源于ClientProvider权限不足处理不当，攻击者可利用该漏洞读写任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=06",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.samsung.com/us/support/owners/app/samsung-internet",
+    "patch": "Samsung Internet ClientProvider授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "e5c4df51dc4221f6ab78cfd75a1c75c4"
+}

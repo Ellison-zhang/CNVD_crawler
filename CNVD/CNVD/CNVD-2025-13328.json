@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 03:26:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13328",
+    "spider_time": 1750735573610,
+    "name": "Adobe InDesign越界写入漏洞（CNVD-2025-13328）",
+    "cnvd": "CNVD-2025-13328",
+    "publish": "2025-06-24",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Adobe InDesign <=ID20.2\", \"Adobe Adobe InDesign <=ID19.5.3\"]",
+    "cve": "CVE-2025-43558",
+    "description": "Adobe InDesign是美国奥多比（Adobe）公司的一套排版编辑应用程序。Adobe InDesign存在越界写入漏洞，攻击者可利用该漏洞在系统上执行任意代码，或导致应用程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/indesign/apsb25-53.html",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://helpx.adobe.com/security/products/indesign/apsb25-53.html",
+    "patch": "Adobe InDesign越界写入漏洞（CNVD-2025-13328）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-24",
+    "update_time": "2025-06-24",
+    "data_summary": "0679ba0e7dbfb72d9386e9c613ac02cc"
+}

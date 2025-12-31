@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 03:19:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23968",
+    "spider_time": 1760671154601,
+    "name": "E-Commerce Website pages/admin_product_details.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-23968",
+    "publish": "2025-10-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"E-Commerce Website E-Commerce Website 1.0\"]",
+    "cve": "CVE-2025-11094",
+    "description": "E-Commerce Website是一个电商网站。E-Commerce Website存在SQL注入漏洞，该漏洞源于pages/admin_product_details.php文件对prod_id参数未进行安全过滤。攻击者可利用该漏洞通过操纵prod_id参数执行恶意SQL指令，非法获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.326175\nhttps://vuldb.com/?ctiid.326175\nhttps://vuldb.com/?submit.659820\nhttps://github.com/wolfsecurity2/CVE/tree/main/tmp34\nhttps://code-projects.org/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-29",
+    "open_time": "2025-10-16",
+    "update_time": "2025-10-16",
+    "data_summary": "c998500170b505fa2b85b964920c7feb"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-07 06:19:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27027",
+    "spider_time": 1762496376126,
+    "name": "Chat System confirm_password.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-27027",
+    "publish": "2025-11-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Chat System Chat System <=1.0\"]",
+    "cve": "CVE-2025-5881",
+    "description": "Chat System是一个聊天系统。Chat System存在SQL注入漏洞，该漏洞源于文件/user/confirm_password.php中参数cid缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5881",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-23",
+    "open_time": "2025-11-06",
+    "update_time": "2025-11-06",
+    "data_summary": "834cfe04925c8f7a68414571b02b5fe6"
+}

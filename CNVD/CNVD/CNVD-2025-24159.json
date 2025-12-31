@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 08:07:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24159",
+    "spider_time": 1760688468080,
+    "name": "Rockwell Automation Enhanced HIM跨站点请求伪造漏洞",
+    "cnvd": "CNVD-2025-24159",
+    "publish": "2025-10-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Rockwell Automation Enhanced HIM\"]",
+    "cve": "CVE-2023-2746",
+    "description": "Rockwell Automation Enhanced HIM是Rockwell Automation公司的一种高级人机界面模块。它是用于与Rockwell Automation控制系统进行交互的设备，提供了更直观、更便捷的操作和监控界面。Rockwell Automation Enhanced HIM存在跨站点请求伪造漏洞，该漏洞源于应用程序使用的API未得到充分保护，并且使用了不正确的跨源资源共享(CORS) 设置，攻击者可利用该漏洞导致跨站点请求伪造(CSRF) 攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-2746",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1139760",
+    "patch": "Rockwell Automation Enhanced HIM跨站点请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-07-13",
+    "open_time": "2025-10-17",
+    "update_time": "2025-10-17",
+    "data_summary": "81da0ecf68242bc9c28055a11c518c95"
+}

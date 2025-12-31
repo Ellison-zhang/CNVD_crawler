@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-21 08:04:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03429",
+    "spider_time": 1740125087388,
+    "name": "Linux kernel mlx5_lag_port_sel_create函数资源管理错误漏洞",
+    "cnvd": "CNVD-2025-03429",
+    "publish": "2025-02-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Linux Kernel\"]",
+    "cve": "CVE-2025-21675",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在资源管理错误漏洞，该漏洞源于mlx5_lag_port_sel_create函数在创建端口选择结构失败时，未正确清理已分配的资源，攻击者可利用该漏洞导致在后续尝试重新创建时可能重复销毁资源，引发内核崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-21675",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/1f6e619ef2a4def555b14ac2aeb4304bfccad59b",
+    "patch": "Linux kernel mlx5_lag_port_sel_create函数资源管理错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-02-21",
+    "update_time": "2025-02-21",
+    "data_summary": "a476753bacdb8b6b46011ee5190ca9ce"
+}

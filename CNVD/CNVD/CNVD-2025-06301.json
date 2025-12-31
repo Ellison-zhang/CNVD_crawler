@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-02 08:05:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06301",
+    "spider_time": 1743581154206,
+    "name": "Xiaomi Mi browser和Xiaomi Mint Browser输入验证错误漏洞",
+    "cnvd": "CNVD-2025-06301",
+    "publish": "2025-04-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"Mi mi browser 10.5.6-g\", \"Mi mint browser 1.5.3\"]",
+    "cve": "CVE-2019-10875",
+    "description": "Xiaomi Mi browser和Xiaomi Mint Browser都是中国小米科技（Xiaomi）公司的一款轻量级Web浏览器。Xiaomi Mi browser和Xiaomi Mint Browser存在输入验证错误漏洞，该漏洞源于网络系统或产品未对输入的数据进行正确的验证。攻击者可利用该漏洞控制受影响的系统。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2019-10875",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.mi.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-04-26",
+    "open_time": "2025-04-02",
+    "update_time": "2025-04-02",
+    "data_summary": "e25c7d7c7b4e063e863a687b6cfff1d8"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-07 07:05:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27271",
+    "spider_time": 1762499147489,
+    "name": "TOTOLINK N600R sub_41773C函数空指针取消引用漏洞",
+    "cnvd": "CNVD-2025-27271",
+    "publish": "2025-11-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"TOTOLINK N600R v4.3.0cu.7866_B20220506\"]",
+    "cve": "CVE-2025-60336",
+    "description": "TOTOLINK N600R是韩国品牌TOTOLINK于2013年推出的双频无线路由器，支持2.4GHz和5GHz双频并发，最高无线传输速率达300Mbps。TOTOLINK N600R存在空指针取消引用漏洞，该漏洞源于sub_41773C函数存在空指针取消引用，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/z472421519/BinaryAudit/blob/main/PoC/NPD/TOTOLink/sub_41773C/sub_41773C.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-24",
+    "open_time": "2025-11-07",
+    "update_time": "2025-11-07",
+    "data_summary": "c086288e409f2d9a3aaba8c18beb5194"
+}

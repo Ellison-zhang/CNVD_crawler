@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-01 11:03:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14531",
+    "spider_time": 1751367831015,
+    "name": "TOTOLINK AC1200 T8缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-14531",
+    "publish": "2025-07-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK AC1200 T8 4.1.5cu.861_B20230220\"]",
+    "cve": "CVE-2024-8578",
+    "description": "TOTOLINK AC1200 T8是一款双频全千兆路由器。TOTOLINK AC1200 T8存在缓冲区溢出漏洞，该漏洞源于/cgi-bin/cstecgi.cgi页面的setWiFiMeshName方法中的device_name参数包含一个缓冲区溢出漏洞。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-8578",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-09-11",
+    "open_time": "2025-07-01",
+    "update_time": "2025-07-01",
+    "data_summary": "fcd08c46a54c33bc308d68ea320f4e2d"
+}

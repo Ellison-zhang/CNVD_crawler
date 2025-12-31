@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-12 09:04:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12280",
+    "spider_time": 1749719048166,
+    "name": "IBM Application Gateway权限分配不正确漏洞",
+    "cnvd": "CNVD-2025-12280",
+    "publish": "2025-06-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:C/A:N",
+    "product": "[\"IBM IBM Application Gateway >=19.12\\uff0c<=24.09\"]",
+    "cve": "CVE-2024-45655",
+    "description": "IBM Application Gateway是美国国际商业机器（IBM）公司的一个应用网关。提供了一个容器化的安全Web反向代理，该代理旨在位于您的应用程序之前，为您的应用程序无缝添加身份验证和授权保护。IBM Application Gateway 19.12至24.09版本存在权限分配不正确漏洞，攻击者可利用该漏洞导致本地特权用户执行未授权操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.ibm.com/support/pages/node/7235378",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7235378",
+    "patch": "IBM Application Gateway权限分配不正确漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-12",
+    "update_time": "2025-06-12",
+    "data_summary": "5ce6db59cb130c84ac9bac4dde83e978"
+}

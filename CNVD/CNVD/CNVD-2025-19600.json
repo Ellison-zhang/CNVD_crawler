@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-28 09:05:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19600",
+    "spider_time": 1756371957573,
+    "name": "Emby MediaBrowser访问控制错误漏洞",
+    "cnvd": "CNVD-2025-19600",
+    "publish": "2025-08-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:C/A:N",
+    "product": "[\"Emby MediaBrowser 4.9.0.35\"]",
+    "cve": "CVE-2025-46391",
+    "description": "Emby MediaBrowser是Emby公司的一个媒体服务器软件。Emby MediaBrowser存在访问控制错误漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-46391",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.gov.il/en/departments/dynamiccollectors/cve_advisories_listing?skip=0",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-18",
+    "open_time": "2025-08-28",
+    "update_time": "2025-08-28",
+    "data_summary": "b67e45050932fedba70992038eeedd02"
+}

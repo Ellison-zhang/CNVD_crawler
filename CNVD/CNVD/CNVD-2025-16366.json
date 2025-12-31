@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-18 11:03:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16366",
+    "spider_time": 1752836615064,
+    "name": "WordPress插件BeeTeam368 Extensions代码问题漏洞",
+    "cnvd": "CNVD-2025-16366",
+    "publish": "2025-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress BeeTeam368 Extensions plugin <=2.3.5\"]",
+    "cve": "CVE-2025-6423",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress插件BeeTeam368 Extensions存在代码问题漏洞，该漏洞源于缺少文件类型验证，攻击者可利用该漏洞导致任意文件上传和远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6423",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/96170b82-6ed9-4a52-8592-944163cdd3cf?source=cve",
+    "patch": "WordPress插件BeeTeam368 Extensions代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-07-18",
+    "update_time": "2025-07-18",
+    "data_summary": "d73015f7a5edf3a074d27616eb2ed344"
+}

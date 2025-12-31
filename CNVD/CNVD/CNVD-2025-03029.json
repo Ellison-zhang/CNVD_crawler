@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-18 03:06:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03029",
+    "spider_time": 1739847964588,
+    "name": "IBM Db2拒绝服务漏洞（CNVD-2025-03029）",
+    "cnvd": "CNVD-2025-03029",
+    "publish": "2025-02-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"IBM DB2 11.5\"]",
+    "cve": "CVE-2023-50308",
+    "description": "IBM Db2是美国国际商业机器（IBM）公司的一套关系型数据库管理系统。该系统的执行环境主要有UNIX、Linux、IBMi、z/OS以及Windows服务器版本。IBM Db2存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.auscert.org.au/bulletins/ESB-2024.0137",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7105506",
+    "patch": "IBM Db2拒绝服务漏洞（CNVD-2025-03029）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-01-12",
+    "open_time": "2025-02-18",
+    "update_time": "2025-02-18",
+    "data_summary": "dc4685990622f08f545eb48284d47101"
+}

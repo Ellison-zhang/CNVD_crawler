@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 13:14:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13932",
+    "spider_time": 1751030066837,
+    "name": "深圳达实智能股份有限公司停车场管理系统DasPmsWeb存在弱口令漏洞",
+    "cnvd": "CNVD-2025-13932",
+    "publish": "2025-06-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u8fbe\\u5b9e\\u667a\\u80fd\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u505c\\u8f66\\u573a\\u7ba1\\u7406\\u7cfb\\u7edfDasPmsWeb\"]",
+    "cve": null,
+    "description": "深圳达实智能股份有限公司是一家专注于物联网技术研发及应用推广的公司，致力于为用户提供全生命周期的智慧服务的公司。深圳达实智能股份有限公司停车场管理系统DasPmsWeb存在弱口令漏洞，攻击者可利用漏洞登录系统，获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://csdas.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-12",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "9bdb95debda49b110df00df3a0858f3d"
+}

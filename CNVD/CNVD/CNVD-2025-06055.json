@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-28 09:04:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06055",
+    "spider_time": 1743152670055,
+    "name": "Huawei HarmonyOS和EMUI HiView模块存在未明漏洞",
+    "cnvd": "CNVD-2025-06055",
+    "publish": "2025-03-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Huawei EMUI 12.0.0\", \"Huawei HarmonyOS 3.0.0\", \"Huawei HarmonyOS 2.1.0\", \"Huawei HarmonyOS 2.0.0\", \"Huawei HarmonyOS 3.1.0\", \"Huawei EMUI 13.0.0\", \"Huawei HarmonyOS 4.0.0\", \"Huawei HarmonyOS 4.2.0\", \"Huawei EMUI 14.0.0\"]",
+    "cve": "CVE-2024-54097",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei EMUI是华为公司开发的一种基于Android操作系统的用户界面。Huawei HarmonyOS和EMUI HiView模块存在安全漏洞，攻击者可利用该漏洞影响机密性和完整性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://consumer.huawei.com/en/support/bulletin/2024/12/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2024/12/",
+    "patch": "Huawei HarmonyOS和EMUI HiView模块存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-20",
+    "open_time": "2025-03-28",
+    "update_time": "2025-03-28",
+    "data_summary": "da9ac7f783e9ce1620ac0694acdbbe7e"
+}

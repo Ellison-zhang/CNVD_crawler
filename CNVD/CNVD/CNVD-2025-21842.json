@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-19 09:04:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21842",
+    "spider_time": 1758272687289,
+    "name": "Vehicle Parking Management System signup.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-21842",
+    "publish": "2025-09-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Vehicle Parking Management System Vehicle Parking Management System 1.13\"]",
+    "cve": "CVE-2025-7480",
+    "description": "Vehicle Parking Management System是一个停车管理系统。Vehicle Parking Management System存在SQL注入漏洞，该漏洞源于文件/users/signup.php中参数email的错误缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/f1rstb100d/myCVE/issues/110",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-09-19",
+    "update_time": "2025-09-19",
+    "data_summary": "a13958a61ed5ec993eeb792c62f276ce"
+}

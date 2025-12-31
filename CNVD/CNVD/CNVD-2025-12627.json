@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 10:04:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12627",
+    "spider_time": 1750068298578,
+    "name": "WordPress WP Extended plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12627",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress WP Extended plugin <=3.0.15\"]",
+    "cve": "CVE-2025-4963",
+    "description": "WordPress WP Extended plugin是一个功能强大的WordPress插件，旨在扩展WordPress核心功能，提供管理专业WordPress网站所需的所有基本工具‌。WordPress WP Extended plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wordpress.org/plugins/wpextended/#developers",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/wpextended/#developers",
+    "patch": "WordPress WP Extended plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "6af11d893768281d338f4d502a3307d8"
+}

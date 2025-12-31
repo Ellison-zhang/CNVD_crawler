@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-20 11:04:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05455",
+    "spider_time": 1742468650919,
+    "name": "Google Pixel逻辑错误漏洞（CNVD-2025-05455）",
+    "cnvd": "CNVD-2025-05455",
+    "publish": "2025-03-20",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:P/A:P",
+    "product": "[\"Google Pixel\"]",
+    "cve": "CVE-2024-56187",
+    "description": "Google Pixel是美国谷歌（Google）公司的一款智能手机。Google Pixel存在逻辑错误漏洞，该漏洞源于ppcfw.c的ppcfw_deny_sec_dram_access中代码逻辑错误，攻击者可利用该漏洞导致从TEE内存中任意读取，不需要系统执行权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-56187",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/pixel/2025-03-01",
+    "patch": "Google Pixel逻辑错误漏洞（CNVD-2025-05455）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-03-20",
+    "update_time": "2025-03-20",
+    "data_summary": "b76b27becf30eeed7ce34f0d4ed109ee"
+}

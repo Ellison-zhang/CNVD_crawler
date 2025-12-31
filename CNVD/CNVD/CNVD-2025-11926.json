@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-09 09:04:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11926",
+    "spider_time": 1749459893774,
+    "name": "Gnu Screen任意文件创建漏洞",
+    "cnvd": "CNVD-2025-11926",
+    "publish": "2025-06-09",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Gnu Screen 5.0.0\"]",
+    "cve": "CVE-2025-23395",
+    "description": "Gnu Screen是美国GNU社区的一个应用软件。提供一个物理终端上获得多个虚拟终端的效果。Gnu Screen存在任意文件创建漏洞，该漏洞源于logfile_reopen函数未正确丢弃权限，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://access.redhat.com/security/cve/cve-2025-23395",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-06-09",
+    "update_time": "2025-06-09",
+    "data_summary": "a40647ef3a48f00fb86f28319aedc36c"
+}

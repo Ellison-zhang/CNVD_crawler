@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-10 06:06:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20769",
+    "spider_time": 1757484362361,
+    "name": "Akinsoft ProKuafor跨站脚本漏洞",
+    "cnvd": "CNVD-2025-20769",
+    "publish": "2025-09-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"Akinsoft ProKuafor >=s1.02.07\\uff0c<v1.02.08\"]",
+    "cve": "CVE-2024-12974",
+    "description": "Akinsoft ProKuafor是土耳其Akinsoft公司的一个在线预约与客户管理平台。Akinsoft ProKuafor s1.02.07至v1.02.08之前版本存在跨站脚本漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.usom.gov.tr/bildirim/tr-25-0204",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.akinsoft.com.tr/bulut-cozumler/prokuafor",
+    "patch": "Akinsoft ProKuafor跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-04",
+    "open_time": "2025-09-09",
+    "update_time": "2025-09-09",
+    "data_summary": "905d771f298edd59af02419c82de971b"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-26 10:05:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29408",
+    "spider_time": 1764151519720,
+    "name": "Revive Adserver暴力攻击漏洞",
+    "cnvd": "CNVD-2025-29408",
+    "publish": "2025-11-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Revive Adserver Revive Adserver 5.4.1\"]",
+    "cve": "CVE-2023-26756",
+    "description": "Revive Adserver是一款开源的广告服务系统，允许广告商、出版商和网络在多个平台上投放广告（如网站、应用程序、视频播放器），并支持广告效果跟踪、活动管理及投放规则定义。Revive Adserver存在暴力攻击漏洞，该漏洞源于登录页面对于登录验证缺乏速率限制。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-26756",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.revive-adserver.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-04-19",
+    "open_time": "2025-11-26",
+    "update_time": "2025-11-26",
+    "data_summary": "eb408b84f5359bdb82647a240cf75c33"
+}

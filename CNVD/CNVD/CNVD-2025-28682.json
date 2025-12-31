@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-20 06:11:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28682",
+    "spider_time": 1763619115007,
+    "name": "Ivanti Endpoint Manager SQL注入漏洞",
+    "cnvd": "CNVD-2025-28682",
+    "publish": "2025-11-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Ivanti Endpoint Manager <=2024 SU3 SR1\"]",
+    "cve": "CVE-2025-62390",
+    "description": "Ivanti Endpoint Manager是Ivanti公司开发的综合性端点管理解决方案，用于统一管理企业网络中的各类设备，包括Windows、macOS、Linux、ChromeOS、移动设备及物联网设备。Ivanti Endpoint Manager存在SQL注入漏洞，该漏洞源于远程认证攻击者可读取数据库中的任意数据，攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-62390",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Endpoint-Manager-EPM-October-2025?language=en_US",
+    "patch": "Ivanti Endpoint Manager SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "2b05be06aca407b0a0a13ed1e84bb0ce"
+}

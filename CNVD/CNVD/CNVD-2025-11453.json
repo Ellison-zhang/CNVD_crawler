@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:05:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11453",
+    "spider_time": 1749110734714,
+    "name": "Triangle MicroWorks SCADA Data Gateway格式化字符串错误漏洞",
+    "cnvd": "CNVD-2025-11453",
+    "publish": "2025-06-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Triangle MicroWorks SCADA Data Gateway <=5.01.03\"]",
+    "cve": "CVE-2023-2186",
+    "description": "Triangle MicroWorks SCADA Data Gateway是美国Triangle MicroWorks公司的一款SCADA数据网关产品。Triangle MicroWorks SCADA Data Gateway存在格式化字符串错误漏洞，攻击者可利用该漏洞执行任意代码，获取主机权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.trellix.com/en-us/about/newsroom/stories/research/industrial-and-manufacturing-cves.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://trianglemicroworks.com/‌",
+    "patch": "Triangle MicroWorks SCADA Data Gateway格式化字符串错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-06-08",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "909598d89b65e390ecdb8ec2842c40dc"
+}

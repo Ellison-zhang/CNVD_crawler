@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-31 10:05:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26158",
+    "spider_time": 1761905110280,
+    "name": "ZTE MC889A Pro拒绝服务漏洞",
+    "cnvd": "CNVD-2025-26158",
+    "publish": "2025-10-31",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"ZTE ZTE MC889A Pro\"]",
+    "cve": "CVE-2025-46583",
+    "description": "ZTE MC889A Pro是中国中兴通讯（ZTE）公司的一款路由器。ZTE MC889A Pro存在拒绝服务漏洞，该漏洞源于短消息服务接口输入参数验证不足，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-46583",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.zte.com.cn/zte-iccp-isupport-webui/bulletin/detail/2594779029512220894",
+    "patch": "ZTE MC889A Pro拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-31",
+    "open_time": "2025-10-31",
+    "update_time": "2025-10-31",
+    "data_summary": "f426efd277f9cf07f84204cefeb1cabd"
+}

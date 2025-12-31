@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-09 10:04:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15357",
+    "spider_time": 1752055469409,
+    "name": "GNU C库存在未明漏洞",
+    "cnvd": "CNVD-2025-15357",
+    "publish": "2025-07-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:P/A:P",
+    "product": "[\"Gnu GNU C\\u5e93 >=2.40\"]",
+    "cve": "CVE-2025-5745",
+    "description": "GNU C库是GNU项目开发的C标准库实现，为Linux系统提供核心的API支持，是大多数C程序运行的基础。GNU C库存在安全漏洞。攻击者可利用该漏洞覆盖调用者的内容，从而导致控制流被篡改或输入字符串泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://sourceware.org/bugzilla/show_bug.cgi?id=33060",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：https://www.gnu.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-07-09",
+    "update_time": "2025-07-09",
+    "data_summary": "cf16cb1f7d0deabdac75035a7758d698"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 07:05:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12753",
+    "spider_time": 1750230325876,
+    "name": "SAP Supplier Relationship Management跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12753",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"SAP supplier relationship management\"]",
+    "cve": "CVE-2025-43006",
+    "description": "SAP Supplier Relationship Management (Master Data Management Catalog)是一款用于管理供应商关系的系统，提供主数据管理功能。SAP Supplier Relationship Management (Master Data Management Catalog)存在跨站脚本漏洞，该漏洞允许未经身份验证的攻击者在应用程序中执行恶意脚本。攻击者可以利用该漏洞导致跨站脚本（XSS）攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://me.sap.com/notes/3588455",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttps://me.sap.com/notes/3588455",
+    "patch": "SAP Supplier Relationship Management跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-19",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "2895fc8bfc8ae586b0c9743778d92122"
+}

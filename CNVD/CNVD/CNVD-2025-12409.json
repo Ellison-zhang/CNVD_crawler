@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 09:06:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12409",
+    "spider_time": 1749805603484,
+    "name": "Foxit PDF Reader内存破坏漏洞",
+    "cnvd": "CNVD-2025-12409",
+    "publish": "2025-06-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Foxit Foxit PDF Reader <=24.003.20054\"]",
+    "cve": "CVE-2025-5099",
+    "description": "Foxit PDF Reader是一款用于阅读和处理PDF文档的软件。Foxit PDF Reader中存在内存破坏漏洞。该漏洞源于原生库在尝试PDF渲染时发生越界写入，导致内存损坏。攻击者可以利用该漏洞实现内存损坏，并可能导致任意代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://korelogic.com/Resources/Advisories/KL-001-2025-004.txt",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.foxit.com",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-30",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "f0d243d6781d11cce8567edcbe9f8a3d"
+}

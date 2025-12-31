@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-07 06:20:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27034",
+    "spider_time": 1762496418855,
+    "name": "Chat System chatroom.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-27034",
+    "publish": "2025-11-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Chat System Chat System 1.0\"]",
+    "cve": "CVE-2024-13020",
+    "description": "Chat System是一个聊天系统。Chat System存在SQL注入漏洞，该漏洞源于文件/admin/chatroom.php对id参数的输入未进行充分的验证和过滤。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.289711",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-30",
+    "open_time": "2025-11-06",
+    "update_time": "2025-11-06",
+    "data_summary": "7bd36695252c283569d8edcb5b2d6139"
+}

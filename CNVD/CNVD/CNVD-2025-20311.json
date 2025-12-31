@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-04 09:04:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20311",
+    "spider_time": 1756976666861,
+    "name": "Simopro Technology WinMatrix3 SQL注入漏洞（CNVD-2025-20311）",
+    "cnvd": "CNVD-2025-20311",
+    "publish": "2025-09-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Simopro Technology WinMatrix3\"]",
+    "cve": "CVE-2024-7202",
+    "description": "Simopro Technology WinMatrix3是一款IT资源管理系统 ，主要用于企业级电脑资产管理、端点安全控制及IT运维管理。Simopro Technology WinMatrix3存在SQL注入漏洞，该漏洞源于查询功能缺乏对用户输入的适当验证，攻击者可利用该漏洞注入SQL命令来读取、修改和删除数据库内容。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.twcert.org.tw/tw/cp-132-7962-dd216-1.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.simopro.com/product_description.html",
+    "patch": "Simopro Technology WinMatrix3 SQL注入漏洞（CNVD-2025-20311）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-31",
+    "open_time": "2025-09-04",
+    "update_time": "2025-09-04",
+    "data_summary": "ec594c04d2402c6d88d41f4936b10037"
+}

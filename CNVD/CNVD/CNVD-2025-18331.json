@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 08:05:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18331",
+    "spider_time": 1755072352856,
+    "name": "WordPress Image Wall跨站脚本漏洞",
+    "cnvd": "CNVD-2025-18331",
+    "publish": "2025-08-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"WordPress Image Wall <=3.1\"]",
+    "cve": "CVE-2025-48156",
+    "description": "WordPress Image Wall是一款WordPress插件，允许用户通过图片浏览博客文章或页面内容。WordPress Image Wall存在跨站脚本漏洞，该漏洞源于输入中和不当，攻击者可利用该漏洞通过注入恶意脚本，执行钓鱼攻击，执行恶意脚本。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-48156",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/image-wall/",
+    "patch": "WordPress Image Wall跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "bf7128df888069d755f4871f6705a154"
+}

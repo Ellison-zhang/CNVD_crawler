@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-27 06:09:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29334",
+    "spider_time": 1764223750579,
+    "name": "Online Security Guards Hiring System跨站脚本漏洞",
+    "cnvd": "CNVD-2025-29334",
+    "publish": "2025-11-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"Online Security Guards Hiring System Online Security Guards Hiring System 1.0\"]",
+    "cve": "CVE-2025-7791",
+    "description": "Online Security Guards Hiring System是一个在线保安人员招聘系统。Online Security Guards Hiring System存在跨站脚本漏洞，该漏洞源于文件/admin/search.php中参数searchdata对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/i-Corner/cve/issues/9",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-11-25",
+    "update_time": "2025-11-25",
+    "data_summary": "6b2b3ddef87bd0bff419f21202e703b8"
+}

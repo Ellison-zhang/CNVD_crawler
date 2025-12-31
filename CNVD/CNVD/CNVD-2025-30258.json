@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-11 01:35:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30258",
+    "spider_time": 1765416951955,
+    "name": "WordPress插件YouTube Subscribe跨站脚本漏洞",
+    "cnvd": "CNVD-2025-30258",
+    "publish": "2025-12-08",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:M/C:P/I:P/A:N",
+    "product": "[\"WordPress YouTube Subscribe plugin <=3.0.0\"]",
+    "cve": "CVE-2025-12025",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件YouTube Subscribe存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/easy-youtube-subscribe/tags/3.0.0/includes/sm-youtube-subscription-shortcode.php#L242",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://plugins.trac.wordpress.org/browser/easy-youtube-subscribe/tags/3.0.0/includes/sm-youtube-subscription-shortcode.php#L242",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-27",
+    "open_time": "2025-12-09",
+    "update_time": "2025-12-09",
+    "data_summary": "c8f69fc9e886cf8e9ad38b99e00f6b68"
+}

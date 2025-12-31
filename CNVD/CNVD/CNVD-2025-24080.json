@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 04:04:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24080",
+    "spider_time": 1760673878638,
+    "name": "Oracle E-Business Suite存在未明漏洞（CNVD-2025-24080）",
+    "cnvd": "CNVD-2025-24080",
+    "publish": "2025-10-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Oracle Oracle MES for Process Manufacturing >=12.2.12\\uff0c<=12.2.13\"]",
+    "cve": "CVE-2025-30745",
+    "description": "Oracle E-Business Suite是美国甲骨文（Oracle）公司的一套全面集成式的全球业务管理软件。该软件提供了客户关系管理、服务管理、财务管理等功能。Oracle E-Business Suite的Oracle MES for Process Manufacturing存在安全漏洞，攻击者可利用该漏洞导致数据未授权访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.oracle.com/security-alerts/cpujul2025.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpujul2025.html",
+    "patch": "Oracle E-Business Suite存在未明漏洞（CNVD-2025-24080）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-10-17",
+    "update_time": "2025-10-17",
+    "data_summary": "2020fba5857dc6731e0b97631a4e9fce"
+}

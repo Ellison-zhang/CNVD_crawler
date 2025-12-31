@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-18 03:13:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05232",
+    "spider_time": 1742267621719,
+    "name": "Mozilla Firefox for iOS存在未明漏洞（CNVD-2025-05232）",
+    "cnvd": "CNVD-2025-05232",
+    "publish": "2025-03-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Mozilla Firefox for iOS <136\"]",
+    "cve": "CVE-2025-27425",
+    "description": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Firefox for iOS存在安全漏洞，该漏洞源于未确认QR码链接。攻击者可利用此漏洞可能导致完整性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.mozilla.org/show_bug.cgi?id=1941525",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/en-US/security/advisories/mfsa2025-13/",
+    "patch": "Mozilla Firefox for iOS存在未明漏洞（CNVD-2025-05232）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-03-18",
+    "update_time": "2025-03-18",
+    "data_summary": "495a4ac32140b9e433aa7b3b0c96a445"
+}

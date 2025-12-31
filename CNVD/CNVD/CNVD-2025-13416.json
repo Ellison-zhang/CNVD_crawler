@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-25 10:04:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13416",
+    "spider_time": 1750845852148,
+    "name": "NETGEAR EX3700栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-13416",
+    "publish": "2025-06-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"NETGEAR EX3700 <=1.0.0.88\"]",
+    "cve": "CVE-2025-5934",
+    "description": "NETGEAR EX3700是一款双频无线接入器，最高传输速率为750Mbps。NETGEAR EX3700存在栈缓冲区溢出漏洞，该漏洞源于文件/mtd中函数sub_41619C对用户提供的数据缺乏适当的验证，攻击者可利用该漏洞导致超过分配缓冲区末尾的读取。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/xiaobor123/vul-finds/tree/main/vul-find-ex3700-netgear",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-23",
+    "open_time": "2025-06-25",
+    "update_time": "2025-06-25",
+    "data_summary": "18e48985947e167365a490af97d2c611"
+}

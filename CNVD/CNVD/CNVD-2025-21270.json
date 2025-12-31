@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-15 11:03:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21270",
+    "spider_time": 1757934228582,
+    "name": "WordPress AI ChatBot for WordPress plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-21270",
+    "publish": "2025-09-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress AI ChatBot for WordPress plugin <7.1.0\"]",
+    "cve": "CVE-2025-9111",
+    "description": "WordPress AI ChatBot for WordPress plugin是专为WordPress网站设计的人工智能聊天机器人插件，主要用于提供全天候自动化客服支持、生成潜在客户、收集用户信息等功能。WordPress AI ChatBot for WordPress plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wpscan.com/vulnerability/5845bcff-beb8-45c8-b182-3dc9e209008b/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/chatbot/",
+    "patch": "WordPress AI ChatBot for WordPress plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-11",
+    "open_time": "2025-09-15",
+    "update_time": "2025-09-15",
+    "data_summary": "e0ad993c6dd5764b1556f9af9d103fd8"
+}

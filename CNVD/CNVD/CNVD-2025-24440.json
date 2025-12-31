@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-22 06:08:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24440",
+    "spider_time": 1761113330887,
+    "name": "Adobe Substance3D Viewer堆缓冲区溢出漏洞（CNVD-2025-24440）",
+    "cnvd": "CNVD-2025-24440",
+    "publish": "2025-10-22",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Substance 3D Viewer <=0.25\"]",
+    "cve": "CVE-2025-49560",
+    "description": "Adobe Substance3D Viewer是美国奥多比（Adobe）公司的一款独立桌面应用程序，用于查看和编辑3D文件。Adobe Substance3D Viewer存在堆缓冲区溢出漏洞，攻击者可利用该漏洞导致在当前用户的上下文中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/substance3d-viewer/apsb25-72.html",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://helpx.adobe.com/security/products/substance3d-viewer/apsb25-72.html",
+    "patch": "Adobe Substance3D Viewer堆缓冲区溢出漏洞（CNVD-2025-24440）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-18",
+    "open_time": "2025-10-22",
+    "update_time": "2025-10-22",
+    "data_summary": "3d8abffd0a7b6fea66a88f16d2d69c38"
+}

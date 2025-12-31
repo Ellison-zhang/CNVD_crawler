@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-03 07:04:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26722",
+    "spider_time": 1762153479551,
+    "name": "Microsoft Exchange Server权限提升漏洞（CNVD-2025-26722）",
+    "cnvd": "CNVD-2025-26722",
+    "publish": "2025-11-03",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Exchange Server 2016 Cumulative Update 23\", \"Microsoft Exchange Server 2019 Cumulative Update 14\", \"Microsoft Exchange Server Subscription Edition RTM null\", \"Microsoft Exchange Server 2019 Cumulative Update 15\"]",
+    "cve": "CVE-2025-53782",
+    "description": "Microsoft Exchange Server是美国微软（Microsoft）公司的一套电子邮件服务程序。它提供邮件存取、储存、转发，语音邮件，邮件过滤筛选等功能。Microsoft Exchange Server存在权限提升漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-53782",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-53782",
+    "patch": "Microsoft Exchange Server权限提升漏洞（CNVD-2025-26722）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-11-03",
+    "update_time": "2025-11-03",
+    "data_summary": "5c8fa86db90d2f42682094c8d4d7883c"
+}

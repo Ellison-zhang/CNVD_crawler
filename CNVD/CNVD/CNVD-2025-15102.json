@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-04 09:04:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15102",
+    "spider_time": 1751619894835,
+    "name": "WordPress eDS Responsive Menu plugin访问控制不当漏洞",
+    "cnvd": "CNVD-2025-15102",
+    "publish": "2025-07-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"WordPress eDS Responsive Menu plugin <=1.2\"]",
+    "cve": "CVE-2025-49971",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress eDS Responsive Menu plugin存在访问控制不当漏洞，该漏洞源于缺少授权，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/eds-responsive-menu/vulnerability/wordpress-eds-responsive-menu-plugin-1-2-broken-access-control-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/eds-responsive-menu/",
+    "patch": "WordPress eDS Responsive Menu plugin访问控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-04",
+    "update_time": "2025-07-04",
+    "data_summary": "fb127b4aba90b335953d64cd94ac4c52"
+}

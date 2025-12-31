@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 10:05:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12700",
+    "spider_time": 1750154708064,
+    "name": "Tenda FH1206 PPPOEPassword参数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12700",
+    "publish": "2025-06-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Tenda FH1206 V1.2.0.8(8155)_EN\"]",
+    "cve": "CVE-2024-33211",
+    "description": "Tenda FH1206是中国腾达（Tenda）公司的一款无线路由器。Tenda FH1206存在缓冲区溢出漏洞，该漏洞源于ip/goform/QuickIndex中的PPPOEPassword参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://palm-vertebra-fe9.notion.site/formQuickIndex-e1f24466830f4cb4a7756d6997f411b4",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-25",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "4b440c782125b1ff19f4cf09db5305d2"
+}

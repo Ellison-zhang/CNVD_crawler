@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-25 10:06:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13419",
+    "spider_time": 1750845987858,
+    "name": "NETGEAR WNR614存在未明漏洞",
+    "cnvd": "CNVD-2025-13419",
+    "publish": "2025-06-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:P/A:N",
+    "product": "[\"NETGEAR WNR614 JNR1010V2/N300-V1.1.0.54_1.0.1\"]",
+    "cve": "CVE-2024-36788",
+    "description": "Netgear WNR614是美国网件（Netgear）公司的一个带外置天线的N300无线路由器。Netgear WNR614存在安全漏洞，该漏洞源于未正确设置cookie的HTTPOnly标志，攻击者可利用该漏洞拦截和访问路由器与连接设备之间的敏感通信。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-36788",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-13",
+    "open_time": "2025-06-25",
+    "update_time": "2025-06-25",
+    "data_summary": "775a2f49e75152807521ce10c03a5820"
+}

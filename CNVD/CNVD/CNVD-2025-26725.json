@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-03 07:04:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26725",
+    "spider_time": 1762153493682,
+    "name": "Microsoft Office Visio代码执行漏洞",
+    "cnvd": "CNVD-2025-26725",
+    "publish": "2025-11-03",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Office 2019\", \"Microsoft 365 Apps for Enterprise\", \"Microsoft Office LTSC 2021\", \"Microsoft Microsoft Office LTSC 2024\"]",
+    "cve": "CVE-2025-54907",
+    "description": "Microsoft Office Visio是美国微软（Microsoft）公司的一款Office软件系列中的负责绘制流程图和示意图的软件。Microsoft Office Visio存在代码执行漏洞，该漏洞是由于边界检查不当造成的。攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-54907",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-54907",
+    "patch": "Microsoft Office Visio代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-11",
+    "open_time": "2025-11-03",
+    "update_time": "2025-11-03",
+    "data_summary": "9dc82484743fd6bd6551c8cec936b3e6"
+}

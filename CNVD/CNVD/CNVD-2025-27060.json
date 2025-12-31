@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-06 10:07:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27060",
+    "spider_time": 1762423648217,
+    "name": "WordPress ERI File Library plugin未授权数据访问漏洞",
+    "cnvd": "CNVD-2025-27060",
+    "publish": "2025-11-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"WordPress ERI File Library plugin <=1.1.0\"]",
+    "cve": "CVE-2025-12041",
+    "description": "WordPress ERI File Library plugin是专为WordPress设计的轻量级插件，用于创建和发布文档画廊，支持通过Gutenberg编辑器或短代码插入文档。WordPress ERI File Library plugin存在未授权数据访问漏洞，该漏洞源于缺少权限检查，攻击者可利用该漏洞下载受限文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&old=3385895%40eri-file-library&new=3385895%40eri-file-library",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/eri-file-library",
+    "patch": "WordPress ERI File Library plugin未授权数据访问漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-05",
+    "open_time": "2025-11-06",
+    "update_time": "2025-11-06",
+    "data_summary": "871dad4e24de757943d96fbd743b52f3"
+}

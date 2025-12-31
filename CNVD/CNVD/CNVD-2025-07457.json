@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:29:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07457",
+    "spider_time": 1744946965008,
+    "name": "中国联合网络通信股份有限公司中国联通安卓端存在信息泄露漏洞",
+    "cnvd": "CNVD-2025-07457",
+    "publish": "2025-04-11",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u4e2d\\u56fd\\u8054\\u5408\\u7f51\\u7edc\\u901a\\u4fe1\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u4e2d\\u56fd\\u8054\\u901a\\u5b89\\u5353\\u7aef\"]",
+    "cve": null,
+    "description": "中国联通安卓端是一款集查询缴费、业务办理、生活服务于一身的官方客户端软件。中国联合网络通信股份有限公司中国联通安卓端存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.10010.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-25",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "a4a1a4dedc753a6753b15639e4b092d5"
+}

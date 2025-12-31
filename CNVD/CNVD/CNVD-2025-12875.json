@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-19 07:05:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12875",
+    "spider_time": 1750316717024,
+    "name": "TOTOLINK N302R Plus service_type参数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12875",
+    "publish": "2025-06-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK N302R Plus <=3.4.0-B20201028\"]",
+    "cve": "CVE-2025-5671",
+    "description": "TOTOLINK N300R Plus是一款无线路由器。TOTOLINK N302R Plus缓冲区溢出漏洞，该漏洞源于对参数service_type的错误操作，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/byxs0x0/cve2/blob/main/530/1.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-10",
+    "open_time": "2025-06-19",
+    "update_time": "2025-06-19",
+    "data_summary": "c42ba335a5d2d0fe81cadbd9c38c63c8"
+}

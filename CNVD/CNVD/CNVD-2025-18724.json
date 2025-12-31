@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 11:03:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18724",
+    "spider_time": 1755255833375,
+    "name": "WordPress Eventin plugin权限提升漏洞",
+    "cnvd": "CNVD-2025-18724",
+    "publish": "2025-08-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress Eventin plugin <=4.0.34\"]",
+    "cve": "CVE-2025-4796",
+    "description": "WordPress Eventin plugin是一款专为WordPress设计的活动管理插件，支持事件创建、注册、售票及日历同步等功能，适用于线下、线上及混合活动管理。WordPress Eventin plugin存在权限提升漏洞，该漏洞源于未正确验证用户身份或能力，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/wp-event-solution/tags/4.0.28/core/speaker/Api/SpeakerController.php#L419",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/wp-event-solution",
+    "patch": "WordPress Eventin plugin权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "bbaf639204e135cef9026115519ce108"
+}

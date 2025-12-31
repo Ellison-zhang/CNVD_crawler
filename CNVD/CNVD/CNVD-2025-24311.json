@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-21 09:10:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24311",
+    "spider_time": 1761037858727,
+    "name": "Student Result Manager Database.java文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-24311",
+    "publish": "2025-10-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Student Result Manager Student Result Manager 1.0\"]",
+    "cve": "CVE-2025-11551",
+    "description": "Student Result Manager是一个学生成绩管理工具。Student Result Manager存在SQL注入漏洞，该漏洞源于文件src/students/Database.java中参数roll/name/gpa缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-11551",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-15",
+    "open_time": "2025-10-21",
+    "update_time": "2025-10-21",
+    "data_summary": "a87cfc47cd5b87467da559ea85aef5de"
+}

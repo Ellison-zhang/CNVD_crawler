@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:08:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13993",
+    "spider_time": 1751011734623,
+    "name": "EDIMAX BR-6478AC存在命令执行漏洞",
+    "cnvd": "CNVD-2025-13993",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"EDIMAX BR-6478AC V3\"]",
+    "cve": null,
+    "description": "BR-6478AC是一款千兆双频1200M网速USB口打印服务器U盘存储5口双频无线路由器 。EDIMAX BR-6478AC存在命令执行漏洞，攻击者可利用漏洞执行命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.edimax.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "eff291ce4c2074cba571f38becbda611"
+}

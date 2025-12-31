@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-03 08:05:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26735",
+    "spider_time": 1762157139267,
+    "name": "ISC BIND 9拒绝服务漏洞",
+    "cnvd": "CNVD-2025-26735",
+    "publish": "2025-11-03",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"ISC BIND 9 >=9.18.0\\uff0c<=9.18.39\", \"ISC BIND 9 >=9.20.0\\uff0c<=9.20.13\", \"ISC BIND 9 >=9.21.0\\uff0c<=9.21.12\", \"ISC BIND 9 >=9.18.11-S1\\uff0c<=9.18.39-S1\", \"ISC BIND 9 >=9.20.9-S1\\uff0c<=9.20.13-S1\"]",
+    "cve": "CVE-2025-8677",
+    "description": "ISC BIND 9是ISC组织的一个域名系统软件。ISC BIND 9存在拒绝服务漏洞，该漏洞源于处理特制区域中畸形DNSKEY记录时资源消耗不当，攻击者可利用该漏洞导致CPU耗尽。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-8677",
+    "solution": "目前厂商已发布升级补丁以修复漏洞。补丁获取链接：\nhttps://kb.isc.org/docs/cve-2025-8677",
+    "patch": "ISC BIND 9拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-29",
+    "open_time": "2025-11-03",
+    "update_time": "2025-11-03",
+    "data_summary": "4bd2c79c265bccd20f4d0fca6294c418"
+}

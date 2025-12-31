@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-02 08:06:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14783",
+    "spider_time": 1751443604487,
+    "name": "TOTOLINK A3600R cstecgi.cgi文件setUpgradeFW函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-14783",
+    "publish": "2025-07-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A3600R 4.1.2cu.5182_B20201102\"]",
+    "cve": "CVE-2024-7182",
+    "description": "TOTOLINK A3600R是中国吉翁电子（TOTOLINK）公司的一款6天线1200M无线路由器。TOTOLINK A3600R存在缓冲区溢出漏洞，该漏洞源于/cgi-bin/cstecgi.cgi文件的setUpgradeFW函数中的FileName参数处理不当。攻击者可利用该漏洞导致任意代码执行、设备控制权获取，甚至使设备崩溃或无法正常工作等严重后果。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/TOTOLINK/A3600R/setUpgradeFW.md\nhttps://vuldb.com/?submit.378051\nhttps://vuldb.com/?ctiid.272603",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-29",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "9366971bc4d82c01f8f0c80b290cb815"
+}

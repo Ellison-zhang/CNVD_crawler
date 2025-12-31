@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-30 08:05:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17154",
+    "spider_time": 1753862727218,
+    "name": "WordPress Nginx Cache Purge Preload plugin代码注入漏洞",
+    "cnvd": "CNVD-2025-17154",
+    "publish": "2025-07-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"WordPress Nginx Cache Purge Preload plugin <=2.1.1\"]",
+    "cve": "CVE-2025-6213",
+    "description": "WordPress Nginx Cache Purge Preload plugin是用于优化网站加载速度的插件。WordPress Nginx Cache Purge Preload plugin存在代码注入漏洞，该漏洞源于nppp_preload_cache_on_update函数对HTTP_REFERER参数清理不足，攻击者可利用该漏洞导致远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/psaux-it/nginx-fastcgi-cache-purge-and-preload",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "c4e38955af7aa0e75dd8ab69dfa5d917"
+}

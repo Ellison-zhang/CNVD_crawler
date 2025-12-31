@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 08:06:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17316",
+    "spider_time": 1753949173248,
+    "name": "WordPress Stop User Enumeration plugin存在未明漏洞",
+    "cnvd": "CNVD-2025-17316",
+    "publish": "2025-07-31",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"WordPress Stop User Enumeration plugin <1.7.3\"]",
+    "cve": "CVE-2025-4302",
+    "description": "WordPress Stop User Enumeration plugin是WordPress的安全插件，主要用于检测和防止黑客通过扫描网站用户名（用户枚举攻击）来获取登录名，这是暴力破解密码攻击的前期探测行为。WordPress Stop User Enumeration plugin存在安全漏洞，该漏洞源于URL编码可绕过REST API访问限制，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-4302",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/stop-user-enumeration/",
+    "patch": "WordPress Stop User Enumeration plugin存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-07-31",
+    "update_time": "2025-07-31",
+    "data_summary": "f2ff04f872fef123cc4508f3e2a526e1"
+}

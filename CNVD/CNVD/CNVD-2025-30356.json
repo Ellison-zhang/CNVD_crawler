@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-11 08:12:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30356",
+    "spider_time": 1765440744802,
+    "name": "Grav CMS跨站脚本漏洞",
+    "cnvd": "CNVD-2025-30356",
+    "publish": "2025-12-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Grav Grav CMS 1.7.49.5\"]",
+    "cve": "CVE-2025-63593",
+    "description": "Grav CMS是一个现代化的、轻量级的内容管理系统（CMS），它采用文件驱动的架构，无需依赖传统数据库即可运行。Grav CMS存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/PureStream108/CVE/blob/main/CVE-2025-63593/CVE-2025-63593.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://github.com/getgrav/grav/releases",
+    "patch": "Grav CMS跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-10",
+    "open_time": "2025-12-10",
+    "update_time": "2025-12-10",
+    "data_summary": "bce8969693cd0f1c5d1b8e21bd404c55"
+}

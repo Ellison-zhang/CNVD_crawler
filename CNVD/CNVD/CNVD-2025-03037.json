@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-18 10:03:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03037",
+    "spider_time": 1739873029224,
+    "name": "Siemens SIMATIC S7-1200 CPU Family拒绝服务漏洞",
+    "cnvd": "CNVD-2025-03037",
+    "publish": "2025-02-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Siemens SIMATIC S7-1200 CPU family V4 (incl. SIPLUS variants) <4.7\"]",
+    "cve": "CVE-2025-24811",
+    "description": "SIMATIC S7-1200 CPU产品专为全球制造、食品和饮料以及化工行业等工业环境中的离散和连续控制而设计。Siemens SIMATIC S7-1200 CPU Family V4.7之前版本存在拒绝服务漏洞，攻击者可利用漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-224824.html",
+    "solution": "厂商已发布升级版本修复漏洞，请广大用户及时下载更新：\nhttps://support.industry.siemens.com/cs/ww/en/view/109976907/",
+    "patch": "Siemens SIMATIC S7-1200 CPU Family拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-11",
+    "open_time": "2025-02-18",
+    "update_time": "2025-02-18",
+    "data_summary": "f7d135f4aedbbd338fdd7542f3277cce"
+}

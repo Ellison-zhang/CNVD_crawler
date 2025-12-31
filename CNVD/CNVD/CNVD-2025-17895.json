@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 08:05:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17895",
+    "spider_time": 1754640333827,
+    "name": "NVIDIA Container Toolkit后置链接漏洞",
+    "cnvd": "CNVD-2025-17895",
+    "publish": "2025-08-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:C",
+    "product": "[\"NVIDIA Container Toolkit\"]",
+    "cve": "CVE-2025-23267",
+    "description": "NVIDIA Container Toolkit是NVIDIA推出的容器工具包，用于在容器中直接调用GPU资源，解决传统容器化GPU计算面临的设备访问复杂、资源隔离不足等问题。NVIDIA Container Toolkit存在后置链接漏洞，该漏洞源于update-ldcache钩子缺陷，攻击者可利用该漏洞导致数据篡改和拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-23267",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5659",
+    "patch": "NVIDIA Container Toolkit后置链接漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "c2c373479ec267ce59c01773b23d136f"
+}

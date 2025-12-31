@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 02:43:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17237",
+    "spider_time": 1753929807283,
+    "name": "WeGIA跨站脚本漏洞",
+    "cnvd": "CNVD-2025-17237",
+    "publish": "2025-07-31",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WeGIA WeGIA <3.4.6\"]",
+    "cve": "CVE-2025-54077",
+    "description": "WeGIA是一个福利机构的网络管理器。WeGIA存在跨站脚本漏洞，该漏洞源于文件personalizacao.php中参数err对用户提供的数据缺乏有效过滤与转义，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-54077",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/LabRedesCefetRJ/WeGIA/releases",
+    "patch": "WeGIA跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-07-31",
+    "update_time": "2025-07-31",
+    "data_summary": "e1e0e59d4db522e1b8d6343c1223ff13"
+}

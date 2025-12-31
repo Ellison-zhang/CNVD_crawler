@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 02:35:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13312",
+    "spider_time": 1750732502148,
+    "name": "Adobe Acrobat Reader空指针解引用漏洞",
+    "cnvd": "CNVD-2025-13312",
+    "publish": "2025-06-24",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Adobe Acrobat 2024 <=24.001.30235\", \"Adobe Acrobat 2020 <=20.005.30763\", \"Adobe Acrobat Reader 2020 <=20.005.30763\", \"Adobe Acrobat DC <=25.001.20521\", \"Adobe Acrobat Reader DC <=25.001.20521\"]",
+    "cve": "CVE-2025-47111",
+    "description": "Adobe Acrobat Reader是美国奥多比（Adobe）公司的一款PDF查看器。该软件用于打印，签名和注释PDF。Adobe Acrobat Reader存在空指针解引用漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/acrobat/apsb25-57.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/acrobat/apsb25-57.html",
+    "patch": "Adobe Acrobat Reader空指针解引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-24",
+    "update_time": "2025-06-24",
+    "data_summary": "a3795d7d4d0d8ca5f5b34beca457212e"
+}

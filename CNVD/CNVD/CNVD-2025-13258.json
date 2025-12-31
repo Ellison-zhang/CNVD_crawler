@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-23 03:30:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13258",
+    "spider_time": 1750649441420,
+    "name": "Moodle存在未明漏洞",
+    "cnvd": "CNVD-2025-13258",
+    "publish": "2025-06-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"moodle Moodle\"]",
+    "cve": "CVE-2025-3645",
+    "description": "Moodle是一套免费的电子学习软件平台，也称课程管理系统、学习管理系统或虚拟学习环境。Moodle存在安全漏洞，该漏洞源于消息服务能力检查不足，攻击者可利用该漏洞查看其他用户姓名和在线状态。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.redhat.com/show_bug.cgi?id=2359761",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://download.moodle.org/releases/latest/",
+    "patch": "Moodle存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-07",
+    "open_time": "2025-06-23",
+    "update_time": "2025-06-23",
+    "data_summary": "ae06b3c49d7b83c5443efc3686db2cdc"
+}

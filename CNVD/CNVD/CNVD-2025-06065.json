@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-28 10:04:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06065",
+    "spider_time": 1743156264682,
+    "name": "LibreChat路径遍历漏洞",
+    "cnvd": "CNVD-2025-06065",
+    "publish": "2025-03-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"LibreChat LibreChat <0.7.6\"]",
+    "cve": "CVE-2024-11170",
+    "description": "LibreChat是一个增强的ChatGPT克隆。LibreChat存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素，攻击者可利用该漏洞导致任意文件写入和远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/danny-avila/librechat/commit/629be5c0ca2b332178524b4e3f6fac715aea8cc4",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/danny-avila/librechat/commit/629be5c0ca2b332178524b4e3f6fac715aea8cc4",
+    "patch": "LibreChat路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-03-28",
+    "update_time": "2025-03-28",
+    "data_summary": "1eb97bec1e8753a1ec701de7fb7f496b"
+}

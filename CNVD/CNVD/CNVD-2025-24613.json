@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 07:04:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24613",
+    "spider_time": 1761203086022,
+    "name": "WordPress Quick Social Login plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-24613",
+    "publish": "2025-10-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Quick Social Login plugin <=1.4.6\"]",
+    "cve": "CVE-2025-10140",
+    "description": "WordPress Quick Social Login plugin是一款允许用户通过Facebook、Google、Twitter、LinkedIn、Slack和WordPress.com等社交媒体账号快速登录或注册的插件。WordPress Quick Social Login plugin存在跨站脚本漏洞，该漏洞源于应用对quick-login短代码缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/quick-login/trunk/src/Buttons.php#L85",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "a58dc0194f2c3341a7fe2edd5e684bad"
+}

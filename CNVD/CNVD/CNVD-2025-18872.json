@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-19 11:03:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18872",
+    "spider_time": 1755601432315,
+    "name": "WordPress WPExperts Post SMTP plugin身份验证绕过漏洞",
+    "cnvd": "CNVD-2025-18872",
+    "publish": "2025-08-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress WPExperts Post SMTP plugin <=3.2.0\"]",
+    "cve": "CVE-2025-24000",
+    "description": "WordPress WPExperts Post SMTP plugin是一款用于优化 WordPress 邮件发送流程的插件，主要功能包括自定义邮件服务、邮件日志记录、 DNS 验证和 OAuth 授权等。WordPress WPExperts Post SMTP plugin存在身份验证绕过漏洞，攻击者可利用该漏洞导致身份验证绕过。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/post-smtp/vulnerability/wordpress-post-smtp-3-2-0-privilege-escalation-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/post-smtp/",
+    "patch": "WordPress WPExperts Post SMTP plugin身份验证绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-19",
+    "update_time": "2025-08-19",
+    "data_summary": "61a0add1702aff976b01268a061bf628"
+}

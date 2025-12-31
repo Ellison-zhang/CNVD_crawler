@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-11 10:08:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30352",
+    "spider_time": 1765447737325,
+    "name": "Grav服务端模板注入漏洞（CNVD-2025-30352）",
+    "cnvd": "CNVD-2025-30352",
+    "publish": "2025-12-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Grav Grav <1.8.0-beta.27\"]",
+    "cve": "CVE-2025-66294",
+    "description": "Grav是一套可扩展的用于个人博客、小型内容发布平台和单页产品展示的CMS（内容管理系统）。Grav存在服务端模板注入漏洞，该漏洞源于cleanDangerousTwig方法正则表达式验证不足，攻击者可利用该漏洞在服务器上执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/getgrav/grav/commit/e37259527d9c1deb6200f8967197a9fa587c6458",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://getgrav.org/downloads",
+    "patch": "Grav服务端模板注入漏洞（CNVD-2025-30352）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-03",
+    "open_time": "2025-12-10",
+    "update_time": "2025-12-10",
+    "data_summary": "ab6218d336dacbc3e1fe147b85441983"
+}

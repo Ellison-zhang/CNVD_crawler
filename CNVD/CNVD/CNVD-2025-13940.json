@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 13:13:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13940",
+    "spider_time": 1751029983727,
+    "name": "新华三技术有限公司H3C GR2200存在二进制漏洞",
+    "cnvd": "CNVD-2025-13940",
+    "publish": "2025-06-26",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"\\u65b0\\u534e\\u4e09\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 H3C GR2200\"]",
+    "cve": null,
+    "description": "H3C GR2200是一款企业级路由器。新华三技术有限公司H3C GR2200存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.h3c.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-12",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "f3611eec5d9d59ef3272244d56a3686e"
+}

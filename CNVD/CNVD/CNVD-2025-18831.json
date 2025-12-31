@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-19 10:04:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18831",
+    "spider_time": 1755597851076,
+    "name": "WordPress Request a Quote Form plugin代码执行漏洞",
+    "cnvd": "CNVD-2025-18831",
+    "publish": "2025-08-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Request a Quote Form plugin <=2.5.2\"]",
+    "cve": "CVE-2025-8420",
+    "description": "WordPress Request a Quote Form plugin是一款用于收集和管理报价请求的插件，支持自定义表单和集中化处理，适用于产品、服务或定制订单的报价需求。WordPress Request a Quote Form plugin存在代码执行漏洞，该漏洞源于未正确验证用户输入，攻击者可利用该漏洞导致远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&old=3338854%40request-a-quote&new=3338854%40request-a-quote&sfp_email=&sfph_mail=",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/request-a-quote/",
+    "patch": "WordPress Request a Quote Form plugin代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-18",
+    "open_time": "2025-08-19",
+    "update_time": "2025-08-19",
+    "data_summary": "9ba0c1691602596a1af98608ae61de89"
+}

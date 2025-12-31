@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-25 01:32:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31213",
+    "spider_time": 1766626361922,
+    "name": "Company Visitor Management System /department.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-31213",
+    "publish": "2025-12-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Company Visitor Management System Company Visitor Management System 2.0\"]",
+    "cve": "CVE-2025-4361",
+    "description": "Company Visitor Management System是一个访客管理系统。Company Visitor Management System存在SQL注入漏洞，该漏洞源于文件/department.php中参数departmentname缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?ctiid.307485",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-12-24",
+    "update_time": "2025-12-24",
+    "data_summary": "9808316465a3e7de7ee5d1251349d0b3"
+}

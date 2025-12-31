@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 08:05:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12777",
+    "spider_time": 1750233903688,
+    "name": "lunary授权问题漏洞",
+    "cnvd": "CNVD-2025-12777",
+    "publish": "2025-06-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"lunary lunary <=1.2.2\"]",
+    "cve": "CVE-2024-5130",
+    "description": "Lunary是lunary开源的一个 LLM 的生产工具包。Lunary存在授权问题漏洞，该漏洞源于数据集删除终端节点中缺少适当的授权检查，攻击者可利用该漏洞删除任何数据集。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-5130",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://github.com/lunary-ai/lunary/releases/tag/v1.2.29",
+    "patch": "lunary授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-13",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "dbc9f80e3ba9aa2cdebeceb1e5cb18ec"
+}

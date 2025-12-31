@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-18 10:04:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16330",
+    "spider_time": 1752833054997,
+    "name": "Tenda O3V2 setAutoReboot栈溢出漏洞",
+    "cnvd": "CNVD-2025-16330",
+    "publish": "2025-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda O3V2 1.0.0.12(3880)\"]",
+    "cve": "CVE-2025-7422",
+    "description": "Tenda O3V2是一款腾达(Tenda)公司的大功率无线网桥。Tenda O3V2 /goform/setNetworkService包含的setAutoReboot函数存在栈溢出漏洞，该漏洞源于内存缓冲区操作限制不当，远程攻击者可利用该漏洞提交特殊的请求，可使应用程序崩溃或执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7422",
+    "solution": "目前没有详细的解决方案提供：\nhttps://www.advantech.com/en/support/details/firmware-?id=1-HIPU-183",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-15",
+    "open_time": "2025-07-18",
+    "update_time": "2025-07-18",
+    "data_summary": "4b8eb9190929639d6c23227b1676d328"
+}

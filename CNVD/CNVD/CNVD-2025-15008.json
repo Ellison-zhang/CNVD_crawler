@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-03 10:04:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15008",
+    "spider_time": 1751537098112,
+    "name": "Dell Data Lakehouse SQL注入漏洞",
+    "cnvd": "CNVD-2025-15008",
+    "publish": "2025-07-03",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:P/I:N/A:N",
+    "product": "[\"DELL Dell Data Lakehouse 1.0.0.0\", \"DELL Dell Data Lakehouse 1.1.0.0\"]",
+    "cve": "CVE-2024-47483",
+    "description": "Dell Data Lakehouse是美国戴尔（Dell）公司的一个完全集成的数据平台。Dell Data Lakehouse 1.0.0.0版本和1.1.0.0版本存在SQL注入漏洞，该漏洞源于包含一个SQL注入漏洞，未经身份验证的攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-47483",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000240535/dsa-2024-419-security-update-for-dell-data-lakehouse-system-software-for-multiple-third-party-component-vulnerabilities",
+    "patch": "Dell Data Lakehouse SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-30",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "f1b84132d71aa7442e7c283c8e78620f"
+}

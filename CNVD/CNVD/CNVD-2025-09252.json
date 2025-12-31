@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-08 09:04:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09252",
+    "spider_time": 1746695092723,
+    "name": "SAP Commerce信息泄露漏洞",
+    "cnvd": "CNVD-2025-09252",
+    "publish": "2025-05-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:P/A:N",
+    "product": "[\"SAP SAP Commerce\"]",
+    "cve": "CVE-2025-27435",
+    "description": "SAP Commerce是德国思爱普（SAP）公司的一套基于云的电子商务平台。SAP Commerce存在信息泄露漏洞，该漏洞源于优惠券代码暴露在URL参数中。攻击者可利用该漏洞获取并使用泄露的优惠券代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-27435",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://me.sap.com/notes/3539465",
+    "patch": "SAP Commerce信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-05-08",
+    "update_time": "2025-05-08",
+    "data_summary": "b1dbf3669d47f67966148913b007a851"
+}

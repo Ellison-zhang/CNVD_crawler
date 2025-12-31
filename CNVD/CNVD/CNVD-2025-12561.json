@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 11:03:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12561",
+    "spider_time": 1749812633241,
+    "name": "WordPress WP Attachments plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12561",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress WP Attachments plugin <=5.0.12\"]",
+    "cve": "CVE-2025-5082",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress WP Attachments plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.wordfence.com/threat-intel/vulnerabilities/id/bdc33ecc-da54-4852-8426-bfafe0dca41b?source=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/wp-attachments/#developers",
+    "patch": "WordPress WP Attachments plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "d2f5e72611d0f6dd28a3a07afe419674"
+}

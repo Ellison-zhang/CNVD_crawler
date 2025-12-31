@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-13 10:07:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23478",
+    "spider_time": 1760350060139,
+    "name": "Dell Networking Switches running Enterprise SONiC OS日志信息泄露漏洞",
+    "cnvd": "CNVD-2025-23478",
+    "publish": "2025-10-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"Dell Networking Switches running Enterprise SONiC OS <4.4.1\", \"Dell Networking Switches running Enterprise SONiC OS <4.2.3\"]",
+    "cve": "CVE-2025-23374",
+    "description": "Dell Networking Switches running Enterprise SONiC OS是戴尔推出的基于开源的网络操作系统，专为数据中心和云计算场景设计，支持从边缘到核心再到云的统一网络架构。Dell Networking Switches running Enterprise SONiC OS存在日志信息泄露漏洞，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-23374",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000278568/dsa-2025-057-security-update-for-dell-enterprise-sonic-distribution-vulnerability",
+    "patch": "Dell Networking Switches running Enterprise SONiC OS日志信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-10",
+    "open_time": "2025-10-13",
+    "update_time": "2025-10-13",
+    "data_summary": "3f29e89600c2f206bf76998008a64a12"
+}

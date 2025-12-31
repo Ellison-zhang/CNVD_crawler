@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-13 11:03:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23465",
+    "spider_time": 1760353432582,
+    "name": "WordPress插件CP Multi View Event Calendar授权缺失漏洞",
+    "cnvd": "CNVD-2025-23465",
+    "publish": "2025-10-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:P/A:P",
+    "product": "[\"WordPress1 CP Multi View Event Calendar Plugin <=1.4.32\"]",
+    "cve": "CVE-2025-58009",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件CP Multi View Event Calendar存在授权缺失漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-58009",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://patchstack.com/database/wordpress/plugin/cp-multi-view-calendar/vulnerability/wordpress-cp-multi-view-event-calendar-plugin-1-4-32-broken-access-control-vulnerability?_s_id=cve",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-25",
+    "open_time": "2025-10-13",
+    "update_time": "2025-10-13",
+    "data_summary": "ec2b3c6abb8c330e44173582f72a79a4"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-23 02:33:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10492",
+    "spider_time": 1747967597651,
+    "name": "杭州千宜科技有限公司千宜药品零售连锁管理系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-10492",
+    "publish": "2025-05-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u676d\\u5dde\\u5343\\u5b9c\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u5343\\u5b9c\\u836f\\u54c1\\u96f6\\u552e\\u8fde\\u9501\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "杭州千宜科技有限公司是一家主要从事软件和信息技术服务业，专注于为医药行业提供一站式解决方案‌的公司。杭州千宜科技有限公司千宜药品零售连锁管理系统存在SQL注入漏洞,攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.qianyiyun.net/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-08",
+    "open_time": "2025-05-23",
+    "update_time": "2025-05-23",
+    "data_summary": "392eb513c99e5570b84693259a75c96b"
+}

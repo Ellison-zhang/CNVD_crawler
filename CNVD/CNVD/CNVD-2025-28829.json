@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-20 07:04:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28829",
+    "spider_time": 1763622269827,
+    "name": "WordPress quicq plugin缺少能力检查漏洞",
+    "cnvd": "CNVD-2025-28829",
+    "publish": "2025-11-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"WordPress quicq plugin <=2.0.0\"]",
+    "cve": "CVE-2025-12015",
+    "description": "WordPress quicq plugin是专为WordPress设计的图片优化工具，可自动压缩和调整图片大小以提升网站性能。WordPress quicq plugin存在缺少能力检查漏洞，攻击者可利用该漏洞导致未经授权的数据修改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wordpress.org/plugins/quicq/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-11-20",
+    "update_time": "2025-11-20",
+    "data_summary": "625d4969650b263541aa227c21391a51"
+}

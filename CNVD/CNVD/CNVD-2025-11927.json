@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-09 09:04:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11927",
+    "spider_time": 1749459899612,
+    "name": "GNU PSPP输入验证错误漏洞",
+    "cnvd": "CNVD-2025-11927",
+    "publish": "2025-06-09",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"Gnu GNU PSPP\"]",
+    "cve": "CVE-2025-5001",
+    "description": "GNU PSPP是美国GNU社区的一款用于数据采样、统计和分析的应用程序。GNU PSPP存在输入验证错误漏洞，该漏洞源于参数处理不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://drive.google.com/file/d/12IIt8eR591Z8O1ABOCkT_jdXSWaBxMZx/view?usp=drive_link",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://savannah.gnu.org/bugs/index.php?67069",
+    "patch": "GNU PSPP输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-06-09",
+    "update_time": "2025-06-09",
+    "data_summary": "80780af9da01483e04a782d3c47a333b"
+}

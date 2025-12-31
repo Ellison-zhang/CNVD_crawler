@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-03 09:05:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06476",
+    "spider_time": 1743671102437,
+    "name": "Rockwell Automation Arena Simulation Software缓冲区溢出漏洞（CNVD-2025-06476）",
+    "cnvd": "CNVD-2025-06476",
+    "publish": "2025-04-03",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Rockwell Automation Rockwell Automation Arena Simulation Software\"]",
+    "cve": "CVE-2023-27858",
+    "description": "Rockwell Automation Arena Simulation Software是美国罗克韦尔（Rockwell Automation）公司的一套提供3D动画和图形功能的仿真软件。Rockwell Automation Arena Simulation存在安全漏洞，攻击者可利用该漏洞通过使用应用程序中未初始化的指针向软件提交未经授权的代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-27858",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1141145",
+    "patch": "Rockwell Automation Arena Simulation Software缓冲区溢出漏洞（CNVD-2025-06476）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-10-31",
+    "open_time": "2025-04-03",
+    "update_time": "2025-04-03",
+    "data_summary": "b70d68bdb953157af47a1f119d247692"
+}

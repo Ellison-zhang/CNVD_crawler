@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-02 08:05:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29688",
+    "spider_time": 1764662746240,
+    "name": "Adobe Pass Authentication Android SDK不正确授权漏洞",
+    "cnvd": "CNVD-2025-29688",
+    "publish": "2025-12-02",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Adobe Pass Authentication Android SDK <=3.7.3\"]",
+    "cve": "CVE-2025-61830",
+    "description": "Adobe Pass Authentication Android SDK是美国奥多比（Adobe）公司的一个用于安卓应用的Java库。Adobe Pass Authentication Android SDK存在不正确授权漏洞，攻击者可利用该漏洞绕过安全措施，获得未经授权的读写访问权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/pass/apsb25-112.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/pass/apsb25-112.html",
+    "patch": "Adobe Pass Authentication Android SDK不正确授权漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-12-02",
+    "update_time": "2025-12-02",
+    "data_summary": "3e3ff7d9e7c1b135406a09da0c3a73e7"
+}

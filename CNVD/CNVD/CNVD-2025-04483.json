@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-07 03:11:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04483",
+    "spider_time": 1741317118702,
+    "name": "LunaSVG存在未明漏洞（CNVD-2025-04483）",
+    "cnvd": "CNVD-2025-04483",
+    "publish": "2025-03-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"LunaSVG LunaSVG v3.0.0\"]",
+    "cve": "CVE-2024-57719",
+    "description": "LunaSVG是一个独立的C语言SVG渲染库。LunaSVG存在安全漏洞，该漏洞源于组件blend_transformed_tiled_argb.isra.0包含分段违规。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/keepinggg/poc/blob/main/poc_of_lunasvg_3.1.0",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/keepinggg/poc/blob/main/poc_of_lunasvg_3.1.0",
+    "patch": "LunaSVG存在未明漏洞（CNVD-2025-04483）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-03-07",
+    "update_time": "2025-03-07",
+    "data_summary": "57bd368292bcb26964909318d369b6eb"
+}

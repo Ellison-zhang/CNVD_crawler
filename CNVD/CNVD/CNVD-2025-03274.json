@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-20 09:04:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03274",
+    "spider_time": 1740042281658,
+    "name": "TP-LINK Omada ER605缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-03274",
+    "publish": "2025-02-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TP-LINK Omada ER605 >=1.0.1\\uff0c<=2.2.3\"]",
+    "cve": "CVE-2024-25139",
+    "description": "TP-LINK Omada ER605是中国普联（TP-LINK）公司的一款VPN路由器。TP-LINK Omada ER605 1.0.1版本至2.2.3版本存在缓冲区溢出漏洞，该漏洞源于应用在处理不受信任的输入时出现边界错误。远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-25139/",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://nvd.nist.gov/vuln/detail/CVE-2024-25139",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-18",
+    "open_time": "2025-02-20",
+    "update_time": "2025-02-20",
+    "data_summary": "637acd6b84e7553c84d591ba9034783c"
+}

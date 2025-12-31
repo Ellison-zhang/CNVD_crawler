@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-17 08:05:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16219",
+    "spider_time": 1752739503686,
+    "name": "Adobe InCopy堆缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16219",
+    "publish": "2025-07-17",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe InCopy 20.3\", \"Adobe InCopy <=19.5.3\"]",
+    "cve": "CVE-2025-47099",
+    "description": "InCopy是Adobe公司的一款专业排版软件，用于编辑和设计复杂的版面布局。InCopy 20.3、19.5.3及更早版本存在堆缓冲区溢出漏洞。攻击者可利用该漏洞导致在当前用户上下文中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/incopy/apsb25-59.html",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://helpx.adobe.com/",
+    "patch": "Adobe InCopy堆缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-16",
+    "open_time": "2025-07-17",
+    "update_time": "2025-07-17",
+    "data_summary": "dd588eb306c3a32e96f9de494d52e1d7"
+}

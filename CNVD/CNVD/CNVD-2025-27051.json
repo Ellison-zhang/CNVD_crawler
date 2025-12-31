@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-06 10:04:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27051",
+    "spider_time": 1762423487962,
+    "name": "WordPress Bard plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-27051",
+    "publish": "2025-11-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress Bard plugin <=1.6\"]",
+    "cve": "CVE-2025-64368",
+    "description": "WordPress Bard plugin是用于阻止Bard等聊天机器人抓取网站内容的工具，通过修改虚拟robots.txt文件实现。WordPress Bard plugin存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Theme/bardwp/vulnerability/wordpress-bard-theme-1-6-cross-site-request-forgery-csrf-vulnerability",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress Bard plugin跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-05",
+    "open_time": "2025-11-06",
+    "update_time": "2025-11-06",
+    "data_summary": "60a4a53b186ca5895acd9dc8f8edf745"
+}

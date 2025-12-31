@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-26 02:31:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05704",
+    "spider_time": 1742956281870,
+    "name": "Apache Doris路径遍历漏洞",
+    "cnvd": "CNVD-2025-05704",
+    "publish": "2025-02-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Apache Apache Doris\"]",
+    "cve": "CVE-2024-48019",
+    "description": "Apache Doris是美国阿帕奇（Apache）基金会的一个现代MPP分析数据库产品。可以提供亚秒级查询和高效的实时数据分析。Apache Doris存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素。攻击者可利用该漏洞读取服务器文件系统中的任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2025/02/04/2",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/p70klgmyrgknhn0t195261wvwv5jw6hr",
+    "patch": "Apache Doris路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-03-25",
+    "update_time": "2025-03-25",
+    "data_summary": "f753a3bdf659751b8eeafcacd7f1fc37"
+}

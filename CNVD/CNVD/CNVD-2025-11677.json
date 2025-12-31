@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 09:03:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11677",
+    "spider_time": 1749200638622,
+    "name": "Tenda AX1806 iptv.stb.mode参数处理栈溢出漏洞",
+    "cnvd": "CNVD-2025-11677",
+    "publish": "2025-06-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda AX1806 v1.0.0.1\"]",
+    "cve": "CVE-2024-35571",
+    "description": "Tenda AX1806是一款家用无线路由器设备。Tenda AX1806存在栈溢出漏洞，该漏洞源于函数formSetIptv中的iptv.stb.mode参数，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://detailed-stetson-767.notion.site/Tenda-AX1806-Buffer-Overflow-in-formSetIptv-cebf9202122a4582ae86c5253b3f6da3?pvs=4",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-28",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "e2c116368546e4e3d587e808075ecf9d"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 02:44:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17270",
+    "spider_time": 1753929892460,
+    "name": "WeGIA访问控制错误漏洞",
+    "cnvd": "CNVD-2025-17270",
+    "publish": "2025-07-31",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WeGIA WeGIA <3.4.5\"]",
+    "cve": "CVE-2025-53938",
+    "description": "WeGIA是一个福利机构的网络管理器。WeGIA存在访问控制错误漏洞，攻击者可利用该漏洞导致未经验证的用户访问受保护功能。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-53938",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/LabRedesCefetRJ/WeGIA/releases",
+    "patch": "WeGIA访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-07-31",
+    "update_time": "2025-07-31",
+    "data_summary": "14c1f5e681c4f7eaa7e1478b5be6d5b2"
+}

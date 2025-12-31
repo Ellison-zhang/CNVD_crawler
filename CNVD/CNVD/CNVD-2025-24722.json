@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-30 06:10:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24722",
+    "spider_time": 1761804611626,
+    "name": "WordPress插件WP BookWidgets跨站脚本漏洞",
+    "cnvd": "CNVD-2025-24722",
+    "publish": "2025-10-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress WP BookWidgets plugin <=0.9\"]",
+    "cve": "CVE-2025-10139",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件WP BookWidgets存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/wp-bookwidgets/trunk/wp-bookwidgets.php#L163",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://plugins.trac.wordpress.org/browser/wp-bookwidgets/trunk/wp-bookwidgets.php#L163",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "d88433f8ab78a7f82288ae46208002df"
+}

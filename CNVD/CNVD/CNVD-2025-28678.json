@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-20 06:08:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28678",
+    "spider_time": 1763618918816,
+    "name": "Intel CIP输入验证错误漏洞（CNVD-2025-28678）",
+    "cnvd": "CNVD-2025-28678",
+    "publish": "2025-11-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Intel Intel CIP <WIN_DCA_2.4.0.11001\"]",
+    "cve": "CVE-2025-24299",
+    "description": "Intel CIP是英特尔推出的一项可选计划，旨在通过收集用户计算机的性能数据来改进产品。Intel CIP存在输入验证错误漏洞，该漏洞源于输入验证不当，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://intel.com/content/www/us/en/security-center/advisory/intel-sa-01328.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.intel.com/content/www/us/en/download/19296/intel-computing-improvement-program.html?product=43559",
+    "patch": "Intel CIP输入验证错误漏洞（CNVD-2025-28678）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "b31147d80e6de171d2dab24fc2c1dea2"
+}

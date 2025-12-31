@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-13 02:24:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02817",
+    "spider_time": 1739413498730,
+    "name": "IBM Cloud Pak System信息泄露漏洞（CNVD-2025-02817）",
+    "cnvd": "CNVD-2025-02817",
+    "publish": "2025-02-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"IBM IBM Cloud Pak System 2.3.3.0\", \"IBM IBM Cloud Pak System 2.3.3.3\", \"IBM IBM Cloud Pak System 2.3.3.3 iFix1\", \"IBM IBM Cloud Pak System 2.3.3.4\", \"IBM IBM Cloud Pak System 2.3.3.5\", \"IBM IBM Cloud Pak System 2.3.3.6\", \"IBM IBM Cloud Pak System 2.3.3.6 iFix1\", \"IBM IBM Cloud Pak System 2.3.3.6 iFix2\", \"IBM IBM Cloud Pak System 2.3.3.7\", \"IBM IBM Cloud Pak System 2.3.3.7 iFix1\"]",
+    "cve": "CVE-2023-38013",
+    "description": "IBM Cloud Pak System是美国国际商业机器（IBM）公司的一套具有可配置、预集成软件的全栈、融合基础架构。该产品支持跨混合云部署、管理和移动应用程序环境。IBM Cloud Pak System存在信息泄露漏洞，该漏洞源于会在HTTP响应中泄露敏感信息。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-38013",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7159533",
+    "patch": "IBM Cloud Pak System信息泄露漏洞（CNVD-2025-02817）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-06",
+    "open_time": "2025-02-13",
+    "update_time": "2025-02-13",
+    "data_summary": "3fef786e114233248f02b0e33474a71d"
+}

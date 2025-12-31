@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-25 10:04:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31394",
+    "spider_time": 1766657052104,
+    "name": "Apache Kylin身份认证绕过漏洞",
+    "cnvd": "CNVD-2025-31394",
+    "publish": "2025-12-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Apache Kylin >=4.0.0\\uff0c<5.0.3\"]",
+    "cve": "CVE-2025-61733",
+    "description": "Apache Kylin是一个开源的分布式分析引擎，旨在提供SQL接口以及为超大型数据集的Hadoop和Alluxio的多维分析提供支持。Apache Kylin /kylin/api/user/update_user接口存在身份验证绕过漏洞，该漏洞源于验证不当，远程攻击者可利用该漏洞可未经授权的访问或操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-61733",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttps://github.com/apache/kylin/releases/tag/kylin-5.0.3",
+    "patch": "Apache Kylin身份认证绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-09",
+    "open_time": "2025-12-25",
+    "update_time": "2025-12-25",
+    "data_summary": "3659290cdcfbc71641d82b128199ba86"
+}

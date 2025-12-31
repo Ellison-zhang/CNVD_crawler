@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 07:04:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12744",
+    "spider_time": 1750230285624,
+    "name": "Tenda AC15 /goform/SetRemoteWebCfg文件缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12744",
+    "publish": "2025-06-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC15 15.03.05.19_multi\"]",
+    "cve": "CVE-2025-5849",
+    "description": "Tenda AC15是中国腾达（Tenda）公司的一款无线路由器。Tenda AC15存在缓冲区溢出漏洞，该漏洞源于文件/goform/SetRemoteWebCfg中参数remoteIp未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://candle-throne-f75.notion.site/Tenda-AC15-formSetSafeWanWebMan-20adf0aa1185806daab3ebe0036266cb",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-10",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "4b47217488b062bb80a976fe6ce100f7"
+}

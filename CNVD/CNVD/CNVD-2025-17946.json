@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 10:04:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17946",
+    "spider_time": 1754647480347,
+    "name": "TOTOLINK EX200存在未明漏洞（CNVD-2025-17946）",
+    "cnvd": "CNVD-2025-17946",
+    "publish": "2025-08-08",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK EX200 V4.0.3c.7646_B20201211\"]",
+    "cve": "CVE-2024-31813",
+    "description": "TOTOLINK EX200是一款由中国吉翁电子（TOTOLINK）推出的无线N范围扩展器 ，主要用于扩展现有Wi-Fi网络的覆盖范围，解决信号盲区问题。TOTOLINK EX200存在安全漏洞，该漏洞源于默认情况下不包含身份验证机制。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/4hsien/CVE-vulns/blob/main/TOTOLINK/EX200/Missing_Authentication/missauth.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "TOTOLINK EX200存在未明漏洞（CNVD-2025-17946）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-10",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "55ecdfdd7ca9ac18df07238c063d6bcb"
+}

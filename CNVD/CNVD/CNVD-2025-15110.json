@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-04 10:04:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15110",
+    "spider_time": 1751623451536,
+    "name": "Ivanti Neurons for ITSM身份验证绕过漏洞",
+    "cnvd": "CNVD-2025-15110",
+    "publish": "2025-07-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Ivanti Neurons for ITSM <2023.4\", \"Ivanti Neurons for ITSM <2024.2\", \"Ivanti Neurons for ITSM <2024.3\"]",
+    "cve": "CVE-2025-22462",
+    "description": "Ivanti Neurons for ITSM是一款面向 IT服务管理的自动化平台，基于人工智能和机器学习技术，旨在优化IT服务交付流程并提升用户体验。Ivanti Neurons for ITSM存在身份验证绕过漏洞，攻击者可利用该漏洞获取管理员权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Neurons-for-ITSM-on-premises-only-CVE-2025-22462",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.ivanti.com/products/ivanti-neurons-itsm",
+    "patch": "Ivanti Neurons for ITSM身份验证绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-07-04",
+    "update_time": "2025-07-04",
+    "data_summary": "ac124c114f754f01d2f86df5592c2a6c"
+}

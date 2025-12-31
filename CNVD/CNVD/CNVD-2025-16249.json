@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-17 09:06:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16249",
+    "spider_time": 1752743218046,
+    "name": "HDF5缓冲区溢出漏洞（CNVD-2025-16249）",
+    "cnvd": "CNVD-2025-16249",
+    "publish": "2025-07-17",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"HDF5 HDF5 1.14.6\"]",
+    "cve": "CVE-2025-6750",
+    "description": "HDF5是The HDF Group开发的数据管理套件，用于存储和管理大规模科学数据。HDF5 1.14.6版本src/H5Omtime.c文件中的H5O__mtime_new_encode函数存在安全漏洞，该漏洞源于对数据边界处理不当。攻击者可利用该漏洞通过本地构造恶意数据触发堆溢出，可能导致任意代码执行或程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.314048\nhttps://vuldb.com/?ctiid.314048\nhttps://vuldb.com/?submit.601017\nhttps://github.com/HDFGroup/hdf5/issues/5549\nhttps://github.com/user-attachments/files/20438441/hdf5_crash_1.txt",
+    "solution": "目前厂商尚未发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://vuldb.com/?id.314048",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-30",
+    "open_time": "2025-07-17",
+    "update_time": "2025-07-17",
+    "data_summary": "08c8b682c2ba5e26b936d036f1da8eef"
+}

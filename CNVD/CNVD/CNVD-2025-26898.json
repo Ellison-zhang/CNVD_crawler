@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-05 03:23:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26898",
+    "spider_time": 1762312987309,
+    "name": "Delta Electronics DIAScreen越界写入漏洞（CNVD-2025-26898）",
+    "cnvd": "CNVD-2025-26898",
+    "publish": "2025-11-05",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Delta Electronics DIAScreen <1.6.1\"]",
+    "cve": "CVE-2025-59300",
+    "description": "Delta Electronics DIAScreen是中国台达电子（Delta Electronics）公司的一个智能机台建置软件。Delta Electronics DIAScreen存在越界写入漏洞，攻击者可利用该漏洞在系统上执行任意代码或导致系统崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2025-00018_DIAScreen%20File%20Parsing%20Out-Of-Bounds%20Write%20Vulnerability.pdf",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2025-00018_DIAScreen%20File%20Parsing%20Out-Of-Bounds%20Write%20Vulnerability.pdf",
+    "patch": "Delta Electronics DIAScreen越界写入漏洞（CNVD-2025-26898）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-11-05",
+    "update_time": "2025-11-05",
+    "data_summary": "c2ea77173edb7d86e9c1117947c37db3"
+}

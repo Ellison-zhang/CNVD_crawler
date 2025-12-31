@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 02:36:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13325",
+    "spider_time": 1750732570104,
+    "name": "Adobe InCopy输入验证错误漏洞（CNVD-2025-13325）",
+    "cnvd": "CNVD-2025-13325",
+    "publish": "2025-06-24",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Adobe InCopy <=20.2\", \"Adobe Adobe InCopy <=19.5.3\"]",
+    "cve": "CVE-2025-30327",
+    "description": "Adobe InCopy是美国奥多比（Adobe）公司的一款用于创作的文本编辑软件。Adobe InCopy存在输入验证错误漏洞，该漏洞是由整数溢出错误引起的。攻击者可利用该漏洞在系统上执行代码，或导致应用程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/incopy/apsb25-41.html",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://helpx.adobe.com/security/products/incopy/apsb25-41.html",
+    "patch": "Adobe InCopy输入验证错误漏洞（CNVD-2025-13325）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-24",
+    "update_time": "2025-06-24",
+    "data_summary": "5574ce136754e9ada94740a1ea4ff92c"
+}

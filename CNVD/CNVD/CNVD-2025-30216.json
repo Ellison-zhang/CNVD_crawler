@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-10 02:45:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30216",
+    "spider_time": 1765334724914,
+    "name": "Wireshark拒绝服务漏洞（CNVD-2025-30216）",
+    "cnvd": "CNVD-2025-30216",
+    "publish": "2025-12-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Wireshark Wireshark >=4.2.0\\uff0c<4.2.12\", \"Wireshark Wireshark >=4.4.0\\uff0c<4.4.7\"]",
+    "cve": "CVE-2025-5601",
+    "description": "Wireshark是一款非常流行的网络封包分析软件，可以截取各种网络数据包，并显示数据包详细信息。Wireshark存在拒绝服务漏洞。该漏洞存在于Wireshark的列处理功能中。当Wireshark尝试处理包含恶意构造数据的网络数据包或捕获文件时，由于未正确验证输入数据的大小和格式，导致缓冲区溢出。攻击者可以利用该漏洞通过注入特定的数据包或使用精心构造的捕获文件来触发拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5601",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新:\nhttps://www.wireshark.org/security/wnpa-sec-2025-02.html",
+    "patch": "Wireshark拒绝服务漏洞（CNVD-2025-30216）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-06",
+    "open_time": "2025-12-08",
+    "update_time": "2025-12-08",
+    "data_summary": "b31d2201190246ac752295b2b52b8c5b"
+}

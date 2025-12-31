@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 08:04:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18323",
+    "spider_time": 1755072294358,
+    "name": "WordPress JetTricks跨站脚本漏洞",
+    "cnvd": "CNVD-2025-18323",
+    "publish": "2025-08-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"WordPress JetTricks <=1.5.4.1\"]",
+    "cve": "CVE-2025-53991",
+    "description": "WordPress JetTricks是一款针对WordPress开发的插件，主要用于增强Elementor页面构建器的功能。WordPress JetTricks存在跨站脚本漏洞，该漏洞源于输入中和不当，攻击者可利用该漏洞通过在用户浏览器中注入恶意脚本，触发执行恶意脚本。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-53991",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress JetTricks跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "79ca8062664fae6f43558d3a0f75153c"
+}

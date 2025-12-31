@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-30 09:04:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25841",
+    "spider_time": 1761815078792,
+    "name": "WordPress Billey plugin文件包含漏洞",
+    "cnvd": "CNVD-2025-25841",
+    "publish": "2025-10-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Billey plugin <2.1.6\"]",
+    "cve": "CVE-2025-59558",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Billey plugin存在文件包含漏洞，该漏洞源于对包含或需要语句的文件名控制不当，攻击者可利用该漏洞导致PHP本地文件包含。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Theme/billey/vulnerability/wordpress-billey-theme-2-1-6-local-file-inclusion-vulnerability",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-24",
+    "open_time": "2025-10-30",
+    "update_time": "2025-10-30",
+    "data_summary": "129fa4c1c34b4764189820ff58f7f4f8"
+}

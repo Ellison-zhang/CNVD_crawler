@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-09 09:05:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15351",
+    "spider_time": 1752051931364,
+    "name": "Schneider Electric Modicon Controllers跨站脚本漏洞（CNVD-2025-15351）",
+    "cnvd": "CNVD-2025-15351",
+    "publish": "2025-07-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Schneider Electric Modicon ControllersM241/M251 <5.3.12.51\", \"Schneider Electric Modicon Controllers M258 /LMC058 null\", \"Schneider Electric Modicon Controllers M262 <5.3.9.18\"]",
+    "cve": "CVE-2025-3117",
+    "description": "Schneider Electric Modicon Controllers是法国施耐德电气（Schneider Electric）公司的一系列Modicon系列可编程逻辑控制器。Schneider Electric Modicon Controllers存在跨站脚本漏洞，该漏洞源于网页生成期间输入中和不当，攻击者可利用该漏洞导致经过身份验证的恶意用户注入未经验证的数据，从而修改或读取受害者浏览器中的数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2025-161-02&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2025-161-02.pdf",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp",
+    "patch": "Schneider Electric Modicon Controllers跨站脚本漏洞（CNVD-2025-15351）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-23",
+    "open_time": "2025-07-09",
+    "update_time": "2025-07-09",
+    "data_summary": "66858a6e82550fc0477333b0a0b175b7"
+}

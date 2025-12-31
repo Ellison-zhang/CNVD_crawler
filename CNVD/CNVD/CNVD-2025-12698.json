@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 10:04:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12698",
+    "spider_time": 1750154692756,
+    "name": "Tenda FH1206 ip/goform/RouteStatic接口mitInterface参数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12698",
+    "publish": "2025-06-17",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda FH1206 V1.2.0.8(8155)_EN\"]",
+    "cve": "CVE-2024-33213",
+    "description": "Tenda FH1206是中国腾达（Tenda）公司的一款无线路由器。Tenda FH1206存在缓冲区溢出漏洞，该漏洞源于通过ip/goform/RouteStatic中的mitInterface参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://palm-vertebra-fe9.notion.site/fromRouteStatic_2-e98a555978be404583fef5f5c1e50efa",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-25",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "6c7598a81736a8b8ba1ab3156d67e68a"
+}

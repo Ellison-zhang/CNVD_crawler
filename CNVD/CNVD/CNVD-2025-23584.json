@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-14 08:05:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23584",
+    "spider_time": 1760429109683,
+    "name": "TOTOLINK N600R /cgi-bin/cstecgi.cgi文件缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-23584",
+    "publish": "2025-10-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK N600R <=4.3.0cu.7866_B20220506\"]",
+    "cve": "CVE-2025-11444",
+    "description": "TOTOLINK N600R是韩国品牌TOTOLINK于2013年推出的双频无线路由器，支持2.4GHz和5GHz频段并发工作，最高无线传输速率为300Mbps。TOTOLINK N600R存在缓冲区溢出漏洞，该漏洞源于文件/cgi-bin/cstecgi.cgi中参数wepkey未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/z472421519/BinaryAudit/blob/main/PoC/BOF/TOTOLINK/wepkey/wepkey.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-13",
+    "open_time": "2025-10-14",
+    "update_time": "2025-10-14",
+    "data_summary": "7dd42104e4563a5472ce76ebc47e2fe5"
+}

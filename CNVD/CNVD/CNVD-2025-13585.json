@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 08:05:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13585",
+    "spider_time": 1750925133487,
+    "name": "JetBrains TeamCity信息泄露漏洞",
+    "cnvd": "CNVD-2025-13585",
+    "publish": "2025-06-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"JetBrains TeamCity <=2025.03\"]",
+    "cve": "CVE-2025-31139",
+    "description": "JetBrains TeamCity是由JetBrains开发的一款强大的持续集成和持续交付（CI/CD）工具。JetBrains TeamCity存在信息泄露漏洞，该漏洞源于base64编码密码暴露在构建日志中。攻击者可利用该漏洞获取用户的base64编码的密码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-31139",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains TeamCity信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-03",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "58e9efb573c649d3b3280c480fba74d8"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-20 11:03:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05451",
+    "spider_time": 1742468604443,
+    "name": "WordPress WP JobHunt plugin wp_ajax_google_api_login_callback函数身份验证错误漏洞",
+    "cnvd": "CNVD-2025-05451",
+    "publish": "2025-03-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress WP JobHunt plugin <=7.1\"]",
+    "cve": "CVE-2024-11283",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress plugin WP JobHunt 7.1及之前版本存在身份验证错误漏洞，该漏洞源于wp_ajax_google_api_login_callback函数未正确验证用户身份，攻击者可利用该漏洞访问任意候选账户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-11283",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://cn.wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-19",
+    "open_time": "2025-03-20",
+    "update_time": "2025-03-20",
+    "data_summary": "d193ad49a7c0b1dc209172ae614be031"
+}

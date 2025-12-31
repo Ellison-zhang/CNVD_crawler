@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-24 01:34:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31135",
+    "spider_time": 1766540096700,
+    "name": "Huawei HarmonyOS安全检查不当漏洞",
+    "cnvd": "CNVD-2025-31135",
+    "publish": "2025-12-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Huawei HarmonyOS 5.0.1\", \"Huawei HarmonyOS 5.1.0\", \"Huawei HarmonyOS 6.0.0\"]",
+    "cve": "CVE-2025-66323",
+    "description": "Huawei HarmonyOS是华为技术有限公司自主研发的面向全场景的分布式操作系统。Huawei HarmonyOS存在安全检查不当漏洞，该漏洞源于卡模块中不当标准安全检查的漏洞，攻击者可利用该漏洞导致影响可用性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-66323",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://consumer.huawei.com/en/support/bulletin/2025/12/",
+    "patch": "Huawei HarmonyOS安全检查不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2025-12-23",
+    "update_time": "2025-12-23",
+    "data_summary": "b371c0cf1fed37a5957f7540039ded5f"
+}

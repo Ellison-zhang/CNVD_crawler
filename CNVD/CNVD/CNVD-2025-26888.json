@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-05 03:22:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26888",
+    "spider_time": 1762312976081,
+    "name": "Mozilla Firefox安全绕过漏洞（CNVD-2025-26888）",
+    "cnvd": "CNVD-2025-26888",
+    "publish": "2025-11-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:C/A:P",
+    "product": "[\"Mozilla Firefox <143.0.3\"]",
+    "cve": "CVE-2025-11152",
+    "description": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Firefox存在安全绕过漏洞，该漏洞是由于Graphics:Canvas2D组件中的整数溢出引起的。攻击者可利用该漏洞导致沙盒逃逸。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.mozilla.org/show_bug.cgi?id=1987246",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/en-US/security/advisories/mfsa2025-80/",
+    "patch": "Mozilla Firefox安全绕过漏洞（CNVD-2025-26888）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-30",
+    "open_time": "2025-11-05",
+    "update_time": "2025-11-05",
+    "data_summary": "483068f5fdfba6552720f455eed66c20"
+}

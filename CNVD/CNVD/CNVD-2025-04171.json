@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-04 02:28:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04171",
+    "spider_time": 1741055291168,
+    "name": "IBM Aspera Shares HTML注入漏洞",
+    "cnvd": "CNVD-2025-04171",
+    "publish": "2025-02-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"IBM IBM Aspera Shares >=1.9.0\\uff0c<=1.10.0 PL6\"]",
+    "cve": "CVE-2024-38318",
+    "description": "IBM Aspera Shares是美国国际商业机器（IBM）公司的一个Web应用程序。IBM Aspera Shares存在HTML注入漏洞。该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞注入恶意HTML代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-38318",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7182490",
+    "patch": "IBM Aspera Shares HTML注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-03-04",
+    "update_time": "2025-03-04",
+    "data_summary": "e8b81af83a6ee08f9d176d68f15888f4"
+}

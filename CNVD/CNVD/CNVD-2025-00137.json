@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-14 08:04:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-00137",
+    "spider_time": 1747209883060,
+    "name": "武汉达梦数据库股份有限公司达梦8数据库DMagent存在任意文件下载漏洞",
+    "cnvd": "CNVD-2025-00137",
+    "publish": "2025-05-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6b66\\u6c49\\u8fbe\\u68a6\\u6570\\u636e\\u5e93\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u8fbe\\u68a68\\u6570\\u636e\\u5e93DMagent 7.4.0\"]",
+    "cve": null,
+    "description": "武汉达梦数据库股份有限公司成立于2000年，是国内领先的数据库产品开发服务商。武汉达梦数据库股份有限公司达梦8数据库DMagent存在任意文件下载漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修补方案，建议用户下载使用：\nhttps://www.dameng.com/list_103.html\nhttps://eco.dameng.com/vip/",
+    "patch": "武汉达梦数据库股份有限公司达梦8数据库DMagent存在任意文件下载漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2024-11-20",
+    "open_time": "2025-01-03",
+    "update_time": "2025-05-14",
+    "data_summary": "3a3ef2559a06401293c2d311da5f7c50"
+}

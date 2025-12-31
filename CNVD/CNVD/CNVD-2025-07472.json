@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:28:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07472",
+    "spider_time": 1744946894261,
+    "name": "深圳国威电子有限公司HB1910数字程控电话交换机存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-07472",
+    "publish": "2025-04-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u6df1\\u5733\\u56fd\\u5a01\\u7535\\u5b50\\u6709\\u9650\\u516c\\u53f8 HB1910\\u6570\\u5b57\\u7a0b\\u63a7\\u7535\\u8bdd\\u4ea4\\u6362\\u673a\"]",
+    "cve": null,
+    "description": "深圳国威电子有限公司是一家专注于程控交换机、IP交换机、语音网关、IP电话机及各种电话机的研发、生产和销售的公司‌。深圳国威电子有限公司HB1910数字程控电话交换机存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.hb-voice.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-27",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "a9f1410cea67474823d88166a74f5342"
+}

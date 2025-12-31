@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-09 10:04:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15358",
+    "spider_time": 1752055475611,
+    "name": "Gnu Screen竞争条件漏洞",
+    "cnvd": "CNVD-2025-15358",
+    "publish": "2025-07-09",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Gnu Screen <=5.0.0\"]",
+    "cve": "CVE-2025-46805",
+    "description": "Gnu Screen是由GNU项目开发的终端复用工具，允许用户在同一物理终端中创建多个虚拟终端会话，并支持会话恢复、窗口切换及多用户共享等功能。Gnu Screen存在竞争条件漏洞，该漏洞源于TOCTOU竞争条件，攻击者可利用该漏洞向特权进程发送SIGHUP和SIGCONT信号。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.suse.com/show_bug.cgi?id=CVE-2025-46805",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://ftp.gnu.org/gnu/screen/",
+    "patch": "Gnu Screen竞争条件漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-30",
+    "open_time": "2025-07-09",
+    "update_time": "2025-07-09",
+    "data_summary": "5015c6533ff1fb0c7dca5ff761b217b9"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 10:04:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13335",
+    "spider_time": 1750759459574,
+    "name": "D-Link DIR-619L formSetEnableWizard栈溢出漏洞",
+    "cnvd": "CNVD-2025-13335",
+    "publish": "2025-06-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-619L 2.06B01\"]",
+    "cve": "CVE-2025-6371",
+    "description": "D-Link DIR-619L是专为家庭及小型办公环境设计的无线路由器，采用IEEE 802.11n无线标准，最高传输速率达300Mbps。D-Link DIR-619L /goform/formSetEnableWizard存在栈溢出漏洞，该漏洞源于内存缓冲区操作限制不当，远程攻击者可利用该漏洞提交特殊的请求，可使应用程序崩溃或者以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/wudipjq/my_vuln/blob/main/D-Link6/vuln_71/71.md",
+    "solution": "厂商尚未提供漏洞修复程序，请及时关注厂商更新：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-24",
+    "open_time": "2025-06-24",
+    "update_time": "2025-06-24",
+    "data_summary": "31f8f0367189087af811da8c0abb38ff"
+}

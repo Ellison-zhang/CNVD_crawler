@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-11 10:04:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21115",
+    "spider_time": 1757585094810,
+    "name": "appRain CMF跨站脚本漏洞（CNVD-2025-21115）",
+    "cnvd": "CNVD-2025-21115",
+    "publish": "2025-09-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"appRain appRain CMF 4.0.5\"]",
+    "cve": "CVE-2025-41050",
+    "description": "appRain CMF是一个内容管理框架。appRain CMF存在跨站脚本漏洞，由于/apprain/developer/addons/update/base_libs端点对用户输入的验证不当造成的。攻击者可利用该漏洞窃取受害者基于cookie的身份验证凭据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-41050",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.incibe.es/en/incibe-cert/notices/aviso/multiple-vulnerabilities-apprain-cmf",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-09-11",
+    "update_time": "2025-09-11",
+    "data_summary": "9f9fefc4625348952ef23394e88d89ad"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 09:03:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08451",
+    "spider_time": 1745744593175,
+    "name": "B-LINK RouterB-LINK Router存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-08451",
+    "publish": "2025-04-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"B-LINK Router B-LINK Router\"]",
+    "cve": null,
+    "description": "B-LINK Router是一种网络设备，主要用于网络连接和数据转发。B-LINK Router存在逻辑缺陷漏洞,攻击者可利用该漏洞重置账户密码。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.kuaiyun.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "7fb7f7f7a79f4d653fdeddada339bfb8"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-28 08:08:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19590",
+    "spider_time": 1756368482750,
+    "name": "Bottinelli Informatical Vedo Suite访问控制错误漏洞",
+    "cnvd": "CNVD-2025-19590",
+    "publish": "2025-08-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Bottinelli Informatical Vedo Suite 2024.17\"]",
+    "cve": "CVE-2025-51054",
+    "description": "Bottinelli Informatical Vedo Suite是意大利Bottinelli Informatica公司的一款面向纺织与设计行业的企业软件套件。Bottinelli Informatical Vedo Suite存在访问控制错误漏洞，攻击者可利用该漏洞获取高权限JWT令牌。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-51054",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.bottinelliinformatica.it/",
+    "patch": "Bottinelli Informatical Vedo Suite访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-18",
+    "open_time": "2025-08-28",
+    "update_time": "2025-08-28",
+    "data_summary": "b37be37bef0b503a878b294ba261a0c5"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-28 08:05:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10815",
+    "spider_time": 1748419527702,
+    "name": "Huawei HarmonyOS权限控制不当漏洞",
+    "cnvd": "CNVD-2025-10815",
+    "publish": "2025-05-28",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Huawei HarmonyOS 5.0.0\"]",
+    "cve": "CVE-2025-46587",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。Huawei HarmonyOS存在权限控制不当漏洞，该漏洞源于媒体库模块权限控制不当，影响服务机密性。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-46587",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://consumer.huawei.com/cn/support/bulletin/2025/5/",
+    "patch": "Huawei HarmonyOS权限控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-05-28",
+    "update_time": "2025-05-28",
+    "data_summary": "f89132f15fd2269470b9deff9bcba8cd"
+}

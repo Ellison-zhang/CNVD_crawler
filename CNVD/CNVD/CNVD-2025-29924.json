@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-04 03:29:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29924",
+    "spider_time": 1764818946008,
+    "name": "Meta React Server Components远程代码执行漏洞",
+    "cnvd": "CNVD-2025-29924",
+    "publish": "2025-12-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Meta React Server Components 19.0.0\", \"Meta React Server Components 19.0.1\", \"Meta React Server Components 19.1.*\", \"Meta React Server Components 19.2.0\"]",
+    "cve": "CVE-2025-55182",
+    "description": "React Server Components是React框架中的一种新组件模型，它允许组件在服务器上运行并渲染，并不在客户端浏览器中执行。Meta React Server Components存在远程代码执行漏洞，该漏洞源于解析客户端提交的表单时缺少安全校验，攻击者可利用该漏洞构造恶意表单请求，直接调用Node.js内置模块，从而在服务器上执行任意系统命令、读写任意文件，甚至完全接管服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-55182",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
+    "patch": "Meta React Server Components远程代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-04",
+    "open_time": "2025-12-04",
+    "update_time": "2025-12-04",
+    "data_summary": "7e733e9187b348509cb3f0df2a609050"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-11 02:33:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27449",
+    "spider_time": 1762828416054,
+    "name": "IBM Planning Analytics Local跨站脚本漏洞",
+    "cnvd": "CNVD-2025-27449",
+    "publish": "2025-10-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"IBM Planning Analytics Local >=2.0.0\\uff0c<=2.0.106\", \"IBM Planning Analytics Local >=2.1.0\\uff0c<=2.1.13\"]",
+    "cve": "CVE-2025-36132",
+    "description": "IBM Planning Analytics Local是美国国际商业机器（IBM）公司的一个基于网络的本地架构。IBM Planning Analytics Local存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞可以通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36132",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7246602",
+    "patch": "IBM Planning Analytics Local跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-11-10",
+    "update_time": "2025-11-10",
+    "data_summary": "875d14d8eaafef0fa3e2fda96a0f345f"
+}

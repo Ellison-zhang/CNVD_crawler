@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:29:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07455",
+    "spider_time": 1744946972984,
+    "name": "tabler存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-07455",
+    "publish": "2025-04-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"tabler tabler\"]",
+    "cve": null,
+    "description": "Tabler是一个基于Bootstrap 4的CSS框架和UI组件库。tabler存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://tabler.io/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-25",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "e80d5a82941550e5c602483e7d0a137c"
+}

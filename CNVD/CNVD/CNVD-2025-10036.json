@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-19 10:04:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10036",
+    "spider_time": 1747649074495,
+    "name": "Apache Kylin代码问题漏洞（CNVD-2025-10036）",
+    "cnvd": "CNVD-2025-10036",
+    "publish": "2025-05-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Apache Kylin >=5.0.0\\uff0c<5.0.2\"]",
+    "cve": "CVE-2024-48944",
+    "description": "Apache Kylin是美国阿帕奇（Apache）基金会的一款开源的分布式分析型数据仓库。该产品主要提供Hadoop/Spark之上的SQL查询接口及多维分析（OLAP）等功能。Apache Kylin存在代码问题漏洞，该漏洞源于服务端请求伪造。攻击者利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-48944",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttp://www.openwall.com/lists/oss-security/2025/03/27/5",
+    "patch": "Apache Kylin代码问题漏洞（CNVD-2025-10036）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-08",
+    "open_time": "2025-05-19",
+    "update_time": "2025-05-19",
+    "data_summary": "65c9e07cf5f42f8a9ebed851a3883280"
+}

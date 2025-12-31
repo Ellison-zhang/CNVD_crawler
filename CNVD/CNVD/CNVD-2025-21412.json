@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-17 08:04:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21412",
+    "spider_time": 1758096268888,
+    "name": "西安众邦网络科技有限公司CRMEB服务端请求伪造漏洞",
+    "cnvd": "CNVD-2025-21412",
+    "publish": "2025-09-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"\\u897f\\u5b89\\u4f17\\u90a6\\u7f51\\u7edc\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 crmeb <=5.6.1\"]",
+    "cve": "CVE-2025-10391",
+    "description": "CRMEB是一个Java商城系统。CRMEB 5.6.1及之前版本存在服务端请求伪造漏洞，该漏洞源于文件app/services/out/OutAccountServices.php中参数push_token_url未实现足够的验证机制来确认请求的来源，攻击者可利用该漏洞探测服务器内网资源。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-10391",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/August829/Yu/blob/main/58ead8e7e08bfb015.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-16",
+    "open_time": "2025-09-17",
+    "update_time": "2025-09-17",
+    "data_summary": "4c17198063fa3249c5a3463448265dd7"
+}

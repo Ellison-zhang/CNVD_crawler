@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-21 08:07:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03437",
+    "spider_time": 1740125253352,
+    "name": "LibreOffice输入验证错误漏洞",
+    "cnvd": "CNVD-2025-03437",
+    "publish": "2025-02-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:P",
+    "product": "[\"LibreOffice LibreOffice\"]",
+    "cve": "CVE-2024-3044",
+    "description": "LibreOffice是文档基金会（The Document Foundation，tdf）的一套开源的办公软件套件。该产品包含Writer（文本文档）、Calc（电子表格）和Impress（演示文稿）等应用程序。LibreOffice存在输入验证错误漏洞，该漏洞源于在单击图形时无需提示即可执行LibreOffice内置的脚本。攻击者可利用该漏洞导致任意代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/vulnerability/slider-by-supsystic/wordpress-slider-by-supsystic-plugin-1-8-10-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/slider-by-supsystic/",
+    "patch": "LibreOffice输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-14",
+    "open_time": "2025-02-21",
+    "update_time": "2025-02-21",
+    "data_summary": "b28d7b8d97543a686f1400d09ba2a88c"
+}

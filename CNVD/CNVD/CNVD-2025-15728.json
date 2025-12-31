@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-15 07:06:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15728",
+    "spider_time": 1752563200913,
+    "name": "Ivanti Connect Secure代码执行漏洞",
+    "cnvd": "CNVD-2025-15728",
+    "publish": "2025-07-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Ivanti Ivanti Connect Secure <22.7R2.4\"]",
+    "cve": "CVE-2024-11633",
+    "description": "Ivanti Connect Secure是美国Ivanti公司的安全远程网络连接工具。Ivanti Connect Secure存在代码执行漏洞，攻击者可利用该漏洞远程执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-11633",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://forums.ivanti.com/s/article/December-2024-Security-Advisory-Ivanti-Connect-Secure-ICS-and-Ivanti-Policy-Secure-IPS-Multiple-CVEs?language=en_US",
+    "patch": "Ivanti Connect Secure代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-23",
+    "open_time": "2025-07-15",
+    "update_time": "2025-07-15",
+    "data_summary": "1cccf83c9697506460d03d136c98d023"
+}

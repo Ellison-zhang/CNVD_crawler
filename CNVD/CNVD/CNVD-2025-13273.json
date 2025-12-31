@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-23 10:05:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13273",
+    "spider_time": 1750673102179,
+    "name": "Microsoft Access代码执行漏洞（CNVD-2025-13273）",
+    "cnvd": "CNVD-2025-13273",
+    "publish": "2025-06-23",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Access 2016\", \"Microsoft 365 Apps for Enterprise\", \"Microsoft Office LTSC 2021\", \"Microsoft Office 2019\", \"Microsoft Microsoft Office LTSC 2024\"]",
+    "cve": "CVE-2024-49142",
+    "description": "Microsoft Access是美国微软（Microsoft）公司Office套件中的一套关系数据库管理系统。Microsoft Access存在代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49142",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49142",
+    "patch": "Microsoft Access代码执行漏洞（CNVD-2025-13273）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-13",
+    "open_time": "2025-06-23",
+    "update_time": "2025-06-23",
+    "data_summary": "14ad7146ef6ece24299a8e3283685aa7"
+}

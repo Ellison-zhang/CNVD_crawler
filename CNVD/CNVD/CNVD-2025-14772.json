@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-02 07:04:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14772",
+    "spider_time": 1751439860304,
+    "name": "WordPress SiteOrigin Widgets Bundle plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-14772",
+    "publish": "2025-07-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress SiteOrigin Widgets Bundle plugin <=1.68.4\"]",
+    "cve": "CVE-2025-5585",
+    "description": "WordPress SiteOrigin Widgets Bundle是一款功能强大的WordPress插件，提供了一系列丰富的、可高度自定义的小部件，用于增强网站的布局和功能，支持多种页面构建器和编辑器，帮助用户轻松创建专业且美观的网站。WordPress SiteOrigin Widgets Bundle plugin存在跨站脚本漏洞。该漏洞是由于插件对用户的输入未能正确的过滤验证。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5585",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/so-widgets-bundle/",
+    "patch": "WordPress SiteOrigin Widgets Bundle plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "c707ff64581d210ccb88556284896086"
+}

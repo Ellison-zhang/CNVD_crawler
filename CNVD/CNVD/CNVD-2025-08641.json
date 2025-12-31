@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-28 06:10:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08641",
+    "spider_time": 1745820637309,
+    "name": "友讯电子设备（上海）有限公司DWR-M961存在栈溢出漏洞",
+    "cnvd": "CNVD-2025-08641",
+    "publish": "2025-04-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:N/I:N/A:C",
+    "product": "[\"\\u53cb\\u8baf\\u7535\\u5b50\\u8bbe\\u5907\\uff08\\u4e0a\\u6d77\\uff09\\u6709\\u9650\\u516c\\u53f8 DWR-M961\"]",
+    "cve": null,
+    "description": "DWR-M961是一款路由器。友讯电子设备（上海）有限公司DWR-M961存在栈溢出漏洞，攻击者可利用该漏洞导致服务器崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.dlink.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "ceeb730db82fccf52551e763f1960de8"
+}

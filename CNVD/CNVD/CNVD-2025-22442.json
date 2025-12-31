@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-24 11:04:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22442",
+    "spider_time": 1758711842859,
+    "name": "Pre-School Enrollment System check_availability.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-22442",
+    "publish": "2025-09-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Pre-School Enrollment System Pre-School Enrollment System 1.0\"]",
+    "cve": "CVE-2025-6318",
+    "description": "Pre-School Enrollment System是一个基于Web的学前招生系统。Pre-School Enrollment System存在SQL注入漏洞，该漏洞源于文件/admin/check_availability.php中参数Username缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/f1rstb100d/myCVE/issues/71",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-09-24",
+    "update_time": "2025-09-24",
+    "data_summary": "30d219db53eb1918878b84b769ec8b48"
+}

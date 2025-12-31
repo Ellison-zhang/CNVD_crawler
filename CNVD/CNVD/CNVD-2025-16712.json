@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-24 05:07:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16712",
+    "spider_time": 1753333678683,
+    "name": "JetBrains webstorm代码执行漏洞",
+    "cnvd": "CNVD-2025-16712",
+    "publish": "2025-07-24",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"JetBrains webstorm <2024.3\"]",
+    "cve": "CVE-2024-52555",
+    "description": "JetBrains webstorm是一款面向JavaScript和TypeScript开发的集成开发环境（IDE）。JetBrains webstorm存在代码执行漏洞，该漏洞源于通过类型定义安装程序脚本，攻击者可利用该漏洞在不受信任的项目模式下执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-52555",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains webstorm代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-21",
+    "open_time": "2025-07-24",
+    "update_time": "2025-07-24",
+    "data_summary": "2dfa75de155f1b50aa35d1af3fc18784"
+}

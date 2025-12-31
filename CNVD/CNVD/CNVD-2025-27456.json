@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-11 00:15:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27456",
+    "spider_time": 1762820125499,
+    "name": "Foxit PDF Reader缓冲区溢出漏洞（CNVD-2025-27456）",
+    "cnvd": "CNVD-2025-27456",
+    "publish": "2025-11-07",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Foxit PDF Reader\"]",
+    "cve": "CVE-2025-9327",
+    "description": "Foxit PDF Reader是中国福昕（Foxit）公司的一款PDF阅读器。Foxit PDF Reader存在安全漏洞，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-25-865/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.foxit.com/support/security-bulletins.html",
+    "patch": "Foxit PDF Reader缓冲区溢出漏洞（CNVD-2025-27456）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-04",
+    "open_time": "2025-11-10",
+    "update_time": "2025-11-10",
+    "data_summary": "2419e4a4fafc5103fb6746dc70103891"
+}

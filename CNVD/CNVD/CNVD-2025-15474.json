@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-11 07:05:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15474",
+    "spider_time": 1752217526355,
+    "name": "Ivanti CSA路径遍历漏洞",
+    "cnvd": "CNVD-2025-15474",
+    "publish": "2025-07-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Ivanti Ivanti CSA <5.0.5\"]",
+    "cve": "CVE-2024-11771",
+    "description": "Ivanti CSA是一款本地部署的虚拟设备,旨在简化和增强Ivanti产品与云服务的集成。Ivanti CSA存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素。攻击者可利用该漏洞导致任意文件读取。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-11771",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Cloud-Services-Application-CSA-CVE-2024-47908-CVE-2024-11771",
+    "patch": "Ivanti CSA路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-07-11",
+    "update_time": "2025-07-11",
+    "data_summary": "44f6d8b395d5b7b98e08982db8dc188a"
+}

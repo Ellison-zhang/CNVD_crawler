@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 07:04:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11395",
+    "spider_time": 1749107050585,
+    "name": "NVIDIA GPU Display Driver for Linux特权提升漏洞",
+    "cnvd": "CNVD-2025-11395",
+    "publish": "2025-06-05",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"NVIDIA GPU Display Driver for Linux\"]",
+    "cve": "CVE-2025-23244",
+    "description": "NVIDIA GPU Display Driver for Linux是一款GPU显示驱动程序。NVIDIA GPU Display Driver for Linux存在特权提升漏洞，攻击者可利用该漏洞提交特殊的请求，执行任意代码，权限提升等。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvidia.custhelp.com/app/answers/detail/a_id/5630",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5630",
+    "patch": "NVIDIA GPU Display Driver for Linux特权提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-07",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "2e9ab414aa380d0b388e4aa8bbf49c81"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-15 09:05:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21176",
+    "spider_time": 1757927159025,
+    "name": "Fortinet FortiSIEM操作系统命令注入漏洞（CNVD-2025-21176）",
+    "cnvd": "CNVD-2025-21176",
+    "publish": "2025-09-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Fortinet FortiSIEM 5.4.0\", \"Fortinet FortiSIEM >=7.3.0\\uff0c<=7.3.1\", \"Fortinet FortiSIEM >=7.2.0\\uff0c<=7.2.5\", \"Fortinet FortiSIEM >=7.1.0\\uff0c<=7.1.7\", \"Fortinet FortiSIEM >=7.0.0\\uff0c<=7.0.3\", \"Fortinet FortiSIEM >=6.7.0\\uff0c<=6.7.9\", \"Fortinet FortiSIEM >=6.6.0\\uff0c<=6.6.5\", \"Fortinet FortiSIEM >=6.5.0\\uff0c<=6.5.3\", \"Fortinet FortiSIEM >=6.4.0\\uff0c<=6.4.4\", \"Fortinet FortiSIEM >=6.3.0\\uff0c<=6.3.3\", \"Fortinet FortiSIEM >=6.2.0\\uff0c<=6.2.1\", \"Fortinet FortiSIEM >=6.1.0\\uff0c<=6.1.2\"]",
+    "cve": "CVE-2025-25256",
+    "description": "Fortinet FortiSIEM是美国飞塔（Fortinet）公司的一套安全信息和事件管理系统。该系统包括资产发现、工作流程自动化和统一管理等功能。Fortinet FortiSIEM存在操作系统命令注入漏洞，该漏洞源于应用未能正确过滤构造命令特殊字符、命令等，攻击者可利用该漏洞可能导致执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://fortiguard.fortinet.com/psirt/FG-IR-25-152",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://docs.fortinet.com/upgrade-tool/fortigate",
+    "patch": "Fortinet FortiSIEM操作系统命令注入漏洞（CNVD-2025-21176）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-09-12",
+    "update_time": "2025-09-12",
+    "data_summary": "b29b7912f7081997dc306893bb3040e5"
+}

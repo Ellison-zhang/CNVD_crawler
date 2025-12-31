@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 09:08:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16539",
+    "spider_time": 1753088886744,
+    "name": "Adobe Substance3D Viewer空指针解引用漏洞",
+    "cnvd": "CNVD-2025-16539",
+    "publish": "2025-07-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Adobe Substance3D Viewer <=0.22\"]",
+    "cve": "CVE-2025-43583",
+    "description": "Adobe Substance3D Viewer是美国奥多比（Adobe）公司的一款独立桌面应用程序，用于查看和编辑3D文件。Adobe Substance3D Viewer存在空指针解引用漏洞，攻击者可利用该漏洞导致应用程序拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/substance3d-viewer/apsb25-54.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/substance3d-viewer/apsb25-54.html",
+    "patch": "Adobe Substance3D Viewer空指针解引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "701f3cf8fd3b561cd10e152970f38bd9"
+}

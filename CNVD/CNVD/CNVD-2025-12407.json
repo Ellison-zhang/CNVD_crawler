@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 09:04:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12407",
+    "spider_time": 1749805473885,
+    "name": "Tenda CP3命令注入漏洞",
+    "cnvd": "CNVD-2025-12407",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Tenda CP3 11.10.00.2311090948\"]",
+    "cve": "CVE-2025-5763",
+    "description": "Tenda CP3是中国腾达（Tenda）公司的一款智能摄像机。Tenda CP3 11.10.00.2311090948版本存在命令注入漏洞，该漏洞源于文件apollo中函数sub_F3C8C未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://blog.kevgen.ru/posts/rce_in_tenda_cp3_camera",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.tenda.com.cn/download/3343",
+    "patch": "Tenda CP3命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-10",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "2541ebc3b56ca12c8a47e7f246bf71c6"
+}

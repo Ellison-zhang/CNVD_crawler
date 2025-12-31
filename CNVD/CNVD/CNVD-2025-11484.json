@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 09:04:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11484",
+    "spider_time": 1749114263794,
+    "name": "JetBrains TeamCity代码问题漏洞",
+    "cnvd": "CNVD-2025-11484",
+    "publish": "2025-06-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:P/A:N",
+    "product": "[\"JetBrains TeamCity <2024.12\"]",
+    "cve": "CVE-2024-56356",
+    "description": "JetBrains TeamCity是捷克JetBrains公司的一套分布式构建管理和持续集成工具。该工具提供持续单元测试、代码质量分析和构建问题分析报告等功能。JetBrains TeamCity存在代码问题漏洞，该漏洞源于未设置正确的过滤，允许引用外部实体，攻击者可利用该漏洞通过发送特制的XML文件读取文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.jetbrains.com/privacy-security/issues-fixed/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains TeamCity代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-25",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "60656bcf56b6ac1338fcaf2902e4187c"
+}

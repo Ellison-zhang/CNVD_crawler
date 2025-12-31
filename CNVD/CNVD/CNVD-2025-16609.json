@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 02:41:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16609",
+    "spider_time": 1753152080884,
+    "name": "Apache HTTP Server服务器端请求伪造漏洞（CNVD-2025-16609）",
+    "cnvd": "CNVD-2025-16609",
+    "publish": "2025-07-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Apache HTTP Server >=2.4.0\\uff0c<=2.4.63\"]",
+    "cve": "CVE-2024-43394",
+    "description": "Apache HTTP Server是美国阿帕奇（Apache）基金会的一款开源网页服务器。该服务器具有快速、可靠且可通过简单的API进行扩充的特点。Apache HTTP Server存在服务器端请求伪造漏洞，攻击者可利用该漏洞通过传递未经验证的请求输入的mod_rewrite或Apache表达式向恶意服务器泄露NTLM哈希。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-43394",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://httpd.apache.org/download.cgi",
+    "patch": "Apache HTTP Server服务器端请求伪造漏洞（CNVD-2025-16609）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-07-22",
+    "update_time": "2025-07-22",
+    "data_summary": "91d4a2a0808e36a59825858f4881990f"
+}

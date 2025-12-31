@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-13 02:33:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09473",
+    "spider_time": 1747103587037,
+    "name": "兄弟商业（中国）有限公司HL-L6300DW存在弱口令漏洞",
+    "cnvd": "CNVD-2025-09473",
+    "publish": "2025-05-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5144\\u5f1f\\u5546\\u4e1a\\uff08\\u4e2d\\u56fd\\uff09\\u6709\\u9650\\u516c\\u53f8 HL-L6300DW\"]",
+    "cve": null,
+    "description": "HL-L6300DW是一款黑白激光打印机。兄弟商业（中国）有限公司HL-L6300DW存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.brother.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-29",
+    "open_time": "2025-05-13",
+    "update_time": "2025-05-13",
+    "data_summary": "486b1c40c77f2de191ee65a610931aaa"
+}

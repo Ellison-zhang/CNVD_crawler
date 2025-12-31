@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-09 09:04:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11922",
+    "spider_time": 1749459873558,
+    "name": "GNU Binutils缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11922",
+    "publish": "2025-06-09",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Gnu GNU Binutils <=2.44\"]",
+    "cve": "CVE-2025-5245",
+    "description": "GNU Binutils是美国GNU社区的开发的一组编程语言工具程序。GNU Binutil存在缓冲区溢出漏洞，该漏洞源于文件/binutils/debug.c中函数debug_type_samep未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://sourceware.org/bugzilla/attachment.cgi?id=16004",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/software/software.html#getgnu",
+    "patch": "GNU Binutils缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-30",
+    "open_time": "2025-06-09",
+    "update_time": "2025-06-09",
+    "data_summary": "9089389b93ac9c22edb70047c8e012b3"
+}

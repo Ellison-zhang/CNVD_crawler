@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-09 06:05:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23073",
+    "spider_time": 1759989929567,
+    "name": "JeecgBoot授权问题漏洞（CNVD-2025-23073）",
+    "cnvd": "CNVD-2025-23073",
+    "publish": "2025-09-28",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u56fd\\u70ac\\u4fe1\\u606f\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 JeecgBoot <=3.8.2\"]",
+    "cve": "CVE-2025-10977",
+    "description": "JeecgBoot是北京国炬信息技术有限公司的一款基于代码生成器的开源低代码开发平台。JeecgBoot 3.8.2及之前版本存在安全漏洞，该漏洞源于/sys/tenant/deleteBatch文件中对ids参数的操作存在授权不当问题。攻击者可利用该漏洞通过远程方式实现越权操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.325848\nhttps://vuldb.com/?ctiid.325848\nhttps://vuldb.com/?submit.653335\nhttps://www.cnblogs.com/aibot/p/19063351",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://vuldb.com/?id.325848",
+    "patch": "JeecgBoot授权问题漏洞（CNVD-2025-23073）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-28",
+    "open_time": "2025-09-30",
+    "update_time": "2025-09-30",
+    "data_summary": "e5b8c0d419ceb21d974ba330c78552ea"
+}

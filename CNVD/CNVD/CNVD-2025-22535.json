@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-25 09:04:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22535",
+    "spider_time": 1758791099449,
+    "name": "Emergency Ambulance Hiring Portal search Request Page组件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-22535",
+    "publish": "2025-09-25",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:P/A:N",
+    "product": "[\"Emergency Ambulance Hiring Portal Emergency Ambulance Hiring Portal 1.0\"]",
+    "cve": "CVE-2024-3091",
+    "description": "Emergency Ambulance Hiring Portal是一个紧急救护车租用门户。Emergency Ambulance Hiring Portal存在跨站脚本漏洞，该漏洞源于组件search Request Page的文件/admin/search.php对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.258684",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-03",
+    "open_time": "2025-09-25",
+    "update_time": "2025-09-25",
+    "data_summary": "a2ae2619c6e02e6c3f7e8871de4b8812"
+}

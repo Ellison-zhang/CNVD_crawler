@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 02:43:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16594",
+    "spider_time": 1753152205089,
+    "name": "Huawei HarmonyOS和EMUI calendar storage模块权限绕过漏洞（CNVD-2025-16594）",
+    "cnvd": "CNVD-2025-16594",
+    "publish": "2025-07-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Huawei HarmonyOS 4.0.0\", \"Huawei HarmonyOS 4.2.0\", \"Huawei EMUI 14.0.0\", \"Huawei HarmonyOS 4.3.0\"]",
+    "cve": "CVE-2025-53178",
+    "description": "Huawei EMUI和Huawei HarmonyOS都是中国华为（Huawei）公司的产品。Huawei EMUI是一款基于Android开发的移动端操作系统。Huawei HarmonyOS是一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS和EMUI calendar storage模块存在权限绕过漏洞，该漏洞源于日历存储模块中的权限绕过，攻击者可利用该漏洞导致手表日程同步功能受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://consumer.huawei.com/en/support/bulletin/2025/7/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2025/7/",
+    "patch": "Huawei HarmonyOS和EMUI calendar storage模块权限绕过漏洞（CNVD-2025-16594）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-11",
+    "open_time": "2025-07-22",
+    "update_time": "2025-07-22",
+    "data_summary": "5d75727a6534ec3b2c776d24c9f2603f"
+}

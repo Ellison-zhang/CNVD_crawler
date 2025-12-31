@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 03:27:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11645",
+    "spider_time": 1749180452708,
+    "name": "Planet FW-WGS-804HPT web_acl_mgmt_Rules_Apply_post函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11645",
+    "publish": "2025-06-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Planet FW-WGS-804HPT v1.305b241111\"]",
+    "cve": "CVE-2025-44893",
+    "description": "Planet FW-WGS-804HPT是中国PLANET公司的一款壁挂式管理型交换机。Planet FW-WGS-804HPT存在缓冲区溢出漏洞，该漏洞源于web_acl_mgmt_Rules_Apply_post函数中ruleNamekey参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lafdrew.github.io/2025/04/20/web-acl-mgmt-Rules-Apply-post-ruleName/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.planet.com.tw/en/product/wgs-804hpt-v2",
+    "patch": "Planet FW-WGS-804HPT web_acl_mgmt_Rules_Apply_post函数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "88cdfe3b03c728663e99059734f866b1"
+}

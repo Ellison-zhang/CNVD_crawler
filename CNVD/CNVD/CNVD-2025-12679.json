@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 03:25:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12679",
+    "spider_time": 1750130740230,
+    "name": "Tenda AC6缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12679",
+    "publish": "2025-06-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Tenda AC6 15.03.05.16\"]",
+    "cve": "CVE-2025-44172",
+    "description": "Tenda AC6是中国腾达（Tenda）公司的一款无线路由器。Tenda AC6存在缓冲区溢出漏洞，该漏洞源于setSmartPowerManagement函数中参数time未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/hcxj/Tenda-Vul/blob/main/setSmartPowerManagement.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-06",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "2d47bde5ff1c7de7083c2fe1b4a1d34e"
+}

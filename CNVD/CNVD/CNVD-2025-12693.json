@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 09:04:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12693",
+    "spider_time": 1750151084725,
+    "name": "Samsung Galaxy Watch访问控制不当漏洞",
+    "cnvd": "CNVD-2025-12693",
+    "publish": "2025-06-17",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Samsung Galaxy Watch <SMR Apr-2025 Release 1\"]",
+    "cve": "CVE-2025-20945",
+    "description": "Samsung Galaxy Watch是一款智能手表，提供多种功能，包括健身追踪、通知和移动支付等。Samsung Galaxy Watch存在访问控制不当漏洞。该漏洞源于访问控制不当。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20945",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://security.samsungmobile.com/securityUpdate.smsb?year=2025&month=04",
+    "patch": "Samsung Galaxy Watch访问控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "23b057e8a41452d38a95c1dc5ad3afd1"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-05 04:21:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17500",
+    "spider_time": 1754367717601,
+    "name": "Siemens SCALANCE LPE9403空指针解引用漏洞",
+    "cnvd": "CNVD-2025-17500",
+    "publish": "2025-08-05",
+    "severity": "低",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"Siemens SCALANCE LPE9403 (6GK5998-3GS00-2AC2) <V4.0 HF0\"]",
+    "cve": "CVE-2025-40576",
+    "description": "Siemens SCALANCE LPE9403是德国西门子（Siemens）公司的一款用于工业现场数据处理的本地处理引擎。用于捕获、收集和预处理工业现场数据。Siemens SCALANCE LPE9403存在空指针解引用漏洞，该漏洞是由于受影响的设备无法正确验证传入的Profinet数据包。攻击者可利用该漏洞导致dcpd进程崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-327438.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-327438.html",
+    "patch": "Siemens SCALANCE LPE9403空指针解引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-08-05",
+    "update_time": "2025-08-05",
+    "data_summary": "225822ecee2f424743dc0518117ba746"
+}

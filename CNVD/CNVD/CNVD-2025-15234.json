@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-08 02:35:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15234",
+    "spider_time": 1751942149773,
+    "name": "TOTOLINK A3000RU product.ini文件硬编码密码漏洞",
+    "cnvd": "CNVD-2025-15234",
+    "publish": "2025-07-08",
+    "severity": "低",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"TOTOLINK A3000RU 5.9c.5185\"]",
+    "cve": "CVE-2024-7170",
+    "description": "TOTOLINK A3000RU是一款家用无线路由器。TOTOLINK A3000RU存在硬编码密码漏洞，该漏洞源于/web_cste/cgi-bin/product.ini文件中使用硬编码密码。攻击者可利用该漏洞通过使用硬编码密码访问设备的管理界面或其他敏感功能。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/TOTOLINK/A3000RU/product.md\nhttps://vuldb.com/?submit.377957\nhttps://vuldb.com/?ctiid.272591",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://totolink.com.my/products/a3000ru/",
+    "patch": "TOTOLINK A3000RU product.ini文件硬编码密码漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-29",
+    "open_time": "2025-07-08",
+    "update_time": "2025-07-08",
+    "data_summary": "bf25ddde84e4c5505502b4ed4effeda8"
+}

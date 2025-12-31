@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-05 07:15:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29939",
+    "spider_time": 1764918941307,
+    "name": "ASUS Armoury Crate内存缓冲区操作限制不当漏洞",
+    "cnvd": "CNVD-2025-29939",
+    "publish": "2025-12-03",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"ASUS ASUS Armoury Crate <v6.3.4\"]",
+    "cve": "CVE-2025-9338",
+    "description": "ASUS Armoury Crate是‌华硕公司开发的‌一款集中控制和管理‌ROG（玩家国度）及部分华硕电竞产品的公用程序软件。ASUS Armoury Crate存在内存缓冲区操作限制不当漏洞，攻击者可利用该漏洞导致本地权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-9338",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.asus.com/security-advisory/",
+    "patch": "ASUS Armoury Crate内存缓冲区操作限制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-11",
+    "open_time": "2025-12-04",
+    "update_time": "2025-12-04",
+    "data_summary": "a14a5d179c8bf80d406afff2c3f9e528"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-11 00:17:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27259",
+    "spider_time": 1762820253634,
+    "name": "Library System profile.php文件代码问题漏洞",
+    "cnvd": "CNVD-2025-27259",
+    "publish": "2025-11-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Library System Library System 1.0\"]",
+    "cve": "CVE-2025-7412",
+    "description": "Library System是一个图书馆系统。Library System存在代码问题漏洞，该漏洞源于文件/user/student/profile.php中参数image对上传的文件缺少有效的验证。攻击者可利用该漏洞上传恶意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.315872",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-11-07",
+    "update_time": "2025-11-07",
+    "data_summary": "84ef4dcb6cfe47668e5ca526929cad1b"
+}

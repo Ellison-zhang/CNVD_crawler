@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-26 10:05:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29406",
+    "spider_time": 1764151512127,
+    "name": "Revive Adserver admin-search.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-29406",
+    "publish": "2025-11-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Revive Adserver Revive Adserver 5.5.2\"]",
+    "cve": "CVE-2025-27208",
+    "description": "Revive Adserver是一款开源的广告服务系统，允许广告商、出版商和网络在多个平台上投放广告（如网站、应用程序、视频播放器），并支持广告效果跟踪、活动管理及投放规则定义。Revive Adserver存在跨站脚本漏洞，该漏洞源于admin-search.php文件中compact参数对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://hackerone.com/reports/3091390",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.revive-adserver.com/download/",
+    "patch": "Revive Adserver admin-search.php文件跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-05",
+    "open_time": "2025-11-26",
+    "update_time": "2025-11-26",
+    "data_summary": "6cd3404dc29b47af03b4576f41353d54"
+}

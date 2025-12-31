@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 02:31:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24580",
+    "spider_time": 1761186672424,
+    "name": "Rockwell Automation 1715-AENTR EtherNet/IP Adapter拒绝服务漏洞",
+    "cnvd": "CNVD-2025-24580",
+    "publish": "2025-10-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Rockwell Automation 1715-AENTR EtherNet/IP Adapter <=3.003\"]",
+    "cve": "CVE-2025-9178",
+    "description": "Rockwell Automation 1715-AENTR EtherNet/IP Adapter是美国罗克韦尔（Rockwell Automation）公司的一款冗余型以太网适配器模块。Rockwell Automation 1715-AENTR EtherNet/IP Adapter存在拒绝服务漏洞，该漏洞源于CIP通信处理特制有效载荷不当，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1757.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1757.html",
+    "patch": "Rockwell Automation 1715-AENTR EtherNet/IP Adapter拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "204b8bab689d771b21bb10700a868966"
+}

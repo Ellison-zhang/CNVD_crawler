@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-04 08:05:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11313",
+    "spider_time": 1749024331460,
+    "name": "WAVLINK WL-WN533A8访问控制问题漏洞",
+    "cnvd": "CNVD-2025-11313",
+    "publish": "2025-06-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WAVLINK WL-WN533A8 M33A8.V5030.190716\"]",
+    "cve": "CVE-2022-48164",
+    "description": "WAVLINK WL-WN533A8是中国睿因科技（WAVLINK）公司的一款路由器。WAVLINK WL-WN533A8存在访问控制问题漏洞，该漏洞源于组件/cgi-bin/ExportLogs.sh中存在不当访问控制，攻击者可利用该漏洞下载配置数据和日志文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://docs.google.com/document/d/1JgqpBYRxyU0WKDSqkvi4Yo0723k7mrIUeuH9i1eEs8U/edit?usp=sharing",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.wavlink.com‌",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-02-08",
+    "open_time": "2025-06-04",
+    "update_time": "2025-06-04",
+    "data_summary": "d907f8637fe242591843cfe66204a634"
+}

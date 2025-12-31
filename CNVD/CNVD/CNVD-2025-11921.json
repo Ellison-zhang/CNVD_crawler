@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-09 09:04:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11921",
+    "spider_time": 1749459869478,
+    "name": "GNU PSPP堆缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11921",
+    "publish": "2025-06-09",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:N/I:P/A:P",
+    "product": "[\"GNU PSPP <=2.0.1\"]",
+    "cve": "CVE-2025-47814",
+    "description": "GNU PSPP是美国GNU社区的一款用于数据采样、统计和分析的应用程序。GNU PSPP存在堆缓冲区溢出漏洞。该漏洞源于inflate_read函数（由zip-reader.c中的spv_read_xml_member间接调用）在处理压缩数据时未能正确处理边界检查，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://savannah.gnu.org/bugs/?67074",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/software/pspp/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-30",
+    "open_time": "2025-06-09",
+    "update_time": "2025-06-09",
+    "data_summary": "0f1e80205a0524e433ca1e2de314fad2"
+}

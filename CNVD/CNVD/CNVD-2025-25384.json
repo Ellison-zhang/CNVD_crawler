@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-27 09:05:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25384",
+    "spider_time": 1761555904609,
+    "name": "WordPress插件Accordion缺少授权漏洞",
+    "cnvd": "CNVD-2025-25384",
+    "publish": "2025-10-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"WordPress Accordion plugin <=2.3.14\"]",
+    "cve": "CVE-2025-53421",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件Accordion存在缺少授权漏洞，攻击者可利用该漏洞导致访问控制安全级别配置不当。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-53421",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/accordions/",
+    "patch": "WordPress插件Accordion缺少授权漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-24",
+    "open_time": "2025-10-27",
+    "update_time": "2025-10-27",
+    "data_summary": "c5bc9dc6be4be22b53cf4192e3612865"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-08 06:04:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09228",
+    "spider_time": 1746684298081,
+    "name": "Edimax BR-6478AC formDiskCreateGroup函数命令执行漏洞",
+    "cnvd": "CNVD-2025-09228",
+    "publish": "2025-05-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"EDIMAX Technology Co. BR-6478AC V3_1.0.15\"]",
+    "cve": "CVE-2025-28143",
+    "description": "Edimax BR-6478AC是中国讯舟（Edimax）公司的一款双频千兆路由器。Edimax BR-6478AC存在命令执行漏洞，该漏洞源于/boafrm/formDiskCreateGroup中groupname参数未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-28143",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://gist.github.com/regainer27/885505cda80f81069ba39b11f2f996fc",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-05-08",
+    "update_time": "2025-05-08",
+    "data_summary": "27986c4c8a2f804f8e47c6ca0741ba7b"
+}

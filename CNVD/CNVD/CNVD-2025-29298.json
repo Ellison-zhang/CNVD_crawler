@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-27 06:08:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29298",
+    "spider_time": 1764223689430,
+    "name": "WordPress Cryptocurrency Payment Gateway for WooCommerce plugin未经授权的数据修改漏洞",
+    "cnvd": "CNVD-2025-29298",
+    "publish": "2025-11-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Cryptocurrency Payment Gateway for WooCommerce plugin <=2.0.22\"]",
+    "cve": "CVE-2025-12392",
+    "description": "WordPress Cryptocurrency Payment Gateway for WooCommerce plugin是一款专为WooCommerce电商平台设计的虚拟货币收款插件。WordPress Cryptocurrency Payment Gateway for WooCommerce plugin存在未经授权的数据修改漏洞，该漏洞源于缺少权限检查，攻击者可利用该漏洞导致未经授权的数据修改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-12392",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/triplea-cryptocurrency-payment-gateway-for-woocommerce",
+    "patch": "WordPress Cryptocurrency Payment Gateway for WooCommerce plugin未经授权的数据修改漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2025-11-25",
+    "update_time": "2025-11-25",
+    "data_summary": "12d8e29c61191f2e52447edbd0fd2b2f"
+}

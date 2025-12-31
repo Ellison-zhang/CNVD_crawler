@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-12 09:05:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18155",
+    "spider_time": 1754989510975,
+    "name": "Ivanti Endpoint Manager加密使用不当漏洞（CNVD-2025-18155）",
+    "cnvd": "CNVD-2025-18155",
+    "publish": "2025-08-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:N",
+    "product": "[\"Ivanti Endpoint Manager <=2022 SU8\", \"Ivanti Endpoint Manager <=2024 SU2\"]",
+    "cve": "CVE-2025-6996",
+    "description": "Ivanti Endpoint Manager是Ivanti公司开发的一款综合性端点管理解决方案，主要用于管理企业网络中的所有端点设备。Ivanti Endpoint Manager存在加密使用不当漏洞，攻击者可利用该漏洞解密其他用户密码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6996",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://forums.ivanti.com/s/article/Security-Advisory-July-2025-for-Ivanti-EPM-2024-SU2-and-EPM-2022-SU8",
+    "patch": "Ivanti Endpoint Manager加密使用不当漏洞（CNVD-2025-18155）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "1fb246c6128b8b42f97ed2c339dd439c"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-28 08:04:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19566",
+    "spider_time": 1756368275746,
+    "name": "Mozilla Firefox for iOS拒绝服务漏洞（CNVD-2025-19566）",
+    "cnvd": "CNVD-2025-19566",
+    "publish": "2025-08-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Mozilla Firefox for iOS <142\"]",
+    "cve": "CVE-2025-55029",
+    "description": "Mozilla Firefox for iOS是美国Mozilla基金会的一款针对iOS设备设计的网页浏览器。Mozilla Firefox for iOS 142之前版本存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.mozilla.org/show_bug.cgi?id=1973577",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2025-68/",
+    "patch": "Mozilla Firefox for iOS拒绝服务漏洞（CNVD-2025-19566）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-26",
+    "open_time": "2025-08-28",
+    "update_time": "2025-08-28",
+    "data_summary": "93f6ebaeaf28b1b42b1ca9384d7193b9"
+}

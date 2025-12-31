@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-05 01:34:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29952",
+    "spider_time": 1764898465267,
+    "name": "ASUS Armoury Crate堆栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-29952",
+    "publish": "2025-12-03",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:P/A:C",
+    "product": "[\"ASUS ASUS Armoury Crate <6.1.13.0\"]",
+    "cve": "CVE-2025-1533",
+    "description": "ASUS Armoury Crate是‌华硕公司开发的‌一款集中控制和管理‌ROG（玩家国度）及部分华硕电竞产品的公用程序软件。ASUS Armoury Crate存在堆栈缓冲区溢出漏洞，该漏洞源于应用在处理不受信任的输入时出现边界错误，攻击者可利用该漏洞导致系统崩溃或未定义执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.asus.com/content/asus-product-security-advisory/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.asus.com/supportonly/armoury%20crate/helpdesk_download/",
+    "patch": "ASUS Armoury Crate堆栈缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-12-04",
+    "update_time": "2025-12-04",
+    "data_summary": "1d86e5167233fc91f4e4385f2a605c1b"
+}

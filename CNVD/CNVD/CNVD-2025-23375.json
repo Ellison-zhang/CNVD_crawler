@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-11 11:03:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23375",
+    "spider_time": 1760180629523,
+    "name": "Bank Locker Management System edit-locker.php?ltid=6文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-23375",
+    "publish": "2025-10-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Bank Locker Management System Bank Locker Management System v1.0\"]",
+    "cve": "CVE-2025-2681",
+    "description": "Bank Locker Management System是一个银行储物柜管理系统。Bank Locker Management System存在SQL注入漏洞，该漏洞源于edit-locker.php?ltid=6文件的参数lockersize缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/ARPANET-cyber/CVE/issues/10",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-28",
+    "open_time": "2025-10-11",
+    "update_time": "2025-10-11",
+    "data_summary": "09f874ab85f660c46f9abd922c01164f"
+}

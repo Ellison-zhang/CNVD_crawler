@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 09:07:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16549",
+    "spider_time": 1753088860701,
+    "name": "Adobe Illustrator数字错误漏洞（CNVD-2025-16549）",
+    "cnvd": "CNVD-2025-16549",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Illustrator 2024  <=28.7.6\", \"Adobe Illustrator 2025 <=29.5.1\"]",
+    "cve": "CVE-2025-49532",
+    "description": "Adobe Illustrator是美国奥多比（Adobe）公司的一套基于向量的图像制作软件。Adobe Illustrator存在数字错误漏洞，该漏洞源于整数下溢，攻击者可利用该漏洞导致执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/illustrator/apsb25-65.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/illustrator/apsb25-65.html",
+    "patch": "Adobe Illustrator数字错误漏洞（CNVD-2025-16549）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "35e5831742fc95b3aca8aff896cf90c4"
+}

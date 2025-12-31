@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-19 09:09:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21653",
+    "spider_time": 1758272959262,
+    "name": "Dairy Farm Shop Management System硬编码漏洞",
+    "cnvd": "CNVD-2025-21653",
+    "publish": "2025-09-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Dairy Farm Shop Management System Dairy Farm Shop Management System 1.0\"]",
+    "cve": "CVE-2020-36062",
+    "description": "Dairy Farm Shop Management System是一套基于PHP和MySQL的奶牛场管理系统。Dairy Farm Shop Management System存在硬编码漏洞，该漏洞源于源代码中包含硬编码凭据， 攻击者可利用该漏洞访问控制面板。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2020-36062",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-04-20",
+    "open_time": "2025-09-19",
+    "update_time": "2025-09-19",
+    "data_summary": "6f022f1df8da82b1f5cfcfb8ad359013"
+}

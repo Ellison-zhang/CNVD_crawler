@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-19 09:04:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12885",
+    "spider_time": 1750323879493,
+    "name": "Zoom Jenkins Marketplace plugin信息泄露漏洞",
+    "cnvd": "CNVD-2025-12885",
+    "publish": "2025-06-19",
+    "severity": "低",
+    "cvss_vector": "AV:A/AC:H/Au:N/C:P/I:N/A:N",
+    "product": "[\"Zoom Jenkins Marketplace plugin <1.6\"]",
+    "cve": "CVE-2025-0148",
+    "description": "Zoom Jenkins Marketplace plugin是美国Zoom公司的一个插件。Zoom Jenkins Marketplace plugin存在信息泄露漏洞，该漏洞源于缺少密码字段屏蔽。攻击者可利用该漏洞泄露敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-0148",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.zoom.com/en/trust/security-bulletin/zsb-25007/",
+    "patch": "Zoom Jenkins Marketplace plugin信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-06-19",
+    "update_time": "2025-06-19",
+    "data_summary": "b4a84a3922a87ea0cc5eb80239082ff9"
+}

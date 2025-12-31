@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 02:30:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24041",
+    "spider_time": 1760668238080,
+    "name": "Bold Workplanner不安全直接对象引用漏洞（CNVD-2025-24041）",
+    "cnvd": "CNVD-2025-24041",
+    "publish": "2025-10-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"Bold Workplanner Bold Workplanner <2.5.25\"]",
+    "cve": "CVE-2025-41093",
+    "description": "Bold Workplanner是西班牙Bold Workplanner公司的一款人力资源管理的企业软件。Bold Workplanner存在不安全直接对象引用漏洞，攻击者可利用该漏洞使用未经授权的内部标识符访问基本合同详细信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.incibe.es/en/incibe-cert/notices/aviso/insecure-direct-object-reference-gps-bold-workplanner",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://boldworkplanner.com/en/",
+    "patch": "Bold Workplanner不安全直接对象引用漏洞（CNVD-2025-24041）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-15",
+    "open_time": "2025-10-17",
+    "update_time": "2025-10-17",
+    "data_summary": "2fceefece7a096ffa6d3be06bdbd38ea"
+}

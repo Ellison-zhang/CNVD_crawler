@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-21 02:35:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28849",
+    "spider_time": 1763692537661,
+    "name": "Tenda AX3 fromAdvSetMacMtuWan函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-28849",
+    "publish": "2025-11-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda AX3 16.03.12.10_CN\"]",
+    "cve": "CVE-2025-55606",
+    "description": "Tenda AX3是腾达科技推出的一款家用双频千兆无线路由器，支持Wi-Fi6（802.11ax）标准，主打高性能网络覆盖和稳定连接。Tenda AX3存在缓冲区溢出漏洞，该漏洞源于fromAdvSetMacMtuWan函数中的serverName参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/wudipjq/my_vuln/blob/main/Tenda3/vuln_44/44.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-26",
+    "open_time": "2025-11-20",
+    "update_time": "2025-11-20",
+    "data_summary": "0eddea4f04e7df286536e7844cc998ca"
+}

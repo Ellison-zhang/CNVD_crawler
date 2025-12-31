@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 06:07:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22598",
+    "spider_time": 1758866865131,
+    "name": "Apple macOS Tahoe权限问题漏洞（CNVD-2025-22598）",
+    "cnvd": "CNVD-2025-22598",
+    "publish": "2025-09-24",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apple macOS Tahoe <26\"]",
+    "cve": "CVE-2025-43333",
+    "description": "Apple macOS Tahoe是苹果公司于2025年6月10日发布的macOS操作系统第26个主要版本，采用全新的“液态玻璃”（Liquid Glass）视觉设计，显著优化了界面美观性、功能集成性和跨设备协同能力，并成为支持英特尔芯片Mac的最后一个系统更新。Apple macOS Tahoe存在权限问题漏洞，攻击者可利用该漏洞获取root权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43333",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://support.apple.com/en-us/125110",
+    "patch": "Apple macOS Tahoe权限问题漏洞（CNVD-2025-22598）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-18",
+    "open_time": "2025-09-25",
+    "update_time": "2025-09-25",
+    "data_summary": "d6522d985ae02a02fe7fc668fda412ad"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-03 21:11:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29675",
+    "spider_time": 1764796261975,
+    "name": "IBM Concert信息泄露漏洞（CNVD-2025-29675）",
+    "cnvd": "CNVD-2025-29675",
+    "publish": "2025-12-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"IBM IBM Concert 1.0.0\", \"IBM IBM Concert 1.0.1\", \"IBM IBM Concert 1.0.2\", \"IBM IBM Concert 1.0.2.1\", \"IBM IBM Concert 1.0.3\"]",
+    "cve": "CVE-2024-52367",
+    "description": "IBM Concert是IBM公司于2024年5月发布的基于watsonx平台的生成式人工智能驱动的自动化应用管理和监控工具。IBM Concert存在信息泄露漏洞，该漏洞源于向未经授权的行为者泄露敏感系统信息。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-52367",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.ibm.com/support/pages/node/7180303",
+    "patch": "IBM Concert信息泄露漏洞（CNVD-2025-29675）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-16",
+    "open_time": "2025-12-02",
+    "update_time": "2025-12-02",
+    "data_summary": "0d7e72e3780f1fef2af34180773d0e63"
+}

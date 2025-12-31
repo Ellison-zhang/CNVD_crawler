@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-12 09:05:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18158",
+    "spider_time": 1754989521403,
+    "name": "Ivanti Endpoint Manager Mobile OS命令注入漏洞",
+    "cnvd": "CNVD-2025-18158",
+    "publish": "2025-08-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Ivanti Endpoint Manager Mobile 12.5.0.2\"]",
+    "cve": "CVE-2025-6770",
+    "description": "Ivanti Endpoint Manager Mobile是一款企业级移动设备管理（MDM）解决方案，专为企业提供全面的移动设备生命周期管理功能。Ivanti Endpoint Manager Mobile存在OS命令注入漏洞，该漏洞源于不正确过滤输入参数，攻击者可利用该漏洞导致远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6770",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Endpoint-Manager-Mobile-EPMM-CVE-2025-6770-CVE-2025-6771?language=en_US",
+    "patch": "Ivanti Endpoint Manager Mobile OS命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-15",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "8735d4e916ebc5cef6b035f6cfe65d08"
+}

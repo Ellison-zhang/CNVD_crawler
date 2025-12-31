@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 03:35:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17300",
+    "spider_time": 1753932930026,
+    "name": "WeGIA跨站脚本漏洞（CNVD-2025-17300）",
+    "cnvd": "CNVD-2025-17300",
+    "publish": "2025-07-31",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"WeGIA WeGIA 3.4.0\"]",
+    "cve": "CVE-2025-6699",
+    "description": "WeGIA是的一个福利机构的网络管理器。WeGIA存在跨站脚本漏洞，该漏洞源于文件/html/funcionario/cadastro_funcionario.php中参数Nome/Sobrenome对用户提供的数据缺乏有效过滤与转义，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6699",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/LabRedesCefetRJ/WeGIA/releases",
+    "patch": "WeGIA跨站脚本漏洞（CNVD-2025-17300）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-07-31",
+    "update_time": "2025-07-31",
+    "data_summary": "683dbb0406f97d16813b2beabb7ee5d8"
+}

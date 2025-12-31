@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-28 08:05:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10814",
+    "spider_time": 1748419524377,
+    "name": "Huawei HarmonyOS信息泄露漏洞",
+    "cnvd": "CNVD-2025-10814",
+    "publish": "2025-05-28",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Huawei HarmonyOS 5.0.0\"]",
+    "cve": "CVE-2024-58252",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。Huawei HarmonyOS存在信息泄露漏洞，该漏洞源于媒体库模块信息保护不足，影响服务机密性。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-58252",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://consumer.huawei.com/cn/support/bulletin/2025/5/",
+    "patch": "Huawei HarmonyOS信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-05-28",
+    "update_time": "2025-05-28",
+    "data_summary": "1828960545cac2efbfce1e66a305dfad"
+}

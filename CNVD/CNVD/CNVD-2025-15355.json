@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-09 10:04:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15355",
+    "spider_time": 1752055457608,
+    "name": "GNU ncurses缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-15355",
+    "publish": "2025-07-09",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"Gnu GNU ncurses <=6.5-20250322\"]",
+    "cve": "CVE-2025-6141",
+    "description": "GNU ncurses是美国GNU社区的一个用于在基于文本的终端上创建用户界面的编程库。GNU ncurses存在缓冲区溢出漏洞，该漏洞源于函数postprocess_termcap在处理不受信任的输入时出现边界错误。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://invisible-island.net/ncurses/NEWS.html#index-t20250329",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-09",
+    "update_time": "2025-07-09",
+    "data_summary": "2128bb6edf53f883ee8c1746d6e1cc3e"
+}

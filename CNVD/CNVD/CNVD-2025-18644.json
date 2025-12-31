@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 09:04:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18644",
+    "spider_time": 1755248641185,
+    "name": "HDF5堆缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18644",
+    "publish": "2025-08-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"HDF5 HDF5 <=1.14.6\"]",
+    "cve": "CVE-2025-6516",
+    "description": "HDF5是HDF开源的一个库。HDF5存在堆缓冲区溢出漏洞，该漏洞源于H5Fint.c文件中H5F_addr_decode_len函数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/HDFGroup/hdf5/issues/5581",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.hdfgroup.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "ad2de3d97459784ca13e7b7405eaeebb"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-16 06:05:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15835",
+    "spider_time": 1752645921056,
+    "name": "Cisco Unified Communications Manager静态SSH凭据漏洞",
+    "cnvd": "CNVD-2025-15835",
+    "publish": "2025-07-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Cisco Unified CM and Unified CM SME Engineering Special (ES) >=15.0.1.13010-1\\uff0c<=15.0.1.13017-1\"]",
+    "cve": "CVE-2025-20309",
+    "description": "Cisco Unified Communications Manager是美国思科（Cisco）公司的一款统一通信系统中的呼叫处理组件。该组件提供了一种可扩展、可分布和高可用的企业IP电话呼叫处理解决方案。Cisco Unified Communications Manager存在静态SSH凭据漏洞，该漏洞是由于root账户静态凭据无法更改，攻击者可利用该漏洞登录受影响的系统，并以root用户身份执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20309",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-ssh-m4UBdpE7",
+    "patch": "Cisco Unified Communications Manager静态SSH凭据漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "59b0d8bf888d99103ce4e205523594b3"
+}

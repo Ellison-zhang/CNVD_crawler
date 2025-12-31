@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-12 17:31:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02133",
+    "spider_time": 1739352660965,
+    "name": "Microsoft MapUrlToZone拒绝服务漏洞",
+    "cnvd": "CNVD-2025-02133",
+    "publish": "2025-01-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Microsoft Windows Server 2016\", \"Microsoft Windows Server 2019\", \"Microsoft Windows Server 2012\", \"Microsoft Windows Server 2008 R2\", \"Microsoft Windows Server 2012 R2\", \"Microsoft Window 11\", \"Microsoft Window 10\", \"Microsoft Windows Server 2022 23H2\", \"Microsoft Windows Server 2008 22H2\", \"Microsoft Windows Server 2008 21H2\", \"Microsoft Windows Server 2008 1809\", \"Microsoft Windows Server 2008 1607\", \"Microsoft Windows Server 2022 22H2\", \"Microsoft Windows Server 2022 24H2\"]",
+    "cve": "CVE-2025-21276",
+    "description": "Microsoft MapUrlToZone是美国微软（Microsoft）公司的一个用C++编写的轻量级控制台应用程序。Microsoft MapUrlToZone存在安全漏洞。攻击者可利用该漏洞导致系统拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-21276",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21276",
+    "patch": "Microsoft MapUrlToZone拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-17",
+    "open_time": "2025-02-06",
+    "update_time": "2025-02-06",
+    "data_summary": "73dfebdb1c97f774cdf8f161f7067635"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-11 10:04:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18083",
+    "spider_time": 1754906699673,
+    "name": "Oracle MySQL Cluster存在未明漏洞（CNVD-2025-18083）",
+    "cnvd": "CNVD-2025-18083",
+    "publish": "2025-08-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Oracle MySQL Client <=8.0.39\", \"Oracle MySQL Client <=8.4.2\", \"Oracle MySQL Client <=9.0.1\"]",
+    "cve": "CVE-2024-21247",
+    "description": "Oracle MySQL Cluster是美国甲骨文（Oracle）公司开发的一个写可扩展、实时、兼容ACID的事务型数据库。Oracle MySQL Cluster存在安全漏洞，攻击者可利用该漏洞更新、插入或删除可访问的数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://access.redhat.com/security/cve/cve-2024-21247",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpuoct2024.html",
+    "patch": "Oracle MySQL Cluster存在未明漏洞（CNVD-2025-18083）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-23",
+    "open_time": "2025-08-11",
+    "update_time": "2025-08-11",
+    "data_summary": "e82ef31b29210f40c172061be1a9d8a4"
+}

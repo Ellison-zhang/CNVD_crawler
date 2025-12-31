@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-20 06:12:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28684",
+    "spider_time": 1763619123064,
+    "name": "Ivanti Endpoint Manager路径遍历漏洞",
+    "cnvd": "CNVD-2025-28684",
+    "publish": "2025-11-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Ivanti Endpoint Manager <2024 SU4\"]",
+    "cve": "CVE-2025-9713",
+    "description": "Ivanti Endpoint Manager是Ivanti公司开发的综合性端点管理解决方案，用于统一管理企业网络中的各类设备，包括Windows、macOS、Linux、ChromeOS、移动设备及物联网设备。Ivanti Endpoint Manager存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素，攻击者可利用该漏洞导致远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Endpoint-Manager-EPM-October-2025",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.ivanti.com/products/endpoint-manager",
+    "patch": "Ivanti Endpoint Manager路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "55e418c334a1e0d33c427e7152ed19ea"
+}

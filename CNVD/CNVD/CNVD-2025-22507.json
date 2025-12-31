@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-25 08:04:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22507",
+    "spider_time": 1758787483689,
+    "name": "Directory Management System admin-profile.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-22507",
+    "publish": "2025-09-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Directory Management System Directory Management System 2.0\"]",
+    "cve": "CVE-2025-6333",
+    "description": "Directory Management System是一个目录管理系统。Directory Management System存在SQL注入漏洞，该漏洞源于文件/admin/admin-profile.php中参数adminname缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/f1rstb100d/myCVE/issues/80",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-09-25",
+    "update_time": "2025-09-25",
+    "data_summary": "4d99143e404b869a1a683973ad997ee5"
+}

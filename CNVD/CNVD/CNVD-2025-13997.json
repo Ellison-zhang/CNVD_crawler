@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:08:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13997",
+    "spider_time": 1751011728666,
+    "name": "JFinalCMS存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-13997",
+    "publish": "2025-06-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"JFinalCMS JFinalCMS v5.1.0\"]",
+    "cve": null,
+    "description": "JFinalCMS是一个基于Java开发的开源内容管理系统。JFinalCMS存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://github.com/jflyfox/jfinal_cms",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "5af679ff810a8e38bbde2c0bcf4e4c0a"
+}

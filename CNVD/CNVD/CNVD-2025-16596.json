@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 02:43:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16596",
+    "spider_time": 1753152216733,
+    "name": "Huawei HarmonyOS和EMUI存在未明漏洞（CNVD-2025-16596）",
+    "cnvd": "CNVD-2025-16596",
+    "publish": "2025-07-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:P/I:P/A:C",
+    "product": "[\"Huawei EMUI 12.0.0\", \"Huawei HarmonyOS 3.0.0\", \"Huawei HarmonyOS 2.1.0\", \"Huawei HarmonyOS 2.0.0\", \"Huawei HarmonyOS 3.1.0\", \"Huawei EMUI 13.0.0\", \"Huawei HarmonyOS 4.0.0\", \"Huawei HarmonyOS 4.2.0\", \"Huawei EMUI 14.0.0\", \"Huawei HarmonyOS 4.3.0\"]",
+    "cve": "CVE-2025-48902",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei EMUI是华为公司开发的一种基于Android操作系统的用户界面。Huawei HarmonyOS和EMUI存在安全漏洞，攻击者可利用此漏洞导致可用性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://consumer.huawei.com/en/support/bulletin/2025/6/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2025/6/",
+    "patch": "Huawei HarmonyOS和EMUI存在未明漏洞（CNVD-2025-16596）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-10",
+    "open_time": "2025-07-22",
+    "update_time": "2025-07-22",
+    "data_summary": "7c733404be44f465242c1ad43b6aa57a"
+}

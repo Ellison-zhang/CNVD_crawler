@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-23 08:04:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10516",
+    "spider_time": 1747987499018,
+    "name": "Huawei HarmonyOS和EMUI访问控制漏洞（CNVD-2025-10516）",
+    "cnvd": "CNVD-2025-10516",
+    "publish": "2025-05-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Huawei HarmonyOS 4.0.0\", \"Huawei EMUI 14.0.0\", \"Huawei HarmonyOS 4.3.0\"]",
+    "cve": "CVE-2024-58125",
+    "description": "Huawei EMUI是一款基于Android开发的移动端操作系统。Huawei HarmonyOS是一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS和EMUI存在访问控制漏洞，该漏洞源于安全验证模块存在访问控制不当，攻击者可利用该漏洞影响完整性和机密性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-58125",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2025/4/",
+    "patch": "Huawei HarmonyOS和EMUI访问控制漏洞（CNVD-2025-10516）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-05-23",
+    "update_time": "2025-05-23",
+    "data_summary": "c7893b4293043c2af57419d25a275a2d"
+}

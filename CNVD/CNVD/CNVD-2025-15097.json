@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-04 09:04:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15097",
+    "spider_time": 1751619873147,
+    "name": "WordPress CRM ERP Business Solution plugin访问控制不当漏洞",
+    "cnvd": "CNVD-2025-15097",
+    "publish": "2025-07-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress CRM ERP Business Solution plugin <=1.13\"]",
+    "cve": "CVE-2025-49987",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress CRM ERP Business Solution plugin存在访问控制不当漏洞，该漏洞源于缺少授权，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/crm-erp-business-solution/vulnerability/wordpress-crm-erp-business-solution-plugin-1-13-broken-access-control-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/crm-erp-business-solution/",
+    "patch": "WordPress CRM ERP Business Solution plugin访问控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-04",
+    "update_time": "2025-07-04",
+    "data_summary": "482081bfa89006a9f17082eea2ab8e20"
+}

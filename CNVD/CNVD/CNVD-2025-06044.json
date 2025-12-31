@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-28 07:04:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06044",
+    "spider_time": 1743145447133,
+    "name": "D-Link DAP-1620 mod_graph_auth_uri_handler函数堆栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-06044",
+    "publish": "2025-03-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DAP-1620 1.03\"]",
+    "cve": "CVE-2025-2620",
+    "description": "D-Link DAP-1620是中国友讯（D-Link）公司的一个无线中继扩展器。D-Link DAP-1620 mod_graph_auth_uri_handler函数存在堆栈缓冲区溢出漏洞，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-2620",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-03-28",
+    "update_time": "2025-03-28",
+    "data_summary": "e62c8c1141996ea38407d5ca2bc11e11"
+}

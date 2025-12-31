@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-12 09:06:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30564",
+    "spider_time": 1765530404675,
+    "name": "Apache HTTP Server命令注入漏洞",
+    "cnvd": "CNVD-2025-30564",
+    "publish": "2025-12-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:P",
+    "product": "[\"Apache HTTP Server <2.4.66\"]",
+    "cve": "CVE-2025-58098",
+    "description": "Apache HTTP Server是美国阿帕奇（Apache）基金会的一款开源网页服务器。该服务器具有快速、可靠且可通过简单的API进行扩充的特点。Apache HTTP Server 2.4.66之前版本存在命令注入漏洞，该漏洞源于mod_cgid将shell转义的查询字符串传递给exec cmd指令，攻击者可利用该漏洞导致命令注入。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2025/12/04/5",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://httpd.apache.org/download.cgi",
+    "patch": "Apache HTTP Server命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "a39bc9b64437d2275b7e6cb238154086"
+}

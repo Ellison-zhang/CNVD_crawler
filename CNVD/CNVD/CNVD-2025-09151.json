@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-07 08:05:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09151",
+    "spider_time": 1746605100051,
+    "name": "Google Chrome OS访问控制错误漏洞（CNVD-2025-09151）",
+    "cnvd": "CNVD-2025-09151",
+    "publish": "2025-05-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Chrome OS 131.0.6778.268\"]",
+    "cve": "CVE-2025-1568",
+    "description": "Google Chrome OS是美国谷歌（Google）公司的一套基于Web的轻量型开源操作系统。Google Chrome OS存在访问控制错误漏洞，该漏洞源于Gerrit项目配置访问控制不足，攻击者可利用该漏洞导致远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1568",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://chromeos.google/",
+    "patch": "Google Chrome OS访问控制错误漏洞（CNVD-2025-09151）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-05-07",
+    "update_time": "2025-05-07",
+    "data_summary": "5cec86785ad6940112f80f77c424e9b2"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-12 09:07:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12277",
+    "spider_time": 1749719259030,
+    "name": "GNU C Library缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12277",
+    "publish": "2025-06-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Gnu GNU C Library >=2.13\\uff0c<=2.40\"]",
+    "cve": "CVE-2025-0395",
+    "description": "GNU C Library是GNU社区的一种按照LGPL许可协议发布的开源免费的C语言编译程序。GNU C Library存在缓冲区溢出漏洞，该漏洞源于assert函数失败时未分配足够的空间给断言失败消息字符串和大小信息。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://sourceware.org/bugzilla/show_bug.cgi?id=32582https://www.openwall.com/lists/oss-security/2025/01/22/4https://sourceware.org/pipermail/libc-announce/2025/000044.htmlhttps://sourceware.org/git/?p=glibc.git;a=blob;f=advisories/GLIBC-SA-2025-0001https://access.redhat.com/security/cve/cve-2025-0395https://nvd.nist.gov/vuln/detail/CVE-2025-0395",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/software/libc/#download",
+    "patch": "GNU C Library缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-06-12",
+    "update_time": "2025-06-12",
+    "data_summary": "8867c9e523aeab51260bd06c87c937c7"
+}

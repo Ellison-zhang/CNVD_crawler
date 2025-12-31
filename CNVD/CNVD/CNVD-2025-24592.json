@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-24 06:06:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24592",
+    "spider_time": 1761286016432,
+    "name": "WordPress Binary MLM Plan plugin权限提升漏洞",
+    "cnvd": "CNVD-2025-24592",
+    "publish": "2025-10-22",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress Binary MLM Plan plugin <=3.0\"]",
+    "cve": "CVE-2025-10038",
+    "description": "WordPress Binary MLM Plan plugin是一款专为网络营销设计的WordPress插件，主要用于简化多层级营销（MLM）业务的运营流程。WordPress Binary MLM Plan plugin存在权限提升漏洞，该漏洞源于bmp_user角色默认授予manage_bmp能力，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-10038",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "17e89cb6e9e910c5dfef47470f03a643"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-04 07:07:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15071",
+    "spider_time": 1751612848998,
+    "name": "Magma存在未明漏洞（CNVD-2025-15071）",
+    "cnvd": "CNVD-2025-15071",
+    "publish": "2025-07-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Magma Magma <=1.8.0\"]",
+    "cve": "CVE-2023-37029",
+    "description": "Magma是Magma开源的一个开源软件平台。为网络运营商提供开放、灵活和可扩展的移动核心网络解决方案。Magma存在安全漏洞，攻击者可利用该漏洞通过受感染的基站或通过MME管理的基站范围内的未经身份验证的手机反复使MME崩溃，从而导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-37029",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://magmacore.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-24",
+    "open_time": "2025-07-04",
+    "update_time": "2025-07-04",
+    "data_summary": "7b6a0dce866ca32a5fb2402e591406dd"
+}

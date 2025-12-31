@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 10:04:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13832",
+    "spider_time": 1750932258125,
+    "name": "TOTOLINK EX1200T缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-13832",
+    "publish": "2025-06-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK TOTOLINK EX1200T 4.1.2cu.5232_B20210713\"]",
+    "cve": "CVE-2025-6130",
+    "description": "TOTOLINK EX1200T是中国吉翁电子（TOTOLINK）公司的一款Wi-Fi范围扩展器。TOTOLINK EX1200T 4.1.2cu.5232_B20210713版本存在缓冲区溢出漏洞。该漏洞产生的原因是HTTP POST请求处理组件中文件/boafrm/formStats的某些未知处理过程存在错误。攻击者可利用该漏洞远程发起攻击，导致缓冲区溢出。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?submit.592696\nhttps://www.totolink.net/\nhttps://github.com/byxs0x0/cve2/blob/main/10.md\nhttps://github.com/byxs0x0/cve2/blob/main/10.md#poc\nhttps://vuldb.com/?ctiid.312599\nhttps://vuldb.com/?id.312599",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-20",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "e2215efbfe036aee8dff7dc07b9bd6f9"
+}

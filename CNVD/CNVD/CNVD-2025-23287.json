@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-10 11:04:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23287",
+    "spider_time": 1760094254263,
+    "name": "PyTorch缓冲区溢出漏洞（CNVD-2025-23287）",
+    "cnvd": "CNVD-2025-23287",
+    "publish": "2025-10-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Pytorch Pytorch v2.7.0\"]",
+    "cve": "CVE-2025-55558",
+    "description": "PyTorch是PyTorch开源的一个Python包。PyTorch=存在缓冲区溢出漏洞，该漏洞源于PyTorch模型编译时在处理不受信任的输入时出现边界错误，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://gist.github.com/shaoyuyoung/0e7d2a586297ae9c8ed14d8706749efc",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/pytorch/pytorch/releases",
+    "patch": "PyTorch缓冲区溢出漏洞（CNVD-2025-23287）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-28",
+    "open_time": "2025-10-10",
+    "update_time": "2025-10-10",
+    "data_summary": "74b09ea1f72871fb6bebc200dfbb5c52"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 04:09:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12367",
+    "spider_time": 1749787768546,
+    "name": "SonicWall NetExtender Windows client链接解析不当漏洞",
+    "cnvd": "CNVD-2025-12367",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"SonicWall SonicWall NetExtender Windows client <=10.3.1\"]",
+    "cve": "CVE-2025-23010",
+    "description": "SonicWALL NetExtender Windows client是美国SonicWALL公司的一款基于Windows平台的SSL VPN（虚拟私人网络）客户端应用程序。SonicWALL NetExtender Windows client存在链接解析不当漏洞，该漏洞源于不当链接解析，攻击者可利用该漏洞导致文件路径被操纵。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0006",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0006",
+    "patch": "SonicWall NetExtender Windows client链接解析不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "7d223f6f71c941be3ce8c275e9338e45"
+}

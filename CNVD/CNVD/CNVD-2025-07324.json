@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-16 09:04:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07324",
+    "spider_time": 1744794286923,
+    "name": "F5 BIG-IP PEM存在未明漏洞（CNVD-2025-07324）",
+    "cnvd": "CNVD-2025-07324",
+    "publish": "2025-04-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"F5 BIG-IP (PEM) >=17.1.0\\uff0c<=17.1.1\"]",
+    "cve": "CVE-2025-24497",
+    "description": "F5 BIG-IP PEM是美国F5公司的使用在BIG-IP中的一款策略执行器。F5 BIG-IP PEM存在安全漏洞，该漏洞源于当在虚拟服务器上配置URL分类时，攻击者可利用该漏洞导致流量管理微内核（TMM）终止。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://my.f5.com/manage/s/article/K000140920",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://my.f5.com/manage/s/article/K000140920",
+    "patch": "F5 BIG-IP PEM存在未明漏洞（CNVD-2025-07324）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-04-16",
+    "update_time": "2025-04-16",
+    "data_summary": "6cf8addd80da16a74d3679286272688c"
+}

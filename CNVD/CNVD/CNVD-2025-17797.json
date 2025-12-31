@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-07 10:04:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17797",
+    "spider_time": 1754561091333,
+    "name": "GNU Binutils资源管理错误漏洞",
+    "cnvd": "CNVD-2025-17797",
+    "publish": "2025-08-07",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"Gnu GNU Binutils 2.44\"]",
+    "cve": "CVE-2025-8225",
+    "description": "GNU Binutils是GNU项目开发的二进制工具集，用于处理目标文件、汇编和链接等操作。GNU Binutils 2.44版本存在内存泄漏漏洞，该漏洞源于DWARF节处理器组件中binutils/dwarf.c文件的process_debug_info函数处理异常。攻击者可利用该漏洞通过本地操作触发内存泄漏，导致系统资源耗尽。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.317813\nhttps://vuldb.com/?ctiid.317813\nhttps://vuldb.com/?submit.621883\nhttps://gitlab.com/gnutools/binutils-gdb/-/commit/e51fdff7d2e538c0e5accdd65649ac68e6e0ddd4\nhttps://www.gnu.org/",
+    "solution": "目前厂商尚未发布升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://vuldb.com/?id.317813",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-28",
+    "open_time": "2025-08-07",
+    "update_time": "2025-08-07",
+    "data_summary": "a539fbc85bcb15edf769de2ba2e2f1bc"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-09 10:04:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11930",
+    "spider_time": 1749463462165,
+    "name": "GNU PSPP缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11930",
+    "publish": "2025-06-09",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:N/I:P/A:P",
+    "product": "[\"Gnu GNU PSPP <=2.0.1\"]",
+    "cve": "CVE-2025-47815",
+    "description": "GNU PSPP是美国GNU社区的一款用于数据采样、统计和分析的应用程序。GNU PSPP存在缓冲区溢出漏洞，该漏洞源于inflate_read未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://savannah.gnu.org/bugs/?67075",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-06-09",
+    "update_time": "2025-06-09",
+    "data_summary": "5fc3f2680de235696763cc6f934b4e3f"
+}

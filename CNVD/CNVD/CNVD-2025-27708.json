@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-12 06:05:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27708",
+    "spider_time": 1762927530928,
+    "name": "IPFire跨站脚本漏洞（CNVD-2025-27708）",
+    "cnvd": "CNVD-2025-27708",
+    "publish": "2025-11-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"IPFire IPFire <2.29(Core Update 198)\"]",
+    "cve": "CVE-2025-34313",
+    "description": "IPFire是IPFire组织的一种开源Linux发行版，主要用作路由器和防火墙。IPFire存在跨站脚本漏洞，该漏洞源于/cgi-bin/urlfilter.cgi文件QUOTA_USERS参数对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞注入任意JavaScript代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.ipfire.org/show_bug.cgi?id=13888",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ipfire.org/downloads/ipfire-2.29-core198",
+    "patch": "IPFire跨站脚本漏洞（CNVD-2025-27708）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-31",
+    "open_time": "2025-11-12",
+    "update_time": "2025-11-12",
+    "data_summary": "d89160c66835e5a8a5481a65c564b2ec"
+}

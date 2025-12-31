@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-19 09:04:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12886",
+    "spider_time": 1750323884327,
+    "name": "Zoom Workplace App for Linux权限提升漏洞",
+    "cnvd": "CNVD-2025-12886",
+    "publish": "2025-06-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Zoom Zoom Workplace App for Linux <6.2.10\"]",
+    "cve": "CVE-2025-0147",
+    "description": "Zoom Workplace App for Linux是一款用于企业通信和协作的应用程序，提供视频会议、在线会议、聊天和移动协作等功能。Zoom Workplace App for Linux存在权限提升漏洞，该漏洞源于应用程序处理特定类型数据时未能正确区分数据类型。攻击者可利用该漏洞进行权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-0147",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.zoom.com/en/trust/security-bulletin/zsb-25006/",
+    "patch": "Zoom Workplace App for Linux权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-13",
+    "open_time": "2025-06-19",
+    "update_time": "2025-06-19",
+    "data_summary": "2399fc39b37a1ce31f69662d8895e7d2"
+}

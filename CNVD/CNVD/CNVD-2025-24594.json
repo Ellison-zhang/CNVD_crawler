@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-24 06:07:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24594",
+    "spider_time": 1761286027320,
+    "name": "WordPress Classified Pro plugin未经授权安装插件漏洞",
+    "cnvd": "CNVD-2025-24594",
+    "publish": "2025-10-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress Classified Pro plugin <=1.0.14\"]",
+    "cve": "CVE-2025-10706",
+    "description": "WordPress Classified Pro plugin是一款用于在WordPress网站上快速创建分类广告栏目的插件，支持汽车、二手交易等不同场景的列表管理，并提供搜索、广告位配置、文本限制等功能。WordPress Classified Pro plugin存在未经授权安装插件漏洞，该漏洞源于cwp_addons_update_plugin_cb函数缺少能力检查，攻击者可利用该漏洞导致未经授权的插件安装和远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://themeforest.net/item/classifiedpro-recommerce-classified-wordpress-theme/44528010",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "2fbc7938a36b429ade097f117160411b"
+}

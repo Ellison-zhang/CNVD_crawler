@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-19 10:04:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18835",
+    "spider_time": 1755597871405,
+    "name": "WordPress Elementor Plugin任意文件读取漏洞",
+    "cnvd": "CNVD-2025-18835",
+    "publish": "2025-08-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"WordPress Elementor Plugin <=3.30.2\"]",
+    "cve": "CVE-2025-8081",
+    "description": "WordPress Elementor Plugin是一款可视化页面设计插件，允许用户通过拖放模块和可视化编辑器创建专业网页，无需编写代码。WordPress Elementor Plugin存在任意文件读取漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素。攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/elementor/elementor/commit/6af3551ee4213fb4003338743e22f41aa2a09c01",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/elementor/",
+    "patch": "WordPress Elementor Plugin任意文件读取漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-19",
+    "update_time": "2025-08-19",
+    "data_summary": "a206e7703e3a26e98a03314a0f0fcef8"
+}

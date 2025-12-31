@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-19 09:04:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12887",
+    "spider_time": 1750323890366,
+    "name": "Zoom Workplace App for macOS拒绝服务漏洞",
+    "cnvd": "CNVD-2025-12887",
+    "publish": "2025-06-19",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:P/A:P",
+    "product": "[\"Zoom Zoom Workplace App for macOS <6.2.10\"]",
+    "cve": "CVE-2025-0146",
+    "description": "‌Zoom Workplace App for macOS是一款专为macOS设计的视频会议软件，旨在提供稳定、高效的远程协作体验。Zoom Workplace App for macOS存在拒绝服务漏洞，该漏洞源于安装程序在处理符号链接时存在不当链接解析。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-0146",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.zoom.com/en/trust/security-bulletin/zsb-25005/",
+    "patch": "Zoom Workplace App for macOS拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-13",
+    "open_time": "2025-06-19",
+    "update_time": "2025-06-19",
+    "data_summary": "5f036cdc5d9a6494dedf95788d887af1"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-05 09:08:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20450",
+    "spider_time": 1757063306938,
+    "name": "Marvell QConvergeConsole径遍历漏洞（CNVD-2025-20450）",
+    "cnvd": "CNVD-2025-20450",
+    "publish": "2025-09-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:P/A:C",
+    "product": "[\"Marvell QConvergeConsole <=5.5.0.85\"]",
+    "cve": "CVE-2025-6793",
+    "description": "Marvell QConvergeConsole是美国Marvell公司的一款跨数据中心的统一适配器管理软件。Marvell QConvergeConsole存在路径遍历漏洞，该漏洞是由于QLogicDownloadImpl类中的错误引起的。攻击者可利用该漏洞在SYSTEM环境中删除文件和泄露信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-25-450/",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.marvell.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-11",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "e1fc5ed173c41210216bcb02f6e78a7d"
+}

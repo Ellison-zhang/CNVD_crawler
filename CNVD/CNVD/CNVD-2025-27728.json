@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-14 06:09:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27728",
+    "spider_time": 1763100549988,
+    "name": "Daily Expense Manager用户枚举漏洞",
+    "cnvd": "CNVD-2025-27728",
+    "publish": "2025-11-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Daily Expense Manager Daily Expense Manager 1.0\"]",
+    "cve": "CVE-2025-40732",
+    "description": "Daily Expense Manager是一个日常开支管理系统。Daily Expense Manager存在用户枚举漏洞，该漏洞源于文件/check.php中参数name未经验证，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.incibe.es/en/incibe-cert/notices/aviso/multiple-vulnerabilities-daily-expense-manager",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-11-12",
+    "update_time": "2025-11-12",
+    "data_summary": "206ff77569f3d06d42a3ed3bec18bbe6"
+}

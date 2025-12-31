@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 03:33:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16376",
+    "spider_time": 1753068826217,
+    "name": "Adobe ColdFusion操作系统命令注入漏洞",
+    "cnvd": "CNVD-2025-16376",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Adobe ColdFusion 2025 <=Update 2\", \"Adobe ColdFusion 2023 <=Update 14\", \"Adobe ColdFusion 2021 <=Update 20\"]",
+    "cve": "CVE-2025-49537",
+    "description": "Adobe ColdFusion是美国奥多比（Adobe）公司的一套快速应用程序开发平台。该平台包括集成开发环境和脚本语言。Adobe ColdFusion存在操作系统命令注入漏洞，该漏洞源于应用未能正确过滤构造命令特殊字符、命令等，攻击者可利用该漏洞在系统上执行任意命令，或导致应用程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/coldfusion/apsb25-69.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/coldfusion/apsb25-69.html",
+    "patch": "Adobe ColdFusion操作系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "4670f1df471456ce69369600062ab434"
+}

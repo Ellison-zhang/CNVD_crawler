@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-03 07:05:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29749",
+    "spider_time": 1764745542163,
+    "name": "AMD uProf连接点漏洞",
+    "cnvd": "CNVD-2025-29749",
+    "publish": "2025-12-03",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:N",
+    "product": "[\"AMD uProf\"]",
+    "cve": "CVE-2024-36340",
+    "description": "AMD uProf是AMD公司推出的一套性能分析工具套件，主要用于分析x86架构应用在Windows、Linux和FreeBSD系统上的性能表现。AMD uProf存在连接点漏洞，攻击者可利用该漏洞导致任意文件删除或泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-9013.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.amd.com/en/developer/uprof.html",
+    "patch": "AMD uProf连接点漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-12-03",
+    "update_time": "2025-12-03",
+    "data_summary": "c8f3f40701fa08a4582233b6ee290ac7"
+}

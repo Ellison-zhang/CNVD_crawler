@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-19 07:04:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12867",
+    "spider_time": 1750316689842,
+    "name": "WordPress Civi Framework plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-12867",
+    "publish": "2025-06-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:C",
+    "product": "[\"WordPress Civi Framework plugin <=2.1.6\"]",
+    "cve": "CVE-2025-49511",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Civi Framework plugin存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/civi-framework/vulnerability/wordpress-civi-framework-plugin-2-1-6-cross-site-request-forgery-csrf-to-user-deactivation-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-19",
+    "update_time": "2025-06-19",
+    "data_summary": "cadb1c1fa6ded1601c3ad55e13de363d"
+}

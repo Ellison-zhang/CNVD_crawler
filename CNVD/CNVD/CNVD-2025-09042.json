@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-06 10:03:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09042",
+    "spider_time": 1746525833701,
+    "name": "WordPress插件1 Decembrie 1918跨站脚本漏洞",
+    "cnvd": "CNVD-2025-09042",
+    "publish": "2025-05-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress 1 Decembrie 1918 plugin <=1.dec.2012\"]",
+    "cve": "CVE-2025-3870",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress插件1 Decembrie 1918 1.dec.2012及之前版本存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.wordfence.com/threat-intel/vulnerabilities/id/73f7646f-f01f-4f57-836c-e0bd04764ba9?source=cve",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/1-decembrie-1918",
+    "patch": "WordPress插件1 Decembrie 1918跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-30",
+    "open_time": "2025-05-06",
+    "update_time": "2025-05-06",
+    "data_summary": "61386c3128170b00de313bfa3ce993af"
+}

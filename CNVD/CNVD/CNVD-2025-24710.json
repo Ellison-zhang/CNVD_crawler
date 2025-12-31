@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-29 12:13:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24710",
+    "spider_time": 1761739981872,
+    "name": "SAMSUNG Notes信息泄露漏洞（CNVD-2025-24710）",
+    "cnvd": "CNVD-2025-24710",
+    "publish": "2025-10-24",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Samsung Notes <4.4.30.63\"]",
+    "cve": "CVE-2025-21036",
+    "description": "SAMSUNG Notes是韩国三星（SAMSUNG）公司的一个应用软件。用于提供一个记录功能。SAMSUNG Notes存在信息泄露漏洞，攻击者可利用该漏洞访问导出的笔记文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=09",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=09",
+    "patch": "SAMSUNG Notes信息泄露漏洞（CNVD-2025-24710）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-05",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "d79b75a05c77e62cc8258d76b6d80ec8"
+}

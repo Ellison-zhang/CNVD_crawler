@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-17 07:08:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30868",
+    "spider_time": 1765955323825,
+    "name": "MailEnable FieldCc参数跨站脚本漏洞",
+    "cnvd": "CNVD-2025-30868",
+    "publish": "2025-12-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"MailEnable MailEnable <10.54\"]",
+    "cve": "CVE-2025-34402",
+    "description": "MailEnable是一款商业电子邮件服务器软件，专为Windows操作系统设计，提供端到端的电子邮件托管和协作解决方案。MailEnable存在跨站脚本漏洞，该漏洞源于/Mondo/lang/sys/Forms/AddressBook.aspx中FieldCc参数对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://mailenable.com/Standard-ReleaseNotes.txt",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://mailenable.com/download.asp",
+    "patch": "MailEnable FieldCc参数跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-12",
+    "open_time": "2025-12-17",
+    "update_time": "2025-12-17",
+    "data_summary": "d87e48b1888263e5cfe35d8e5389e9bf"
+}

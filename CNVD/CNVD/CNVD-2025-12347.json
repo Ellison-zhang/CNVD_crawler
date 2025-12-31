@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 03:26:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12347",
+    "spider_time": 1749785171654,
+    "name": "D-Link DI-500WF-WT命令注入漏洞",
+    "cnvd": "CNVD-2025-12347",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"D-Link DI-500WF-WT <=20250511\"]",
+    "cve": "CVE-2025-5492",
+    "description": "D-Link DI-500WF-WT是中国友讯（D-Link）公司的一款用于无线网络覆盖的设备。D-Link DI-500WF-WT存在命令注入漏洞，该漏洞源于参数cmd未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?ctiid.310909",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "b11d564d6fdcf1aa690cc730b3e367a8"
+}

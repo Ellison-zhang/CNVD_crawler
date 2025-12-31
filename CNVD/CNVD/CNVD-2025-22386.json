@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-24 09:05:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22386",
+    "spider_time": 1758704700654,
+    "name": "Online Banquet Booking System /admin/view-user-queries.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-22386",
+    "publish": "2025-09-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Online Banquet Booking System Online Banquet Booking System 1.0\"]",
+    "cve": "CVE-2025-7927",
+    "description": "Online Banquet Booking System是一个网上宴会预订系统。Online Banquet Booking System存在SQL注入漏洞，该漏洞源于/admin/view-user-queries.php文件中viewid参数未进行安全过滤。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.317056\nhttps://vuldb.com/?ctiid.317056\nhttps://vuldb.com/?submit.618941\nhttps://github.com/LagonGit/ReportCVE/issues/5\nhttps://github.com/LagonGit/ReportCVE/issues/5#issue-3245176689\nhttps://phpgurukul.com/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-09-24",
+    "update_time": "2025-09-24",
+    "data_summary": "9f1cf146678705d788eeb1c1aeb52fc9"
+}

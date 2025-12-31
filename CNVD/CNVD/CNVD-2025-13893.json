@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 07:03:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13893",
+    "spider_time": 1751007839474,
+    "name": "TOTOLINK AC1200 T8 OS命令注入漏洞",
+    "cnvd": "CNVD-2025-13893",
+    "publish": "2025-06-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK AC1200 T8 4.1.5cu.861_B20230220\"]",
+    "cve": "CVE-2024-8574",
+    "description": "TOTOLINK AC1200 T8是一款无线路由器，支持1200Mbps速率的双频Wi-Fi，适用于家庭或小型办公场景。TOTOLINK AC1200 T8存在OS命令注入漏洞，该漏洞位于/cgi-bin/cstecgi.cgi文件中，slaveIpList参数未经过适当的输入验证。 攻击者可利用该漏洞导致完全控制路由器设备。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.276808\nhttps://vuldb.com/?ctiid.276808\nhttps://vuldb.com/?submit.401289\nhttps://github.com/abcdefg-png/IoT-vulnerable/blob/main/TOTOLINK/AC1200T8/setUpgradeFW.md\nhttps://www.totolink.net/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-09-09",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "b8e0cf6620dd38056cc7ae24fca4af1c"
+}

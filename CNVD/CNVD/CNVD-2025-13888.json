@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 03:27:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13888",
+    "spider_time": 1750994842214,
+    "name": "WordPress CubeWP Forms plugin授权问题漏洞",
+    "cnvd": "CNVD-2025-13888",
+    "publish": "2025-06-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"WordPress CubeWP Forms plugin <=1.1.5\"]",
+    "cve": "CVE-2025-49880",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress CubeWP Forms plugin存在授权问题漏洞，该漏洞源于缺少授权，攻击者可利用该漏洞配置不正确的访问控制安全级别。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/cubewp-forms/vulnerability/wordpress-cubewp-forms-plugin-1-1-5-broken-access-control-vulnerability-2?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/cubewp-forms/",
+    "patch": "WordPress CubeWP Forms plugin授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-24",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "bdc771b81830c84aec6d546e9444d631"
+}

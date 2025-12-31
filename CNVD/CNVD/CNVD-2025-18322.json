@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 08:04:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18322",
+    "spider_time": 1755072288496,
+    "name": "WordPress News Kit Elementor Addons缺少授权漏洞",
+    "cnvd": "CNVD-2025-18322",
+    "publish": "2025-08-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:P",
+    "product": "[\"WordPress News Kit Elementor Addons <=1.3.4\"]",
+    "cve": "CVE-2025-54037",
+    "description": "WordPress News Kit Elementor Addons是一款专为WordPress网站设计的可视化页面构建插件，主要用于创建新闻或博客网站。WordPress News Kit Elementor Addons存在缺少授权漏洞，该漏洞源于访问控制配置不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-54037",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/news-kit-elementor-addons/",
+    "patch": "WordPress News Kit Elementor Addons缺少授权漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "0347a8d79592d8a664c55da889101654"
+}

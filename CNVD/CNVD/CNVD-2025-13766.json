@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 09:05:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13766",
+    "spider_time": 1750928723280,
+    "name": "ABB多款产品信息泄露漏洞（CNVD-2025-13766）",
+    "cnvd": "CNVD-2025-13766",
+    "publish": "2025-06-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:P/A:N",
+    "product": "[\"ABB ABB ASPECT-Enterprise <=3.08.03\", \"ABB ABB NEXUS Series <=3.08.03\", \"ABB ABB MATRIX Series <=3.08.03\"]",
+    "cve": "CVE-2025-30170",
+    "description": "ABB ASPECT-Enterprise是一款可扩展建筑能源管理和控制解决方案。ABB NEXUS Series是一种监控管理系统。ABB MATRIX Series是一款嵌入式物联网ASPECT控制引擎，旨在为中型到大型现场控制应用提供灵活的现场控制。ABB多款产品存在信息泄露漏洞，攻击者可利用该漏洞访问文件系统信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-30170",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A0021&LanguageCode=en&DocumentPartId=pdf&Action=Launch",
+    "patch": "ABB多款产品信息泄露漏洞（CNVD-2025-13766）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "4e718d65c14e4f6768f0ceb20a0e3a7c"
+}

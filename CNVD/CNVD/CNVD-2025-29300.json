@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-27 06:08:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29300",
+    "spider_time": 1764223700262,
+    "name": "WordPress Icon List Block plugin服务端请求伪造漏洞",
+    "cnvd": "CNVD-2025-29300",
+    "publish": "2025-11-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Icon List Block plugin <=1.2.1\"]",
+    "cve": "CVE-2025-12376",
+    "description": "WordPress Icon List Block plugin是一款为WordPress设计的插件，主要用于在块编辑器（Gutenberg）中插入自定义图标列表。WordPress Icon List Block plugin存在服务端请求伪造漏洞，该漏洞源于fs_api_request函数未实现足够的验证机制来确认请求的来源，攻击者可利用该漏洞导致内部服务信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/icon-list-block/tags/1.2.0/bplugins_sdk/inc/Base/FSActivate.php#L168",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/icon-list-block/",
+    "patch": "WordPress Icon List Block plugin服务端请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2025-11-25",
+    "update_time": "2025-11-25",
+    "data_summary": "0cca2e1821f411227f5363d6048a0006"
+}

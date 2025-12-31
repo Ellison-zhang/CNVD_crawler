@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-18 11:03:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16367",
+    "spider_time": 1752836621009,
+    "name": "WordPress Broken Link Notifier plugin代码执行漏洞",
+    "cnvd": "CNVD-2025-16367",
+    "publish": "2025-07-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"WordPress Broken Link Notifier plugin <=1.3.0\"]",
+    "cve": "CVE-2025-6838",
+    "description": "WordPress Broken Link Notifier plugin是一款用于监测网站内破损链接（如404错误、超时链接等）的插件。WordPress Broken Link Notifier plugin存在代码执行漏洞，该漏洞源于导出CSV文件时可能嵌入恶意输入，攻击者可利用该漏洞导致代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&old=3323864%40broken-link-notifier&new=3323864%40broken-link-notifier&sfp_email=&sfph_mail=",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/broken-link-notifier",
+    "patch": "WordPress Broken Link Notifier plugin代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-07-18",
+    "update_time": "2025-07-18",
+    "data_summary": "9a3853f8ae575a4ddc574e11cff7b88d"
+}

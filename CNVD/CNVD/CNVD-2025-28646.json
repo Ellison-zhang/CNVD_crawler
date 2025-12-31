@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-20 07:12:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28646",
+    "spider_time": 1763622727287,
+    "name": "Adobe Format Plugins内存错误引用漏洞",
+    "cnvd": "CNVD-2025-28646",
+    "publish": "2025-11-18",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Adobe Format Plugins <=1.1.1\"]",
+    "cve": "CVE-2025-61842",
+    "description": "Adobe Format Plugins是美国奥多比（Adobe）公司的一个格式插件。Adobe Format Plugins存在内存错误引用漏洞，攻击者可利用该漏洞导致内存暴露和信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/formatplugins/apsb25-114.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/formatplugins/apsb25-114.html",
+    "patch": "Adobe Format Plugins内存错误引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "6849672af9e5e7aa3a0dfac1835d0f6c"
+}

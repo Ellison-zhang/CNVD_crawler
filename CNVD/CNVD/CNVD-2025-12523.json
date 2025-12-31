@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 10:03:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12523",
+    "spider_time": 1749809037671,
+    "name": "WordPress Ninja Tables plugin代码问题漏洞",
+    "cnvd": "CNVD-2025-12523",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:P/A:P",
+    "product": "[\"WordPress Ninja Tables plugin <=5.0.18\"]",
+    "cve": "CVE-2025-2939",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Ninja Tables plugin存在代码问题漏洞，该漏洞源于args[callback]参数反序列化不可信输入，攻击者可利用该漏洞导致PHP对象注入。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/ninja-tables/tags/5.0.18/vendor/wpfluent/framework/src/WPFluent/Http/Client.php#L399",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/ninja-tables/",
+    "patch": "WordPress Ninja Tables plugin代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "74a6994ca38ce85dc3c985c3965ef7aa"
+}

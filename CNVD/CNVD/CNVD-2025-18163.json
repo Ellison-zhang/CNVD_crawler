@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-12 09:08:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18163",
+    "spider_time": 1754989706440,
+    "name": "Ivanti Secure Access Client拒绝服务漏洞",
+    "cnvd": "CNVD-2025-18163",
+    "publish": "2025-08-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:N/I:N/A:C",
+    "product": "[\"Ivanti Ivanti Secure Access Client <22.7R3\"]",
+    "cve": "CVE-2024-38654",
+    "description": "Ivanti Secure Access Client是Ivanti公司的安全软件客户端，主要用于实现远程安全访问。Ivanti Secure Access Client存在拒绝服务漏洞，该漏洞源于边界检查不当，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-38654",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Connect-Secure-ICS-Ivanti-Policy-Secure-IPS-Ivanti-Secure-Access-Client-ISAC-Multiple-CVEs",
+    "patch": "Ivanti Secure Access Client拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-15",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "54d74be2844e4d490a7d5cba591f28f0"
+}

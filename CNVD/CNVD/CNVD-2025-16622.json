@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 04:17:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16622",
+    "spider_time": 1753157823733,
+    "name": "Siemens SIMATIC CN 4100输入验证错误漏洞（CNVD-2025-16622）",
+    "cnvd": "CNVD-2025-16622",
+    "publish": "2025-07-22",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Siemens SIMATIC CN 4100 <v4.0\"]",
+    "cve": "CVE-2025-40593",
+    "description": "Siemens SIMATIC CN 4100是德国西门子（Siemens）公司的一个通信节点。Siemens SIMATIC CN 4100存在输入验证错误漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-626991.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.industry.siemens.com/cs/document/109814144/communication-node-simatic-cn-4100-v4-0?dti=0&lc=en-WW",
+    "patch": "Siemens SIMATIC CN 4100输入验证错误漏洞（CNVD-2025-16622）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-22",
+    "update_time": "2025-07-22",
+    "data_summary": "42be709b265c080b285779974cd3a5eb"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-16 11:05:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21374",
+    "spider_time": 1758020758920,
+    "name": "Google Android路径遍历漏洞（CNVD-2025-21374）",
+    "cnvd": "CNVD-2025-21374",
+    "publish": "2025-09-16",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Google Android 14.0\", \"Google Android 15.0\", \"Google Android 16.0\", \"Google Android 13.0\"]",
+    "cve": "CVE-2025-48550",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在路径遍历漏洞，攻击者可利用该漏洞导致本地拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-48550",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-09-01",
+    "patch": "Google Android路径遍历漏洞（CNVD-2025-21374）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-09-16",
+    "update_time": "2025-09-16",
+    "data_summary": "3b184341a3ef73b793d51d0ca83075de"
+}

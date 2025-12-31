@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 10:04:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11762",
+    "spider_time": 1749204286270,
+    "name": "国电南京自动化股份有限公司PSL 641UX线路保护测控装置存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-11762",
+    "publish": "2025-06-06",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u56fd\\u7535\\u5357\\u4eac\\u81ea\\u52a8\\u5316\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 PSL 641UX\\u7ebf\\u8def\\u4fdd\\u62a4\\u6d4b\\u63a7\\u88c5\\u7f6e v1.0.4\"]",
+    "cve": null,
+    "description": "PSL 641UX线路保护测控装置是一种功能强大的电力线路保护和监控设备。国电南京自动化股份有限公司PSL 641UX线路保护测控装置存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.sac-china.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "8a0cc792de333c9c59b4b36711b2701b"
+}

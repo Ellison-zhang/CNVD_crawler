@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-25 04:17:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16819",
+    "spider_time": 1753417028490,
+    "name": "WordPress bSecure plugin权限提升漏洞",
+    "cnvd": "CNVD-2025-16819",
+    "publish": "2025-07-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress bSecure plugin >=1.3.7\\uff0c<=1.7.9\"]",
+    "cve": "CVE-2025-6187",
+    "description": "WordPress bSecure plugin是用于增强网站安全性的插件，主要针对GiveWP的支付页面提供安全防护功能。WordPress bSecure plugin存在权限提升漏洞，，该漏洞源于order_info REST端点缺少授权，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/bsecure/tags/1.7.9/includes/class-bsecure-checkout.php",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-07-25",
+    "update_time": "2025-07-25",
+    "data_summary": "83cf5df8fb81b56432bdec1156ad8ca1"
+}

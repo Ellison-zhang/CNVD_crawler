@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 08:05:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11400",
+    "spider_time": 1749110708720,
+    "name": "JetBrains TeamCity Jira集成跨站脚本漏洞",
+    "cnvd": "CNVD-2025-11400",
+    "publish": "2025-06-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"JetBrains TeamCity <2025.03.2\"]",
+    "cve": "CVE-2025-47853",
+    "description": "JetBrains TeamCity是捷克JetBrains公司的一套分布式构建管理和持续集成工具。JetBrains TeamCity存在跨站脚本漏洞，该漏洞源于Jira集成，攻击者可利用该漏洞注入恶意脚本或HTML代码，获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.jetbrains.com/privacy-security/issues-fixed/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains TeamCity Jira集成跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-27",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "dbb4d8eaa801da155c15503aa4336de2"
+}

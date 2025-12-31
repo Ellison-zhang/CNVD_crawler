@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-12 10:03:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12302",
+    "spider_time": 1749722635305,
+    "name": "Schneider Electric EcoStruxure Power Build Rapsody堆栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12302",
+    "publish": "2025-06-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Schneider Electric EcoStruxure Power Build Rapsody <=v2.7.12 FR\"]",
+    "cve": "CVE-2025-3916",
+    "description": "Schneider Electric EcoStruxure Power Build Rapsody是法国施耐德电气（Schneider Electric）公司的一个电源监控平台。Schneider Electric EcoStruxure Power Build Rapsody存在堆栈缓冲区溢出漏洞，攻击者可利用该漏洞在受影响的设备上实现任意代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2025-133-03&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2025-133-03.pdf",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.se.com/eg/en/download/document/EcoStruxure_Power_Build/",
+    "patch": "Schneider Electric EcoStruxure Power Build Rapsody堆栈缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-06-12",
+    "update_time": "2025-06-12",
+    "data_summary": "22946c590d524a540febeaa9fc3d2b81"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-10 23:10:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27249",
+    "spider_time": 1762816211127,
+    "name": "WordPress MasterStudy LMS plugin SQL注入漏洞",
+    "cnvd": "CNVD-2025-27249",
+    "publish": "2025-11-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:P/A:P",
+    "product": "[\"WordPress MasterStudy LMS plugin <=3.6.27\"]",
+    "cve": "CVE-2025-64366",
+    "description": "WordPress MasterStudy LMS plugin是专为WordPress设计的在线学习系统插件，支持创建、管理和销售在线课程，适用于教育机构、个人讲师等场景。WordPress MasterStudy LMS plugin存在SQL注入漏洞，该漏洞源于应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/masterstudy-lms-learning-management-system/vulnerability/wordpress-masterstudy-lms-plugin-3-6-27-sql-injection-vulnerability",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/masterstudy-lms-learning-management-system/",
+    "patch": "WordPress MasterStudy LMS plugin SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-05",
+    "open_time": "2025-11-07",
+    "update_time": "2025-11-07",
+    "data_summary": "df7082cd1763073a889d3cd6abef4210"
+}

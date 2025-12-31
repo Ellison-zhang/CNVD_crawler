@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-14 08:05:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15627",
+    "spider_time": 1752480337790,
+    "name": "WordPress Kossy文件包含漏洞",
+    "cnvd": "CNVD-2025-15627",
+    "publish": "2025-07-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Kossy <=1.45\"]",
+    "cve": "CVE-2025-52807",
+    "description": "Kossy是专为电子商务设计的WordPress主题，采用极简主义风格，适用于家具店、服装店、数码产品店等场景。WordPress Kossy存在文件包含漏洞，该漏洞源于PHP程序中文件名控制不当，攻击者可利用该漏洞实现PHP本地文件包含。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-52807",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-11",
+    "open_time": "2025-07-14",
+    "update_time": "2025-07-14",
+    "data_summary": "9a2132263d8a16a1b78b43560a97a6d8"
+}

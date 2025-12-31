@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 07:08:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17884",
+    "spider_time": 1754636880086,
+    "name": "WordPress Dataverse Integration缺少授权漏洞",
+    "cnvd": "CNVD-2025-17884",
+    "publish": "2025-08-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress Dataverse Integration >=2.77\\uff0c<=2.81\"]",
+    "cve": "CVE-2025-7695",
+    "description": "WordPress Dataverse Integration是一种插件，主要用于将WordPress与Dataverse进行连接，实现数据双向同步和业务应用集成。WordPress Dataverse Integration存在缺少授权漏洞，该漏洞源于reset_password_link REST端点缺少授权检查，攻击者可利用该漏洞通过权限提升，获取系统管理员权限，控制整个系统。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7695",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/integration-cds",
+    "patch": "WordPress Dataverse Integration缺少授权漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-30",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "7e9483e1164209ece2717cf3e2f548e3"
+}

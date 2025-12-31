@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-25 05:04:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29336",
+    "spider_time": 1764047053247,
+    "name": "Tenda AC18栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-29336",
+    "publish": "2025-11-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC18 15.03.05.05\"]",
+    "cve": "CVE-2024-2485",
+    "description": "Tenda AC18是深圳市吉祥腾达科技有限公司于2016年7月推出的双频无线路由器‌，主要面向别墅及大户型家庭用户，支持2.4GHz和5GHz双频，最高传输速率达1900Mbps。Tenda AC18存在栈缓冲区溢出漏洞，该漏洞源于/goform/SetSpeedWan文件的formSetSpeedWan函数的speed_dir参数存在基于栈的缓冲区溢出。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-2485",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tenda.com.cn/download/detail-2610.html",
+    "patch": "Tenda AC18栈缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-15",
+    "open_time": "2025-11-25",
+    "update_time": "2025-11-25",
+    "data_summary": "53d36737423b26829936045716189926"
+}

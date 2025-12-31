@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-30 07:04:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23025",
+    "spider_time": 1759215872506,
+    "name": "Google Android权限提升漏洞（CNVD-2025-23025）",
+    "cnvd": "CNVD-2025-23025",
+    "publish": "2025-09-30",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android 14.0\", \"Google Android 15.0\", \"Google Android 16.0\", \"Google Android 13.0\"]",
+    "cve": "CVE-2025-32326",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在权限提升漏洞，该漏洞是由于AppRestrictions Fragment.java中多个函数中的代理混淆而绕过意图安全检查的一种方式造成的。攻击者可利用该漏洞在系统上获得更高的权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/packages/apps/Settings/+/e8a17485771e54124abc08e8fb6c987bf83726a2",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-09-01",
+    "patch": "Google Android权限提升漏洞（CNVD-2025-23025）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-09-30",
+    "update_time": "2025-09-30",
+    "data_summary": "2931ddfad3b956111970f1c9eb8a614e"
+}

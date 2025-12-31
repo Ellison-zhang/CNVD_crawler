@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-11 09:06:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30466",
+    "spider_time": 1765443976712,
+    "name": "Socomec DIRIS A-40密码泄露漏洞",
+    "cnvd": "CNVD-2025-30466",
+    "publish": "2025-12-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Socomec DIRIS A-40 <48250501\"]",
+    "cve": "CVE-2019-15859",
+    "description": "Socomec DIRIS A-40是索克曼（SOCOMEC）公司为其不间断电源（UPS）产品开发的一套网络管理解决方案，主要用于实现UPS的远程监控、状态管理和自动化操作。Socomec DIRIS A-40存在密码泄露漏洞，该漏洞源于网络系统或产品在运行过程中存在配置等错误。攻击者可利用该漏洞借助/password.jsn URI获得访问权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://packetstormsecurity.com/files/154764/Socomec-DIRIS-A-40-Password-Disclosure.html http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-15859",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.socomec.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2019-10-14",
+    "open_time": "2025-12-11",
+    "update_time": "2025-12-11",
+    "data_summary": "db58e010385c51b33549170921c77c7c"
+}

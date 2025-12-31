@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-14 03:31:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18413",
+    "spider_time": 1755142273171,
+    "name": "Apple macOS Sequoia堆缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18413",
+    "publish": "2025-08-14",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apple macOS Sequoia <15.6\"]",
+    "cve": "CVE-2025-31280",
+    "description": "Apple macOS Sequoia是美国苹果（Apple）公司的一款操作系统。Apple macOS Sequoia存在堆缓冲区溢出漏洞，攻击者可利用该漏洞导致堆损坏。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://support.apple.com/en-us/124149",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.apple.com/en-us/124149",
+    "patch": "Apple macOS Sequoia堆缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-01",
+    "open_time": "2025-08-14",
+    "update_time": "2025-08-14",
+    "data_summary": "dc12bdf0a35ca236df78ab23901e2954"
+}

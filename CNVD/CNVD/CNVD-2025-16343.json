@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-18 10:04:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16343",
+    "spider_time": 1752833064338,
+    "name": "Endress+Hauser MEAC300-FNADE4存在未明漏洞（CNVD-2025-16343）",
+    "cnvd": "CNVD-2025-16343",
+    "publish": "2025-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Endress+Hauser MEAC300-FNADE4 <=0.16.0\"]",
+    "cve": "CVE-2025-27461",
+    "description": "Endress+Hauser MEAC300-FNADE4是越南Endress+Hauser公司的一款具有成本效益的排放数据管理计算机。Endress+Hauser MEAC300-FNADE4存在安全漏洞，该漏洞源于启动时自动登录EPC2 Windows用户，无需输入密码。攻击者可利用该漏洞绕过因缺少授权而设置的安全限制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-27461",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.endress.com/en/field-instruments-overview/optical-analysis-product-overview/meac300?t.tabId=product-downloads",
+    "patch": "Endress+Hauser MEAC300-FNADE4存在未明漏洞（CNVD-2025-16343）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-11",
+    "open_time": "2025-07-18",
+    "update_time": "2025-07-18",
+    "data_summary": "9a9f574d3e5a9ca2ebad8b73d5889399"
+}

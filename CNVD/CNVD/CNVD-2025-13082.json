@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-20 08:05:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13082",
+    "spider_time": 1750406705562,
+    "name": "Dell Wyse Management Suite WMS信息泄露漏洞",
+    "cnvd": "CNVD-2025-13082",
+    "publish": "2025-06-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"DELL Wyse Management Suite WMS <5.2\"]",
+    "cve": "CVE-2025-36575",
+    "description": "Dell Wyse Management Suite WMS是美国戴尔（Dell）公司的一个云端与本地管理平台。用于集中管理Wyse轻量级终端设备，支持远程配置、固件更新、安全策略管理等功能。Dell Wyse Management Suite WMS 5.2之前版本存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dell.com/support/kbdoc/en-us/000325679/dsa-2025-226",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=xw9mt&oscode=naa&productcode=wyse-wms",
+    "patch": "Dell Wyse Management Suite WMS信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-20",
+    "update_time": "2025-06-20",
+    "data_summary": "aca5d89b94199a990a6fd9bfc4233c10"
+}

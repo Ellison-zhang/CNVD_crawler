@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-28 06:09:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08655",
+    "spider_time": 1745820558122,
+    "name": "SeaCMS存在命令执行漏洞",
+    "cnvd": "CNVD-2025-08655",
+    "publish": "2025-04-26",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"SEACMS SeaCMS 13.2\"]",
+    "cve": null,
+    "description": "SeaCMS（海洋CMS，海洋影视管理系统）是一套专为不同需求的站长而设计的视频点播系统。SeaCMS存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nwww.seacms.com",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "1b8127c3e86a6c76535173fea3436baa"
+}

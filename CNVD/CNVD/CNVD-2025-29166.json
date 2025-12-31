@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-21 09:07:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29166",
+    "spider_time": 1763716045475,
+    "name": "Apache OpenOffice安全绕过漏洞（CNVD-2025-29166）",
+    "cnvd": "CNVD-2025-29166",
+    "publish": "2025-11-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"Apache OpenOffice <=4.1.15\"]",
+    "cve": "CVE-2025-64402",
+    "description": "Apache OpenOffice是美国阿帕奇（Apache）基金会的一款开源的办公软件套件。该套件包含文本文档、电子表格、演示文稿、绘图、数据库等。Apache OpenOffice存在安全绕过漏洞，攻击者可利用该漏洞导致外部链接被自动加载。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lists.apache.org/thread/tssrl88tygjsgk6csllm6p2fb6tlv8d8",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.openoffice.org/download/",
+    "patch": "Apache OpenOffice安全绕过漏洞（CNVD-2025-29166）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2025-11-21",
+    "update_time": "2025-11-21",
+    "data_summary": "0fbb1ebed076b8287feb3ba4009676a3"
+}

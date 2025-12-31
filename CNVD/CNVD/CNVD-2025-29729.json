@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-04 06:07:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29729",
+    "spider_time": 1764828474154,
+    "name": "Notice Board System search-notice.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-29729",
+    "publish": "2025-12-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Notice Board System Notice Board System 1.0\"]",
+    "cve": "CVE-2025-5566",
+    "description": "Notice Board System是一个公告板系统。Notice Board System存在SQL注入漏洞，该漏洞源于文件/search-notice.php中参数searchdata缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/f1rstb100d/myCVE/issues/38",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-12-03",
+    "update_time": "2025-12-03",
+    "data_summary": "ff6227c2847bc8cf08082b2ef9c4cd8b"
+}

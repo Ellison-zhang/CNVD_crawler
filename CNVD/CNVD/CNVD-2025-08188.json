@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 10:05:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08188",
+    "spider_time": 1745489148816,
+    "name": "Brother MFC-L2713DW存在弱口令漏洞",
+    "cnvd": "CNVD-2025-08188",
+    "publish": "2025-04-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Brother MFC-L2713DW\"]",
+    "cve": null,
+    "description": "Brother MFC-L2713DW是一款多功能激光一体机，具备打印、复印、扫描和传真功能‌。Brother MFC-L2713DW存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.brother.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-10",
+    "open_time": "2025-04-24",
+    "update_time": "2025-04-24",
+    "data_summary": "9e367c215d5a216c7ee6861f457ee30d"
+}

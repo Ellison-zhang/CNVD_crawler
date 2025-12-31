@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-14 10:04:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18482",
+    "spider_time": 1755165857048,
+    "name": "友讯科技DIR-605L缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18482",
+    "publish": "2025-08-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u53cb\\u8baf\\u79d1\\u6280 DIR-825 2.1\"]",
+    "cve": "CVE-2025-7206",
+    "description": "友讯科技DIR-605L是友讯公司推出的首款云路由器，专为家庭和小型办公网络设计。友讯科技DIR-605L存在缓冲区溢出漏洞，该漏洞源于httpd组件中文件switch_language.cgi的函数sub_410DDC的参数Language未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7206",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-08-14",
+    "update_time": "2025-08-14",
+    "data_summary": "f90f147fe305d1a1221beef45a46a0c4"
+}

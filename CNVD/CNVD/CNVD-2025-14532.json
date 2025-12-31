@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-01 11:03:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14532",
+    "spider_time": 1751367837478,
+    "name": "TOTOLINK AC1200 formWlanRedirect函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-14532",
+    "publish": "2025-07-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR AC1200 V1.1.1-B20200824\"]",
+    "cve": "CVE-2024-34195",
+    "description": "TOTOLINK AC1200是中国吉翁电子（TOTOLINK）公司的一款双频Wi-Fi路由器。TOTOLINK AC1200存在缓冲区溢出漏洞，该漏洞源于formWlanRedirect函数的参数wlan_idx未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://gist.github.com/Swind1er/84161b607d06d060fba5adcdd92bceb4",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-30",
+    "open_time": "2025-07-01",
+    "update_time": "2025-07-01",
+    "data_summary": "7dffd584d39801c8e4841bc4d528e51c"
+}

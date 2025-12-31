@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-28 10:04:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22729",
+    "spider_time": 1759053860259,
+    "name": "GPT Academic命令注入漏洞",
+    "cnvd": "CNVD-2025-22729",
+    "publish": "2025-09-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"GPT Academic GPT Academic <=3.83\"]",
+    "cve": "CVE-2024-10950",
+    "description": "GPT Academic是一个为GPT/GLM等LLM大语言模型提供实用化交互的接口。GPT Academic存在命令注入漏洞，该漏洞源于CodeInterpreter插件存在安全问题，攻击者可利用该漏洞在应用程序后端服务器上实现远程代码执行（RCE），从而完全控制服务器。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://huntr.com/bounties/9abb1617-0c1d-42c7-a647-d9d2b39c6866",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/binary-husky/gpt_academic/releases/tag/version3.91",
+    "patch": "GPT Academic命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-09-28",
+    "update_time": "2025-09-28",
+    "data_summary": "2f0e64e7738fe773061419908e7f2f46"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-05 08:05:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30127",
+    "spider_time": 1764921955081,
+    "name": "Devolutions Server未经授权的访问漏洞",
+    "cnvd": "CNVD-2025-30127",
+    "publish": "2025-12-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:P",
+    "product": "[\"Devolutions Devolutions Server <=2025.2.12.0\"]",
+    "cve": "CVE-2025-11957",
+    "description": "Devolutions Server是一款用于管理特权账户和会话的安全解决方案，旨在帮助企业集中存储和管理密码、凭据等敏感信息。Devolutions Server存在未经授权的访问漏洞，该漏洞源于临时访问工作流程授权不当，攻击者可利用该漏洞导致未经授权的访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-11957",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://devolutions.net/security/advisories/DEVO-2025-0015/",
+    "patch": "Devolutions Server未经授权的访问漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-31",
+    "open_time": "2025-12-05",
+    "update_time": "2025-12-05",
+    "data_summary": "7f200091ed1780df763919a89adf2984"
+}

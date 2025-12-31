@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-12 10:07:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21144",
+    "spider_time": 1757671625217,
+    "name": "MB CONNECT LINE mbNET.mini操作系统命令注入漏洞（CNVD-2025-21144）",
+    "cnvd": "CNVD-2025-21144",
+    "publish": "2025-09-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"MB CONNECT LINE mbNET.mini <2.3.3\"]",
+    "cve": "CVE-2025-41673",
+    "description": "MB CONNECT LINE的mbNET.mini是一款专为工业场景设计的工业路由器，主要用于实现机器和系统的安全远程连接。MB CONNECT LINE mbNET.mini存在操作系统命令注入漏洞，该漏洞源于send_sms操作中对特殊元素的中和不当，攻击者可利用该漏洞导致远程执行系统命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://certvde.com/de/advisories/VDE-2025-058",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mbconnectline.com/download-portal/",
+    "patch": "MB CONNECT LINE mbNET.mini操作系统命令注入漏洞（CNVD-2025-21144）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-09-12",
+    "update_time": "2025-09-12",
+    "data_summary": "5997515c94e5d8015b37ff318707eafa"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-10 04:04:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06930",
+    "spider_time": 1744257881303,
+    "name": "phpIPAM circuits options页面跨站脚本漏洞",
+    "cnvd": "CNVD-2025-06930",
+    "publish": "2025-04-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"phpIPAM phpipam 1.5.2\"]",
+    "cve": "CVE-2024-10721",
+    "description": "phpIPAM是phpIPAM开源的一套开源的基于PHP和MySQL的IP地址管理应用程序（IPAM）。phpIPAM 1.5.2版本存在跨站脚本漏洞，该漏洞源于circuits options页面对用户提供的数据缺乏有效过滤与转义，攻击者利用该漏洞可以通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/phpipam/phpipam/commit/c1697bb6c4e4a6403d69c0868e1eb1040f98b731",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/phpipam/phpipam/releases/tag/v1.7.3",
+    "patch": "phpIPAM circuits options页面跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-04-10",
+    "update_time": "2025-04-10",
+    "data_summary": "c5e3934cab3b3aa8341532ee4dde974a"
+}

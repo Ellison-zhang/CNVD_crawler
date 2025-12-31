@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-19 07:04:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12866",
+    "spider_time": 1750316684861,
+    "name": "WordPress Bunnys Print CSS plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-12866",
+    "publish": "2025-06-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Bunnys Print CSS plugin <=0.95\"]",
+    "cve": "CVE-2025-5925",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Bunnys Print CSS plugin存在跨站请求伪造漏洞，该漏洞源于pcss_options_subpanel函数的nonce验证缺失或不正确。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5925",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/bunnys-print-css",
+    "patch": "WordPress Bunnys Print CSS plugin跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-19",
+    "update_time": "2025-06-19",
+    "data_summary": "37ad3dcd64d221ca96480e8a4b7933cb"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 09:04:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05380",
+    "spider_time": 1742375062796,
+    "name": "Linux kernel竞争条件漏洞",
+    "cnvd": "CNVD-2025-05380",
+    "publish": "2025-03-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Linux Linux kernel 6.13\", \"Linux Linux kernel >=6.7\\uff0c<6.12.6\", \"Linux Linux kernel >=6.2\\uff0c<6.6.67\", \"Linux Linux kernel >=5.16\\uff0c<6.1.121\", \"Linux Linux kernel <5.15.176\"]",
+    "cve": "CVE-2024-58087",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在竞争条件问题漏洞，该漏洞源于会话查找和过期时的竞争条件问题。攻击者可利用该漏洞获得根权限，并执行任意代码，从而获得权限升级。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-58087",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/2107ab40629aeabbec369cf34b8cf0f288c3eb1b",
+    "patch": "Linux kernel竞争条件漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-18",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "afdfc86fddf32db9cdd78988e039c1b4"
+}

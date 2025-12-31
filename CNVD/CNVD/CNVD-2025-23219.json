@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-11 06:05:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23219",
+    "spider_time": 1760162707681,
+    "name": "Park Ticketing Management System foreigner-bwdates-reports-details.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-23219",
+    "publish": "2025-10-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Park Ticketing Management System Park Ticketing Management System v2.0\"]",
+    "cve": "CVE-2025-45015",
+    "description": "Park Ticketing Management System是一个公园票务管理系统。Park Ticketing Management System存在跨站脚本漏洞，该漏洞源于foreigner-bwdates-reports-details.php文件对fromdate和todate参数处理不当，攻击者可利用该漏洞向Web页面中注入JavaScript代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-45015",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-10-10",
+    "update_time": "2025-10-10",
+    "data_summary": "e390d5d566955ec282c37e593730b31d"
+}

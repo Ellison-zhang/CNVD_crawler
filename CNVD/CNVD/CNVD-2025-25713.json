@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-31 09:08:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25713",
+    "spider_time": 1761901733577,
+    "name": "Microsoft Inbox COM Objects代码执行漏洞（CNVD-2025-25713）",
+    "cnvd": "CNVD-2025-25713",
+    "publish": "2025-10-29",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Windows Server 2008\", \"Microsoft Windows Server 2012 R2\", \"Microsoft Windows Server 2016\", \"Microsoft Windows Server 2019\", \"Microsoft Windows Server 2008 R2\", \"Microsoft Windows Server 2012\", \"Microsoft Windows Server 2022\", \"Microsoft Window 10 22H2\", \"Microsoft Window 10 21H2\", \"Microsoft Window 11 22H2\", \"Microsoft Window 10 1809\", \"Microsoft Window 10 1607\", \"Microsoft Window 11 23H2\", \"Microsoft Window 11 24H2\", \"Microsoft Windows Server 2025\", \"Microsoft Window 10 1507\", \"Microsoft Window 11 25H2\", \"Microsoft Window 11 22H3\"]",
+    "cve": "CVE-2025-58733",
+    "description": "Microsoft Inbox COM Objects是美国微软（Microsoft）公司的一个Windows操作系统内置的COM组件。Microsoft Inbox COM Objects存在代码执行漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-58733",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-58733",
+    "patch": "Microsoft Inbox COM Objects代码执行漏洞（CNVD-2025-25713）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-30",
+    "update_time": "2025-10-30",
+    "data_summary": "e7f4fda932bf9bd831ec7a5748063f36"
+}

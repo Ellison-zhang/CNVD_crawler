@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-26 02:34:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29345",
+    "spider_time": 1764124499742,
+    "name": "Microsoft Graphics Component资源管理错误漏洞",
+    "cnvd": "CNVD-2025-29345",
+    "publish": "2025-11-11",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Graphics Component\"]",
+    "cve": "CVE-2025-59216",
+    "description": "Microsoft Graphics Component是美国微软Microsoft公司的图形驱动组件。Microsoft Graphics Component存在资源管理错误漏洞，该漏洞源于共享资源同步不当，攻击者可利用该漏洞导致本地权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-59216",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59216",
+    "patch": "Microsoft Graphics Component资源管理错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-10",
+    "open_time": "2025-11-25",
+    "update_time": "2025-11-25",
+    "data_summary": "2fe0835e2d38e7723690393d63cf181e"
+}

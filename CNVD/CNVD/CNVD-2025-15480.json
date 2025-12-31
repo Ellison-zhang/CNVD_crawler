@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-11 07:05:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15480",
+    "spider_time": 1752217514431,
+    "name": "Ivanti Connect Secure越界读取漏洞",
+    "cnvd": "CNVD-2025-15480",
+    "publish": "2025-07-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Ivanti Ivanti Connect Secure <22.7R2.3\"]",
+    "cve": "CVE-2024-37400",
+    "description": "Ivanti Connect Secure是一款企业级SSL VPN远程访问解决方案，用于通过加密通道安全连接企业资源，支持零信任架构和多种部署方式。Ivanti Connect Secure存在越界读取漏洞，攻击者可利用该漏洞触发无限循环，从而导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-37400",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Connect-Secure-ICS-Ivanti-Policy-Secure-IPS-Ivanti-Secure-Access-Client-ISAC-Multiple-CVEs",
+    "patch": "Ivanti Connect Secure越界读取漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-15",
+    "open_time": "2025-07-11",
+    "update_time": "2025-07-11",
+    "data_summary": "803b56d90fa181994f0515c28cc11adb"
+}

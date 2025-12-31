@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-06 10:05:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17601",
+    "spider_time": 1754474700092,
+    "name": "Siemens SCALANCE LPE9403路径遍历漏洞（CNVD-2025-17601）",
+    "cnvd": "CNVD-2025-17601",
+    "publish": "2025-08-06",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:C/A:N",
+    "product": "[\"Siemens SCALANCE LPE9403 (6GK5998-3GS00-2AC2) <V4.0 HF0\"]",
+    "cve": "CVE-2025-40573",
+    "description": "Siemens SCALANCE LPE9403是德国西门子（Siemens）公司的一款用于工业现场数据处理的本地处理引擎。用于捕获、收集和预处理工业现场数据。Siemens SCALANCE LPE9403存在路径遍历漏洞，攻击者可利用该漏洞导致恢复备份文件夹外的备份。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-40573",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-327438.html",
+    "patch": "Siemens SCALANCE LPE9403路径遍历漏洞（CNVD-2025-17601）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-08-06",
+    "update_time": "2025-08-06",
+    "data_summary": "19e7523694af9cf61d55fbf7c45d94b2"
+}

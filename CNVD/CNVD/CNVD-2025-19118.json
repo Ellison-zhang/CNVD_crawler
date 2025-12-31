@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 08:05:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19118",
+    "spider_time": 1755763526253,
+    "name": "Zoom Desktop Client for Linux跨站脚本漏洞",
+    "cnvd": "CNVD-2025-19118",
+    "publish": "2025-08-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Zoom Desktop Client for Linux <5.17.10\"]",
+    "cve": "CVE-2024-27242",
+    "description": "Zoom Desktop Client for Linux是专为虚拟化桌面环境（如 Windows 365 云电脑 ）设计的客户端应用程序。Zoom Desktop Client for Linux存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞允许经过身份验证的用户通过网络访问进行拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-27242",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.zoom.com/en/trust/security-bulletin/zsb-24013/",
+    "patch": "Zoom Desktop Client for Linux跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-11",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "db7540b0bb1d4a7d00a281505eeeb89f"
+}

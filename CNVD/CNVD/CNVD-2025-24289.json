@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-22 06:17:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24289",
+    "spider_time": 1761113839284,
+    "name": "Intel E810 Ethernet输入验证不当漏洞",
+    "cnvd": "CNVD-2025-24289",
+    "publish": "2025-10-20",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:N/I:N/A:C",
+    "product": "[\"Intel E810 Ethernet <4.6\"]",
+    "cve": "CVE-2025-24296",
+    "description": "Intel E810 Ethernet是英特尔推出的新一代以太网网络适配器，主要面向数据中心和云计算场景，支持高速网络连接与虚拟化技术。Intel E810 Ethernet存在输入验证不当漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-24296",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://intel.com/content/www/us/en/security-center/advisory/intel-sa-01257.html",
+    "patch": "Intel E810 Ethernet输入验证不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-10-21",
+    "update_time": "2025-10-21",
+    "data_summary": "63f67083c118145ce980737bd3453300"
+}

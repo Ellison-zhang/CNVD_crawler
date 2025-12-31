@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-25 06:07:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22248",
+    "spider_time": 1758780466274,
+    "name": "PDF-XChange Editor越界写入漏洞（CNVD-2025-22248）",
+    "cnvd": "CNVD-2025-22248",
+    "publish": "2025-09-22",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"PDF-XChange PDF-XChange Editor 10.5.2.395\", \"PDF-XChange PDF-Tools 10.5.2.395\", \"PDF-XChange PDF-XChange Pro 10.5.2.395\"]",
+    "cve": "CVE-2025-6659",
+    "description": "PDF-XChange Editor是PDF-XChange公司的一个运行在 Microsoft Windows系统中的PDF文件查看软件。PDF-XChange Editor存在越界写入漏洞，攻击者可利用该漏洞在当前进程的上下文中执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6659",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.pdf-xchange.com/support/security-bulletins.html",
+    "patch": "PDF-XChange Editor越界写入漏洞（CNVD-2025-22248）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-09-23",
+    "update_time": "2025-09-23",
+    "data_summary": "9829aeeb68e8e7fe2dd2b82b2a8db4ae"
+}

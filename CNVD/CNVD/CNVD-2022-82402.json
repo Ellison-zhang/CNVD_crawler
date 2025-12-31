@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 07:04:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2022-82402",
+    "spider_time": 1750748677651,
+    "name": "湖南强智科技发展有限公司教务一体化系统存在XSS漏洞",
+    "cnvd": "CNVD-2022-82402",
+    "publish": "2025-06-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6e56\\u5357\\u5f3a\\u667a\\u79d1\\u6280\\u53d1\\u5c55\\u6709\\u9650\\u516c\\u53f8 \\u6559\\u52a1\\u4e00\\u4f53\\u5316\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "湖南强智科技发展有限公司是一家教育信息化服务提供商。湖南强智科技发展有限公司教务一体化系统存在XSS漏洞，攻击者可利用该漏洞获取用户cookie等敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "教务系统存在反序列化安全漏洞，根据 XSS反射型漏洞修改文件.zip 修复\n厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttp://www.qzdatasoft.com",
+    "patch": "【漏洞补丁】漏洞修复补丁包-重点版本、5.0版本、4.0季度分支-XSS反射型漏洞修改",
+    "verify": "已验证",
+    "submit_time": "2022-10-21",
+    "open_time": "2022-11-29",
+    "update_time": "2025-06-24",
+    "data_summary": "ae1900d0ff67f4d8c0b79e4cf8167c51"
+}

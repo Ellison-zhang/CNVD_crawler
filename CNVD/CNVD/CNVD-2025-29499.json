@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-28 04:05:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29499",
+    "spider_time": 1764302718252,
+    "name": "WordPress Affiliate AI Lite plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-29499",
+    "publish": "2025-11-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Affiliate AI Lite plugin <=1.0.1\"]",
+    "cve": "CVE-2025-11799",
+    "description": "WordPress Affiliate AI Lite plugin是一款用于WordPress的联盟营销插件，旨在帮助用户通过客户推荐和推广计划提升流量和收入。WordPress Affiliate AI Lite plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/affiliate-ai-lite/tags/1.0.1/includes/afx-img.php#L53",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/affiliate-ai-lite/",
+    "patch": "WordPress Affiliate AI Lite plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-25",
+    "open_time": "2025-11-28",
+    "update_time": "2025-11-28",
+    "data_summary": "389128a818d58b38b37228ef52c6c271"
+}

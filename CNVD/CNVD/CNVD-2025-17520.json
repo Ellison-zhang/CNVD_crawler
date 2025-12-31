@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-05 07:07:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17520",
+    "spider_time": 1754377658403,
+    "name": "TOTOLINK EX200 getEasyWizardCfg方法授权问题漏洞",
+    "cnvd": "CNVD-2025-17520",
+    "publish": "2025-08-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"TOTOLINK EX200 V4.0.3c.7646_B20201211\"]",
+    "cve": "CVE-2024-31816",
+    "description": "TOTOLINK EX200是中国吉翁电子推出的2.4GHz无线N范围扩展器，主要用于扩展现有Wi-Fi网络的覆盖范围，解决信号盲区问题。TOTOLINK EX200存在授权问题漏洞，攻击者可利用该漏洞通过getEasyWizardCfg方法在没有授权的情况下获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/4hsien/CVE-vulns/blob/main/TOTOLINK/EX200/Leak_getEasyWizardCfg/Leak.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "TOTOLINK EX200 getEasyWizardCfg方法授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-10",
+    "open_time": "2025-08-05",
+    "update_time": "2025-08-05",
+    "data_summary": "0923a4c481c8d95ffb843828c1f57b0f"
+}

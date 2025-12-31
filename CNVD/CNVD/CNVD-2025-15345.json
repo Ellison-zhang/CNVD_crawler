@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-09 09:06:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15345",
+    "spider_time": 1752051961734,
+    "name": "Schneider Electric EVLink WallBox路径遍历漏洞（CNVD-2025-15345）",
+    "cnvd": "CNVD-2025-15345",
+    "publish": "2025-07-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"Schneider Electric EVLink WallBox\"]",
+    "cve": "CVE-2025-5741",
+    "description": "Schneider Electric EVLink WallBox是法国施耐德电气（Schneider Electric）公司的一款家用充电站。Schneider Electric EVLink WallBox存在路径遍历漏洞，该漏洞源于路径名限制不当，攻击者可利用该漏洞导致任意文件读取。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5741",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp",
+    "patch": "Schneider Electric EVLink WallBox路径遍历漏洞（CNVD-2025-15345）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-20",
+    "open_time": "2025-07-09",
+    "update_time": "2025-07-09",
+    "data_summary": "16ffad8c4a58c685fb4290882cd54a99"
+}

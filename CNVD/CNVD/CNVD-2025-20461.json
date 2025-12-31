@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-05 10:03:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20461",
+    "spider_time": 1757066628917,
+    "name": "WordPress Related Posts Lite plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-20461",
+    "publish": "2025-09-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Related Posts Lite plugin <=1.12\"]",
+    "cve": "CVE-2025-9618",
+    "description": "WordPress Related Posts Lite plugin是一款基于标签相关性的文章推荐插件，主要用于提升网站内容关联性与用户浏览体验。WordPress Related Posts Lite plugin存在跨站请求伪造漏洞，该漏洞源于缺少或错误的随机数验证。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.wordfence.com/threat-intel/vulnerabilities/id/ec3667ac-1d1f-4faf-923c-7e55c03db3da?source=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-02",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "caa39d5f3e0e1e3c5a0ff39e204f3839"
+}

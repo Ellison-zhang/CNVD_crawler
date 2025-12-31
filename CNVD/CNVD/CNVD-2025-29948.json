@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-05 07:10:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29948",
+    "spider_time": 1764918632007,
+    "name": "School Fees Payment System ajx.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-29948",
+    "publish": "2025-12-03",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"School Fees Payment System School Fees Payment System 1.0\"]",
+    "cve": "CVE-2025-5971",
+    "description": "School Fees Payment System是‌一个学费支付系统。School Fees Payment System存在SQL注入漏洞，该漏洞源于文件/ajx.php中参数name_startsWith缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5971",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-12-04",
+    "update_time": "2025-12-04",
+    "data_summary": "936b508bf725b81cf6ae422ad69108fa"
+}

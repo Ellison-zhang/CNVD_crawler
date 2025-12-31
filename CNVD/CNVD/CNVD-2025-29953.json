@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-04 07:04:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29953",
+    "spider_time": 1764831897573,
+    "name": "WordPress Arconix Shortcodes plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-29953",
+    "publish": "2025-12-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"WordPress Arconix Shortcodes plugin <=2.1.19\"]",
+    "cve": "CVE-2025-13835",
+    "description": "WordPress Arconix Shortcodes plugin是一款为WordPress网站提供多种短代码功能的插件。WordPress Arconix Shortcodes plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/wordpress/plugin/arconix-shortcodes/vulnerability/wordpress-arconix-shortcodes-plugin-2-1-19-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-03",
+    "open_time": "2025-12-04",
+    "update_time": "2025-12-04",
+    "data_summary": "20c17d1d408dca1f2dcb35828a55f4f9"
+}

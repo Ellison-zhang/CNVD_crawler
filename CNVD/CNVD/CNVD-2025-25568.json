@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-31 08:07:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25568",
+    "spider_time": 1761898076330,
+    "name": "Apple Xcode拒绝服务漏洞",
+    "cnvd": "CNVD-2025-25568",
+    "publish": "2025-10-28",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Apple Xcode <26\"]",
+    "cve": "CVE-2025-43375",
+    "description": "Apple Xcode是运行在操作系统Mac OS X上的集成开发工具。Apple Xcode存在拒绝服务漏洞，该漏洞源于处理过大的路径值时导致进程崩溃。攻击者可利用该漏洞导致进程崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43375",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://support.apple.com/en-us/125117",
+    "patch": "Apple Xcode拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-18",
+    "open_time": "2025-10-29",
+    "update_time": "2025-10-29",
+    "data_summary": "410877075b28a4bcf49c6cbfbf345c2c"
+}

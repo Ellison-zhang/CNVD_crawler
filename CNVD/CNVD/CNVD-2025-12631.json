@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 10:05:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12631",
+    "spider_time": 1750068314863,
+    "name": "WordPress WP User Frontend Pro plugin代码问题漏洞",
+    "cnvd": "CNVD-2025-12631",
+    "publish": "2025-06-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress WP User Frontend Pro plugin <=4.1.3\"]",
+    "cve": "CVE-2025-3054",
+    "description": "WordPress WP User Frontend Pro plugin是一款WordPress前端用户中心插件，提供了强大的前端管理功能。WordPress WP User Frontend Pro plugin存在代码问题漏洞，该漏洞源于upload_files函数缺少文件类型验证，攻击者可利用该漏洞上传任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://headwayapp.co/wp-user-frontend-changelog",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/wp-user-frontend/",
+    "patch": "WordPress WP User Frontend Pro plugin代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "98383ed5e323c4ee038cf8edc871284d"
+}

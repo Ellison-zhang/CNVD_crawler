@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-26 08:05:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31402",
+    "spider_time": 1766736330896,
+    "name": "ERPNext get_rfq_containing_supplier函数SQL注入漏洞",
+    "cnvd": "CNVD-2025-31402",
+    "publish": "2025-12-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:P/A:N",
+    "product": "[\"ERPNext ERPNext 15.57.5\"]",
+    "cve": "CVE-2025-52042",
+    "description": "ERPNext是印度ERPNext公司的一套开源的企业资源计划解决方案。ERPNext存在SQL注入漏洞，该漏洞源于get_rfq_containing_supplier函数的txt参数缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Vietsunshine-Electronic-Solution-JSC/Vulnerability-Disclosures/blob/main/2025/Frappe%20Framework%20-%20Multiple%20SQL%20Injection.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://github.com/frappe/erpnext/releases",
+    "patch": "ERPNext get_rfq_containing_supplier函数SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-15",
+    "open_time": "2025-12-26",
+    "update_time": "2025-12-26",
+    "data_summary": "a9bea44e0357d11f6658b853b61a82b2"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-10 08:05:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11997",
+    "spider_time": 1749542718642,
+    "name": "TOTOLINK A3002R和A3002RU缓冲区溢出漏洞（CNVD-2025-11997）",
+    "cnvd": "CNVD-2025-11997",
+    "publish": "2025-06-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A3002R 3.0.0-B20230809.1615\", \"TOTOLINK A3002RU 3.0.0-B20230809.1615\"]",
+    "cve": "CVE-2025-4732",
+    "description": "TOTOLINK A3002R和A3002RU是两款高性能双频无线路由器。TOTOLINK A3002R和A3002RU存在缓冲区溢出漏洞。该漏洞与/boafrm/formFilter有关，是由于对用户输入的ip6addr参数未能正确验证。攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-4732",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://m.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-16",
+    "open_time": "2025-06-10",
+    "update_time": "2025-06-10",
+    "data_summary": "efa114c32278333af6e0034a901232b4"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-17 09:06:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16248",
+    "spider_time": 1752743214662,
+    "name": "HDF5缓冲区溢出漏洞（CNVD-2025-16248）",
+    "cnvd": "CNVD-2025-16248",
+    "publish": "2025-07-17",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"HDF5 HDF5 1.14.6\"]",
+    "cve": "CVE-2025-6816",
+    "description": "HDF5是The HDF Group开发的数据管理套件，用于存储和管理大规模科学数据。HDF5 1.14.6及之前版本存在缓冲区溢出漏洞，该漏洞源于/src/H5Ofsinfo.c文件中的H5O__fsinfo_encode函数处理不当。攻击者可利用该漏洞通过本地主机发起堆溢出攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.314254\nhttps://vuldb.com/?ctiid.314254\nhttps://vuldb.com/?submit.602291\nhttps://github.com/HDFGroup/hdf5/issues/5571\nhttps://github.com/user-attachments/files/20623354/hdf5_crash_3.txt",
+    "solution": "目前厂商尚未发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://vuldb.com/?id.314254",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-30",
+    "open_time": "2025-07-17",
+    "update_time": "2025-07-17",
+    "data_summary": "f468fd8cb509d9e423428268b594a0b1"
+}

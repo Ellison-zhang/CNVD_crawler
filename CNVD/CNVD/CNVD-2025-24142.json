@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 08:04:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24142",
+    "spider_time": 1760688297832,
+    "name": "fortinet FortiADC信息泄露漏洞",
+    "cnvd": "CNVD-2025-24142",
+    "publish": "2025-10-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Fortinet FortiADC 7.4.0\", \"Fortinet FortiADC 7.0.*\", \"Fortinet FortiADC 6.2.*\", \"Fortinet FortiADC <=7.2.3\", \"Fortinet FortiADC <=7.1.4\"]",
+    "cve": "CVE-2025-59921",
+    "description": "FortiADC是Fortinet公司的一款应用交付控制器，用于优化应用性能、提供负载均衡和增强安全性。FortiADC存在安全漏洞，该漏洞源于程序未能对敏感数据访问进行充分访问控制。攻击者可利用该漏洞通过特制的HTTP或HTTPS请求获取敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-59921",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-23-434",
+    "patch": "fortinet FortiADC信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-16",
+    "open_time": "2025-10-17",
+    "update_time": "2025-10-17",
+    "data_summary": "876ad28fb038d6813490fbbe4cd5a3ca"
+}

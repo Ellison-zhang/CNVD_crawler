@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 07:04:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24614",
+    "spider_time": 1761203091116,
+    "name": "WordPress Rich Snippet Site Report plugin SQL注入漏洞",
+    "cnvd": "CNVD-2025-24614",
+    "publish": "2025-10-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"WordPress Rich Snippet Site Report plugin <=2.0.0105\"]",
+    "cve": "CVE-2025-10310",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Rich Snippet Site Report plugin存在SQL注入漏洞，该漏洞源于对用户提供的参数last清理和转义不足且SQL查询准备不充分，攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.wordfence.com/threat-intel/vulnerabilities/id/2242c86e-c769-4104-b266-0cdcd90ccf63?source=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "8be5753c60172669b64766001676e669"
+}

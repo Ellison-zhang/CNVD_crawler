@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 09:03:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18643",
+    "spider_time": 1755248637717,
+    "name": "HDF5内存泄漏漏洞",
+    "cnvd": "CNVD-2025-18643",
+    "publish": "2025-08-15",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"HDF5 HDF5 1.14.6\"]",
+    "cve": "CVE-2025-7068",
+    "description": "HDF5是HDF开源的一个库。HDF5存在内存泄漏漏洞，该漏洞源于文件src/H5FL.c中函数H5FL__malloc未释放或无法释放已动态分配的堆内存，攻击者可利用该漏洞导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/HDFGroup/hdf5/issues/5578",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.hdfgroup.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-11",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "0ba09ce4402e8e64d3d57d395d7ab65b"
+}

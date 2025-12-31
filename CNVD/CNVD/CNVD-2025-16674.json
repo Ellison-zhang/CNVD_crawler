@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-23 08:05:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16674",
+    "spider_time": 1753257959687,
+    "name": "Huawei HarmonyOS/EMUI访问权限验证漏洞",
+    "cnvd": "CNVD-2025-16674",
+    "publish": "2025-07-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Huawei EMUI 12.0.0\", \"Huawei HarmonyOS 3.0.0\", \"Huawei HarmonyOS 2.1.0\", \"Huawei HarmonyOS 2.0.0\", \"Huawei HarmonyOS 3.1.0\", \"Huawei EMUI 13.0.0\", \"Huawei HarmonyOS 4.0.0\", \"Huawei HarmonyOS 4.2.0\", \"Huawei EMUI 14.0.0\"]",
+    "cve": "CVE-2024-47294",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。 EMUI(前称Emotion UI)是华为基于Android(安卓)进行开发的情感化操作系统。Huawei HarmonyOS/EMUI存在访问权限验证漏洞，该漏洞源于输入法框架模块中的访问权限验证漏洞。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-47294",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://consumer.huawei.com/en/support/bulletin/2024/10/",
+    "patch": "Huawei HarmonyOS/EMUI访问权限验证漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-09-30",
+    "open_time": "2025-07-23",
+    "update_time": "2025-07-23",
+    "data_summary": "7f1b523fe7c949c031e98a6dc95c08a5"
+}

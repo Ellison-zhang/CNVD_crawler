@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-12 07:05:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18133",
+    "spider_time": 1754982322002,
+    "name": "Oracle MySQL Server存在未明漏洞（CNVD-2025-18133）",
+    "cnvd": "CNVD-2025-18133",
+    "publish": "2025-08-12",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:M/C:P/I:N/A:N",
+    "product": "[\"Oracle MySQL Server <=8.4.2\", \"Oracle MySQL Server <=9.0.1\"]",
+    "cve": "CVE-2024-21244",
+    "description": "Oracle MySQL Server是美国甲骨文（Oracle）公司的一款关系型数据库。Oracle MySQL Server存在安全漏洞，攻击者可利用该漏洞读取可访问数据的子集。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.oracle.com/security-alerts/cpuoct2024.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpuoct2024.html",
+    "patch": "Oracle MySQL Server存在未明漏洞（CNVD-2025-18133）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-23",
+    "open_time": "2025-08-12",
+    "update_time": "2025-08-12",
+    "data_summary": "efa89e947cafb4ee0bc0e58dd79b4a36"
+}

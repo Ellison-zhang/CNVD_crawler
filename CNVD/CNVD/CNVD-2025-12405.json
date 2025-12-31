@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 08:05:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12405",
+    "spider_time": 1749801917999,
+    "name": "TOTOLINK T10命令注入漏洞 ",
+    "cnvd": "CNVD-2025-12405",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK T10 4.1.8cu.5207\"]",
+    "cve": "CVE-2024-9001",
+    "description": "TOTOLINK T10是中国吉翁电子（TOTOLINK）公司的一款无线网路系统路由器。TOTOLINK T10存在命令注入漏洞，该漏洞源于文件/cgi-bin/cstecgi.cgi的参数command会导致操作系统命令注入。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-9001/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-09-23",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "7b580180c9fe8f8ac06b54121f0f601c"
+}

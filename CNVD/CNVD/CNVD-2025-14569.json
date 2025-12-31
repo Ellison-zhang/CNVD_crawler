@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-01 11:04:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14569",
+    "spider_time": 1751367845292,
+    "name": "TOTOLINK A3300R /etc/shadow.sample文件硬编码密码漏洞",
+    "cnvd": "CNVD-2025-14569",
+    "publish": "2025-07-01",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"TOTOLINK A3300R 17.0.0cu.557_B20221024\"]",
+    "cve": "CVE-2024-7155",
+    "description": "TOTOLINK A3300R是一款由中国吉翁电子（TOTOLINK）公司生产的无线路由器。TOTOLINK A3300R存在硬编码密码漏洞，该漏洞源于/etc/shadow.sample文件中使用硬编码密码。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.272569",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/241/ids/36.html",
+    "patch": "TOTOLINK A3300R /etc/shadow.sample文件硬编码密码漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-31",
+    "open_time": "2025-07-01",
+    "update_time": "2025-07-01",
+    "data_summary": "17c7413fdfd4a90b56ab13da991f66b9"
+}

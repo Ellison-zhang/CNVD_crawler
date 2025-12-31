@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 04:04:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24087",
+    "spider_time": 1760673859444,
+    "name": "Oracle Database Server存在未明漏洞（CNVD-2025-24087）",
+    "cnvd": "CNVD-2025-24087",
+    "publish": "2025-10-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Oracle Oracle Database >=19.3\\uff0c<=19.27\", \"Oracle Oracle Database >=23.4\\uff0c<=23.8\"]",
+    "cve": "CVE-2025-30751",
+    "description": "Oracle Database Server是美国甲骨文（Oracle）公司的一套关系数据库管理系统。该数据库管理系统提供数据管理、分布式处理等功能。Oracle Database Server的Oracle Database存在安全漏洞，攻击者可利用该漏洞导致数据库接管。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.oracle.com/security-alerts/cpujul2025.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpujul2025.html",
+    "patch": "Oracle Database Server存在未明漏洞（CNVD-2025-24087）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-10-17",
+    "update_time": "2025-10-17",
+    "data_summary": "4c587df412ea41bc55a7d2d5cc45183d"
+}

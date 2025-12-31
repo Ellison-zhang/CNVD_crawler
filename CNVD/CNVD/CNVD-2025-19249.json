@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-22 09:04:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19249",
+    "spider_time": 1755853443374,
+    "name": "ImageMagick缓冲区溢出漏洞（CNVD-2025-19249）",
+    "cnvd": "CNVD-2025-19249",
+    "publish": "2025-08-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"ImageMagick ImageMagick <7.1.2-1\"]",
+    "cve": "CVE-2025-55005",
+    "description": "ImageMagick是ImageMagick开源的一套开源的图像处理软件，可读取、转换或写入多种格式的图片。ImageMagick存在缓冲区溢出漏洞，该漏洞源于Log到sRGB色彩空间转换时未处理大于1024的参考值，攻击者可利用该漏洞导致内存损坏。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-55005",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-v393-38qx-v8fp",
+    "patch": "ImageMagick缓冲区溢出漏洞（CNVD-2025-19249）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "867faa6ee1f0ac8327186bc4370ea21d"
+}

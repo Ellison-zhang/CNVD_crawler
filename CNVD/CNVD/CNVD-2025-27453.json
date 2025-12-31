@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-11 08:14:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27453",
+    "spider_time": 1762848890098,
+    "name": "fortinet FortiAnalyzer授权问题漏洞",
+    "cnvd": "CNVD-2025-27453",
+    "publish": "2025-11-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:P",
+    "product": "[\"Fortinet FortiAnalyzer >=7.6.0\\uff0c<=7.6.3\", \"Fortinet FortiAnalyzer 7.4.6\"]",
+    "cve": "CVE-2025-53845",
+    "description": "FortiAnalyzer是Fortinet公司的集中式安全分析与报告平台。FortiAnalyzer存在安全漏洞，该漏洞源于对OFTP请求的验证机制存在缺陷。攻击者可利用该漏洞通过构造特制OFTP请求获取设备运行状态信息，或发起拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-53845",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-25-378",
+    "patch": "fortinet FortiAnalyzer授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-16",
+    "open_time": "2025-11-10",
+    "update_time": "2025-11-10",
+    "data_summary": "f93eacccb6aa5662a4465b7ab99c3a0b"
+}

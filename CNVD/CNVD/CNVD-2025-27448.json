@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-11 01:34:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27448",
+    "spider_time": 1762824874422,
+    "name": "NVIDIA Display Driver代码问题漏洞",
+    "cnvd": "CNVD-2025-27448",
+    "publish": "2025-10-24",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"NVIDIA Display Driver null\"]",
+    "cve": "CVE-2025-23309",
+    "description": "NVIDIA Display Driver是美国英伟达（NVIDIA）公司的一款显卡驱动程序。NVIDIA Display Driver存在安全漏洞，攻击者可利用该漏洞导致拒绝服务、权限提升、代码执行和数据篡改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-23309",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5703",
+    "patch": "NVIDIA Display Driver代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-11-10",
+    "update_time": "2025-11-10",
+    "data_summary": "645f0025333b358ca925d3547b7b031b"
+}

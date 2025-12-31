@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-05 10:05:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30158",
+    "spider_time": 1764929113762,
+    "name": "WordPress Accordion Slider plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-30158",
+    "publish": "2025-12-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"WordPress Accordion Slider plugin <=1.9.13\"]",
+    "cve": "CVE-2025-66092",
+    "description": "WordPress Accordion Slider plugin是一种用于创建可折叠滑块（AccordionSlider）的插件。WordPress Accordion Slider plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/accordion-slider/vulnerability/wordpress-accordion-slider-plugin-1-9-13-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-25",
+    "open_time": "2025-12-05",
+    "update_time": "2025-12-05",
+    "data_summary": "49fd02290c32d4a0963a7b108bd59cf4"
+}

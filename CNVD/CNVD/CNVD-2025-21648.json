@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-23 06:08:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21648",
+    "spider_time": 1758607703186,
+    "name": "Dairy Farm Shop Management System manage-companies.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-21648",
+    "publish": "2025-09-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Dairy Farm Shop Management System Dairy Farm Shop Management System 1.3\"]",
+    "cve": "CVE-2025-51672",
+    "description": "Dairy Farm Shop Management System是一套基于PHP和MySQL的奶牛场管理系统。Dairy Farm Shop Management System存在SQL注入漏洞，该漏洞源于manage-companies.php缺少对外部输入SQL语句的验证。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/rtnthakur/CVE/blob/main/PHPGurukul/Dairy-Farm-Shop-Management-System/SQL/SQL_injection_edit-company.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-09-19",
+    "update_time": "2025-09-19",
+    "data_summary": "7c4ec3cbbd88072fdfdbf60d66505102"
+}

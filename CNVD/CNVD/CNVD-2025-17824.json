@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 02:44:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17824",
+    "spider_time": 1754621060491,
+    "name": "Advantech iView NetworkServlet.backupDatabase函数参数注入漏洞",
+    "cnvd": "CNVD-2025-17824",
+    "publish": "2025-08-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Advantech iView <5.7.05 build 7057\"]",
+    "cve": "CVE-2025-52459",
+    "description": "Advantech iView是中国研华（Advantech）公司的一个基于简单网络协议（SNMP）来对B + B SmartWorx设备进行管理的软件。Advantech iView NetworkServlet.backupDatabase函数参数注入漏洞，攻击者可利用该漏洞导致信息泄露，包括敏感的数据库凭据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.advantech.com/en/support/details/firmware-?id=1-HIPU-183",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.advantech.com/en/support/details/firmware-?id=1-HIPU-183",
+    "patch": "Advantech iView NetworkServlet.backupDatabase函数参数注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "13ae0e76a71fb4f090fb6970eb0ce84c"
+}

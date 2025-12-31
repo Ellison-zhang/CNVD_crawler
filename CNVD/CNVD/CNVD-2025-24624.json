@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 07:05:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24624",
+    "spider_time": 1761203152239,
+    "name": "Mozilla Firefox欺骗漏洞（CNVD-2025-24624）",
+    "cnvd": "CNVD-2025-24624",
+    "publish": "2025-10-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Mozilla Firefox <144\"]",
+    "cve": "CVE-2025-11720",
+    "description": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Firefox存在欺骗漏洞，该漏洞是由于自定义选项卡中的错误引起的。攻击者可利用该漏洞进行欺骗攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.mozilla.org/show_bug.cgi?id=1979534",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://bugzilla.mozilla.org/show_bug.cgi?id=1979534",
+    "patch": "Mozilla Firefox欺骗漏洞（CNVD-2025-24624）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "102b4e324711d4693ecb9211647bb6df"
+}

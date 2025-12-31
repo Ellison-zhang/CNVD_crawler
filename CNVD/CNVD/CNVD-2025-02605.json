@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-12 17:28:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02605",
+    "spider_time": 1739352482212,
+    "name": "NVIDIA GPU Display Driver for Windows and Linux拒绝服务漏洞（CNVD-2025-02605）",
+    "cnvd": "CNVD-2025-02605",
+    "publish": "2025-02-10",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"NVIDIA vGPU Software <=13.2\", \"NVIDIA vGPU Software <=11.7\", \"NVIDIA vGPU Software <=14.0\"]",
+    "cve": "CVE-2022-28187",
+    "description": "NVIDIA GPU Display Driver for Windows是美国英伟达（Nvidia）公司的一个用于Windows系统中对显卡显示模块进行交互支持的驱动软件。NVIDIA GPU Display Driver for Windows and Linux的DXGKDiesce的内核模式层（nvlddmkm.sys）存在拒绝服务漏洞，该漏洞源于内存管理软件在其有效生存期结束后没有正确释放资源。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-28187",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5353",
+    "patch": "NVIDIA GPU Display Driver for Windows and Linux拒绝服务漏洞（CNVD-2025-02605）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-05-19",
+    "open_time": "2025-02-10",
+    "update_time": "2025-02-10",
+    "data_summary": "7158adee254cf8c64aae31400d30878c"
+}

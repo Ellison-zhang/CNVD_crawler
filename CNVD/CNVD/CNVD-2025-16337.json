@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-18 10:07:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16337",
+    "spider_time": 1752833277899,
+    "name": "Tenda F1203 formWanParameterSetting方法缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16337",
+    "publish": "2025-07-18",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda F1203 2.0.1.6\"]",
+    "cve": "CVE-2024-32312",
+    "description": "Tenda F1203是深圳市吉祥腾达科技有限公司于2015年1月发布的双频无线路由器。Tenda F1203存在缓冲区溢出漏洞，该漏洞源于formWanParameterSetting方法的adslPwd参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/F/F1203/formWanParameterSetting.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-2494.html",
+    "patch": "Tenda F1203 formWanParameterSetting方法缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-22",
+    "open_time": "2025-07-18",
+    "update_time": "2025-07-18",
+    "data_summary": "d0e9dbd6602ed460f18c8cf7c52e1648"
+}

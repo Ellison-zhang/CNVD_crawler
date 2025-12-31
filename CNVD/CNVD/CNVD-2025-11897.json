@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 11:04:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11897",
+    "spider_time": 1749207849007,
+    "name": "华硕电脑（上海）有限公司RT-AX58U存在信息泄露漏洞",
+    "cnvd": "CNVD-2025-11897",
+    "publish": "2025-06-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u534e\\u7855\\u7535\\u8111\\uff08\\u4e0a\\u6d77\\uff09\\u6709\\u9650\\u516c\\u53f8 RT-AX58U\"]",
+    "cve": null,
+    "description": "RT-AX58U是一款支持 Wi-Fi 6 （802.11ax）标准的路由器，具有高性能和先进的功能。华硕电脑（上海）有限公司RT-AX58U存在信息泄露漏洞，攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.asus.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "a9d9eac6fefae0abdbe5c5de14ad1ac9"
+}

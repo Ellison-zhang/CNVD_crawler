@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-11 08:05:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23324",
+    "spider_time": 1760169944563,
+    "name": "Teachers Record Management System /trms/listed-teachers.php跨站脚本漏洞",
+    "cnvd": "CNVD-2025-23324",
+    "publish": "2025-10-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Teachers Record Management System Teachers Record Management System 2.1\"]",
+    "cve": "CVE-2024-48744",
+    "description": "Teachers Record Management System是一个教师记录管理系统。Teachers Record Management System存在跨站脚本漏洞，该漏洞源于/trms/listed-teachers.php缺乏有效过滤与转义，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-48744/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-23",
+    "open_time": "2025-10-11",
+    "update_time": "2025-10-11",
+    "data_summary": "dfe208ca326ce8d7ea7a375e03d719f3"
+}

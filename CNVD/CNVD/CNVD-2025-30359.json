@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-11 10:09:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30359",
+    "spider_time": 1765447754471,
+    "name": "Hostel Management System register-complaint.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-30359",
+    "publish": "2025-12-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"Hostel Management System Hostel Management System 2.1\"]",
+    "cve": "CVE-2025-13577",
+    "description": "Hostel Management System是一套旅馆管理系统。Hostel Management System存在跨站脚本漏洞，该漏洞源于文件/register-complaint.php中参数cdetails对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-13577",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-27",
+    "open_time": "2025-12-10",
+    "update_time": "2025-12-10",
+    "data_summary": "68c65937a80e5f6fe7b3f98253f2bb7b"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 11:03:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12706",
+    "spider_time": 1750158221744,
+    "name": "WordPress MapSVG跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12706",
+    "publish": "2025-06-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress MapSVG <=8.6.4\"]",
+    "cve": "CVE-2024-9544",
+    "description": "WordPress MapSVG 是一个功能强大的 WordPress 地图插件，它不仅支持创建交互式地图，还提供了多种自定义和集成功能‌。WordPress MapSVG存在跨站脚本漏洞，该漏洞源于输入清理和输出转义不足，攻击者可利用该漏洞注入任意Web脚本。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://simplepx.com/newfloward/wp-content/uploads/mapsvg/malicious.svg\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/3ec77f96-c73a-44f7-afa2-673f68ee3582?source=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "7c16be49d47c2466497bd4fef5b15eab"
+}

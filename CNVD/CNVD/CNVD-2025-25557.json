@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-31 05:05:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25557",
+    "spider_time": 1761887120475,
+    "name": "WordPress All in One Time Clock Lite plugin不安全的直接对象引用漏洞",
+    "cnvd": "CNVD-2025-25557",
+    "publish": "2025-10-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"WordPress All in One Time Clock Lite plugin <=2.0\"]",
+    "cve": "CVE-2025-6833",
+    "description": "WordPress All in One Time Clock Lite plugin是一款用于跟踪员工考勤的插件，支持员工/志愿者/承包商的打卡记录管理。WordPress All in One Time Clock Lite plugin存在不安全的直接对象引用漏洞，该漏洞源于应用没有正确实现访问控制机制，直接将客户端传送来的数据作为对象引用。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&old=3336943%40aio-time-clock-lite&new=3336943%40aio-time-clock-lite&sfp_email=&sfph_mail=",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/aio-time-clock-lite",
+    "patch": "WordPress All in One Time Clock Lite plugin不安全的直接对象引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-24",
+    "open_time": "2025-10-29",
+    "update_time": "2025-10-29",
+    "data_summary": "1a5449b90298e15cea90b7a7fdedf70e"
+}

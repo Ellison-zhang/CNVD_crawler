@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-19 11:04:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28796",
+    "spider_time": 1763550242187,
+    "name": "D-Link DIR-816L缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-28796",
+    "publish": "2025-11-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-816L 2_06_b09_beta\"]",
+    "cve": "CVE-2025-13190",
+    "description": "DIR-816L是D-Link公司推出的无线路由器产品。D-Link DIR-816L 2_06_b09_beta版本存在栈缓冲区溢出漏洞，该漏洞源于对/portal/__ajax_exporer.sgi文件中scandir_main函数的en参数进行操纵时未正确验证输入长度。攻击者可利用该漏洞通过远程发送特制数据触发栈溢出，从而执行任意代码或导致服务中断。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.332479\nhttps://vuldb.com/?ctiid.332479\nhttps://vuldb.com/?submit.685541\nhttps://github.com/scanleale/IOT_sec/blob/main/DIR-816L%20stack%20overflow(scandir.sgi).pdf\nhttps://www.dlink.com/",
+    "solution": "目前厂商尚未发布升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://vuldb.com/?id.332479",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "45895e4d5a6e4c9a24715616fadc3910"
+}

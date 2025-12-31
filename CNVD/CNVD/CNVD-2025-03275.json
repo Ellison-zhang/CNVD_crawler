@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-20 09:03:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03275",
+    "spider_time": 1740042224520,
+    "name": "Mozilla Firefox内存破坏漏洞（CNVD-2025-03275）",
+    "cnvd": "CNVD-2025-03275",
+    "publish": "2025-02-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Mozilla Firefox <135.0\", \"Mozilla Thunderbird >=131.0\\uff0c<135.0\"]",
+    "cve": "CVE-2025-1020",
+    "description": "Mozilla Firefox是一款开源的WEB浏览器。Mozilla Firefox存在内存破坏漏洞，远程攻击者可利用该漏洞提交特殊的Web请求，诱使用户解析，可以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1020",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://www.mozilla.org/en-US/security/advisories/mfsa2025-07/",
+    "patch": "Mozilla Firefox内存破坏漏洞（CNVD-2025-03275）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-10",
+    "open_time": "2025-02-20",
+    "update_time": "2025-02-20",
+    "data_summary": "5f271ff7a6494ef8e3d4247d2e98c4f4"
+}

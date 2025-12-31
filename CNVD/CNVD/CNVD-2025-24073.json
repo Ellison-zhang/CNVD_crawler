@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 03:18:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24073",
+    "spider_time": 1760671081389,
+    "name": "Ashlar-Vellum Graphite堆栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-24073",
+    "publish": "2025-10-17",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Ashlar-Vellum Graphite 13.0.48\"]",
+    "cve": "CVE-2025-7979",
+    "description": "Ashlar-Vellum Graphite是Ashlar-Vellum公司的一款CAD建模软件。Ashlar-Vellum Graphite存在堆栈缓冲区溢出漏洞，攻击者可利用该漏洞在当前进程的上下文中执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-25-633/",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://ashlar.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-19",
+    "open_time": "2025-10-17",
+    "update_time": "2025-10-17",
+    "data_summary": "3a50bfbed1e6abb804f2487a0ef69b3d"
+}

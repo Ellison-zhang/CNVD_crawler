@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-20 10:04:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18930",
+    "spider_time": 1755684294399,
+    "name": "NVIDIA Triton Inference Server Python后端越界写漏洞",
+    "cnvd": "CNVD-2025-18930",
+    "publish": "2025-08-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"NVIDIA Triton Inference Server <25.07\"]",
+    "cve": "CVE-2025-23319",
+    "description": "Triton Inference Server是NVIDIA开发的一款高性能推理服务引擎，专为生产环境中的AI模型部署设计，支持多种框架（TensorFlow、PyTorch、ONNX 等），并优化了GPU和CPU的推理性能。NVIDIA Triton Inference Server Python后端存在越界写漏洞，该漏洞源于内存缓冲区数据越界被写，远程攻击者可利用该漏洞提交特殊的HTTP请求，可以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvidia.custhelp.com/app/answers/detail/a_id/5687",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttps://github.com/triton-inference-server/server/releases",
+    "patch": "NVIDIA Triton Inference Server Python后端越界写漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-13",
+    "open_time": "2025-08-20",
+    "update_time": "2025-08-20",
+    "data_summary": "442ef2f503452d4908d14db74eb7509c"
+}

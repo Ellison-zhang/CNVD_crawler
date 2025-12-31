@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 09:04:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19194",
+    "spider_time": 1755767084054,
+    "name": "WordPress Anber Elementor Addon plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-19194",
+    "publish": "2025-08-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Anber Elementor Addon plugin <=1.0.1\"]",
+    "cve": "CVE-2025-7440",
+    "description": "WordPress Anber Elementor Addon plugin是WordPress的Elementor插件扩展，专为网站设计提供更多自定义功能。WordPress Anber Elementor Addon plugin存在跨站脚本漏洞，该漏洞源于参数输入清理不足，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wordpress.org/plugins/anber-elementor-addon/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "eac0037b1273c7e1f124c0ef0bd4cd74"
+}

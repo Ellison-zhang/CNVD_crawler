@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-10 06:08:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20866",
+    "spider_time": 1757484516435,
+    "name": "DELL ThinOS 10未授权访问漏洞",
+    "cnvd": "CNVD-2025-20866",
+    "publish": "2025-09-08",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL ThinOS 10 <2508_10.0127\"]",
+    "cve": "CVE-2025-43882",
+    "description": "DELL ThinOS 10是戴尔推出的新一代瘦客户端操作系统，专为虚拟桌面基础设施（VDI）设计，旨在提升安全性、效率和用户体验。DELL ThinOS 10存在未经授权访问漏洞，该漏洞源于所有权未验证，攻击者可利用该漏洞导致未经授权访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43882",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000359619/dsa-2025-331",
+    "patch": "DELL ThinOS 10未授权访问漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-29",
+    "open_time": "2025-09-09",
+    "update_time": "2025-09-09",
+    "data_summary": "51f2155ef0948956667fb5e12a783888"
+}

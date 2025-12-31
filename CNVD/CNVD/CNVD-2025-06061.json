@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-28 10:04:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06061",
+    "spider_time": 1743156242050,
+    "name": "LibreChat存在未明漏洞",
+    "cnvd": "CNVD-2025-06061",
+    "publish": "2025-03-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"LibreChat LibreChat <0.7.6\"]",
+    "cve": "CVE-2024-11169",
+    "description": "LibreChat是一个增强的ChatGPT克隆。LibreChat存在安全漏洞，该漏洞源于未处理的异常，攻击者可利用该漏洞导致服务器崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/danny-avila/librechat/commit/629be5c0ca2b332178524b4e3f6fac715aea8cc4",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/danny-avila/librechat/commit/629be5c0ca2b332178524b4e3f6fac715aea8cc4",
+    "patch": "LibreChat存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-27",
+    "open_time": "2025-03-28",
+    "update_time": "2025-03-28",
+    "data_summary": "e6ce1e000ad01a7b8ab5d0b6e48ba1fb"
+}

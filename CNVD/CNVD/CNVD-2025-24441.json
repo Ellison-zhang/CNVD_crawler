@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-22 06:09:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24441",
+    "spider_time": 1761113342911,
+    "name": "Adobe Commerce不正确授权漏洞（CNVD-2025-24441）",
+    "cnvd": "CNVD-2025-24441",
+    "publish": "2025-10-22",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:N/A:N",
+    "product": "[\"Adobe Adobe Commerce 2.4.8\", \"Adobe Adobe Commerce <=2.4.7-p5\", \"Adobe Adobe Commerce <=2.4.6-p10\", \"Adobe Adobe Commerce <=2.4.5-p12\", \"Adobe Adobe Commerce <=2.4.4-p13\", \"Adobe Adobe Commerce B2B <=1.5.2\", \"Adobe Adobe Commerce B2B <=1.4.2-p5\", \"Adobe Adobe Commerce B2B <=1.3.5-p10\", \"Adobe Adobe Commerce B2B <=1.3.4-p12\", \"Adobe Adobe Commerce B2B <=1.3.3-p13\", \"Adobe Magento Open Source 2.4.8\", \"Adobe Magento Open Source <=2.4.7-p5\", \"Adobe Magento Open Source <=2.4.6-p10\", \"Adobe Magento Open Source <=2.4.5-p12\"]",
+    "cve": "CVE-2025-49549",
+    "description": "Adobe Commerce是美国奥多比（Adobe）公司的一种面向商家和品牌的全球领先的数字商务解决方案。Adobe Commerce存在不正确授权漏洞，攻击者利用该漏洞导致安全功能绕过。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/magento/apsb25-50.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/magento/apsb25-50.html",
+    "patch": "Adobe Commerce不正确授权漏洞（CNVD-2025-24441）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-10-22",
+    "update_time": "2025-10-22",
+    "data_summary": "6612035838bda45108a187cbe2dc2c13"
+}

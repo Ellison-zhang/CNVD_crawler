@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-04 02:45:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29652",
+    "spider_time": 1764816339454,
+    "name": "Google Chrome on Android Omnibox实现不当漏洞",
+    "cnvd": "CNVD-2025-29652",
+    "publish": "2025-12-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Google Chrome on Android <141.0.7390.54\"]",
+    "cve": "CVE-2025-11213",
+    "description": "Google Chrome on Android是谷歌公司推出的移动浏览器，专为安卓设备优化，提供快速浏览、智能搜索、隐私保护及跨设备同步等功能。Google Chrome on Android存在Omnibox实现不当漏洞，攻击者可利用该漏洞导致恶意网站伪造URL或欺骗用户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-11213",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://chromereleases.googleblog.com/2025/09/stable-channel-update-for-desktop_30.html",
+    "patch": "Google Chrome on Android Omnibox实现不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-30",
+    "open_time": "2025-12-02",
+    "update_time": "2025-12-02",
+    "data_summary": "b1394879d63e2a7e88dc1cf453b64879"
+}

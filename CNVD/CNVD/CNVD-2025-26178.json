@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-31 10:05:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26178",
+    "spider_time": 1761905135891,
+    "name": "Online Farm System categoryvalue.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-26178",
+    "publish": "2025-10-31",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Online Farm System Online Farm System 1.0\"]",
+    "cve": "CVE-2025-8333",
+    "description": "Online Farm System是一个在线农场系统。Online Farm System存在SQL注入漏洞，该漏洞源于文件/categoryvalue.php中参数Value缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-8333",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-01",
+    "open_time": "2025-10-31",
+    "update_time": "2025-10-31",
+    "data_summary": "6ada2975551e4b8a077d8fdd2e9d1736"
+}

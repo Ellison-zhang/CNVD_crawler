@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-11 10:04:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12129",
+    "spider_time": 1749636251273,
+    "name": "Pimcore Customer Data FrameworkSQL注入漏洞",
+    "cnvd": "CNVD-2025-12129",
+    "publish": "2025-06-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"Pimcore Pimcore Customer Data Framework <=4.2.0\"]",
+    "cve": "CVE-2024-11956",
+    "description": "Pimcore是奥地利Pimcore公司的一套开源的用于创建和管理Web应用程序的Web内容管理平台。该平台集成了Web内容管理、电子商务框架和产品信息管理等应用。Pimcore Customer Data Framework存在SQL注入漏洞，该漏洞源于文件/admin/customermanagementframework/customers/list的参数filterDefinition/filter缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/pimcore/customer-data-framework/releases/tag/v4.2.1",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://github.com/pimcore/customer-data-framework/releases/tag/v4.2.1",
+    "patch": "Pimcore Customer Data FrameworkSQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-06-11",
+    "update_time": "2025-06-11",
+    "data_summary": "25b73e0d22edf16b03ead0141992e240"
+}

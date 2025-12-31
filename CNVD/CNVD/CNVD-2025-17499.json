@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-05 04:21:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17499",
+    "spider_time": 1754367713482,
+    "name": "Siemens SCALANCE LPE9403安全绕过漏洞",
+    "cnvd": "CNVD-2025-17499",
+    "publish": "2025-08-05",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:N",
+    "product": "[\"Siemens SCALANCE LPE9403 (6GK5998-3GS00-2AC2)\"]",
+    "cve": "CVE-2025-40581",
+    "description": "Siemens SCALANCE LPE9403是德国西门子（Siemens）公司的一款用于工业现场数据处理的本地处理引擎。用于捕获、收集和预处理工业现场数据。Siemens SCALANCE LPE9403存在安全绕过漏洞，该漏洞是由于绕过身份验证造成的。攻击者可利用该漏洞绕过访问限制来读取和修改配置参数。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-327438.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-327438.html",
+    "patch": "Siemens SCALANCE LPE9403安全绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-08-05",
+    "update_time": "2025-08-05",
+    "data_summary": "a97c477ba33e761ada855b1e08777f56"
+}

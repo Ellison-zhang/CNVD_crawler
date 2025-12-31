@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-11 10:04:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18082",
+    "spider_time": 1754906695817,
+    "name": "Oracle MySQL Server存在未明漏洞（CNVD-2025-18082）",
+    "cnvd": "CNVD-2025-18082",
+    "publish": "2025-08-11",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:N/I:N/A:P",
+    "product": "[\"Oracle MySQL Server <=8.0.39\", \"Oracle MySQL Server <=9.0.1\", \"Oracle MySQL Server <= 8.4.2\"]",
+    "cve": "CVE-2024-21231",
+    "description": "OOracle MySQL Server是美国甲骨文（Oracle）公司的一款关系型数据库。Oracle MySQL Server存在安全漏洞，攻击者可利用该漏洞导致系统拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://access.redhat.com/security/cve/cve-2024-21231",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpuoct2024.html",
+    "patch": "Oracle MySQL Server存在未明漏洞（CNVD-2025-18082）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-23",
+    "open_time": "2025-08-11",
+    "update_time": "2025-08-11",
+    "data_summary": "762b0c6ac0ef8b9d5e27c278ed49c2fa"
+}

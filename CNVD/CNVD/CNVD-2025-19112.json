@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 08:05:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19112",
+    "spider_time": 1755763544172,
+    "name": "Zoom Workplace跨站脚本漏洞",
+    "cnvd": "CNVD-2025-19112",
+    "publish": "2025-08-21",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Zoom Zoom Workplace\"]",
+    "cve": "CVE-2025-27441",
+    "description": "Zoom Workplace是Zoom公司推出的AI优先协作平台，整合团队沟通、会议、文档协作等核心功能，并内置AI Companion智能助手以提升工作效率。Zoom Workplace存在跨站脚本漏洞。该漏洞源于未能正确过滤用户提供的输入。攻击者可利用该漏洞导致数据完整性受损。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-27441",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.zoom.com/en/trust/security-bulletin/zsb-25013",
+    "patch": "Zoom Workplace跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "f1c5692af0ae8c3d0dce35610cc8d89f"
+}

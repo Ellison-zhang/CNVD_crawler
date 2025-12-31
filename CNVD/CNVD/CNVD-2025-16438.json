@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 07:09:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16438",
+    "spider_time": 1753081779855,
+    "name": "Fuji Electric V-SFT/TELLUS缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16438",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Fuji Electric Fuji Electric V-SFT\", \"Fuji Electric Fuji Electric TELLUS\"]",
+    "cve": "CVE-2025-50130",
+    "description": "Fuji Electric TELLUS和Fuji Electric V-SFT都是日本富士电机（Fuji Electric）公司的产品。Fuji Electric TELLUS是一款高级功能、用户友好性和远程控制专用软件。Fuji Electric V-SFT是一款屏幕配置软件。Fuji Electric V-SFT和Fuji Electric TELLUS存在缓冲区溢出漏洞，该漏洞源于应用在处理不受信任的输入时出现边界错误，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://jvn.jp/en/vu/JVNVU94011267/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://monitouch.fujielectric.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "c4b9bddfa2b47cb670ce7c35bd57a5ff"
+}

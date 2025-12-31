@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-30 09:07:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17185",
+    "spider_time": 1753866453647,
+    "name": "IBM DB2 for Linux拒绝服务漏洞",
+    "cnvd": "CNVD-2025-17185",
+    "publish": "2025-07-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:N/I:N/A:C",
+    "product": "[\"IBM DB2 for Linux 12.1.0\", \"IBM DB2 for Linux 12.1.1\", \"IBM DB2 for Linux 12.1.2\"]",
+    "cve": "CVE-2025-2533",
+    "description": "IBM Db2 for Linux是IBM开发的一款关系型数据库管理系统，专为Linux操作系统设计，提供高性能、高可靠性的数据存储和管理服务。IBM DB2 for Linux存在拒绝服务漏洞，攻击者可利用该漏洞在处理特定构造的查询时导致服务器崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-2533",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.ibm.com/support/pages/node/7240947",
+    "patch": "IBM DB2 for Linux拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-30",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "f0cd5aebb3d1bd58f4f99235ef7bb3a9"
+}

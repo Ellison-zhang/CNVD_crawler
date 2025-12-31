@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 09:08:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16528",
+    "spider_time": 1753088927270,
+    "name": "Fuji Electric Alpha5 SMART栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16528",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Fuji Electric Alpha5 SMART <=4.5\"]",
+    "cve": "CVE-2024-34579",
+    "description": "Fuji Electric Alpha5 SMART是一款高性能的交流伺服系统，旨在实现高速和高精度的控制。Fuji Electric Alpha5 SMART存在栈缓冲区溢出漏洞。该漏洞是由于系统在处理特定负载时，未能对输入数据进行适当的边界检查。攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-34579",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.fujielectric.com/products/drives_inverters/servo/product_series/alpha7_overview.html",
+    "patch": "Fuji Electric Alpha5 SMART栈缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-20",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "3b9b4472c4d3bf3efbd9a65d0764d7b5"
+}

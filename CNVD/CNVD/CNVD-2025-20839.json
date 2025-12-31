@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-09 08:08:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20839",
+    "spider_time": 1757405311232,
+    "name": "Belkin F9K1122命令注入漏洞（CNVD-2025-20839）",
+    "cnvd": "CNVD-2025-20839",
+    "publish": "2025-09-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Belkin F9K1122 1.00.33\"]",
+    "cve": "CVE-2025-7083",
+    "description": "Belkin F9K1122是加拿大Belkin公司的一款WiFi信号扩展器。Belkin F9K1122存在命令注入漏洞，该漏洞源于文件/goform/mp中参数command未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7083",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.belkin.com/my/support-article?articleNum=24903",
+    "patch": "Belkin F9K1122命令注入漏洞（CNVD-2025-20839）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-11",
+    "open_time": "2025-09-09",
+    "update_time": "2025-09-09",
+    "data_summary": "1769a7d85c0bdfbec7cc7fb7220a9ef7"
+}

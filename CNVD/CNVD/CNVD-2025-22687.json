@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 10:04:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22687",
+    "spider_time": 1758881095656,
+    "name": "多款Apple产品存在未明漏洞（CNVD-2025-22687）",
+    "cnvd": "CNVD-2025-22687",
+    "publish": "2025-09-26",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Apple iOS <26\", \"Apple iPadOS <26\", \"Apple watchOS <26\", \"Apple macOS Tahoe <26\", \"Apple tvOS <26\"]",
+    "cve": "CVE-2025-43329",
+    "description": "Apple iOS等都是美国苹果（Apple）公司的产品。Apple iOS是一套为移动设备所开发的操作系统。Apple watchOS是一套智能手表操作系统。Apple macOS是一套专为Mac计算机所开发的专用操作系统。多款Apple产品存在安全漏洞，该漏洞源于权限问题，攻击者可利用该漏洞导致应用突破沙箱限制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43329",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.apple.com/en-us/125108\nhttps://support.apple.com/en-us/125110\nhttps://support.apple.com/en-us/125114\nhttps://support.apple.com/en-us/125116",
+    "patch": "多款Apple产品存在未明漏洞（CNVD-2025-22687）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-18",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "9dc2278c72c8650d36c88d89d7be159c"
+}

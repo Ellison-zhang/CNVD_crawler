@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-28 06:09:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08651",
+    "spider_time": 1745820579327,
+    "name": "福州网钛软件科技有限公司网钛CMS存在命令执行漏洞",
+    "cnvd": "CNVD-2025-08651",
+    "publish": "2025-04-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u798f\\u5dde\\u7f51\\u949b\\u8f6f\\u4ef6\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u7f51\\u949bCMS V7.50\"]",
+    "cve": null,
+    "description": "网钛CMS（OTCMS）是一套文章类网站内容管理系统（CMS）。福州网钛软件科技有限公司网钛CMS存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://otcms.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "dd1ddd945c4013eba7bdd401566536f8"
+}

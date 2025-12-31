@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 11:03:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22710",
+    "spider_time": 1758884630100,
+    "name": "libfluid fluid_msg::ActionList::unpack10例程拒绝服务漏洞",
+    "cnvd": "CNVD-2025-22710",
+    "publish": "2025-09-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Open Networking Foundation libfluid 0.1.0\"]",
+    "cve": "CVE-2024-31196",
+    "description": "libfluid是Open Networking Foundation开源的一个应用程序。libfluid fluid_msg::ActionList::unpack10例存在程拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.nozominetworks.com/labs/vulnerability-advisories-cve-2024-31196",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.nozominetworks.com/labs/vulnerability-advisories-cve-2024-31196",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-09-20",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "2fc06ab4fac6580043163d01d244ae3a"
+}

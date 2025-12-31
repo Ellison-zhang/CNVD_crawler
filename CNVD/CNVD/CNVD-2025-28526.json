@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-20 06:11:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28526",
+    "spider_time": 1763619108912,
+    "name": "Dell Command Monitor权限提升漏洞",
+    "cnvd": "CNVD-2025-28526",
+    "publish": "2025-11-17",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL Dell Command Monitor <10.12.3.28\"]",
+    "cve": "CVE-2025-43990",
+    "description": "Dell Command Monitor是美国戴尔（Dell）公司的一款管理戴尔企业客户端系统的软件。Dell Command Monitor存在权限提升漏洞，攻击者可利用该漏洞导致特权提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.dell.com/support/kbdoc/en-us/000384947/dsa-2025-414",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000384947/dsa-2025-414",
+    "patch": "Dell Command Monitor权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-10",
+    "open_time": "2025-11-18",
+    "update_time": "2025-11-18",
+    "data_summary": "8c9b3ba2e69f03d8804c13c87d190291"
+}

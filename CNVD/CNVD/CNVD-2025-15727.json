@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-15 07:06:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15727",
+    "spider_time": 1752563197008,
+    "name": "Tenda AC10 formSetPPTPUserList缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-15727",
+    "publish": "2025-07-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda AC10 V1.0re_V15.03.06.46\"]",
+    "cve": "CVE-2025-45779",
+    "description": "Tenda AC10是中国腾达（Tenda）推出的双频千兆无线路由器。Tenda AC10存在缓冲区溢出漏洞，该漏洞源于formSetPPTPUserList处理程序未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/sunyou-iot/iot-vul/blob/main/TendaAC10/CVE-2025-45779/README.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/material/show/103506",
+    "patch": "Tenda AC10 formSetPPTPUserList缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-07-15",
+    "update_time": "2025-07-15",
+    "data_summary": "52d5b1ad2e5ca23c169a16ef9e082e6d"
+}

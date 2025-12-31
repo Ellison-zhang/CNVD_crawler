@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-09 10:04:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15365",
+    "spider_time": 1752055461110,
+    "name": "Microsoft AutoUpdate for Mac权限提升漏洞",
+    "cnvd": "CNVD-2025-15365",
+    "publish": "2025-07-09",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Microsoft AutoUpdate for Mac\"]",
+    "cve": "CVE-2025-47968",
+    "description": "Microsoft AutoUpdate for Mac是美国微软（Microsoft）公司的一款适用于Mac平台的Microsoft产品自动更新应用程序。Microsoft AutoUpdate for Mac存在权限提升漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47968",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47968",
+    "patch": "Microsoft AutoUpdate for Mac权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-07-09",
+    "update_time": "2025-07-09",
+    "data_summary": "ad29bfc76cc8ab2cf4a79c05464d734c"
+}

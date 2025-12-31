@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 07:04:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12740",
+    "spider_time": 1750230266642,
+    "name": "Tenda TDSEE App存在未明漏洞",
+    "cnvd": "CNVD-2025-12740",
+    "publish": "2025-06-18",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:N/A:N",
+    "product": "[\"Tenda TDSEE App <1.7.12\"]",
+    "cve": "CVE-2025-5864",
+    "description": "Tenda TDSEE App是中国腾达（Tenda）公司的一款用于管理Tenda品牌摄像头产品的应用程序。Tenda TDSEE App存在安全漏洞，攻击者可利用该漏洞导致过度认证尝试。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://blog.kevgen.ru/posts/account_takeover_in_tdsee_app/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "f60f11df007184b4b05aed646c597fa0"
+}

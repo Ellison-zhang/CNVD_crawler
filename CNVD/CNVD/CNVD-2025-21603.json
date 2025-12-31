@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-18 07:06:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21603",
+    "spider_time": 1758179167351,
+    "name": "Voltronic Power SNMP Web Pro跨站脚本漏洞",
+    "cnvd": "CNVD-2025-21603",
+    "publish": "2025-09-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Voltronic Power SNMP Web Pro 1.1\"]",
+    "cve": "CVE-2023-49563",
+    "description": "Voltronic Power SNMP Web Pro是Voltronic Power公司的一款SNMP网络卡管理软件。Voltronic Power SNMP Web Pro存在跨站脚本漏洞，攻击者可利用该漏洞通过特制的脚本执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-49563",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://gist.github.com/ph4nt0mbyt3/b237bfb06b2bff405ab47e4ea52c0bd2",
+    "patch": "Voltronic Power SNMP Web Pro跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-12-14",
+    "open_time": "2025-09-18",
+    "update_time": "2025-09-18",
+    "data_summary": "51922723de52c3ea2a92bb7675b9ddd1"
+}

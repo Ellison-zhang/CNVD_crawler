@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-21 09:04:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29172",
+    "spider_time": 1763715888263,
+    "name": "AXIS OS存在未明漏洞",
+    "cnvd": "CNVD-2025-29172",
+    "publish": "2025-11-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:M/C:C/I:C/A:P",
+    "product": "[\"Axis AXIS OS >=12.0.0\\uff0c<12.6.66\", \"Axis AXIS OS >=11.11.0\\uff0c<11.11.169\"]",
+    "cve": "CVE-2025-6571",
+    "description": "AXIS OS是瑞典安讯士（AXIS）公司的一种边缘设备操作系统。AXIS OS存在安全漏洞，该漏洞源于第三方组件在进程参数中暴露密码，攻击者可利用该漏洞导致低权限用户访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.axis.com/dam/public/1f/f8/f0/cve-2025-6571pdf-en-US-504216.pdf",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.axis.com/dam/public/1f/f8/f0/cve-2025-6571pdf-en-US-504216.pdf",
+    "patch": "AXIS OS存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-11-21",
+    "update_time": "2025-11-21",
+    "data_summary": "27bce28853a8c2eea9586125a32a3d52"
+}

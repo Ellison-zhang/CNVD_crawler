@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 09:05:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12614",
+    "spider_time": 1750064726595,
+    "name": "WordPress Element Pack Pro plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-12614",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Element Pack Pro plugin <8.0.0\"]",
+    "cve": "CVE-2025-46257",
+    "description": "WordPress Element Pack Pro plugin是一个 WordPress编辑器插件的扩展插件，主要用于增强和扩展WordPress网站的功能和设计能力。WordPress Element Pack Pro plugin存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/bdthemes-element-pack/vulnerability/wordpress-element-pack-pro-plugin-7-18-12-cross-site-request-forgery-csrf-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "346f1c6e6bd425f3aa64b15bba553ae2"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 10:04:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18350",
+    "spider_time": 1755079458710,
+    "name": "Tenda FH1205 fromWizardHandle函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18350",
+    "publish": "2025-08-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:N",
+    "product": "[\"Tenda FH1205 2.0.0.7(775)\"]",
+    "cve": "CVE-2024-32307",
+    "description": "Tenda FH1205是一款面向家庭用户的双频无线路由器，支持IEEE 802.11ac标准，无线速率达1200Mbps，工作频段包括2.4GHz和5GHz。Tenda FH1205存在缓冲区溢出漏洞，该漏洞源于fromWizardHandle方法的PPW参数未能正确验证输入数据的长度大小，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/FH/FH1205/fromWizardHandle.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-2236.html",
+    "patch": "Tenda FH1205 fromWizardHandle函数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-22",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "20b022a88cefc1ba67c2c2b433a36c1b"
+}

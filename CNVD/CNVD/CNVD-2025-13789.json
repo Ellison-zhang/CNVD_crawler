@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 09:05:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13789",
+    "spider_time": 1750928713400,
+    "name": "TOTOLINK N600R缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-13789",
+    "publish": "2025-06-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK N600R V4.3.0cu.7866_B2022506\"]",
+    "cve": "CVE-2025-46060",
+    "description": "TOTOLINK N600R是中国吉翁电子（TOTOLINK）公司的一款无线路由器。TOTOLINK N600R V4.3.0cu.7866_B2022506版本存在缓冲区溢出漏洞，该漏洞源于UPLOAD_FILENAME组件未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-46060",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttp://totolink.com",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-24",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "80f9563c5ff6344dac9e98168fb68a87"
+}

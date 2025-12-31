@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-14 03:28:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18429",
+    "spider_time": 1755142094041,
+    "name": "D-Link DI-8200 yyxz_dlink_asp函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18429",
+    "publish": "2025-08-14",
+    "severity": "低",
+    "cvss_vector": "AV:A/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"D-Link DI_8200 16.07.26A1\"]",
+    "cve": "CVE-2025-51385",
+    "description": "D-Link DI_8200是D-Link专为中小型网络环境设计的一款上网行为管理路由器，支持多线路带宽叠加、PPPoE认证计费、智能流量控制等功能。D-Link DI_8200存在缓冲区溢出漏洞，该漏洞源于yyxz_dlink_asp函数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/draw-hub/zMeedA/blob/master/CVE-2025-51385.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en/security-bulletin/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-10",
+    "open_time": "2025-08-14",
+    "update_time": "2025-08-14",
+    "data_summary": "f396f4521e9e6eb96747ce3ef866ad81"
+}

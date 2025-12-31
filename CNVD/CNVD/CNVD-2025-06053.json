@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-28 09:04:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06053",
+    "spider_time": 1743152656810,
+    "name": "ZTE GoldenDB不当权限管理漏洞",
+    "cnvd": "CNVD-2025-06053",
+    "publish": "2025-03-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"ZTE ZTE GoldenDB >=6.1.03\\uff0c<=6.1.03.04\"]",
+    "cve": "CVE-2025-26703",
+    "description": "ZTE GoldenDB是中国中兴通讯（ZTE）公司的一款金融级交易型分布式数据库。用于金融、政企、电信等行业，提供高可用数据服务。ZTE GoldenDB 6.1.03至6.1.03.04版本存在不当权限管理漏洞，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://support.zte.com.cn/zte-iccp-isupport-webui/bulletin/detail/5666152569221570627",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.zte.com.cn/zte-iccp-isupport-webui/bulletin/detail/5666152569221570627",
+    "patch": "ZTE GoldenDB不当权限管理漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-14",
+    "open_time": "2025-03-28",
+    "update_time": "2025-03-28",
+    "data_summary": "e9aed2cab66545d353491a9622423385"
+}

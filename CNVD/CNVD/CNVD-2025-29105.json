@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-24 07:12:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29105",
+    "spider_time": 1763968341739,
+    "name": "WordPress ChatBot plugin缺少授权漏洞",
+    "cnvd": "CNVD-2025-29105",
+    "publish": "2025-11-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress ChatBot plugin <=7.3.9\"]",
+    "cve": "CVE-2025-64277",
+    "description": "WordPress ChatBot plugin是为WordPress网站提供实时聊天和AI聊天机器人功能的工具，帮助用户与访客进行即时沟通、提升客户满意度并优化销售转化。WordPress ChatBot plugin存在缺少授权漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/chatbot/vulnerability/wordpress-chatbot-plugin-7-3-9-broken-access-control-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/chatbot/",
+    "patch": "WordPress ChatBot plugin缺少授权漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-11-21",
+    "update_time": "2025-11-21",
+    "data_summary": "1ee33293aedd2ec5d4e1b2a1a76d73ae"
+}

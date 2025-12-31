@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-28 02:32:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22714",
+    "spider_time": 1759026755429,
+    "name": "Dell SupportAssist for Home PCs权限提升漏洞",
+    "cnvd": "CNVD-2025-22714",
+    "publish": "2025-09-28",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Dell SupportAssist for Home PCs <=4.8.2.29006\"]",
+    "cve": "CVE-2025-38738",
+    "description": "Dell SupportAssist for Home PCs是美国戴尔（Dell）公司的一款适用于家庭电脑的客户端应用程序，该程序提供自动化、主动和预测性技术进行故障排除等。Dell SupportAssist for Home PCs存在权限提升漏洞，该漏洞源于安装程序中权限分配不当，攻击者可利用该漏洞通过权限提升，获取系统管理员权限，控制整个系统。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-38738",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000356690/dsa-2025-296-security-update-for-dell-supportassist-for-home-pcs-and-dell-supportassist-for-business-pcs-vulnerabilities",
+    "patch": "Dell SupportAssist for Home PCs权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-09-28",
+    "update_time": "2025-09-28",
+    "data_summary": "ed67d3916074d32efc9a205ca11e9e55"
+}

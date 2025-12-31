@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-19 11:03:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28794",
+    "spider_time": 1763550230623,
+    "name": "D-Link DIR-823G拒绝服务漏洞",
+    "cnvd": "CNVD-2025-28794",
+    "publish": "2025-11-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"D-Link DIR-823G v1.0.2B05\"]",
+    "cve": "CVE-2025-60332",
+    "description": "D-Link DIR-823G是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-823G A1 v1.0.2B05版本存在安全漏洞，该漏洞源于SetWLanRadioSettings函数存在空指针取消引用。攻击者可以利用该漏洞造成DoS。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-60332",
+    "solution": "目前没有详细的解决方案提供：\nhttps://www.dlink.com/en/security-bulletin/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "c7d26d94cf98d19b510d051133fb578e"
+}

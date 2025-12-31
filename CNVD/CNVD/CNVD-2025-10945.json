@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 08:05:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10945",
+    "spider_time": 1748505903583,
+    "name": "D-Link DAP-2695 /adv_dhcps.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-10945",
+    "publish": "2025-05-29",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:P/A:N",
+    "product": "[\"D-Link DAP-2695 120b36r137_ALL_en_20210528\"]",
+    "cve": "CVE-2025-4860",
+    "description": "D-Link DAP-2695是中国友讯（D-Link）公司的一款高性能双频无线接入点。D-Link DAP-2695存在跨站脚本漏洞，该漏洞源于文件/adv_dhcps.php中参数f_mac对用户提供的数据缺乏有效过滤与转义，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/fizz-is-on-the-way/Iot_vuls/tree/main/DAP-2695/XSS_Static_Pool_Settings",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.dlink.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-22",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "3b907d5496b13f9f31b32ac71f57d8d2"
+}

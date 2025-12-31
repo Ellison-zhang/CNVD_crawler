@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-30 09:04:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25839",
+    "spider_time": 1761815069795,
+    "name": "WordPress bbp-move-topics plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-25839",
+    "publish": "2025-10-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"WordPress bbp-move-topics plugin <=1.1.6\"]",
+    "cve": "CVE-2025-49959",
+    "description": "WordPress bbp-move-topics plugin是WordPress的开源论坛插件，由Automattic开发，支持用户通过WordPress后台管理论坛。WordPress bbp-move-topics plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/bbp-move-topics/vulnerability/wordpress-bbpress-move-topics-plugin-1-1-6-cross-site-scripting-xss-vulnerability",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/bbp-move-topics/",
+    "patch": "WordPress bbp-move-topics plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-24",
+    "open_time": "2025-10-30",
+    "update_time": "2025-10-30",
+    "data_summary": "9dea56f95c5f17d2779a62761ab759fe"
+}

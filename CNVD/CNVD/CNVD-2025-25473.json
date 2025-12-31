@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-28 10:06:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25473",
+    "spider_time": 1761646015003,
+    "name": "IBM Aspera信息泄露漏洞（CNVD-2025-25473）",
+    "cnvd": "CNVD-2025-25473",
+    "publish": "2025-10-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"IBM Aspera Faspex >=5.0.0\\uff0c<=5.0.13.1\"]",
+    "cve": "CVE-2025-36225",
+    "description": "IBM Aspera是美国国际商业机器（IBM）公司的一套基于IBM FASP协议构建的快速文件传输和流解决方案。IBM Aspera存在信息泄露漏洞，该漏洞源于返回数据存在可观察差异，攻击者可利用该漏洞导致敏感用户信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36225",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7247502",
+    "patch": "IBM Aspera信息泄露漏洞（CNVD-2025-25473）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-27",
+    "update_time": "2025-10-27",
+    "data_summary": "bebfa6ebcf425bff49e885714b8e25b3"
+}

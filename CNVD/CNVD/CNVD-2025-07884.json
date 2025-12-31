@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-21 11:03:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07884",
+    "spider_time": 1745233398878,
+    "name": "ASUS AiCloud鉴权控制不当漏洞",
+    "cnvd": "CNVD-2025-07884",
+    "publish": "2025-04-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:P",
+    "product": "[\"ASUS ASUS AiCloud 3.0.0.4_382\\u7cfb\\u5217\", \"ASUS ASUS AiCloud 3.0.0.4_386\\u7cfb\\u5217\", \"ASUS ASUS AiCloud 3.0.0.4_388\\u7cfb\\u5217\", \"ASUS ASUS AiCloud 3.0.0.6_102\\u7cfb\\u5217\"]",
+    "cve": "CVE-2025-2492",
+    "description": "‌AiCloud是华硕推出的一种云服务，旨在提供轻松访问路由器后接设备如USB或PC内部的资料，并提供上传、下载、在线播放音乐、在线浏览文档、分享链接至Facebook、设定Smart Sync云端时时同步等功能‌‌。ASUS AiCloud存在鉴权控制不当漏洞，攻击者可利用漏洞在设备上执行未经授权的函数执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布升级版本修复漏洞，请广大用户及时下载更新：\nhttps://www.asus.com",
+    "patch": "ASUS AiCloud鉴权控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-21",
+    "open_time": "2025-04-21",
+    "update_time": "2025-04-21",
+    "data_summary": "617fc2546d4e7cc1b21a71a11b10ba34"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 09:04:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08443",
+    "spider_time": 1745744687024,
+    "name": "艾默生电气（中国）投资有限公司艾默生DCS DeltaV MQ Controller存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-08443",
+    "publish": "2025-04-27",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u827e\\u9ed8\\u751f\\u7535\\u6c14\\uff08\\u4e2d\\u56fd\\uff09\\u6295\\u8d44\\u6709\\u9650\\u516c\\u53f8 \\u827e\\u9ed8\\u751fDCS DeltaV MQ Controller\"]",
+    "cve": null,
+    "description": "艾默生电气（中国）投资有限公司是一家全球性的技术与工程公司。艾默生电气（中国）投资有限公司艾默生DCS DeltaV MQ Controller存在拒绝服务漏洞,攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.emerson.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "13f448bdaf8b72e11198f92569aeb236"
+}

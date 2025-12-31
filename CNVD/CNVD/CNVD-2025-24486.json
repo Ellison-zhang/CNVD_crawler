@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-22 07:04:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24486",
+    "spider_time": 1761116659191,
+    "name": "Tenda AC6输入验证不当漏洞",
+    "cnvd": "CNVD-2025-24486",
+    "publish": "2025-10-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:P",
+    "product": "[\"Tenda AC6 US_AC6V1.0BR_V15.03.05.16_multi_TD01\"]",
+    "cve": "CVE-2025-57528",
+    "description": "Tenda AC6是腾达（Tenda）推出的一款双频无线路由器，支持2.4GHz和5GHz频段，最高传输速率达1167Mbps。Tenda AC6存在输入验证不当漏洞，该漏洞源于对formSetCfm函数中funcname、funcpara1和funcpara2参数处理不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/faqiadegege/IoTVuln/blob/main/tendaAc6_formSetCfm_funcname_overflow/detail.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-25",
+    "open_time": "2025-10-22",
+    "update_time": "2025-10-22",
+    "data_summary": "4c2c34f568aee6bebe1e23fa4a59f5f2"
+}

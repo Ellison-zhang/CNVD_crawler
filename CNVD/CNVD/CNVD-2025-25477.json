@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-28 10:06:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25477",
+    "spider_time": 1761646019032,
+    "name": "Microsoft Azure Monitor跨站脚本漏洞（CNVD-2025-25477）",
+    "cnvd": "CNVD-2025-25477",
+    "publish": "2025-10-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Microsoft Microsoft Azure Monitor\"]",
+    "cve": "CVE-2025-55321",
+    "description": "Microsoft Azure Monitor是美国微软（Microsoft）公司的一种新式的可观测性工具，可以实现面向应用程序、基础结构和网络的端到端的监视功能。Microsoft Azure Monitor存在跨站脚本漏洞，该漏洞源于网页生成期间输入中和不当，攻击者可利用该漏洞导致跨站脚本攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-55321",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-55321",
+    "patch": "Microsoft Azure Monitor跨站脚本漏洞（CNVD-2025-25477）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-28",
+    "update_time": "2025-10-28",
+    "data_summary": "96afc805a7a2e377cd4a766df3b3368f"
+}

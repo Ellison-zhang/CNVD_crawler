@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-19 11:03:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18838",
+    "spider_time": 1755601423044,
+    "name": "WordPress Inline Stock Quotes plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-18838",
+    "publish": "2025-08-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Inline Stock Quotes plugin <=0.2\"]",
+    "cve": "CVE-2025-8688",
+    "description": "WordPress Inline Stock Quotes plugin是WordPress的一款插件，允许用户通过[stock]短代码动态插入股票行情信息到文章或页面中，支持实时更新股票报价和动态数据。WordPress Inline Stock Quotes plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.svn.wordpress.org/inline-stock-quotes/trunk/inline-quotes.php",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-19",
+    "update_time": "2025-08-19",
+    "data_summary": "5e76aac4b74e300894aec98dbf19c4c2"
+}

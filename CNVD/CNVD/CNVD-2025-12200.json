@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-12 07:10:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12200",
+    "spider_time": 1749712215329,
+    "name": "万洲电气股份有限公司WEMS能源管理中心系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-12200",
+    "publish": "2025-06-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u4e07\\u6d32\\u7535\\u6c14\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 WEMS\\u80fd\\u6e90\\u7ba1\\u7406\\u4e2d\\u5fc3\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "万洲电气股份有限公司是集科研开发、生产销售、技术服务于一体的科技型股份制企业。万洲电气股份有限公司WEMS能源管理中心系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.wanzhou.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-06-12",
+    "update_time": "2025-06-12",
+    "data_summary": "54bb9c2548057a5f8980612b2cf92eae"
+}

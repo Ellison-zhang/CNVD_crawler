@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 09:05:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08438",
+    "spider_time": 1745744709895,
+    "name": "普联技术有限公司TL-IPC43AN-4GY云台网络摄像机存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-08438",
+    "publish": "2025-04-27",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u666e\\u8054\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 TL-IPC43AN-4GY\\u4e91\\u53f0\\u7f51\\u7edc\\u6444\\u50cf\\u673a\"]",
+    "cve": null,
+    "description": "普联技术有限公司是全球领先的网络通讯设备供应商，主要提供网络通讯设备和解决方案。普联技术有限公司TL-IPC43AN-4GY云台网络摄像机存在拒绝服务漏洞,攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.tp-link.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "9af50d979dee0b37a18977c7daf280c7"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 07:06:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17304",
+    "spider_time": 1753945581113,
+    "name": "WordPress iThoughts Advanced Code Editor跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-17304",
+    "publish": "2025-07-31",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress iThoughts Advanced Code Editor <=1.2.10\"]",
+    "cve": "CVE-2025-7835",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品，WordPress plugin是一个应用插件。WordPress iThoughts Advanced Code Editor存在跨站请求伪造漏洞，该漏洞源于缺少或错误的随机数验证，攻击者可利用该漏洞通过用户已登录目标网站后，诱使用户访问攻击页面，发起伪造操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7835",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-30",
+    "open_time": "2025-07-31",
+    "update_time": "2025-07-31",
+    "data_summary": "ad4fdc5125d535325863d2eaa4c3387b"
+}

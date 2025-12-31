@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-20 09:05:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18920",
+    "spider_time": 1755680705450,
+    "name": "WordPress WPBakery Page Builder跨站脚本漏洞",
+    "cnvd": "CNVD-2025-18920",
+    "publish": "2025-08-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress WPBakery Page Builder <=8.5\"]",
+    "cve": "CVE-2025-7502",
+    "description": "WordPress WPBakery Page Builder是WordPress平台上的可视化页面构建器插件，通过拖放界面实现复杂布局设计，无需编写代码即可创建响应式网页。WordPress WPBakery Page Builder存在跨站脚本漏洞，该漏洞源于输入清理和转义不足，攻击者可利用该漏洞在页面中注入任意Web脚本，这些脚本将在用户访问注入的页面时执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7502",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress WPBakery Page Builder跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-12",
+    "open_time": "2025-08-20",
+    "update_time": "2025-08-20",
+    "data_summary": "2772ad42ead9c3e086739848e52ac4a2"
+}

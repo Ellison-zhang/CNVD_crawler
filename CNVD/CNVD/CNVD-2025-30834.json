@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-17 03:29:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30834",
+    "spider_time": 1765942164752,
+    "name": "帆软软件有限公司FineReport、FineBI及FineDataLink存在命令注入漏洞",
+    "cnvd": "CNVD-2025-30834",
+    "publish": "2025-12-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u5e06\\u8f6f\\u8f6f\\u4ef6\\u6709\\u9650\\u516c\\u53f8 FineReport <11.5.4.1\", \"\\u5e06\\u8f6f\\u8f6f\\u4ef6\\u6709\\u9650\\u516c\\u53f8 FineBI <7.0.5\", \"\\u5e06\\u8f6f\\u8f6f\\u4ef6\\u6709\\u9650\\u516c\\u53f8 FineBI <6.1.8\", \"\\u5e06\\u8f6f\\u8f6f\\u4ef6\\u6709\\u9650\\u516c\\u53f8 FineDataLink <5.0.4.3\", \"\\u5e06\\u8f6f\\u8f6f\\u4ef6\\u6709\\u9650\\u516c\\u53f8 FineDataLink <4.2.11.3\"]",
+    "cve": null,
+    "description": "FineReport是一款领先的企业级Web报表工具。FineBI是新一代自助式BI工具。FineDataLink是一款低代码/高时效的企业级一站式数据集成与治理平台产品。帆软软件有限公司FineReport、FineBI及FineDataLink存在命令注入漏洞，攻击者可利用漏洞在服务器上执行任意系统命令，获取服务器权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布补丁修复漏洞，请广大用户及时下载更新：\nhttps://help.fanruan.com/finereport/doc-view-4833.html",
+    "patch": "帆软软件有限公司FineReport、FineBI及FineDataLink存在命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-16",
+    "open_time": "2025-12-17",
+    "update_time": "2025-12-17",
+    "data_summary": "184f9a6b4d626c5b22d6a1281fe1e524"
+}

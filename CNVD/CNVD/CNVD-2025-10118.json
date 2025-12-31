@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-20 03:22:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10118",
+    "spider_time": 1747711340335,
+    "name": "北京北大方正电子有限公司方正畅享全媒体新闻采编系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-10118",
+    "publish": "2025-05-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u5317\\u5927\\u65b9\\u6b63\\u7535\\u5b50\\u6709\\u9650\\u516c\\u53f8 \\u65b9\\u6b63\\u7545\\u4eab\\u5168\\u5a92\\u4f53\\u65b0\\u95fb\\u91c7\\u7f16\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "北京北大方正电子有限公司是一家在印刷、传媒、出版、字库等领域具有领先地位的技术和服务提供商。北京北大方正电子有限公司方正畅享全媒体新闻采编系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.founder.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-05",
+    "open_time": "2025-05-20",
+    "update_time": "2025-05-20",
+    "data_summary": "de5317437fae2ba8dc239b0449708659"
+}

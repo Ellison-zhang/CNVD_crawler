@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-12 03:24:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12177",
+    "spider_time": 1749698656105,
+    "name": "GNU PSPP spvxml_parse_attributes越界读取漏洞",
+    "cnvd": "CNVD-2025-12177",
+    "publish": "2025-06-12",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:N/I:N/A:P",
+    "product": "[\"GNU PSPP <=2.0.1\"]",
+    "cve": "CVE-2025-47816",
+    "description": "GNU PSPP是美国GNU社区的一款用于数据采样、统计和分析的应用程序。GNU PSPP存在越界读取漏洞，该漏洞源于spvxml_parse_attributes，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://access.redhat.com/security/cve/cve-2025-47816",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-30",
+    "open_time": "2025-06-12",
+    "update_time": "2025-06-12",
+    "data_summary": "0924bf83857faebe641b80308e783228"
+}

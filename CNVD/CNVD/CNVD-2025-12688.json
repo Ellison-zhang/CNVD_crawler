@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 04:09:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12688",
+    "spider_time": 1750133371293,
+    "name": "Tenda A15拒绝服务漏洞",
+    "cnvd": "CNVD-2025-12688",
+    "publish": "2025-06-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Tenda A15 15.13.07.13\"]",
+    "cve": "CVE-2025-4867",
+    "description": "Tenda A15是中国腾达（Tenda）公司的一款WiFi扩展器。Tenda A15存在拒绝服务漏洞，该漏洞源于对文件/goform/ArpNerworkSet的函数formArpNerworkSet错误操作，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/xubeining/Cve_report/blob/main/Notification%20of%20Denial%20of%20Service%20Vulnerability%20in%20Tenda%20A15%20Router%20(Version%20V15.13.07.13)%20by%20Shenzhen%20Jixiang%20Tenda%20Technology.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-22",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "180ae3af6c0f562540ac9ec9dbef258d"
+}

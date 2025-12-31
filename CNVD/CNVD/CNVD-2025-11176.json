@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-30 03:22:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11176",
+    "spider_time": 1748575332004,
+    "name": "CampCodes Online Shopping Portal /forgot-password.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-11176",
+    "publish": "2025-05-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Campcodes Online Shopping Portal 1.0\"]",
+    "cve": "CVE-2025-4875",
+    "description": "CampCodes Online Shopping Portal是CampCodes公司的一个网上购物门户。Campcodes Online Shopping Portal存在SQL注入漏洞，该漏洞源于文件/forgot-password.php中参数email缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/arpcyber040/CVE/issues/2",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.campcodes.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-22",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "4b582e8f7fa626292679289c8469124e"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-02 08:05:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06302",
+    "spider_time": 1743581159917,
+    "name": "Xiaomi AX1800等命令注入漏洞",
+    "cnvd": "CNVD-2025-06302",
+    "publish": "2025-04-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Xiaomi AX1800 rom <1.0.336\", \"Xiaomi RM1800 root <1.0.26\"]",
+    "cve": "CVE-2020-14102",
+    "description": "Xiaomi AX1800是中国小米公司的一款路由器。Xiaomi AX1800等存在命令注入漏洞，攻击者可利用该漏洞提交特殊的请求，注入任意OS命令并执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2020-14102",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=23&locale=en",
+    "patch": "Xiaomi AX1800等命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-01-18",
+    "open_time": "2025-04-02",
+    "update_time": "2025-04-02",
+    "data_summary": "dbfbaeae29410c69c996ef48eeafb835"
+}

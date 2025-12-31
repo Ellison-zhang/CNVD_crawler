@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-10 23:08:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27246",
+    "spider_time": 1762816101795,
+    "name": "WordPress King Addons for Elementor plugin权限提升漏洞",
+    "cnvd": "CNVD-2025-27246",
+    "publish": "2025-11-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress King Addons for Elementor plugin >=24.12.92\\uff0c<=51.1.14\"]",
+    "cve": "CVE-2025-8489",
+    "description": "WordPress King Addons for Elementor plugin是专为Elementor页面构建器设计的扩展插件‌，提供大量预设模板、组件和功能，用于快速构建WordPress网站。WordPress King Addons for Elementor plugin存在权限提升漏洞，该漏洞源于未正确限制用户注册角色，攻击者可利用该漏洞注册管理员级别账户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/king-addons/tags/24.12.93/includes/widgets/Login_Register_Form/Login_Register_Form_Ajax.php#L353",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/king-addons",
+    "patch": "WordPress King Addons for Elementor plugin权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-05",
+    "open_time": "2025-11-07",
+    "update_time": "2025-11-07",
+    "data_summary": "940bc27ae5ae76d7f7eabf950bb3887f"
+}

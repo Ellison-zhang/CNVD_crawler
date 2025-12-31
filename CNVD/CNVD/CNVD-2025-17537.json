@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-05 10:04:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17537",
+    "spider_time": 1754388268989,
+    "name": "TOTOLINK A702R缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-17537",
+    "publish": "2025-08-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A702R 4.0.0B20230721.1521\"]",
+    "cve": "CVE-2025-8137",
+    "description": "TOTOLINK A702R是中国吉翁电子（TOTOLINK）公司生产的无线路由器设备，主要用于家庭网络连接和信号覆盖。TOTOLINK A702R存在缓冲区溢出漏洞，该漏洞源于HTTP POST请求处理组件中/boafrm/formIpQoS文件对mac参数的处理不当。攻攻击者可利用该漏洞执行任意代码或导致设备崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.317533\nhttps://vuldb.com/?ctiid.317533\nhttps://vuldb.com/?submit.620483\nhttps://github.com/panda666-888/vuls/blob/main/totolink/a702r/formIpQoS.md\nhttps://www.totolink.net/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-28",
+    "open_time": "2025-08-05",
+    "update_time": "2025-08-05",
+    "data_summary": "5c57b9482250bac2b126358a3ee9c2de"
+}

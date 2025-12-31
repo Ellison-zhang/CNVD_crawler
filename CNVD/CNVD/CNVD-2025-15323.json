@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-09 03:29:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15323",
+    "spider_time": 1752031763904,
+    "name": "TOTOLINK X6000R信任管理问题漏洞",
+    "cnvd": "CNVD-2025-15323",
+    "publish": "2025-07-09",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"TOTOLINK X6000R 9.4.0cu.852_B20230719\"]",
+    "cve": "CVE-2024-1661",
+    "description": "TOTOLINK X6000R是中国吉翁电子（TOTOLINK）公司的一款无线路由器。TOTOLINK X6000R存在信任管理问题漏洞，该漏洞源于文件/etc/shadow存在硬编码凭据。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.254179",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-01",
+    "open_time": "2025-07-09",
+    "update_time": "2025-07-09",
+    "data_summary": "53a88bc52bfeaabbdf4d385a61b67426"
+}

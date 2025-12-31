@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 11:03:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18719",
+    "spider_time": 1755255810480,
+    "name": "WordPress UiCore Elements plugin任意文件读取漏洞",
+    "cnvd": "CNVD-2025-18719",
+    "publish": "2025-08-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress UiCore Elements plugin <=1.3.0\"]",
+    "cve": "CVE-2025-6253",
+    "description": "WordPress UiCore Elements plugin是一款专为Elementor页面构建器设计的插件，旨在扩展其功能并提升网站设计能力。WordPress UiCore Elements plugin存在任意文件读取漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/changeset/3314574/uicore-elements#file3",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/uicore-elements/",
+    "patch": "WordPress UiCore Elements plugin任意文件读取漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-15",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "ffb2ac5e1bf2da1d222213923e1d6b3f"
+}

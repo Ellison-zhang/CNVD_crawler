@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:29:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07462",
+    "spider_time": 1744946943181,
+    "name": "理光（中国）投资有限公司MP C2004ex存在弱口令漏洞",
+    "cnvd": "CNVD-2025-07462",
+    "publish": "2025-04-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u7406\\u5149\\uff08\\u4e2d\\u56fd\\uff09\\u6295\\u8d44\\u6709\\u9650\\u516c\\u53f8 MP C2004ex\"]",
+    "cve": null,
+    "description": "MP C2004ex是一款多功能数码复合机，具备打印、复印、扫描和传真功能‌。理光（中国）投资有限公司MP C2004ex存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.ricoh.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-26",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "95f36a165a5d9852e8db9d978e0bc3f1"
+}

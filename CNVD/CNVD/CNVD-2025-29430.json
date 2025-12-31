@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-28 09:12:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29430",
+    "spider_time": 1764321149505,
+    "name": "Desktop Alert PingAlert访问控制不当漏洞（CNVD-2025-29430）",
+    "cnvd": "CNVD-2025-29430",
+    "publish": "2025-11-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:P",
+    "product": "[\"Desktop Alert PingAlert >=6.1.0.11\\uff0c<=6.1.1.2\"]",
+    "cve": "CVE-2025-54339",
+    "description": "Desktop Alert PingAlert是美国Desktop Alert公司开发的网络状态监控工具‌，主要用于实时监控网络设备状态并发送警报。Desktop Alert PingAlert存在访问控制不当漏洞，该漏洞源于应用程序服务器访问控制不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-54339",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://desktopalert.net/cve-2025-54339/",
+    "patch": "Desktop Alert PingAlert访问控制不当漏洞（CNVD-2025-29430）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-11-27",
+    "update_time": "2025-11-27",
+    "data_summary": "de0795a7435a0fb5b9c3d04646d6298a"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-16 09:12:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21254",
+    "spider_time": 1758013966942,
+    "name": "Cisco Integrated Management Controller输入验证错误漏洞",
+    "cnvd": "CNVD-2025-21254",
+    "publish": "2025-09-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:P/A:N",
+    "product": "[\"Cisco Integrated Management Controller\"]",
+    "cve": "CVE-2025-20317",
+    "description": "Cisco Integrated Management Controller（IMC）是美国思科（Cisco）公司的一套用于对UCS（统一计算系统）进行管理的软件，该软件支持HTTP、SSH访问等，并可对服务器进行开机、关机和重启等操作。Cisco Integrated Management Controller存在输入验证错误漏洞，该漏洞源于vKVM端点验证不足，攻击者可利用该漏洞通过上传恶意文件，绕过文件类型限制，执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20317",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ucs-vkvmorv-CnKrV7HK",
+    "patch": "Cisco Integrated Management Controller输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-09",
+    "open_time": "2025-09-15",
+    "update_time": "2025-09-15",
+    "data_summary": "5b14ca82a1c3732376cafa6726c14022"
+}

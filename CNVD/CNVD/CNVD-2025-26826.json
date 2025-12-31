@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-05 06:09:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26826",
+    "spider_time": 1762322998168,
+    "name": "DELL Wyse Management Suite路径遍历漏洞",
+    "cnvd": "CNVD-2025-26826",
+    "publish": "2025-11-03",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"DELL Wyse Management Suite <=3.6.1\"]",
+    "cve": "CVE-2022-29097",
+    "description": "DELL Wyse Management Suite是戴尔为Wyse瘦客户端设备提供的混合云安全管理解决方案，主要用于简化IT管理流程并增强设备安全性。DELL Wyse Management Suite存在路径遍历漏洞，攻击者可利用该漏洞未经授权访问服务器文件系统上存储的文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2022-29097",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-us/000200215/dsa-2022-143-dell-wyse-management-suite-security-update-for-multiple-vulnerabilities",
+    "patch": "DELL Wyse Management Suite路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-06-27",
+    "open_time": "2025-11-04",
+    "update_time": "2025-11-04",
+    "data_summary": "087a1d034926dc2e9d678ed613f368dc"
+}

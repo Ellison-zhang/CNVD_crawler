@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-10 07:08:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30363",
+    "spider_time": 1765350484995,
+    "name": "Billing System admin/index.php端点SQL注入漏洞",
+    "cnvd": "CNVD-2025-30363",
+    "publish": "2025-12-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Billing System Billing System 1.0\"]",
+    "cve": "CVE-2025-65380",
+    "description": "Billing System是一个计费系统。Billing System存在SQL注入漏洞，该漏洞源于admin/index.php端点中的username参数未经验证便直接拼接至后端SQL查询。攻击者可利用该漏洞通过提交恶意构造的用户名参数，执行任意SQL命令，窃取、篡改或删除数据库中的敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://phpgurukul.com/billing-system-using-php-and-mysql\nhttps://github.com/dewcode91/security-research/blob/main/CVE-2025-65380.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-09",
+    "open_time": "2025-12-10",
+    "update_time": "2025-12-10",
+    "data_summary": "b4f95541bae8c0ccedb737f82bb26524"
+}

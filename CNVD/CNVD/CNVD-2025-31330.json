@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-26 01:32:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31330",
+    "spider_time": 1766712775947,
+    "name": "WordPress Freshchat plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-31330",
+    "publish": "2025-12-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Freshchat plugin <=2.3.4\"]",
+    "cve": "CVE-2025-64240",
+    "description": "WordPress Freshchat plugin是一个用于在WordPress网站上集成实时聊天功能的工具，主要提供客户支持和用户互动功能。WordPress Freshchat plugin存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/freshchat/vulnerability/wordpress-freshchat-plugin-2-3-4-cross-site-request-forgery-csrf-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-22",
+    "open_time": "2025-12-25",
+    "update_time": "2025-12-25",
+    "data_summary": "d69e00fad7bce3b91f0fe21a6c473a40"
+}

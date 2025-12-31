@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-09 03:29:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15327",
+    "spider_time": 1752031757683,
+    "name": "TOTOLINK X2000R命令注入漏洞",
+    "cnvd": "CNVD-2025-15327",
+    "publish": "2025-07-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK X2000R X2000R_V2 2.0.0-B20230727.10434\"]",
+    "cve": "CVE-2024-22529",
+    "description": "TOTOLINK X2000R是中国吉翁电子推出的WiFi 6路由器，支持Easy Mesh功能，提供千兆网络连接和VPN服务。TOTOLINK X2000R存在命令注入漏洞，该漏洞源于在/bin/boa的sub_449040未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/unpWn4bL3/iot-security/blob/main/29.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-01-29",
+    "open_time": "2025-07-09",
+    "update_time": "2025-07-09",
+    "data_summary": "b15e31f5acff7ffe6d8e75e53dcad5eb"
+}

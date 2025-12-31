@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-08 06:05:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09232",
+    "spider_time": 1746684317315,
+    "name": "FreeBSD信息泄露漏洞（CNVD-2025-09232）",
+    "cnvd": "CNVD-2025-09232",
+    "publish": "2025-05-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"FreeBSD FreeBSD\"]",
+    "cve": "CVE-2024-45289",
+    "description": "FreeBSD是FreeBSD基金会的一套类Unix操作系统。FreeBSD存在信息泄露漏洞，攻击者可利用该漏洞攻击者获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-45289",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.freebsd.org/security/advisories/FreeBSD-SA-24:19.fetch.asc",
+    "patch": "FreeBSD信息泄露漏洞（CNVD-2025-09232）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-20",
+    "open_time": "2025-05-08",
+    "update_time": "2025-05-08",
+    "data_summary": "98e06f79236ebf4ad3d63b1d9fe72648"
+}

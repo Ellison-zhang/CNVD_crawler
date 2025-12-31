@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-05 09:09:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29935",
+    "spider_time": 1764925752023,
+    "name": "ASUS Router整数下溢漏洞",
+    "cnvd": "CNVD-2025-29935",
+    "publish": "2025-12-03",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"ASUS ASUS Router 3.0.0.4_386\", \"ASUS ASUS Router 3.0.0.4_388\", \"ASUS ASUS Router 3.0.0.6_102\"]",
+    "cve": "CVE-2025-59368",
+    "description": "ASUS Router是华硕公司推出的路由器产品及配套管理应用，主要用于家庭和企业网络的无线连接与管理。ASUS Router存在整数下溢漏洞，攻击者可利用该漏洞导致设备可用性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-59368",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.asus.com/security-advisory/",
+    "patch": "ASUS Router整数下溢漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-27",
+    "open_time": "2025-12-04",
+    "update_time": "2025-12-04",
+    "data_summary": "d88e13eaa7799fe1c4d9e5604e6903bc"
+}

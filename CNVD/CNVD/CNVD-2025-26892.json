@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-11 07:04:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26892",
+    "spider_time": 1762844679323,
+    "name": "多款Mozilla产品欺骗漏洞（CNVD-2025-26892）",
+    "cnvd": "CNVD-2025-26892",
+    "publish": "2025-11-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"Mozilla Firefox ESR <140.2\", \"Mozilla Firefox <142\"]",
+    "cve": "CVE-2025-9183",
+    "description": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Firefox ESR是Firefox（Web浏览器）的一个延长支持版本。多款Mozilla产品存在欺骗漏洞，该漏洞是由于地址栏组件中的错误引起的。攻击者可利用该漏洞进行欺骗攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.mozilla.org/security/advisories/mfsa2025-64/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2025-64/",
+    "patch": "多款Mozilla产品欺骗漏洞（CNVD-2025-26892）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-26",
+    "open_time": "2025-11-05",
+    "update_time": "2025-11-05",
+    "data_summary": "86a2abe64c9cb7773b4d5774ab1c5c5e"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-03 09:03:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06475",
+    "spider_time": 1743671028296,
+    "name": "Payroll Management System SQL注入漏洞（CNVD-2025-06475）",
+    "cnvd": "CNVD-2025-06475",
+    "publish": "2025-04-03",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Payroll Management System Payroll Management System 1.0\"]",
+    "cve": "CVE-2025-2854",
+    "description": "Payroll Management System是一个工资管理系统。Payroll Management System 1.0版本存在SQL注入漏洞，该漏洞源于参数emp_type缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-2854",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-03",
+    "open_time": "2025-04-03",
+    "update_time": "2025-04-03",
+    "data_summary": "4da9fb7b3bb81d2a54f7bb857ace068b"
+}

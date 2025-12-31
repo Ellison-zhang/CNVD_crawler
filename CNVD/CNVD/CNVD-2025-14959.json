@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-03 07:05:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14959",
+    "spider_time": 1751526355210,
+    "name": "Growatt Cloud Applications信息泄露漏洞（CNVD-2025-14959）",
+    "cnvd": "CNVD-2025-14959",
+    "publish": "2025-07-03",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Growatt Growatt Cloud Applications <=3.6.0\"]",
+    "cve": "CVE-2025-31357",
+    "description": "Growatt Cloud Applications是中国古瑞瓦特（Growatt）公司的一个监控平台。Growatt Cloud Applications 3.6.0及之前版本存在信息泄露漏洞，未经身份验证的攻击者可利用该漏洞通过用户名获取用户的植物列表。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-105-04",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://en.growatt.com/",
+    "patch": "Growatt Cloud Applications信息泄露漏洞（CNVD-2025-14959）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-07-03",
+    "update_time": "2025-07-03",
+    "data_summary": "7dae7176e4aeb589964da11335f46293"
+}

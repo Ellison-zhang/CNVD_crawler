@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-11 01:45:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27461",
+    "spider_time": 1762825532791,
+    "name": "Fortinet FortiWeb路径遍历漏洞",
+    "cnvd": "CNVD-2025-27461",
+    "publish": "2025-11-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Fortinet FortiWeb >=7.4.0\\uff0c<=7.4.6\", \"Fortinet FortiWeb >=7.6.0\\uff0c<=7.6.2\"]",
+    "cve": "CVE-2025-25254",
+    "description": "Fortinet FortiWeb是美国飞塔（Fortinet）公司的一款Web应用层防火墙，它能够阻断如跨站点脚本、SQL注入、Cookie中毒、schema中毒等攻击的威胁，保证Web应用程序的安全性并保护敏感的数据库内容。Fortinet FortiWeb存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素。攻击者可利用该漏洞通过特制请求访问和修改文件系统。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-25254",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-24-474",
+    "patch": "Fortinet FortiWeb路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-11-10",
+    "update_time": "2025-11-10",
+    "data_summary": "cd465a1f0d28edb2e1df3e0d2c4bc378"
+}

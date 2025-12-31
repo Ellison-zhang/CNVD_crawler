@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-01 10:04:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19920",
+    "spider_time": 1756721069509,
+    "name": "Google Android内存错误引用漏洞（CNVD-2025-19920）",
+    "cnvd": "CNVD-2025-19920",
+    "publish": "2025-09-01",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google android 15\"]",
+    "cve": "CVE-2025-22404",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在内存错误引用漏洞，该漏洞源于avct_lcb_act.cc中avct_lcb_msg_ind负责释放内存的指令发生混乱，攻击者可利用该漏洞权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://source.android.com/security/bulletin/2025-03-01",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-03-01",
+    "patch": "Google Android内存错误引用漏洞（CNVD-2025-19920）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-28",
+    "open_time": "2025-09-01",
+    "update_time": "2025-09-01",
+    "data_summary": "3731d2835b28f4c0dee9418f3dbde17b"
+}

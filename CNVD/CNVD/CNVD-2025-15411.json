@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-10 08:05:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15411",
+    "spider_time": 1752134741932,
+    "name": "WordPress Lead Form Data Collection to CRM plugin权限提升漏洞",
+    "cnvd": "CNVD-2025-15411",
+    "publish": "2025-07-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress Lead Form Data Collection to CRM plugin <=3.1\"]",
+    "cve": "CVE-2025-5692",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品，WordPress plugin是一个应用插件。WordPress Lead Form Data Collection to CRM plugin存在权限提升漏洞，该漏洞源于函数doFieldAjaxAction能力检查缺失，攻击者可利用该漏洞篡改系统配置，植入恶意软件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5692",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/wp-leads-builder-any-crm",
+    "patch": "WordPress Lead Form Data Collection to CRM plugin权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-08",
+    "open_time": "2025-07-10",
+    "update_time": "2025-07-10",
+    "data_summary": "a1a20e705988180ef34ef6c368468448"
+}

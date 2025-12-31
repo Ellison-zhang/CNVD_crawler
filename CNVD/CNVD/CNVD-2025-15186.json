@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-07 10:04:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15186",
+    "spider_time": 1751882673923,
+    "name": "Dell Unisphere for PowerMax vApp静态代码注入漏洞",
+    "cnvd": "CNVD-2025-15186",
+    "publish": "2025-07-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"DELL Unisphere for PowerMax vApp 9.2.4.x\"]",
+    "cve": "CVE-2025-36595",
+    "description": "Dell Unisphere是戴尔推出的统一存储管理平台。Dell Unisphere for PowerMax vApp存在静态代码注入漏洞，该漏洞源于对静态保存代码中的指令未进行恰当中和处理。攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36595",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000337554/dsa-2025-235-dell-powermaxos-dell-powermax-eem-dell-unisphere-for-powermax-dell-unisphere-for-powermax-virtual-appliance-dell-unisphere-360-dell-solutions-enabler-and-dell-solutions-enabler-virtual-appliance-security-update-for-multiple-vulnerabilit",
+    "patch": "Dell Unisphere for PowerMax vApp静态代码注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-30",
+    "open_time": "2025-07-07",
+    "update_time": "2025-07-07",
+    "data_summary": "ce3d789fcb7ef3ebec6e0f6c41f92ae0"
+}

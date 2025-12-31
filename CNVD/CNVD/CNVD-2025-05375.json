@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 09:03:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05375",
+    "spider_time": 1742375038104,
+    "name": "Linux kernel资源管理错误漏洞",
+    "cnvd": "CNVD-2025-05375",
+    "publish": "2025-03-19",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Linux Linux kernel 6.14\", \"Linux Linux kernel >=6.13\\uff0c<6.13.5\", \"Linux Linux kernel >=6.2\\uff0c<6.6.80\", \"Linux Linux kernel >=6.7\\uff0c<6.12.17\", \"Linux Linux kernel >=4.2\\uff0c<6.1.130\"]",
+    "cve": "CVE-2025-21858",
+    "description": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。Linux kernel存在资源管理错误漏洞，该漏洞源于在销毁网络命名空间时未正确释放设备，可能导致释放后重用。该漏洞源于网络系统或产品的环境因素不合理。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-21858",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/3ce92ca990cfac88a87c61df3cc0b5880e688ecf",
+    "patch": "Linux kernel资源管理错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-18",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "3ca17e157bbba6a6c7235ad9df8b2e8f"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-21 07:04:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07792",
+    "spider_time": 1745219040965,
+    "name": "NETGEAR WNR854T addmap_exec函数命令执行漏洞",
+    "cnvd": "CNVD-2025-07792",
+    "publish": "2025-04-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR WNR854T 1.5.2\"]",
+    "cve": "CVE-2024-54807",
+    "description": "NETGEAR WNR854T是美国网件（NETGEAR）公司的一款无线路由器。NETGEAR WNR854T 1.5.2版本存在命令执行漏洞，该漏洞源于addmap_exec函数未能正确过滤构造命令特殊字符、命令等。攻击者可利用此漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://faultpoint.com/post/2025-03-25-8-cves-on-the-wnr854t-junkyard/#807",
+    "solution": "目前没有详细解决方案提供：\nhttps://faultpoint.com/post/2025-03-25-8-cves-on-the-wnr854t-junkyard/#807",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-21",
+    "open_time": "2025-04-21",
+    "update_time": "2025-04-21",
+    "data_summary": "38266539f0f71c7407b719fadda45aab"
+}

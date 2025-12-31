@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 03:33:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16373",
+    "spider_time": 1753068812349,
+    "name": "Adobe After Effects越界读取漏洞（CNVD-2025-16373）",
+    "cnvd": "CNVD-2025-16373",
+    "publish": "2025-07-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Adobe After Effects <=25.2\", \"Adobe After Effects <=24.6.6\"]",
+    "cve": "CVE-2025-43587",
+    "description": "Adobe After Effects是美国奥多比（Adobe）公司的一套视觉效果和动态图形制作软件。该软件主要用于2D和3D合成、动画制作和视觉特效制作等。Adobe After Effects 25.2版本、24.6.6及之前版本存在越界读取漏洞，攻击者可利用该漏洞导致敏感内存泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/after_effects/apsb25-49.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/after_effects/apsb25-49.html",
+    "patch": "Adobe After Effects越界读取漏洞（CNVD-2025-16373）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "c4c577c18f323263927fb79c6844acea"
+}

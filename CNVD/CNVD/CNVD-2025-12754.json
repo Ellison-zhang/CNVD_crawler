@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 07:05:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12754",
+    "spider_time": 1750230328619,
+    "name": "SAP Learning Solution跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-12754",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"SAP SAP Learning Solution\"]",
+    "cve": "CVE-2025-31328",
+    "description": "SAP Learning Solution是德国思爱普（SAP）公司的一个企业级的学习管理系统。SAP Learning Solution存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。攻击者可利用该漏洞导致机密性和完整性受到影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-31328",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://me.sap.com/notes/3446649",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-07",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "2ede51b19c132c59c38d725affd17258"
+}

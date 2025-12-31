@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-20 06:11:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28683",
+    "spider_time": 1763619119051,
+    "name": "Ivanti Endpoint Manager反序列化漏洞",
+    "cnvd": "CNVD-2025-28683",
+    "publish": "2025-11-17",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Ivanti Endpoint Manager <2024 SU4\"]",
+    "cve": "CVE-2025-11622",
+    "description": "Ivanti Endpoint Manager是Ivanti公司开发的综合性端点管理解决方案，用于统一管理企业网络中的各类设备，包括Windows、macOS、Linux、ChromeOS、移动设备及物联网设备。Ivanti Endpoint Manager存在反序列化漏洞，该漏洞源于应用程序在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞导致本地认证用户权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Endpoint-Manager-EPM-October-2025",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.ivanti.com/products/endpoint-manager",
+    "patch": "Ivanti Endpoint Manager反序列化漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "ccfdb1786acb8636eb646c0a3fd8fcee"
+}

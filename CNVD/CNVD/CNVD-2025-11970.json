@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-09 11:03:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11970",
+    "spider_time": 1749467031084,
+    "name": "GNU GRUB缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11970",
+    "publish": "2025-06-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Gnu GNU GRUB <=2.12\"]",
+    "cve": "CVE-2024-56737",
+    "description": "GNU GRUB是GNU社区的一款Linux系统引导程序。GNU GRUB存在缓冲区溢出漏洞，该漏洞源于fs/hfs.c在处理不受信任的输入时出现边界错误。攻击者可利用该漏洞通过精心构造的sblock数据在HFS文件系统中导致的堆基缓冲区溢出。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://savannah.gnu.org/bugs/?66599",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-03",
+    "open_time": "2025-06-09",
+    "update_time": "2025-06-09",
+    "data_summary": "75a2b441214ce18e779e422d98d8273f"
+}

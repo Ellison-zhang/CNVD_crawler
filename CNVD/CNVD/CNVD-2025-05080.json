@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-13 09:06:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05080",
+    "spider_time": 1741856781773,
+    "name": "Esri ArcGIS Server跨站脚本漏洞（CNVD-2025-05080）",
+    "cnvd": "CNVD-2025-05080",
+    "publish": "2025-03-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"ESRI ArcGIS Server >=10.9.1\\uff0c<=11.3\"]",
+    "cve": "CVE-2024-51946",
+    "description": "Esri ArcGIS Server是Esri公司的一个面向Web的可用于提供地理位置服务的企业级软件平台。Esri ArcGIS Server 10.9.1至11.3版本存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/arcgis-server-security-2025-update-1-patch/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.esri.com/en-us/patches-updates/2025/arcgis-server-security-2025-update-1",
+    "patch": "Esri ArcGIS Server跨站脚本漏洞（CNVD-2025-05080）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-07",
+    "open_time": "2025-03-13",
+    "update_time": "2025-03-13",
+    "data_summary": "e47addd6ad10b19b2a71b54919ec1cc4"
+}

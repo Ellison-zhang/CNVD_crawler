@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 09:04:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12453",
+    "spider_time": 1749805462082,
+    "name": "WordPress FancyBox plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12453",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress FancyBox plugin <3.3.6\"]",
+    "cve": "CVE-2025-3662",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress FancyBox  plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wpscan.com/vulnerability/4cda12f0-3c23-44ad-80ea-db2443ebcf82/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/fancybox-for-wordpress/",
+    "patch": "WordPress FancyBox plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "64c2eae5d27550eac0e9b2578ffa18e1"
+}

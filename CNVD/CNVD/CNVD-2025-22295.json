@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-23 07:06:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22295",
+    "spider_time": 1758611178775,
+    "name": "Huawei HarmonyOS Gallery信息管理类漏洞",
+    "cnvd": "CNVD-2025-22295",
+    "publish": "2025-09-23",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Huawei HarmonyOS 5.0.0\"]",
+    "cve": "CVE-2024-51523",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS Gallery存在信息管理类漏洞，该漏洞源于图库模块存在信息管理类。攻击者可利用该漏洞导致机密性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://consumer.huawei.com/en/support/bulletin/2024/11/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2024/11/",
+    "patch": "Huawei HarmonyOS Gallery信息管理类漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-07",
+    "open_time": "2025-09-23",
+    "update_time": "2025-09-23",
+    "data_summary": "8b545f0cf113640f9ae84c98ff7204e9"
+}

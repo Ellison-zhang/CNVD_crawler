@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-08 11:03:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15318",
+    "spider_time": 1751972617911,
+    "name": "TOTOLINK X2000R VPN Page页面跨站脚本漏洞",
+    "cnvd": "CNVD-2025-15318",
+    "publish": "2025-07-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"TOTOLINK X2000R 1.0.0-B20231213.1013\"]",
+    "cve": "CVE-2024-28403",
+    "description": "TOTOLINK X2000R是中国吉翁电子推出的WiFi 6路由器，支持千兆网络和Easy Mesh功能，具备多设备连接与无线扩展能力。TOTOLINK X2000R存在跨站脚本漏洞，该漏洞源于VPN Page页面对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.totolink.net/home/menu/detail/menu_listtpl/products/id/242/ids/33.html",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-19",
+    "open_time": "2025-07-08",
+    "update_time": "2025-07-08",
+    "data_summary": "e0fb1b18cf144eceb3008dddf1e24733"
+}

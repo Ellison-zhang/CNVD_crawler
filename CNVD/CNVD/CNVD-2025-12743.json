@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 07:04:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12743",
+    "spider_time": 1750230280944,
+    "name": "Tenda FH1202缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12743",
+    "publish": "2025-06-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda FH1202 1.2.0.14\"]",
+    "cve": "CVE-2025-5978",
+    "description": "Tenda FH1202是由Tenda公司生产的无线路由器。Tenda FH1202存在缓冲区溢出漏洞。该漏洞源于/goform/VirtualSer文件fromVirtualSer函数处理不当。攻击者可利用该漏洞远程执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?submit.592462\nhttps://www.tenda.com.cn/\nhttps://lavender-bicycle-a5a.notion.site/Tenda-FH1202-fromVirtualSer-20b53a41781f80b7a6c7e727f93d7d9f?source=copy_link\nhttps://vuldb.com/?ctiid.311856\nhttps://vuldb.com/?id.311856",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "ca64c2ed1f4eff66a8b745f0e0628908"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 09:08:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16543",
+    "spider_time": 1753088905589,
+    "name": "Adobe Substance 3D Designer越界写入漏洞（CNVD-2025-16543）",
+    "cnvd": "CNVD-2025-16543",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Substance 3D Designer <=14.1\"]",
+    "cve": "CVE-2025-21166",
+    "description": "Adobe Substance 3D Designer是美国奥多比（Adobe）公司的一款3D设计软件。Adobe Substance 3D Designer存在越界写入漏洞，攻击者可利用该漏洞在当前用户的上下文中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/substance3d_designer/apsb25-62.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/substance3d_designer/apsb25-62.html",
+    "patch": "Adobe Substance 3D Designer越界写入漏洞（CNVD-2025-16543）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "0eec6933402c3172a1c67d688a2d4bad"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 20:04:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-35270",
+    "spider_time": 1745525059065,
+    "name": "北京亚控科技发展有限公司KingH5Stream存在逻辑缺陷漏洞（CNVD-2024-35270）",
+    "cnvd": "CNVD-2024-35270",
+    "publish": "2025-04-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u4e9a\\u63a7\\u79d1\\u6280\\u53d1\\u5c55\\u6709\\u9650\\u516c\\u53f8 KingH5Stream r11.10.0930.20.kv\"]",
+    "cve": null,
+    "description": "北京亚控科技发展有限公司是一家成立于1997年的工业自动化和信息化软件平台高科技企业。北京亚控科技发展有限公司KingH5Stream存在逻辑缺陷漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修补方案，建议用户下载使用：\nhttps://www.kingview.com/news_info.php?num=1002865",
+    "patch": "北京亚控科技发展有限公司KingH5Stream存在逻辑缺陷漏洞（CNVD-2024-35270）的补丁",
+    "verify": "已验证",
+    "submit_time": "2024-07-16",
+    "open_time": "2024-08-13",
+    "update_time": "2025-04-25",
+    "data_summary": "80913c0b6188e25cffb9aebc6e21562e"
+}

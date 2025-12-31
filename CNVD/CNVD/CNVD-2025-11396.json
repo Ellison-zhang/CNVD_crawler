@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-05 07:04:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11396",
+    "spider_time": 1749107042807,
+    "name": "JetBrains TeamCity输入验证错误漏洞",
+    "cnvd": "CNVD-2025-11396",
+    "publish": "2025-06-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"JetBrains TeamCity <2025.03.2\"]",
+    "cve": "CVE-2025-47854",
+    "description": "JetBrains TeamCity是捷克JetBrains公司的一套分布式构建管理和持续集成工具。该工具提供持续单元测试、代码质量分析和构建问题分析报告等功能。JetBrains TeamCity存在输入验证错误漏洞，该漏洞源于编辑VCS Root页面未对目标跳转做合理处理，攻击者可利用该漏洞将用户的网站重定向。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.jetbrains.com/privacy-security/issues-fixed/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains TeamCity输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "5e8d6e7c56877601ee20aa0673f0063b"
+}

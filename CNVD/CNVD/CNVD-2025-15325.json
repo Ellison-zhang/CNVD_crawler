@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-09 03:30:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15325",
+    "spider_time": 1752031812987,
+    "name": "TOTOLINK T8代码问题漏洞",
+    "cnvd": "CNVD-2025-15325",
+    "publish": "2025-07-09",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:N/A:N",
+    "product": "[\"TOTOLINK T8 4.1.5cu.833_20220905\"]",
+    "cve": "CVE-2024-0944",
+    "description": "TOTOLINK T8是中国吉翁电子公司推出的无线双频路由器，支持千兆网络。TOTOLINK T8存在代码问题漏洞，该漏洞源于文件/cgi-bin/cstecgi.cgi的某些未知功能，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.252188",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-01-30",
+    "open_time": "2025-07-09",
+    "update_time": "2025-07-09",
+    "data_summary": "2b308ee1aeb5729c780fc47f4b79be8d"
+}

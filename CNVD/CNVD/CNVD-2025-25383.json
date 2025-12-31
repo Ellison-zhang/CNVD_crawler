@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-27 09:04:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25383",
+    "spider_time": 1761555898238,
+    "name": "WordPress插件Academy LMS权限提升漏洞",
+    "cnvd": "CNVD-2025-25383",
+    "publish": "2025-10-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Academy LMS plugin <=3.3.7\"]",
+    "cve": "CVE-2025-11086",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件Academy LMS存在权限提升漏洞，该漏洞是由于该插件在通过社交登录插件注册用户之前未能正确验证用户的角色。攻击者可利用该漏洞在网站上注册时可以将其角色更新为管理员。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-11086",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/academy-pro/academy-lms-pro-337-unauthenticated-privilege-escalation-via-social-login-addon",
+    "patch": "WordPress插件Academy LMS权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-24",
+    "open_time": "2025-10-27",
+    "update_time": "2025-10-27",
+    "data_summary": "2a677af902993d940c977231c8805324"
+}

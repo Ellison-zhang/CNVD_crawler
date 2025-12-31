@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-25 09:09:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16853",
+    "spider_time": 1753434556959,
+    "name": "JetBrains YouTrack访问控制不当漏洞",
+    "cnvd": "CNVD-2025-16853",
+    "publish": "2025-07-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:P",
+    "product": "[\"JetBrains YouTrack <2024.3.46677\"]",
+    "cve": "CVE-2024-48902",
+    "description": "JetBrains YouTrack是一款项目管理工具，支持云托管和本地部署，主要面向团队协作管理，尤其适合软件开发、人力资源、市场营销等场景。JetBrains YouTrack存在访问控制不当漏洞，攻击者可利用该漏洞通过API删除应用程序。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-48902",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains YouTrack访问控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-17",
+    "open_time": "2025-07-25",
+    "update_time": "2025-07-25",
+    "data_summary": "8da19fda1489b125d42968b44c0610ca"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-29 08:08:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31130",
+    "spider_time": 1766995695356,
+    "name": "WordPress Auto Alt Text plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-31130",
+    "publish": "2025-12-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Auto Alt Text plugin <=2.5.2\"]",
+    "cve": "CVE-2025-62866",
+    "description": "WordPress Auto Alt Text plugin是一款利用人工智能技术自动为网站图片生成替代文本（AltText）的工具。WordPress Auto Alt Text plugin存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/auto-alt-text/vulnerability/wordpress-auto-alt-text-plugin-2-5-2-cross-site-request-forgery-csrf-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-12",
+    "open_time": "2025-12-23",
+    "update_time": "2025-12-23",
+    "data_summary": "a87078d50d775d6e930be0de12562139"
+}

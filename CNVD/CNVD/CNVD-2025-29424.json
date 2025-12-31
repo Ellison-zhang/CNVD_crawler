@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-28 10:12:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29424",
+    "spider_time": 1764324733461,
+    "name": "Tenda AC21 SetVirtualServerCfg文件缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-29424",
+    "publish": "2025-11-26",
+    "severity": "低",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"Tenda AC21 V16.03.08.16\"]",
+    "cve": "CVE-2025-65220",
+    "description": "Tenda AC21是腾达科技推出的双频千兆无线路由器，专为家庭高速互联网需求设计，支持802.11acwave2技术，双频并发速率高达2033Mbps，其中5GHz频段速率达1733Mbps，满足4K视频、在线直播等高带宽应用。Tenda AC21存在缓冲区溢出漏洞，该漏洞源于/goform/SetVirtualServerCfg中的list参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Madgeaaaaa/MY_VULN_2/blob/main/Tenda/VULN1.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-24",
+    "open_time": "2025-11-27",
+    "update_time": "2025-11-27",
+    "data_summary": "1836af3706493532b95cc4a558b8bd53"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-08 10:04:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15270",
+    "spider_time": 1751969043612,
+    "name": "D-Link DI-7300G+命令注入漏洞",
+    "cnvd": "CNVD-2025-15270",
+    "publish": "2025-07-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DI-7300G+ 19.12.25A1\"]",
+    "cve": "CVE-2025-6897",
+    "description": "D-Link DI-7300G+是中国友讯（D-Link）公司的一款坚固耐用的企业级智能网关。D-Link DI-7300G+存在命令注入漏洞，该漏洞是由于httpd_debug.asp中的缺陷引起的。攻击者可利用该漏洞在系统上执行任意操作系统命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6897",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-07-08",
+    "update_time": "2025-07-08",
+    "data_summary": "6a0eac7eb80f9dc86455f4a5f0403c48"
+}

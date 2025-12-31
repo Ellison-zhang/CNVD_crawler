@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-01 11:03:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14530",
+    "spider_time": 1751367825780,
+    "name": "TOTOLINK EX1200T setStaticDhcpConfig函数栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-14530",
+    "publish": "2025-07-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK EX1200T  4.1.2cu.5232_B20210713\"]",
+    "cve": "CVE-2025-6302",
+    "description": "TOTOLINK EX1200T是一款双频无线信号放大器，主要用于扩展现有无线网络的覆盖范围‌。TOTOLINK EX1200T存在栈缓冲区溢出漏洞，该漏洞源于文件/cgi-bin/cstecgi.cgi中函数setStaticDhcpConfig未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://kn0sinna.notion.site/TOTOLINK-EX1200T-stack-based-BufferOverflow-vulnerability-20fb1876cd6e80d5b4d1f7ec16de4ec2",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-01",
+    "update_time": "2025-07-01",
+    "data_summary": "7b4c8c890af4d4328d51f7384ab6abd4"
+}

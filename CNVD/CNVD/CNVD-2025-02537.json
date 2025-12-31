@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-12 17:31:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02537",
+    "spider_time": 1739352698653,
+    "name": "Microsoft Windows Secure Boot存在未明漏洞（CNVD-2025-02537）",
+    "cnvd": "CNVD-2025-02537",
+    "publish": "2025-01-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Windows Server 2016\", \"Microsoft Windows Server 2012\", \"Microsoft Windows Server 2022 21H2\", \"Microsoft Windows Server 2012 R2\", \"Microsoft Window 11\", \"Microsoft Window 10\", \"Microsoft Windows Server 2019 22H2\", \"Microsoft Windows Server 2019 23H2\", \"Microsoft Windows Server 2019 24H2\", \"Microsoft Windows Server 2022 22H2\", \"Microsoft Windows Server 2022 1809\", \"Microsoft Windows Server 2022 1607\"]",
+    "cve": "CVE-2025-21211",
+    "description": "Microsoft Windows Secure Boot是美国微软（Microsoft）公司的安全启动。Microsoft Windows Secure Boot存在安全漏洞。攻击者可利用该漏洞绕过某些功能。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-21211",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21211",
+    "patch": "Microsoft Windows Secure Boot存在未明漏洞（CNVD-2025-02537）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-17",
+    "open_time": "2025-02-06",
+    "update_time": "2025-02-06",
+    "data_summary": "d79b66f5c5d93aafaa5ea69ae11b7754"
+}

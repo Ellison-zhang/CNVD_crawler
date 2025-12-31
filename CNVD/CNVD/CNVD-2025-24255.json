@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-22 06:09:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24255",
+    "spider_time": 1761113375570,
+    "name": "Adobe Dimension内存错误引用漏洞（CNVD-2025-24255）",
+    "cnvd": "CNVD-2025-24255",
+    "publish": "2025-10-20",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Dimension <=4.1.4\"]",
+    "cve": "CVE-2025-61801",
+    "description": "Adobe Dimension是美国奥多比（Adobe）公司的是一套2D和3D合成设计工具。Adobe Dimension存在内存错误引用漏洞，攻击者可利用该漏洞导致在当前用户环境下执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/dimension/apsb25-103.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/dimension/apsb25-103.html",
+    "patch": "Adobe Dimension内存错误引用漏洞（CNVD-2025-24255）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-21",
+    "update_time": "2025-10-21",
+    "data_summary": "dba8a941964330a193bc97a89edb43b1"
+}

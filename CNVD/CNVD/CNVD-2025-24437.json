@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-22 06:08:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24437",
+    "spider_time": 1761113318018,
+    "name": "Adobe Illustrator内存错误引用漏洞（CNVD-2025-24437）",
+    "cnvd": "CNVD-2025-24437",
+    "publish": "2025-10-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Adobe Illustrator 2025 <=29.6.1\", \"Adobe Illustrator 2024  <=28.7.8\"]",
+    "cve": "CVE-2025-49568",
+    "description": "Adobe Illustrator是美国奥多比（Adobe）公司的一套基于向量的图像制作软件。Adobe Illustrator存在内存错误引用漏洞，攻击者可利用该漏洞导致敏感内存泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/illustrator/apsb25-74.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/illustrator/apsb25-74.html",
+    "patch": "Adobe Illustrator内存错误引用漏洞（CNVD-2025-24437）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-10-22",
+    "update_time": "2025-10-22",
+    "data_summary": "5a349a8bcecbebc7b261d0035c1b9eb9"
+}

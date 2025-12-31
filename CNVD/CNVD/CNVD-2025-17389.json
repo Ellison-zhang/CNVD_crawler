@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-01 08:05:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17389",
+    "spider_time": 1754035534169,
+    "name": "D-Link DIR-605L formSetWanPPTP函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-17389",
+    "publish": "2025-08-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-605L 2.13B01 BETA\"]",
+    "cve": "CVE-2024-9558",
+    "description": "D-Link DIR-605L是友讯公司推出的首款云路由器，主要面向家庭和小型办公网络环境。D-Link DIR-605L存在缓冲区溢出漏洞，该漏洞源于/goform/formSetWanPPTP页面中的formSetWanPPTP函数的webpage参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.279365",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-10-13",
+    "open_time": "2025-08-01",
+    "update_time": "2025-08-01",
+    "data_summary": "18814e350a2226cab15c1e1eaf5dd537"
+}

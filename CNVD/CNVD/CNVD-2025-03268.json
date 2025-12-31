@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-20 08:04:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03268",
+    "spider_time": 1740038668616,
+    "name": "SAP NetWeaver Application Server Java信息泄露漏洞（CNVD-2025-03268）",
+    "cnvd": "CNVD-2025-03268",
+    "publish": "2025-02-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"SAP SAP NetWeaver Application Server Java null\"]",
+    "cve": "CVE-2025-24869",
+    "description": "SAP NetWeaver Application Server Java是德国思爱普（SAP）公司的一款提供了Java运行环境的应用程序服务器。该产品主要用于开发和运行Java EE应用程序。SAP NetWeaver Application Server Java存在信息泄露漏洞，远程攻击者可利用该漏洞提交特殊的请求，可获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-24869",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/february-2025.html",
+    "patch": "SAP NetWeaver Application Server Java信息泄露漏洞（CNVD-2025-03268）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-02-20",
+    "update_time": "2025-02-20",
+    "data_summary": "ed8ae2286ed36bc61091305fd35bb622"
+}

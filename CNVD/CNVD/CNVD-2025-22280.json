@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 01:32:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22280",
+    "spider_time": 1758850328234,
+    "name": "WeGIA SQL注入漏洞（CNVD-2025-22280）",
+    "cnvd": "CNVD-2025-22280",
+    "publish": "2025-09-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WeGIA WeGIA <3.2.8\"]",
+    "cve": "CVE-2025-30365",
+    "description": "WeGIA是一个福利机构的网络管理器。WeGIA存在SQL注入漏洞，该漏洞源于query参数缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-30365",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/LabRedesCefetRJ/WeGIA/security/advisories/GHSA-ghx8-h92j-h422",
+    "patch": "WeGIA SQL注入漏洞（CNVD-2025-22280）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-03",
+    "open_time": "2025-09-23",
+    "update_time": "2025-09-23",
+    "data_summary": "e1054c72e5309a7131ee1bd23a472e33"
+}

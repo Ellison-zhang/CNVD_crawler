@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-23 08:05:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16671",
+    "spider_time": 1753257920242,
+    "name": "D-Link DI-8100缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16671",
+    "publish": "2025-07-23",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DI-8100 1.0\"]",
+    "cve": "CVE-2025-7908",
+    "description": "D-Link DI-8100是D-Link公司的一款企业级路由器。D-Link DI-8100 1.0版本存在缓冲区溢出漏洞，该漏洞源于组件jhttpd的/ddns.asp?opt=add文件中sprintf函数对参数mx的未充分校验。攻击者可利用该漏洞通过远程构造恶意数据触发缓冲区溢出，从而执行任意代码或导致服务崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.317023\nhttps://vuldb.com/?ctiid.317023\nhttps://vuldb.com/?submit.618582\nhttps://github.com/buobo/bo-s-CVE/blob/main/DI-8100/wp.md\nhttps://www.dlink.com/",
+    "solution": "目前厂商尚未发布升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://vuldb.com/?id.317023",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-07-23",
+    "update_time": "2025-07-23",
+    "data_summary": "fc20a1cdac828a19d22d8f8eb94b06db"
+}

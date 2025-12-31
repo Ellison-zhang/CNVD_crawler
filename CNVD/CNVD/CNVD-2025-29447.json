@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-27 07:06:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29447",
+    "spider_time": 1764227197087,
+    "name": "Inventory Management System PROID参数SQL注入漏洞",
+    "cnvd": "CNVD-2025-29447",
+    "publish": "2025-11-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Inventory Management System Inventory Management System 1.0\"]",
+    "cve": "CVE-2025-13234",
+    "description": "Inventory Management System是一个库存管理系统。Inventory Management System存在SQL注入漏洞，该漏洞源于/index.php?q=product文件中PROID参数未对用户输入进行安全过滤。攻击者可利用该漏洞通过操纵PROID参数执行非法SQL指令，获取敏感数据库信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.332560\nhttps://vuldb.com/?ctiid.332560\nhttps://vuldb.com/?submit.686698\nhttps://github.com/pip-in-head/lulucat-VD/issues/1\nhttps://itsourcecode.com/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://itsourcecode.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-11-27",
+    "update_time": "2025-11-27",
+    "data_summary": "eb5e3c3a8b047ffbaf3a511c77f32c45"
+}

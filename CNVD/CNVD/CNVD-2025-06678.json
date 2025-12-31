@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-11 21:03:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06678",
+    "spider_time": 1744405393793,
+    "name": "天融信科技集团股份有限公司上网行为管理系统存在命令执行漏洞",
+    "cnvd": "CNVD-2025-06678",
+    "publish": "2025-04-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"\\u5929\\u878d\\u4fe1\\u79d1\\u6280\\u96c6\\u56e2\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u4e0a\\u7f51\\u884c\\u4e3a\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "天融信科技集团股份有限公司是一家专注于网络安全、大数据与云服务的提供商‌。天融信科技集团股份有限公司上网行为管理系统存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布漏洞修复程序，请及时关注更新：\nhttps://www.topsec.com.cn/",
+    "patch": "天融信科技集团股份有限公司上网行为管理系统存在命令执行漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-02-24",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-12",
+    "data_summary": "a8d6cbe316d1a40f78bb24c5cc5fc2d8"
+}

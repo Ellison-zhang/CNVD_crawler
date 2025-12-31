@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-04 06:11:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29647",
+    "spider_time": 1764828673049,
+    "name": "Google Chrome DevTools实现不当漏洞",
+    "cnvd": "CNVD-2025-29647",
+    "publish": "2025-12-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <126.0.6478.182\"]",
+    "cve": "CVE-2024-7017",
+    "description": "Google Chrome是由‌谷歌公司开发的免费网页浏览器。Google Chrome存在DevTools实现不当漏洞，攻击者可利用该漏洞导致沙箱逃逸。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.google.com/chrome/dr/download/",
+    "patch": "Google Chrome DevTools实现不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-12-02",
+    "update_time": "2025-12-02",
+    "data_summary": "38890c6ca306e180e65105e73510702e"
+}

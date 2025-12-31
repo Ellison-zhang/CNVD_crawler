@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-11 09:04:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23357",
+    "spider_time": 1760173461835,
+    "name": " Bank Locker Management System会话劫持漏洞",
+    "cnvd": "CNVD-2025-23357",
+    "publish": "2025-10-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:P/A:N",
+    "product": "[\"Bank Locker Management System Bank Locker Management System 1\"]",
+    "cve": "CVE-2025-50491",
+    "description": "Bank Locker Management System是一个银行储物柜管理系统。Bank Locker Management System存在会话劫持漏洞，该漏洞源于组件/banker/change-password.php会话失效不当。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://phpgurukul.com\nhttp://bank.com\nhttps://github.com/VasilVK/CVE/tree/main/CVE-2025-50491",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-30",
+    "open_time": "2025-10-11",
+    "update_time": "2025-10-11",
+    "data_summary": "ace564a72e8277d575a3407631e42232"
+}

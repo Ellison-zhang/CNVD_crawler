@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-17 07:13:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21315",
+    "spider_time": 1758093185104,
+    "name": "Fuji Electric Tellus Lite V-Simulator 5 V8文件解析栈溢出代码执行漏洞",
+    "cnvd": "CNVD-2025-21315",
+    "publish": "2025-09-15",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Fuji Electric Tellus Lite V-Simulator 5\"]",
+    "cve": "CVE-2024-11799",
+    "description": "Fuji Electric Tellus Lite V-Simulator是日本富士电机（Fuji Electric）公司开发的工业环境远程监控软件，主要用于收集PLC、温度控制器、逆变器等设备的实时数据。Fuji Electric Tellus Lite V-Simulator 5 V8文件解析栈溢出代码执行漏洞，攻击者可利用该漏洞提交特殊的文件请求，诱使用户解析，可使应用程序崩溃或可以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-24-1625/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.fujielectric.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-03",
+    "open_time": "2025-09-16",
+    "update_time": "2025-09-16",
+    "data_summary": "731cc7fc968f3e6011d2011ddeee5aee"
+}

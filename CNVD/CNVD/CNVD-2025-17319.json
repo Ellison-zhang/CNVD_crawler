@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 08:06:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17319",
+    "spider_time": 1753949187036,
+    "name": "WordPress WPGYM SQL注入漏洞",
+    "cnvd": "CNVD-2025-17319",
+    "publish": "2025-07-31",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:P",
+    "product": "[\"WordPress WPGYM <=65.0\"]",
+    "cve": "CVE-2025-32574",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品，WordPress plugin是一个应用插件。WordPress WPGYM存在SQL注入漏洞，该漏洞源于SQL命令特殊元素处理不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-32574",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-07-31",
+    "update_time": "2025-07-31",
+    "data_summary": "a6dc1d9d9b121ae3469b6ae3d99fea63"
+}

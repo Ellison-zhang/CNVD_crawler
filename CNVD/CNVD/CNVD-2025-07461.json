@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:29:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07461",
+    "spider_time": 1744946949052,
+    "name": "深圳市同为数码科技股份有限公司NVMS-1000存在任意文件读取漏洞",
+    "cnvd": "CNVD-2025-07461",
+    "publish": "2025-04-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u540c\\u4e3a\\u6570\\u7801\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 NVMS-1000\"]",
+    "cve": null,
+    "description": "‌NVMS-1000是一款专门为网绚摄像机、硬盘录像机、视频编码器等设备开发的视频监控管理软件‌。深圳市同为数码科技股份有限公司NVMS-1000存在任意文件读取漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.tvt.net.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-26",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "e6343f81a3ae4163e8804d301f141db1"
+}

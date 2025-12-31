@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 10:04:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12805",
+    "spider_time": 1750241044165,
+    "name": "Yonyou Changjietong UFIDA CRM SQL注入漏洞",
+    "cnvd": "CNVD-2025-12805",
+    "publish": "2025-06-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Yonyou Changjietong UFIDA CRM v1.0\"]",
+    "cve": "CVE-2025-4510",
+    "description": "Yonyou Changjietong UFIDA CRM是中国用友（Yonyou）公司的一个中小企业客户关系管理系统，集成销售自动化与营销分析功能。Yonyou Changjietong UFIDA CRM存在SQL注入漏洞，该漏洞源于文件/optnty/optntyday.php中参数gblOrgID缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-4510",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://yonyou.com.mo/zh/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "d99cd2e6b78ee56147c16eb4d097ce3f"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-11 08:05:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15499",
+    "spider_time": 1752221132226,
+    "name": "Mozilla Firefox安全绕过漏洞（CNVD-2025-15499）",
+    "cnvd": "CNVD-2025-15499",
+    "publish": "2025-07-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Mozilla Firefox <140\"]",
+    "cve": "CVE-2025-6427",
+    "description": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Firefox存在安全绕过漏洞，该漏洞源于connect-src指令可被绕过，攻击者可利用该漏洞绕过安全限制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6427",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2025-51/",
+    "patch": "Mozilla Firefox安全绕过漏洞（CNVD-2025-15499）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-07-11",
+    "update_time": "2025-07-11",
+    "data_summary": "34853895e1054f63b4ea656bc0211ba0"
+}

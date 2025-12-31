@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 01:33:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23747",
+    "spider_time": 1760664816393,
+    "name": "WordPress AffiliateWP plugin SQL注入漏洞",
+    "cnvd": "CNVD-2025-23747",
+    "publish": "2025-10-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress AffiliateWP plugin <=2.28.2\"]",
+    "cve": "CVE-2025-8877",
+    "description": "WordPress AffiliateWP plugin一款专为WordPress平台设计的联盟营销插件，主要用于帮助用户快速搭建附属计划、跟踪推荐、支付佣金等功能。WordPress AffiliateWP plugin存在SQL注入漏洞，该漏洞源于应用缺少ajax_get_affiliate_id_from_login函数的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-8877",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://affiliatewp.com/",
+    "patch": "WordPress AffiliateWP plugin SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-13",
+    "open_time": "2025-10-15",
+    "update_time": "2025-10-15",
+    "data_summary": "7a0bd54e2a157c4f7d79db7bd0d9ca58"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 09:06:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13794",
+    "spider_time": 1750928794002,
+    "name": "JetBrains YouTrack存在未知漏洞",
+    "cnvd": "CNVD-2025-13794",
+    "publish": "2025-06-26",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"JetBrains JetBrains YouTrack <2024.3.55417\"]",
+    "cve": "CVE-2025-24458",
+    "description": "JetBrains YouTrack是一款由捷克JetBrains公司开发的项目管理工具，支持云托管和本地部署。JetBrains YouTrack存在安全漏洞，该漏洞源于通过伪造的电子邮件和Helpdesk集成进行帐户接管。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.jetbrains.com/privacy-security/issues-fixed/https://nvd.nist.gov/vuln/detail/CVE-2025-24458",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "patch": "JetBrains YouTrack存在未知漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "a2419b98f7d6b996c64469a2ff673b2b"
+}

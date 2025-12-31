@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-09 08:05:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23127",
+    "spider_time": 1759997151449,
+    "name": "BigAntSoft BigAnt office messenger SQL注入漏洞",
+    "cnvd": "CNVD-2025-23127",
+    "publish": "2025-10-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"BigAntSoft BigAntSoft BigAnt office messenger 5.6.06\"]",
+    "cve": "CVE-2024-54761",
+    "description": "BigAntSoft BigAnt office messenger是澳大利亚BigAntSoft公司的一个针对企业环境的服务器/客户端即时消息程序。BigAntSoft BigAnt office messenger存在SQL注入漏洞。攻击者可利用该漏洞通过“dev_code”参数进行SQL注入攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-54761",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://gist.github.com/nscan9/a31982c90ab40a8e00373bf15efbf52a",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-01-16",
+    "open_time": "2025-10-09",
+    "update_time": "2025-10-09",
+    "data_summary": "6c54e8ff019562e8a2398d4e68bb03d2"
+}

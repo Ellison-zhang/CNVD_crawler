@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-12 09:10:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30434",
+    "spider_time": 1765530638445,
+    "name": "Maid Hiring Management System edit-category.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-30434",
+    "publish": "2025-12-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Maid Hiring Management System Maid Hiring Management System 1.0\"]",
+    "cve": "CVE-2024-13016",
+    "description": "Maid Hiring Management System是一个女佣雇佣管理系统。Maid Hiring Management System存在SQL注入漏洞，该漏洞源于文件/admin/edit-category.php对editid参数未进行充分的输入验证。攻击者可利用该漏洞导致数据库信息泄露或篡改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.289707",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-30",
+    "open_time": "2025-12-11",
+    "update_time": "2025-12-11",
+    "data_summary": "b53a6d885804c01b4b9358c1eaaaf10f"
+}

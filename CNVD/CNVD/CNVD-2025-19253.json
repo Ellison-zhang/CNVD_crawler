@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-22 09:04:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19253",
+    "spider_time": 1755853461942,
+    "name": "GNU GRUB缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-19253",
+    "publish": "2025-08-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"GNU GRUB\"]",
+    "cve": "CVE-2024-45774",
+    "description": "GNU GRUB是GNU社区的一款Linux系统引导程序。GNU GRUB存在缓冲区溢出漏洞，该漏洞源于JPEG解析器缓冲区边界校验缺失，攻击者可利用该漏洞在受影响的应用程序上下文中运行任意代码，控制服务器进程。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-45774",
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://lists.gnu.org/archive/html/grub-devel/2025-02/msg00024.html",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-22",
+    "update_time": "2025-08-22",
+    "data_summary": "57db8f60947a526026f0fbb00c7a7c4f"
+}

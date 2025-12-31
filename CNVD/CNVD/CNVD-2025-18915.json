@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-20 09:04:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18915",
+    "spider_time": 1755680679837,
+    "name": "WordPress CleverReach SQL注入漏洞",
+    "cnvd": "CNVD-2025-18915",
+    "publish": "2025-08-20",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress CleverReach <=1.5.20\"]",
+    "cve": "CVE-2025-7036",
+    "description": "WordPress CleverReach是一款基于云计算的企业级电子邮件营销软件，支持与WordPress、WooCommerce等平台集成，提供自动化营销、个性化邮件发送、A/B测试等功能。WordPress CleverReach存在SQL注入漏洞，该漏洞源于参数清理不足，攻击者可利用该漏洞通过发送恶意SQL命令，绕过身份验证，访问敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7036",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-12",
+    "open_time": "2025-08-20",
+    "update_time": "2025-08-20",
+    "data_summary": "4f573174ed1d8909ab93bd20959d27e8"
+}

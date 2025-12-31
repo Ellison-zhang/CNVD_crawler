@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-18 09:04:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12804",
+    "spider_time": 1750237471194,
+    "name": "Mattermost Mobile Apps信息泄露漏洞",
+    "cnvd": "CNVD-2025-12804",
+    "publish": "2025-06-18",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:P/I:N/A:N",
+    "product": "[\"Mattermost Mattermost Mobile Apps <=2.25.0\"]",
+    "cve": "CVE-2025-30516",
+    "description": "Mattermost Mobile Apps是美国Mattermost公司的一款消息传递移动应用程序。Mattermost Mobile Apps存在信息泄露漏洞，该漏洞源于注销时未正确终止会话，攻击者可利用该漏洞导致敏感信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://mattermost.com/security-updates",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/security-updates/",
+    "patch": "Mattermost Mobile Apps信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-06-18",
+    "update_time": "2025-06-18",
+    "data_summary": "4375a80e5616f502658cc557c4df0f79"
+}

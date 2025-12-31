@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-18 12:06:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16370",
+    "spider_time": 1752840372031,
+    "name": "WordPress Friends plugin代码问题漏洞",
+    "cnvd": "CNVD-2025-16370",
+    "publish": "2025-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress Friends plugin 3.5.1\"]",
+    "cve": "CVE-2025-7504",
+    "description": "WordPress Friends plugin是一款用于社交互动的插件。WordPress Friends plugin存在代码问题漏洞，该漏洞源于对query_vars参数的反序列化不当，攻击者可利用该漏洞导致代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://drive.google.com/file/d/1K-_AcDk9BhUa0kSQ_M-UUnLgmnYJTA0l/view",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/friends",
+    "patch": "WordPress Friends plugin代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-07-18",
+    "update_time": "2025-07-18",
+    "data_summary": "ca9bfec3ebf5ca19f0e501ce2974420a"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 03:33:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16372",
+    "spider_time": 1753068808042,
+    "name": "Adobe After Effects空指针解引用漏洞（CNVD-2025-16372）",
+    "cnvd": "CNVD-2025-16372",
+    "publish": "2025-07-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Adobe After Effects <=25.2\", \"Adobe After Effects <=24.6.6\"]",
+    "cve": "CVE-2025-47109",
+    "description": "Adobe After Effects是美国奥多比（Adobe）公司的一套视觉效果和动态图形制作软件。该软件主要用于2D和3D合成、动画制作和视觉特效制作等。Adobe After Effects 25.2版本、24.6.6及之前版本存在空指针解引用漏洞，攻击者可利用该漏洞导致应用程序拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/after_effects/apsb25-49.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/after_effects/apsb25-49.html",
+    "patch": "Adobe After Effects空指针解引用漏洞（CNVD-2025-16372）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "95ecf70cd85f5c1373596a74bcb1412f"
+}

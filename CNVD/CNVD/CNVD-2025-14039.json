@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:13:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14039",
+    "spider_time": 1751011992783,
+    "name": "TOTOLINK A6000R vif_disable函数命令注入漏洞",
+    "cnvd": "CNVD-2025-14039",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK TOTOlink A6000R V1.0.1-B20201211.2000\"]",
+    "cve": "CVE-2024-41314",
+    "description": "TOTOLINK A6000R是中国吉翁电子（TOTOLINK）公司的一款无线路由器。TOTOLINK A6000R存在命令注入漏洞。该漏洞源于vif_disable函数中的iface参数未能正确验证或清理用户输入。攻击者可利用该漏洞获得路由器的管理员权限，访问或修改路由器的配置和数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-41314",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-26",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "3badec0f0c716593382e9c6044916f75"
+}

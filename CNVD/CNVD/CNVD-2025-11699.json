@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 10:04:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11699",
+    "spider_time": 1749204271221,
+    "name": "河南吉海网络科技有限公司Jshop小程序商城存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-11699",
+    "publish": "2025-06-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u6cb3\\u5357\\u5409\\u6d77\\u7f51\\u7edc\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 Jshop\\u5c0f\\u7a0b\\u5e8f\\u5546\\u57ce\"]",
+    "cve": null,
+    "description": "Jshop小程序商城是一款开源的支持可视化布局的电商系统。河南吉海网络科技有限公司Jshop小程序商城存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.jihainet.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "98341ab5f6825f13d85ed1ec3c2e56e8"
+}

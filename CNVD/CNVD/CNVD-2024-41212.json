@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 20:04:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-41212",
+    "spider_time": 1750795442454,
+    "name": "湖南强智科技发展有限公司综合教务管理系统存在SQL注入漏洞（CNVD-2024-41212）",
+    "cnvd": "CNVD-2024-41212",
+    "publish": "2025-06-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u6e56\\u5357\\u5f3a\\u667a\\u79d1\\u6280\\u53d1\\u5c55\\u6709\\u9650\\u516c\\u53f8 \\u7efc\\u5408\\u6559\\u52a1\\u7ba1\\u7406\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "湖南强智科技发展有限公司是一家教育信息化服务提供商。湖南强智科技发展有限公司综合教务管理系统存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.qzdatasoft.com/",
+    "patch": "湖南强智科技发展有限公司综合教务管理系统存在SQL注入漏洞（CNVD-2024-41212）的补丁",
+    "verify": "已验证",
+    "submit_time": "2024-09-14",
+    "open_time": "2024-10-21",
+    "update_time": "2025-06-25",
+    "data_summary": "0817f8cc71e991a17574a7c94920d0db"
+}

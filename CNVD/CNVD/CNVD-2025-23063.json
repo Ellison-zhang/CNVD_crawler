@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-30 07:07:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23063",
+    "spider_time": 1759216051080,
+    "name": "Microsoft Edge (Chromium-based)安全功能绕过漏洞（CNVD-2025-23063）",
+    "cnvd": "CNVD-2025-23063",
+    "publish": "2025-09-30",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:P/I:P/A:P",
+    "product": "[\"Microsoft Edge (Chromium-based)\"]",
+    "cve": "CVE-2025-21401",
+    "description": "Microsoft Edge是美国微软（Microsoft）公司的一款Windows 10之后版本系统附带的Web浏览器。Microsoft Edge (Chromium-based)存在安全功能绕过漏洞，攻击者可利用该漏洞绕过某些功能。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21401",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21401",
+    "patch": "Microsoft Edge (Chromium-based)安全功能绕过漏洞（CNVD-2025-23063）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-28",
+    "open_time": "2025-09-30",
+    "update_time": "2025-09-30",
+    "data_summary": "8c28c0846a033ae65736167c1f5f85ef"
+}

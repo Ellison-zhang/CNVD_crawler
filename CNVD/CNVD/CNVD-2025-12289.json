@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-12 09:06:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12289",
+    "spider_time": 1749719216600,
+    "name": "D-Link DIR-816 /goform/qosClassifier文件命令注入漏洞",
+    "cnvd": "CNVD-2025-12289",
+    "publish": "2025-06-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"D-Link DIR-816 1.10CNB05\"]",
+    "cve": "CVE-2025-5621",
+    "description": "D-Link DIR-816是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-816存在命令注入漏洞，该漏洞源于文件/goform/qosClassifier中参数dip_address/sip_address未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5621",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-12",
+    "update_time": "2025-06-12",
+    "data_summary": "d8ac82a297735b722d5c68c00a16888c"
+}

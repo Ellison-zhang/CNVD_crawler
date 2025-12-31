@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-10 05:07:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20858",
+    "spider_time": 1757480870510,
+    "name": "DELL ThinOS 10权限提升漏洞",
+    "cnvd": "CNVD-2025-20858",
+    "publish": "2025-09-08",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL ThinOS 10 <2508_10.0127\"]",
+    "cve": "CVE-2025-43729",
+    "description": "DELL ThinOS 10是戴尔推出的新一代瘦客户端操作系统，专为虚拟桌面基础设施（VDI）设计，旨在提升安全性、效率和用户体验。DELL ThinOS 10存在权限提升漏洞，该漏洞源于关键资源权限分配不当，攻击者可利用该漏洞导致权限提升和未授权访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43729",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000359619/dsa-2025-331",
+    "patch": "DELL ThinOS 10权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-29",
+    "open_time": "2025-09-09",
+    "update_time": "2025-09-09",
+    "data_summary": "275e5782556d2f5d0c9a4c379ccb8a2e"
+}

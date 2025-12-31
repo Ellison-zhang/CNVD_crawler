@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-21 09:04:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29169",
+    "spider_time": 1763715875854,
+    "name": "SAP Business Connector跨站脚本漏洞（CNVD-2025-29169）",
+    "cnvd": "CNVD-2025-29169",
+    "publish": "2025-11-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"SAP SAP Business Connector 4.8\"]",
+    "cve": "CVE-2025-42886",
+    "description": "SAP Business Connector是德国思爱普（SAP）公司的一种中间件。SAP Business Connector存在跨站脚本漏洞，该漏洞是由于PRTG网络监视器web界面对用户提供的输入验证不当造成的。攻击者可利用该漏洞访问或修改受害者浏览器范围内的信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-42886",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://url.sap/sapsecuritypatchday",
+    "patch": "SAP Business Connector跨站脚本漏洞（CNVD-2025-29169）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-11-21",
+    "update_time": "2025-11-21",
+    "data_summary": "a13292439230e82320b7781314389911"
+}

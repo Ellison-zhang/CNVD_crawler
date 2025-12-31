@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:08:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13629",
+    "spider_time": 1751011687457,
+    "name": "瑞斯康达科技发展股份有限公司多业务智能网关存在文件上传漏洞",
+    "cnvd": "CNVD-2025-13629",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u745e\\u65af\\u5eb7\\u8fbe\\u79d1\\u6280\\u53d1\\u5c55\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u591a\\u4e1a\\u52a1\\u667a\\u80fd\\u7f51\\u5173\"]",
+    "cve": null,
+    "description": "瑞斯康达科技发展股份有限公司专注于光纤宽带接入领域，致力于光纤技术、以太网技术及宽带接入技术的融合。瑞斯康达科技发展股份有限公司多业务智能网关存在文件上传漏洞，攻击者可利用漏洞上传恶意文件，获取服务器权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttp://www.raisecom.com.cn/",
+    "patch": "瑞斯康达科技发展股份有限公司多业务智能网关存在文件上传漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-05-05",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-27",
+    "data_summary": "46c297a9a38723c3d9e213e7f60bf259"
+}

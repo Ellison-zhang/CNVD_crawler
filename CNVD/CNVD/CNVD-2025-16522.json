@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 08:05:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16522",
+    "spider_time": 1753085155278,
+    "name": "Fuji Electric Monitouch V-SFT V10文件解析栈缓存区溢出漏洞（CNVD-2025-16522）",
+    "cnvd": "CNVD-2025-16522",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Fuji Electric Monitouch V-SFT 6.2.3.0\"]",
+    "cve": "CVE-2024-11790",
+    "description": "Fuji Electric Monitouch V-SFT是富士电机公司提供的一款用于人机界面（HMI）的配置软件。Fuji Electric Monitouch V-SFT V10文件解析存在栈缓存区溢出漏洞，该漏洞源于在将用户提供的数据复制到基于堆栈的缓冲区之前没有对其进行长度的正确验证。攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-24-1616/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.fujielectric.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-03",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "698e898ccf0e96ee1b5e6845fe449a57"
+}

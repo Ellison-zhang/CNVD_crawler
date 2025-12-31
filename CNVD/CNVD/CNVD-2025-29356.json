@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-28 03:24:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29356",
+    "spider_time": 1764300294627,
+    "name": "Complaint Management System between-date-userreport.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-29356",
+    "publish": "2025-11-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Complaint Management System Complaint Management System 2.0\"]",
+    "cve": "CVE-2024-46335",
+    "description": "Complaint Management System是一个投诉管理系统。Complaint Management System存在跨站脚本漏洞，该漏洞源于between-date-userreport.php中fromdate和todate参数对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/leexsoyoung/CVEs/blob/main/CVE-2024-46335.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2025-11-26",
+    "update_time": "2025-11-26",
+    "data_summary": "b021205d0c5d98afb1c5d13d3e4acec6"
+}

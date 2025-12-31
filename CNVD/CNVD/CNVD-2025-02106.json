@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-12 17:30:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02106",
+    "spider_time": 1739352607490,
+    "name": "dingfanzu SQL注入漏洞（CNVD-2025-02106）",
+    "cnvd": "CNVD-2025-02106",
+    "publish": "2025-01-20",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"dingfanzu dingfanzu v1.0\"]",
+    "cve": "CVE-2025-22976",
+    "description": "dingfanzu是一个基于php的外卖订餐网站。dingfanzu v1.0版本存在SQL注入漏洞，该漏洞源于应用缺少对外部输入SQL语句的验证。本地攻击者可利用该漏洞通过shopId模块中的内容执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/xiaosguang/cve/blob/main/dingfanzu/dingfanzu-CMS%20checkOrder.php%20shopId%20SQL-inject.md",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://nvd.nist.gov/vuln/detail/CVE-2025-22976",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-01-17",
+    "open_time": "2025-02-06",
+    "update_time": "2025-02-06",
+    "data_summary": "16f49a2c730d233219ece1fdf454bc33"
+}

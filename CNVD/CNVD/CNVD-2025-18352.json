@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 10:04:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18352",
+    "spider_time": 1755079473240,
+    "name": "Tenda FH1205 formWifiBasicSet方法security参数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18352",
+    "publish": "2025-08-13",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda FH1205 V2.0.0.7(775)\"]",
+    "cve": "CVE-2024-30633",
+    "description": "Tenda FH1205是一款面向家庭用户的双频无线路由器，支持IEEE 802.11ac标准，无线速率达1200Mbps，工作频段包括2.4GHz和5GHz。Tenda FH1205存在缓冲区溢出漏洞，该漏洞源于formWifiBasicSet方法的security参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/FH/FH1205/formWifiBasicSet_security.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-2236.html",
+    "patch": "Tenda FH1205 formWifiBasicSet方法security参数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-03",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "c310c02618226291612774d9823c7d23"
+}

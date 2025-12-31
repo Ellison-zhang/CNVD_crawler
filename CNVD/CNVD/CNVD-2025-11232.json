@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-30 10:04:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11232",
+    "spider_time": 1748599498236,
+    "name": "D-Link DIR-619L curTime缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-11232",
+    "publish": "2025-05-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-619L 2.04B04\"]",
+    "cve": "CVE-2025-4450",
+    "description": "D-Link DIR-619L是一款性价比高的无线路由器，专为家庭办公室的上网需要而设计。D-Link DIR-619L存在缓冲区溢出漏洞，该漏洞源于formSetEasy_Wizard函数对curTime参数处理不当，攻击者可利用该漏洞提交特殊的请求，使应用程序崩溃或执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/jylsec/vuldb/blob/main/D-Link/dlink_dir619l/Buffer_overflow-formSetEasy_Wizard-curTime/README.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.dlink.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-12",
+    "open_time": "2025-05-30",
+    "update_time": "2025-05-30",
+    "data_summary": "83da341791e9b740b355531e5e18bd08"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 09:04:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08449",
+    "spider_time": 1745744656642,
+    "name": "厦门科拓通讯技术股份有限公司科拓全智能停车视频收费系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08449",
+    "publish": "2025-04-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u53a6\\u95e8\\u79d1\\u62d3\\u901a\\u8baf\\u6280\\u672f\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u79d1\\u62d3\\u5168\\u667a\\u80fd\\u505c\\u8f66\\u89c6\\u9891\\u6536\\u8d39\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "厦门科拓通讯技术股份有限公司是一家专业的智慧停车解决方案提供商，专注于智慧停车行业多年。厦门科拓通讯技术股份有限公司科拓全智能停车视频收费系统存在SQL注入漏洞,攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.keytop.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "494d8c7ed2e356448c04b51bb128a26f"
+}

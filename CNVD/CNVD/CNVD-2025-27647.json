@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-11 09:04:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27647",
+    "spider_time": 1762851875063,
+    "name": "IPFire跨站脚本漏洞（CNVD-2025-27647）",
+    "cnvd": "CNVD-2025-27647",
+    "publish": "2025-11-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"IPFire IPFire <2.29(Core Update 198)\"]",
+    "cve": "CVE-2025-34306",
+    "description": "IPFire是IPFire组织的一种开源Linux发行版，主要用作路由器和防火墙。IPFire存在跨站脚本漏洞，该漏洞源于pienumber参数未正确清理和编码，攻击者可利用该漏洞注入任意JavaScript代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.ipfire.org/show_bug.cgi?id=13881",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ipfire.org/downloads/ipfire-2.29-core198",
+    "patch": "IPFire跨站脚本漏洞（CNVD-2025-27647）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-31",
+    "open_time": "2025-11-11",
+    "update_time": "2025-11-11",
+    "data_summary": "ffb9d5c51902394333042361cd218a5c"
+}

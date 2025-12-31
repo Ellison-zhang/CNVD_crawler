@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-24 08:05:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16772",
+    "spider_time": 1753344328403,
+    "name": "D-Link DI-8100缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16772",
+    "publish": "2025-07-24",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"D-Link DI-8100 16.07.26A1\"]",
+    "cve": "CVE-2025-7790",
+    "description": "D-Link DI-8100是D-Link公司的一款企业级路由器设备。D-Link DI-8100 16.07.26A1版本存在缓冲区溢出漏洞，该漏洞源于对HTTP请求处理组件中/menu_nat.asp文件的out_addr/in_addr/out_port/proto参数处理不当。攻击者可利用该漏洞通过远程构造恶意参数触发堆栈溢出，进而执行任意代码或导致系统崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.316851\nhttps://vuldb.com/?ctiid.316851\nhttps://vuldb.com/?submit.616196\nhttps://github.com/XiDP0/MyCVE/blob/main/CVE/D-Link%20DI_8100-16.07.26A1/menu_nat_asp/menu_nat_asp.md\nhttps://www.dlink.com/",
+    "solution": "目前厂商尚未发布升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://vuldb.com/?id.316851",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-07-24",
+    "update_time": "2025-07-24",
+    "data_summary": "c9dffd70cf6041d44f6c43bbad1a1d5c"
+}

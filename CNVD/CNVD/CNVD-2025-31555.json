@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-30 23:04:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31555",
+    "spider_time": 1767135865733,
+    "name": "IBM Security Verify Information Queue权限提升漏洞",
+    "cnvd": "CNVD-2025-31555",
+    "publish": "2025-12-29",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"IBM Security Verify Information Queue 10.0.5\", \"IBM Security Verify Information Queue 10.0.6\", \"IBM Security Verify Information Queue 10.0.7\", \"IBM Security Verify Information Queue 10.0.8\"]",
+    "cve": "CVE-2024-47120",
+    "description": "IBM Security Verify Information Queue是一个微服务架构的集成平台，它利用Kafka技术和发布/订阅模型，在IBMSecurity产品之间集成数据，作为跨产品数据交换枢纽。IBM Security Verify Information Queue存在权限提升漏洞，该漏洞源于容器运行权限过高，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-47120",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.ibm.com/support/pages/node/7244514",
+    "patch": "IBM Security Verify Information Queue权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-12",
+    "open_time": "2025-12-30",
+    "update_time": "2025-12-30",
+    "data_summary": "a99ef9cafc79ca6b958c67b043cce1d6"
+}

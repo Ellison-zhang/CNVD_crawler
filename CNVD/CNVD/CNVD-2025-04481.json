@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-07 03:11:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04481",
+    "spider_time": 1741317107564,
+    "name": "LunaSVG存在未明漏洞",
+    "cnvd": "CNVD-2025-04481",
+    "publish": "2025-03-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"LunaSVG LunaSVG v3.0.1\"]",
+    "cve": "CVE-2024-55456",
+    "description": "LunaSVG是一个独立的C语言SVG渲染库。LunaSVG存在安全漏洞，该漏洞源于通过组件gray_find_cell包含分段违规。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/sammycage/lunasvg/issues/199",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/sammycage/lunasvg/releases/tag/v3.1.1",
+    "patch": "LunaSVG存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-03-07",
+    "update_time": "2025-03-07",
+    "data_summary": "a1d48ed04fec0a8a1ce956b55bb03f42"
+}

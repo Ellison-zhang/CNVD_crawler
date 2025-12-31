@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-13 07:29:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27723",
+    "spider_time": 1763018978572,
+    "name": "Car Rental System message_admin.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-27723",
+    "publish": "2025-11-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Car Rental System Car Rental System 1.0\"]",
+    "cve": "CVE-2025-6579",
+    "description": "Car Rental System是一个汽车租赁系统。Car Rental System存在SQL注入漏洞，该漏洞源于message_admin.php文件的参数Message缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6579",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-11-12",
+    "update_time": "2025-11-12",
+    "data_summary": "85799b5e7dca6fb08762a5f98046659c"
+}

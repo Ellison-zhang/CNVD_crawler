@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-13 06:11:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27579",
+    "spider_time": 1763014293098,
+    "name": "DELL Secure Connect Gateway Policy Manager跨站脚本漏洞",
+    "cnvd": "CNVD-2025-27579",
+    "publish": "2025-11-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"DELL Secure Connect Gateway Policy Manager 5.20\", \"DELL Secure Connect Gateway Policy Manager 5.22\", \"DELL Secure Connect Gateway Policy Manager 5.24\", \"DELL Secure Connect Gateway Policy Manager 5.26\", \"DELL Secure Connect Gateway Policy Manager 5.28\"]",
+    "cve": "CVE-2025-36592",
+    "description": "DELL Secure Connect Gateway Policy Manager是戴尔公司推出的一款安全连接网关管理工具，主要用于配置和管理SecureConnectGateway（SCG）设备的安全策略。DELL Secure Connect Gateway Policy Manager存在跨站脚本漏洞，该漏洞源于网页生成期间输入中和不当，攻击者可利用该漏洞导致脚本注入。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36592",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-us/000385220/dsa-2025-391-security-update-for-dell-secure-connect-gateway-policy-manager-for-multiple-vulnerabilities",
+    "patch": "DELL Secure Connect Gateway Policy Manager跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-05",
+    "open_time": "2025-11-11",
+    "update_time": "2025-11-11",
+    "data_summary": "7e8679b6b3b2d47f6846dc546df30612"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-02 04:05:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19991",
+    "spider_time": 1756785908254,
+    "name": "Google Android信息泄露漏洞（CNVD-2025-19991）",
+    "cnvd": "CNVD-2025-19991",
+    "publish": "2025-09-02",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Google Android 13\", \"Google Android 12L\", \"Google Android 14\", \"Google android 15\"]",
+    "cve": "CVE-2025-0082",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在信息泄露漏洞，该漏洞是由于StatusHint.java和TelecomServiceImpl.java的多个功能中的混淆代理造成的。攻击者可利用该漏洞在用户之间泄露图像。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://source.android.com/security/bulletin/2025-03-01",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/docs/security/bulletin/2025-03-01?hl=zh-cn",
+    "patch": "Google Android信息泄露漏洞（CNVD-2025-19991）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-28",
+    "open_time": "2025-09-02",
+    "update_time": "2025-09-02",
+    "data_summary": "539b9343308ab3ac344b420803d328e3"
+}

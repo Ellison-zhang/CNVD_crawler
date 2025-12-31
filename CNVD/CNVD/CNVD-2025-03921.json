@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-27 10:04:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03921",
+    "spider_time": 1740650656525,
+    "name": "mySCADA myPRO信息泄露漏洞",
+    "cnvd": "CNVD-2025-03921",
+    "publish": "2025-02-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"mySCADA myPRO <1.4\"]",
+    "cve": "CVE-2025-22896",
+    "description": "mySCADA myPRO是mySCADA公司的一个专业的HMI/SCADA系统，主要设计用于工业过程的可视化和控制。mySCADA myPRO存在信息泄露漏洞，该漏洞源于以明文形式存储凭据。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-044-16",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.myscada.org/downloads/mySCADAPROManager/",
+    "patch": "mySCADA myPRO信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-02-27",
+    "update_time": "2025-02-27",
+    "data_summary": "94f5e2d77d89c53578146b366c838020"
+}

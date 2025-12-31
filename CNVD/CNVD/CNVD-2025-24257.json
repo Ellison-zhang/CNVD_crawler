@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-21 05:04:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24257",
+    "spider_time": 1761023053096,
+    "name": "Online Admission System SQL注入漏洞",
+    "cnvd": "CNVD-2025-24257",
+    "publish": "2025-10-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Online Admission System Online Admission System 1.0\"]",
+    "cve": "CVE-2025-8338",
+    "description": "Online Admission System是一个在线录取系统。Online Admission System存在SQL注入漏洞，该漏洞源于文件/adminac.php中参数ID缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Sunhaobin318/CVE/issues/1",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://projectworlds.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-08-10",
+    "open_time": "2025-10-21",
+    "update_time": "2025-10-21",
+    "data_summary": "c728e9f55df60047b2d9e1aa277dc771"
+}

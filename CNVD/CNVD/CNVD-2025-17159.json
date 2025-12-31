@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-30 08:05:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17159",
+    "spider_time": 1753862718681,
+    "name": "WordPress Qwizcards plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-17159",
+    "publish": "2025-07-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress Qwizcards plugin <=3.9.4\"]",
+    "cve": "CVE-2025-6174",
+    "description": "WordPress Qwizcards plugin是WordPress平台的一款插件，主要用于创建在线quiz（问答测试）和flashcard（闪卡）内容。WordPress Qwizcards plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wpscan.com/vulnerability/ff827f67-712e-4ab6-b6aa-7f5e6ff1283a/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/qwiz-online-quizzes-and-flashcards",
+    "patch": "WordPress Qwizcards plugin跨站脚本漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "30ad21ca5d6bc3f08df1e76b36784c09"
+}

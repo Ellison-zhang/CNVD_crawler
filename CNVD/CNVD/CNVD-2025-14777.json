@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-02 07:05:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14777",
+    "spider_time": 1751439909819,
+    "name": "WordPress Auto Upload Images plugin代码问题漏洞",
+    "cnvd": "CNVD-2025-14777",
+    "publish": "2025-07-02",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Auto Upload Images plugin <=3.3.2\"]",
+    "cve": "CVE-2025-49985",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Auto Upload Images plugin存在代码问题漏洞，该漏洞源于服务器未实现足够的验证机制来确认请求的来源，攻击者可利用该漏洞探测服务器内网资源。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/auto-upload-images/vulnerability/wordpress-auto-upload-images-plugin-3-3-2-server-side-request-forgery-ssrf-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/auto-upload-images/",
+    "patch": "WordPress Auto Upload Images plugin代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-02",
+    "update_time": "2025-07-02",
+    "data_summary": "4533f27c3170ab68c98540f2bd3b6b39"
+}

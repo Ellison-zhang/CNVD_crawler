@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-05 03:22:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26887",
+    "spider_time": 1762312971618,
+    "name": "Mozilla Firefox for iOS信息泄露漏洞",
+    "cnvd": "CNVD-2025-26887",
+    "publish": "2025-11-05",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Mozilla Firefox for iOS <143.1\"]",
+    "cve": "CVE-2025-10859",
+    "description": "Mozilla Firefox for iOS是美国Mozilla基金会的一款针对iOS设备设计的网页浏览器。Mozilla Firefox for iOS存在信息泄露漏洞，该漏洞是由于非HTML临时文档的cookie存储与正常浏览内容共享不正确造成的。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.mozilla.org/show_bug.cgi?id=1684624",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2025-79/",
+    "patch": "Mozilla Firefox for iOS信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-30",
+    "open_time": "2025-11-05",
+    "update_time": "2025-11-05",
+    "data_summary": "8cc746f2c7cd19fde76c5ebf35f02388"
+}

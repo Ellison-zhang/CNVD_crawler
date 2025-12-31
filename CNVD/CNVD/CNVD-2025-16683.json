@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-23 10:04:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16683",
+    "spider_time": 1753265057124,
+    "name": "Microsoft SharePoint Server欺骗漏洞",
+    "cnvd": "CNVD-2025-16683",
+    "publish": "2025-07-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Microsoft SharePoint Enterprise Server 2016\", \"Microsoft SharePoint Server 2019\", \"Microsoft SharePoint Server Subscription Edition\"]",
+    "cve": "CVE-2025-53771",
+    "description": "SharePoint Server是微软提供的本地部署的企业协作平台，支持内容共享、知识管理和应用整合，可与 Microsoft 365订阅无缝对接以获取最新功能。Microsoft SharePoint Server存在欺骗漏洞，该漏洞源于对受限目录的路径名限制不当，未经授权的攻击者可利用漏洞通过网络发起欺骗攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-53771",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-53771",
+    "patch": "Microsoft SharePoint Server欺骗漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-07-23",
+    "update_time": "2025-07-23",
+    "data_summary": "9678d83c5a29c6ddd8c29ac47cb95306"
+}

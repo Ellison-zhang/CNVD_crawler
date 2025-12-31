@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 03:27:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13886",
+    "spider_time": 1750994834261,
+    "name": "WordPress Color Palette plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-13886",
+    "publish": "2025-06-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Color Palette plugin <=4.3.2\"]",
+    "cve": "CVE-2025-5233",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Color Palette plugin存在跨站脚本漏洞，该漏洞源于输入清理和转义不足，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/color-palette/trunk/source/blocks/color/register.php#L62",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-24",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "0884f6d3330e688db6243fbc22526972"
+}

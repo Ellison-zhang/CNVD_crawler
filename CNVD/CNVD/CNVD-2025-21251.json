@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-17 06:10:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21251",
+    "spider_time": 1758089455162,
+    "name": "Cisco IOS XR访问控制错误漏洞（CNVD-2025-21251）",
+    "cnvd": "CNVD-2025-21251",
+    "publish": "2025-09-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Cisco IOS XR\"]",
+    "cve": "CVE-2025-20159",
+    "description": "Cisco IOS XR是美国思科（Cisco）公司的一套为其网络设备开发的操作系统。Cisco IOS XR存在访问控制错误漏洞，该漏洞源于管理接口ACL存在不当的访问控制，攻击者可利用该漏洞导致绕过配置的ACL。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20159",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-acl-packetio-Swjhhbtz",
+    "patch": "Cisco IOS XR访问控制错误漏洞（CNVD-2025-21251）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-12",
+    "open_time": "2025-09-15",
+    "update_time": "2025-09-15",
+    "data_summary": "42e76a608da57f7bd3a69fc0edbce025"
+}

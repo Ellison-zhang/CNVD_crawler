@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-31 08:07:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25578",
+    "spider_time": 1761898073211,
+    "name": "Huawei HarmonyOS和EMUI拒绝服务漏洞",
+    "cnvd": "CNVD-2025-25578",
+    "publish": "2025-10-28",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Huawei EMUI 12.0.0\", \"Huawei HarmonyOS 3.0.0\", \"Huawei HarmonyOS 2.1.0\", \"Huawei HarmonyOS 2.0.0\", \"Huawei HarmonyOS 3.1.0\", \"Huawei EMUI 13.0.0\", \"Huawei HarmonyOS 4.0.0\", \"Huawei HarmonyOS 4.2.0\", \"Huawei EMUI 14.0.0\"]",
+    "cve": "CVE-2024-54101",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei EMUI是华为基于Android（安卓）进行开发的情感化操作系统。Huawei HarmonyOS和EMUI存在拒绝服务漏洞，攻击者可利用该漏洞影响可用性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-54101",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://consumer.huawei.com/en/support/bulletin/2024/12/",
+    "patch": "Huawei HarmonyOS和EMUI拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-20",
+    "open_time": "2025-10-29",
+    "update_time": "2025-10-29",
+    "data_summary": "ca5b2c70eedd73d35ee33cc0c4fcbb1f"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-05 10:15:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29941",
+    "spider_time": 1764929733977,
+    "name": "ASUS Armoury Crate链接跟随不当漏洞",
+    "cnvd": "CNVD-2025-29941",
+    "publish": "2025-12-03",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"ASUS ASUS Armoury Crate <v6.3.4\"]",
+    "cve": "CVE-2025-9968",
+    "description": "ASUS Armoury Crate是‌华硕公司开发的‌一款集中控制和管理‌ROG（玩家国度）及部分华硕电竞产品的公用程序软件。ASUS Armoury Crate存在链接跟随不当漏洞，攻击者可利用该漏洞导致本地权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-9968",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.asus.com/security-advisory/",
+    "patch": "ASUS Armoury Crate链接跟随不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-12-04",
+    "update_time": "2025-12-04",
+    "data_summary": "9f90da424bdce3aebb04bb9182c40ad2"
+}

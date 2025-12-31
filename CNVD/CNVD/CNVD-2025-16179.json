@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-16 11:03:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16179",
+    "spider_time": 1752663807339,
+    "name": "ChestnutCMS存在文件上传漏洞",
+    "cnvd": "CNVD-2025-16179",
+    "publish": "2025-07-16",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:N/I:P/A:P",
+    "product": "[\"ChestnutCMS ChestnutCMS\"]",
+    "cve": null,
+    "description": "ChestnutCMS是一款基于Spring Boot 3、Vue 2及Mybatis Plus等技术栈开发的前后端分离内容管理系统，支持站群管理、多平台静态化、元数据模型扩展等功能。ChestnutCMS存在文件上传漏洞，攻击者可利用漏洞上传恶意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.1000mz.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-06-01",
+    "open_time": "2025-07-16",
+    "update_time": "2025-07-16",
+    "data_summary": "80aa8cbe4ac46253c58bffb788245fe5"
+}

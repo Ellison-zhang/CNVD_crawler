@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 07:04:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22631",
+    "spider_time": 1758870279377,
+    "name": "Rail Pass Management System /rpms/download-pass.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-22631",
+    "publish": "2025-09-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Rail Pass Management System Rail Pass Management System 1.0\"]",
+    "cve": "CVE-2025-5975",
+    "description": "Rail Pass Management System是一个铁路通行证管理系统。Rail Pass Management System存在跨站脚本漏洞，该漏洞源于/rpms/download-pass.php文件对参数searchdata的处理不当。攻击者可利用该漏洞向用户注入恶意脚本，执行恶意代码，窃取用户信息或进行其他恶意操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/kakalalaww/CVE/issues/9\nhttps://phpgurukul.com/\nhttps://vuldb.com/?ctiid.311853\nhttps://vuldb.com/?id.311853\nhttps://vuldb.com/?submit.592440",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "76c3fb1f4ce883db2a119af4552f75e9"
+}

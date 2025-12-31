@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 08:05:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24148",
+    "spider_time": 1760688335260,
+    "name": "Juniper Networks Junos OS Evolved操作系统命令注入漏洞",
+    "cnvd": "CNVD-2025-24148",
+    "publish": "2025-10-17",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Juniper    Junos OS Evolved >=24.4\\uff0c<24.4R2-EVO\", \"Juniper    Junos OS Evolved >=24.2\\uff0c<24.2R2-S2-EVO\"]",
+    "cve": "CVE-2025-60006",
+    "description": "Juniper Networks Junos OS Evolved是美国瞻博网络（Juniper Networks）公司的Junos OS的升级版系统。Juniper Networks Junos OS Evolved存在操作系统命令注入漏洞，该漏洞源于未正确处理特殊元素，攻击者可利用该漏洞导致OS命令注入攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-60006",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://supportportal.juniper.net/JSA103163",
+    "patch": "Juniper Networks Junos OS Evolved操作系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-15",
+    "open_time": "2025-10-17",
+    "update_time": "2025-10-17",
+    "data_summary": "fa768209dfbc734e1a1922d10062b562"
+}

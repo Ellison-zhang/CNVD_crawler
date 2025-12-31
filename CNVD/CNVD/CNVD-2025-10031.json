@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-19 10:04:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10031",
+    "spider_time": 1747649050332,
+    "name": "Apache Tomcat输入验证错误漏洞（CNVD-2025-10031）",
+    "cnvd": "CNVD-2025-10031",
+    "publish": "2025-05-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apache Tomcat >=9.0.0\\uff0c<9.0.104\", \"Apache Tomcat >=10.1.0\\uff0c<10.1.40\", \"Apache Tomcat >=11.0.0\\uff0c<11.0.6\"]",
+    "cve": "CVE-2025-31651",
+    "description": "Apache Tomcat是美国阿帕奇（Apache）基金会的一款轻量级Web应用服务器。用于实现对Servlet和JavaServer Page（JSP）的支持。Apache Tomcat存在输入验证错误漏洞，该漏洞源于转义、元或控制序列中和不当，攻击者可利用该漏洞导致安全约束绕过。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2025/04/28/3",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://tomcat.apache.org/security-11.html",
+    "patch": "Apache Tomcat输入验证错误漏洞（CNVD-2025-10031）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-07",
+    "open_time": "2025-05-19",
+    "update_time": "2025-05-19",
+    "data_summary": "3ee766eb3917a7fd1d441dcbc2d9ec39"
+}

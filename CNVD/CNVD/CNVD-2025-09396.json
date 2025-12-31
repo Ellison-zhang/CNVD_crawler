@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-12 08:05:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09396",
+    "spider_time": 1747037121160,
+    "name": "Dell RecoverPoint for Virtual Machines命令执行漏洞",
+    "cnvd": "CNVD-2025-09396",
+    "publish": "2025-05-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:C/A:P",
+    "product": "[\"Dell RecoverPoint for Virtual Machines 6.0.X\"]",
+    "cve": "CVE-2025-21105",
+    "description": "Dell RecoverPoint for Virtual Machines是美国戴尔（Dell）公司的一种简单、高效的操作和灾难恢复解决方案。Dell RecoverPoint for Virtual Machines存在命令执行漏洞。攻击者可利用该漏洞修改配置，获得对未经授权数据的访问权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-21105",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000287503/dsa-2025-101-security-update-for-dell-recoverpoint-for-virtual-machines-multiple-component-vulnerabilities",
+    "patch": "Dell RecoverPoint for Virtual Machines命令执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-30",
+    "open_time": "2025-05-12",
+    "update_time": "2025-05-12",
+    "data_summary": "2f1615acf9b92c136d3e50b2c09283ec"
+}

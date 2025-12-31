@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-18 09:06:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16319",
+    "spider_time": 1752829600292,
+    "name": "Tenda A18缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16319",
+    "publish": "2025-07-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda A18 15.03.05.05\"]",
+    "cve": "CVE-2024-32305",
+    "description": "Tenda A18是一款专为复式楼、别墅及120平方米以上大户型设计的双频无线信号扩展器。Tenda A18存在缓冲区溢出漏洞，该漏洞源于fromWizardHandle方法的PPW参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/AC18/fromWizardHandle.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-2610.html",
+    "patch": "Tenda A18缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-22",
+    "open_time": "2025-07-18",
+    "update_time": "2025-07-18",
+    "data_summary": "816912b90b9931df310e9292ac9469d1"
+}

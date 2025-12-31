@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 09:06:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13731",
+    "spider_time": 1750928771773,
+    "name": "ABB多款产品拒绝服务漏洞",
+    "cnvd": "CNVD-2025-13731",
+    "publish": "2025-06-26",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"ABB ASPECT-Enterprise <=3.08.03\", \"ABB NEXUS Series <=3.08.03\", \"ABB MATRIX Series <=3.08.03\"]",
+    "cve": "CVE-2024-48848",
+    "description": "ABB ASPECT等都是瑞士ABB公司的产品。ABB ASPECT是一个可扩展建筑能源管理和控制解决方案。ABB MATRIX是一款嵌入式楼宇自动化网络控制器。ABB NEXUS是一个无线和有线解决方案。ABB多款产品存在拒绝服务漏洞，该漏洞源于磁盘过度使用问题，攻击者可利用该漏洞导致系统资源耗尽。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-48853",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://global.abb/",
+    "patch": "ABB多款产品拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "819f7da7b2d6e5690d662741a4d89b58"
+}

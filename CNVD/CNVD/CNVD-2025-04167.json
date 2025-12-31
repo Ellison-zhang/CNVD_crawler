@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-04 02:27:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-04167",
+    "spider_time": 1741055264626,
+    "name": "IBM QRadar SIEM跨站脚本漏洞（CNVD-2025-04167）",
+    "cnvd": "CNVD-2025-04167",
+    "publish": "2025-02-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"IBM IBM QRadar SIEM 7.5\"]",
+    "cve": "CVE-2024-56463",
+    "description": "IBM QRadar SIEM是美国国际商业机器（IBM）公司的一套利用安全智能保护资产和信息远离高级威胁的解决方案。该方案提供对整个IT架构范围进行监督、生成详细的数据访问和用户活动报告等功能。IBM QRadar SIEM存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-56463",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7183251",
+    "patch": "IBM QRadar SIEM跨站脚本漏洞（CNVD-2025-04167）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-19",
+    "open_time": "2025-03-04",
+    "update_time": "2025-03-04",
+    "data_summary": "c2a076a296e214a0e78e2aecadba5220"
+}

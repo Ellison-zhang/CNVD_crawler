@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-29 10:03:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11064",
+    "spider_time": 1748513032440,
+    "name": "D-Link DI-7003GV2 /H5/restart.asp文件拒绝服务漏洞",
+    "cnvd": "CNVD-2025-11064",
+    "publish": "2025-05-29",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"D-Link DI-7003GV2 24.04.18D1 R(68125)\"]",
+    "cve": "CVE-2025-4756",
+    "description": "D-Link DI-7003GV2是中国友讯（D-Link）公司的一款路由器。D-Link DI-7003GV2存在拒绝服务漏洞，该漏洞源于文件/H5/restart.asp存在不当权限管理，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/at0de/my_vulns/blob/main/Dlink/Di-7003GV2/restart.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.dlink.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-22",
+    "open_time": "2025-05-29",
+    "update_time": "2025-05-29",
+    "data_summary": "0ec7019b76004a28a0e9a9c8820175e7"
+}

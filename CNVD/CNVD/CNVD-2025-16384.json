@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 03:34:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16384",
+    "spider_time": 1753068865700,
+    "name": "Adobe ColdFusion跨站脚本漏洞（CNVD-2025-16384）",
+    "cnvd": "CNVD-2025-16384",
+    "publish": "2025-07-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Adobe ColdFusion 2025 <=Update 2\", \"Adobe ColdFusion 2023 <=Update 14\", \"Adobe ColdFusion 2021 <=Update 20\"]",
+    "cve": "CVE-2025-49542",
+    "description": "Adobe ColdFusion是美国奥多比（Adobe）公司的一套快速应用程序开发平台。该平台包括集成开发环境和脚本语言。Adobe ColdFusion存在跨站脚本漏洞，该漏洞是由于对用户提供的输入验证不当造成的。攻击者可利用该漏洞窃取受害者基于cookie的身份验证凭据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/coldfusion/apsb25-69.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/coldfusion/apsb25-69.html",
+    "patch": "Adobe ColdFusion跨站脚本漏洞（CNVD-2025-16384）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "331b1b80ee155da94649da05c8caa5fe"
+}

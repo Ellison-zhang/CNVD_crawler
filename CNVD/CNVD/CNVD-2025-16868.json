@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-25 09:06:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16868",
+    "spider_time": 1753434375080,
+    "name": "Netgear RAX30存在未明漏洞（CNVD-2025-16868）",
+    "cnvd": "CNVD-2025-16868",
+    "publish": "2025-07-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR NETGEAR RAX30 V1.0.10.94\"]",
+    "cve": "CVE-2025-44658",
+    "description": "NETGEAR RAX30是美国网件（NETGEAR）公司的一个双频无线路由器。Netgear RAX30 V1.0.10.94版本存在安全漏洞，攻击者可利用该漏洞可能导致远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://gist.github.com/TPCchecker/c72eea7a3f89070dab7dfdbf7504b2d6",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.netgear.com/about/security/",
+    "patch": "Netgear RAX30存在未明漏洞（CNVD-2025-16868）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-07-25",
+    "update_time": "2025-07-25",
+    "data_summary": "f427d5051f17a2eafdd57bc2ea8ff68b"
+}

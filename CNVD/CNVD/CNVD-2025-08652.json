@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-28 06:09:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08652",
+    "spider_time": 1745820573173,
+    "name": "kdb-audio存在二进制漏洞",
+    "cnvd": "CNVD-2025-08652",
+    "publish": "2025-04-26",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"kdb-audio kdb-audio\"]",
+    "cve": null,
+    "description": "kdb-audio是一组用于捕获和分析音频数据的命令行和GUI工具。kdb-audio存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://github.com/ggerganov/kbd-audio",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "df6fb84770f9430c260cc41e5f9cb804"
+}

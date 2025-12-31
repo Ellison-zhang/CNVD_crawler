@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-28 06:13:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08626",
+    "spider_time": 1745820818530,
+    "name": "深圳市蓝凌软件股份有限公司蓝凌EIS智慧协同平台存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-08626",
+    "publish": "2025-04-25",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u84dd\\u51cc\\u8f6f\\u4ef6\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 \\u84dd\\u51ccEIS\\u667a\\u6167\\u534f\\u540c\\u5e73\\u53f0\"]",
+    "cve": null,
+    "description": "蓝凌EIS智慧协同平台是一款专为企业提供高效协同办公和团队合作的产品。深圳市蓝凌软件股份有限公司蓝凌EIS智慧协同平台存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.landray.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-11",
+    "open_time": "2025-04-28",
+    "update_time": "2025-04-28",
+    "data_summary": "542b06b4b8beddc75d16abc80eb921fa"
+}

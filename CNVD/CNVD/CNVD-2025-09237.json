@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-08 08:04:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09237",
+    "spider_time": 1746691486640,
+    "name": "Moodle信息泄露漏洞（CNVD-2025-09237）",
+    "cnvd": "CNVD-2025-09237",
+    "publish": "2025-05-08",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:P/I:N/A:N",
+    "product": "[\"moodle Moodle\"]",
+    "cve": "CVE-2025-3637",
+    "description": "Moodle是Moodle开源的一套免费的电子学习软件平台，也称课程管理系统、学习管理系统或虚拟学习环境。Moodle存在信息泄露漏洞，该漏洞源于mod_data模块的编辑和删除页面公开了防止跨站请求伪造的机密信息。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://git.moodle.org/gw?p=moodle.git&a=search&h=HEAD&st=commit&s=MDL-65356",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://download.moodle.org/releases/latest/",
+    "patch": "Moodle信息泄露漏洞（CNVD-2025-09237）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-07",
+    "open_time": "2025-05-08",
+    "update_time": "2025-05-08",
+    "data_summary": "e07dff94a2a8e1c51cbf54ca3bb655bf"
+}

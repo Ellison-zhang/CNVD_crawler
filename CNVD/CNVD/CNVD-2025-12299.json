@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-12 09:07:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12299",
+    "spider_time": 1749719241181,
+    "name": "D-Link DI-7003GV2存在未明漏洞",
+    "cnvd": "CNVD-2025-12299",
+    "publish": "2025-06-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"D-Link DI-7003GV2 24.04.18D1 R(68125)\"]",
+    "cve": "CVE-2025-4903",
+    "description": "D-Link DI-7003GV2是中国友讯（D-Link）公司的一款路由器。D-Link DI-7003GV2存在安全漏洞，该漏洞源于文件/H5/webgl.asp函数sub_41F4F0处理不当，攻击者可利用该漏洞导致未验证密码更改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/at0de/my_vulns/blob/main/Dlink/Di-7003GV2/webgl_asp.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-22",
+    "open_time": "2025-06-12",
+    "update_time": "2025-06-12",
+    "data_summary": "502f931187df16bae65c068d2664eca5"
+}

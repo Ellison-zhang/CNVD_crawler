@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 09:07:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16551",
+    "spider_time": 1753088870643,
+    "name": "Adobe InCopy数字错误漏洞",
+    "cnvd": "CNVD-2025-16551",
+    "publish": "2025-07-21",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe InCopy <=19.5.3\", \"Adobe InCopy <=20.3\"]",
+    "cve": "CVE-2025-47097",
+    "description": "Adobe InCopy是美国奥多比（Adobe）公司的一款用于创作的文本编辑软件。Adobe InCopy存在数字错误漏洞，攻击者可利用该漏洞导致执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/incopy/apsb25-59.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/incopy/apsb25-59.html",
+    "patch": "Adobe InCopy数字错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "922d18b45828861fe32f6d9159303756"
+}

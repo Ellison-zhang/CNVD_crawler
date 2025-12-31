@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 08:05:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18327",
+    "spider_time": 1755072329116,
+    "name": "WordPress The E-Commerce ERP权限提升漏洞",
+    "cnvd": "CNVD-2025-18327",
+    "publish": "2025-08-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress The E-Commerce ERP <=2.1.1.3\"]",
+    "cve": "CVE-2025-52836",
+    "description": "WordPress The E-Commerce ERP是专为中小型企业设计的综合管理系统，集成财务管理、人力资源管理、采购管理、销售管理、库存管理及生产管理等功能，帮助企业优化业务流程、提升竞争力。WordPress The E-Commerce ERP存在权限提升漏洞，该漏洞源于权限分配不当，攻击者可利用该漏洞通过提升权限，访问受限的系统功能和数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-52836",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "8e039420fe8ca1e0ddbf0ba5be5d8077"
+}

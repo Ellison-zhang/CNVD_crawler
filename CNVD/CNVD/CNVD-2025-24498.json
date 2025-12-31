@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-22 08:05:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24498",
+    "spider_time": 1761120302719,
+    "name": "Google Android信息泄露漏洞（CNVD-2025-24498）",
+    "cnvd": "CNVD-2025-24498",
+    "publish": "2025-10-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Google Android 14.0\", \"Google Android 15.0\", \"Google Android 16.0\", \"Google Android 13.0\"]",
+    "cve": "CVE-2025-48562",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在信息泄露漏洞，该漏洞是由于RemotePrintDocument.java中writeContent函数中的逻辑错误引起的。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/252efec89b01a89b4d394c500e9dae2b6c08dbae",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-09-01",
+    "patch": "Google Android信息泄露漏洞（CNVD-2025-24498）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-10-22",
+    "update_time": "2025-10-22",
+    "data_summary": "dd4f34e801b83c277c16b58028281e12"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-27 09:06:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19513",
+    "spider_time": 1756285605689,
+    "name": "Apple macOS Sequoia信息泄露漏洞（CNVD-2025-19513）",
+    "cnvd": "CNVD-2025-19513",
+    "publish": "2025-08-27",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Apple macOS Sequoia <15.3\"]",
+    "cve": "CVE-2025-24134",
+    "description": "Apple macOS Sequoia是美国苹果（Apple）公司的一款操作系统。Apple macOS Sequoia存在信息泄露漏洞，该漏洞是由于使用特制应用程序时FaceTime组件中的信息泄露问题造成的。攻击者可利用该漏洞访问用户敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://support.apple.com/en-us/122068",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://support.apple.com/en-us/122068",
+    "patch": "Apple macOS Sequoia信息泄露漏洞（CNVD-2025-19513）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-10",
+    "open_time": "2025-08-27",
+    "update_time": "2025-08-27",
+    "data_summary": "8af903dc45137b58ce5e2246e348666e"
+}

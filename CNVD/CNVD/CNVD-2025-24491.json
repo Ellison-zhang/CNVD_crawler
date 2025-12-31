@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-22 07:07:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24491",
+    "spider_time": 1761116834074,
+    "name": "Tenda AC6 fromDhcpListClient函数堆栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-24491",
+    "publish": "2025-10-22",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Tenda AC6 US_AC6V1.0BR_V15.03.05.19\"]",
+    "cve": "CVE-2023-2923",
+    "description": "Tenda AC6是腾达（Tenda）推出的一款双频无线路由器，支持2.4GHz和5GHz频段，最高传输速率达1167Mbps。Tenda AC6存在堆栈缓冲区溢出漏洞，该漏洞源于fromDhcpListClient函数导致基于堆栈的缓冲区溢出，攻击者可利用该漏洞造成拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/GleamingEyes/vul/blob/main/1.md\nhttps://vuldb.com/?ctiid.230077\nhttps://vuldb.com/?id.230077",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-05-30",
+    "open_time": "2025-10-22",
+    "update_time": "2025-10-22",
+    "data_summary": "e7b9d7e8fb3e070ad692a3233be925ff"
+}

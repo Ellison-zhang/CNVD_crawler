@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-11 10:03:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12131",
+    "spider_time": 1749636237510,
+    "name": "SonicWall SMA1000跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-12131",
+    "publish": "2025-06-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"SonicWall SMA1000\"]",
+    "cve": "CVE-2025-40595",
+    "description": "SonicWALL SMA1000是美国SonicWALL公司的一系列安全移动访问解决方案。简化了对跨本地、云和混合数据中心托管的企业资源的端到端安全远程访问。SonicWALL SMA1000存在跨站请求伪造漏洞，该漏洞源于服务器未实现足够的验证机制来确认请求的来源，攻击者可利用该漏洞导致请求重定向。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0010",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.sonicwall.com/products/remote-access/secure-mobile-access-1000-series",
+    "patch": "SonicWall SMA1000跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-20",
+    "open_time": "2025-06-11",
+    "update_time": "2025-06-11",
+    "data_summary": "b732b900a4d492740d3cd56f67972330"
+}

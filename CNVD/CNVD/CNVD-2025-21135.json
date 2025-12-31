@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-11 10:08:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21135",
+    "spider_time": 1757585285112,
+    "name": "appRain CMF路径遍历漏洞",
+    "cnvd": "CNVD-2025-21135",
+    "publish": "2025-09-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"appRain appRain CMF 4.0.5\"]",
+    "cve": "CVE-2025-41035",
+    "description": "appRain CMF是一个内容管理框架。appRain CMF存在路径遍历漏洞，该漏洞源于未正确处理base64路径参数，攻击者可利用该漏洞通过构造的URL请求，下载系统上的任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-41035",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.incibe.es/en/incibe-cert/notices/aviso/multiple-vulnerabilities-apprain-cmf",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-09-11",
+    "update_time": "2025-09-11",
+    "data_summary": "5ec3aa29cffd728c0ad55b6a5acbc2c0"
+}

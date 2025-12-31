@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-04 03:29:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29926",
+    "spider_time": 1764818991221,
+    "name": "ZOHO ManageEngine Applications Manager信息泄露漏洞（CNVD-2025-29926）",
+    "cnvd": "CNVD-2025-29926",
+    "publish": "2025-12-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"ZOHO ManageEngine Applications Manager <=176800\"]",
+    "cve": "CVE-2025-6239",
+    "description": "ZOHO ManageEngine Applications Manager是美国卓豪（ZOHO）公司的一套IT运维管理解决方案。该产品具有应用性能管理、故障管理、报表生成和SLA管理等功能。ZOHO ManageEngine Applications Manager存在信息泄露漏洞，该漏洞源于文件或目录监控不当，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.manageengine.com/products/applications_manager/security-updates/security-updates-cve-2025-6239.html",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.manageengine.com/products/applications_manager/security-updates/security-updates-cve-2025-6239.html",
+    "patch": "ZOHO ManageEngine Applications Manager信息泄露漏洞（CNVD-2025-29926）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-22",
+    "open_time": "2025-12-04",
+    "update_time": "2025-12-04",
+    "data_summary": "baf4f520030f019e58763f86ae833d5e"
+}

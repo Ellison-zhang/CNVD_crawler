@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-14 04:04:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23562",
+    "spider_time": 1760414649168,
+    "name": "AndSoft e-TMS跨站脚本漏洞（CNVD-2025-23562）",
+    "cnvd": "CNVD-2025-23562",
+    "publish": "2025-10-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"AndSoft e-TMS v25.03\"]",
+    "cve": "CVE-2025-59754",
+    "description": "AndSoft e-TMS是西班牙AndSoft公司的一款物流管理软件。AndSoft e-TMS存在跨站脚本漏洞，该漏洞源于文件/clt/LOGINFRM_original.ASP中参数l、demo、demo2、TNTLOGIN、UO和SuppConn对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过向受害者的浏览器发送恶意URL来执行JavaScript代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.incibe.es/en/incibe-cert/notices/aviso/update-24092025-multiple-vulnerabilities-andsofts-e-tms",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://andsoft.es/es/solucio-1/menu-1/caracteristicas.html",
+    "patch": "AndSoft e-TMS跨站脚本漏洞（CNVD-2025-23562）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-13",
+    "open_time": "2025-10-14",
+    "update_time": "2025-10-14",
+    "data_summary": "25c77006d69d92da7adac4fd2a586f8b"
+}

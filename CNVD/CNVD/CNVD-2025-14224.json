@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 10:06:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14224",
+    "spider_time": 1751018773103,
+    "name": "TOTOLINK X15 /boafrm/formIpv6Setup文件缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-14224",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK X15 1.0.0-B20230714.1105\"]",
+    "cve": "CVE-2025-6402",
+    "description": "TOTOLINK X15是中国吉翁电子（TOTOLINK）公司的一款网络无线扩展器。TOTOLINK X15存在缓冲区溢出漏洞，该漏洞源于文件/boafrm/formIpv6Setup中参数submit-url未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/d2pq/cve/blob/main/616/22.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "9582536d4d2c623b30d299e2af17f4e9"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-08 06:05:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09229",
+    "spider_time": 1746684302175,
+    "name": "FreeBSD ktrace信息泄露漏洞",
+    "cnvd": "CNVD-2025-09229",
+    "publish": "2025-05-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"FreeBSD FreeBSD 14.2\"]",
+    "cve": "CVE-2025-0662",
+    "description": "FreeBSD ktrace是FreeBSD基金会的一个用于跟踪系统调用的工具。FreeBSD ktrace存在信息泄露漏洞，该漏洞是由于ktrace设施中的缺陷引起的。攻击者可利用该漏洞获取内核结构信息的内容。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://security.freebsd.org/advisories/FreeBSD-SA-25:04.ktrace.asc",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.freebsd.org/advisories/FreeBSD-SA-25:04.ktrace.asc",
+    "patch": "FreeBSD ktrace信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-05-08",
+    "update_time": "2025-05-08",
+    "data_summary": "cd41170874ad223fd30af437ba6397d8"
+}

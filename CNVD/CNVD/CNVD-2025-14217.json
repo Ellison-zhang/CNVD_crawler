@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 10:06:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14217",
+    "spider_time": 1751018781260,
+    "name": "Red Hat Connectivity Link信息泄露漏洞",
+    "cnvd": "CNVD-2025-14217",
+    "publish": "2025-06-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:P/A:P",
+    "product": "[\"Red Hat Red Hat Connectivity Link\"]",
+    "cve": "CVE-2025-25209",
+    "description": "Red Hat Connectivity Link是美国红帽（Red Hat）公司的一个Kubernetes网络连接管理平台。Red Hat Connectivity Link存在信息泄露漏洞，该漏洞源于密钥存储不当，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://access.redhat.com/security/cve/CVE-2025-25209",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://access.redhat.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-23",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "637c0018870f61609d56b1a5f8bb4ced"
+}

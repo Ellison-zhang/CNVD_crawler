@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-14 07:04:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27883",
+    "spider_time": 1763103898147,
+    "name": "WordPress Simple Downloads List plugin未经授权的数据修改漏洞",
+    "cnvd": "CNVD-2025-27883",
+    "publish": "2025-11-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Simple Downloads List plugin <=1.4.3\"]",
+    "cve": "CVE-2025-12583",
+    "description": "WordPress Simple Downloads List plugin是一个用于管理文件下载的插件，允许用户在网站上创建和管理文件下载列表。WordPress Simple Downloads List plugin存在未经授权的数据修改漏洞，攻击者可利用该漏洞导致未经授权的数据修改和恶意Web脚本注入。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/simple-downloads-list/tags/1.5.0/admin/adminpanel_v3.php?rev=3388438",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/simple-downloads-list",
+    "patch": "WordPress Simple Downloads List plugin未经授权的数据修改漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-12",
+    "open_time": "2025-11-14",
+    "update_time": "2025-11-14",
+    "data_summary": "d1c32ec16fdcef8ba44789ae9b443ed3"
+}

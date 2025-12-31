@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-20 11:03:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05453",
+    "spider_time": 1742468612454,
+    "name": "WordPress Responsive Google Map plugin存在未明漏洞（CNVD-2025-05453）",
+    "cnvd": "CNVD-2025-05453",
+    "publish": "2025-03-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Responsive Map plugin <=3.1.5\"]",
+    "cve": "CVE-2025-28920",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress plugin Responsive Google Map 3.1.5及之前版本存在安全漏洞，该漏洞源于缺少授权，攻击者可利用该漏洞导致利用错误配置的访问控制安全级别。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-28920",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://cn.wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-14",
+    "open_time": "2025-03-20",
+    "update_time": "2025-03-20",
+    "data_summary": "e74d1f6d7a89c6ed97ef4bb464db83c2"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 08:07:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18595",
+    "spider_time": 1755245261992,
+    "name": "Open5Gs输入验证错误漏洞",
+    "cnvd": "CNVD-2025-18595",
+    "publish": "2025-08-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Open5GS Open5GS 2.4.0\"]",
+    "cve": "CVE-2021-45462",
+    "description": "pen5Gs是一个5G Core和Epc的C语言开源实现，即Lte/Nr网络的核心网络。Open5GS存在安全漏洞，攻击者可利用该漏洞导致SGW-U/UPF崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2021-45462",
+    "solution": "用户可联系供应商获得补丁信息：\nhttps://github.com/open5gs/open5gs/commit/a0f2535cb5a29bba6dbbccdb90c74ccd770cc700",
+    "patch": "Open5Gs输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2021-12-23",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "5a6c05c28381eb09b7e5579c3960a4b4"
+}

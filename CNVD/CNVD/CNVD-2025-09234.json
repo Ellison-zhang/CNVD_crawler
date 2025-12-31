@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-08 07:04:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09234",
+    "spider_time": 1746687849396,
+    "name": "FreeBSD存在未明漏洞（CNVD-2025-09234）",
+    "cnvd": "CNVD-2025-09234",
+    "publish": "2025-05-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"FreeBSD FreeBSD\"]",
+    "cve": "CVE-2024-51566",
+    "description": "FreeBSD是FreeBSD基金会的一套类Unix操作系统。FreeBSD存在安全漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-51566",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://security.freebsd.org/advisories/FreeBSD-SA-24:17.bhyve.asc",
+    "patch": "FreeBSD存在未明漏洞（CNVD-2025-09234）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-20",
+    "open_time": "2025-05-08",
+    "update_time": "2025-05-08",
+    "data_summary": "fdc19079e72a700b222b718ac568c616"
+}

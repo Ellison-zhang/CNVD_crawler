@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-06 11:03:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11839",
+    "spider_time": 1749207832241,
+    "name": "Schneider Electric5500NAC、5500SHAC存在弱口令漏洞",
+    "cnvd": "CNVD-2025-11839",
+    "publish": "2025-06-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Schneider Electric 5500NAC\"]",
+    "cve": null,
+    "description": "Schneider Electric是总部位于法国的全球化电气企业，全球能效管理和自动化领域的专家。Schneider Electric 5500NAC、5500SHAC存在弱口令漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.se.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-22",
+    "open_time": "2025-06-06",
+    "update_time": "2025-06-06",
+    "data_summary": "3191fbadb2ae657c35c97d6dd56b062e"
+}

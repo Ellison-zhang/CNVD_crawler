@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-07 07:11:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27032",
+    "spider_time": 1762499463514,
+    "name": "Chat System deleteuser.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-27032",
+    "publish": "2025-11-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Chat System Chat System 1.0\"]",
+    "cve": "CVE-2025-0171",
+    "description": "Chat System是一个聊天系统。Chat System存在SQL注入漏洞，该漏洞源于/admin/deleteuser.php文件的参数id存在SQL注入。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Sinon2003/cve/blob/main/sql_inject1.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-07",
+    "open_time": "2025-11-06",
+    "update_time": "2025-11-06",
+    "data_summary": "6ce40d3cd8993983bac36c54bf7816e8"
+}

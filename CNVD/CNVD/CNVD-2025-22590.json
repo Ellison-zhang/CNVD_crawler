@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 07:08:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22590",
+    "spider_time": 1758870480303,
+    "name": "Apple macOS Sonoma逻辑问题漏洞",
+    "cnvd": "CNVD-2025-22590",
+    "publish": "2025-09-24",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Apple macOS Sonoma <14.8\"]",
+    "cve": "CVE-2025-43231",
+    "description": "Apple macOS Sonoma是苹果于2023年6月5日推出的操作系统。Apple macOS Sonoma存在逻辑问题漏洞，攻击者可利用该漏洞导致应用程序访问用户敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://support.apple.com/en-us/125112",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://support.apple.com/zh-cn/108382",
+    "patch": "Apple macOS Sonoma逻辑问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-18",
+    "open_time": "2025-09-25",
+    "update_time": "2025-09-25",
+    "data_summary": "ff5ab78af81a188b4017cafaefe4ca12"
+}

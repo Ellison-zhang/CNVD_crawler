@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-11 08:05:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27634",
+    "spider_time": 1762848351795,
+    "name": "IPFire BE_NAME参数命令注入漏洞",
+    "cnvd": "CNVD-2025-27634",
+    "publish": "2025-11-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"IPFire IPFire <2.29(Core Update 198)\"]",
+    "cve": "CVE-2025-34312",
+    "description": "IPFire是IPFire组织的一种开源 Linux 发行版，主要用作路由器和防火墙。IPFire BE_NAME参数存在命令注入漏洞，该漏洞源于安装黑名单时对BE_NAME参数处理不当，攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.ipfire.org/show_bug.cgi?id=13887",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ipfire.org/downloads/ipfire-2.29-core198",
+    "patch": "IPFire BE_NAME参数命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-31",
+    "open_time": "2025-11-11",
+    "update_time": "2025-11-11",
+    "data_summary": "08836f6162df5c2fb02b741a03c4eafc"
+}

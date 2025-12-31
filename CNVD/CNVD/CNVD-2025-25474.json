@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-31 05:06:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25474",
+    "spider_time": 1761887196134,
+    "name": "Newforma Project Center Server代码执行漏洞",
+    "cnvd": "CNVD-2025-25474",
+    "publish": "2025-10-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Newforma Project Center Server 2024.3\"]",
+    "cve": "CVE-2025-35051",
+    "description": "Newforma Project Center Server是Newforma公司的一个建筑、工程和施工（AEC）行业的项目信息管理解决方案，用于集中存储和管理项目文档和协作。Newforma Project Center Server存在代码执行漏洞，该漏洞是由于/ProjectCenter.rem端点中的不安全反序列化引起的。攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-35051",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.newforma.com/newforma-project-center/",
+    "patch": "Newforma Project Center Server代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-27",
+    "update_time": "2025-10-27",
+    "data_summary": "65cb8ae814531f33fbc13e9579e4dc31"
+}

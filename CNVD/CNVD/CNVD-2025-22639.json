@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 07:04:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22639",
+    "spider_time": 1758870284335,
+    "name": "Restaurant Table Booking System /admin/add-table.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-22639",
+    "publish": "2025-09-26",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:P/A:N",
+    "product": "[\"Restaurant Table Booking System Restaurant Table Booking System v1.0\"]",
+    "cve": "CVE-2025-5973",
+    "description": "Restaurant Table Booking System是一个餐厅餐桌预订系统。Restaurant Table Booking System存在跨站脚本漏洞，该漏洞源于/admin/add-table.php文件对参数tableno的处理不当。攻击者可利用该漏洞执行恶意脚本，例如窃取用户cookie、重定向用户到恶意网站或修改页面内容。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/kakalalaww/CVE/issues/6\nhttps://phpgurukul.com/\nhttps://vuldb.com/?ctiid.311851\nhttps://vuldb.com/?id.311851\nhttps://vuldb.com/?submit.592343",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "0ac74c18d43ea1658f65ae006cb31b05"
+}

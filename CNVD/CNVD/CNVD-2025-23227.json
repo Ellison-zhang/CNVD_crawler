@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-11 06:06:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23227",
+    "spider_time": 1760162809810,
+    "name": "Park Ticketing Management System /index.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-23227",
+    "publish": "2025-10-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Park Ticketing Management System Park Ticketing Management System V1.0\"]",
+    "cve": "CVE-2024-54811",
+    "description": "Park Ticketing Management System是一个公园票务管理系统。Park Ticketing Management System存在SQL注入漏洞，该漏洞源于应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞通过/index.php文件的login参数执行任意SQL命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Santoshcyber1/CVE-wirteup/blob/main/Phpgurukul/Park%20ticket/report%20sql.pdf",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-20",
+    "open_time": "2025-10-10",
+    "update_time": "2025-10-10",
+    "data_summary": "1d66e3e48f3ba47c7680c12868aedd74"
+}

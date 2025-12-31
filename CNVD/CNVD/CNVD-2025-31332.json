@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-26 01:32:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31332",
+    "spider_time": 1766712770343,
+    "name": "WordPress GPXpress plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-31332",
+    "publish": "2025-12-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress GPXpress plugin <=1.3\"]",
+    "cve": "CVE-2025-13960",
+    "description": "WordPress GPXpress plugin是一个用于WordPress的插件，主要用于嵌入美观的地图来展示GPX路径。‌WordPress GPXpress plugin存在跨站脚本漏洞，该漏洞源于gpxpress短代码对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/gpxpress/tags/1.3/includes/Gpxpress.php#L152",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-22",
+    "open_time": "2025-12-25",
+    "update_time": "2025-12-25",
+    "data_summary": "23689b2bc1e6dbf0fc1d037b3324c766"
+}

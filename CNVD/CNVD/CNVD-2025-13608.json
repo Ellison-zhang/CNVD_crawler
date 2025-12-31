@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:08:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13608",
+    "spider_time": 1751011696459,
+    "name": "新华三技术有限公司H3C ER5100G2存在弱口令漏洞",
+    "cnvd": "CNVD-2025-13608",
+    "publish": "2025-06-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u65b0\\u534e\\u4e09\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 H3C ER5100G2\"]",
+    "cve": null,
+    "description": "H3C ER5100G2是企业级千兆高性能路由器。新华三技术有限公司H3C ER5100G2存在弱口令漏洞，攻击者可利用漏洞登录系统，获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.h3c.com/",
+    "patch": "新华三技术有限公司H3C ER5100G2存在弱口令漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-05-15",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-27",
+    "data_summary": "cc735cac0b07266c02b412452924d715"
+}

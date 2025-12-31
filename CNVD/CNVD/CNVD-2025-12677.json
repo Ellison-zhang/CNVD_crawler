@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-17 03:25:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12677",
+    "spider_time": 1750130731814,
+    "name": "Tenda AC8 /goform/SetSysTimeCfg文件缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-12677",
+    "publish": "2025-06-17",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC8 16.03.34.09\"]",
+    "cve": "CVE-2025-5798",
+    "description": "Tenda AC8是中国腾达（Tenda）公司的一款无线路由器。Tenda AC8存在缓冲区溢出漏洞，该漏洞源于文件/goform/SetSysTimeCfg中参数timeType未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lavender-bicycle-a5a.notion.site/Tenda-AC8-fromSetSysTime-20a53a41781f807b9489fff42f262e11?source=copy_link",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-10",
+    "open_time": "2025-06-17",
+    "update_time": "2025-06-17",
+    "data_summary": "c8185f3767f8471671850699ead71c1e"
+}

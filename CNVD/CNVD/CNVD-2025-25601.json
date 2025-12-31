@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-29 07:04:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25601",
+    "spider_time": 1761721484461,
+    "name": "D-Link DIR-2150操作系统命令注入漏洞",
+    "cnvd": "CNVD-2025-25601",
+    "publish": "2025-10-29",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-2150 4.0.1\"]",
+    "cve": "CVE-2022-3210",
+    "description": "D-Link DIR-2150是一款AC2100规格的无线路由器，支持双频段（2.4GHz和5GHz）无线传输，提供四个千兆有线接口，最大理论传输速率可达2100Mbps。D-Link DIR-2150存在操作系统命令注入漏洞，该漏洞源于使用用户提供的字符串执行系统调用之前未对其进行适当验证，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-22-1222/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10304",
+    "patch": "D-Link DIR-2150操作系统命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2022-09-19",
+    "open_time": "2025-10-29",
+    "update_time": "2025-10-29",
+    "data_summary": "f643a47ad2e1802fac128e0d6730ae7b"
+}

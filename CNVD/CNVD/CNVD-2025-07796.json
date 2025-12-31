@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-21 07:04:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07796",
+    "spider_time": 1745219063692,
+    "name": "NETGEAR WNR854T pppoe_peer_mac函数命令执行漏洞",
+    "cnvd": "CNVD-2025-07796",
+    "publish": "2025-04-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR WNR854T 1.5.2\"]",
+    "cve": "CVE-2024-54803",
+    "description": "NETGEAR WNR854T是美国网件（NETGEAR）公司的一款无线路由器。NETGEAR WNR854T 1.5.2版本存在命令执行漏洞，该漏洞源于post.cgi文件pppoe_peer_mac函数的nvram参数未能正确过滤构造命令特殊字符、命令等。攻击者可利用此漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-54803",
+    "solution": "目前没有详细解决方案提供：\nhttps://faultpoint.com/post/2025-03-25-8-cves-on-the-wnr854t-junkyard/#803",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-21",
+    "open_time": "2025-04-21",
+    "update_time": "2025-04-21",
+    "data_summary": "1deba47d3910029aa1a82456fa18b831"
+}

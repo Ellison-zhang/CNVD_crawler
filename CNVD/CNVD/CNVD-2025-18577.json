@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 07:06:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18577",
+    "spider_time": 1755241596923,
+    "name": "Open5GS存在未明漏洞（CNVD-2025-18577）",
+    "cnvd": "CNVD-2025-18577",
+    "publish": "2025-08-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"Open5GS Open5GS <=2.7.3\"]",
+    "cve": "CVE-2025-5501",
+    "description": "Open5GS是Open5GS开源的一个5G Core和Epc的C语言开源实现，即Lte/Nr网络的核心网络。Open5GS存在安全漏洞，攻击者可利用该漏洞导致可达断言。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/open5gs/open5gs/commit/2daa44adab762c47a8cef69cc984946973a845b3",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/open5gs/open5gs/releases",
+    "patch": "Open5GS存在未明漏洞（CNVD-2025-18577）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "6be0f06c2d611170e1630e78febbc5f8"
+}

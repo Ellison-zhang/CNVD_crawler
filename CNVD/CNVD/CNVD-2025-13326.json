@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-24 02:35:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13326",
+    "spider_time": 1750732547567,
+    "name": "Adobe InDesign内存错误引用漏洞",
+    "cnvd": "CNVD-2025-13326",
+    "publish": "2025-06-24",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Adobe InDesign <=ID20.2\", \"Adobe Adobe InDesign <=ID19.5.3\"]",
+    "cve": "CVE-2025-43589",
+    "description": "Adobe InDesign是美国奥多比（Adobe）公司的一套排版编辑应用程序。Adobe InDesign存在内存错误引用漏洞，攻击者可利用该漏洞在系统上执行任意代码，或导致应用程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/indesign/apsb25-53.html",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://helpx.adobe.com/security/products/indesign/apsb25-53.html",
+    "patch": "Adobe InDesign内存错误引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-24",
+    "update_time": "2025-06-24",
+    "data_summary": "1f7b5b1297fda117fcc6ae7af653e1eb"
+}

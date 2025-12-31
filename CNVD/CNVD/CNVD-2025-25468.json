@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-31 05:06:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25468",
+    "spider_time": 1761887179655,
+    "name": "Microsoft 365 Copilot Business Chat欺骗漏洞（CNVD-2025-25468）",
+    "cnvd": "CNVD-2025-25468",
+    "publish": "2025-10-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Microsoft Microsoft 365 Copilot's Business Chat\"]",
+    "cve": "CVE-2025-59272",
+    "description": "Microsoft 365 Copilot Business Chat是美国Microsoft公司的一个AI聊天软件。Microsoft 365 Copilot Business Chat存在欺骗漏洞，攻击者可利用该漏洞导致欺骗攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59272",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59272",
+    "patch": "Microsoft 365 Copilot Business Chat欺骗漏洞（CNVD-2025-25468）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-27",
+    "update_time": "2025-10-27",
+    "data_summary": "3b0ab10c1be155fe4215e85225f57d56"
+}

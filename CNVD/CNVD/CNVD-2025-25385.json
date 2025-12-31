@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-27 09:05:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25385",
+    "spider_time": 1761555911843,
+    "name": "WordPress插件Acknowledgify缺少授权漏洞",
+    "cnvd": "CNVD-2025-25385",
+    "publish": "2025-10-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"WordPress Acknowledgify plugin <=1.1.3\"]",
+    "cve": "CVE-2025-62021",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件Acknowledgify存在缺少授权漏洞，攻击者可利用该漏洞导致未经授权的访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/acknowledgify/vulnerability/wordpress-acknowledgify-plugin-1-1-3-broken-access-control-vulnerability",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/acknowledgify/",
+    "patch": "WordPress插件Acknowledgify缺少授权漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-24",
+    "open_time": "2025-10-27",
+    "update_time": "2025-10-27",
+    "data_summary": "6b2c359992fa66edede22303624f568d"
+}

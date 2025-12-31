@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-10 09:05:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15419",
+    "spider_time": 1752138343457,
+    "name": "WordPress Soumettre.fr授权问题漏洞",
+    "cnvd": "CNVD-2025-15419",
+    "publish": "2025-07-10",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Soumettre.fr <=2.1.5\"]",
+    "cve": "CVE-2025-4654",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品，WordPress plugin是一个应用插件。WordPress Soumettre.fr存在授权问题漏洞，该漏洞源于函数make_signature授权检查不当，攻击者可利用该漏洞导致未授权数据修改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-4654",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.com/zh-cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-08",
+    "open_time": "2025-07-10",
+    "update_time": "2025-07-10",
+    "data_summary": "ae6467f07509300e963157a0d427e295"
+}

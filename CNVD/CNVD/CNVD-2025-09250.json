@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-08 09:04:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09250",
+    "spider_time": 1746695084249,
+    "name": "SAP NetWeaver Application Server代码注入漏洞",
+    "cnvd": "CNVD-2025-09250",
+    "publish": "2025-05-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"SAP NetWeaver Application Server\"]",
+    "cve": "CVE-2025-23186",
+    "description": "SAP NetWeaver Application Server是德国思爱普（SAP）公司的一款应用程序服务器。SAP NetWeaver Application Server存在代码注入漏洞，该漏洞源于不当的认证检查，攻击者构造恶意RFC请求到受限目标。攻击者可利用该漏洞完全控制远程服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-23186",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://me.sap.com/notes/3554667",
+    "patch": "SAP NetWeaver Application Server代码注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-18",
+    "open_time": "2025-05-08",
+    "update_time": "2025-05-08",
+    "data_summary": "3f3c0352dd0fd154a51409422889aaf8"
+}

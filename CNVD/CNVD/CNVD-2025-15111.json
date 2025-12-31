@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-04 10:04:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15111",
+    "spider_time": 1751623476787,
+    "name": "Ivanti LANDesk Management Gateway目录遍历漏洞",
+    "cnvd": "CNVD-2025-15111",
+    "publish": "2025-07-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Ivanti Ivanti LANDesk Management Gateway <=4.2-1.9\"]",
+    "cve": "CVE-2025-43716",
+    "description": "Ivanti LANDesk Management Gateway是一款用于远程管理和控制IT设备的解决方案，主要用于简化企业环境中设备的管理和维护。Ivanti LANDesk Management Gateway存在目录遍历漏洞。该漏洞源于在URI /client/index.php中通过加上%3F.php来绕过访问控制，访问管理面板中的各种端点(如/client/index.php%3F.php/gsb/firewall.php）。攻击者可利用该漏洞绕过访问控制，获取未经授权的访问权限，获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43716",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.ivanti.com/zh-cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-25",
+    "open_time": "2025-07-04",
+    "update_time": "2025-07-04",
+    "data_summary": "6cba89df40c90316cb5afd5bd237cceb"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-08 07:08:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17886",
+    "spider_time": 1754636887283,
+    "name": "WordPress Sala缺少授权漏洞",
+    "cnvd": "CNVD-2025-17886",
+    "publish": "2025-08-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"WordPress Sala <=1.1.3\"]",
+    "cve": "CVE-2025-52803",
+    "description": "WordPress Sala是一款专为初创企业、SaaS服务、软件技术等领域的WordPress主题。WordPress Sala存在缺少授权漏洞，攻击者可利用该漏洞导致访问未受ACL限制的功能。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-52803",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-08-08",
+    "update_time": "2025-08-08",
+    "data_summary": "597244045e0d7438406a80768b3a5be7"
+}

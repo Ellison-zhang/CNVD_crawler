@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-16 09:07:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30763",
+    "spider_time": 1765876026028,
+    "name": "Intel QAT software代码问题漏洞",
+    "cnvd": "CNVD-2025-30763",
+    "publish": "2025-12-16",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Intel Intel QAT software <2.3.0\"]",
+    "cve": "CVE-2024-39833",
+    "description": "Intel QAT software是指支持英特尔QuickAssist技术的软件组件集合。Intel QAT software存在代码问题漏洞，该漏洞源于搜索路径未受控，攻击者可利用该漏洞导致本地权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-39833",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://intel.com/content/www/us/en/security-center/advisory/intel-sa-01216.html",
+    "patch": "Intel QAT software代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2025-12-16",
+    "update_time": "2025-12-16",
+    "data_summary": "997e326855028a56ef8c17089cdb40f1"
+}

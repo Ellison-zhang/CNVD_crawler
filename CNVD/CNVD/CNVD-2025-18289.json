@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-13 04:10:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18289",
+    "spider_time": 1755058234687,
+    "name": "WordPress Responsive Addons for Elementor跨站脚本漏洞",
+    "cnvd": "CNVD-2025-18289",
+    "publish": "2025-08-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Responsive Addons for Elementor <=1.7.3\"]",
+    "cve": "CVE-2025-54050",
+    "description": "WordPress Responsive Addons for Elementor是一款免费插件，提供80+种Elementor小工具和150+个模板，支持250+预置页面模块。WordPress Responsive Addons for Elementor存在跨站脚本漏洞，该漏洞源于输入中和不当，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-54050",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/responsive-addons-for-elementor/",
+    "patch": "WordPress Responsive Addons for Elementor跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-08-13",
+    "update_time": "2025-08-13",
+    "data_summary": "356aa96c9746a7022ac69890748ffe4b"
+}

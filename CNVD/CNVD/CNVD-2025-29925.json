@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-04 03:29:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29925",
+    "spider_time": 1764818984732,
+    "name": "ZOHO ManageEngine OpManager跨站脚本漏洞（CNVD-2025-29925）",
+    "cnvd": "CNVD-2025-29925",
+    "publish": "2025-12-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"ZOHO manageengine opmanager <=128609\"]",
+    "cve": "CVE-2025-9227",
+    "description": "ZOHO ManageEngine OpManager是美国卓豪（ZOHO）公司的一款综合性网络监控软件。用于管理路由器、防火墙、服务器、交换机和打印机。ZOHO ManageEngine OpManager存在跨站脚本漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.manageengine.com/itom/advisory/cve-2025-9227.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.manageengine.com/itom/advisory/cve-2025-9227.html",
+    "patch": "ZOHO ManageEngine OpManager跨站脚本漏洞（CNVD-2025-29925）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-12-04",
+    "update_time": "2025-12-04",
+    "data_summary": "711bc77fa625d35f5d157a1cd5752e9a"
+}

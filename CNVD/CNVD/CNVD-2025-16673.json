@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-23 08:05:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16673",
+    "spider_time": 1753257948096,
+    "name": "Huawei HarmonyOS/EMUI日志打印不当漏洞",
+    "cnvd": "CNVD-2025-16673",
+    "publish": "2025-07-23",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Huawei HarmonyOS 3.0.0\", \"Huawei HarmonyOS 3.1.0\", \"Huawei EMUI 13.0.0\", \"Huawei HarmonyOS 4.0.0\", \"Huawei HarmonyOS 4.2.0\", \"Huawei EMUI 14.0.0\"]",
+    "cve": "CVE-2024-51528",
+    "description": "Huawei EMUI和Huawei HarmonyOS都是中国华为（Huawei）公司的产品。Huawei EMUI是一款基于Android开发的移动端操作系统。Huawei HarmonyOS是一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS和Huawei EMUI存在日志打印不当漏洞，该漏洞源于超级桌面存在日志打印不合理。攻击者可利用该漏洞导致机密性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-51528",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://consumer.huawei.com/en/support/bulletin/2024/11/",
+    "patch": "Huawei HarmonyOS/EMUI日志打印不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-07",
+    "open_time": "2025-07-23",
+    "update_time": "2025-07-23",
+    "data_summary": "7fd1fb234597416b14132969261f23d0"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-22 06:05:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24422",
+    "spider_time": 1761113144241,
+    "name": "Adobe Animate空指针解引用漏洞（CNVD-2025-24422）",
+    "cnvd": "CNVD-2025-24422",
+    "publish": "2025-10-22",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Adobe Animate 2023 <=23.0.13\", \"Adobe Animate 2024 <=24.0.10\"]",
+    "cve": "CVE-2025-54270",
+    "description": "Adobe Animate是美国奥多比（Adobe）公司的一套Flash动画制作软件。Adobe Animate存在空指针解引用漏洞，攻击者可利用该漏洞导致内存信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/animate/apsb25-97.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/animate/apsb25-97.html",
+    "patch": "Adobe Animate空指针解引用漏洞（CNVD-2025-24422）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-22",
+    "update_time": "2025-10-22",
+    "data_summary": "5cf4953ce79b3076c380d5ae3e8ac292"
+}

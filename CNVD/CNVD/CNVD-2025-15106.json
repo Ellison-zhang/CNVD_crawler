@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-04 09:05:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15106",
+    "spider_time": 1751619915595,
+    "name": "WordPress Esselink.nu Settings plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-15106",
+    "publish": "2025-07-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"WordPress Esselink.nu Settings plugin <=2.94\"]",
+    "cve": "CVE-2025-52793",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Esselink.nu Settings plugin存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/esselinknu-settings/vulnerability/wordpress-esselink-nu-settings-plugin-2-94-cross-site-request-forgery-csrf-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/esselinknu-settings/",
+    "patch": "WordPress Esselink.nu Settings plugin跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2025-07-04",
+    "update_time": "2025-07-04",
+    "data_summary": "9c0b1e84c97cf92aa82aa298819bc4cd"
+}

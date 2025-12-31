@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-11 12:06:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30516",
+    "spider_time": 1765454784588,
+    "name": "Hospital Management System betweendates-detailsreports.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-30516",
+    "publish": "2025-12-11",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:P/A:N",
+    "product": "[\"Hospital Management System Hospital Management System 4.0\"]",
+    "cve": "CVE-2024-10806",
+    "description": "Hospital Management System一套基于PHP和MySQL的医院管理系统。Hospital Management System存在跨站脚本漏洞，该漏洞源于betweendates-detailsreports.php文件的参数fromdate和todate对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.283030",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-07",
+    "open_time": "2025-12-11",
+    "update_time": "2025-12-11",
+    "data_summary": "ffb1c96c4c2ed8b9a84cc744102e238b"
+}

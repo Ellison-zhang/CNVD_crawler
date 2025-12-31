@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-17 07:04:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24124",
+    "spider_time": 1760684657716,
+    "name": "Client Details System跨站脚本漏洞",
+    "cnvd": "CNVD-2025-24124",
+    "publish": "2025-10-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Client Details System Client Details System V1.0\"]",
+    "cve": "CVE-2025-60302",
+    "description": "Client Details System是一个客户信息系统。Client Details System存在跨站脚本漏洞，该漏洞源于用户名字段未过滤恶意JavaScript代码，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-60302",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-15",
+    "open_time": "2025-10-17",
+    "update_time": "2025-10-17",
+    "data_summary": "0e62a527f510b39d9e92b4d6c42273b1"
+}

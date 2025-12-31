@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-06 11:03:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-09089",
+    "spider_time": 1746529431012,
+    "name": "WordPress插件Aeropage Sync for Airtable存在未明漏洞",
+    "cnvd": "CNVD-2025-09089",
+    "publish": "2025-05-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"WordPress Aeropage Sync for Airtable plugin <=3.2.0\"]",
+    "cve": "CVE-2025-3915",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress插件Aeropage Sync for Airtable 3.2.0及之前版本存在安全漏洞，该漏洞源于缺少能力检查，攻击者可利用此漏洞导致未授权数据丢失。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/aeropage-sync-for-airtable/trunk/aeropage.php#L476",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/aeropage-sync-for-airtable",
+    "patch": "WordPress插件Aeropage Sync for Airtable存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-30",
+    "open_time": "2025-05-06",
+    "update_time": "2025-05-06",
+    "data_summary": "731cf0cfb4c815d5018066facbbc1671"
+}

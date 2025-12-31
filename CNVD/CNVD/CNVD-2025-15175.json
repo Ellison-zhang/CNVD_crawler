@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-07 08:05:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15175",
+    "spider_time": 1751875519499,
+    "name": "Google Chrome安全绕过漏洞（CNVD-2025-15175）",
+    "cnvd": "CNVD-2025-15175",
+    "publish": "2025-07-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Google Chrome <138.0.7204.49\"]",
+    "cve": "CVE-2025-6556",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome存在安全绕过漏洞，该漏洞源于Loader组件策略执行不足，攻击者可利用该漏洞绕过内容安全策略。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6556",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://chromereleases.googleblog.com/2025/06/stable-channel-update-for-desktop_24.html",
+    "patch": "Google Chrome安全绕过漏洞（CNVD-2025-15175）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-04",
+    "open_time": "2025-07-07",
+    "update_time": "2025-07-07",
+    "data_summary": "2723d9b469a1724b5da654d243164793"
+}

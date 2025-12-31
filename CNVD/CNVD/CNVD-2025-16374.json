@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 03:33:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16374",
+    "spider_time": 1753068816495,
+    "name": "Adobe Audition存在未明漏洞（CNVD-2025-16374）",
+    "cnvd": "CNVD-2025-16374",
+    "publish": "2025-07-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Adobe Audition <=25.2\", \"Adobe Audition <=24.6.3\"]",
+    "cve": "CVE-2025-43580",
+    "description": "Adobe Audition是美国奥多比（Adobe）公司的一套多音轨编辑工具。该产品主要使用包含多音轨、波形和光谱显示的完善工具集对音频内容进行混音、编辑和创建等。Adobe Audition 25.2及之前版本和24.6.3及之前版本存在安全漏洞，攻击者可利用该漏洞导致应用程序拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/audition/apsb25-56.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/audition/apsb25-56.html",
+    "patch": "Adobe Audition存在未明漏洞（CNVD-2025-16374）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "efd34ee4387b5df74ecf7ab9674731fa"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-15 09:04:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18647",
+    "spider_time": 1755248662515,
+    "name": "HDF5 H5F__accum_free函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-18647",
+    "publish": "2025-08-15",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"HDF5 HDF5 <=1.14.6\"]",
+    "cve": "CVE-2025-2915",
+    "description": "HDF5是HDF开源的一个库。HDF5存在缓冲区溢出漏洞，该漏洞源于H5F__accum_free函数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/HDFGroup/hdf5/issues/5380",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://github.com/HDFGroup/hdf5/releases",
+    "patch": "HDF5 H5F__accum_free函数缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-03",
+    "open_time": "2025-08-15",
+    "update_time": "2025-08-15",
+    "data_summary": "8336aae7eaa1f4677c353414af66ab68"
+}

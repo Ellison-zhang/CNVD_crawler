@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-08 08:04:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06741",
+    "spider_time": 1744099492380,
+    "name": "Cisco Expressway Series跨站请求伪造漏洞（CNVD-2025-06741）",
+    "cnvd": "CNVD-2025-06741",
+    "publish": "2025-04-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Cisco Cisco Expressway Series <15.0\"]",
+    "cve": "CVE-2024-20254",
+    "description": "Cisco Expressway Series是美国思科公司的一款用于防火墙外访问设备的软件。Cisco Expressway Series存在跨站请求伪造漏洞，攻击者可利用该漏洞获取敏感信息或者执行未授权操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-20254",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-expressway-csrf-KnnZDMj3",
+    "patch": "Cisco Expressway Series跨站请求伪造漏洞（CNVD-2025-06741）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-02-19",
+    "open_time": "2025-04-08",
+    "update_time": "2025-04-08",
+    "data_summary": "4597de2502dc750a66d56d283a3030e1"
+}

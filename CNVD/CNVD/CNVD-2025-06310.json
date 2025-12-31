@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-02 09:09:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06310",
+    "spider_time": 1743584971571,
+    "name": "Adobe Acrobat Reader资源管理错误漏洞（CNVD-2025-06310）",
+    "cnvd": "CNVD-2025-06310",
+    "publish": "2025-04-02",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Acrobat reader\"]",
+    "cve": "CVE-2024-49530",
+    "description": "Adobe Acrobat Reader是美国奥多比（Adobe）公司的一款PDF查看器。该软件用于打印，签名和注释PDF。Adobe Acrobat Reader存在安全漏洞，攻击者可利用该漏洞导致在当前用户的环境中执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-49530",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/acrobat/apsb24-92.html",
+    "patch": "Adobe Acrobat Reader资源管理错误漏洞（CNVD-2025-06310）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-13",
+    "open_time": "2025-04-02",
+    "update_time": "2025-04-02",
+    "data_summary": "83592a19f878cf7dccae1e14ef886fb0"
+}

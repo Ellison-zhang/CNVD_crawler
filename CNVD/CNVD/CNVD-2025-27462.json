@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-11 01:45:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27462",
+    "spider_time": 1762825535977,
+    "name": "Fortinet FortiManager和Fortinet FortiManager Cloud命令注入漏洞",
+    "cnvd": "CNVD-2025-27462",
+    "publish": "2025-11-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Fortinet FortiManager >=7.4.1\\uff0c<7.4.4\", \"Fortinet fortimanager cloud >=7.4.1\\uff0c<7.4.4\"]",
+    "cve": "CVE-2024-46662",
+    "description": "Fortinet FortiManager和Fortinet FortiManager Cloud都是美国飞塔（Fortinet）公司的产品。Fortinet FortiManager是一套集中化网络安全管理平台。该平台支持集中管理任意数量的Fortinet设备，并能够将设备分组到不同的管理域（ADOM）进一步简化多设备安全部署与管理。Fortinet FortiManager Cloud是一个基于云的网络管理软件。Fortinet FortiManager和Fortinet FortiManager Cloud存在命令注入漏洞，该漏洞源于命令注入，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-46662",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://fortiguard.fortinet.com/",
+    "patch": "Fortinet FortiManager和Fortinet FortiManager Cloud命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-21",
+    "open_time": "2025-11-10",
+    "update_time": "2025-11-10",
+    "data_summary": "96f20a5ab05065f6e53e12cecdc87271"
+}

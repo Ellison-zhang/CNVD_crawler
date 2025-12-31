@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-17 10:04:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28483",
+    "spider_time": 1763373871989,
+    "name": "Intel CIP代码问题漏洞",
+    "cnvd": "CNVD-2025-28483",
+    "publish": "2025-11-17",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:M/C:N/I:P/A:N",
+    "product": "[\"Intel Intel CIP <WIN_DCA_2.4.0.11001\"]",
+    "cve": "CVE-2025-24862",
+    "description": "Intel CIP是英特尔推出的一项可选计划，旨在通过收集用户计算机的性能数据来改进产品。Intel CIP存在代码问题漏洞，该漏洞源于危险类型文件上传不受限制，攻击者可利用该漏洞导致数据篡改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://intel.com/content/www/us/en/security-center/advisory/intel-sa-01328.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.intel.com/content/www/us/en/download/19296/intel-computing-improvement-program.html?product=43559",
+    "patch": "Intel CIP代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-11-17",
+    "update_time": "2025-11-17",
+    "data_summary": "123629948e1ebb3091eef10820ad2c68"
+}

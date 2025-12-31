@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-29 07:04:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25569",
+    "spider_time": 1761721478311,
+    "name": "Online Banquet Booking System booking-search.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-25569",
+    "publish": "2025-10-29",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"Online Banquet Booking System Online Banquet Booking System 1.0\"]",
+    "cve": "CVE-2025-7926",
+    "description": "Online Banquet Booking System是一个网上宴会预订系统。Online Banquet Booking System存在跨站脚本漏洞，该漏洞源于对/admin/booking-search.php文件中searchdata参数的输入未进行有效过滤。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.317055\nhttps://vuldb.com/?ctiid.317055\nhttps://vuldb.com/?submit.618909\nhttps://github.com/LagonGit/ReportCVE/issues/4\nhttps://drive.google.com/file/d/1SHG0BMHHfc-6XDm43_zYVrcZEYiUvdP9/view\nhttps://phpgurukul.com/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-07-23",
+    "open_time": "2025-10-29",
+    "update_time": "2025-10-29",
+    "data_summary": "4ff331e323e983e14d4f765a0e47d521"
+}

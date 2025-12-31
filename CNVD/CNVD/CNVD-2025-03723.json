@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-24 20:04:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-03723",
+    "spider_time": 1745525052371,
+    "name": "北京亚控科技发展有限公司kingh5stream存在未授权访问漏洞",
+    "cnvd": "CNVD-2025-03723",
+    "publish": "2025-04-25",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u5317\\u4eac\\u4e9a\\u63a7\\u79d1\\u6280\\u53d1\\u5c55\\u6709\\u9650\\u516c\\u53f8 KingH5Stream\"]",
+    "cve": null,
+    "description": "北京亚控科技发展有限公司是一家工业自动化和信息化软件平台高科技企业，专注于国产工业软件自主研发、营销和服务。北京亚控科技发展有限公司kingh5stream存在未授权访问漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修补方案，建议用户下载使用：\nhttps://www.kingview.com/news_info.php?num=1002865",
+    "patch": "北京亚控科技发展有限公司kingh5stream存在未授权访问漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2024-12-28",
+    "open_time": "2025-02-26",
+    "update_time": "2025-04-25",
+    "data_summary": "3d05de32a131424d7d3f9761c48fc37c"
+}

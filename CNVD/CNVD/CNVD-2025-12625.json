@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-16 10:04:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12625",
+    "spider_time": 1750068287786,
+    "name": "WordPress History Log by click5跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12625",
+    "publish": "2025-06-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"WordPress History Log by click5 <=1.0.13\"]",
+    "cve": "CVE-2025-47598",
+    "description": "WordPress History Log by click5是一个用于跟踪用户活动、记录网站更改的插件‌。WordPress History Log by click5存在跨站脚本漏洞。该漏洞源于输入中和不当，攻击者可利用该漏洞执行恶意脚本，窃取用户的Cookie、SessionID等敏感信息，或者控制用户浏览器，进行钓鱼攻击等。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/history-log-by-click5/vulnerability/wordpress-history-log-by-click5-1-0-13-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/history-log-by-click5/",
+    "patch": "WordPress History Log by click5跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-13",
+    "open_time": "2025-06-16",
+    "update_time": "2025-06-16",
+    "data_summary": "c159e28ad6478a23cca5c34fe09468bb"
+}

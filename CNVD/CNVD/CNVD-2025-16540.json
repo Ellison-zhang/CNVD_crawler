@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 09:08:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16540",
+    "spider_time": 1753088891397,
+    "name": "Adobe Substance3D Viewer越界读取漏洞",
+    "cnvd": "CNVD-2025-16540",
+    "publish": "2025-07-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Adobe Substance3D Viewer <=0.22\"]",
+    "cve": "CVE-2025-43584",
+    "description": "Adobe Substance3D Viewer是美国奥多比（Adobe）公司的一款独立桌面应用程序，用于查看和编辑3D文件。Adobe Substance3D Viewer存在越界读取漏洞，攻击者可利用该漏洞导致敏感内存泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-43584",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/substance3d-viewer/apsb25-54.html",
+    "patch": "Adobe Substance3D Viewer越界读取漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "f93475f2aa4f90e50a3c2ee6b3eb7488"
+}

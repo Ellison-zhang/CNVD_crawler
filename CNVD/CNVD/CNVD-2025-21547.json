@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-18 03:13:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21547",
+    "spider_time": 1758165233540,
+    "name": "WordPress插件wp-publications跨站脚本漏洞",
+    "cnvd": "CNVD-2025-21547",
+    "publish": "2025-09-18",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"WordPress wp-publications plugin <=1.2\"]",
+    "cve": "CVE-2024-11605",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。WordPress插件wp-publications存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞注入任意JavaScript代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-11605",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wpscan.com/vulnerability/91c5ee70-2ff5-46cd-a0f5-54987fc2e060/",
+    "patch": "WordPress插件wp-publications跨站脚本漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-01-03",
+    "open_time": "2025-09-18",
+    "update_time": "2025-09-18",
+    "data_summary": "a3c9f5d9678189c3b302141563fe9e03"
+}

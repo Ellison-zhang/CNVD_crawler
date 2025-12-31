@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-10 08:05:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15414",
+    "spider_time": 1752134728480,
+    "name": "WordPress Vikinger路径遍历漏洞",
+    "cnvd": "CNVD-2025-15414",
+    "publish": "2025-07-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:C/A:C",
+    "product": "[\"WordPress Vikinger <=1.9.32\"]",
+    "cve": "CVE-2025-4946",
+    "description": "WordPress Vikinger是一款由国外开发者开发的WordPress博客主题。WordPress Vikinger存在路径遍历漏洞，该漏洞源于函数vikinger_delete_activity_media_ajax中文件路径验证不足，攻击者可利用该漏洞通过读取或修改应用程序之外的文件，篡改系统配置。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-4946",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/themes/",
+    "patch": "WordPress Vikinger路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-08",
+    "open_time": "2025-07-10",
+    "update_time": "2025-07-10",
+    "data_summary": "8922cacd2af77775597287f7115c127a"
+}

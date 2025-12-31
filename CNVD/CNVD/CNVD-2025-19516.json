@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-27 09:07:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19516",
+    "spider_time": 1756285623401,
+    "name": "多款Apple产品权限提升漏洞（CNVD-2025-19516）",
+    "cnvd": "CNVD-2025-19516",
+    "publish": "2025-08-27",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apple macOS Sequoia <15.2\", \"Apple macOS Sonoma <14.7.2\", \"Apple macOS Ventura <13.7.2\"]",
+    "cve": "CVE-2024-54529",
+    "description": "Apple macOS Sequoia是美国苹果（Apple）公司的一款操作系统。Apple macOS Ventura是美国Apple公司的一个桌面操作系统。Apple macOS Sonoma都是美国苹果（Apple）公司的一款操作系统。多款Apple产品存在权限提升漏洞，该漏洞是由于音频组件中的逻辑问题引起的。攻击者可利用该漏洞在系统上获得更高的权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-54529",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://support.apple.com/en-us/121839\nhttps://support.apple.com/en-us/121840\nhttps://support.apple.com/en-us/121842",
+    "patch": "多款Apple产品权限提升漏洞（CNVD-2025-19516）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-17",
+    "open_time": "2025-08-27",
+    "update_time": "2025-08-27",
+    "data_summary": "ae6a6dc9d0814c49ba2563f10de416ac"
+}

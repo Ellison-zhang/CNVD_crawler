@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-02-12 17:31:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-02542",
+    "spider_time": 1739352714484,
+    "name": "Huawei HarmonyOS输入验证错误漏洞（CNVD-2025-02542）",
+    "cnvd": "CNVD-2025-02542",
+    "publish": "2025-01-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Huawei HarmonyOS 5.0.0\"]",
+    "cve": "CVE-2024-56437",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS存在安全漏洞，攻击者可利用该漏洞导致可用性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-56437",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/cn/support/bulletin/2025/1/",
+    "patch": "Huawei HarmonyOS输入验证错误漏洞（CNVD-2025-02542）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-16",
+    "open_time": "2025-02-06",
+    "update_time": "2025-02-06",
+    "data_summary": "12ca2537e7538d60bec75d1ec2112ed9"
+}

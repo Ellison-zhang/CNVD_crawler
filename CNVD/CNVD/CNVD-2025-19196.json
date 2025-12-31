@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-21 10:04:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19196",
+    "spider_time": 1755770659521,
+    "name": "WordPress Assistant for NextGEN Gallery plugin路径遍历漏洞",
+    "cnvd": "CNVD-2025-19196",
+    "publish": "2025-08-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"WordPress Assistant for NextGEN Gallery plugin <=1.0.9\"]",
+    "cve": "CVE-2025-7641",
+    "description": "WordPress Assistant for NextGEN Gallery plugin是WordPress的一个插件，主要用于将NextGEN Gallery的图像上传、处理及相册管理功能从网站/浏览器迁移到运行在更强大桌面系统上的桌面应用程序。WordPress Assistant for NextGEN Gallery plugin存在路径遍历漏洞，该漏洞源于/wp-json/nextgenassistant/v1.0.0/control端点路径验证不足。攻击者可利用该漏洞导致可用性完全丧失。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://plugins.trac.wordpress.org/browser/assistant-for-nextgen-gallery/trunk/nextgenassistant.php#L163",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-21",
+    "update_time": "2025-08-21",
+    "data_summary": "215ebaf94bf1b8d23ffa071f4d8ec040"
+}

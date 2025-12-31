@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 03:33:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16375",
+    "spider_time": 1753068821345,
+    "name": "Adobe ColdFusion XML外部实体注入漏洞（CNVD-2025-16375）",
+    "cnvd": "CNVD-2025-16375",
+    "publish": "2025-07-21",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:M/C:C/I:N/A:N",
+    "product": "[\"Adobe ColdFusion 2025 <=Update 2\", \"Adobe ColdFusion 2023 <=Update 14\", \"Adobe ColdFusion 2021 <=Update 20\"]",
+    "cve": "CVE-2025-49539",
+    "description": "Adobe ColdFusion是美国奥多比（Adobe）公司的一套快速应用程序开发平台。该平台包括集成开发环境和脚本语言。Adobe ColdFusion存在XML外部实体注入漏洞，该漏洞源于XML外部实体引用限制不当，攻击者可利用该漏洞导致安全功能绕过。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/coldfusion/apsb25-69.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/coldfusion/apsb25-69.html",
+    "patch": "Adobe ColdFusion XML外部实体注入漏洞（CNVD-2025-16375）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "653bd40b86d16571542fc9329267608b"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-25 03:28:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29112",
+    "spider_time": 1764041333025,
+    "name": "WordPress WP Manager plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-29112",
+    "publish": "2025-11-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress WP Manager plugin <=1.4.7\"]",
+    "cve": "CVE-2025-64271",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress WP Manager plugin存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/wp-plugin-manager/vulnerability/wordpress-wp-plugin-manager-plugin-1-4-7-cross-site-request-forgery-csrf-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/wp-plugin-manager/",
+    "patch": "WordPress WP Manager plugin跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-11-21",
+    "update_time": "2025-11-21",
+    "data_summary": "2e16c66c0980ca6e9d721615a5473425"
+}

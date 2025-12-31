@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-27 04:07:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10683",
+    "spider_time": 1748318863532,
+    "name": "NETGEAR R61缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-10683",
+    "publish": "2025-05-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"NETGEAR R61 1.0.1.28\"]",
+    "cve": "CVE-2025-29044",
+    "description": "NETGEAR R61是美国网件（NETGEAR）公司的一款无线路由器。NETGEAR R61存在缓冲区溢出漏洞，该漏洞源于QUERY_STRING键值处理不当，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://gist.github.com/xyqer1/09fe6488a6655776c8c5d33e630a0f2a_x000D_\nhttps://github.com/xyqer1/Netgear-R6100-cgiMain-QUERY_STRING-StackOverflow?tab=readme-ov-file",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-24",
+    "open_time": "2025-05-27",
+    "update_time": "2025-05-27",
+    "data_summary": "b1227ec5212cd4f4d5387bddb44618cf"
+}

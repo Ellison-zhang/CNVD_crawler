@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-11 11:03:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12149",
+    "spider_time": 1749639818199,
+    "name": "TOTOLINK X2000R Device Name参数跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12149",
+    "publish": "2025-06-11",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:P/A:N",
+    "product": "[\"TOTOLINK X2000R 1.0.0-B20230726.1108\"]",
+    "cve": "CVE-2025-5543",
+    "description": "TOTOLINK X2000R是中国吉翁电子（TOTOLINK）公司的一款无线路由器。TOTOLINK X2000R存在跨站脚本漏洞，该漏洞源于组件Parent Controls Page中参数Device Name对用户提供的数据缺乏有效过滤与转义，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/fizz-is-on-the-way/Iot_vuls/tree/main/X2000R/XSS_parent_control",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-11",
+    "update_time": "2025-06-11",
+    "data_summary": "4050c0896c6dbea5e6790681eb03c9af"
+}

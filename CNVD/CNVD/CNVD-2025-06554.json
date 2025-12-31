@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-03 09:05:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06554",
+    "spider_time": 1743671112868,
+    "name": "Tencent QQ本地权限提升漏洞",
+    "cnvd": "CNVD-2025-06554",
+    "publish": "2025-04-03",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tencent  QQ >=9.7.1.28940\\uff0c<=9.7.8.29039\", \"Tencent  TIM >=3.4.5.22071\\uff0c<=3.4.7.22084\"]",
+    "cve": "CVE-2023-34312",
+    "description": "Tencent QQ是中国腾讯（Tencent）公司的一款的多平台即时通信软件。Tencent QQ存在本地权限提升漏洞。该漏洞是由于QQProtect.exe和QQProtectEngine.dll不验证来自进程间通信的指针，这会导致write what-where条件。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-34312",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tencent.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-06-02",
+    "open_time": "2025-04-03",
+    "update_time": "2025-04-03",
+    "data_summary": "97f5265f6125a6f92da960c52532d2bc"
+}

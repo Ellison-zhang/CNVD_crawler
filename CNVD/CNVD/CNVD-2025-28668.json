@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-21 07:05:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28668",
+    "spider_time": 1763708750838,
+    "name": "Mozilla Firefox和Firefox ESR安全绕过漏洞（CNVD-2025-28668）",
+    "cnvd": "CNVD-2025-28668",
+    "publish": "2025-11-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Mozilla Firefox <145\", \"Mozilla Firefox ESR <140.5\", \"Mozilla Firefox ESR <115.30\"]",
+    "cve": "CVE-2025-13013",
+    "description": "Mozilla Firefox是一款开源Web浏览器。Mozilla Firefox ESR是Firefox（Web浏览器）的一个延长支持版本。Mozilla Firefox和Firefox ESR存在安全绕过漏洞，攻击者可利用该漏洞绕过安全限制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.mozilla.org/show_bug.cgi?id=1991945",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.firefox.com/",
+    "patch": "Mozilla Firefox和Firefox ESR安全绕过漏洞（CNVD-2025-28668）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "85ddb862f2947fa5ada3fe88937eb1bf"
+}

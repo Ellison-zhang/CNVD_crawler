@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 08:04:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22663",
+    "spider_time": 1758873883749,
+    "name": "WordPress插件Academy LMS存在未明漏洞",
+    "cnvd": "CNVD-2025-22663",
+    "publish": "2025-09-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:C",
+    "product": "[\"WordPress Academy LMS plugin <=3.3.4\"]",
+    "cve": "CVE-2025-59562",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件Academy LMS存在安全漏洞，攻击者可利用该漏洞利用错误配置的访问控制安全级别。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/plugin/academy/vulnerability/wordpress-academy-lms-plugin-3-3-4-insecure-direct-object-references-idor-vulnerability?_s_id=cve",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/academy/",
+    "patch": "WordPress插件Academy LMS存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-25",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "95a4223da628635e04f2420f2771248a"
+}

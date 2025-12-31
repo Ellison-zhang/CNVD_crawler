@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-03 03:24:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11250",
+    "spider_time": 1748921086662,
+    "name": "Google Cloud Classic Application Load Balancer输入验证错误漏洞",
+    "cnvd": "CNVD-2025-11250",
+    "publish": "2025-06-03",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Google Cloud Classic Application Load Balancer\"]",
+    "cve": "CVE-2025-4600",
+    "description": "Google Cloud Classic Application Load Balancer是美国谷歌（Google）公司的一个传统应用负载均衡服务，用于在云环境中自动分配流量到后端服务实例。Google Cloud Classic Application Load Balancer存在输入验证错误漏洞，该漏洞源于对分块编码HTTP请求处理不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cloud.google.com/support/bulletins#gcp-2025-027",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://cloud.google.com/load-balancing?hl=zh_cn",
+    "patch": "Google Cloud Classic Application Load Balancer输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-22",
+    "open_time": "2025-06-03",
+    "update_time": "2025-06-03",
+    "data_summary": "4302f93d96346a766bdae47f8961dde7"
+}

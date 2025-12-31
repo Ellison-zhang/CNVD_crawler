@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-26 07:06:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-22642",
+    "spider_time": 1758870409735,
+    "name": "Restaurant Table Booking System username/mobileno参数SQL注入漏洞",
+    "cnvd": "CNVD-2025-22642",
+    "publish": "2025-09-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Restaurant Table Booking System Restaurant Table Booking System v1.0\"]",
+    "cve": "CVE-2025-1952",
+    "description": "Restaurant Table Booking System是一个餐厅餐桌预订系统。Restaurant Table Booking System存在SQL注入漏洞，该漏洞源于/admin/password-recovery.php文件的参数username/mobileno缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/zrlianc/CVE/issues/1",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-09-26",
+    "update_time": "2025-09-26",
+    "data_summary": "188a776a6278894443028dc169aec598"
+}

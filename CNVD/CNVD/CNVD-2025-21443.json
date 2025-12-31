@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-17 08:04:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21443",
+    "spider_time": 1758096292268,
+    "name": "Unmark searchform.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2025-21443",
+    "publish": "2025-09-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"unmark unmark <=1.9.3\"]",
+    "cve": "CVE-2025-10330",
+    "description": "Unmark是一个用于书签的开源待办事项应用程序。Unmark 1.9.3及之前版本存在跨站脚本漏洞，该漏洞源于文件application/views/layouts/topbar/searchform.php中参数q对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞可以通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-10330",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/cdevroe/unmark/releases",
+    "patch": "Unmark searchform.php文件跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-16",
+    "open_time": "2025-09-17",
+    "update_time": "2025-09-17",
+    "data_summary": "d1fd01cd3f90920ba46b1d0b3e52be4e"
+}

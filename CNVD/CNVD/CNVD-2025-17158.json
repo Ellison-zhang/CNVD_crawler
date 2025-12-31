@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-30 08:05:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17158",
+    "spider_time": 1753862744415,
+    "name": "WordPress User Registration Plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-17158",
+    "publish": "2025-07-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress User Registration Plugin <=4.2.4\"]",
+    "cve": "CVE-2025-6831",
+    "description": "WordPress User Registration Plugin是一种用于扩展WordPress功能的插件，主要用于创建自定义用户注册表单、管理用户账户及实现会员制功能。WordPress User Registration Plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/user-registration/tags/4.2.4/modules/content-restriction/class-urcr-shortcodes.php",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/user-registration/",
+    "patch": "WordPress User Registration Plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-07-30",
+    "update_time": "2025-07-30",
+    "data_summary": "996094f4f711a93df7b9a061da21bd5f"
+}

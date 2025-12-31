@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-01 10:04:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14521",
+    "spider_time": 1751364247451,
+    "name": "TOTOLINK X15缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-14521",
+    "publish": "2025-07-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK X15 <=1.0.0-B20230714.1105\"]",
+    "cve": "CVE-2025-6824",
+    "description": "TOTOLINK X15是一款由中国吉翁电子公司（TOTOLINK）生产的网络无线扩展器‌。TOTOLINK X15存在缓冲区溢出漏洞，该漏洞源于HTTP POST请求处理组件中/boafrm/formParentControl文件对submit-url参数的处理不当。攻击者可利用该漏洞执行任意代码或导致设备崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.314262\nhttps://vuldb.com/?ctiid.314262\nhttps://vuldb.com/?submit.602643\nhttps://github.com/awindog/cve/blob/main/688/28.md\nhttps://github.com/awindog/cve/blob/main/688/28.md#poc\nhttps://www.totolink.net/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-30",
+    "open_time": "2025-07-01",
+    "update_time": "2025-07-01",
+    "data_summary": "b70d03b6ee536e3829fc57e67be62891"
+}

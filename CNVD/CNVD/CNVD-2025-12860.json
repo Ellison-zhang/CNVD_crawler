@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-19 07:04:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12860",
+    "spider_time": 1750316656415,
+    "name": "WordPress Axle Demo Importer plugin文件上传漏洞",
+    "cnvd": "CNVD-2025-12860",
+    "publish": "2025-06-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress Axle Demo Importer plugin <=1.0.3\"]",
+    "cve": "CVE-2025-4954",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Axle Demo Importer plugin存在文件上传漏洞，该漏洞源于未验证上传文件，攻击者可利用该漏洞导致任意文件上传。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wpscan.com/vulnerability/673f35ff-e1d5-4099-86e7-8b6e3e410ef8/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-19",
+    "update_time": "2025-06-19",
+    "data_summary": "3332e28c95a48fe4b1f259221f873a67"
+}

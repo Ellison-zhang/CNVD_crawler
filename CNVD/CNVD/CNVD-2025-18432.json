@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-14 03:36:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18432",
+    "spider_time": 1755142616573,
+    "name": "D-Link DI-8100G upgrade_filter.asp命令注入漏洞",
+    "cnvd": "CNVD-2025-18432",
+    "publish": "2025-08-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DI-8100G 17.12.20A1\"]",
+    "cve": "CVE-2024-44401",
+    "description": "D-Link DI-8100G是一款专为中小型网络环境设计的宽带路由器，支持多线路带宽叠加、PPPoE/WEB认证计费、智能流量控制、上网行为管理等功能。D-Link DI-8100G存在命令注入漏洞，该漏洞源于存在通过upgrade_filter.asp文件中的sub47A60C函数进行的命令注入漏洞，攻击者可利用该漏洞提交特殊的请求，执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/lonelylonglong/openfile-/blob/main/D-link_DI_8100GA1_Command_Injection.md/D-link_DI_8100GA1_Command_Injection.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-09-09",
+    "open_time": "2025-08-14",
+    "update_time": "2025-08-14",
+    "data_summary": "ff19aa0c0eee8489066a5cb08e97ac10"
+}

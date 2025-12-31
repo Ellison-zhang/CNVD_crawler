@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-21 07:09:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16400",
+    "spider_time": 1753081761241,
+    "name": "Adobe Illustrator越界读取漏洞（CNVD-2025-16400）",
+    "cnvd": "CNVD-2025-16400",
+    "publish": "2025-07-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Adobe Illustrator 2024  <=28.7.6\", \"Adobe Illustrator 2025 <=29.5.1\"]",
+    "cve": "CVE-2025-30313",
+    "description": "Adobe Illustrator是美国奥多比（Adobe）公司的一套基于向量的图像制作软件。Adobe Illustrator存在越界读取漏洞，攻击者可利用该漏洞导致敏感内存泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/illustrator/apsb25-65.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/illustrator/apsb25-65.html",
+    "patch": "Adobe Illustrator越界读取漏洞（CNVD-2025-16400）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-21",
+    "update_time": "2025-07-21",
+    "data_summary": "76c1f426a0dadfb82d19f5b601489a24"
+}

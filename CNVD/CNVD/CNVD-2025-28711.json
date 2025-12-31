@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-20 06:11:09",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-28711",
+    "spider_time": 1763619069499,
+    "name": "WordPress Easy Email Subscription plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-28711",
+    "publish": "2025-11-17",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Easy Email Subscription plugin <=1.3\"]",
+    "cve": "CVE-2025-10691",
+    "description": "WordPress Easy Email Subscription plugin是一个用于在WordPress网站上添加邮件订阅功能的插件。WordPress Easy Email Subscription plugin存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/changeset/3388578/email-subscription-with-secure-captcha",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/email-subscription-with-secure-captcha/",
+    "patch": "WordPress Easy Email Subscription plugin跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-11",
+    "open_time": "2025-11-19",
+    "update_time": "2025-11-19",
+    "data_summary": "9d189adaa0d245c53f2b2fdd0191bd81"
+}

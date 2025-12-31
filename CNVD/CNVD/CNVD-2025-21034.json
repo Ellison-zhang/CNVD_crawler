@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-11 07:04:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21034",
+    "spider_time": 1757574256624,
+    "name": "Akinsoft MyRezzta身份验证绕过漏洞",
+    "cnvd": "CNVD-2025-21034",
+    "publish": "2025-09-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:P/A:P",
+    "product": "[\"Akinsoft MyRezzta >=s2.03.01\\uff0c<v2.05.01\"]",
+    "cve": "CVE-2025-2415",
+    "description": "Aiseesoft的是一个技术公司专业从事软件开发。Akinsoft MyRezzta存在身份验证绕过漏洞，该漏洞源于认证尝试限制不当，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.usom.gov.tr/bildirim/tr-25-0205",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.myrezzta.com/en/",
+    "patch": "Akinsoft MyRezzta身份验证绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-05",
+    "open_time": "2025-09-11",
+    "update_time": "2025-09-11",
+    "data_summary": "aafd43ef232ed41cb6cb8b2fdb119b08"
+}

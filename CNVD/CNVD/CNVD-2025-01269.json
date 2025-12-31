@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-03 20:03:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-01269",
+    "spider_time": 1743710626587,
+    "name": "北京亚控科技发展有限公司组态王存在拒绝服务漏洞",
+    "cnvd": "CNVD-2025-01269",
+    "publish": "2025-04-04",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u5317\\u4eac\\u4e9a\\u63a7\\u79d1\\u6280\\u53d1\\u5c55\\u6709\\u9650\\u516c\\u53f8 \\u7ec4\\u6001\\u738b V7.5 SP6\"]",
+    "cve": null,
+    "description": "组态王是北京亚控科技发展有限公司生产的一款工业自动化组态软件。北京亚控科技发展有限公司组态王存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已提供漏洞修补方案，建议用户下载使用：\nhttps://www.kingview.com/news_info.php?num=1002848",
+    "patch": "北京亚控科技发展有限公司组态王存在拒绝服务漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2024-12-12",
+    "open_time": "2025-01-14",
+    "update_time": "2025-04-04",
+    "data_summary": "2e0c5832f722f0f8faef64f4335a37ea"
+}

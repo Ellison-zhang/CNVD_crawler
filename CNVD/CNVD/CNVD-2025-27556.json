@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-12 07:09:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-27556",
+    "spider_time": 1762931344553,
+    "name": "Huawei HarmonyOS和EMUI包名验证绕过漏洞",
+    "cnvd": "CNVD-2025-27556",
+    "publish": "2025-11-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:C",
+    "product": "[\"Huawei EMUI 12.0.0\", \"Huawei HarmonyOS 3.0.0\", \"Huawei HarmonyOS 2.1.0\", \"Huawei HarmonyOS 2.0.0\", \"Huawei HarmonyOS 3.1.0\", \"Huawei EMUI 13.0.0\", \"Huawei HarmonyOS 4.0.0\"]",
+    "cve": "CVE-2023-52538",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei EMUI是华为基于Android(安卓)进行开发的情感化操作系统。Huawei HarmonyOS和EMUI存在包名验证绕过漏洞，该漏洞源于HwIms模块存在包名验证绕过漏洞。攻击者可利用该漏影响可用性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-52538",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://consumer.huawei.com/en/support/bulletin/2024/3/",
+    "patch": "Huawei HarmonyOS和EMUI包名验证绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-11",
+    "open_time": "2025-11-11",
+    "update_time": "2025-11-11",
+    "data_summary": "56cf5a85fd093310aed8e0237bc96eb8"
+}

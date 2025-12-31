@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-11 06:10:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30260",
+    "spider_time": 1765433417802,
+    "name": "WordPress插件CP Contact Form with PayPal存在未明漏洞",
+    "cnvd": "CNVD-2025-30260",
+    "publish": "2025-12-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"WordPress1 CP Contact Form with Paypal Plugin <=1.3.56\"]",
+    "cve": "CVE-2025-13384",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件CP Contact Form with PayPal存在安全漏洞，该漏洞源于缺少授权检查，攻击者可利用该漏洞导致未授权支付确认。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/cp-contact-form-with-paypal/tags/1.3.56/cp_contactformpp_functions.php#L541",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/cp-contact-form-with-paypal",
+    "patch": "WordPress插件CP Contact Form with PayPal存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-25",
+    "open_time": "2025-12-09",
+    "update_time": "2025-12-09",
+    "data_summary": "693dd58ea64c2f147fdd4c4b82a59970"
+}

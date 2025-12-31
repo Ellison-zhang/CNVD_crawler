@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-14 10:04:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18481",
+    "spider_time": 1755165870638,
+    "name": "D-Link DIR-846W命令执行漏洞（CNVD-2025-18481）",
+    "cnvd": "CNVD-2025-18481",
+    "publish": "2025-08-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DIR-846W A1 FW100A43\"]",
+    "cve": "CVE-2024-44341",
+    "description": "D-Link DIR-846W是一款双频千兆无线路由器，采用第二代11AC技术和MU-MIMO技术，支持双频并发传输速率达1200Mbps，适用于200M及以上宽带用户。D-Link DIR-846W存在命令执行漏洞。该漏洞源于lan（0）_dhcps_staticlist参数的远程命令执行漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-44341",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-28",
+    "open_time": "2025-08-14",
+    "update_time": "2025-08-14",
+    "data_summary": "b4c88aa708c19c9d289c40cb37d47694"
+}

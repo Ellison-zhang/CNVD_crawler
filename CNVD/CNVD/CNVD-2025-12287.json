@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-12 09:04:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12287",
+    "spider_time": 1749719068211,
+    "name": "IBM Cloud Pak for Security和IBM QRadar Suite信息泄露漏洞",
+    "cnvd": "CNVD-2025-12287",
+    "publish": "2025-06-12",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"IBM IBM Cloud Pak for Security >=1.10.0.0\\uff0c<=1.10.11.0\", \"IBM IBM QRadar Suite >=1.10.12.0\\uff0c<=1.11.2.0\"]",
+    "cve": "CVE-2025-1334",
+    "description": "IBM Cloud Pak for Security是一款应用软件。一个开放的安全平台，可连接到您现有的数据源以产生更深刻的见解，并使您能够更快地采取自动化行动。IBM QRadar Suite是一款集成式的安全信息与事件管理（SIEM）解决方案，用于监控和分析组织中的网络活动以检测潜在的安全威胁。IBM Cloud Pak for Security和IBM QRadar Suite存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.ibm.com/support/pages/node/7235432",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7235432",
+    "patch": "IBM Cloud Pak for Security和IBM QRadar Suite信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-12",
+    "update_time": "2025-06-12",
+    "data_summary": "e569197476e64e6119c1241b7b8b51ef"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-10 06:05:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20767",
+    "spider_time": 1757484355689,
+    "name": "Akinsoft OctoCloud跨站脚本漏洞",
+    "cnvd": "CNVD-2025-20767",
+    "publish": "2025-09-08",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"Akinsoft OctoCloud >=s1.09.01\\uff0c<v1.11.01\"]",
+    "cve": "CVE-2024-12972",
+    "description": "Akinsoft OctoCloud是土耳其Akinsoft公司的一个具有管理财务交易、记录收据和存货、开具发票以及生成报告功能的在线平台。Akinsoft OctoCloud s1.09.01至v1.11.01之前版本存在跨站脚本漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.usom.gov.tr/bildirim/tr-25-0203",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://octocloud.akinsoft.com.tr/en/",
+    "patch": "Akinsoft OctoCloud跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-04",
+    "open_time": "2025-09-09",
+    "update_time": "2025-09-09",
+    "data_summary": "b9992cff4035cabf71349ab2f0b42493"
+}

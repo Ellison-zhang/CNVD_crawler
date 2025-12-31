@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-11 01:34:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30293",
+    "spider_time": 1765416884976,
+    "name": "Huawei HarmonyOS拒绝服务漏洞",
+    "cnvd": "CNVD-2025-30293",
+    "publish": "2025-12-08",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Huawei HarmonyOS 5.0.1\", \"Huawei HarmonyOS 5.1.0\", \"Huawei HarmonyOS 6.0.0\"]",
+    "cve": "CVE-2025-64313",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS存在拒绝服务漏洞，该漏洞源于办公服务存在拒绝服务，攻击者可利用该漏洞影响可用性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-64313",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://consumer.huawei.com/en/support/bulletin/2025/11/",
+    "patch": "Huawei HarmonyOS拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-03",
+    "open_time": "2025-12-09",
+    "update_time": "2025-12-09",
+    "data_summary": "bff05a300a2884a6f46820a8a5a83159"
+}

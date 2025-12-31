@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-12 10:06:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21194",
+    "spider_time": 1757671594909,
+    "name": "NVIDIA GPU Display Driver存在未明漏洞（CNVD-2025-21194）",
+    "cnvd": "CNVD-2025-21194",
+    "publish": "2025-09-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"NVIDIA GPU Display Driver\"]",
+    "cve": "CVE-2025-23285",
+    "description": "NVIDIA GPU Display Driver是美国英伟达（NVIDIA）公司的一个用于操作系统中对显卡显示模块进行交互支持的驱动软件。NVIDIA GPU Display Driver存在安全漏洞，攻击者可利用该漏洞可能导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-23285",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5670",
+    "patch": "NVIDIA GPU Display Driver存在未明漏洞（CNVD-2025-21194）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-10",
+    "open_time": "2025-09-12",
+    "update_time": "2025-09-12",
+    "data_summary": "4e38fcc49d311723bb0987650765e064"
+}

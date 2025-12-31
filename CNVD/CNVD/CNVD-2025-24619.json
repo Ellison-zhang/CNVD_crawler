@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 07:05:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24619",
+    "spider_time": 1761203115156,
+    "name": "WordPress TopBar plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-24619",
+    "publish": "2025-10-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress TopBar plugin <=1.0.0\"]",
+    "cve": "CVE-2025-10300",
+    "description": "WordPress TopBar plugin是一种用于在网站顶部添加通知栏的插件，主要用于展示消息、链接或促销内容，帮助用户吸引注意力并提升转化率。WordPress TopBar plugin存在跨站请求伪造漏洞，该漏洞源于fme_nb_topbar_save_settings函数缺少或存在不正确的随机数验证，攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/topbar/trunk/admin/class-fme-nb-topbaradmin.php#L38",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "a9a352e93a98e950b8f9f39dab8ea3b8"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-30 09:07:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25887",
+    "spider_time": 1761815243847,
+    "name": "Newforma Project Center Server目录遍历漏洞",
+    "cnvd": "CNVD-2025-25887",
+    "publish": "2025-10-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:P",
+    "product": "[\"Newforma Project Center Server <=2024.3\"]",
+    "cve": "CVE-2025-35053",
+    "description": "Newforma Project Center Server是Newforma公司的一个建筑、工程和施工(AEC)行业的项目信息管理解决方案，用于集中存储和管理项目文档和协作。Newforma Project Center Server存在目录遍历漏洞，攻击者可利用该漏洞遍历系统上的目录，以NT AUTHORITY\\NetworkService权限读取和删除任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://raw.githubusercontent.com/cisagov/CSAF/develop/csaf_files/IT/white/2025/va-25-282-01.json",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.newforma.com/newforma-project-center/",
+    "patch": "Newforma Project Center Server目录遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-30",
+    "update_time": "2025-10-30",
+    "data_summary": "db6738cb44436409a22ff741aa1a83cc"
+}

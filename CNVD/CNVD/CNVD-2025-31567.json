@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-30 23:05:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31567",
+    "spider_time": 1767135919163,
+    "name": "D-Link DAP-2622堆栈缓冲区溢出远程代码执行漏洞（CNVD-2025-31567）",
+    "cnvd": "CNVD-2025-31567",
+    "publish": "2025-12-29",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DAP-2622\"]",
+    "cve": "CVE-2023-37320",
+    "description": "D-Link DAP-2622是一款由友讯科技（D-Link）推出的无线接入点（AP），设计用于企业或商业环境的无线网络覆盖。D-Link DAP-2622存在堆栈缓冲区溢出远程代码执行漏洞，该漏洞源于DDP设置SSID列表SSID名称基于堆栈的缓冲区溢出远程代码执行漏洞。攻击者可利用该漏洞使应用程序崩溃或以应用程序上下文执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.zerodayinitiative.com/advisories/ZDI-23-1274/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10349",
+    "patch": "D-Link DAP-2622堆栈缓冲区溢出远程代码执行漏洞（CNVD-2025-31567）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-08-28",
+    "open_time": "2025-12-30",
+    "update_time": "2025-12-30",
+    "data_summary": "e91cb5d6d3a575e5e0f0bb6a04836c71"
+}

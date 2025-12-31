@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-03 03:24:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11246",
+    "spider_time": 1748921066206,
+    "name": "Google Pixel权限提升漏洞",
+    "cnvd": "CNVD-2025-11246",
+    "publish": "2025-06-03",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Pixel\"]",
+    "cve": "CVE-2025-27700",
+    "description": "Google Pixel是美国谷歌（Google）公司的一款智能手机。Google Pixel存在权限提升漏洞，攻击者可利用该漏洞导致本地权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://source.android.com/security/bulletin/pixel/2025-05-01",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://pixel.google/business/",
+    "patch": "Google Pixel权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-30",
+    "open_time": "2025-06-03",
+    "update_time": "2025-06-03",
+    "data_summary": "a979857be9d3d38698b950fb6a85cd11"
+}

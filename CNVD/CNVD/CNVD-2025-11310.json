@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-04 08:05:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11310",
+    "spider_time": 1749024316725,
+    "name": "WAVLINK WN551K1 live_check.shtml接口信息泄露漏洞",
+    "cnvd": "CNVD-2025-11310",
+    "publish": "2025-06-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"WAVLINK WAVLINK WN551K1\"]",
+    "cve": "CVE-2024-38897",
+    "description": "WAVLINK WN551K1是中国睿因科技（WAVLINK）公司的一个无线路由器。WAVLINK WN551K1存在信息泄露漏洞，该漏洞源于live_check.shtml接口存在不当的授权，攻击者可利用该漏洞获取敏感的路由器信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/s4ndw1ch136/IOT-vuln-reports/blob/main/Wavlink/WN551K1/live_check.shtml/README.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.wavlink.com/en_us/product/WL-WN551K3.html‌",
+    "patch": "WAVLINK WN551K1 live_check.shtml接口信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-06-28",
+    "open_time": "2025-06-04",
+    "update_time": "2025-06-04",
+    "data_summary": "4ca5d68ba05bf62473819d92ef3338e5"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-22 10:06:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07886",
+    "spider_time": 1745316406132,
+    "name": "上海泛微网络科技股份有限公司e-cology存在命令执行漏洞（CNVD-2025-07886）",
+    "cnvd": "CNVD-2025-07886",
+    "publish": "2025-04-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"\\u4e0a\\u6d77\\u6cdb\\u5fae\\u7f51\\u7edc\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 e-cology <10.74\"]",
+    "cve": null,
+    "description": "e-cology是一款企业级协同办公自动化系统，主要为中大型企业提供全面的信息化解决方案。它以智能化、平台化和全程数字化为特点，旨在提升组织的协同办公效率和管理水平。上海泛微网络科技股份有限公司e-cology存在命令执行漏洞，攻击者可利用该漏洞向数据库中写入数据，并利用Ole组件导出为Webshell，实现远程代码执行，进而获取服务器权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已在10.74版本修复，建议用户下载使用：\nhttps://www.weaver.com.cn/cs/securityDownload.html?src=cn",
+    "patch": "上海泛微网络科技股份有限公司e-cology存在命令执行漏洞（CNVD-2025-07886）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-14",
+    "open_time": "2025-04-22",
+    "update_time": "2025-04-22",
+    "data_summary": "92f093ec96337ef4cf94bb25766d3bab"
+}

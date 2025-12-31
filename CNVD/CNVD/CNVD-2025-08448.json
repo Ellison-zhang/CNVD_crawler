@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-27 09:04:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08448",
+    "spider_time": 1745744663029,
+    "name": "新华三技术有限公司H3C Web网管用户登录存在任意文件读取漏洞",
+    "cnvd": "CNVD-2025-08448",
+    "publish": "2025-04-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u65b0\\u534e\\u4e09\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 H3C Web\\u7f51\\u7ba1\\u7528\\u6237\\u767b\\u5f55\"]",
+    "cve": null,
+    "description": "新华三技术有限公司是一家全球领先的数字化解决方案领导者。新华三技术有限公司H3C Web网管用户登录存在任意文件读取漏洞,攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.h3c.com/cn/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-03-13",
+    "open_time": "2025-04-27",
+    "update_time": "2025-04-27",
+    "data_summary": "7db47969f357979e314731d805e1a012"
+}

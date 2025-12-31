@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-17 06:07:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30771",
+    "spider_time": 1765951662645,
+    "name": "Nextcloud Calendar安全特征问题漏洞",
+    "cnvd": "CNVD-2025-30771",
+    "publish": "2025-12-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:P/A:N",
+    "product": "[\"Nextcloud Calendar >=6.0.0\\uff0c<6.0.3\"]",
+    "cve": "CVE-2025-66511",
+    "description": "Nextcloud Calendar是Nextcloud开源的一个日历应用程序。Nextcloud Calendar存在安全特征问题漏洞，该漏洞源于会议提案参与者令牌生成方式不安全，攻击者可利用该漏洞导致令牌被计算。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-66511",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://apps.nextcloud.com/apps/calendar",
+    "patch": "Nextcloud Calendar安全特征问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2025-12-16",
+    "update_time": "2025-12-16",
+    "data_summary": "e827b4a76df00678a49bdadfbe3dca94"
+}

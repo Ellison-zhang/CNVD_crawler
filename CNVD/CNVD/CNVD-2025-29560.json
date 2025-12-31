@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-28 10:04:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29560",
+    "spider_time": 1764324250814,
+    "name": "Google Chrome权限实现不当漏洞（CNVD-2025-29560）",
+    "cnvd": "CNVD-2025-29560",
+    "publish": "2025-11-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Google Chrome <140.0.7339.80\"]",
+    "cve": "CVE-2025-12911",
+    "description": "Google Chrome是由‌谷歌公司开发的免费网页浏览器。Google Chrome存在权限实现不当漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/09/stable-channel-update-for-desktop.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.google.com/chrome/",
+    "patch": "Google Chrome权限实现不当漏洞（CNVD-2025-29560）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-12",
+    "open_time": "2025-11-28",
+    "update_time": "2025-11-28",
+    "data_summary": "3b03c9d102435f92f3e657152dfa15fe"
+}

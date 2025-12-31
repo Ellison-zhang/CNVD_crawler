@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-10 10:04:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23277",
+    "spider_time": 1760090672661,
+    "name": "PyTorch存在未明漏洞",
+    "cnvd": "CNVD-2025-23277",
+    "publish": "2025-10-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Pytorch Pytorch v2.7.0\"]",
+    "cve": "CVE-2025-55557",
+    "description": "PyTorch是PyTorch开源的一个Python包。PyTorch存在安全漏洞，该漏洞源于使用Inductor编译包含torch.cummin的模型时出现名称错误，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-55557",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/pytorch/pytorch/releases",
+    "patch": "PyTorch存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-28",
+    "open_time": "2025-10-10",
+    "update_time": "2025-10-10",
+    "data_summary": "ae8d657070fbf3a6dde99a094c720a51"
+}

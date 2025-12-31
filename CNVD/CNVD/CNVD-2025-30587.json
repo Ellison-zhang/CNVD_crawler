@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-12 10:04:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30587",
+    "spider_time": 1765533896149,
+    "name": "WordPress插件Shortcodes and extra features for Phlox theme信息泄露漏洞",
+    "cnvd": "CNVD-2025-30587",
+    "publish": "2025-12-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"WordPress Shortcodes and extra features for Phlox theme plugin <=2.17.12\"]",
+    "cve": "CVE-2025-63071",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件Shortcodes and extra features for Phlox theme存在信息泄露漏洞，该漏洞源于敏感信息插入发送数据，攻击者可利用该漏洞导致检索嵌入式敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/auxin-elements/vulnerability/wordpress-shortcodes-and-extra-features-for-phlox-theme-plugin-2-17-12-sensitive-data-exposure-vulnerability?_s_id=cve",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://vdp.patchstack.com/database/Wordpress/Plugin/auxin-elements/vulnerability/wordpress-shortcodes-and-extra-features-for-phlox-theme-plugin-2-17-12-sensitive-data-exposure-vulnerability?_s_id=cve",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-12",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "5f136d08a43e618ce88ed3f461718ba2"
+}

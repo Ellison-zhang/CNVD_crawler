@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-05 15:15:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26801",
+    "spider_time": 1762355710204,
+    "name": "IBM Concert Software跨站脚本漏洞",
+    "cnvd": "CNVD-2025-26801",
+    "publish": "2025-11-03",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"IBM Concert Software >=1.0.0\\uff0c<=1.1.0\"]",
+    "cve": "CVE-2025-0656",
+    "description": "IBM Concert Software是IBM基于WatsonX平台开发的生成式人工智能驱动的自动化应用管理和监控工具，主要用于优化应用程序的运营效率和可靠性。IBM Concert Software存在跨站脚本漏洞，攻击者可利用该漏洞在Web界面中嵌入任意JavaScript代码导致凭据泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-0656",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.ibm.com/support/pages/node/7243699",
+    "patch": "IBM Concert Software跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-04",
+    "open_time": "2025-11-04",
+    "update_time": "2025-11-04",
+    "data_summary": "e7f57b50a8d817e90f743d08cd21d67a"
+}

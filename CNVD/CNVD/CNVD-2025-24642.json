@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 07:04:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24642",
+    "spider_time": 1761203076023,
+    "name": "ZenML输入验证错误漏洞",
+    "cnvd": "CNVD-2025-24642",
+    "publish": "2025-10-23",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"ZenML ZenML 0.83.1\"]",
+    "cve": "CVE-2025-8406",
+    "description": "ZenML是ZenML开源的一个可扩展的开源MLOps框架，用于创建可移植的、可用于生产的机器学习管道。ZenML 0.83.1版本存在输入验证错误漏洞，该漏洞源于PathMaterializer类在data.tar.gz解压过程中验证文件时未能有效检测符号链接和硬链接，攻击者可利用该漏洞导致任意文件写入和任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-8406",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/zenml-io/zenml/commit/5d22a48d7bf6c7f10b748577c2be79cc7969d398",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "510c903a5789159c00164fdf1f364f50"
+}

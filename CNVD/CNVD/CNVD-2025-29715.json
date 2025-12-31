@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-05 01:34:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29715",
+    "spider_time": 1764898494348,
+    "name": "TOTOLINK LR1200GB命令注入漏洞",
+    "cnvd": "CNVD-2025-29715",
+    "publish": "2025-12-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"TOTOLINK LR1200GB V9.1.0u.6619_B20230130\"]",
+    "cve": "CVE-2025-60687",
+    "description": "TOTOLINK LR1200GB是中国吉翁电子（TOTOLINK）推出的一款无线双频4GLTE路由器，支持2.4GHz和5GHz双频段网络。TOTOLINK LR1200GB存在命令注入漏洞，该漏洞源于cstecgi.cgi二进制文件未能正确过滤构造命令特殊字符、命令等，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-60687",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-12-03",
+    "update_time": "2025-12-03",
+    "data_summary": "bc28253c1c655020223a79c3a45afcb6"
+}

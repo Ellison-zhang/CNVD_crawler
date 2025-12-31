@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 08:05:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12400",
+    "spider_time": 1749801927829,
+    "name": "TOTOLINK A6000R reset_wifi命令注入漏洞",
+    "cnvd": "CNVD-2025-12400",
+    "publish": "2025-06-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK A6000R V1.0.1-B20201211.2000\"]",
+    "cve": "CVE-2024-57214",
+    "description": "TOTOLINK A6000R是一款性能卓越的无线路由器,采用先进的技术和设计,为用户提供出色的网络体验。TOTOLINK A6000R存在命令注入漏洞，该漏洞源于reset_wifi函数devname参数，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/yanggao017/vuln/tree/main/TOTOLINK/A6000R/CI_8_reset_wifi",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-13",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "0dd9b5f902116b262592b410058a9c53"
+}

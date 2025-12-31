@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-26 01:33:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31329",
+    "spider_time": 1766712790644,
+    "name": "WordPress Fix Media Library plugin信息泄露漏洞",
+    "cnvd": "CNVD-2025-31329",
+    "publish": "2025-12-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Fix Media Library plugin <=2.0\"]",
+    "cve": "CVE-2025-66126",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Fix Media Library plugin存在信息泄露漏洞，该漏洞源于插入敏感信息到发送数据中，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/wow-media-library-fix/vulnerability/wordpress-fix-media-library-plugin-2-0-sensitive-data-exposure-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-22",
+    "open_time": "2025-12-25",
+    "update_time": "2025-12-25",
+    "data_summary": "4be48bae3717e363c36b86ebfaef80cd"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-30 23:04:54",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-31561",
+    "spider_time": 1767135894464,
+    "name": "D-Link DIR-2640身份验证绕过漏洞",
+    "cnvd": "CNVD-2025-31561",
+    "publish": "2025-12-29",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"D-Link DIR-2640\"]",
+    "cve": "CVE-2023-32148",
+    "description": "D-Link DIR-2640是中国友讯（D-Link）公司生产的一款高功率Wi-Fi路由器，主要用于提供无线网络连接。D-Link DIR-2640存在身份验证绕过漏洞，该漏洞源于HNAP PrivateLogin身份验证绕过漏洞。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-32148",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10323",
+    "patch": "D-Link DIR-2640身份验证绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-07-12",
+    "open_time": "2025-12-30",
+    "update_time": "2025-12-30",
+    "data_summary": "1b2cf7d15251502d8375c32da1fbb1ae"
+}

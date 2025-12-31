@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 03:19:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24470",
+    "spider_time": 1761189573200,
+    "name": "Tenda AC18 cloneType参数堆栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-24470",
+    "publish": "2025-10-21",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"Tenda AC18 15.03.05.19\"]",
+    "cve": "CVE-2025-60661",
+    "description": "Tenda AC18是深圳市吉祥腾达科技有限公司于2016年7月推出的双频无线路由器，主要面向别墅及大户型家庭用户。Tenda AC18存在堆栈缓冲区溢出漏洞，该漏洞源于fromAdvSetMacMtuWan函数中cloneType参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://drive.google.com/file/d/10bqMY1XighOBZ5D_Q8GtWFwhmxSN2GJw/view?usp=sharing",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-13",
+    "open_time": "2025-10-22",
+    "update_time": "2025-10-22",
+    "data_summary": "9b399b5811b30c6518c687b42ca08967"
+}

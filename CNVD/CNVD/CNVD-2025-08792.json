@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-29 09:10:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08792",
+    "spider_time": 1745917836486,
+    "name": "YzmCMS跨站脚本漏洞",
+    "cnvd": "CNVD-2025-08792",
+    "publish": "2025-04-24",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"YzmCMS YzmCMS 7.1\"]",
+    "cve": "CVE-2025-3397",
+    "description": "YzmCMS是一套开源的CMS（内容管理系统）。YzmCMS存在跨站脚本漏洞。该漏洞源于message.tpl中gourl参数处理不当，攻击者可利用该漏洞导致跨站脚本攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-3397",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.yzmcms.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-14",
+    "open_time": "2025-04-29",
+    "update_time": "2025-04-29",
+    "data_summary": "69020d0b767322b8a4ef10a4759c7fcc"
+}

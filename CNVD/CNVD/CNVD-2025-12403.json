@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 08:05:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12403",
+    "spider_time": 1749801912641,
+    "name": "TOTOLINK A600UB存在未明漏洞",
+    "cnvd": "CNVD-2025-12403",
+    "publish": "2025-06-13",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A600UB\"]",
+    "cve": "CVE-2024-51141",
+    "description": "TOTOLINK A600UB是中国吉翁电子（TOTOLINK）公司的一个蓝牙无线适配器。TOTOLINK A600UB存在安全漏洞，该漏洞源于WifiAutoInstallDriver.exe和MSASN1.dll组件执行任意代码。攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-51141",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-11-21",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "2f4e5764730d546df1d1432d22687577"
+}

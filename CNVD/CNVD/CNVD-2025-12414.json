@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 09:04:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12414",
+    "spider_time": 1749805444675,
+    "name": "WordPress Bit File Manager plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2025-12414",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Bit File Manager plugin <=6.7\"]",
+    "cve": "CVE-2025-1725",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Bit File Manager plugin存在跨站脚本漏洞，该漏洞源于SVG文件上传时输入清理和转义不足，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-1725",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/file-manager",
+    "patch": "WordPress Bit File Manager plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "1f8919988b17692a67a0b5ec1f5f6843"
+}

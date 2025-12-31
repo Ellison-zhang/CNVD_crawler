@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-17 06:09:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21385",
+    "spider_time": 1758089364131,
+    "name": "Fuji Electric FRENIC RHC Loader XML外部实体引用漏洞",
+    "cnvd": "CNVD-2025-21385",
+    "publish": "2025-09-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Fuji Electric FRENIC RHC Loader <=1.1.0.3\"]",
+    "cve": "CVE-2023-29498",
+    "description": "Fuji Electric FRENIC RHC Loader是日本富士电机（Fuji Electric）公司开发的一款用于调试和监控变频器的软件工具，主要服务于工业自动化领域。Fuji Electric FRENIC RHC Loader存在XML外部实体引用漏洞，攻击者可利用该漏洞提交特殊的请求，可获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://jvndb.jvn.jp/en/contents/2023/JVNDB-2023-002022.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://felib.fujielectric.co.jp/download/details.htm?dataid=45829407&site=global&lang=en",
+    "patch": "Fuji Electric FRENIC RHC Loader XML外部实体引用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-06-12",
+    "open_time": "2025-09-17",
+    "update_time": "2025-09-17",
+    "data_summary": "26a8e3563a08e01ffc2c630b1969b70b"
+}

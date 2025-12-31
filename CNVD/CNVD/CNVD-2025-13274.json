@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-23 11:03:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13274",
+    "spider_time": 1750676619127,
+    "name": "Microsoft Office权限提升漏洞（CNVD-2025-13274）",
+    "cnvd": "CNVD-2025-13274",
+    "publish": "2025-06-23",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Office 2016\"]",
+    "cve": "CVE-2024-43600",
+    "description": "Microsoft Office是美国微软（Microsoft）公司的一款办公软件套件产品。该产品常用组件包括Word、Excel、Access、Powerpoint、FrontPage等。Microsoft Office存在权限提升漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43600",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43600",
+    "patch": "Microsoft Office权限提升漏洞（CNVD-2025-13274）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-12-13",
+    "open_time": "2025-06-23",
+    "update_time": "2025-06-23",
+    "data_summary": "98d672d0fd51fa5705409a24ba368557"
+}

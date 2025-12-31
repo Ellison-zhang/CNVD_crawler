@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-19 09:05:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-05390",
+    "spider_time": 1742375118411,
+    "name": "Google Pixel Watch缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-05390",
+    "publish": "2025-03-19",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Pixel Watch\"]",
+    "cve": "CVE-2024-56192",
+    "description": "Google Pixel Watch是美国谷歌（Google）公司的一款持久耐用的智能手表。Google Pixel Watch存在缓冲区溢出漏洞，该漏洞源于wl_cfgscan.c的wl_notify_gscan_event中缺少边界检查，攻击者可利用该漏洞导致本地权限提升，无需额外执行权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-56192",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/docs/security/bulletin/pixel-watch/2025/2025-03-01",
+    "patch": "Google Pixel Watch缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-12",
+    "open_time": "2025-03-19",
+    "update_time": "2025-03-19",
+    "data_summary": "16a2e73fa53b58e1c3a6b0544744e086"
+}

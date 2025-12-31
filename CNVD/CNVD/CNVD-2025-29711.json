@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-05 01:34:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29711",
+    "spider_time": 1764898472448,
+    "name": "TOTOLINK A720R命令注入漏洞（CNVD-2025-29711）",
+    "cnvd": "CNVD-2025-29711",
+    "publish": "2025-12-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"TOTOLINK A720R V4.1.5cu.614_B20230630\"]",
+    "cve": "CVE-2025-60683",
+    "description": "TOTOLINK A720R是中国吉翁电子（TOTOLINK）推出的一款无线路由器，具备双频Wi-Fi功能，主打高速网络和信号覆盖。TOTOLINK A720R存在命令注入漏洞，该漏洞源于sysconf二进制文件处理/var/system/linux_vlan_reinit文件时验证不足，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-60683",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://totolink.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-18",
+    "open_time": "2025-12-03",
+    "update_time": "2025-12-03",
+    "data_summary": "5336bc6ce09bf780faa42f3ee20f6931"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-11-05 03:25:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-26790",
+    "spider_time": 1762313130460,
+    "name": "Google Android释放后重用漏洞",
+    "cnvd": "CNVD-2025-26790",
+    "publish": "2025-11-03",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android 14.0\", \"Google Android 15.0\", \"Google Android 16.0\", \"Google Android 13.0\"]",
+    "cve": "CVE-2025-48543",
+    "description": "Google Android是一种基于Linux内核的自由及开放源代码移动操作系统，由Google公司与开放手机联盟共同开发，主要用于智能手机、平板电脑等设备。Google Android存在释放后重用漏洞，攻击者可利用该漏洞导致Chrome沙箱逃逸，本地权限提升，攻击Android system_server。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/art/+/444fc40dfb04d2ec5f74c443ed3a4dd45d3131f2",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/2025-09-01",
+    "patch": "Google Android释放后重用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-11-04",
+    "update_time": "2025-11-04",
+    "data_summary": "020c7c7e833cf720db5bcf6c2de89374"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-16 09:12:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21256",
+    "spider_time": 1758013975733,
+    "name": "Cisco Webex Meetings跨站脚本漏洞（CNVD-2025-21256）",
+    "cnvd": "CNVD-2025-21256",
+    "publish": "2025-09-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Cisco WebEx Meetings\"]",
+    "cve": "CVE-2025-20328",
+    "description": "Cisco Webex Meetings是美国思科（Cisco）公司的一套视频会议解决方案。Cisco Webex Meetings存在跨站脚本漏洞，该漏洞源于对用户输入验证不足，攻击者可利用该漏洞导致跨站脚本攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20328",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-webex-xss-55bv8hhm",
+    "patch": "Cisco Webex Meetings跨站脚本漏洞（CNVD-2025-21256）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-05",
+    "open_time": "2025-09-15",
+    "update_time": "2025-09-15",
+    "data_summary": "2aac34e26ebe26a644b6f962257f359a"
+}

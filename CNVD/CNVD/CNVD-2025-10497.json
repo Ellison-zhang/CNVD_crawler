@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-23 02:32:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10497",
+    "spider_time": 1747967572267,
+    "name": "北京星网锐捷网络技术有限公司EG210G-P###EG105G-V2###NBR路由器###EG105G存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-10497",
+    "publish": "2025-05-23",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"\\u5317\\u4eac\\u661f\\u7f51\\u9510\\u6377\\u7f51\\u7edc\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 EG210G-P\"]",
+    "cve": null,
+    "description": "北京星网锐捷网络技术有限公司是ICT基础设施及行业解决方案提供商，主营业务为网络设备、网络安全产品及云桌面解决方案的研发、设计和销售。北京星网锐捷网络技术有限公司EG210G-P、EG105G-V2、NBR路由器和EG105G存在逻辑缺陷漏洞,攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.ruijie.com.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-08",
+    "open_time": "2025-05-23",
+    "update_time": "2025-05-23",
+    "data_summary": "625deda2bf27ec0565a3443623aadc3f"
+}

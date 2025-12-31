@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-13 04:09:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12370",
+    "spider_time": 1749787748670,
+    "name": "SonicWall NetExtender Windows client权限提升漏洞（CNVD-2025-12370）",
+    "cnvd": "CNVD-2025-12370",
+    "publish": "2025-06-13",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"SonicWall NetExtender Windows client\"]",
+    "cve": "CVE-2025-23007",
+    "description": "SonicWall NetExtender Windows client是美国SonicWALL公司的一个允许远程用户以安全方式连接到远程网络的软件应用程序。为Windows和Linux用户提供简单而安全的访问。SonicWall NetExtender Windows client存在权限提升漏洞，攻击者可利用该漏洞访问敏感的Windows系统文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0005",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0005",
+    "patch": "SonicWall NetExtender Windows client权限提升漏洞（CNVD-2025-12370）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2025-06-13",
+    "update_time": "2025-06-13",
+    "data_summary": "e9d793eec1ff35cff0cb8ca4767ef4cb"
+}

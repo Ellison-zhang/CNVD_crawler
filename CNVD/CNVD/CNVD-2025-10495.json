@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-23 02:33:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10495",
+    "spider_time": 1747967582234,
+    "name": "慧与（中国）有限公司HPE OfficeConnect Switch 1920S 24G 2SFP PoE+ (370W) JL385A存在弱口令漏洞",
+    "cnvd": "CNVD-2025-10495",
+    "publish": "2025-05-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u6167\\u4e0e\\uff08\\u4e2d\\u56fd\\uff09\\u6709\\u9650\\u516c\\u53f8 HPE OfficeConnect Switch 1920S 24G 2SFP PoE+ (370W) JL385A\"]",
+    "cve": null,
+    "description": "慧与（中国）有限公司是一家主要从事计算机硬件、软件及其外围设备的研制开发、生产制造，并经营相关电子产品的公司。慧与（中国）有限公司HPE OfficeConnect Switch 1920S 24G 2SFP PoE+ (370W) JL385A存在弱口令漏洞,攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.hpe.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-08",
+    "open_time": "2025-05-23",
+    "update_time": "2025-05-23",
+    "data_summary": "2cc3ff3aaab8d866ed9d6495d3b2557b"
+}

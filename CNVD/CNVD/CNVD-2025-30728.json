@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-16 02:36:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30728",
+    "spider_time": 1765852615391,
+    "name": "Google Android权限提升漏洞（CNVD-2025-30728）",
+    "cnvd": "CNVD-2025-30728",
+    "publish": "2025-12-16",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android 14.0\", \"Google Android 15.0\", \"Google Android 16.0\", \"Google Android 13.0\"]",
+    "cve": "CVE-2025-32347",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在权限提升漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/packages/apps/Settings/+/25cfacbe5ac2423b8fe1375e0593ef69e98b8d09",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-09-01",
+    "patch": "Google Android权限提升漏洞（CNVD-2025-30728）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2025-12-16",
+    "update_time": "2025-12-16",
+    "data_summary": "740338001b590d975d69dd275b9443b5"
+}

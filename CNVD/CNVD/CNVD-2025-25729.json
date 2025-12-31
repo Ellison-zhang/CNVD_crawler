@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-30 07:05:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-25729",
+    "spider_time": 1761807923267,
+    "name": "Simple Grading System add_student_grade.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-25729",
+    "publish": "2025-10-30",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Simple Grading System Simple Grading System 1.0\"]",
+    "cve": "CVE-2025-9664",
+    "description": "Simple Grading System是一个简易评分系统。Simple Grading System存在SQL注入漏洞，该漏洞源于文件/add_student_grade.php中参数Add缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.yuque.com/yuqueyonghuexlgkz/zepczx/hg9oefolxkpyof4l?singleDoc",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-02",
+    "open_time": "2025-10-30",
+    "update_time": "2025-10-30",
+    "data_summary": "025f272af4e0cdac6d508cb240b5a52c"
+}

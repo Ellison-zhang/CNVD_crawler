@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-15 07:07:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30426",
+    "spider_time": 1765782423505,
+    "name": "BP Monitoring Management System edit-family-member.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2025-30426",
+    "publish": "2025-12-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"BP Monitoring Management System BP Monitoring Management System v1.0\"]",
+    "cve": "CVE-2025-5761",
+    "description": "BP Monitoring Management System是一个bp监控管理系统。BP Monitoring Management System存在SQL注入漏洞，该漏洞源于文件/edit-family-member.php中参数memberage缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/qingchuana/q1ngchuan/issues/5",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-10",
+    "open_time": "2025-12-11",
+    "update_time": "2025-12-11",
+    "data_summary": "b52b562c9222a9e91f6db7c3798de6ad"
+}

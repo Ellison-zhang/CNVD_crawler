@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 08:09:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13982",
+    "spider_time": 1751011767755,
+    "name": "深圳市吉祥腾达科技有限公司AC10存在二进制漏洞",
+    "cnvd": "CNVD-2025-13982",
+    "publish": "2025-06-27",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:P",
+    "product": "[\"\\u6df1\\u5733\\u5e02\\u5409\\u7965\\u817e\\u8fbe\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 AC10 v16.03.10.20\"]",
+    "cve": null,
+    "description": "AC10是一款专为光纤用户设计的千兆无线路由器‌。深圳市吉祥腾达科技有限公司AC10存在二进制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://www.tenda.com.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-13",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "399f4f0549f986868f62e1e49f9cacc8"
+}

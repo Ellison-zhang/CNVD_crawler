@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-02 08:05:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20068",
+    "spider_time": 1756800342373,
+    "name": "多款Mozilla产品权限提升漏洞（CNVD-2025-20068）",
+    "cnvd": "CNVD-2025-20068",
+    "publish": "2025-09-02",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Mozilla Firefox <141\", \"Mozilla Thunderbird <141\", \"Mozilla Firefox ESR <115.26\", \"Mozilla Firefox ESR <128.13\", \"Mozilla Firefox ESR <140.1\", \"Mozilla Thunderbird <128.13\", \"Mozilla Thunderbird <140.1\"]",
+    "cve": "CVE-2025-8028",
+    "description": "Mozilla Firefox是一款开源Web浏览器。Mozilla Firefox ESR是Firefox（Web浏览器）的一个延长支持版本。Mozilla Thunderbird是一套从Mozilla Application Suite独立出来的电子邮件客户端软件。Mozilla多款产品存在权限提升漏洞，攻击者可利用该漏洞在系统上获得更高的权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.mozilla.org/show_bug.cgi?id=1971581",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.firefox.com/zh-CN/?utm_campaign=SET_DEFAULT_BROWSER",
+    "patch": "多款Mozilla产品权限提升漏洞（CNVD-2025-20068）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2025-09-02",
+    "update_time": "2025-09-02",
+    "data_summary": "38da4a552394c937289cd421c306b091"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-11 09:13:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15516",
+    "spider_time": 1752225197770,
+    "name": "MongoDB Server资源管理错误漏洞（CNVD-2025-15516）",
+    "cnvd": "CNVD-2025-15516",
+    "publish": "2025-07-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"MongoDB MongoDB Server >=8.0\\uff0c<8.0.10\"]",
+    "cve": "CVE-2025-6712",
+    "description": "MongoDB Server是MongoDB公司的分布式文档数据库系统。MongoDB Server 8.0至8.0.10之前版本存在资源管理错误漏洞，该漏洞源于内部操作的内存管理效率不足。攻击者可利用该漏洞通过高内存占用导致服务中断或服务器崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6712",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载接：\nhttps://jira.mongodb.org/browse/SERVER-106751",
+    "patch": "MongoDB Server资源管理错误漏洞（CNVD-2025-15516）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-08",
+    "open_time": "2025-07-11",
+    "update_time": "2025-07-11",
+    "data_summary": "e4d8a919608b3cfd8b0114249d2b1bc9"
+}

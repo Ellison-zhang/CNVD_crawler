@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-20 10:05:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-18925",
+    "spider_time": 1755684318456,
+    "name": "TOTOLINK N200RE命令注入漏洞",
+    "cnvd": "CNVD-2025-18925",
+    "publish": "2025-08-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK N200RE 9.3.5u.6139_B20201216\", \"TOTOLINK N200RE 9.3.5u.6095_B20200916\"]",
+    "cve": "CVE-2025-7154",
+    "description": "TOTOLINK N200RE是一款SOHO无线路由器 ，采用11N无线技术 ，最高无线传输速率可达300Mbps，支持MIMO架构和ATCT空闲信道自动检测技术，有效提升无线性能和稳定性。TOTOLINK N200RE存在命令注入漏洞，该漏洞源于文件/cgi-bin/cstecgi.cgi中参数Hostname未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7154",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/204/ids/36.html",
+    "patch": "TOTOLINK N200RE命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-08-20",
+    "update_time": "2025-08-20",
+    "data_summary": "544bd22ba26b440ff7b624a265873684"
+}

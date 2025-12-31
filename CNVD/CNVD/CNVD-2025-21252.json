@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-09-17 06:11:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21252",
+    "spider_time": 1758089461014,
+    "name": "Cisco IOS XR数据伪造问题漏洞（CNVD-2025-21252）",
+    "cnvd": "CNVD-2025-21252",
+    "publish": "2025-09-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:N",
+    "product": "[\"Cisco IOS XR\"]",
+    "cve": "CVE-2025-20248",
+    "description": "Cisco IOS XR是美国思科（Cisco）公司的一套为其网络设备开发的操作系统。Cisco IOS XR存在数据伪造问题漏洞，该漏洞源于安装过程中文件验证不完整，攻击者可利用该漏洞导致加载未签名软件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20248",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-xrsig-UY4zRUCG",
+    "patch": "Cisco IOS XR数据伪造问题漏洞（CNVD-2025-21252）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-12",
+    "open_time": "2025-09-15",
+    "update_time": "2025-09-15",
+    "data_summary": "69e5284943da1166ef79e852b64e4f0d"
+}

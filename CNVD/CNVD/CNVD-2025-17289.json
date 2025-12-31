@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-31 03:33:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17289",
+    "spider_time": 1753932786405,
+    "name": "WeGIA拒绝服务漏洞",
+    "cnvd": "CNVD-2025-17289",
+    "publish": "2025-07-31",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"WeGIA WeGIA <3.3.0\"]",
+    "cve": "CVE-2025-53530",
+    "description": "WeGIA是一个福利机构的网络管理器。WeGIA存在拒绝服务漏洞，该漏洞源于errorstr参数长度未验证，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-53530",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/LabRedesCefetRJ/WeGIA/releases",
+    "patch": "WeGIA拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-11",
+    "open_time": "2025-07-31",
+    "update_time": "2025-07-31",
+    "data_summary": "5d39daae4fd1c8f40ed2208ff0ed0e59"
+}

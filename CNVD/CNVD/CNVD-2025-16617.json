@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-22 04:17:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16617",
+    "spider_time": 1753157833164,
+    "name": "Apache Tomcat输入验证错误漏洞（CNVD-2025-16617）",
+    "cnvd": "CNVD-2025-16617",
+    "publish": "2025-07-22",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Apache Tomcat >=11.0.0-M1\\uff0c<=11.0.8\", \"Apache Tomcat >=10.1.0-M1\\uff0c<=10.1.42\", \"Apache Tomcat >=9.0.0.M1\\uff0c<=9.0.106\"]",
+    "cve": "CVE-2025-52520",
+    "description": "Apache Tomcat是美国阿帕奇（Apache）基金会的一款轻量级Web应用服务器。用于实现对Servlet和JavaServer Page（JSP）的支持。Apache Tomcat存在输入验证错误漏洞，该漏洞源于整数溢出，攻击者可利用该漏洞导致绕过大小限制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lists.apache.org/thread/trqq01bbxw6c92zx69kx2mw2qgmfy0o5",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://tomcat.apache.org/",
+    "patch": "Apache Tomcat输入验证错误漏洞（CNVD-2025-16617）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-18",
+    "open_time": "2025-07-22",
+    "update_time": "2025-07-22",
+    "data_summary": "c974d3c0f2e54a5d50534980b0f3eeb3"
+}

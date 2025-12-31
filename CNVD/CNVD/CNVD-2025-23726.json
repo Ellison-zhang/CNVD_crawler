@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-15 04:05:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-23726",
+    "spider_time": 1760501101067,
+    "name": "WordPress Customify plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-23726",
+    "publish": "2025-10-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Customify plugin 0.4.11\"]",
+    "cve": "CVE-2025-8669",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Customify plugin存在跨站请求伪造漏洞，该漏洞源于reset_customize_section函数缺少或错误随机数验证。攻击者可利用该漏洞重置主题自定义设置。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://themes.trac.wordpress.org/browser/customify/0.4.11/inc/customizer/class-customizer.php#L55",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/themes/customify/",
+    "patch": "WordPress Customify plugin跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-13",
+    "open_time": "2025-10-15",
+    "update_time": "2025-10-15",
+    "data_summary": "513cc1f937ce938306f53303badb188a"
+}

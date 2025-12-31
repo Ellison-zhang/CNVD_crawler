@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-18 03:29:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-07458",
+    "spider_time": 1744946961821,
+    "name": "用友网络科技股份有限公司NC存在XML实体注入漏洞",
+    "cnvd": "CNVD-2025-07458",
+    "publish": "2025-04-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"\\u7528\\u53cb\\u7f51\\u7edc\\u79d1\\u6280\\u80a1\\u4efd\\u6709\\u9650\\u516c\\u53f8 NC\"]",
+    "cve": null,
+    "description": "用友网络科技股份有限公司是亚太本土管理软件、ERP软件、集团管理软件、人力资源管理软件、客户关系管理软件、小型企业管理软件、财政及行政事业单位管理软件、汽车行业管理软件、烟草行业管理软件、内部审计软件及服务提供商，也是中国领先的企业云服务、医疗卫生信息化、管理咨询及管理信息化人才提供商。用友网络科技股份有限公司NC存在XML实体注入漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.yonyou.com.cn",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-02-26",
+    "open_time": "2025-04-18",
+    "update_time": "2025-04-18",
+    "data_summary": "3ae7935577649e0c23958f98e22f9be9"
+}

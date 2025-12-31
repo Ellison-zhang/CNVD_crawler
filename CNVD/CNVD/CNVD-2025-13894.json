@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 07:04:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13894",
+    "spider_time": 1751007846932,
+    "name": "TOTOLINK CP900命令注入漏洞",
+    "cnvd": "CNVD-2025-13894",
+    "publish": "2025-06-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK CP900 6.3c.566\"]",
+    "cve": "CVE-2024-7464",
+    "description": "TOTOLINK CP900是中国吉翁电子（TOTOLINK）公司的一个无线路由器。TOTOLINK CP900存在命令注入漏洞，该漏洞源于组件Telnet服务的setTelnetCfg函数，对参数telnet_enabled的操作会导致命令注入。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/TOTOLINK/CP900/setTelnetCfg.md\nhttps://vuldb.com/?ctiid.273557\nhttps://vuldb.com/?submit.381334",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-05",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-27",
+    "data_summary": "e16a676903466dc42aab9e4e64cb6084"
+}

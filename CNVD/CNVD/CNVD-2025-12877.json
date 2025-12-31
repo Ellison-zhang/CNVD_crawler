@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-19 07:05:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-12877",
+    "spider_time": 1750316725212,
+    "name": "TOTOLINK A720R信息泄露漏洞",
+    "cnvd": "CNVD-2025-12877",
+    "publish": "2025-06-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"TOTOLINK A720R 4.1.5cu.374\"]",
+    "cve": "CVE-2025-4271",
+    "description": "TOTOLINK A720R是中国吉翁电子（TOTOLINK）公司的一款无线路由器。TOTOLINK A720R存在信息泄露漏洞，该漏洞源于文件/cgi-bin/cstecgi.cgi中参数topicurl处理不当，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-4271",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/203/ids/36.html",
+    "patch": "TOTOLINK A720R信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-06-19",
+    "update_time": "2025-06-19",
+    "data_summary": "9e99013a0069200f8c084e68c401c487"
+}

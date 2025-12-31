@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-15 11:04:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15794",
+    "spider_time": 1752577477713,
+    "name": "Tenda RX2 Pro弱凭据漏洞",
+    "cnvd": "CNVD-2025-15794",
+    "publish": "2025-07-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:P/A:N",
+    "product": "[\"Tenda RX2 Pro 16.03.30.14\"]",
+    "cve": "CVE-2025-46627",
+    "description": "Tenda RX2 Pro是中国腾达（Tenda）公司的一款高性能WiFi 6信号放大器。Tenda RX2 Pro存在弱凭据漏洞，该漏洞源于使用弱凭据，攻击者可利用该漏洞根据容易获取的设备信息计算root密码来向telnet服务进行身份验证。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://blog.uturn.dev/#/writeups/iot-village/tenda-rx2pro/README?id=cve-2025-46627-calculated-os-root-password",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tendacn.com/us/download/detail-5715.html",
+    "patch": "Tenda RX2 Pro弱凭据漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-14",
+    "open_time": "2025-07-15",
+    "update_time": "2025-07-15",
+    "data_summary": "4c6ad5e4e460ffc81f32c00301f709f3"
+}

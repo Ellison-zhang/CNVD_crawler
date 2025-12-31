@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-27 19:03:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14010",
+    "spider_time": 1751050992546,
+    "name": "湖南省众达数蔚信息技术有限公司表单系统存在逻辑缺陷漏洞",
+    "cnvd": "CNVD-2025-14010",
+    "publish": "2025-06-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"\\u6e56\\u5357\\u7701\\u4f17\\u8fbe\\u6570\\u851a\\u4fe1\\u606f\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8 \\u8868\\u5355\\u7cfb\\u7edf\"]",
+    "cve": null,
+    "description": "湖南省众达数蔚信息技术有限公司是一家主要从事区域互联网电商新零售和平台开发服务的技术型公司。湖南省众达数蔚信息技术有限公司表单系统存在逻辑缺陷漏洞，攻击者可利用该漏洞越权修改用户信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.tduckcloud.com/",
+    "patch": "湖南省众达数蔚信息技术有限公司表单系统存在逻辑缺陷漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-05-21",
+    "open_time": "2025-06-27",
+    "update_time": "2025-06-28",
+    "data_summary": "161d1becf155a949b0c9a05c9260c1fc"
+}

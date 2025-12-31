@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-03-28 09:04:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06052",
+    "spider_time": 1743152666262,
+    "name": "Huawei HarmonyOS UI框架模块日志信息控制不当漏洞",
+    "cnvd": "CNVD-2025-06052",
+    "publish": "2025-03-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Huawei HarmonyOS 5.0.0\"]",
+    "cve": "CVE-2024-57957",
+    "description": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei HarmonyOS UI框架模块存在日志信息控制不当漏洞，攻击者可利用该漏洞影响服务机密性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://consumer.huawei.com/en/support/bulletin/2025/2/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2025/2/",
+    "patch": "Huawei HarmonyOS UI框架模块日志信息控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-03-28",
+    "update_time": "2025-03-28",
+    "data_summary": "d0b4be4de751b02b91406b25caef62f3"
+}

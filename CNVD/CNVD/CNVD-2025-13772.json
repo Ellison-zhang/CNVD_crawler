@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-06-26 09:05:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-13772",
+    "spider_time": 1750928755185,
+    "name": "ABB多款产品目录遍历漏洞",
+    "cnvd": "CNVD-2025-13772",
+    "publish": "2025-06-26",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"ABB ASPECT-Enterprise <=3.08.03\", \"ABB NEXUS Series <=3.08.03\", \"ABB MATRIX Series <=3.08.03\"]",
+    "cve": "CVE-2024-48850",
+    "description": "ABB ASPECT-Enterprise是一款可扩展建筑能源管理和控制解决方案。ABB NEXUS Series是一种监控管理系统。ABB MATRIX Series是一款嵌入式物联网ASPECT控制引擎，旨在为中型到大型现场控制应用提供灵活的现场控制。ABB多款产品存在目录遍历漏洞，攻击者可利用该漏洞导致资源访问和修改。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-48850",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：https://global.abb/",
+    "patch": "ABB多款产品目录遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-17",
+    "open_time": "2025-06-26",
+    "update_time": "2025-06-26",
+    "data_summary": "644d7db9cc525eecc09c85564b7ec6bd"
+}

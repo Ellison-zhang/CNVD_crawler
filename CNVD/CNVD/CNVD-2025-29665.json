@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-03 21:12:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29665",
+    "spider_time": 1764796367478,
+    "name": "DELL Alienware Command Center反序列化不可信数据漏洞",
+    "cnvd": "CNVD-2025-29665",
+    "publish": "2025-12-01",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL Alienware Command Center <5.5.51.0\"]",
+    "cve": "CVE-2023-28072",
+    "description": "DELL Alienware Command Center是戴尔为Alienware品牌电脑开发的专属控制软件，主要用于自定义硬件功能、优化性能和管理游戏设置。DELL Alienware Command Center存在反序列化不可信数据漏洞，该漏洞源于应用程序在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞导致代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-28072",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-in/000212982/dsa-2023-158",
+    "patch": "DELL Alienware Command Center反序列化不可信数据漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-09-11",
+    "open_time": "2025-12-02",
+    "update_time": "2025-12-02",
+    "data_summary": "29f204cf9d91907430973ed6b1f8dbca"
+}

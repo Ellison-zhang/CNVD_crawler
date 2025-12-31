@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-09 08:05:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15338",
+    "spider_time": 1752048302202,
+    "name": "TOTOLINK X2000R formRebootSchedule函数缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-15338",
+    "publish": "2025-07-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK X2000R Gh v1.0.0-B20230221.0948.web\"]",
+    "cve": "CVE-2023-51136",
+    "description": "TOTOLINK X2000R是中国吉翁电子（TOTOLINK）公司的一款无线路由器。TOTOLINK X2000R存在缓冲区溢出漏洞，该漏洞源于函数formRebootSchedule未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://totolink.cn/home/menu/detail.html?menu_listtpl=download&id=85&ids=36",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-01-05",
+    "open_time": "2025-07-09",
+    "update_time": "2025-07-09",
+    "data_summary": "ee17269147f98f639d4f357c2dcbdfba"
+}

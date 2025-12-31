@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-12 09:06:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30574",
+    "spider_time": 1765530387171,
+    "name": "Microsoft Outlook资源管理错误漏洞",
+    "cnvd": "CNVD-2025-30574",
+    "publish": "2025-12-12",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Word 2016\", \"Microsoft SharePoint Enterprise Server 2016\", \"Microsoft Office 2019\", \"Microsoft SharePoint Server 2019\", \"Microsoft 365 Apps for Enterprise\", \"Microsoft Office LTSC 2021\", \"Microsoft Office LTSC for Mac 2021\", \"Microsoft Microsoft Office LTSC 2024\", \"Microsoft Office LTSC for Mac 2024\"]",
+    "cve": "CVE-2025-62562",
+    "description": "Microsoft Outlook是美国微软（Microsoft）公司的一套电子邮件应用程序。Microsoft Outlook存在安全漏洞。攻击者可利用该漏洞远程执行代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-62562",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62562",
+    "patch": "Microsoft Outlook资源管理错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-12",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "06960301728e3f2dbc4eb4c1db82ef6a"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-04-03 09:04:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-06479",
+    "spider_time": 1743671077810,
+    "name": "Tencent QQMail存在未明漏洞（CNVD-2025-06479）",
+    "cnvd": "CNVD-2025-06479",
+    "publish": "2025-04-03",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Tencent  QQMail 6.6.4\"]",
+    "cve": "CVE-2024-56955",
+    "description": "Tencent QQMail是中国腾讯（Tencent）公司的一款邮箱软件。Tencent QQMail存在未明漏洞，攻击者可利用该漏洞访问敏感用户信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-56955",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://app.mail.qq.com/",
+    "patch": "Tencent QQMail存在未明漏洞（CNVD-2025-06479）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2025-04-03",
+    "update_time": "2025-04-03",
+    "data_summary": "96446dd0617de35f4947a35258445de2"
+}

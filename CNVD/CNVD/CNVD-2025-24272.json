@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-22 06:10:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24272",
+    "spider_time": 1761113436612,
+    "name": "WordPress SureForms plugin信息泄露漏洞",
+    "cnvd": "CNVD-2025-24272",
+    "publish": "2025-10-20",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"WordPress SureForms plugin <=1.12.1\"]",
+    "cve": "CVE-2025-10732",
+    "description": "WordPress SureForms plugin是一款专为WordPress设计的可视化表单构建插件，支持拖拽式操作，无需编程基础即可快速搭建响应式表单。WordPress SureForms plugin存在信息泄露漏洞，该漏洞源于对REST API端点/wp-json/sureforms/v1/srfm-global-settings的访问控制不当，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/sureforms/tags/1.12.0/inc/global-settings/global-settings.php#L314",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/sureforms/",
+    "patch": "WordPress SureForms plugin信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-10-21",
+    "update_time": "2025-10-21",
+    "data_summary": "4889da6194aff265fadd972a18085b81"
+}

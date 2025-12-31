@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-12 09:07:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30581",
+    "spider_time": 1765530436047,
+    "name": "Apache Causeway反序列化漏洞",
+    "cnvd": "CNVD-2025-30581",
+    "publish": "2025-12-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Apache Causeway >=2.0.0\\uff0c<=3.4.0\", \"Apache Causeway 4.0.0-M1\"]",
+    "cve": "CVE-2025-64408",
+    "description": "Apache Causeway是Apache基金会的一个Java的快速应用程序开发框架。Apache Causeway存在反序列化漏洞，该漏洞源于用户可控URL参数在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞导致代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-64408",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://causeway.apache.org/docs/latest/downloads/how-to.html",
+    "patch": "Apache Causeway反序列化漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-24",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "0c4eece8d0134b1126ef76b1b163df2f"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-09 08:05:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-15342",
+    "spider_time": 1752048315354,
+    "name": "TOTOLINK EX1200L setOpModeCfg接口命令执行漏洞",
+    "cnvd": "CNVD-2025-15342",
+    "publish": "2025-07-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK EX1200L V9.3.5u.6146_B20201023\"]",
+    "cve": "CVE-2023-51033",
+    "description": "TOTOLINK EX1200L是一款双频无线信号放大器，主要用于扩展家庭或办公环境的Wi-Fi覆盖范围，解决信号弱或死角问题。TOTOLINK EX1200L存在命令执行漏洞，该漏洞源于cstecgi.cgi的setOpModeCfg接口未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://815yang.github.io/2023/12/12/ex1200l/totolink_ex1200L_setOpModeCfg/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-01-03",
+    "open_time": "2025-07-09",
+    "update_time": "2025-07-09",
+    "data_summary": "e24f7c14b3e58ed8c382929fd5ae28d4"
+}

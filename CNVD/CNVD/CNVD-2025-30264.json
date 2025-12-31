@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-11 01:36:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30264",
+    "spider_time": 1765416986517,
+    "name": "Dell PowerScale OneFS不正确的权限分配漏洞",
+    "cnvd": "CNVD-2025-30264",
+    "publish": "2025-12-08",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"DELL Dell PowerScale OneFS >=8.2.2.*\\uff0c<=9.8.0.0\"]",
+    "cve": "CVE-2024-39579",
+    "description": "Dell PowerScale OneFS是戴尔（Dell）公司为其PowerScale横向扩展NAS（网络附加存储）解决方案开发的专有操作系统。Dell PowerScale OneFS存在不正确的权限分配漏洞，攻击者可利用该漏洞获得根级访问权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cxsecurity.com/cveshow/CVE-2024-39579/",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-us/000228207/dsa-2024-346-security-update-for-dell-powerscale-onefs-for-multiple-security-vulnerabilities",
+    "patch": "Dell PowerScale OneFS不正确的权限分配漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-09-03",
+    "open_time": "2025-12-09",
+    "update_time": "2025-12-09",
+    "data_summary": "69ea0ff5c956dc47712ee5f6dbceaa2e"
+}

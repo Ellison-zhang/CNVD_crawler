@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-07-01 07:07:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-14384",
+    "spider_time": 1751353659110,
+    "name": "FreeFloat FTP Server缓冲区溢出漏洞（CNVD-2025-14384）",
+    "cnvd": "CNVD-2025-14384",
+    "publish": "2025-07-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Freefloat Freefloat FTP Server 1.0\"]",
+    "cve": "CVE-2025-5052",
+    "description": "FreeFloat FTP Server是FreeFloat公司的一个FTP服务。FreeFloat FTP Server存在缓冲区溢出漏洞，该漏洞是由于组件LS命令处理程序的边界检查不正确造成的。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5052",
+    "solution": "目前没有详细解决方案提供：\nhttp://freefloat.com/ftpserver",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-05-30",
+    "open_time": "2025-07-01",
+    "update_time": "2025-07-01",
+    "data_summary": "d72f9d4659d82f1f61ee5002e61b3b46"
+}

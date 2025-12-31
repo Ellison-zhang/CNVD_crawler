@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-10-23 09:06:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24730",
+    "spider_time": 1761210370429,
+    "name": "IBM Transformation Extender Advanced日志信息泄露漏洞",
+    "cnvd": "CNVD-2025-24730",
+    "publish": "2025-10-23",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:H/Au:N/C:P/I:N/A:N",
+    "product": "[\"IBM Transformation Extender Advanced 10.0.1\"]",
+    "cve": "CVE-2023-50301",
+    "description": "IBM Transformation Extender Advanced是美国国际商业机器（IBM）公司的一款数据转换、验证和标准化的工具软件。IBM Transformation Extender Advanced存在日志信息泄露漏洞，该漏洞源于将敏感信息存储在日志文件中，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-50301",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7246882",
+    "patch": "IBM Transformation Extender Advanced日志信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-21",
+    "open_time": "2025-10-23",
+    "update_time": "2025-10-23",
+    "data_summary": "063a027bfdac0f4202d1315aa0f2f4f7"
+}

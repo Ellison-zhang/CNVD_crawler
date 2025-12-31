@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-08-07 10:04:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-17795",
+    "spider_time": 1754561058260,
+    "name": "GNU GRUB缓冲区溢出漏洞（CNVD-2025-17795）",
+    "cnvd": "CNVD-2025-17795",
+    "publish": "2025-08-07",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"GNU GRUB2 <=2.12\"]",
+    "cve": "CVE-2024-45777",
+    "description": "GNU GRUB是GNU社区的一款Linux系统引导程序。GNU GRUB存在缓冲区错误漏洞，该漏洞源于grub-core/gettext模块，系统未正确限制数据的大小，攻击者可利用该漏洞在受影响的应用程序上下文中运行任意代码，控制服务器进程。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-45777",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://bugzilla.redhat.com/show_bug.cgi?id=2346343",
+    "patch": "GNU GRUB缓冲区溢出漏洞（CNVD-2025-17795）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-05",
+    "open_time": "2025-08-07",
+    "update_time": "2025-08-07",
+    "data_summary": "cecb78d107c1899dd8e81f6579c8f4fa"
+}

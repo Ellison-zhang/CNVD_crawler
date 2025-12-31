@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-12-02 07:12:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29489",
+    "spider_time": 1764659539696,
+    "name": "WordPress Peer Publish plugin跨站请求伪造漏洞",
+    "cnvd": "CNVD-2025-29489",
+    "publish": "2025-11-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"WordPress Peer Publish plugin <=1.0\"]",
+    "cve": "CVE-2025-12587",
+    "description": "WordPress Peer Publish plugin是用于多作者协作的工具，允许用户在WordPress博客中提交文章供其他用户审核和发布。WordPress Peer Publish plugin存在跨站请求伪造漏洞，该漏洞源于缺少随机数验证，攻击者可利用该漏洞添加、修改或删除网站配置。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/peer-publish/tags/1.0/admin/admin-pages/newwebsite.php#L17",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-27",
+    "open_time": "2025-11-28",
+    "update_time": "2025-11-28",
+    "data_summary": "4678d556ee3376bdfd7fc0c17573c21f"
+}

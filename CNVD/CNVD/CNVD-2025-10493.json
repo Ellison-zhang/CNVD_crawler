@@ -1,0 +1,22 @@
+{
+    "parse_time": "2025-05-23 02:33:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-10493",
+    "spider_time": 1747967591529,
+    "name": "厦门四信通信科技有限公司水利信息化平台存在SQL注入漏洞",
+    "cnvd": "CNVD-2025-10493",
+    "publish": "2025-05-23",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"\\u53a6\\u95e8\\u56db\\u4fe1\\u901a\\u4fe1\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u6c34\\u5229\\u4fe1\\u606f\\u5316\\u5e73\\u53f0\", \"\\u53a6\\u95e8\\u56db\\u4fe1\\u901a\\u4fe1\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8 \\u6c34\\u5229\\u4fe1\\u606f\\u5316\\u5e73\\u53f0 2.2.3\"]",
+    "cve": null,
+    "description": "厦门四信通信科技有限公司是一家专注于物联网通信设备及解决方案的高新技术企业。厦门四信通信科技有限公司水利信息化平台存在SQL注入漏洞,攻击者可利用该漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttp://www.four-faith.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-04-08",
+    "open_time": "2025-05-23",
+    "update_time": "2025-05-23",
+    "data_summary": "60a7ba6dfb95b7f98902f448d4119d3e"
+}
