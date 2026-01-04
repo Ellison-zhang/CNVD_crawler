@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 08:04:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00009",
+    "spider_time": 1767513875813,
+    "name": "WordPress插件MasterStudy LMS Pro信息泄露漏洞",
+    "cnvd": "CNVD-2026-00009",
+    "publish": "2026-01-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress MasterStudy LMS Pro plugin <4.7.16\"]",
+    "cve": "CVE-2025-64213",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件MasterStudy LMS Pro存在信息泄露漏洞，该漏洞源于敏感信息插入不当，攻击者可利用该漏洞导致数据泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/masterstudy-lms-learning-management-system-pro/vulnerability/wordpress-masterstudy-lms-pro-plugin-4-7-16-sensitive-data-exposure-vulnerability?_s_id=cve",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/",
+    "patch": "WordPress插件MasterStudy LMS Pro信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-25",
+    "open_time": "2026-01-04",
+    "update_time": "2026-01-04",
+    "data_summary": "09553bd6b340aaa0dbb32446cf4e8489"
+}
