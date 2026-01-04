@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 07:16:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00030",
+    "spider_time": 1767510993670,
+    "name": "Microsoft Office Visio代码执行漏洞（CNVD-2026-00030）",
+    "cnvd": "CNVD-2026-00030",
+    "publish": "2026-01-04",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft 365 Apps for Enterprise\", \"Microsoft Office LTSC 2021\", \"Microsoft Microsoft Office LTSC 2024\"]",
+    "cve": "CVE-2025-59226",
+    "description": "Microsoft Office Visio是美国微软（Microsoft）公司的一款Office软件系列中的负责绘制流程图和示意图的软件。Microsoft Office Visio存在代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59226",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59226",
+    "patch": "Microsoft Office Visio代码执行漏洞（CNVD-2026-00030）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2026-01-04",
+    "update_time": "2026-01-04",
+    "data_summary": "3b5ca478bb70836ed39d7b25fd18496f"
+}

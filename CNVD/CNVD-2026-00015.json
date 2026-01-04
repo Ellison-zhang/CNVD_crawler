@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 07:13:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00015",
+    "spider_time": 1767510815204,
+    "name": "Siemens RUGGEDCOM ROX II命令注入漏洞",
+    "cnvd": "CNVD-2026-00015",
+    "publish": "2026-01-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"SIEMENS RUGGEDCOM ROX II family <V2.17.0\"]",
+    "cve": "CVE-2024-56836",
+    "description": "Siemens RUGGEDCOM ROX II是德国Siemens公司的一款面向工业应用的操作系统。Siemens RUGGEDCOM ROX II存在命令注入漏洞，该漏洞是由动态DNS配置过程中的缺陷引起的。攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-912274.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.industry.siemens.com/cs/document/109997648/-firmware-download-for-ruggedcom-rox-2-17-0?lc=en-ww",
+    "patch": "Siemens RUGGEDCOM ROX II命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-15",
+    "open_time": "2026-01-04",
+    "update_time": "2026-01-04",
+    "data_summary": "3917e1c563b847566c92f19ed4befbcc"
+}

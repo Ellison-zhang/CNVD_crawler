@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 07:15:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00021",
+    "spider_time": 1767510953323,
+    "name": "Siemens SIMATIC CN 4100命令注入漏洞",
+    "cnvd": "CNVD-2026-00021",
+    "publish": "2026-01-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Siemens SIMATIC CN 4100 <V4.0.1\"]",
+    "cve": "CVE-2025-40937",
+    "description": "Siemens SIMATIC CN 4100是德国西门子（Siemens）公司的一个通信节点。Siemens SIMATIC CN 4100存在命令注入漏洞，该漏洞源于REST API输入参数验证不足，攻击者可利用该漏洞导致执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-416652.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.industry.siemens.com/cs/document/109814144/communication-node-simatic-cn-4100-v4-0-1?lc=en-ww",
+    "patch": "Siemens SIMATIC CN 4100命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-15",
+    "open_time": "2026-01-04",
+    "update_time": "2026-01-04",
+    "data_summary": "9e4e8a29f342cc117ca989e94fdbc62b"
+}

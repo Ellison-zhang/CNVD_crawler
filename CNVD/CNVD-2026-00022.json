@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 07:15:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00022",
+    "spider_time": 1767510957018,
+    "name": "Apache bRPC拒绝服务漏洞",
+    "cnvd": "CNVD-2026-00022",
+    "publish": "2026-01-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Apache bRPC <1.15.0\"]",
+    "cve": "CVE-2025-59789",
+    "description": "Apache bRPC是美国阿帕奇（Apache）基金会的用于构建可靠和高性能服务的工业级RPC框架。Apache bRPC存在拒绝服务漏洞，该漏洞是由于json2pb组件中不受控制的递归缺陷引起的。攻击者可利用该漏洞导致服务器崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lists.apache.org/thread/ozmcsztcpxn61jxod8jo8q46jo0oc1zx",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://brpc.apache.org/docs/downloadbrpc/",
+    "patch": "Apache bRPC拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-03",
+    "open_time": "2026-01-04",
+    "update_time": "2026-01-04",
+    "data_summary": "1dce3240708ec7c755836ba3ba0f7f7c"
+}

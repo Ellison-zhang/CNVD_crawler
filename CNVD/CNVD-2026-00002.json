@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 07:05:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00002",
+    "spider_time": 1767510313246,
+    "name": "WordPress插件myCred信息泄露漏洞",
+    "cnvd": "CNVD-2026-00002",
+    "publish": "2026-01-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"WordPress myCred plugin <=2.9.7.1\"]",
+    "cve": "CVE-2025-12361",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件myCred存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-12361",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/mycred",
+    "patch": "WordPress插件myCred信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-25",
+    "open_time": "2026-01-04",
+    "update_time": "2026-01-04",
+    "data_summary": "ad96adacdc9c6c3d9c2e6ee18f4a65c6"
+}

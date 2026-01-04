@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 07:05:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00008",
+    "spider_time": 1767510335787,
+    "name": "WordPress插件Follow My Blog Post 息泄露漏洞",
+    "cnvd": "CNVD-2026-00008",
+    "publish": "2026-01-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress Follow My Blog Post plugin <=2.3.9\"]",
+    "cve": "CVE-2025-64258",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件Follow My Blog Post存在信息泄露漏洞，攻击者可利用该漏洞导致检索嵌入的敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/follow-my-blog-post/vulnerability/wordpress-follow-my-blog-post-plugin-2-3-9-sensitive-data-exposure-vulnerability?_s_id=cve",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/follow-my-blog-post/",
+    "patch": "WordPress插件Follow My Blog Post 息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-25",
+    "open_time": "2026-01-04",
+    "update_time": "2026-01-04",
+    "data_summary": "5f38bcc1b36ba26fc5b45fab68b47910"
+}

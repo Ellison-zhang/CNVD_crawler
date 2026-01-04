@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 07:16:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00029",
+    "spider_time": 1767510989821,
+    "name": "WordPress插件Publitio信息泄露漏洞",
+    "cnvd": "CNVD-2026-00029",
+    "publish": "2026-01-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress Publitio plugin <=2.2.3\"]",
+    "cve": "CVE-2025-62947",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件Publitio存在信息泄露漏洞，攻击者可利用该漏洞导致检索嵌入的敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-62947",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://vdp.patchstack.com/database/Wordpress/Plugin/publitio/vulnerability/wordpress-publitio-plugin-2-2-3-sensitive-data-exposure-vulnerability",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-31",
+    "open_time": "2026-01-04",
+    "update_time": "2026-01-04",
+    "data_summary": "aad5db32e1690b902dd75bc23d807909"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 07:15:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00046",
+    "spider_time": 1767510948402,
+    "name": "Siemens SIMATIC CN 4100访问控制错误漏洞",
+    "cnvd": "CNVD-2026-00046",
+    "publish": "2026-01-04",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Siemens SIMATIC CN 4100 <V4.0.1\"]",
+    "cve": "CVE-2025-40939",
+    "description": "Siemens SIMATIC CN 4100是德国西门子（Siemens）公司的一个通信节点。Siemens SIMATIC CN 4100存在访问控制错误漏洞，该漏洞源于USB端口允许未经验证的连接，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-416652.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.industry.siemens.com/cs/document/109814144/communication-node-simatic-cn-4100-v4-0-1?lc=en-ww",
+    "patch": "Siemens SIMATIC CN 4100访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-15",
+    "open_time": "2026-01-04",
+    "update_time": "2026-01-04",
+    "data_summary": "9dd49eaa757f8c9e7dca201c44c9a3ff"
+}
