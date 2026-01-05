@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-05 08:06:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00130",
+    "spider_time": 1767600378820,
+    "name": "Adobe Experience Manager跨站脚本漏洞（CNVD-2026-0013046）",
+    "cnvd": "CNVD-2026-00130",
+    "publish": "2026-01-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Adobe Adobe Experience Manager <=6.5.23\"]",
+    "cve": "CVE-2025-64538",
+    "description": "Adobe Experience Manager是Adobe公司推出的企业级内容管理解决方案。Adobe Experience Manager存在跨站脚本漏洞，该漏洞源于基于DOM的跨站脚本漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-64538",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://helpx.adobe.com/security/products/experience-manager/apsb25-115.html",
+    "patch": "Adobe Experience Manager跨站脚本漏洞（CNVD-2026-0013046）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-15",
+    "open_time": "2026-01-05",
+    "update_time": "2026-01-05",
+    "data_summary": "463e774a3ec1fdbe065316de5f24ea52"
+}
