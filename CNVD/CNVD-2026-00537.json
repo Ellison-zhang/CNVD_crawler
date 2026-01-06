@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-06 11:10:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00537",
+    "spider_time": 1767697802257,
+    "name": "CMSimple存在未明漏洞（CNVD-2026-00537）",
+    "cnvd": "CNVD-2026-00537",
+    "publish": "2026-01-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"CMSimple CMSimple 5.16\"]",
+    "cve": "CVE-2024-57548",
+    "description": "CMSimple是一种自由的内容管理系统。CMSimple存在未明漏洞，攻击者可利用该漏洞通过打印页面编辑log.php文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://gist.github.com/h4ckr4v3n/afbb87b5a05f283dbee705709c2769eb",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.cmsimple.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2026-01-06",
+    "update_time": "2026-01-06",
+    "data_summary": "b6b2a9e92e9be5d997c3491ccc8bda38"
+}

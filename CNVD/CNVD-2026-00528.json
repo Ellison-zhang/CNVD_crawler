@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-06 11:07:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00528",
+    "spider_time": 1767697633642,
+    "name": "E-Commerce Site跨站请求伪造漏洞",
+    "cnvd": "CNVD-2026-00528",
+    "publish": "2026-01-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"E-commerce Site E-commerce Site v1.0\"]",
+    "cve": "CVE-2025-7756",
+    "description": "E-Commerce Site是一个电子商务网站。E-Commerce Site存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-7756",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-25",
+    "open_time": "2026-01-06",
+    "update_time": "2026-01-06",
+    "data_summary": "0dab128024a34d106ad11eb98cbb8368"
+}

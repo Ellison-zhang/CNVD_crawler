@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-06 11:04:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00515",
+    "spider_time": 1767697473527,
+    "name": "Currency Exchange System /edittrns.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2026-00515",
+    "publish": "2026-01-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Currency Exchange System Currency Exchange System 1.0\"]",
+    "cve": "CVE-2025-14217",
+    "description": "Currency Exchange System是一个货币兑换系统。Currency Exchange System存在SQL注入漏洞，该漏洞源于文件/edittrns.php中参数ID缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-14217",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2026-01-06",
+    "update_time": "2026-01-06",
+    "data_summary": "88a21c17c3b1262e4c300f4cef266707"
+}

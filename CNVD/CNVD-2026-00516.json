@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-06 11:04:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00516",
+    "spider_time": 1767697477347,
+    "name": "Employee Profile Management System print_personnel_report.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2026-00516",
+    "publish": "2026-01-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Employee Profile Management System Employee Profile Management System 1.0\"]",
+    "cve": "CVE-2025-14222",
+    "description": "Employee Profile Management System是一个员工档案管理系统。Employee Profile Management System存在SQL注入漏洞，该漏洞源于文件/print_personnel_report.php中参数per_id缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-14222",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2026-01-06",
+    "update_time": "2026-01-06",
+    "data_summary": "9bbeeefc0e6f5e4de514e1a7c74ee804"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-06 11:04:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00539",
+    "spider_time": 1767697455773,
+    "name": "College Notes Uploading System /login.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2026-00539",
+    "publish": "2026-01-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"College Notes Uploading System College Notes Uploading System 1.0\"]",
+    "cve": "CVE-2025-15198",
+    "description": "College Notes Uploading System是一个大学笔记上传系统。College Notes Uploading System存在SQL注入漏洞，该漏洞源于/login.php文件中的未知处理函数对User参数操作处理不当。攻击者可利用该漏洞获取或篡改数据库信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-15198",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-31",
+    "open_time": "2026-01-06",
+    "update_time": "2026-01-06",
+    "data_summary": "b037d55ef3a41b9cb1dc218b96026284"
+}
