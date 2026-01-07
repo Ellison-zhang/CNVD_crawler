@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 02:43:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00674",
+    "spider_time": 1767753782581,
+    "name": "Tenda AC20堆栈缓冲区溢出漏洞（CNVD-2026-00674）",
+    "cnvd": "CNVD-2026-00674",
+    "publish": "2026-01-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC20 16.03.08.05\"]",
+    "cve": "CVE-2025-8810",
+    "description": "Tenda AC20是中国腾达（Tenda）公司的一款无线路由器。Tenda AC20存在堆栈缓冲区溢出漏洞，该漏洞源于对文件/goform/SetSysAutoRebbotCfg中参数rebootTime的错误操作，攻击者可利用该了偶读导致栈缓冲区溢出。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-14655",
+    "solution": "目前没有详细解决方案提供：\nhttps://github.com/LaiwanHundun/CVE/blob/main/cve1",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-08-15",
+    "open_time": "2026-01-07",
+    "update_time": "2026-01-07",
+    "data_summary": "3776dd96d929fa398e579d0b59120dc1"
+}
