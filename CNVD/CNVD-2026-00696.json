@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 09:07:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00696",
+    "spider_time": 1767776875945,
+    "name": "Simple Attendance Record System check.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2026-00696",
+    "publish": "2026-01-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Simple Attendance Record System Simple Attendance Record System 2.0\"]",
+    "cve": "CVE-2025-14643",
+    "description": "Simple Attendance Record System是一个简易考勤记录系统。Simple Attendance Record System存在SQL注入漏洞，该漏洞源于/check.php文件中的未知函数对student参数操作处理不当。攻击者可利用该漏洞获取或篡改数据库信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-14643",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-18",
+    "open_time": "2026-01-07",
+    "update_time": "2026-01-07",
+    "data_summary": "b5b88c4d47f3aace31360a3b3d268a1a"
+}
