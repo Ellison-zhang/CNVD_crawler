@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 11:00:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00105",
+    "spider_time": 1767754856328,
+    "name": "WordPress Bold Timeline Lite plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2026-00105",
+    "publish": "2026-01-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Bold Timeline Lite plugin <=1.2.7\"]",
+    "cve": "CVE-2025-68513",
+    "description": "WordPress Bold Timeline Lite plugin是一款免费的插件，专为在WordPress网站上创建动态时间线内容而设计。WordPress Bold Timeline Lite plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/bold-timeline-lite/vulnerability/wordpress-bold-timeline-lite-plugin-1-2-7-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/bold-timeline-lite/",
+    "patch": "WordPress Bold Timeline Lite plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-30",
+    "open_time": "2026-01-05",
+    "update_time": "2026-01-05",
+    "data_summary": "f94a86fcbb66c14c162d750253795356"
+}

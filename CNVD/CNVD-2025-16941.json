@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 15:57:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-16941",
+    "spider_time": 1767513440583,
+    "name": "Microsoft Excel缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-16941",
+    "publish": "2025-07-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Microsoft Excel 2016\", \"Microsoft Office Online Server\", \"Microsoft Office 2019\", \"Microsoft 365 Apps for Enterprise\", \"Microsoft Office LTSC 2021\", \"Microsoft Office LTSC for Mac 2021\", \"Microsoft Microsoft Office LTSC 2024\", \"Microsoft Office LTSC for Mac 2024\"]",
+    "cve": "CVE-2025-48812",
+    "description": "Microsoft Excel是美国微软（Microsoft）公司的一款Office套件中的电子表格处理软件。Microsoft Excel存在安全漏洞。攻击者利用该漏洞可以获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-48812",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-48812",
+    "patch": "Microsoft Excel缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-21",
+    "open_time": "2025-07-28",
+    "update_time": "2025-07-28",
+    "data_summary": "6c378a9b69ec32315b48c8f8cbb8f353"
+}

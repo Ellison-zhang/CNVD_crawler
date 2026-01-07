@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 15:26:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-11450",
+    "spider_time": 1767511568312,
+    "name": "Rockwell Automation PowerMonitor 1000跨站脚本漏洞",
+    "cnvd": "CNVD-2025-11450",
+    "publish": "2025-05-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Rockwell Automation PowerMonitor 1000\"]",
+    "cve": "CVE-2023-2072",
+    "description": "Rockwell Automation PowerMonitor 1000是美国罗克韦尔（Rockwell Automation）公司的一款电源监控设备。Rockwell Automation PowerMonitor 1000存在跨站脚本漏洞，该漏洞源于对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞注入代码对经过身份验证的用户进行攻击，导致远程代码执行，并完全丧失产品的机密性、完整性和可用性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1139761",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1139761",
+    "patch": "Rockwell Automation PowerMonitor 1000跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-07-14",
+    "open_time": "2025-06-05",
+    "update_time": "2025-06-05",
+    "data_summary": "61f32b28b7c7021fdc8a4749549e1725"
+}

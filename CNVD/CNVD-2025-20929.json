@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 11:09:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20929",
+    "spider_time": 1767755363369,
+    "name": "Online Course Registration coursecode参数SQL注入漏洞",
+    "cnvd": "CNVD-2025-20929",
+    "publish": "2025-09-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Online Course Registration Online Course Registration 3.1\"]",
+    "cve": "CVE-2025-4771",
+    "description": "Online Course Registration是一个在线课程注册系统。Online Course Registration存在SQL注入漏洞，该漏洞源于文件/admin/course.php中参数coursecode缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/FLYFISH567/CVE/issues/4",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-22",
+    "open_time": "2025-09-10",
+    "update_time": "2025-09-10",
+    "data_summary": "bba030b8beae0d4516d63d7ad12ad392"
+}

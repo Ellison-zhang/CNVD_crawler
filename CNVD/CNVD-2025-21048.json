@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 16:35:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-21048",
+    "spider_time": 1767515756357,
+    "name": "TOTOLINK A3300R setLanguageCfg方法代码执行漏洞",
+    "cnvd": "CNVD-2025-21048",
+    "publish": "2025-09-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A3300R V17.0.0cu.557_B20221024\"]",
+    "cve": "CVE-2023-37170",
+    "description": "TOTOLINK A3300R是中国吉翁电子（TOTOLINK）生产的一款双频无线路由器，主要用于家庭及小型网络环境。TOTOLINK A3300R存在代码执行漏洞。该漏洞源于setLanguageCfg方法的lang参数未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/kafroc/Vuls/tree/main/TOTOLINK/A3300R/cmdi_1",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/241/ids/36.html",
+    "patch": "TOTOLINK A3300R setLanguageCfg方法代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-07-11",
+    "open_time": "2025-09-11",
+    "update_time": "2025-09-11",
+    "data_summary": "26a86b4fef60afcf49d89532187c217d"
+}

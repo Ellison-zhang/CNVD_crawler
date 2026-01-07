@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 11:04:10",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00117",
+    "spider_time": 1767755050958,
+    "name": "TOTOLINK CPE CP450 setWebWlanIdx方法命令注入漏洞",
+    "cnvd": "CNVD-2026-00117",
+    "publish": "2026-01-04",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"TOTOLINK CPE CP450 v4.1.0cu.747_B20191224\"]",
+    "cve": "CVE-2024-34206",
+    "description": "TOTOLINK CPE CP450是中国吉翁电子（TOTOLINK）公司生产的一款户外无线客户终端设备。TOTOLINK CPE CP450存在命令注入漏洞，该漏洞源于setWebWlanIdx方法的webWlanIdx参数未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/n0wstr/IOTVuln/tree/main/CP450/setWebWlanIdx",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.totolink.net/",
+    "patch": "TOTOLINK CPE CP450 setWebWlanIdx方法命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-22",
+    "open_time": "2026-01-05",
+    "update_time": "2026-01-05",
+    "data_summary": "e24f510255657348213f299ec6c7c586"
+}

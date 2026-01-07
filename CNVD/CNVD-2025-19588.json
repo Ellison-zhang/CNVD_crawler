@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 15:28:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-19588",
+    "spider_time": 1767511724888,
+    "name": "WellChoose Organization Portal System跨站脚本漏洞（CNVD-2025-19588）",
+    "cnvd": "CNVD-2025-19588",
+    "publish": "2025-08-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Wellchoose Organization Portal System <\\\\I\\\\F\\\\T\\\\O\\\\P_\\\\P3_2_1_197\"]",
+    "cve": "CVE-2025-8911",
+    "description": "WellChoose Organization Portal System是中国台湾葳桥资讯（WellChoose）公司的一款电子目录服务系统。WellChoose Organization Portal System存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞在用户浏览器中执行任意JavaScript代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.twcert.org.tw/en/cp-139-10325-70192-2.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.wellchoose.com.tw/",
+    "patch": "WellChoose Organization Portal System跨站脚本漏洞（CNVD-2025-19588）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-08-28",
+    "update_time": "2025-08-28",
+    "data_summary": "afb93a41fff270e51189615f0ec57557"
+}

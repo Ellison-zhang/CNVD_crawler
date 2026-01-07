@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 11:09:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00115",
+    "spider_time": 1767755395757,
+    "name": "TOTOLINK CPE CP450 setUpgradeFW方法命令注入漏洞",
+    "cnvd": "CNVD-2026-00115",
+    "publish": "2026-01-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK CPE CP450 v4.1.0cu.747_B20191224\"]",
+    "cve": "CVE-2024-34204",
+    "description": "TOTOLINK CPE CP450是中国吉翁电子（TOTOLINK）公司生产的一款户外无线客户终端设备。TOTOLINK CPE CP450存在命令注入漏洞，该漏洞源于setUpgradeFW方法的FileName参数未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/n0wstr/IOTVuln/tree/main/CP450/setUpgradeFW",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.totolink.net/",
+    "patch": "TOTOLINK CPE CP450 setUpgradeFW方法命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-22",
+    "open_time": "2026-01-05",
+    "update_time": "2026-01-05",
+    "data_summary": "9ede559aa4cde7275a1b1ccb6351af77"
+}

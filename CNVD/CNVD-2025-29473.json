@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 10:58:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29473",
+    "spider_time": 1767754722464,
+    "name": "Tenda AC15访问控制错误漏洞",
+    "cnvd": "CNVD-2025-29473",
+    "publish": "2025-11-21",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda AC15 V15.03.05.18\"]",
+    "cve": "CVE-2025-63666",
+    "description": "Tenda AC15是腾达公司的一款无线路由器产品。Tenda AC15 15.03.05.18multi存在安全漏洞，该漏洞源于设备向客户端发放的身份验证Cookie会暴露账户密码哈希值，且会话标识符采用短低熵后缀。攻击者可利用该漏洞通过网络访问或在受害者浏览器中运行JS的方式窃取Cookie，重放后访问受保护资源。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-63666",
+    "solution": "目前厂商尚未发布升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://github.com/Remenis/CVE-2025-63666",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-21",
+    "open_time": "2025-11-27",
+    "update_time": "2025-11-27",
+    "data_summary": "405031ccabc8973211b5a261caa5a324"
+}

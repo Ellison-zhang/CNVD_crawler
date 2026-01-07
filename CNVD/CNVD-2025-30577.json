@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 11:00:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30577",
+    "spider_time": 1767754818795,
+    "name": "Microsoft Windows Remote Desktop Services权限提升漏洞",
+    "cnvd": "CNVD-2025-30577",
+    "publish": "2025-12-04",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Windows Server 2008\", \"Microsoft Windows 10 1607\", \"Microsoft Windows Server 2016\", \"Microsoft Windows Server 2019\", \"Microsoft Windows 10 1809\", \"Microsoft Windows Server 2012\", \"Microsoft Windows Server 2022\", \"Microsoft Windows 10 21H2\", \"Microsoft Windows 10 22H2\", \"Microsoft Windows 11 23H2\", \"Microsoft Windows 11 22H3\", \"Microsoft Windows Server 2025\", \"Microsoft Windows 11 24h2\", \"Microsoft Windows 11 25H2\"]",
+    "cve": "CVE-2025-60703",
+    "description": "Microsoft Windows Remote Desktop Services是Windows系统自带的远程桌面服务组件，结合RDP协议，可向用户提供远程桌面连接服务和远程应用连接服务。Microsoft Windows Remote Desktop Services存在权限提升漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-60703",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2025-60703",
+    "patch": "Microsoft Windows Remote Desktop Services权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "da3d938140d86938b7142e1dbfdd2baa"
+}

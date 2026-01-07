@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 11:03:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00116",
+    "spider_time": 1767755039819,
+    "name": "TOTOLINK CP450 setUrlFilterRules方法堆栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2026-00116",
+    "publish": "2026-01-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK CP450 4.1.0cu.747_B20191224\"]",
+    "cve": "CVE-2024-34215",
+    "description": "TOTOLINK CP450是由中国吉翁电子公司（TOTOLINK）生产的一款户外无线客户终端设备，主要用于农村及偏远地区的无线宽带接入服务。TOTOLINK CP450存在堆栈缓冲区溢出漏洞，该漏洞源于setUrlFilterRules方法未能正确验证输入数据的长度大小，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/n0wstr/IOTVuln/tree/main/CP450/SetUrlFilterRules",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.totolink.net/",
+    "patch": "TOTOLINK CP450 setUrlFilterRules方法堆栈缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-22",
+    "open_time": "2026-01-05",
+    "update_time": "2026-01-05",
+    "data_summary": "5e177d41f5d021ae5601058ec5da8569"
+}

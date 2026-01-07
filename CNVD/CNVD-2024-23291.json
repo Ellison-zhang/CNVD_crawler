@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 11:09:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2024-23291",
+    "spider_time": 1767755356230,
+    "name": "IBM Storage Defender特权管理不当漏洞",
+    "cnvd": "CNVD-2024-23291",
+    "publish": "2024-05-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:M/C:C/I:C/A:C",
+    "product": "[\"IBM IBM Storage Defender\"]",
+    "cve": "CVE-2023-50957",
+    "description": "IBM Storage Defender是美国国际商业机器（IBM）公司的一种提供端到端数据弹性的解决方案。IBM Storage Defender Connection Manager存在特权管理不当漏洞，该漏洞源于Resiliency Service可能允许特权用户在从明文密钥存储获取加密数据后执行未经授权的操作。攻击者可以利用该漏洞进行恶意操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-50957",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7115261",
+    "patch": "IBM Storage Defender特权管理不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-01",
+    "open_time": "2024-05-20",
+    "update_time": "2024-05-20",
+    "data_summary": "d6b929e98beee9308a64f057d6e48fc3"
+}

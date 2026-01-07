@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 11:00:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00103",
+    "spider_time": 1767754840050,
+    "name": "WordPress Astra Widgets plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2026-00103",
+    "publish": "2026-01-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Astra Widgets plugin <=1.2.16\"]",
+    "cve": "CVE-2025-68497",
+    "description": "WordPress Astra Widgets plugin是一个由Astra主题团队开发的小工具扩展插件，旨在增强Astra主题的功能。WordPress Astra Widgets plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/astra-widgets/vulnerability/wordpress-astra-widgets-plugin-1-2-16-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/astra-widgets/",
+    "patch": "WordPress Astra Widgets plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-30",
+    "open_time": "2026-01-05",
+    "update_time": "2026-01-05",
+    "data_summary": "7cd5e131861440059cba1ec183b513c2"
+}

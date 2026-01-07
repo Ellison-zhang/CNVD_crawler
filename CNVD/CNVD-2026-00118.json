@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 11:04:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00118",
+    "spider_time": 1767755061087,
+    "name": "TOTOLINK CP450硬编码密码漏洞",
+    "cnvd": "CNVD-2026-00118",
+    "publish": "2026-01-04",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK CP450 4.1.0cu.747_B20191224\"]",
+    "cve": "CVE-2024-34211",
+    "description": "TOTOLINK CP450是由中国吉翁电子公司（TOTOLINK）生产的一款户外无线客户终端设备，主要用于农村及偏远地区的无线宽带接入服务。TOTOLINK CP450存在硬编码密码漏洞，攻击者可利用该漏洞通过/etc/shadow.sample文件可以以root账户登录。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/n0wstr/IOTVuln/tree/main/CP450/HardCodeRoot",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.totolink.net/",
+    "patch": "TOTOLINK CP450硬编码密码漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-05-22",
+    "open_time": "2026-01-05",
+    "update_time": "2026-01-05",
+    "data_summary": "3ab942a9836d317653eb04aaf0c84cf8"
+}

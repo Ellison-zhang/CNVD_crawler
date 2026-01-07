@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 10:59:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30218",
+    "spider_time": 1767754742726,
+    "name": "Wireshark EAP dissector拒绝服务漏洞",
+    "cnvd": "CNVD-2025-30218",
+    "publish": "2025-12-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Wireshark Wireshark >=4.0.0，<=4.0.2\"]",
+    "cve": "CVE-2023-0414",
+    "description": "Wireshark是一个网络封包分析软件。Wireshark EAP dissector存在安全漏洞，远程攻击者可利用该漏洞提交特殊的请求，可使应用程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-0414",
+    "solution": "厂商已提供安全补丁以修复该漏洞：\nhttps://www.wireshark.org/security/wnpa-sec-2023-02.html",
+    "patch": "Wireshark EAP dissector拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-01-30",
+    "open_time": "2025-12-08",
+    "update_time": "2025-12-08",
+    "data_summary": "5f34f8a6400c14eac1548afbc4d17dae"
+}

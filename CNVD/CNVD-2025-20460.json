@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 15:32:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-20460",
+    "spider_time": 1767511964686,
+    "name": "WordPress Pro Bulk Watermark plugin路径遍历漏洞",
+    "cnvd": "CNVD-2025-20460",
+    "publish": "2025-09-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"WordPress Pro Bulk Watermark plugin <=2.0\"]",
+    "cve": "CVE-2025-4956",
+    "description": "WordPress Pro Bulk Watermark plugin是一款专为WordPress网站设计的图片水印插件，主要用于批量为上传的图片添加自定义水印，支持文字和图片水印类型。WordPress Pro Bulk Watermark plugin存在路径遍历漏洞，攻击者可利用该漏洞导致机密性受影响。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/wordpress/theme/pro-watermark/vulnerability/wordpress-pro-bulk-watermark-plugin-for-wordpress-theme-2-0-path-traversal-vulnerability?_s_id=cve",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-02",
+    "open_time": "2025-09-05",
+    "update_time": "2025-09-05",
+    "data_summary": "8eae90835783ad4588f77756a55d193c"
+}

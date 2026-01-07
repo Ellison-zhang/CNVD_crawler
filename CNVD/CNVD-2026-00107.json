@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 11:01:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00107",
+    "spider_time": 1767754874567,
+    "name": "WordPress Brave plugin缺少授权漏洞",
+    "cnvd": "CNVD-2026-00107",
+    "publish": "2026-01-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"WordPress Brave plugin <=0.8.3\"]",
+    "cve": "CVE-2025-68508",
+    "description": "WordPress Brave plugin由Brave软件公司开发的Brave Browser Extensions的WordPress集成插件。WordPress Brave plugin存在缺少授权漏洞，攻击者可利用该漏洞导致利用配置不当的访问控制安全级别。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/brave-popup-builder/vulnerability/wordpress-brave-plugin-0-8-3-broken-access-control-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/brave-popup-builder/",
+    "patch": "WordPress Brave plugin缺少授权漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-30",
+    "open_time": "2026-01-05",
+    "update_time": "2026-01-05",
+    "data_summary": "142296311c97d4b108a87bd8ef3b1146"
+}

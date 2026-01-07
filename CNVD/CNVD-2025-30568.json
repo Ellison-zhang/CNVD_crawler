@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 10:59:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30568",
+    "spider_time": 1767754757968,
+    "name": "Microsoft Azure Monitor代码问题漏洞",
+    "cnvd": "CNVD-2025-30568",
+    "publish": "2025-12-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Microsoft Microsoft Azure Monitor\"]",
+    "cve": "CVE-2025-62207",
+    "description": "Microsoft Azure Monitor是美国微软（Microsoft）公司的一种新式的可观测性工具，可以实现面向应用程序、基础结构和网络的端到端的监视功能。Microsoft Azure Monitor存在安全漏洞，攻击者可利用该漏洞通过网络提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-62207",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62207",
+    "patch": "Microsoft Azure Monitor代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-24",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "7d81abf018681f0e61cb21d330e21dc5"
+}

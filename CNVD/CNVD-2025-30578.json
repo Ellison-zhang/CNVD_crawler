@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 11:00:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30578",
+    "spider_time": 1767754830930,
+    "name": "Microsoft Data Sharing Service竞争条件问题漏洞",
+    "cnvd": "CNVD-2025-30578",
+    "publish": "2025-12-04",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:C/A:P",
+    "product": "[\"Microsoft Windows Server 2016\", \"Microsoft Windows Server 2019\", \"Microsoft Windows Server 2022\", \"Microsoft Window 10 22H2\", \"Microsoft Window 10 21H2\", \"Microsoft Window 11 22H2\", \"Microsoft Window 10 1809\", \"Microsoft Window 10 1607\", \"Microsoft Window 11 23H2\", \"Microsoft Window 11 24H2\", \"Microsoft Windows Server 2025\", \"Microsoft Window 10 1507\", \"Microsoft Window 11 25H2\", \"Microsoft Window 11 22H3\"]",
+    "cve": "CVE-2025-59200",
+    "description": "Microsoft Data Sharing Service是美国微软（Microsoft）公司的一个Windows操作系统内置的数据共享服务组件。Microsoft Data Sharing Service存在安全漏洞，攻击者可利用该漏洞执行欺骗攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-59200",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59200",
+    "patch": "Microsoft Data Sharing Service竞争条件问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "02ab20353aba2aabd725bb3a4d75c3fe"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 11:03:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00112",
+    "spider_time": 1767754980971,
+    "name": "WordPress Real 3D FlipBook plugin跨站脚本漏洞",
+    "cnvd": "CNVD-2026-00112",
+    "publish": "2026-01-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"WordPress Real 3D FlipBook plugin <=4.11.4\"]",
+    "cve": "CVE-2025-68512",
+    "description": "WordPress Real 3D FlipBook plugin是一款用于WordPress网站的插件，它利用WebGL技术将PDF文件或图像转换为具有逼真3D效果的翻书动画，模拟真实书籍的翻页体验，包括页面弯曲、光影和阴影效果。WordPress Real 3D FlipBook plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/real3d-flipbook-lite/vulnerability/wordpress-real-3d-flipbook-plugin-4-11-4-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/real3d-flipbook-lite/",
+    "patch": "WordPress Real 3D FlipBook plugin跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-30",
+    "open_time": "2026-01-05",
+    "update_time": "2026-01-05",
+    "data_summary": "737e4c93057b3cfa27e96c52f6dd8ef2"
+}

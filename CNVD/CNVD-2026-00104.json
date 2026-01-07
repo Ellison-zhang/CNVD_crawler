@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 11:00:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00104",
+    "spider_time": 1767754847190,
+    "name": "WordPress AutomatorWP plugin SQL注入漏洞",
+    "cnvd": "CNVD-2026-00104",
+    "publish": "2026-01-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:N/A:P",
+    "product": "[\"WordPress AutomatorWP plugin <=5.2.4\"]",
+    "cve": "CVE-2025-68561",
+    "description": "WordPress AutomatorWP plugin是一个专为WordPress设计的开源自动化插件，它允许用户通过无代码方式连接不同的WordPress插件、站点和应用程序，以创建自动化工作流程。WordPress AutomatorWP plugin存在SQL注入漏洞，该漏洞源于应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/wordpress/plugin/automatorwp/vulnerability/wordpress-automatorwp-plugin-5-2-4-sql-injection-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/automatorwp/",
+    "patch": "WordPress AutomatorWP plugin SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-30",
+    "open_time": "2026-01-05",
+    "update_time": "2026-01-05",
+    "data_summary": "dfe0abdca9312cc3febd847d3d6f88d3"
+}

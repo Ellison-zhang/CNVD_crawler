@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 11:05:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00121",
+    "spider_time": 1767755105493,
+    "name": "TOTOLINK N200RE setDiagnosisCfg函数命令注入漏洞",
+    "cnvd": "CNVD-2026-00121",
+    "publish": "2026-01-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"TOTOLINK N200RE 9.3.5u.6139_B20201216\"]",
+    "cve": "CVE-2024-0298",
+    "description": "TOTOLINK N200RE是一款面向小型办公室或家庭（SOHO）环境的无线宽带路由器。TOTOLINK N200RE存在命令注入漏洞，该漏洞源于对/cgi-bin/cstecgi.cgi页面的setDiagnosisCfg函数的ip参数未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-0298",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/204/ids/36.html",
+    "patch": "TOTOLINK N200RE setDiagnosisCfg函数命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-01-11",
+    "open_time": "2026-01-05",
+    "update_time": "2026-01-05",
+    "data_summary": "ecdbc920862eee16df42feb8513732b5"
+}

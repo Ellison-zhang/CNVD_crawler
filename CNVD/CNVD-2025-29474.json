@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 10:58:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-29474",
+    "spider_time": 1767754729612,
+    "name": "Siemens Altair Grid Engine代码问题漏洞",
+    "cnvd": "CNVD-2025-29474",
+    "publish": "2025-11-21",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"SIEMENS Altair Grid Engine <v2026.0.0\"]",
+    "cve": "CVE-2025-40763",
+    "description": "Siemens Altair Grid Engine是美国Siemens公司的一个分布式资源管理系统。Siemens Altair Grid Engine V2026.0.0之前版本存在代码问题漏洞，该漏洞源于加载共享库时未正确验证环境变量，攻击者可利用该漏洞导致通过恶意库替换进行路径劫持，从而以超级用户权限执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-40763",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-514895.html",
+    "patch": "Siemens Altair Grid Engine代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-11-27",
+    "update_time": "2025-11-27",
+    "data_summary": "2784969faacf78ea175ff114bf903173"
+}

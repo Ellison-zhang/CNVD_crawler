@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 11:00:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30576",
+    "spider_time": 1767754800532,
+    "name": "Microsoft Windows WLAN Service权限提升漏洞",
+    "cnvd": "CNVD-2025-30576",
+    "publish": "2025-12-04",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Windows Server 2019\", \"Microsoft Windows 10 1809\", \"Microsoft Windows Server 2022\", \"Microsoft Windows 10 21H2\", \"Microsoft Windows 10 22H2\", \"Microsoft Windows 11 23H2\", \"Microsoft Windows 11 22H3\", \"Microsoft Windows Server 2025\", \"Microsoft Windows 11 24h2\", \"Microsoft Windows 11 25H2\"]",
+    "cve": "CVE-2025-59511",
+    "description": "Microsoft Windows WLAN Service是Windows操作系统中用于管理无线网络连接的核心功能，支持自动扫描、连接和切换无线网络，同时提供安全协议保护数据传输。Microsoft Windows WLAN Service存在权限提升漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-59511",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2025-59511",
+    "patch": "Microsoft Windows WLAN Service权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "241bf0df0530aadd9946c3ed69c63ab7"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 10:59:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30575",
+    "spider_time": 1767754791380,
+    "name": "Microsoft Windows DirectX Graphics Kernel权限提升漏洞",
+    "cnvd": "CNVD-2025-30575",
+    "publish": "2025-12-04",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Windows 10 1607\", \"Microsoft Windows Server 2016\", \"Microsoft Windows Server 2019\", \"Microsoft Windows 10 1809\", \"Microsoft Windows Server 2012\", \"Microsoft Windows Server 2022\", \"Microsoft Windows 10 21H2\", \"Microsoft Windows 10 22H2\", \"Microsoft Windows 11 23H2\", \"Microsoft Windows 11 22H3\", \"Microsoft Windows Server 2025\", \"Microsoft Windows 11 24h2\", \"Microsoft Windows 11 25H2\"]",
+    "cve": "CVE-2025-59506",
+    "description": "Microsoft Windows DirectX Graphics Kernel是微软在Windows操作系统中提供的图形内核子系统，负责管理显卡驱动、GPU资源和图形渲染。Microsoft Windows DirectX Graphics Kernel存在权限提升漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-59506",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2025-59506",
+    "patch": "Microsoft Windows DirectX Graphics Kernel权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "9d78c0ad61fd84cfde575f5d44ff97e3"
+}

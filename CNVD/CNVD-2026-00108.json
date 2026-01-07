@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 11:09:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00108",
+    "spider_time": 1767755374518,
+    "name": "WordPress Chakra test plugin缺少授权漏洞",
+    "cnvd": "CNVD-2026-00108",
+    "publish": "2026-01-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"WordPress Chakra test plugin <=1.0.1\"]",
+    "cve": "CVE-2025-68557",
+    "description": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。WordPress Chakra test plugin存在缺少授权漏洞，攻击者可利用该漏洞导致利用配置不当的访问控制安全级别。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/wordpress/plugin/chakra-test/vulnerability/wordpress-chakra-test-plugin-1-0-1-broken-access-control-vulnerability?_s_id=cve",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/chakra-test/",
+    "patch": "WordPress Chakra test plugin缺少授权漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-30",
+    "open_time": "2026-01-05",
+    "update_time": "2026-01-05",
+    "data_summary": "a8849a3fcb9669543383dbb28c873314"
+}

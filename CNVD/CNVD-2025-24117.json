@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 15:36:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-24117",
+    "spider_time": 1767512180157,
+    "name": "Hostel Management System hostel_manage.exe文件栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-24117",
+    "publish": "2025-10-16",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Hostel Management System Hostel Management System 1.0\"]",
+    "cve": "CVE-2025-8962",
+    "description": "Hostel Management System是一个宿舍管理系统。Hostel Management System存在栈缓冲区溢出漏洞，该漏洞源于文件hostel_manage.exe中参数uname未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-8962",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-20",
+    "open_time": "2025-10-17",
+    "update_time": "2025-10-17",
+    "data_summary": "2b02c7eb111e1f44097a6e008d4cae1d"
+}

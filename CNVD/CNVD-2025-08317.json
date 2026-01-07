@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 15:25:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-08317",
+    "spider_time": 1767511559097,
+    "name": "Tenda RX3 SetPptpServerCfg缓冲区溢出漏洞",
+    "cnvd": "CNVD-2025-08317",
+    "publish": "2025-04-18",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda RX3 V16.03.13.11_multi\", \"Tenda RX3 1.0\"]",
+    "cve": "CVE-2025-29357",
+    "description": "Tenda RX3是中国腾达（Tenda）公司的一款双频WiFi 6家用无线路由器。用于家庭网络覆盖，支持高速无线连接。Tenda RX3存在SetPptpServerCfg缓冲区溢出漏洞，该漏洞源于/goform/SetPptpServerCfg中的startIp和endIp参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-29357",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tenda.com.cn/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-24",
+    "open_time": "2025-04-25",
+    "update_time": "2025-04-25",
+    "data_summary": "c12b286471f66f28311393617793e7df"
+}

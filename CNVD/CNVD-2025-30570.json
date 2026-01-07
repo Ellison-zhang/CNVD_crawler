@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 10:59:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2025-30570",
+    "spider_time": 1767754781253,
+    "name": "Microsoft Visual Studio Code访问控制错误漏洞",
+    "cnvd": "CNVD-2025-30570",
+    "publish": "2025-12-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Microsoft Visual Studio Code\"]",
+    "cve": "CVE-2025-64660",
+    "description": "Microsoft Visual Studio Code是美国微软（Microsoft）公司的一款开源的代码编辑器。Microsoft Visual Studio Code存在安全漏洞，攻击者可利用该漏洞导致绕过安全功能。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-64660",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-64660",
+    "patch": "Microsoft Visual Studio Code访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-24",
+    "open_time": "2025-12-12",
+    "update_time": "2025-12-12",
+    "data_summary": "53c973eac417815c199b4325776028d9"
+}
