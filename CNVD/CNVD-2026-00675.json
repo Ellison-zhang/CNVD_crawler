@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 02:40:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00675",
+    "spider_time": 1767753641151,
+    "name": "WordPress插件Restaurant Menu by MotoPress信息泄露漏洞",
+    "cnvd": "CNVD-2026-00675",
+    "publish": "2026-01-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"WordPress Restaurant Menu by MotoPress Plugin <=2.4.7\"]",
+    "cve": "CVE-2025-49914",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件Restaurant Menu by MotoPress存在信息泄露漏洞，攻击者可利用该漏洞检索嵌入的敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-49914",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/mp-restaurant-menu/",
+    "patch": "WordPress插件Restaurant Menu by MotoPress信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-25",
+    "open_time": "2026-01-07",
+    "update_time": "2026-01-07",
+    "data_summary": "2869252d2a3de6b8d6296a55519106ea"
+}

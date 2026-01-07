@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 07:13:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00013",
+    "spider_time": 1767510807567,
+    "name": "Siemens Gridscale X Prepay安全绕过漏洞",
+    "cnvd": "CNVD-2026-00013",
+    "publish": "2026-01-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"SIEMENS Gridscale X Prepay <V4.2.1\"]",
+    "cve": "CVE-2025-40807",
+    "description": "Siemens Gridscale X Prepay是德国Siemens公司的一款能源预付费和客户管理系统。Siemens Gridscale X Prepay存在安全绕过漏洞，该漏洞源于认证令牌重放，攻击者可利用该漏洞导致会话劫持。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-356310.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-356310.html",
+    "patch": "Siemens Gridscale X Prepay安全绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-15",
+    "open_time": "2026-01-04",
+    "update_time": "2026-01-04",
+    "data_summary": "9fb2fa757e99e59a1bced0fb2b6158de"
+}

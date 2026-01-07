@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-05 08:14:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00139",
+    "spider_time": 1767600876267,
+    "name": "Huawei HarmonyOS/EMUI访问无效内存漏洞",
+    "cnvd": "CNVD-2026-00139",
+    "publish": "2026-01-05",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:C",
+    "product": "[\"Huawei EMUI 12.0.0\", \"Huawei HarmonyOS 3.0.0\", \"Huawei HarmonyOS 2.0.0\", \"Huawei HarmonyOS 3.1.0\", \"Huawei EMUI 13.0.0\", \"Huawei HarmonyOS 4.0.0\", \"Huawei HarmonyOS 4.2.0\", \"Huawei EMUI 14.0.0\", \"Huawei HarmonyOS 4.3.0\", \"Huawei HarmonyOS 5.0.1\", \"Huawei HarmonyOS 5.1.0\", \"Huawei HarmonyOS 4.3.1\", \"Huawei EMUI 15.0.0\", \"Huawei HarmonyOS 6.0.0\", \"Huawei EMUI 14.2.0\"]",
+    "cve": "CVE-2025-58314",
+    "description": "Huawei HarmonyOS是华为自主研发的分布式操作系统‌，专为手机、平板、智能家居等全场景设备设计，实现跨设备无缝协同。‌Huawei EMUI是华为基于安卓系统深度定制的手机操作系统‌。Huawei HarmonyOS/EMUI存在访问无效内存漏洞，该漏洞源于组件驱动模块访问无效内存，攻击者可利用该漏洞影响可用性和机密性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-58314",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://consumer.huawei.com/en/support/bulletin/2025/11/",
+    "patch": "Huawei HarmonyOS/EMUI访问无效内存漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-03",
+    "open_time": "2026-01-05",
+    "update_time": "2026-01-05",
+    "data_summary": "a9c1f6c7f80d625d04bd87183514db55"
+}

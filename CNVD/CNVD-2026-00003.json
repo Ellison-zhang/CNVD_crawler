@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 07:05:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00003",
+    "spider_time": 1767510316258,
+    "name": "Apache Airflow信息泄露漏洞",
+    "cnvd": "CNVD-2026-00003",
+    "publish": "2026-01-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Apache Airflow >=3.1.0\\uff0c<3.1.4\"]",
+    "cve": "CVE-2025-66388",
+    "description": "Apache Airflow是美国阿帕奇（Apache）基金会的一套具有创建、管理和监控工作流程功能的开源平台。该平台具有可扩展和动态监控等特点。Apache Airflow存在信息泄露漏洞，该漏洞源于经过身份验证的UI用户可以查看渲染模板中的秘密值，攻击者可利用该漏洞导致秘密泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/apache/airflow/pull/58772",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://airflow.apache.org/",
+    "patch": "Apache Airflow信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-25",
+    "open_time": "2026-01-04",
+    "update_time": "2026-01-04",
+    "data_summary": "d5295aaca975776d7a8d9f6296b61607"
+}

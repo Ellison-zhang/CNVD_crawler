@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-06 11:09:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00533",
+    "spider_time": 1767697780571,
+    "name": "Prison Management System栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2026-00533",
+    "publish": "2026-01-06",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Prison Management System Prison Management System v1.0\"]",
+    "cve": "CVE-2025-4059",
+    "description": "Prison Management System是一个监狱管理系统。Prison Management System存在栈缓冲区溢出漏洞，该漏洞源于Prison_Mgmt_Sys组件中addrecord函数的参数filename未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-4059",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-07",
+    "open_time": "2026-01-06",
+    "update_time": "2026-01-06",
+    "data_summary": "8991311d54b31dbfba915fceb8849457"
+}

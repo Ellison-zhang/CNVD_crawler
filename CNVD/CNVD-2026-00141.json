@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-05 08:14:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00141",
+    "spider_time": 1767600884570,
+    "name": "Huawei HarmonyOS/EMUI访问权限验证漏洞",
+    "cnvd": "CNVD-2026-00141",
+    "publish": "2026-01-05",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Huawei HarmonyOS 3.1.0\", \"Huawei EMUI 13.0.0\", \"Huawei HarmonyOS 4.0.0\", \"Huawei HarmonyOS 4.2.0\", \"Huawei EMUI 14.0.0\"]",
+    "cve": "CVE-2024-42030",
+    "description": "Huawei HarmonyOS是华为自主研发的分布式操作系统‌，专为手机、平板、智能家居等全场景设备设计，实现跨设备无缝协同。‌Huawei EMUI是华为基于安卓系统深度定制的手机操作系统‌。Huawei HarmonyOS/EMUI存在访问权限验证漏洞，该漏洞源于内容共享弹出模块存在访问权限验证漏洞。攻击者可利用该漏洞影响服务的机密性。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-42030",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://consumer.huawei.com/en/support/bulletin/2024/8/",
+    "patch": "Huawei HarmonyOS/EMUI访问权限验证漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-08-14",
+    "open_time": "2026-01-05",
+    "update_time": "2026-01-05",
+    "data_summary": "3431c0807e02f6b5a87207e61a789665"
+}

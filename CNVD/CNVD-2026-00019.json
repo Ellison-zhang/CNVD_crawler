@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 08:04:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00019",
+    "spider_time": 1767513885461,
+    "name": "Siemens RUGGEDCOM ROX II注入漏洞",
+    "cnvd": "CNVD-2026-00019",
+    "publish": "2026-01-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"SIEMENS RUGGEDCOM ROX II family <V2.17.0\"]",
+    "cve": "CVE-2024-56839",
+    "description": "Siemens RUGGEDCOM ROX II是德国Siemens公司的一款面向工业应用的操作系统。Siemens RUGGEDCOM ROX II存在注入漏洞，攻击者可利用该漏洞导致执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-912274.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.industry.siemens.com/cs/document/109997648/-firmware-download-for-ruggedcom-rox-2-17-0?lc=en-ww",
+    "patch": "Siemens RUGGEDCOM ROX II注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-15",
+    "open_time": "2026-01-04",
+    "update_time": "2026-01-04",
+    "data_summary": "7794fa5bb54f10737c540e27d26916a4"
+}

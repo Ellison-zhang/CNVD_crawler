@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 07:13:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00011",
+    "spider_time": 1767510798371,
+    "name": "Microsoft Azure Cognitive Service for Language权限提升漏洞",
+    "cnvd": "CNVD-2026-00011",
+    "publish": "2026-01-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Azure Cognitive Service for Language\"]",
+    "cve": "CVE-2025-64663",
+    "description": "Microsoft Azure Cognitive Service for Language是美国微软（Microsoft）公司的一款基于云的自然语言处理服务。Microsoft Azure Cognitive Service for Language存在权限提升漏洞，该漏洞是由自定义问答中的缺陷引起的。攻击者可利用该漏洞在系统上获得更高的权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-64663",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-64663",
+    "patch": "Microsoft Azure Cognitive Service for Language权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-25",
+    "open_time": "2026-01-04",
+    "update_time": "2026-01-04",
+    "data_summary": "8d35c42c19f88d92883fcac1acee0b27"
+}

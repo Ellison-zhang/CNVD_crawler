@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-06 11:07:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00527",
+    "spider_time": 1767697627433,
+    "name": "Online Ordering System user.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2026-00527",
+    "publish": "2026-01-06",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Online Ordering System Online Ordering System 1.0\"]",
+    "cve": "CVE-2025-8233",
+    "description": "Online Ordering System是一个在线订购系统。Online Ordering System存在SQL注入漏洞，该漏洞源于/admin/user.php文件中参数un未经过滤导致数据库查询可被操控。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.317821\nhttps://vuldb.com/?ctiid.317821\nhttps://vuldb.com/?submit.622388\nhttps://github.com/xiajian-qx/cve-xiajian/issues/6\nhttps://code-projects.org/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-28",
+    "open_time": "2026-01-06",
+    "update_time": "2026-01-06",
+    "data_summary": "7c0114bcb4ffbad7d9e2876570f34070"
+}

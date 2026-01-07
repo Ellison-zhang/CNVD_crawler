@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 02:40:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00656",
+    "spider_time": 1767753653951,
+    "name": "D-Link DIR-803信息泄露漏洞",
+    "cnvd": "CNVD-2026-00656",
+    "publish": "2026-01-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"D-Link DIR-803 <=1.04\"]",
+    "cve": "CVE-2025-14528",
+    "description": "D-Link DIR-803是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-803存在信息泄露漏洞，该漏洞源于组件Configuration Handler的文件/getcfg.php中参数AUTHORIZED_GROUP的错误操作，攻击者可利用该漏洞导致信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-14528",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/Madgeaaaaa/MY_VULN_2/blob/main/D-Link/vuln-2/DIR-803%20Authentication%20Bypass.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-18",
+    "open_time": "2026-01-07",
+    "update_time": "2026-01-07",
+    "data_summary": "3c4c28a49d18393f84fe15c67a6d7542"
+}

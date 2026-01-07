@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-06 11:04:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00519",
+    "spider_time": 1767697488737,
+    "name": "Employee Profile Management System代码问题漏洞",
+    "cnvd": "CNVD-2026-00519",
+    "publish": "2026-01-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+    "product": "[\"Employee Profile Management System Employee Profile Management System 1.0\"]",
+    "cve": "CVE-2025-14195",
+    "description": "Employee Profile Management System是一个员工档案管理系统。Employee Profile Management System存在代码问题漏洞，该漏洞源于文件/profiling/add_file_query.php中参数per_file对上传的文件缺少有效的验证。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.334615",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2026-01-06",
+    "update_time": "2026-01-06",
+    "data_summary": "845bade42eadc520c65f17d1d9acdcd3"
+}

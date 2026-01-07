@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 07:17:21",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00041",
+    "spider_time": 1767511041301,
+    "name": "Apache InLong安全绕过漏洞",
+    "cnvd": "CNVD-2026-00041",
+    "publish": "2026-01-04",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Apache InLong >=1.13.0\\uff0c<=2.1.0\"]",
+    "cve": "CVE-2025-27522",
+    "description": "Apache InLong是美国阿帕奇（Apache）基金会的一站式的海量数据集成框架。提供自动化、安全、可靠的数据传输能力。Apache InLong存在安全绕过漏洞，该漏洞是由于不安全的反序列化缺陷引起的。攻击者利用此漏洞导致绕过。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lists.apache.org/thread/s4dnmq3gwcjocxf85qk190knlzd26jby",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://inlong.apache.org/downloads/",
+    "patch": "Apache InLong安全绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2026-01-04",
+    "update_time": "2026-01-04",
+    "data_summary": "c753398c626734c88faf046efeb330db"
+}

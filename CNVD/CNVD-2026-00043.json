@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 07:17:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00043",
+    "spider_time": 1767511052627,
+    "name": "Microsoft Outlook代码执行漏洞（CNVD-2026-00043）",
+    "cnvd": "CNVD-2026-00043",
+    "publish": "2026-01-04",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Office LTSC for Mac 2021\", \"Microsoft Office LTSC for Mac 2024\", \"Microsoft Outlook for Mac\"]",
+    "cve": "CVE-2025-21361",
+    "description": "Microsoft Outlook是美国微软（Microsoft）公司的一套电子邮件应用程序。Microsoft Outlook存在代码执行漏洞，攻击者利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21361\nhttps://nvd.nist.gov/vuln/detail/CVE-2025-21361",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21361",
+    "patch": "Microsoft Outlook代码执行漏洞（CNVD-2026-00043）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-14",
+    "open_time": "2026-01-04",
+    "update_time": "2026-01-04",
+    "data_summary": "00fed9b5bdfc53bb0c25902177222e73"
+}

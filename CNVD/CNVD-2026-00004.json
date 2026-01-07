@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-04 07:05:20",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00004",
+    "spider_time": 1767510320988,
+    "name": "Apache Fineract安全绕过漏洞",
+    "cnvd": "CNVD-2026-00004",
+    "publish": "2026-01-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:N",
+    "product": "[\"Apache Fineract <=1.11.0\"]",
+    "cve": "CVE-2025-58137",
+    "description": "Apache Fineract是美国阿帕奇（Apache）基金会的一套开源数字金融服务平台。该平台能够为用户提供数据管理、贷款和储蓄投资组合管理以及实时财务数据等功能。Apache Fineract存在安全绕过漏洞，该漏洞是由于不安全的直接对象引用（IDOR）缺陷引起的。攻击者可利用该漏洞导致授权绕过。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lists.apache.org/thread/gz3zhoghlclch3rdnzyrdcf69c0507ww",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fineract.apache.org/",
+    "patch": "Apache Fineract安全绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-25",
+    "open_time": "2026-01-04",
+    "update_time": "2026-01-04",
+    "data_summary": "9804d037e6998cb433e4924dad8af2e7"
+}
