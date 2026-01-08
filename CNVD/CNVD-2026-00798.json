@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-08 08:06:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00798",
+    "spider_time": 1767859568963,
+    "name": "UTT 进取 520W缓冲区溢出漏洞（CNVD-2026-0079889）",
+    "cnvd": "CNVD-2026-00798",
+    "publish": "2026-01-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"UTT \\u8fdb\\u53d6 520W 1.7.7-180627\"]",
+    "cve": "CVE-2025-14141",
+    "description": "UTT 进取 520W是一款由艾泰科技（UTT）推出的企业级无线路由器，专为小型企业、远程分支机构等办公环境设计。UTT 进取 520W存在缓冲区溢出漏洞，该漏洞源于文件/goform/formArpBindConfig中参数pools未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/cymiao1978/cve/blob/main/new/13.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.uttat.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2026-01-08",
+    "update_time": "2026-01-08",
+    "data_summary": "1e5848cfb9d5829931f948761db8ea27"
+}

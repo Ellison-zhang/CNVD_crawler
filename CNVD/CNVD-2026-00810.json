@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-08 08:08:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00810",
+    "spider_time": 1767859717645,
+    "name": "UTT 1250GW缓冲区溢出漏洞",
+    "cnvd": "CNVD-2026-00810",
+    "publish": "2026-01-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"UTT 1250GW <=3.2.2 200710\"]",
+    "cve": "CVE-2025-10171",
+    "description": "UTT 1250GW是一款由艾泰科技有限公司（UTT）推出的企业级无线路由器，专为中小型办公环境（SOHO）设计，注重网络性能、稳定性和管理功能。UTT 1250GW存在缓冲区溢出漏洞，该漏洞源于/goform/formConfigApConfTemp文件中的sub_453DC函数未能对输入数据执行有效边界检查。攻击者可利用该漏洞通过远程发送特制数据触发缓冲区溢出，从而执行任意代码或导致系统崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.323206\nhttps://vuldb.com/?ctiid.323206\nhttps://vuldb.com/?submit.636789\nhttps://github.com/Aur0r3-zy/cve/blob/main/CVE.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.uttat.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-11",
+    "open_time": "2026-01-08",
+    "update_time": "2026-01-08",
+    "data_summary": "b50a67c6568b048f8e8c044c10bf8961"
+}

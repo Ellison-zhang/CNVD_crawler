@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-08 08:08:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00809",
+    "spider_time": 1767859711620,
+    "name": "UTT 750W缓冲区溢出漏洞",
+    "cnvd": "CNVD-2026-00809",
+    "publish": "2026-01-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"UTT 750W <=3.2.2-191225\"]",
+    "cve": "CVE-2025-10172",
+    "description": "UTT 750W是艾泰（UTT）品牌推出的一款企业级双频无线路由器，支持2.4GHz和5GHz频段，无线传输速率最高可达750Mbps。UTT 750W存在缓冲区溢出漏洞，该漏洞源于文件/goform/formPictureUrl对importpictureurl参数的处理未进行有效边界检查。攻击者可利用该漏洞通过远程发送特制参数触发缓冲区溢出，从而执行任意代码或导致服务中断。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.323207\nhttps://vuldb.com/?ctiid.323207\nhttps://vuldb.com/?submit.639030\nhttps://github.com/cymiao1978/cve/blob/main/1.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.uttat.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-11",
+    "open_time": "2026-01-08",
+    "update_time": "2026-01-08",
+    "data_summary": "35884dab6ce6c8d5172f08784dd0556b"
+}
