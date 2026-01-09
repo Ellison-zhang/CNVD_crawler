@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-09 08:07:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-02683",
+    "spider_time": 1767946057000,
+    "name": "Orangescrum路径遍历漏洞",
+    "cnvd": "CNVD-2026-02683",
+    "publish": "2026-01-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:C/A:C",
+    "product": "[\"OrangeScrum OrangeScrum 2.0.11\"]",
+    "cve": "CVE-2023-0454",
+    "description": "Orangescrum是一个项目和任务管理的软件工具,也为工作组织和团队协作提供了生产力工具。Orangescrum存在路径遍历漏洞，该漏洞源于该应用程序使用一个未经清理的攻击者可控参数来构建内部路径。攻击者可利用该漏洞从服务器上删除任意本地文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Orangescrum/orangescrum",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.orangescrum.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-02-09",
+    "open_time": "2026-01-09",
+    "update_time": "2026-01-09",
+    "data_summary": "7530a63f51165f26e1942290dc500646"
+}

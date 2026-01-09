@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-09 08:07:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-02684",
+    "spider_time": 1767946063041,
+    "name": "Orangescrum操作系统命令注入漏洞",
+    "cnvd": "CNVD-2026-02684",
+    "publish": "2026-01-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"OrangeScrum OrangeScrum 2.0.11\"]",
+    "cve": "CVE-2023-0164",
+    "description": "Orangescrum是一个项目和任务管理的软件工具,也为工作组织和团队协作提供了生产力工具。Orangescrum存在操作系统命令注入漏洞，该漏洞源于应用程序将攻击者控制的参数注入系统函数所致。攻击者可利用该漏洞在服务器上执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Orangescrum/orangescrum",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.orangescrum.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-01-30",
+    "open_time": "2026-01-09",
+    "update_time": "2026-01-09",
+    "data_summary": "02f41fc9231dbbe5accf1114e4b75687"
+}
