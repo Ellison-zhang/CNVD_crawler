@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-12 08:16:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-02910",
+    "spider_time": 1768205819840,
+    "name": "Ivanti Endpoint Manager跨站脚本漏洞",
+    "cnvd": "CNVD-2026-02910",
+    "publish": "2026-01-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Ivanti Ivanti Endpoint Manager <2024 SU4 SR1\"]",
+    "cve": "CVE-2025-10573",
+    "description": "Ivanti Endpoint Manager是Ivanti公司开发的一款终端管理软件，旨在帮助IT管理员集中管理、监控和保护企业内的各种终端设备。Ivanti Endpoint Manager存在跨站脚本漏洞，该漏洞源于Web页面生成不正确过滤输入，攻击者可利用该漏洞以管理员上下文执行任意脚本代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-10573",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://forums.ivanti.com/s/article/Security-Advisory-EPM-December-2025-for-EPM-2024",
+    "patch": "Ivanti Endpoint Manager跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-15",
+    "open_time": "2026-01-12",
+    "update_time": "2026-01-12",
+    "data_summary": "9acb81c49641ffb7a32b23d630f7574c"
+}

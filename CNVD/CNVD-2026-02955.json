@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-12 08:25:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-02955",
+    "spider_time": 1768206305115,
+    "name": "Intel SigTest访问控制不当漏洞",
+    "cnvd": "CNVD-2026-02955",
+    "publish": "2026-01-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Intel Intel SigTest <6.1.10\"]",
+    "cve": "CVE-2025-22391",
+    "description": "Intel SigTest是一种由‌Intel‌开发的‌信号完整性测试‌软件工具，主要用于‌高速串行通信链路‌的‌物理层一致性测试速器设计的驱动程序、库和开发工具，旨在帮助应用程序开发者高效利用硬件加速能力，提升加密、数据压缩等计算密集型任务的性能。Intel SigTest存在访问控制不当漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-22391",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://intel.com/content/www/us/en/security-center/advisory/intel-sa-01327.html",
+    "patch": "Intel SigTest访问控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2026-01-12",
+    "update_time": "2026-01-12",
+    "data_summary": "6bd8de7b7d6fc0b2b1226f6f2c45b283"
+}

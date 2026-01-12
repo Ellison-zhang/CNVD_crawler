@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-12 08:17:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-02951",
+    "spider_time": 1768205865657,
+    "name": "Intel Graphics Software代码问题漏洞",
+    "cnvd": "CNVD-2026-02951",
+    "publish": "2026-01-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Intel Intel Graphics Software <25.22.1502.2\"]",
+    "cve": "CVE-2025-31647",
+    "description": "Intel Graphics Software是英特尔推出的一款‌一体化显卡管理软件。Intel Graphics Software存在代码问题漏洞，该漏洞源于用户应用程序中存在不受控的搜索路径，攻击者可利用该漏洞导致权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-31647",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://intel.com/content/www/us/en/security-center/advisory/intel-sa-01356.html",
+    "patch": "Intel Graphics Software代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2026-01-12",
+    "update_time": "2026-01-12",
+    "data_summary": "ef89d76ff5c3bfa0a8aba319490d8f76"
+}

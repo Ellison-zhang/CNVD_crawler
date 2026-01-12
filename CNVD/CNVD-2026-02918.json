@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-12 08:32:50",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-02918",
+    "spider_time": 1768206770314,
+    "name": "Ivanti EPMM身份验证绕过漏洞",
+    "cnvd": "CNVD-2026-02918",
+    "publish": "2026-01-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Ivanti Ivanti EPMM <=11.10\"]",
+    "cve": "CVE-2023-35082",
+    "description": "Ivanti EPMM是一款企业级的移动设备管理（MDM）解决方案，旨在帮助组织集中管理和保护员工使用的移动设备。Ivanti EPMM存在身份验证绕过漏洞，该漏洞源于程序存在不当的身份验证，攻击者可利用该漏洞在未经正确身份验证的情况下访问应用程序的受限功能或资源。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-35082",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://forums.ivanti.com/s/article/CVE-2023-35082-Remote-Unauthenticated-API-Access-Vulnerability-in-MobileIron-Core-11-2-and-older?language=en_US",
+    "patch": "Ivanti EPMM身份验证绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-08-17",
+    "open_time": "2026-01-12",
+    "update_time": "2026-01-12",
+    "data_summary": "0bf87b5ec9e5ab792e2b64a927f5d3bf"
+}

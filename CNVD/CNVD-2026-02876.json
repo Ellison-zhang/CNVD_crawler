@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-12 08:12:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-02876",
+    "spider_time": 1768205560269,
+    "name": "Online Music Site SQL注入漏洞",
+    "cnvd": "CNVD-2026-02876",
+    "publish": "2026-01-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Online Music Site Online Music Site 1.0\"]",
+    "cve": "CVE-2026-0568",
+    "description": "Online Music Site是一个在线音乐网站。Online Music Site存在SQL注入漏洞，该漏洞源于文件/Frontend/ViewSongs.php的参数ID提交的SQL语句过滤不当，攻击者可利用该漏洞获取未授权数据库访问，获取敏感数据等。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Limingqian123/CVE/issues/15",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2026-01-06",
+    "open_time": "2026-01-12",
+    "update_time": "2026-01-12",
+    "data_summary": "96a5cc32a3a7db1f879554a5b9635a89"
+}
