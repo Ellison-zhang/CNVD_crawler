@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 17:05:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03501",
+    "spider_time": 1768467952066,
+    "name": "Google Android缺少权限检查漏洞（CNVD-2026-0350183）",
+    "cnvd": "CNVD-2026-03501",
+    "publish": "2026-01-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Google Android 16\"]",
+    "cve": "CVE-2025-48608",
+    "description": "Google Android是由美国Google公司主导开发的一种基于Linux内核（不包含GNU组件）的自由及开放源代码的移动操作系统。Google Android存在缺少权限检查漏洞，该漏洞源于在SettingsProvider.java的isValidMediaUri中缺少权限检查，攻击者可利用该漏洞导致跨用户媒体读取。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-48608",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/android-16-qpr2",
+    "patch": "Google Android缺少权限检查漏洞（CNVD-2026-0350183）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "48faa204f64cc8bfca6a1542c91e3aa4"
+}

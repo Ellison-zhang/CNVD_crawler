@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 17:00:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03478",
+    "spider_time": 1768467616750,
+    "name": "Land Record System admin-profile.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2026-03478",
+    "publish": "2026-01-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"Land Record System Land Record System 1.0\"]",
+    "cve": "CVE-2024-13083",
+    "description": "Land Record System是一个土地管理系统。Land Record System存在跨站脚本漏洞，该漏洞源于对/admin/admin-profile.php文件中Admin Name参数的处理不当。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.289836\nhttps://vuldb.com/?ctiid.289836\nhttps://vuldb.com/?submit.472194\nhttps://phpgurukul.com/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-06",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "8d1f23048a8457a7365e4979c212f14a"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 16:56:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03185",
+    "spider_time": 1768467395005,
+    "name": "Land Record System todate参数SQL注入漏洞",
+    "cnvd": "CNVD-2026-03185",
+    "publish": "2026-01-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Land Record System Land Record System 1.0\"]",
+    "cve": "CVE-2025-25356",
+    "description": "Land Record System是一个土地管理系统。Land Record System存在SQL注入漏洞，该漏洞源于/admin/bwdates-reports-details.php文件的todate参数缺少对外部输入SQL语句的验证。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Santoshcyber1/CVE-wirteup/blob/main/Phpgurukul/Land%20record/SQL%20Injection%20tadate.pdf",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2026-01-14",
+    "update_time": "2026-01-14",
+    "data_summary": "20996cff059938ccaeaed4d8d6715a0c"
+}

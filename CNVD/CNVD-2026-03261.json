@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 16:57:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03261",
+    "spider_time": 1768467454283,
+    "name": "Echo Specto CM跨站脚本漏洞",
+    "cnvd": "CNVD-2026-03261",
+    "publish": "2026-01-13",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Echo Specto CM <17032025\"]",
+    "cve": "CVE-2025-2154",
+    "description": "Echo Specto CM是土耳其Echo公司的一个呼叫中心管理系统。Echo Specto CM 17032025之前版本存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞可以通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-2154",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.echoccs.com/",
+    "patch": "Echo Specto CM跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-09",
+    "open_time": "2026-01-14",
+    "update_time": "2026-01-14",
+    "data_summary": "5a00b0953f9a68bb640303ea309f009d"
+}

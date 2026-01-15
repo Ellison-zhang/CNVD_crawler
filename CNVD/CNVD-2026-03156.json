@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 16:53:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03156",
+    "spider_time": 1768467236891,
+    "name": "Men Salon Management System add-services.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2026-03156",
+    "publish": "2026-01-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Men Salon Management System Men Salon Management System 1.0\"]",
+    "cve": "CVE-2025-3353",
+    "description": "Men Salon Management System是一个男士沙龙管理系统。Men Salon Management System存在SQL注入漏洞，该漏洞源于文件/admin/add-services.php对参数cost的错误操作会导致SQL注入。目前没有详细的漏洞细节提供",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/LaneyYu/cve/issues/3_x000D_\nhttps://phpgurukul.com/_x000D_\nhttps://vuldb.com/?ctiid.303567_x000D_\nhttps://vuldb.com/?id.303567_x000D_\nhttps://vuldb.com/?submit.552239",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-16",
+    "open_time": "2026-01-14",
+    "update_time": "2026-01-14",
+    "data_summary": "3ec869bd81c61fee891cbc246d407bd5"
+}

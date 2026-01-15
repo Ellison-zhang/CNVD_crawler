@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 17:03:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03491",
+    "spider_time": 1768467787424,
+    "name": "Google Android权限绕过漏洞",
+    "cnvd": "CNVD-2026-03491",
+    "publish": "2026-01-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Google Android 16\"]",
+    "cve": "CVE-2025-32319",
+    "description": "Google Android是由美国Google公司主导开发的一种基于Linux内核（不包含GNU组件）的自由及开放源代码的移动操作系统。Google Android存在权限绕过漏洞，攻击者可利用该漏洞导致本地权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/70ab82c4546aa893682a4507664dc2c471d6cd95",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/2025-12-01",
+    "patch": "Google Android权限绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "d9764b87fa0e8be34ce97911e654f51a"
+}

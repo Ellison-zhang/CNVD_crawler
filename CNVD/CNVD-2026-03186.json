@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 16:57:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03186",
+    "spider_time": 1768467421352,
+    "name": "Land Record System /contactus.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2026-03186",
+    "publish": "2026-01-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Land Record System Land Record System 1.0\"]",
+    "cve": "CVE-2025-25357",
+    "description": "Land Record System是一个土地管理系统。Land Record System存在SQL注入漏洞，该漏洞源于/admin/contactus.php文件的email参数缺少对外部输入SQL语句的验证。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Santoshcyber1/CVE-wirteup/blob/main/Phpgurukul/Land%20record/SQL%20Injection%20Emails.pdf",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-18",
+    "open_time": "2026-01-14",
+    "update_time": "2026-01-14",
+    "data_summary": "a324bbf6ed191818d91919db5c36f3bc"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 17:04:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03495",
+    "spider_time": 1768467871035,
+    "name": "Google Android逻辑错误漏洞（CNVD-2026-0349589）",
+    "cnvd": "CNVD-2026-03495",
+    "publish": "2026-01-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android 13\", \"Google Android 14\", \"Google Android 15\", \"Google Android 16\"]",
+    "cve": "CVE-2025-48620",
+    "description": "Google Android是由美国Google公司主导开发的一种基于Linux内核（不包含GNU组件）的自由及开放源代码的移动操作系统。Google Android存在逻辑错误漏洞，该漏洞源于VoiceInteractionManagerService.java的onSomePackagesChanged中代码逻辑错误，第三方应用程序的组件名称可能在卸载后仍然存在。攻击者可利用该漏洞导致本地权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/84dd2b90f4a2ea1ebc5b78f08f14c5a3b92c9c2d",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/2025-12-01",
+    "patch": "Google Android逻辑错误漏洞（CNVD-2026-0349589）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "a8d87f12c885894981989ffa5725fd8e"
+}

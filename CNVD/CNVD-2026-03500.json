@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 17:05:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03500",
+    "spider_time": 1768467938358,
+    "name": "Google Android拒绝服务漏洞（CNVD-2026-0350084）",
+    "cnvd": "CNVD-2026-03500",
+    "publish": "2026-01-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Google Android 16\"]",
+    "cve": "CVE-2025-48584",
+    "description": "Google Android是由美国Google公司主导开发的一种基于Linux内核（不包含GNU组件）的自由及开放源代码的移动操作系统。Google Android存在拒绝服务漏洞，该漏洞源于在NotificationManagerService.java的多个函数中，存在一种可能绕过每个软件包通道限制的方法，从而导致资源耗尽。攻击者可利用该漏洞导致本地拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/08a0766708db2071d9b8b65abf40d7e8057daaa1",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/2025-12-01",
+    "patch": "Google Android拒绝服务漏洞（CNVD-2026-0350084）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "af66e423be67e5c270ac3bd4b9305784"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 16:51:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03011",
+    "spider_time": 1768467073610,
+    "name": "Mozilla Firefox代码执行漏洞（CNVD-2026-03011）",
+    "cnvd": "CNVD-2026-03011",
+    "publish": "2026-01-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Mozilla Firefox <146.0.1\"]",
+    "cve": "CVE-2025-14861",
+    "description": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Firefox存在代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码或导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.mozilla.org/buglist.cgi?bug_id=1996570%2C1999700",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://bugzilla.mozilla.org/buglist.cgi?bug_id=1996570%2C1999700",
+    "patch": "Mozilla Firefox代码执行漏洞（CNVD-2026-03011）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-25",
+    "open_time": "2026-01-13",
+    "update_time": "2026-01-13",
+    "data_summary": "11f471f3405da3a2bb7f81cc4026ec7d"
+}

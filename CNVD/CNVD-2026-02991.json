@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 16:50:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-02991",
+    "spider_time": 1768467053172,
+    "name": "Mozilla Firefox内存错误引用漏洞（CNVD-2026-02991）",
+    "cnvd": "CNVD-2026-02991",
+    "publish": "2026-01-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Mozilla Firefox <146.0.1\"]",
+    "cve": "CVE-2025-14860",
+    "description": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Firefox存在内存错误引用漏洞，攻击者可利用该漏洞在系统上执行任意代码或导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.mozilla.org/show_bug.cgi?id=2000597",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://bugzilla.mozilla.org/show_bug.cgi?id=2000597",
+    "patch": "Mozilla Firefox内存错误引用漏洞（CNVD-2026-02991）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-25",
+    "open_time": "2026-01-13",
+    "update_time": "2026-01-13",
+    "data_summary": "1e341a9d5c0e325e64c41096c09e9950"
+}

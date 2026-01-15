@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 16:55:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03162",
+    "spider_time": 1768467314699,
+    "name": "Online Security Guards Hiring System changeimage.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2026-03162",
+    "publish": "2026-01-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Online Security Guards Hiring System Online Security Guards Hiring System 1.0\"]",
+    "cve": "CVE-2025-3137",
+    "description": "Online Security Guards Hiring System是一个在线保安人员招聘系统。Online Security Guards Hiring System存在SQL注入漏洞，该漏洞源于/admin/changeimage.php文件的参数editid缺少的外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/ARPANET-cybersecurity/vuldb/issues/2",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-04-09",
+    "open_time": "2026-01-14",
+    "update_time": "2026-01-14",
+    "data_summary": "1706c46bdf58039c496f82eb525f9120"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 17:02:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03488",
+    "spider_time": 1768467756150,
+    "name": "Google Android逻辑错误漏洞（CNVD-2026-0348896）",
+    "cnvd": "CNVD-2026-03488",
+    "publish": "2026-01-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android 13\", \"Google Android 14\", \"Google Android 15\", \"Google Android 16\"]",
+    "cve": "CVE-2025-48565",
+    "description": "Google Android是由美国Google公司主导开发的一种基于Linux内核（不包含GNU组件）的自由及开放源代码的移动操作系统。Google Android存在逻辑错误漏洞，该漏洞源于存在绕过跨配置文件意图过滤器的方法，攻击者可利用该漏洞导致本地权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/0f3e248787d88154c8592f6e055b6b3586f4877d",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/2025-12-01",
+    "patch": "Google Android逻辑错误漏洞（CNVD-2026-0348896）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "f6189b0aa610f5bbae0c73c632599809"
+}

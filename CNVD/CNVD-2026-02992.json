@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 16:51:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-02992",
+    "spider_time": 1768467064383,
+    "name": "Mozilla Firefox for iOS欺骗漏洞（CNVD-2026-02992）",
+    "cnvd": "CNVD-2026-02992",
+    "publish": "2026-01-13",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:C/A:N",
+    "product": "[\"Mozilla Firefox for iOS <144.0\"]",
+    "cve": "CVE-2025-14744",
+    "description": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Firefox for iOS存在欺骗漏洞，该漏洞是由于在使用Unicode从右向左字符时出现错误所致。攻击者可利用该漏洞在下载用户界面中伪造文件名。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://bugzilla.mozilla.org/show_bug.cgi?id=1984683",
+    "solution": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://bugzilla.mozilla.org/show_bug.cgi?id=1984683",
+    "patch": "Mozilla Firefox for iOS欺骗漏洞（CNVD-2026-02992）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-25",
+    "open_time": "2026-01-13",
+    "update_time": "2026-01-13",
+    "data_summary": "15e7ca481eaecfa7d9481d25527745be"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 16:58:19",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03469",
+    "spider_time": 1768467499636,
+    "name": "Land Record System add-property.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2026-03469",
+    "publish": "2026-01-14",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"Land Record System Land Record System 1.0\"]",
+    "cve": "CVE-2024-13077",
+    "description": "Land Record System是一个土地管理系统。Land Record System存在跨站脚本漏洞，该漏洞源于文件/admin/add-property.php的参数Land Subtype会导致跨站脚本。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?submit.472186",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-07",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "07c9efce2033c7296f95dde084d19a43"
+}

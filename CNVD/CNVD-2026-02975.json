@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 16:50:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-02975",
+    "spider_time": 1768467034126,
+    "name": "Google Android存在未明漏洞",
+    "cnvd": "CNVD-2026-02975",
+    "publish": "2025-12-08",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Google Android 15\", \"Google Android 16\"]",
+    "cve": "CVE-2025-48607",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在安全漏洞，攻击者可利用该漏洞导致本地拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/03d7040699148c961df09dec301d8a1e982ee231",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-12-01",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2026-01-13",
+    "update_time": "2026-01-13",
+    "data_summary": "b98b354edcb536bdda75bca1e8e7a91a"
+}

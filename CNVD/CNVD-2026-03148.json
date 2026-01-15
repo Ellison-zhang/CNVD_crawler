@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 16:51:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03148",
+    "spider_time": 1768467119992,
+    "name": "Student Result Management System /editmyexp.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2026-03148",
+    "publish": "2026-01-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Student Result Management System Student Result Management System 1.3\"]",
+    "cve": "CVE-2025-5599",
+    "description": "Student Result Management System是一个学生成绩管理系统。Student Result Management System存在SQL注入漏洞，该漏洞与/editmyexp.php文件emp1ctc参数有关，由于应用程序未对输入参数进行严格的验证和清理。攻击者可利用该漏洞获取敏感信息或篡改数据库内容。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-5599",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://phpgurukul.com/dairy-farm-shop-management-system-using-php-and-mysql/",
+    "patch": "Student Result Management System /editmyexp.php文件SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-06",
+    "open_time": "2026-01-14",
+    "update_time": "2026-01-14",
+    "data_summary": "47778180f02a176be3084ebfe11dae55"
+}

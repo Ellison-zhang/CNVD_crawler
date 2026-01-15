@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 16:51:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03058",
+    "spider_time": 1768467083759,
+    "name": "Google Android混淆代理漏洞",
+    "cnvd": "CNVD-2026-03058",
+    "publish": "2026-01-14",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android 15\", \"Google Android 16\"]",
+    "cve": "CVE-2025-48586",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在混淆代理漏洞，攻击者可利用该漏洞导致本地权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/packages/services/Telephony/+/851fc787e96189a37f88cb9eaa688087883357c3",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/2025-12-01",
+    "patch": "Google Android混淆代理漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2026-01-14",
+    "update_time": "2026-01-14",
+    "data_summary": "f6c54da708a4d342fc3688c70ede4c94"
+}

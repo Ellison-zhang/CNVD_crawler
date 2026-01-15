@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 17:02:45",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03489",
+    "spider_time": 1768467765832,
+    "name": "Google Android输入验证不当漏洞（CNVD-2026-0348995）",
+    "cnvd": "CNVD-2026-03489",
+    "publish": "2026-01-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android 14\", \"Google Android 15\", \"Google Android 16\"]",
+    "cve": "CVE-2025-48594",
+    "description": "Google Android是由美国Google公司主导开发的一种基于Linux内核（不包含GNU组件）的自由及开放源代码的移动操作系统。Google Android存在输入验证不当漏洞，攻击者可利用该漏洞导致本地权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/ea2bcc66534263fac4c337f1a5149704c2262169",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/2025-12-01",
+    "patch": "Google Android输入验证不当漏洞（CNVD-2026-0348995）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "b410d889c303fce8ade90546a072f691"
+}

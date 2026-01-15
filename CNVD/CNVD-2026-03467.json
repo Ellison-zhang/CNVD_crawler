@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 16:57:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03467",
+    "spider_time": 1768467478623,
+    "name": "Land Record System contactus.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2026-03467",
+    "publish": "2026-01-14",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Land Record System Land Record System 1.0\"]",
+    "cve": "CVE-2024-57686",
+    "description": "Land Record System是一个土地管理系统。Land Record System存在跨站脚本漏洞，该漏洞源于/landrecordsys/admin/contactus.php文件的pagetitle参数存在跨站脚本漏洞，攻击者可利用该漏洞注入任意代码，导致代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Santoshcyber1/CVE-wirteup/blob/main/Phpgurukul/Land%20record/Reflected%20Cross%20Site%20Scripting.pdf",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-01-21",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "9fef114364648c835260732183797275"
+}

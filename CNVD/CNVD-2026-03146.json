@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 16:51:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03146",
+    "spider_time": 1768467103386,
+    "name": "Student Management System using PHP and MySQL SQL注入漏洞",
+    "cnvd": "CNVD-2026-03146",
+    "publish": "2026-01-14",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Student Management System using PHP and MySQL Student Management System using PHP and MySQL 1\"]",
+    "cve": "CVE-2024-51102",
+    "description": "Student Management System using PHP and MySQL是一个学生管理系统。Student Management System using PHP and MySQL存在SQL注入漏洞，该漏洞源于/studentrecordms/login.php中username和password参数缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/0xBhushan/Writeups/blob/main/CVE/phpGurukul/Student%20Management%20System/SQL%20Injection%20-%20admin%20login.pdf",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-06",
+    "open_time": "2026-01-14",
+    "update_time": "2026-01-14",
+    "data_summary": "9a37bc2564c2cbb15634d213dd12bdd5"
+}

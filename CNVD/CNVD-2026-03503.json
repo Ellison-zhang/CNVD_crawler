@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 17:06:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03503",
+    "spider_time": 1768467993628,
+    "name": "Google Android逻辑错误漏洞（CNVD-2026-0350381）",
+    "cnvd": "CNVD-2026-03503",
+    "publish": "2026-01-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android 13\", \"Google Android 14\", \"Google Android 15\"]",
+    "cve": "CVE-2025-32329",
+    "description": "Google Android是由美国Google公司主导开发的一种基于Linux内核（不包含GNU组件）的自由及开放源代码的移动操作系统。Google Android存在逻辑错误漏洞，该漏洞源于Session.java存在逻辑错误问题，攻击者可利用该漏洞查看设备上其他用户的图像。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/e030442861f4dd0e03d67b65f0940b488007f0d7",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/2025-12-01",
+    "patch": "Google Android逻辑错误漏洞（CNVD-2026-0350381）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "640561a6d51927c6650efa799b11201b"
+}

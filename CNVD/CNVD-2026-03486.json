@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-15 17:02:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03486",
+    "spider_time": 1768467735664,
+    "name": "Google Android拒绝服务漏洞",
+    "cnvd": "CNVD-2026-03486",
+    "publish": "2026-01-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Google Android 13\", \"Google Android 14\", \"Google Android 15\", \"Google Android 16\"]",
+    "cve": "CVE-2025-48603",
+    "description": "Google Android是由美国Google公司主导开发的一种基于Linux内核（不包含GNU组件）的自由及开放源代码的移动操作系统。Google Android存在拒绝服务漏洞，该漏洞源于资源耗尽问题，攻击者可利用该漏洞导致本地拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/b4c6786312a217ad9dfd97041b2f1e2f77e39b94",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/2025-12-01",
+    "patch": "Google Android拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "3003ddf7633fc596491c161434762ec6"
+}
