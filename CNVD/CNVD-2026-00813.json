@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-08 08:08:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00813",
+    "spider_time": 1767859727707,
+    "name": "UTT 1200GW缓冲区溢出漏洞",
+    "cnvd": "CNVD-2026-00813",
+    "publish": "2026-01-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"UTT 1200GW <=3.0.0 170831\"]",
+    "cve": "CVE-2025-10169",
+    "description": "UTT 1200GW是一款由艾泰科技（UTT）推出的企业级无线路由器，设计用于满足中小型企业或大空间办公环境的网络需求。UTT 1200GW存在缓冲区溢出漏洞，该漏洞源于对/goform/ConfigWirelessBase文件中ssid参数的边界验证不足。攻击者可利用该漏洞执行任意代码或导致服务中断。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.323204\nhttps://vuldb.com/?ctiid.323204\nhttps://vuldb.com/?submit.636696\nhttps://github.com/lin-3-start/lin-cve/blob/main/UTT%201200GW-1/UTT%201200GW-1.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.uttat.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-11",
+    "open_time": "2026-01-08",
+    "update_time": "2026-01-08",
+    "data_summary": "73577f7d99a98a9de629644237c91d43"
+}

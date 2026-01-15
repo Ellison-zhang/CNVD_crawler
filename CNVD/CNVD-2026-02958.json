@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-12 08:29:42",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-02958",
+    "spider_time": 1768206582299,
+    "name": "Intel Ethernet Adapter Complete Driver Pack代码问题漏洞",
+    "cnvd": "CNVD-2026-02958",
+    "publish": "2026-01-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Intel Intel Ethernet Adapter Complete Driver Pack <29.1\"]",
+    "cve": "CVE-2024-24852",
+    "description": "Intel Ethernet Adapter Complete Driver Pack是一个包含‌Intel以太网适配器‌所有当前支持的网络驱动程序和软件的‌集成包‌，适用于大多数Intel以太网适配器和控制器。Intel Ethernet Adapter Complete Driver Pack存在代码问题漏洞，该漏洞源于未受控的搜索路径，攻击者可利用该漏洞通过本地访问提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://intel.com/content/www/us/en/security-center/advisory/intel-sa-01144.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.intel.com/content/www/us/en/download/15084/intel-ethernet-adapter-complete-driver-pack.html",
+    "patch": "Intel Ethernet Adapter Complete Driver Pack代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2026-01-12",
+    "update_time": "2026-01-12",
+    "data_summary": "01738bb21715f1ebfa2dab3561c38313"
+}

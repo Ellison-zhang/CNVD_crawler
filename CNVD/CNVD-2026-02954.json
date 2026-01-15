@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-12 11:04:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-02954",
+    "spider_time": 1768215884879,
+    "name": "Intel Processor Identification Utility未控制的搜索路径漏洞",
+    "cnvd": "CNVD-2026-02954",
+    "publish": "2026-01-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Intel Intel Processor Identification Utility <8.0.43\"]",
+    "cve": "CVE-2025-32001",
+    "description": "Intel Processor Identification Utility是一款由英特尔公司推出的免费软件工具，主要用于识别安装在系统中的Intel处理器的具体规格和特性。Intel Processor Identification Utility存在未控制的搜索路径漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://intel.com/content/www/us/en/security-center/advisory/intel-sa-01334.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.intel.com/content/www/us/en/download/12136/intel-processor-identification-utility-windows-version.html",
+    "patch": "Intel Processor Identification Utility未控制的搜索路径漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2026-01-12",
+    "update_time": "2026-01-12",
+    "data_summary": "72af8b42f7f2b8a57159a5666ade12b6"
+}

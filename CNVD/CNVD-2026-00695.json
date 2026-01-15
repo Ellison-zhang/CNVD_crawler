@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 09:07:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00695",
+    "spider_time": 1767776872611,
+    "name": "Computer Laboratory System admin_pic.php文件文件上传漏洞",
+    "cnvd": "CNVD-2026-00695",
+    "publish": "2026-01-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:P",
+    "product": "[\"Computer Laboratory System Computer Laboratory System 1.0\"]",
+    "cve": "CVE-2025-14641",
+    "description": "Computer Laboratory System是一个计算机实验室系统。Computer Laboratory System存在文件上传漏洞，该漏洞源于/admin/admin_pic.php文件中的未知处理函数对image参数操作处理不当。攻击者可利用该漏洞上传任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-14641",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-18",
+    "open_time": "2026-01-07",
+    "update_time": "2026-01-07",
+    "data_summary": "9c5839fa09679257029de3df68c06a1c"
+}

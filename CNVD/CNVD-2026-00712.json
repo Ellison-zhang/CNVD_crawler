@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 09:09:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00712",
+    "spider_time": 1767776957501,
+    "name": "Online Class and Exam Scheduling System program.php文件跨站脚本漏洞",
+    "cnvd": "CNVD-2026-00712",
+    "publish": "2026-01-07",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Online Class and Exam Scheduling System Online Class and Exam Scheduling System 1.0\"]",
+    "cve": "CVE-2025-29429",
+    "description": "Online Class and Exam Scheduling System是一个在线课程和考试安排系统。Online Class and Exam Scheduling System存在跨站脚本漏洞，该漏洞源于/pages/program.php的参数id、code和name对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/872323857/CVE/blob/main/Online%20Class%20and%20Exam%20Scheduling%20System-program.php.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-03-19",
+    "open_time": "2026-01-07",
+    "update_time": "2026-01-07",
+    "data_summary": "86a9c8743d2522e0992b9664c23f2777"
+}

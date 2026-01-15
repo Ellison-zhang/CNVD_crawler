@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-08 08:08:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00808",
+    "spider_time": 1767859706191,
+    "name": "UTT HiPER 840G缓冲区溢出漏洞（CNVD-2026-00808）",
+    "cnvd": "CNVD-2026-00808",
+    "publish": "2026-01-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"UTT UTT HiPER 840G <=3.1.1-190328\"]",
+    "cve": "CVE-2025-10756",
+    "description": "UTT HiPER 840G是艾泰科技（UTT）推出的一款全千兆上网行为管理路由器，主要面向小型企业、社区网络、酒店等场景，提供高速网络接入与智能化管理功能。UTT HiPER 840G存在缓冲区溢出漏洞，该漏洞源于文件/goform/getOneApConfTempEntry中参数tempName未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/cymiao1978/cve/blob/main/5.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.uttat.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-25",
+    "open_time": "2026-01-08",
+    "update_time": "2026-01-08",
+    "data_summary": "4d7a229c4be0bb2d412c9bf1ebaa1100"
+}

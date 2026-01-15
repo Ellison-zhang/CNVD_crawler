@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-08 08:05:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00791",
+    "spider_time": 1767859535724,
+    "name": "UTT 进取 512W缓冲区溢出漏洞（CNVD-2026-0079178）",
+    "cnvd": "CNVD-2026-00791",
+    "publish": "2026-01-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"UTT Aggressive 512W router 1.7.7-171114\"]",
+    "cve": "CVE-2025-15089",
+    "description": "UTT 进取 512W是一款由艾泰科技（UTT）推出的企业级无线路由器，专为中小型企业（SOHO）和类似规模的网络环境设计，适用于30至50个用户的接入场景。UTT 进取 512W存在缓冲区溢出漏洞，该漏洞源于对文件/goform/APSecurity中函数strcpy的参数wepkey1的错误操作，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/cymiao1978/cve/blob/main/new/14.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.uttat.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-29",
+    "open_time": "2026-01-08",
+    "update_time": "2026-01-08",
+    "data_summary": "28104665332bd60f83c6a64be7b66b6d"
+}

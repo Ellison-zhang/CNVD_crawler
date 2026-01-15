@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-12 08:27:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-02916",
+    "spider_time": 1768206443475,
+    "name": "Ivanti EPMM路径遍历漏洞",
+    "cnvd": "CNVD-2026-02916",
+    "publish": "2026-01-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:C/A:P",
+    "product": "[\"Ivanti EPMM <12.6.0.2\", \"Ivanti EPMM 12.5.0.4\", \"Ivanti EPMM 12.4.0.4\"]",
+    "cve": "CVE-2025-10986",
+    "description": "Ivanti EPMM是一款企业级的移动设备管理（MDM）解决方案，旨在帮助组织集中管理和保护员工使用的移动设备。Ivanti EPMM存在路径遍历漏洞，该漏洞源于管理面板存在路径遍历问题，攻击者可利用该漏洞导致远程认证管理员将数据写入磁盘意外位置。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-10986",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://forums.ivanti.com/s/article/Security-Advisory-Endpoint-Manager-Mobile-EPMM-10-2025-Multiple-CVEs?language=en_US",
+    "patch": "Ivanti EPMM路径遍历漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2026-01-12",
+    "update_time": "2026-01-12",
+    "data_summary": "28814d1b78a9beb37b2d12b5342806f9"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-07 09:08:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00697",
+    "spider_time": 1767776880832,
+    "name": "Online Hotel Reservation System demo.php文件SQL注入漏洞",
+    "cnvd": "CNVD-2026-00697",
+    "publish": "2026-01-07",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Online Hotel Reservation System Online Hotel Reservation System 1.0\"]",
+    "cve": "CVE-2025-6457",
+    "description": "Online Hotel Reservation System是一个简单的在线酒店预订系统。Online Hotel Reservation System存在SQL注入漏洞，该漏洞源于文件/reservation/demo.php中参数Start缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-6457",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-27",
+    "open_time": "2026-01-07",
+    "update_time": "2026-01-07",
+    "data_summary": "48218e25e40dd5b1bc38030c55670a7c"
+}

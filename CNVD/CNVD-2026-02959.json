@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-12 11:04:52",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-02959",
+    "spider_time": 1768215892737,
+    "name": "Intel Ethernet Connection I219 Series访问控制不当漏洞",
+    "cnvd": "CNVD-2026-02959",
+    "publish": "2026-01-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Intel Intel Ethernet Connection I219 Series <12.19.1.39\"]",
+    "cve": "CVE-2024-39797",
+    "description": "Intel Ethernet Connection I219 Series是一组由Intel制造的低功耗千兆以太网物理层（PHY）控制器，主要用于台式机、笔记本电脑和嵌入式系统等设备，提供有线网络连接功能。Intel Ethernet Connection I219 Series存在访问控制不当漏洞，攻击者可利用该漏洞导致本地拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2024-39797",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00590.html",
+    "patch": "Intel Ethernet Connection I219 Series访问控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-02-17",
+    "open_time": "2026-01-12",
+    "update_time": "2026-01-12",
+    "data_summary": "99baa7511b956122cd64b52872c01ad7"
+}

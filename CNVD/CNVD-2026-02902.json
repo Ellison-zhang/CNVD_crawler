@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-12 08:27:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-02902",
+    "spider_time": 1768206448672,
+    "name": "Tenda W18E代码执行漏洞",
+    "cnvd": "CNVD-2026-02902",
+    "publish": "2026-01-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Tenda W18E v16.01.0.11\", \"Tenda W18E 2.0\"]",
+    "cve": "CVE-2025-45343",
+    "description": "Tenda W18E是一款面向家用和中小型办公场景的双频企业级无线路由器，主打稳定连接和多设备管理功能。Tenda W18E存在代码执行漏洞，该漏洞源于goform/setmodules路由中账户模块编辑功能，攻击者可利用该漏洞导致执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-45343",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tendacn.com/product/overview/W18EV2.html",
+    "patch": "Tenda W18E代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-06-11",
+    "open_time": "2026-01-12",
+    "update_time": "2026-01-12",
+    "data_summary": "a5d12158b6f9810eca134e942bde6a9e"
+}

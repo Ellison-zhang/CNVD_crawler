@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-09 08:07:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-02681",
+    "spider_time": 1767946050012,
+    "name": "Orangescrum跨站脚本漏洞（CNVD-2026-02681）",
+    "cnvd": "CNVD-2026-02681",
+    "publish": "2026-01-09",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"OrangeScrum OrangeScrum 2.0.11\"]",
+    "cve": "CVE-2023-0738",
+    "description": "Orangescrum是一个项目和任务管理的软件工具,也为工作组织和团队协作提供了生产力工具。Orangescrum存在跨站脚本漏洞，该漏洞源于应用程序在响应中返回恶意用户的输入且无任何过滤。攻击者可利用该漏洞从应用程序中获取任意用户帐户。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Orangescrum/orangescrum/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.orangescrum.org/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-04-07",
+    "open_time": "2026-01-09",
+    "update_time": "2026-01-09",
+    "data_summary": "71ec0ed46417755fafbbfb203fce0089"
+}

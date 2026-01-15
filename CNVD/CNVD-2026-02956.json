@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-12 08:28:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-02956",
+    "spider_time": 1768206511840,
+    "name": "Intel Ethernet Connection Software搜索路径控制不当漏洞",
+    "cnvd": "CNVD-2026-02956",
+    "publish": "2026-01-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Intel Intel Ethernet Connection software <29.4\"]",
+    "cve": "CVE-2025-20015",
+    "description": "Intel Ethernet Connection Software是英特尔公司为其以太网连接硬件提供的驱动程序和管理工具集合，旨在确保网络适配器的正常运行、优化性能并支持高级功能。Intel Ethernet Connection Software存在搜索路径控制不当漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://intel.com/content/www/us/en/security-center/advisory/intel-sa-01294.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.intel.com/content/www/us/en/download/15755/intel-ethernet-connections-boot-utility-preboot-images-and-efi-drivers.html",
+    "patch": "Intel Ethernet Connection Software搜索路径控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2026-01-12",
+    "update_time": "2026-01-12",
+    "data_summary": "dfa7d22b7b67fdad89e62388617a9d8c"
+}

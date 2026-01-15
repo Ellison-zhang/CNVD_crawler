@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-12 08:28:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-02957",
+    "spider_time": 1768206518007,
+    "name": "Intel Network Adapters Package竞争条件漏洞",
+    "cnvd": "CNVD-2026-02957",
+    "publish": "2026-01-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Intel lntel Network Adapters Package <29.4\"]",
+    "cve": "CVE-2025-20104",
+    "description": "Intel Network Adapters Package是Intel提供的网络适配器相关软件工具包或更新包，主要用于管理驱动程序、固件（NVM）更新及配置网络适配器。Intel Network Adapters Package存在竞争条件漏洞，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-20104",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://intel.com/content/www/us/en/security-center/advisory/intel-sa-01293.html",
+    "patch": "Intel Network Adapters Package竞争条件漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-05-28",
+    "open_time": "2026-01-12",
+    "update_time": "2026-01-12",
+    "data_summary": "274160f3ee54668cbfc1e2886c4b6946"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-08 08:07:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-00803",
+    "spider_time": 1767859679571,
+    "name": "UTT 进取 518G缓冲区溢出漏洞（CNVD-2026-00803）",
+    "cnvd": "CNVD-2026-00803",
+    "publish": "2026-01-08",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"UTT \\u8fdb\\u53d6 518G <=V3v3.2.7-210919-161313\"]",
+    "cve": "CVE-2025-11652",
+    "description": "UTT 进取 518G是一款企业级路由器，专为中小型企业办公环境设计，主打多WAN口接入和稳定性能。UTT 进取 518G存在缓冲区溢出漏洞，该漏洞源于文件/goform/formTaskEdit_ap中参数txtMin2未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/cymiao1978/cve/blob/main/14.md",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.uttat.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2026-01-08",
+    "update_time": "2026-01-08",
+    "data_summary": "031c7bd7c4cdfcc4bed29cd64203bac5"
+}
