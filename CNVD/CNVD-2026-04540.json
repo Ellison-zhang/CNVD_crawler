@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-19 15:43:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-04540",
+    "spider_time": 1768808628159,
+    "name": "Open5GS GTPv2-C F-TEID s11-handler.c sgwc_s11_handle_create_session_request拒绝服务漏洞",
+    "cnvd": "CNVD-2026-04540",
+    "publish": "2026-01-16",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"Open5GS Open5GS <=2.7.6\"]",
+    "cve": "CVE-2025-15417",
+    "description": "Open5GS是开源的5G核心网系统。Open5GS 2.7.6版本及之前版本中的GTPv2-C F-TEID处理器件存在拒绝服务漏洞，攻击者可利用该漏洞造成服务中断。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/open5gs/open5gs/commit/465273d13ba5d47b274c38c9d1b07f04859178a1\nhttps://github.com/open5gs/open5gs/issues/4203\nhttps://github.com/open5gs/open5gs/issues/4203#issue-3719257558\nhttps://github.com/open5gs/open5gs/issues/4203#issuecomment-3681643498\nhttps://vuldb.com/?ctiid.339339\nhttps://vuldb.com/?id.339339\nhttps://vuldb.com/?submit.727616",
+    "solution": "目前厂商尚未发布升级补丁以修复漏洞。补丁获取链接：\nhttps://github.com/open5gs/open5gs/commit/465273d13ba5d47b274c38c9d1b07f04859178a1",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-15",
+    "open_time": "2026-01-16",
+    "update_time": "2026-01-16",
+    "data_summary": "402dd7147ba9fcf458aa444c5ba80a92"
+}

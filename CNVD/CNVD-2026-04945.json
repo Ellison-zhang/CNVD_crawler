@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-19 15:55:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-04945",
+    "spider_time": 1768809313129,
+    "name": "Adobe ColdFusion输入验证不当漏洞（CNVD-2026-0494539）",
+    "cnvd": "CNVD-2026-04945",
+    "publish": "2026-01-19",
+    "severity": "高",
+    "cvss_vector": "AV:A/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Adobe ColdFusion <=2025.4\", \"Adobe ColdFusion <=2023.16\", \"Adobe ColdFusion <=2021.22\"]",
+    "cve": "CVE-2025-61812",
+    "description": "Adobe ColdFusion是由Adobe公司维护的‌动态Web服务器平台‌和‌应用程序开发框架‌，主要用于快速构建和部署数据驱动的动态网站、Web应用程序及企业级服务。Adobe ColdFusion存在输入验证不当漏洞，攻击者可利用该漏洞执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-61812",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://helpx.adobe.com/security/products/coldfusion/apsb25-105.html",
+    "patch": "Adobe ColdFusion输入验证不当漏洞（CNVD-2026-0494539）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-15",
+    "open_time": "2026-01-19",
+    "update_time": "2026-01-19",
+    "data_summary": "1ec437925f02b69fbd69340c0c4dfa8d"
+}

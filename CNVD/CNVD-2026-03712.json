@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-16 08:34:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03712",
+    "spider_time": 1768523655617,
+    "name": "TOTOLINK X5000R代码执行漏洞",
+    "cnvd": "CNVD-2026-03712",
+    "publish": "2026-01-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK X5000R V9.1.0u.6369_B20230113\"]",
+    "cve": "CVE-2025-13184",
+    "description": "TOTOLINK X5000R是中国吉翁电子（TOTOLINK）公司的一个路由器。TOTOLINK X5000R存在代码执行漏洞，攻击者可利用该漏洞导致未经验证的用户以空密码登录并获得root权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-13184",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.kb.cert.org/vuls/id/821724",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-18",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "f3c79208dc0b54cd4c38350660e9c260"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-19 15:44:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-04888",
+    "spider_time": 1768808687164,
+    "name": "Google Chrome错误类型转换漏洞",
+    "cnvd": "CNVD-2026-04888",
+    "publish": "2026-01-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <143.0.7499.41\"]",
+    "cve": "CVE-2025-13720",
+    "description": "Google Chrome是由谷歌公司开发的一款网页浏览器，旨在为用户提供快速、安全且可定制的网络浏览体验。Google Chrome存在错误类型转换漏洞，该漏该漏洞源于加载器中存在错误类型转换，攻击者可利用该漏洞通过诱使用户访问特制HTML页面，在已攻破的渲染器进程中触发堆损坏，从而执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/12/stable-channel-update-for-desktop.html\nhttps://issues.chromium.org/issues/457818670",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.google.com/chrome/dr/download/",
+    "patch": "Google Chrome错误类型转换漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-09",
+    "open_time": "2026-01-19",
+    "update_time": "2026-01-19",
+    "data_summary": "4d5019c651a40d103c22ce198d13bafd"
+}

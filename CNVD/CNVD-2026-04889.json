@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-19 15:44:55",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-04889",
+    "spider_time": 1768808695287,
+    "name": "Google Chrome竞争条件漏洞",
+    "cnvd": "CNVD-2026-04889",
+    "publish": "2026-01-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <143.0.7499.41\"]",
+    "cve": "CVE-2025-13721",
+    "description": "Google Chrome是由谷歌公司开发的一款网页浏览器，旨在为用户提供快速、安全且可定制的网络浏览体验。Google Chrome存在竞争条件漏洞，该漏洞源于v8中存在竞争条件，攻击者可利用该漏洞进行堆破坏，执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/12/stable-channel-update-for-desktop.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.google.com/chrome/dr/download/",
+    "patch": "Google Chrome竞争条件漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-08",
+    "open_time": "2026-01-19",
+    "update_time": "2026-01-19",
+    "data_summary": "43f9316ca3af25a3f15508fa68399b70"
+}

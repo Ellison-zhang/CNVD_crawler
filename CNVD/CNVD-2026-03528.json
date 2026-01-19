@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-16 08:37:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03528",
+    "spider_time": 1768523853210,
+    "name": "Google Android越界写入漏洞",
+    "cnvd": "CNVD-2026-03528",
+    "publish": "2026-01-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android\"]",
+    "cve": "CVE-2025-48638",
+    "description": "Google Android是由美国Google公司主导开发的一种基于Linux内核（不包含GNU组件）的自由及开放源代码的移动操作系统。Google Android存在越界写入漏洞，该漏洞源于输入验证不当，攻击者可利用该漏洞导致本地权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/kernel/common/+/0429b7af308cf65c84109c08d06b01950dcd57fe",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/2025-12-01",
+    "patch": "Google Android越界写入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "37cffdcf9c64cd434c1bd37a432b118f"
+}

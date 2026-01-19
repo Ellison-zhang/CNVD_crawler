@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-16 08:39:02",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03544",
+    "spider_time": 1768523942886,
+    "name": "Blood Bank Management System rprofile.php组件跨站脚本漏洞",
+    "cnvd": "CNVD-2026-03544",
+    "publish": "2026-01-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Blood Bank Management System Blood Bank Management System V1.0\"]",
+    "cve": "CVE-2025-63533",
+    "description": "Blood Bank Management System是一个血库管理系统。Blood Bank Management System rprofile.php组件存在跨站脚本漏洞，该漏洞源于updateprofile.php和rprofile.php组件对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://drive.google.com/file/d/12yeOXW_sN69QjsQtW0_k9AGqozi1s0di/view?usp=sharing",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://drive.google.com/file/d/12yeOXW_sN69QjsQtW0_k9AGqozi1s0di/view?usp=sharing",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-03",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "6ce36120991f724982408b6c8112cd83"
+}

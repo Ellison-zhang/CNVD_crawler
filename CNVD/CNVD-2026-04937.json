@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-19 15:51:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-04937",
+    "spider_time": 1768809090000,
+    "name": "Adobe ColdFusion访问控制不当漏洞",
+    "cnvd": "CNVD-2026-04937",
+    "publish": "2026-01-19",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:P/A:C",
+    "product": "[\"Adobe ColdFusion <=2025.4\", \"Adobe ColdFusion <=2023.16\", \"Adobe ColdFusion <=2021.22\"]",
+    "cve": "CVE-2025-64897",
+    "description": "Adobe ColdFusion是由Adobe公司维护的‌动态Web服务器平台‌和‌应用程序开发框架‌，主要用于快速构建和部署数据驱动的动态网站、Web应用程序及企业级服务。Adobe ColdFusion存在访问控制不当漏洞，攻击者可利用该漏洞导致绕过安全措施和拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-64897",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://helpx.adobe.com/security/products/coldfusion/apsb25-105.html",
+    "patch": "Adobe ColdFusion访问控制不当漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-15",
+    "open_time": "2026-01-19",
+    "update_time": "2026-01-19",
+    "data_summary": "76a1b4c9f65eff07e28e9f9975bc194e"
+}

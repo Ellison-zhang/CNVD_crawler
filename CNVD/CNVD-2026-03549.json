@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-16 08:39:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03549",
+    "spider_time": 1768523986087,
+    "name": "Dell ControlVault3和Dell ControlVault3 Plus越界读写漏洞（CNVD-2026-03549）",
+    "cnvd": "CNVD-2026-03549",
+    "publish": "2026-01-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL ControlVault3 <5.15.14.19\", \"DELL ControlVault3 Plus <6.2.36.47\"]",
+    "cve": "CVE-2025-36463",
+    "description": "Dell ControlVault3和Dell ControlVault3 Plus都是美国戴尔（Dell）公司的一款基于硬件的安全解决方案。Dell ControlVault3和Dell ControlVault3 Plus存在越界读写漏洞，攻击者可利用该漏洞系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://talosintelligence.com/vulnerability_reports/TALOS-2025-2175",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000326061/dsa-2025-228",
+    "patch": "Dell ControlVault3和Dell ControlVault3 Plus越界读写漏洞（CNVD-2026-03549）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "6b26bf1acf700d9b059f6727aed99c28"
+}

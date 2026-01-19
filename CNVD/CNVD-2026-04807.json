@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-19 15:44:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-04807",
+    "spider_time": 1768808656745,
+    "name": "河南吉海网络科技有限公司Jshop小程序商城存在命令执行漏洞",
+    "cnvd": "CNVD-2026-04807",
+    "publish": "2026-01-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"河南吉海网络科技有限公司 Jshop小程序商城\"]",
+    "cve": null,
+    "description": "Jshop小程序商城是一款开源的支持可视化布局的电商系统。河南吉海网络科技有限公司Jshop小程序商城存在命令执行漏洞，攻击者可利用漏洞远程执行命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.jihainet.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-12-02",
+    "open_time": "2026-01-16",
+    "update_time": "2026-01-16",
+    "data_summary": "b6ad38f2bf6badcc6e596b634214d51f"
+}

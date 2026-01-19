@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-16 08:37:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03535",
+    "spider_time": 1768523860761,
+    "name": "Google Android信息泄露漏洞（CNVD-2026-03535）",
+    "cnvd": "CNVD-2026-03535",
+    "publish": "2026-01-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Google Android 13\", \"Google Android 14\", \"Google Android 15\", \"Google Android 16\"]",
+    "cve": "CVE-2025-48622",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/cts/+/1bcf948f5e555ad7b9b54549698c3e569d7a0af5",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-12-01",
+    "patch": "Google Android信息泄露漏洞（CNVD-2026-03535）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "28ba1416ef39f6a09f825700da35d078"
+}

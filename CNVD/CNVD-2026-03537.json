@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-16 08:38:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03537",
+    "spider_time": 1768523880539,
+    "name": "Blood Bank Management System abs.php组件SQL注入漏洞",
+    "cnvd": "CNVD-2026-03537",
+    "publish": "2026-01-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:N",
+    "product": "[\"Blood Bank Management System Blood Bank Management System V1.0\"]",
+    "cve": "CVE-2025-63535",
+    "description": "Blood Bank Management System是一个血库管理系统。Blood Bank Management System abs.php组件存在SQL注入漏洞，该漏洞源于abs.php组件缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-63535",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://drive.google.com/file/d/12yeOXW_sN69QjsQtW0_k9AGqozi1s0di/view?usp=sharing",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-03",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "e6423f4c060921b84e1f8db6f44ede2f"
+}

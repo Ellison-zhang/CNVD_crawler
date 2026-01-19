@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-16 08:36:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03496",
+    "spider_time": 1768523789358,
+    "name": "Google Android输入验证不当漏洞（CNVD-2026-0349688）",
+    "cnvd": "CNVD-2026-03496",
+    "publish": "2026-01-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:M/C:C/I:C/A:C",
+    "product": "[\"Google Android 13\", \"Google Android 14\", \"Google Android 15\", \"Google Android 16\"]",
+    "cve": "CVE-2025-22432",
+    "description": "Google Android是由美国Google公司主导开发的一种基于Linux内核（不包含GNU组件）的自由及开放源代码的移动操作系统。Google Android存在输入验证不当漏洞，该漏洞源于CallRedirectionProcessor.java的notifyTimeout方法中输入验证不当，可能存在持久连接。攻击者可利用该漏洞导致本地权限提升和后台活动启动。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/packages/services/Telecomm/+/a43a880beaa6a64348a1d0c821e8c7e98d741a79",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/2025-12-01",
+    "patch": "Google Android输入验证不当漏洞（CNVD-2026-0349688）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-10",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "263c39f965011c3773bd0a5660a7d762"
+}

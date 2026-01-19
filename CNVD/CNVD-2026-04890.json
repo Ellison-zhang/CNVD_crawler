@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-19 15:45:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-04890",
+    "spider_time": 1768808706428,
+    "name": "Google Chrome释放后重用漏洞",
+    "cnvd": "CNVD-2026-04890",
+    "publish": "2026-01-19",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google Chrome <143.0.7499.41\"]",
+    "cve": "CVE-2025-13633",
+    "description": "Google Chrome是由谷歌公司开发的一款网页浏览器，旨在为用户提供快速、安全且可定制的网络浏览体验。Google Chrome存在释放后重用漏洞，该漏洞源于数字凭证释放后重用，攻击者可利用该漏洞导致堆损坏攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2025/12/stable-channel-update-for-desktop.html",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.google.com/chrome/dr/download/",
+    "patch": "Google Chrome释放后重用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-08",
+    "open_time": "2026-01-19",
+    "update_time": "2026-01-19",
+    "data_summary": "8a16d9100f8fad38608cc585e0c55781"
+}

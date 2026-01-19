@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-19 15:43:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-04539",
+    "spider_time": 1768808620045,
+    "name": "Tenda AX-1806路由器栈溢出漏洞",
+    "cnvd": "CNVD-2026-04539",
+    "publish": "2026-01-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda AX-1806 v1.0.0.1\"]",
+    "cve": "CVE-2025-71021",
+    "description": "Tenda AX-1806是中国腾达(Tenda)公司的一个WiFi6无线路由器。Tenda AX-1806 v1.0.0.1版本中存在栈溢出漏洞。该漏洞是由于受影响产品的某个处理函数(sub_65A28)在解析serverName参数时，未对输入长度进行有效验证。攻击者可利用该漏洞通过构造超长字符串覆盖栈内存，进而劫持程序执行流。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-71021",
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新:\nhttps://github.com/0-fool/VulnbyCola/blob/main/Tenda/AX-1806/7/1.md",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-16",
+    "open_time": "2026-01-16",
+    "update_time": "2026-01-16",
+    "data_summary": "41b04dabd66a8dffb831fd432de2baa8"
+}

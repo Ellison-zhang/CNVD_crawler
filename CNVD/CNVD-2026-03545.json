@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-16 08:39:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-03545",
+    "spider_time": 1768523952336,
+    "name": "Dell ControlVault3和Dell ControlVault3 Plus CvManager_SBI功能缓冲区溢出漏洞",
+    "cnvd": "CNVD-2026-03545",
+    "publish": "2026-01-15",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"DELL ControlVault3 <5.15.14.19\", \"DELL ControlVault3 Plus <6.2.36.47\"]",
+    "cve": "CVE-2025-32089",
+    "description": "Dell ControlVault3和Dell ControlVault3 Plus都是美国戴尔（Dell）公司的一款基于硬件的安全解决方案。Dell ControlVault3和Dell ControlVault3 Plus CvManager_SBI功能存在缓冲区溢出漏洞，该漏洞是由于CvManager_SBI功能的不当边界检查导致的。攻击者可利用该漏洞导致执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://talosintelligence.com/vulnerability_reports/TALOS-2025-2188",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000326061/dsa-2025-228",
+    "patch": "Dell ControlVault3和Dell ControlVault3 Plus CvManager_SBI功能缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-20",
+    "open_time": "2026-01-15",
+    "update_time": "2026-01-15",
+    "data_summary": "9bb6b16eda57235082ac47f39a16de90"
+}

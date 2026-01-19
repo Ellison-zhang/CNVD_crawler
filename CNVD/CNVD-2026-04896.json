@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-19 15:50:35",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-04896",
+    "spider_time": 1768809035174,
+    "name": "Tenda AC10U formSetDeviceName函数栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2026-04896",
+    "publish": "2026-01-16",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AC10U 15.03.06.49\"]",
+    "cve": "CVE-2024-2703",
+    "description": "Tenda AC10U是一款腾达品牌的双频千兆无线路由器，属于AC1200标准，设计用于家庭网络环境，尤其适合200兆及以上光纤接入。Tenda AC10U存在栈缓冲区溢出漏洞，该漏洞源于/goform/SetOnlineDevName文件的formSetDeviceName函数的mac参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/?id.257454",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tendacn.com/download/detail-3170.html",
+    "patch": "Tenda AC10U formSetDeviceName函数栈缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-03-22",
+    "open_time": "2026-01-19",
+    "update_time": "2026-01-19",
+    "data_summary": "d257db754c85ba6a9ee268eb7f75b1ae"
+}

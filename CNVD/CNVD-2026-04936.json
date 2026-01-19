@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-19 15:54:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-04936",
+    "spider_time": 1768809270096,
+    "name": "Adobe ColdFusion凭据保护不足漏洞",
+    "cnvd": "CNVD-2026-04936",
+    "publish": "2026-01-19",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Adobe ColdFusion <=2025.4\", \"Adobe ColdFusion <=2023.16\", \"Adobe ColdFusion <=2021.22\"]",
+    "cve": "CVE-2025-64898",
+    "description": "Adobe ColdFusion是由Adobe公司维护的‌动态Web服务器平台‌和‌应用程序开发框架‌，主要用于快速构建和部署数据驱动的动态网站、Web应用程序及企业级服务。Adobe ColdFusion存在凭据保护不足漏洞，攻击者可利用该漏洞导致未经授权的写入访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-64898",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://helpx.adobe.com/security/products/coldfusion/apsb25-105.html",
+    "patch": "Adobe ColdFusion凭据保护不足漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-15",
+    "open_time": "2026-01-19",
+    "update_time": "2026-01-19",
+    "data_summary": "4c7211302e0bce0537cccc9c3954166d"
+}

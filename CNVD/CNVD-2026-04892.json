@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-19 15:45:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-04892",
+    "spider_time": 1768808737700,
+    "name": "Tenda AC15 fromDhcpListClient函数堆栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2026-04892",
+    "publish": "2026-01-16",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda AC15 15.03.05.18\"]",
+    "cve": "CVE-2024-30840",
+    "description": "Tenda AC15是腾达科技于2015年10月推出的一款家用双频无线路由器。Tenda AC15存在堆栈缓冲区溢出漏洞，该漏洞源于fromDhcpListClient方法的LISTEN参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/AC15/V15.03.05.18/fromDhcpListClient_list1.md",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tendacn.com/us/download/detail-3851.html",
+    "patch": "Tenda AC15 fromDhcpListClient函数堆栈缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-04-17",
+    "open_time": "2026-01-19",
+    "update_time": "2026-01-19",
+    "data_summary": "88f4ae8af9091f767f360a5fa0b5c64a"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-19 15:44:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-04845",
+    "spider_time": 1768808677057,
+    "name": "贵州宏信创达工程检测咨询有限公司大桥健康监测系统存在信息泄露漏洞",
+    "cnvd": "CNVD-2026-04845",
+    "publish": "2026-01-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"贵州宏信创达工程检测咨询有限公司 大桥健康监测系统\"]",
+    "cve": null,
+    "description": "贵州宏信创达工程检测咨询有限公司是一家专注于工程检测领域的专业公司。贵州宏信创达工程检测咨询有限公司大桥健康监测系统存在信息泄露漏洞，攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://gzhxcd.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-12-02",
+    "open_time": "2026-01-16",
+    "update_time": "2026-01-16",
+    "data_summary": "9525de5ba2b1c6e200d52a519b8ab5ba"
+}

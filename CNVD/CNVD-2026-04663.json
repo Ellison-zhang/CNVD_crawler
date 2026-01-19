@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-01-19 15:44:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-04663",
+    "spider_time": 1768808646639,
+    "name": "PHPEMS跨站请求伪造漏洞",
+    "cnvd": "CNVD-2026-04663",
+    "publish": "2026-01-16",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"PHPEMS PHPEMS <=11.0\"]",
+    "cve": "CVE-2025-15405",
+    "description": "PHPEMS是基于PHP开发的在线考试系统。PHPEMS存在跨站请求伪造漏洞，目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://byebydoggy.github.io/post/2025/1231-phpems-csrf-poc/\nhttps://vuldb.com/?ctiid.339325\nhttps://vuldb.com/?id.339325\nhttps://vuldb.com/?submit.728314",
+    "solution": "目前厂商尚未发布升级补丁以修复漏洞：\nhttps://byebydoggy.github.io/post/2025/1231-phpems-csrf-poc/",
+    "patch": "PHPEMS跨站请求伪造漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-15",
+    "open_time": "2026-01-16",
+    "update_time": "2026-01-16",
+    "data_summary": "988c708021be6630584a4a4100355bc3"
+}
