@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:29:14",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-07570",
+    "spider_time": 1770107354440,
+    "name": "Siemens Spectrum Power 4存在未明漏洞",
+    "cnvd": "CNVD-2026-07570",
+    "publish": "2026-01-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Siemens Spectrum Power <V4.70 SP12 Update 2\"]",
+    "cve": "CVE-2024-32011",
+    "description": "Siemens Spectrum Power 4是一款为电网监控与控制系统提供核心组件的高级电网管理软件平台。Siemens Spectrum Power 4存在安全漏洞，攻击者可利用该漏洞通过用户界面执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-339694.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-339694.html",
+    "patch": "Siemens Spectrum Power 4存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2026-01-27",
+    "update_time": "2026-01-27",
+    "data_summary": "15a8f60a7c165b5b9c666fe27ae34269"
+}

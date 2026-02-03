@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 15:52:01",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-08330",
+    "spider_time": 1770105121299,
+    "name": "Juniper Networks Junos Space跨站脚本漏洞（CNVD-2026-08330）",
+    "cnvd": "CNVD-2026-08330",
+    "publish": "2026-01-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Juniper Networks Junos Space <24.1R4\"]",
+    "cve": "CVE-2025-59978",
+    "description": "Juniper Networks Junos Space是美国瞻博网络（Juniper Networks）公司的一套网络管理解决方案。该方案支持在设备和服务的整个生命周期内对其进行自动配置、监控和故障排除。Juniper Networks Junos Space存在跨站脚本漏洞，该漏洞是由于对用户提供的输入验证不当造成的。攻击者可利用该漏洞使用目标的管理权限执行命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://supportportal.juniper.net/JSA103140",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://supportportal.juniper.net/JSA103140",
+    "patch": "Juniper Networks Junos Space跨站脚本漏洞（CNVD-2026-08330）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-15",
+    "open_time": "2026-01-28",
+    "update_time": "2026-01-28",
+    "data_summary": "022d4eaef6fd5a1b8ff1bca09e74e3fb"
+}

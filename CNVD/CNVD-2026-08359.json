@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:21:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-08359",
+    "spider_time": 1770106883877,
+    "name": "Google Android拒绝服务漏洞（CNVD-2026-08359）",
+    "cnvd": "CNVD-2026-08359",
+    "publish": "2026-01-29",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Google Android 14.0\", \"Google Android 15.0\", \"Google Android 13.0\"]",
+    "cve": "CVE-2025-22423",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在拒绝服务漏洞，该漏洞源于dng_ifd.cpp中ParseTag函数缺少边界检查，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://source.android.com/security/bulletin/2025-04-01",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-04-01",
+    "patch": "Google Android拒绝服务漏洞（CNVD-2026-08359）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-04",
+    "open_time": "2026-01-28",
+    "update_time": "2026-01-28",
+    "data_summary": "689cc90cc8fd0206ce5981798efd3fa3"
+}

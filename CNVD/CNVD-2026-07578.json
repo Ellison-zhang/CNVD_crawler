@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:30:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-07578",
+    "spider_time": 1770107453410,
+    "name": "Google Android越界读取漏洞（CNVD-2026-07578）",
+    "cnvd": "CNVD-2026-07578",
+    "publish": "2026-01-28",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Google Android 14.0\", \"Google Android 15.0\", \"Google Android 13.0\"]",
+    "cve": "CVE-2023-35657",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在越界读取漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/packages/modules/Bluetooth/+/655dbc919736f0a67c5d408e91b6c0a47fb7ccc3",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-05-01",
+    "patch": "Google Android越界读取漏洞（CNVD-2026-07578）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2026-01-27",
+    "update_time": "2026-01-27",
+    "data_summary": "a827905a75f10274b826e0c6ecec2885"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 15:51:27",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-05878",
+    "spider_time": 1770105087232,
+    "name": "麒麟软件有限公司银河麒麟操作系统存在二进制漏洞",
+    "cnvd": "CNVD-2026-05878",
+    "publish": "2026-02-01",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"麒麟软件有限公司 银河麒麟操作系统 v10\"]",
+    "cve": null,
+    "description": "银河麒麟操作系统是一款商业版操作系统，以Linux为内核，覆盖桌面、服务器及工业控制等领域。麒麟软件有限公司银河麒麟操作系统存在二进制漏洞，攻击者可利用漏洞注入命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布补丁修复漏洞，请广大用户及时下载更新：\nhttps://support.kylinos.cn/#/security/cveDetail?allTitle=KVE-2025-1002",
+    "patch": "麒麟软件有限公司银河麒麟操作系统存在二进制漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-12-18",
+    "open_time": "2026-01-22",
+    "update_time": "2026-01-22",
+    "data_summary": "acedb4be0191a42dc2f6af1a1bfcb0f7"
+}

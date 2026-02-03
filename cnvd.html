@@ -1,0 +1,4200 @@
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>国家信息安全漏洞共享平台</title>
+	<script type="text/javascript" src="/js/jquery-1.8.2.min.js"></script>
+	<script type="text/javascript" src="/js/echarts.min.js"></script>
+	<script type="text/javascript" src="/js/AES.js"></script>
+	<script type="text/javascript" src="/js/rsa/jsbn.js"></script>
+	<script type="text/javascript" src="/js/rsa/jsbn2.js"></script>
+	<script type="text/javascript" src="/js/rsa/prng4.js"></script>
+	<script type="text/javascript" src="/js/rsa/rng.js"></script>
+	<script type="text/javascript" src="/js/rsa/rsa.js"></script>
+	<script type="text/javascript" src="/js/rsa/rsa2.js"></script>
+
+	<link type="text/css" media="screen" rel="stylesheet"	href="/layui/css/layui.css" />
+	<link href="/css/common.css" rel="stylesheet" media="screen" type="text/css" />
+	<link href="/favicon.ico" rel="shortcut icon">
+	<link href="/js/jquery-mega-drop-down-menu/css/skins/white.css" rel="stylesheet" type="text/css" />
+	<link href="/js/jquery-mega-drop-down-menu/css/dcmegamenu.css" rel="stylesheet" type="text/css" />
+	
+	<script type='text/javascript' src='/js/jquery-mega-drop-down-menu/js/jquery.hoverIntent.minified.js'></script>
+	<script type='text/javascript' src='/js/jquery-mega-drop-down-menu/js/jquery.dcmegamenu.1.3.3.js'></script>
+	<link href="/css/pixie.css" rel="stylesheet" media="screen" type="text/css" />
+	<link href="/css/uc.css" rel="stylesheet" media="screen" type="text/css" />
+	<link href="/css/t_tab.css" rel="stylesheet" media="screen" type="text/css" />
+	<link href="/css/jquery-ui-custom.css" rel="stylesheet" media="screen" type="text/css" />
+	<link rel="stylesheet" href="/css/uploader.css" />
+	<link rel="stylesheet" href="/css/imgareaselect-default.css" />
+	<link href="/js/showLoading/css/showLoading.css" rel="stylesheet" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/verifyMaster/css/verify.css">
+
+    <script type="text/javascript" src="/js/showLoading/js/jquery.showLoading.js"></script>
+	
+	<script type="text/javascript" src="/js/jquery.fancybox-1.3.4/ett/jquery.fancybox-1.3.4.pack.js"></script>
+	<script type="text/javascript"	src="/layui/layui.js"></script>
+	<script type="text/javascript"	src="/statics/layui/lay/modules/laypage.js"></script>
+	<link rel="stylesheet" type="text/css" href="/js/jquery.fancybox-1.3.4/ett/jquery.fancybox-1.3.4.css" media="screen" />
+	
+
+
+	<script type="text/javascript" src="/js/CryptoJS v3.1.2/rollups/aes.js"></script>
+	<script type="text/javascript" src="/js/CryptoJS v3.1.2/components/mode-ecb.js"></script>
+	<script type="text/javascript" src="/verifyMaster/js/verify.js"></script>
+	<script  type="text/javascript">
+	$.fn.extend({
+		cancelBox: function(){
+			$.fancybox.close();
+			return false;
+		}
+	});
+	</script>
+	<script type="text/javascript" src="/js/jquery-ui.min-nopacker.js"></script>
+	<script type="text/javascript" src="/js/jquery.validate.js"></script>
+	<script type="text/javascript" src="/js/jquery.metadata.js"></script>
+	<script type="text/javascript" src="/js/jquery.bgiframe-2.1.2.js"></script>
+	<script type="text/javascript" src="/js/jquery.ui.widget.js"></script>
+	<script type="text/javascript" src="/js/jquery.ui.rcarousel.js"></script>
+	<script type="text/javascript" src="/js/jquery.imgareaselect.min.js"></script>
+	<script type="text/javascript" src="/js/t_tab.js"></script>
+		
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="layout" content="main"/>
+<link href="/css/main.css" rel="stylesheet"
+	media="screen" type="text/css" />
+
+	<style type="text/css">
+	 .search_header_table_tbody tr td{
+		 padding:3px;
+	 }
+	 .search_header_table tr td{
+		 padding:3px;
+	 }
+	</style>
+
+	<r:layoutResources></r:layoutResources>
+</head>
+<body>
+	<div class="wrap">
+		<div class="mw newheader">
+			<div style="float:right;padding:10px;color:#FFFFFF;font-size:14px;font-family:Arial,sans-serif;">
+				
+					<span id="userName"></span>
+					<a href="/user/reportManage">用户中心</a>
+					<a href="/user/logout">退出</a>
+				
+			</div>
+		</div>
+		
+		<div class="white" style="z-index: 999;">  
+			<ul id="mega-menu-9" class="mega-menu" style="z-index: 999;">
+				<li><a href="/" class="">首页</a></li>
+				<li><a href="/webinfo/list?type=1" class="" =="webInfo">热点关注</a>
+					<ul>
+					    <li><a href="/webinfo/list?type=1">热点推荐</a></li>
+						<li><a href="/webinfo/list?type=2">热点新闻</a></li>
+					</ul>
+				</li>
+				<li><a href="/flaw/list">漏洞列表</a>
+					<ul>
+						<li><a href="javascript:void(0);">应用漏洞</a>
+							<ul>
+								
+									<li><a href="/flaw/typelist?typeId=27">操作系统</a></li>
+								
+									<li><a href="/flaw/typelist?typeId=28">应用程序</a></li>
+								
+									<li><a href="/flaw/typelist?typeId=29">WEB应用</a></li>
+								
+									<li><a href="/flaw/typelist?typeId=30">数据库</a></li>
+								
+									<li><a href="/flaw/typelist?typeId=31">网络设备（交换机、路由器等网络端设备）</a></li>
+								
+									<li><a href="/flaw/typelist?typeId=32">安全产品</a></li>
+								
+									<li><a href="/flaw/typelist?typeId=33">智能设备（物联网终端设备）</a></li>
+								
+									<li><a href="/flaw/typelist?typeId=34">区块链公链</a></li>
+								
+									<li><a href="/flaw/typelist?typeId=35">区块链联盟链</a></li>
+								
+									<li><a href="/flaw/typelist?typeId=36">区块链外围系统</a></li>
+								
+									<li><a href="/flaw/typelist?typeId=37">车联网</a></li>
+								
+									<li><a href="/flaw/typelist?typeId=38">工业控制系统 </a></li>
+								
+							</ul>
+						</li>
+						<li><a href="javascript:void(0);">行业漏洞</a>
+							<ul>
+								
+								
+									
+										<li>
+											
+											<a href="https://ai.cnvd.org.cn/" target="_blank">
+												人工智能
+											</a>
+										</li>
+									
+										<li>
+											
+											<a href="https://telecom.cnvd.org.cn/" target="_blank">
+												电信
+											</a>
+										</li>
+									
+										<li>
+											
+											<a href="https://mi.cnvd.org.cn/" target="_blank">
+												移动互联网
+											</a>
+										</li>
+									
+										<li>
+											
+											<a href="https://ics.cnvd.org.cn/" target="_blank">
+												工控系统
+											</a>
+										</li>
+									
+										<li>
+											
+											<a href="https://bc.cnvd.org.cn/" target="_blank">
+												区块链
+											</a>
+										</li>
+									
+								
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li><a href="/patchInfo/list">补丁信息</a></li>
+				<li><a href="/webinfo/list?type=14">安全公告</a></li>
+				<li><a href="javascript:void(0);">统计查询</a>
+					<ul>
+						<li><a href="/flaw/statistic">统计数据</a></li>
+						<li><a href="/flaw/list?flag=ture">高级搜索</a></li>
+						<li><a href="/shareData/list">共享数据</a></li>
+						</ul>
+				</li>
+				<li><a href="javascript:void(0);">研究报告</a>
+					<ul>
+						<li><a href="/webinfo/list?type=4">周报</a></li>
+						<li><a href="/webinfo/list?type=5">月报</a></li>
+						<li><a href="/webinfo/list?type=6">知识库</a></li>
+					</ul>
+				</li>
+				<li><a href="#">工作体系</a>
+					<ul>
+						<li><a href="/webinfo/list?type=7">CNVD简介</a></li>
+						<li><a href="/webinfo/list?type=15">加入CNVD</a></li>
+						<li><a href="/webinfo/list?type=16">CNVD奖励计划</a></li>
+
+						<li><a href="/webinfo/list?type=10">CNVD技术组</a></li>
+						<li><a href="/webinfo/list?type=11">CNVD用户组</a></li>
+						<li><a href="/webinfo/list?type=13">CNVD合作方</a></li>
+						<!--
+						<li><a href="/user/userList">白帽子</a></li>
+						-->
+					</ul>	
+				</li>
+				<li><a href="/sheepWall/list"> 绵羊墙</a>
+				</li>
+			</ul>
+		</div>
+		<script type="text/javascript">
+			$().ready(function(){
+				$('#mega-menu-9').dcMegaMenu({
+					rowItems: '3',
+					speed: 'fast',
+					effect: 'fade'
+				});
+			});
+		</script>
+		
+	</div>
+	<script type="text/javascript">
+		$('#mega-menu-9').dcMegaMenu({
+			rowItems: '3',
+			speed: 'fast',
+			effect: 'fade'
+		});
+	</script>
+	<div class="top_btn" style="display:none;">
+		<a class="topLink" href="javascript:void(0);" title="回到顶部"></a>
+	</div>
+	
+	<div class="mw path">
+		当前位置：<a href="/">首页</a> &gt; 漏洞列表
+	</div>
+
+	<!-- 主体内容开始 -->
+	<div class="mw Main clearfix">
+		<div class="blkContainer" style="border-color: #BBBBBB;
+		border-image: none;
+		/*border-style: none solid solid;*/
+		border-width: 0 1px 1px;
+		border-top: 3px solid #2B7DE2;">
+
+			<div class="blkContainerPblk" style="border-width: 0 0px 0px;padding:0px 0 0">
+				<form action="/flaw/list?flag=true" method="post" id="searchForm">
+				<div style="padding: 10px;">
+						<div id="searchDiv0">
+							编号：
+							<input type="text" name="number" value="请输入精确编号" onFocus="javascript:if(this.value=='请输入精确编号'){this.value=''}" onBlur="javascript:if(this.value==''){this.value = '请输入精确编号'}" style="width: 110px" id="number" />
+							开始时间：
+							<input type="text" name="startDate" value="" readonly="readonly" style="width: 110px" id="startDate" />
+							结束时间：
+							<input type="text" name="endDate" value="" readonly="readonly" style="width: 110px" id="endDate" />
+							<input type="hidden" id="field" name="field" value=""/>
+							<input type="hidden" id="order" name="order" value=""/>
+							<input type="button" onclick="showQry();" value="高级查询" />
+							<input type="button" onclick="formSubmit();" value="查询" />
+						</div>
+
+
+
+					<div id="searchDiv" style="border: 1px solid #E5E5E5; display: none">
+						<fieldset style="    border: 0;
+						box-sizing: border-box;
+						padding: 20px;margin-top: 10px">
+							<legend><b>漏洞查询条件</b></legend>
+							<table style="font-family:cursive">
+								<tbody style="font-size: 12px;line-height: 20px;font-family: 宋体;" class="search_header_table_tbody">
+								<tr>
+									<td class="td1" style="width: 100px">关键字：</td>
+									<td class="td2"><input id="keyword" type="text" name="keyword"  style="font-family:auto"
+														   value="" /> <label for="titleonly"> <input
+											id="titleonly" type="radio" value="1"
+										checked
+											name="condition" /> 仅标题
+									</label> &nbsp;&nbsp; <label for="titleAndDesc"> <input
+											id="titleAndDesc" type="radio" value="0" name="condition"   />
+										标题和描述
+									</label></td>
+									<td class="td3"><select name="keywordFlag" id="keywordFlag">
+										<option
+											selected
+												value="0">与</option>
+										<option 
+												value="1">或</option>
+									</select></td>
+								</tr>
+								<tr>
+									<td class="td1">CNVD编号：</td>
+									<td class="td2"><input id="cnvdId" type="text" style="font-family:auto"
+														   title="请输入CNVD编号" name="cnvdId" value="" />
+										(如:CNVD-2010-00001)</td>
+									<td class="td3"><select name="cnvdIdFlag" id="cnvdIdFlag">
+										<option
+											selected
+												value="0">与</option>
+										<option 
+												value="1">或</option>
+									</select></td>
+								</tr>
+								<tr>
+									<td class="td1">发布日期范围:</td>
+									<td class="td2"><input id="baseinfoBeanbeginTime"
+														   id="baseinfoBeanbeginTime" type="text"
+														   name="baseinfoBeanbeginTime"
+														   value="" readonly="readonly" /> <img
+											width="15px" height="15px"
+											src="/images/icons_list.png" alt="" /> <input
+											id="baseinfoBeanendTime" id="baseinfoBeanendTime" type="text"
+											name="baseinfoBeanendTime" value=""
+											readonly="readonly" /></td>
+									<td class="td3"><select name="baseinfoBeanFlag"
+															id="baseinfoBeanFlag">
+										<option
+											selected
+												value="0">与</option>
+										<option
+											
+												value="1">或</option>
+									</select></td>
+								</tr>
+								<tr>
+									<td class="td1">参考信息:</td>
+									<td class="td2"><input id="refenceInfo" type="text" style="font-family:auto"
+														   name="refenceInfo" value="" /> <select
+											name="referenceScope" id="referenceScope">
+										<option value="-1">无</option>
+										
+											<option
+												
+													value="1">
+												CVE
+											</option>
+										
+											<option
+												
+													value="2">
+												BID
+											</option>
+										
+											<option
+												
+													value="3">
+												其他
+											</option>
+										
+									</select></td>
+									<td class="td3"></td>
+								</tr>
+
+								</tbody>
+							</table>
+						</fieldset>
+						<fieldset style="    border: 0;
+						box-sizing: border-box;
+						padding: 0px 20px 20px;">
+							<legend style="display: flex;
+							width: 20%; font-family: 宋体;
+							justify-content: space-between; font-size: 12px">可选属性条件  <span class="moreDom" style="color: #2B7DE2;cursor: pointer;">展开</span>
+
+
+							</legend>
+							<input type="button" onclick="formSubmit();" style="float: right;margin-right: 30px;margin-top:-20px;display: flex;
+							font-size: 12px;border: 1px solid #86be13; font-weight: bold;color: #86be13;
+							border-radius: 2px;" value="查询" />
+							<input type="button" onclick="showQry();" value="返回" style="float: right;margin-right: 0px;margin-top:-20px;display: flex;
+							font-size: 12px;border: 1px solid #86be13;font-weight: bold;color: #86be13;
+							border-radius: 2px;" />
+							<table class="optional_condition_table search_header_table" style="display: none;border: none;font-family: cursive">
+								<tbody style="font-size: 11px; font-family: auto;">
+								<tr style="border: none">
+									<td class="td1">厂商首字母:</td>
+									<td class="td2" style="display: flex"><a style="color: blue;" class="startWord">A</a>&nbsp;
+										<a style="color: blue;" class="startWord">B</a>&nbsp; <a
+											style="color: blue;" class="startWord">C</a>&nbsp; <a
+											style="color: blue;" class="startWord">D</a>&nbsp; <a
+											style="color: blue;" class="startWord">E</a>&nbsp; <a
+											style="color: blue;" class="startWord">F</a>&nbsp; <a
+											style="color: blue;" class="startWord">G</a>&nbsp; <a
+											style="color: blue;" class="startWord">H</a>&nbsp; <a
+											style="color: blue;" class="startWord">I</a>&nbsp; <a
+											style="color: blue;" class="startWord">J</a>&nbsp; <a
+											style="color: blue;" class="startWord">K</a>&nbsp; <a
+											style="color: blue;" class="startWord">L</a>&nbsp; <a
+											style="color: blue;" class="startWord">M</a>&nbsp; <a
+											style="color: blue;" class="startWord">N</a>&nbsp; <a
+											style="color: blue;" class="startWord">O</a>&nbsp; <a
+											style="color: blue;" class="startWord">P</a>&nbsp; <a
+											style="color: blue;" class="startWord">Q</a>&nbsp; <a
+											style="color: blue;" class="startWord">R</a>&nbsp; <a
+											style="color: blue;" class="startWord">S</a>&nbsp; <a
+											style="color: blue;" class="startWord">T</a>&nbsp; <a
+											style="color: blue;" class="startWord">U</a>&nbsp; <a
+											style="color: blue;" class="startWord">V</a>&nbsp; <a
+											style="color: blue;" class="startWord">W</a>&nbsp; <a
+											style="color: blue;" class="startWord">X</a>&nbsp; <a
+											style="color: blue;" class="startWord">Y</a>&nbsp; <a
+											style="color: blue;" class="startWord">Z</a>&nbsp;</td>
+									<td class="td3"></td>
+								</tr>
+								<tr>
+									<td class="td1">厂商:</td>
+									<td class="td2"><select name="manufacturerId" style="width:460px;"
+															id="manufacturerSelect" onchange="getProductCategory(this.value)">
+										<option selected='selected' value='-1'>请选择厂商</option>
+									</select></td>
+									<td class="td3"></td>
+								</tr>
+								<tr>
+									<td class="td1">产品首字母:</td>
+									<td class="td2"  style="display: flex"><a style="color: blue;" class="pcstartWord">A</a>&nbsp;
+										<a style="color: blue;" class="pcstartWord">B</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">C</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">D</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">E</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">F</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">G</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">H</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">I</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">J</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">K</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">L</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">M</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">N</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">O</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">P</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">Q</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">R</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">S</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">T</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">U</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">V</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">W</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">X</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">Y</a>&nbsp; <a
+											style="color: blue;" class="pcstartWord">Z</a>&nbsp;</td>
+									<td class="td3"></td>
+								</tr>
+								<tr>
+									<td class="td1">产品:</td>
+									<td class="td2"><select name="categoryId" id="categorySelect"
+															onchange="getProductEdition(this.value)"><option
+												selected="selected" value="-1">请选择产品</option></select></td>
+									<td class="td3"></td>
+								</tr>
+								<tr>
+									<td class="td1">版本:</td>
+									<td class="td2"><select name="editionId" id="editionSelect"><option
+											selected='selected' value='-1'>请选择版本</option></select></td>
+									<td class="td3"></td>
+								</tr>
+								</tbody>
+							<table class="optional_condition optional_condition_table" style="display: none;font-family:auto;font-size:12px">
+								<tbody>
+
+								<tr>
+									<th>漏洞产生原因</th>
+									<th>漏洞引发的威胁</th>
+									<th>漏洞严重程度</th>
+									<th>漏洞利用的攻击位置</th>
+								</tr>
+								<tr>
+									<td>
+										<label><input type="checkbox"
+													  value="9" name="cause" /> 其他错误</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="3" name="cause" /> 意外情况处理错误</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="10" name="cause" /> 未知错误</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="7" name="cause" /> 环境错误</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="6" name="cause" /> 竞争条件</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="8" name="cause" /> 设计错误</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="2" name="cause" /> 访问验证错误</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="1" name="cause" /> 输入验证错误</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="4" name="cause" /> 边界条件错误</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="5" name="cause" /> 配置错误</label>
+										<br />
+									</td>
+									<td>
+										<label><input type="checkbox"
+													  value="16" name="thread" /> 其它</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="15" name="thread" /> 拒绝服务</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="12" name="thread" /> 普通用户访问权限获取</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="14" name="thread" /> 未授权的信息修改</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="13" name="thread" /> 未授权的信息泄露</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="17" name="thread" /> 未知</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="11" name="thread" /> 管理员访问权限获取</label>
+										<br />
+									</td>
+									<td>
+										<label><input type="checkbox"
+													  value="19" name="serverity" /> 中</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="20" name="serverity" /> 低</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="18" name="serverity" /> 高</label>
+										<br />
+									</td>
+									<td>
+										<label><input type="checkbox"
+													  value="23" name="position" /> 其他</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="22" name="position" /> 本地</label>
+										<br />
+									
+										<label><input type="checkbox"
+													  value="21" name="position" /> 远程</label>
+										<br />
+									</td>
+									<input type="hidden" name="causeIdStr" id="causeIdStr" value="" />
+									<input type="hidden" name="threadIdStr" id="threadIdStr" value="" />
+									<input type="hidden" name="serverityIdStr" id="serverityIdStr" value="" />
+									<input type="hidden" name="positionIdStr" id="positionIdStr" value="" />
+								</tr>
+								</tbody>
+							</table>
+						</fieldset>
+					</div>
+
+					<div id="flawDialog" class="adv" title="高级搜索"
+						style="display: none;">
+						<div id="dialogContent"></div>
+					</div>
+
+
+
+
+
+
+					<div style="clear: both;"></div>
+				</div>
+			<div class="div_middle" style="height: 12px">
+
+			</div>
+			</form>
+				<div style="margin-top: 0px;">
+					<table class="tlist">
+						<thead>
+							<tr>
+								<th width="44%">漏洞标题</th>
+								<th style="text-align: center;" width="13%"><a
+									href="javascript:" title="点击可排序" style="color: #333;"
+									id="level" onclick="changeOrder(this.id)">危害级别</a></th>
+								<th style="text-align: center;" width="11%"><a
+									href="javascript:" title="点击可排序" style="color: #333;"
+									id="clickNum" onclick="changeOrder(this.id)">点击数</a></th>
+								<th style="text-align: center;" width="9%"><a
+									href="javascript:" title="点击可排序" style="color: #333;"
+									id="comment" onclick="changeOrder(this.id)">评论</a></th>
+								<th style="text-align: center;" width="9%"><a
+									href="javascript:" title="点击可排序" style="color: #333;"
+									id="concern" onclick="changeOrder(this.id)">关注</a></th>
+								<th style="text-align: center;" width="14%"><a
+									href="javascript:" title="点击可排序" style="color: #333;" id="time"
+									onclick="changeOrder(this.id)">时间↓</a></th>
+							</tr>
+						</thead>
+						<div id="flawList">
+						<tbody>
+								
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03523" style="color: #2B7DE2"
+												title="Adobe Experience Manager跨站脚本漏洞（CNVD-2026-0352398）"> 
+														Adobe Experience Manager跨站脚本漏洞（CN...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												3
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03524" style="color: #2B7DE2"
+												title="Adobe Experience Manager跨站脚本漏洞（CNVD-2026-0352497）"> 
+														Adobe Experience Manager跨站脚本漏洞（CN...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												3
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03525" style="color: #2B7DE2"
+												title="Adobe Experience Manager跨站脚本漏洞"> 
+														Adobe Experience Manager跨站脚本漏洞
+													
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												2
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03526" style="color: #2B7DE2"
+												title="Adobe Experience Manager跨站脚本漏洞（CNVD-2026-0352695）"> 
+														Adobe Experience Manager跨站脚本漏洞（CN...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												1
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03527" style="color: #2B7DE2"
+												title="Adobe Experience Manager跨站脚本漏洞（CNVD-2026-0352794）"> 
+														Adobe Experience Manager跨站脚本漏洞（CN...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												4
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03479" style="color: #2B7DE2"
+												title="Google Android逻辑错误漏洞"> 
+														Google Android逻辑错误漏洞
+													
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												6
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03480" style="color: #2B7DE2"
+												title="Google Android逻辑错误漏洞（CNVD-2026-0348004）"> 
+														Google Android逻辑错误漏洞（CNVD-2026-03...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												3
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03481" style="color: #2B7DE2"
+												title="Google Android逻辑错误漏洞（CNVD-2026-0348103）"> 
+														Google Android逻辑错误漏洞（CNVD-2026-03...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												3
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03482" style="color: #2B7DE2"
+												title="Google Android权限提升漏洞"> 
+														Google Android权限提升漏洞
+													
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												5
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03483" style="color: #2B7DE2"
+												title="Google Android输入验证不当漏洞"> 
+														Google Android输入验证不当漏洞
+													
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												4
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03484" style="color: #2B7DE2"
+												title="Google Android混淆代理漏洞"> 
+														Google Android混淆代理漏洞
+													
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												4
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03485" style="color: #2B7DE2"
+												title="Google Android逻辑错误漏洞（CNVD-2026-0348599）"> 
+														Google Android逻辑错误漏洞（CNVD-2026-03...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												1
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03486" style="color: #2B7DE2"
+												title="Google Android拒绝服务漏洞"> 
+														Google Android拒绝服务漏洞
+													
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												1
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03487" style="color: #2B7DE2"
+												title="Google Android点击劫持漏洞"> 
+														Google Android点击劫持漏洞
+													
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												1
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03488" style="color: #2B7DE2"
+												title="Google Android逻辑错误漏洞（CNVD-2026-0348896）"> 
+														Google Android逻辑错误漏洞（CNVD-2026-03...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												2
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03489" style="color: #2B7DE2"
+												title="Google Android输入验证不当漏洞（CNVD-2026-0348995）"> 
+														Google Android输入验证不当漏洞（CNVD-202...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												1
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03490" style="color: #2B7DE2"
+												title="Google Android缺少权限检查漏洞"> 
+														Google Android缺少权限检查漏洞
+													
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												1
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03491" style="color: #2B7DE2"
+												title="Google Android权限绕过漏洞"> 
+														Google Android权限绕过漏洞
+													
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												2
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03492" style="color: #2B7DE2"
+												title="Google Android逻辑错误漏洞（CNVD-2026-0349292）"> 
+														Google Android逻辑错误漏洞（CNVD-2026-03...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03493" style="color: #2B7DE2"
+												title="Google Android缺少权限检查漏洞（CNVD-2026-0349391）"> 
+														Google Android缺少权限检查漏洞（CNVD-202...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												1
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03494" style="color: #2B7DE2"
+												title="Google Android拒绝服务漏洞（CNVD-2026-0349490）"> 
+														Google Android拒绝服务漏洞（CNVD-2026-03...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												4
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03495" style="color: #2B7DE2"
+												title="Google Android逻辑错误漏洞（CNVD-2026-0349589）"> 
+														Google Android逻辑错误漏洞（CNVD-2026-03...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												5
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03496" style="color: #2B7DE2"
+												title="Google Android输入验证不当漏洞（CNVD-2026-0349688）"> 
+														Google Android输入验证不当漏洞（CNVD-202...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												2
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03497" style="color: #2B7DE2"
+												title="Google Android点击劫持漏洞（CNVD-2026-0349787）"> 
+														Google Android点击劫持漏洞（CNVD-2026-03...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												4
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03498" style="color: #2B7DE2"
+												title="Google Android拒绝服务漏洞（CNVD-2026-0349886）"> 
+														Google Android拒绝服务漏洞（CNVD-2026-03...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03499" style="color: #2B7DE2"
+												title="Google Android输入验证不当漏洞（CNVD-2026-0349985）"> 
+														Google Android输入验证不当漏洞（CNVD-202...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												4
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03500" style="color: #2B7DE2"
+												title="Google Android拒绝服务漏洞（CNVD-2026-0350084）"> 
+														Google Android拒绝服务漏洞（CNVD-2026-03...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03501" style="color: #2B7DE2"
+												title="Google Android缺少权限检查漏洞（CNVD-2026-0350183）"> 
+														Google Android缺少权限检查漏洞（CNVD-202...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03502" style="color: #2B7DE2"
+												title="Google Android混淆代理漏洞（CNVD-2026-0350282）"> 
+														Google Android混淆代理漏洞（CNVD-2026-03...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												3
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03503" style="color: #2B7DE2"
+												title="Google Android逻辑错误漏洞（CNVD-2026-0350381）"> 
+														Google Android逻辑错误漏洞（CNVD-2026-03...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												3
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03504" style="color: #2B7DE2"
+												title="Google Android逻辑错误漏洞（CNVD-2026-0350480）"> 
+														Google Android逻辑错误漏洞（CNVD-2026-03...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03505" style="color: #2B7DE2"
+												title="Google Android缺少权限检查漏洞（CNVD-2026-0350579）"> 
+														Google Android缺少权限检查漏洞（CNVD-202...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												7
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03506" style="color: #2B7DE2"
+												title="Google Android越界读取漏洞"> 
+														Google Android越界读取漏洞
+													
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												6
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03528" style="color: #2B7DE2"
+												title="Google Android越界写入漏洞"> 
+														Google Android越界写入漏洞
+													
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03534" style="color: #2B7DE2"
+												title="Mozilla Firefox信息泄露漏洞（CNVD-2026-03534）"> 
+														Mozilla Firefox信息泄露漏洞（CNVD-2026-0...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03533" style="color: #2B7DE2"
+												title="多款Mozilla产品安全绕过漏洞（CNVD-2026-03533）"> 
+														多款Mozilla产品安全绕过漏洞（CNVD-2026-0...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03532" style="color: #2B7DE2"
+												title="Mozilla Firefox for iOS欺骗漏洞（CNVD-2026-03532）"> 
+														Mozilla Firefox for iOS欺骗漏洞（CNVD-20...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03531" style="color: #2B7DE2"
+												title="多款Mozilla产品安全绕过漏洞（CNVD-2026-03531）"> 
+														多款Mozilla产品安全绕过漏洞（CNVD-2026-0...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03530" style="color: #2B7DE2"
+												title="多款Mozilla产品代码执行漏洞（CNVD-2026-03530）"> 
+														多款Mozilla产品代码执行漏洞（CNVD-2026-0...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03529" style="color: #2B7DE2"
+												title="多款Mozilla产品代码执行漏洞（CNVD-2026-03529）"> 
+														多款Mozilla产品代码执行漏洞（CNVD-2026-0...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-15
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03058" style="color: #2B7DE2"
+												title="Google Android混淆代理漏洞"> 
+														Google Android混淆代理漏洞
+													
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												12
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03146" style="color: #2B7DE2"
+												title="Student Management System using PHP and MySQL SQL注入漏洞"> 
+														Student Management System using PHP and ...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="green"></span>
+													
+													低
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												6
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03147" style="color: #2B7DE2"
+												title="Student Management System using PHP and MySQL password-recovery.php文件SQL注入漏洞"> 
+														Student Management System using PHP and ...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												9
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03148" style="color: #2B7DE2"
+												title="Student Result Management System /editmyexp.php文件SQL注入漏洞"> 
+														Student Result Management System /editmy...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												7
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03149" style="color: #2B7DE2"
+												title="Men Salon Management System change-password.php文件SQL注入漏洞"> 
+														Men Salon Management System change-passw...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												8
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03150" style="color: #2B7DE2"
+												title="Men Salon Management System contact-us.php文件SQL注入漏洞"> 
+														Men Salon Management System contact-us.p...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												8
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03151" style="color: #2B7DE2"
+												title="Men Salon Management System forgot-password.php文件SQL注入漏洞"> 
+														Men Salon Management System forgot-passw...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												8
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03152" style="color: #2B7DE2"
+												title="Men Salon Management System sales-reports-detail.php文件SQL注入漏洞"> 
+														Men Salon Management System sales-report...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												7
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03153" style="color: #2B7DE2"
+												title="Men Salon Management System /search-appointment.php文件SQL注入漏洞"> 
+														Men Salon Management System /search-appo...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												7
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03154" style="color: #2B7DE2"
+												title="Men Salon Management System view-appointment.php文件SQL注入漏洞"> 
+														Men Salon Management System view-appoint...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												7
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03155" style="color: #2B7DE2"
+												title="Men Salon Management System admin-profile.php文件SQL注入漏洞"> 
+														Men Salon Management System admin-profil...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												6
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03156" style="color: #2B7DE2"
+												title="Men Salon Management System add-services.php文件SQL注入漏洞"> 
+														Men Salon Management System add-services...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												5
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03157" style="color: #2B7DE2"
+												title="Men Salon Management System about-us.php文件SQL注入漏洞"> 
+														Men Salon Management System about-us.php...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												6
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03158" style="color: #2B7DE2"
+												title="Men Salon Management System add-customer.php文件SQL注入漏洞"> 
+														Men Salon Management System add-customer...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												5
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03159" style="color: #2B7DE2"
+												title="Men Salon Management System add-customer-services.php文件SQL注入漏洞"> 
+														Men Salon Management System add-customer...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												5
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03160" style="color: #2B7DE2"
+												title="Men Salon Management System appointment.php文件SQL注入漏洞"> 
+														Men Salon Management System appointment....
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												6
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03161" style="color: #2B7DE2"
+												title="Men Salon Management System search-invoices.php 文件SQL注入漏洞"> 
+														Men Salon Management System search-invoi...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												7
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03162" style="color: #2B7DE2"
+												title="Online Security Guards Hiring System changeimage.php文件SQL注入漏洞"> 
+														Online Security Guards Hiring System cha...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												3
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03163" style="color: #2B7DE2"
+												title="Online Security Guards Hiring System edit-guard-detail.php文件SQL注入漏洞"> 
+														Online Security Guards Hiring System edi...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												3
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03164" style="color: #2B7DE2"
+												title="Online Security Guards Hiring System bwdates-reports-details.php文件SQL注入漏洞"> 
+														Online Security Guards Hiring System bwd...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												2
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03165" style="color: #2B7DE2"
+												title="Online Security Guards Hiring System search-request.php文件SQL注入漏洞"> 
+														Online Security Guards Hiring System sea...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												2
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03183" style="color: #2B7DE2"
+												title="Land Record System admin-profile.php文件SQL注入漏洞"> 
+														Land Record System admin-profile.php文件...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												2
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03184" style="color: #2B7DE2"
+												title="Land Record System bwdates-reports-details.php文件SQL注入漏洞"> 
+														Land Record System bwdates-reports-detai...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												2
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03185" style="color: #2B7DE2"
+												title="Land Record System todate参数SQL注入漏洞"> 
+														Land Record System todate参数SQL注入漏洞
+													
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												3
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03186" style="color: #2B7DE2"
+												title="Land Record System /contactus.php文件SQL注入漏洞"> 
+														Land Record System /contactus.php文件SQL...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												2
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03187" style="color: #2B7DE2"
+												title="Land Record System edit-propertytype.php文件SQL注入漏洞"> 
+														Land Record System edit-propertytype.php...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												2
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03188" style="color: #2B7DE2"
+												title="Land Record System forgot-password.php文件SQL注入漏洞"> 
+														Land Record System forgot-password.php文...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												2
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03466" style="color: #2B7DE2"
+												title="Land Record System manage-propertytype.php文件SQL注入漏洞"> 
+														Land Record System manage-propertytype.p...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03467" style="color: #2B7DE2"
+												title="Land Record System contactus.php文件跨站脚本漏洞"> 
+														Land Record System contactus.php文件跨站...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03468" style="color: #2B7DE2"
+												title="Land Record System /index.php文件跨站脚本漏洞"> 
+														Land Record System /index.php文件跨站脚本...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03469" style="color: #2B7DE2"
+												title="Land Record System add-property.php文件跨站脚本漏洞"> 
+														Land Record System add-property.php文件跨...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03470" style="color: #2B7DE2"
+												title="Land Record System search-property.php文件跨站脚本漏洞"> 
+														Land Record System search-property.php文...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03471" style="color: #2B7DE2"
+												title="Land Record System search-property.php文件SQL注入漏洞"> 
+														Land Record System search-property.php文...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03472" style="color: #2B7DE2"
+												title="Land Record System edit-propertytype.php文件跨站脚本漏洞"> 
+														Land Record System edit-propertytype.php...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03473" style="color: #2B7DE2"
+												title="Land Record System /index.php文件SQL注入漏洞"> 
+														Land Record System /index.php文件SQL注入...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03474" style="color: #2B7DE2"
+												title="Land Record System login.php文件SQL注入漏洞"> 
+														Land Record System login.php文件SQL注入漏...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03475" style="color: #2B7DE2"
+												title="Land Record System contactus.php文件跨站脚本漏洞"> 
+														Land Record System contactus.php文件跨站...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03476" style="color: #2B7DE2"
+												title="Land Record System property-details.php文件SQL注入漏洞"> 
+														Land Record System property-details.php文...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03477" style="color: #2B7DE2"
+												title="Land Record System aboutus.php文件跨站脚本漏洞"> 
+														Land Record System aboutus.php文件跨站脚...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03478" style="color: #2B7DE2"
+												title="Land Record System admin-profile.php文件跨站脚本漏洞"> 
+														Land Record System admin-profile.php文件...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03084" style="color: #2B7DE2"
+												title="Huawei HarmonyOS/EMUI接口权限管控漏洞"> 
+														Huawei HarmonyOS/EMUI接口权限管控漏洞
+													
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												7
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-14
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03261" style="color: #2B7DE2"
+												title="Echo Specto CM跨站脚本漏洞"> 
+														Echo Specto CM跨站脚本漏洞
+													
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												3
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-13
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-02980" style="color: #2B7DE2"
+												title="WordPress插件Shortcodes and extra features for Phlox theme信息泄露漏洞"> 
+														WordPress插件Shortcodes and extra featur...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												10
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-13
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-02991" style="color: #2B7DE2"
+												title="Mozilla Firefox内存错误引用漏洞（CNVD-2026-02991）"> 
+														Mozilla Firefox内存错误引用漏洞（CNVD-20...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												45
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-13
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-02992" style="color: #2B7DE2"
+												title="Mozilla Firefox for iOS欺骗漏洞（CNVD-2026-02992）"> 
+														Mozilla Firefox for iOS欺骗漏洞（CNVD-20...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												12
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-13
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-03011" style="color: #2B7DE2"
+												title="Mozilla Firefox代码执行漏洞（CNVD-2026-03011）"> 
+														Mozilla Firefox代码执行漏洞（CNVD-2026-0...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												12
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-13
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-02932" style="color: #2B7DE2"
+												title="Google Android拒绝服务漏洞（CNVD-2026-02932）"> 
+														Google Android拒绝服务漏洞（CNVD-2026-02...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												23
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-13
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-02974" style="color: #2B7DE2"
+												title="Google Android权限提升漏洞（CNVD-2026-02974）"> 
+														Google Android权限提升漏洞（CNVD-2026-02...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												12
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-13
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-02976" style="color: #2B7DE2"
+												title="Google Android权限提升漏洞（CNVD-2026-02976）"> 
+														Google Android权限提升漏洞（CNVD-2026-02...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												13
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-13
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-02975" style="color: #2B7DE2"
+												title="Google Android拒绝服务漏洞（CNVD-2026-02975）"> 
+														Google Android拒绝服务漏洞（CNVD-2026-02...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												6
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-13
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-02964" style="color: #2B7DE2"
+												title="Google Android拒绝服务漏洞（CNVD-2026-02964）"> 
+														Google Android拒绝服务漏洞（CNVD-2026-02...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												17
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-13
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-02962" style="color: #2B7DE2"
+												title="Google Android拒绝服务漏洞（CNVD-2026-02962）"> 
+														Google Android拒绝服务漏洞（CNVD-2026-02...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												16
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-13
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-02949" style="color: #2B7DE2"
+												title="Google Android权限提升漏洞（CNVD-2026-02949）"> 
+														Google Android权限提升漏洞（CNVD-2026-02...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												12
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-13
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-02876" style="color: #2B7DE2"
+												title="Online Music Site SQL注入漏洞"> 
+														Online Music Site SQL注入漏洞
+													
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												14
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-12
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-02877" style="color: #2B7DE2"
+												title="Online Music Site AlbumByCategory.php文件SQL注入漏洞"> 
+														Online Music Site AlbumByCategory.php文件...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="red"></span>
+													
+													高
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												16
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-12
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-02922" style="color: #2B7DE2"
+												title="Adobe Experience Manager跨站脚本漏洞（CNVD-2026-02922）"> 
+														Adobe Experience Manager跨站脚本漏洞（CN...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												12
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-12
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-02923" style="color: #2B7DE2"
+												title="Adobe Experience Manager跨站脚本漏洞（CNVD-2026-02923）"> 
+														Adobe Experience Manager跨站脚本漏洞（CN...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												14
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-12
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-02924" style="color: #2B7DE2"
+												title="Adobe Experience Manager跨站脚本漏洞（CNVD-2026-02924）"> 
+														Adobe Experience Manager跨站脚本漏洞（CN...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												13
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-12
+											</td>
+										</tr>
+									
+										<tr class="current">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-02925" style="color: #2B7DE2"
+												title="Adobe Experience Manager跨站脚本漏洞（CNVD-2026-02925）"> 
+														Adobe Experience Manager跨站脚本漏洞（CN...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												9
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-12
+											</td>
+										</tr>
+									
+										<tr class="">
+											<td width="44%"><img
+												src="/images/wrang_con.gif"></img> <a
+												href="/flaw/show/CNVD-2026-02926" style="color: #2B7DE2"
+												title="Adobe Experience Manager跨站脚本漏洞（CNVD-2026-02926）"> 
+														Adobe Experience Manager跨站脚本漏洞（CN...
+						
+											</a></td>
+											<td class="denle" width="13%" style="text-align: center;">
+												
+													
+														<span class="yellow"></span>
+													
+													中
+												
+											</td>
+											<td width="11%" style="text-align: center;">
+												12
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="9%" style="text-align: center;">
+												0
+											</td>
+											<td width="13%">
+												2026-01-12
+											</td>
+										</tr>
+									
+								
+						</tbody>
+						</div>
+					</table>
+					<div class="pages clearfix">
+						<span class="currentStep">1</span><a href="/flaw/list?numPerPage=100&amp;max=100&amp;offset=100&amp;keywordFlag=0&amp;cnvdIdFlag=0&amp;baseinfoBeanFlag=0" class="step">2</a><a href="/flaw/list?numPerPage=100&amp;max=100&amp;offset=200&amp;keywordFlag=0&amp;cnvdIdFlag=0&amp;baseinfoBeanFlag=0" class="step">3</a><a href="/flaw/list?numPerPage=100&amp;max=100&amp;offset=300&amp;keywordFlag=0&amp;cnvdIdFlag=0&amp;baseinfoBeanFlag=0" class="step">4</a><a href="/flaw/list?numPerPage=100&amp;max=100&amp;offset=400&amp;keywordFlag=0&amp;cnvdIdFlag=0&amp;baseinfoBeanFlag=0" class="step">5</a><a href="/flaw/list?numPerPage=100&amp;max=100&amp;offset=500&amp;keywordFlag=0&amp;cnvdIdFlag=0&amp;baseinfoBeanFlag=0" class="step">6</a><a href="/flaw/list?numPerPage=100&amp;max=100&amp;offset=600&amp;keywordFlag=0&amp;cnvdIdFlag=0&amp;baseinfoBeanFlag=0" class="step">7</a><a href="/flaw/list?numPerPage=100&amp;max=100&amp;offset=700&amp;keywordFlag=0&amp;cnvdIdFlag=0&amp;baseinfoBeanFlag=0" class="step">8</a><a href="/flaw/list?numPerPage=100&amp;max=100&amp;offset=800&amp;keywordFlag=0&amp;cnvdIdFlag=0&amp;baseinfoBeanFlag=0" class="step">9</a><a href="/flaw/list?numPerPage=100&amp;max=100&amp;offset=900&amp;keywordFlag=0&amp;cnvdIdFlag=0&amp;baseinfoBeanFlag=0" class="step">10</a><span class="step">..</span><a href="/flaw/list?numPerPage=100&amp;max=100&amp;offset=203500&amp;keywordFlag=0&amp;cnvdIdFlag=0&amp;baseinfoBeanFlag=0" class="step">2036</a><a href="/flaw/list?numPerPage=100&amp;max=100&amp;offset=100&amp;keywordFlag=0&amp;cnvdIdFlag=0&amp;baseinfoBeanFlag=0" class="nextLink">下页</a>
+						<span>共&nbsp;203579&nbsp;条
+						</span>
+					</div>
+				</div>
+			
+				<div class="content_line"></div>
+			</div>
+
+		</div>
+	<div class="sidebar">
+		
+
+
+
+
+
+
+
+<div class="blk_01">
+	<div class="bc clearfix">
+		<div class="tit tit_02">
+			<h2>热点漏洞</h2>
+		</div>
+		<ul class="cc_list_01">
+			
+				<li><a href="/flaw/show/CNVD-2024-30085" title="GeoServer远程代码执行漏洞">
+						
+							GeoServer远程代码执行漏洞
+						
+					</a></li>
+			
+				<li><a href="/flaw/show/CNVD-2024-29805" title="OpenSSH远程代码执行漏洞（CNVD-2024-29805）">
+						
+							OpenSSH远程代码执行漏洞（CNVD-2024-29805）
+						
+					</a></li>
+			
+				<li><a href="/flaw/show/CNVD-2022-42150" title="微软支持诊断工具远程代码执行漏洞">
+						
+							微软支持诊断工具远程代码执行漏洞
+						
+					</a></li>
+			
+				<li><a href="/flaw/show/CNVD-2022-35519" title="F5 BIG-IP iControl REST身份认证绕过漏洞">
+						
+							F5 BIG-IP iControl REST身份认证绕过漏洞
+						
+					</a></li>
+			
+				<li><a href="/flaw/show/CNVD-2022-10270" title="上海贝锐信息科技股份有限公司向日葵个人版for Windows存在命令执行漏洞">
+						
+							上海贝锐信息科技股份有限公司向日葵个人版for W...
+									
+					</a></li>
+			
+				<li><a href="/flaw/show/CNVD-2020-29889" title="PIVX 资源管理存在逻辑缺陷漏洞">
+						
+							PIVX 资源管理存在逻辑缺陷漏洞
+						
+					</a></li>
+			
+				<li><a href="/flaw/show/CNVD-2020-30008" title="Internet Node Token存在逻辑缺陷漏洞">
+						
+							Internet Node Token存在逻辑缺陷漏洞
+						
+					</a></li>
+			
+				<li><a href="/flaw/show/CNVD-2020-29888" title="Phore 资源管理错误漏洞">
+						
+							Phore 资源管理错误漏洞
+						
+					</a></li>
+			
+				<li><a href="/flaw/show/CNVD-2020-29890" title="NavCoin 资源管理存在逻辑缺陷漏洞">
+						
+							NavCoin 资源管理存在逻辑缺陷漏洞
+						
+					</a></li>
+			
+				<li><a href="/flaw/show/CNVD-2020-30011" title="PolyAI存在逻辑缺陷漏洞">
+						
+							PolyAI存在逻辑缺陷漏洞
+						
+					</a></li>
+			
+		</ul>
+	</div>
+</div>
+<!-- 
+<div class="sp15"></div>
+<div class="blk_01">
+	<div class="bc clearfix">
+		<div class="weibo" style="float:left;padding:11px 11px 15px;">
+			<div class="clf">
+				<h4 class="clf"><i></i>国家信息安全漏洞共享平台官方微博</h4>
+				<div class="t_sina"><a href="javascript:void(0);">关注官方新浪微博</a></div>
+				<div class="t_qq"><a href="javascript:void(0);">关注官方腾讯微博</a></div>
+			</div>
+		</div>
+	</div>
+</div>
+ -->
+<div class="sp15"></div>
+<div class="blk_01">
+	<div class="bc clearfix">
+		<div class="weibo" style="float:left;padding:11px 0 5px;">
+			<div class="clf">
+				<a href="/flaw/create">
+					<img style="border:medium none;" height="70" width="320" alt="漏洞报送" src="/images/loudongbaosong.jpg"/>
+				</a>
+			</div>
+			<div class="sp15"></div>
+			<div class="clf">
+				<a href="/certificate/certificate_search">
+					<img style="border:medium none;" height="70" width="320" alt="证书查询" src="/images/zhengshuchaxun.jpg"/>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+	</div>
+
+	</div>
+	<!-- 主体内容结束 -->
+	<script type="text/javascript">
+		$(function(){
+
+			$(".moreDom").click(function () {
+				let text = $(".moreDom").text();
+				if(text == '展开') {
+					$(".moreDom").text('收起')
+					$(".optional_condition_table").show();
+				} else {
+					$(".moreDom").text('展开')
+
+					$(".optional_condition_table").hide();
+				}
+
+			})
+			$(".pages .step,.pages .nextLink,.pages .prevLink").click(function(){
+
+
+				var str = $(this).attr("href");
+				str = str.substring(str.indexOf('?')+1);
+				var strs = str.split('&');
+				var html = '';
+				// alert(str)
+
+				for(var s in strs){
+					
+					var nameAndValue = strs[s];
+					var name = nameAndValue.substring(0,nameAndValue.indexOf('='));
+					var value = nameAndValue.substring(nameAndValue.indexOf('=')+1);
+
+					if((name=='startDate' || name =='endDate' || name=="number")){
+						continue;
+					}
+
+					// if($("input[name=\""+name+"\"]")){
+					// 	$("input[name=\""+name+"\"]").remove();
+					// }
+
+					html += '<input type="hidden" name='+name+' value='+decodeURIComponent(value)+'>';
+				}
+
+				// $("#searchDiv").append(html);
+
+				$("#searchForm").submit();
+
+				// return false;
+			});
+			// alert()
+			var kwd = "";
+			if(kwd){
+				var paraStr = "&kwd="+encodeURIComponent(kwd);
+				//postAjax(paraStr);
+			}else{
+				//formSubmit();
+			}
+			$.datepicker.regional['zh-CN'] ={
+				dayNamesMin: ['日','一','二','三','四','五','六'],
+				monthNames: ['一月','二月','三月','四月','五月','六月','七月','八月','九月','十月','十一月','十二月'],
+				monthNamesShort: ['一','二','三','四','五','六','七','八','九','十','十一','十二'],
+				nextText: '', //intentionally blank
+				prevText: '', //intentionally blank
+				numberOfMonths: 1,
+				stepMonths:1,
+				showButtonPanel: false,
+				//closeText: Translations.clear_dates,
+				//currentText: Translations.today
+				closeText: '清除已选日期',
+				dateFormat: 'yy-mm-dd',
+				currentText: '今天'
+			};
+	  		$.datepicker.setDefaults($.datepicker.regional['zh-CN']); 
+		  	$('#startDate').datepicker({
+		  		changeMonth : true,
+		  		changeYear : true
+		  	});
+		  	$('#endDate').datepicker({
+		  		changeMonth : true,
+		  		changeYear : true
+		  	});
+		
+		  	$("#flawDialog").dialog({
+				autoOpen: false,
+				height: 600,
+				width: 750,
+				modal: true,
+				buttons: {
+					"取消": function() {
+						$( this ).dialog( "close" );
+					},
+					"搜索": function() {
+						var conditionValue = $("input[type=radio][name=condition]:checked").val();
+						var causeElems = $("input[type=checkbox][name=cause]:checked");
+						var threadElems = $("input[type=checkbox][name=thread]:checked");
+						var serverityElems = $("input[type=checkbox][name=serverity]:checked");
+						var positionElems = $("input[type=checkbox][name=position]:checked");
+						var causeIdStr = '';
+						var threadIdStr = '';
+						var serverityIdStr = '';
+						var positionIdStr = '';
+						causeElems.each(function(){
+							causeIdStr += this.value+",";
+						});
+						$("#causeIdStr").val(causeIdStr);
+						threadElems.each(function(){
+							threadIdStr += this.value+",";
+						});
+						$("#threadIdStr").val(threadIdStr);
+						serverityElems.each(function(){
+							serverityIdStr += this.value+",";
+						});
+						$("#serverityIdStr").val(serverityIdStr);
+						positionElems.each(function(){
+							positionIdStr += this.value+",";
+						});
+						$("#positionIdStr").val(positionIdStr);
+						$( this ).dialog( "close" );
+						var namelist = $("div[id=flawDialog] *[name]:not(input[type=radio]):not(input[type=checkbox])");
+						var paraStr = "?condition="+conditionValue+"&causeIdStr="+causeIdStr+"&threadIdStr="+threadIdStr+"&serverityIdStr="+serverityIdStr+"&positionIdStr="+positionIdStr;
+						namelist.each(function(){
+							var name = $(this).attr("name");
+							var value = $(this).val();
+							paraStr += "&"+name+"="+encodeURIComponent($.trim(value));
+						})
+						//postBlank(paraStr);
+						$("#searchForm2").submit();
+					}
+				}
+			});
+		  	var flag = "";
+			if(flag){
+				//$("#highLevelSearch").click();
+			}
+			$("#dialogContent").load("/flaw/dialog",function(){
+				$(".startWord").click(function(){
+					$(".startWord").css('color','blue');
+					$(this).css('color','red');
+					var startWord=$(this).text();
+					$("#categorySelect").html("<option selected='selected' value='-1'>请选择产品</option>");
+					$("#editionSelect").html("<option selected='selected' value='-1'>请选择版本</option>");
+					$.ajax({
+						type:'post',
+						dataType:'json',
+						url:'/manufacturer/manufacturerListByStartWord',
+						data:'startWord='+startWord,
+						success:function(data){
+							var html = "<option selected='selected' value='-1'>请选择厂商</option>";
+							$.each(data,function(index,manufacturer){
+								if(manufacturer.name.length>80){
+									html += "<option title='"+manufacturer.name+"' value= '"+manufacturer.id+"'>"+manufacturer.name.substring(0,75)+"...</option>"
+								}else{
+									html += "<option title='"+manufacturer.name+"' value= '"+manufacturer.id+"'>"+manufacturer.name+"</option>"
+								}
+							});
+							$("#manufacturerSelect").html('').append(html);
+						}
+					});
+				});
+				$(".pcstartWord").click(function(){
+					var manuId = $("#").val();
+					if(manuId == "-1"){
+						alert("请选择厂商");
+						return false;
+					}
+					$(".pcstartWord").css('color','blue');
+					$(this).css('color','red');
+					var startWord=$(this).text();
+					$("#editionSelect").html("<option selected='selected' value='-1'>请选择版本</option>");
+					$('#dialogContent').showLoading();
+					$.ajax({
+						type:'post',
+						dataType:'json',
+						url:'/manufacturer/categoryListByStartWord',
+						data:'startWord='+startWord+"&manuId="+manuId,
+						success:function(data){
+							var html = "<option selected='selected' value='-1'>请选择产品</option>";
+							$.each(data,function(index,category){
+								html += "<option value= '"+category.id+"'>"+category.name+"</option>"
+							});
+							$("#categorySelect").html('').append(html);
+							$('#dialogContent').hideLoading();
+						}
+					});
+				});
+				setTimeout(function(){$("a[class=startWord]:first").trigger("click")},2000);
+			});
+			//是否开启高级检索控制开关
+			const isOpenQry=JSON.parse(sessionStorage.getItem("isOpenQry") || "false");
+			if(isOpenQry){
+
+				showQry();
+			}
+			//是否开启高级检索控制开关
+	  	});
+
+
+
+		//控制高级查询页面是否展示
+		function showQry() {
+			const div = document.getElementById("searchDiv");
+			const div0 = document.getElementById("searchDiv0");
+
+			if (div.style.display === "none") {
+				div.style.display = "block";//展示高级查询条件
+				div0.style.display = "none";//关闭基础查询DIV
+				sessionStorage.setItem("isOpenQry",JSON.stringify(true));
+			} else {
+				div.style.display = "none";
+				div0.style.display = "block";
+				sessionStorage.setItem("isOpenQry",JSON.stringify(false));
+			}
+		}
+
+	  	function formSubmit(){
+		  	$("#searchForm").submit();
+		}
+	  	function postAjax(paraStr){
+	  		$('#flawList').showLoading();
+	  		$.ajax({
+				type:'post',
+				dataType:'html',
+				url:'/flaw/listResult2',
+				data:paraStr,
+				success:function(data){
+					$(".tlist").html('');
+					$("#flawList").html('').append(data);
+					$('#flawList').hideLoading();
+				}
+			});
+	  	}
+	 	function postBlank(paraStr){
+		 	window.open('/flaw/listResult'+paraStr);
+	  	}
+	  	function showDialog(){
+		  	$( "#flawDialog" ).dialog("open");
+		}
+		function getProductCategory(value){
+			//alert(value);
+			if(value == '-1'){
+				return false;
+			}
+			$("#editionSelect").html("<option selected='selected' value='-1'>请选择版本</option>");
+			$.ajax({
+				type:'post',
+				dataType:'json',
+				url:'/manufacturer/categoryList',
+				data:'manufacturerId='+value,
+				success:function(data){
+					var html = "<option selected='selected' value='-1'>请选择产品</option>";
+					$.each(data,function(index,category){
+						html += "<option value= '"+category.id+"'>"+category.name+"</option>"
+					});
+					$("#categorySelect").html('').append(html);
+				}
+			});
+		}
+
+		function getProductManufacturer(startWord){
+			$("#categorySelect").html("<option selected='selected' value='-1'>请选择产品</option>");
+			$("#editionSelect").html("<option selected='selected' value='-1'>请选择版本</option>");
+			$("#manufacturerSelect").html("<option selected='selected' value='-1'>请选择厂商</option>");
+			$.ajax({
+				type:'post',
+				dataType:'json',
+				url:'/manufacturer/manufacturerListByStartWord',
+				data:'startWord='+startWord,
+				success:function(data){
+					var html = "<option selected='selected' value='-1'>请选择厂商</option>";
+					$.each(data,function(index,manufacturer){
+						html += "<option style=\"width:460px;\" value= '"+manufacturer.id+"'>"+manufacturer.name+"</option>"
+					});
+					$("#manufacturerSelect").html('').append(html);
+				}
+			});
+		}
+		function getProductEdition(value){
+			if(value == '-1'){
+				return false;
+			}
+			$.ajax({
+				type:'post',
+				dataType:'json',
+				url:'/manufacturer/editionList',
+				data:'categoryId='+value,
+				success:function(data){
+					var html = "<option selected='selected' value='-1'>请选择版本</option>";
+					$.each(data,function(index,productInfo){
+						html += "<option value= '"+productInfo.edition+"'>"+productInfo.edition+"</option>"
+					});
+					$("#editionSelect").html('').append(html);
+				}
+			});
+		}
+		var levelFlag = false; //desc
+		var clickNumFlag = false; //desc
+		var commentFlag = false; //desc
+		var concernFlag = false; //desc
+		var timeFlag = false; //desc
+		function changeOrder(field){
+			var endFlag = false;
+			var param = $(".pages .currentStep").next().attr("href");
+			if(!param){param = $(".pages .currentStep").prev().attr("href");endFlag=true;}
+			var index = param.indexOf("?");
+			param = param.substring(index+1,param.length);
+			var fieldIndex = param.indexOf("field");
+			param = operate(param,endFlag);
+			if(field=="level"){
+				if($("#order").val() == '' || $("#order").val() == 'desc'){
+					 $("#order").val('');
+					 $("#order").val('asc');
+				}else{
+				 	$("#order").val('');
+					$("#order").val('desc');
+				}
+				$("#field").val('');
+				$("#field").val('serverityId');
+				$("#searchForm").submit();
+			}else if(field=="clickNum"){
+				if($("#order").val() == '' || $("#order").val() == 'desc'){
+						 $("#order").val('');
+						 $("#order").val('asc');
+				}else{
+				 	$("#order").val('');
+					$("#order").val('desc');
+				}
+				$("#field").val('');
+				$("#field").val('clickNum');
+				$("#searchForm").submit();
+			}else if(field=="comment"){
+				if($("#order").val() == '' || $("#order").val() == 'desc'){
+						 $("#order").val('');
+						 $("#order").val('asc');
+				}else{
+				 	$("#order").val('');
+					$("#order").val('desc');
+				}
+				$("#field").val('');
+				$("#field").val('commentCount');
+				$("#searchForm").submit();
+				
+			}else if(field=="concern"){
+				if($("#order").val() == '' || $("#order").val() == 'desc'){
+						 $("#order").val('');
+						 $("#order").val('asc');
+				}else{
+				 	$("#order").val('');
+					$("#order").val('desc');
+				}
+				$("#field").val('');
+				$("#field").val('concernCount');
+				$("#searchForm").submit();
+			}else if(field=="time"){
+				if($("#order").val() == '' || $("#order").val() == 'desc'){
+					 $("#order").val('');
+					 $("#order").val('asc');
+				}else{
+				 	$("#order").val('');
+					$("#order").val('desc');
+				}
+				$("#field").val('');
+				$("#field").val('openTime');
+				$("#searchForm").submit();
+			}
+		}
+
+		function operate(param,endFlag){
+			//alert("param="+param);
+			var paramArr = param.split("&");
+			var newParam = "";
+			for(var i=0;i<paramArr.length;i++){
+				var arr = paramArr[i].split("=");
+				if(arr[0]=="field"){
+					continue;
+				}else if(arr[0]=="order"){
+					continue;
+				}else if(arr[0]=="offset"){
+					if(endFlag==false){newParam+="offset="+(parseInt(arr[1])-20)+"&";}
+					if(endFlag==true){newParam+="offset="+(parseInt(arr[1])+20)+"&";}
+				}else{
+					newParam+=paramArr[i]+"&";
+				}
+			}
+			//alert("newParam="+newParam);
+			return newParam;
+		}
+	  </script>
+
+	<r:layoutResources></r:layoutResources>
+
+	<!-- footer -->
+	<style type="text/css">
+	.footer{
+		background-color:#1362bd;
+	    margin: 10px auto;
+	    padding: 30px 0px;
+	    position: relative;
+	    width: 1000px;
+	    font:14px Microsoft YaHei;
+	    font-weight:400;
+	    color:#FFF;
+	}
+	.footer address {
+	    font-style: normal;
+	    height: 24px;
+	    line-height: 24px;
+	    text-align: center;
+	}
+</style>
+<div class="footer">
+	<address>Copyright (c) 2010 国家计算机网络应急技术处理协调中心 版权所有</address>
+	<address>Email：vreport@cert.org.cn 联系电话：010-82991783</address>
+	<address><a href="https://beian.miit.gov.cn" target="_blank" style="color: #FFFFFF">京ICP备10012421号-1</a></address>
+	<address>网站由知道创宇公司加速乐产品提供访问优化服务</address>
+	<address>技术支持：<a href="http://eversec.com.cn/" style="color: white;">恒安嘉新（北京）科技股份公司</a></address>
+</div>
+
+	<script type="text/javascript">
+		$(function(){
+			$(window).scroll(function(){
+				var scrollTop = $(document).scrollTop();
+				if(scrollTop > 0){
+					$(".top_btn").show();
+				}else{
+					$(".top_btn").hide();
+				}
+			});
+			$(".topLink").click(function(){
+				$('body,html').animate({scrollTop:0},1000);
+			});
+
+			getUserName()
+		});
+		function getUserName(){
+			$.ajax({
+				type: "GET",
+				dataType:"json",
+				url: "/user/getLoginInfo",
+				success: function(msg) {
+					 if(msg['code'] == "200"){
+						var userName =  msg['userName'];
+						var html =  '<span>您好！'+userName+'</span> <a href="/user/reportManage">用户中心</a> <a href="/user/logout">退出</a>'
+						 $(".newheader").find('div').html(html)
+					 }
+				}
+			});
+		}
+	</script>
+	<!-- Baidu Button BEGIN
+	<script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=8&amp;pos=right&amp;uid=6537022" ></script>
+	<script type="text/javascript" id="bdshell_js"></script>
+	<script type="text/javascript">
+	var bds_config={"bdTop":195};
+	document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+	</script>
+	 -->
+
+</body>
+</html>

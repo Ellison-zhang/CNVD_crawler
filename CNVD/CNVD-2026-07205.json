@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:42:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-07205",
+    "spider_time": 1770108136900,
+    "name": "Microsoft SharePoint Server欺骗漏洞（CNVD-2026-07205）",
+    "cnvd": "CNVD-2026-07205",
+    "publish": "2026-01-27",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Microsoft SharePoint Enterprise Server 2016\", \"Microsoft SharePoint Server 2019\", \"Microsoft SharePoint Server Subscription Edition\"]",
+    "cve": "CVE-2026-20959",
+    "description": "Microsoft SharePoint Server是美国微软（Microsoft）公司的一套企业业务协作平台。该平台用于对业务信息进行整合，并能够共享工作、与他人协同工作、组织项目和工作组、搜索人员和信息。Microsoft SharePoint Server存在欺骗漏洞，攻击者可利用该漏洞执行欺骗攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20959",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20959",
+    "patch": "Microsoft SharePoint Server欺骗漏洞（CNVD-2026-07205）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-19",
+    "open_time": "2026-01-26",
+    "update_time": "2026-01-26",
+    "data_summary": "64296ce43f615be906c1cbc068e5d0a1"
+}

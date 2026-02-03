@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:28:00",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-07563",
+    "spider_time": 1770107280144,
+    "name": "Siemens SINEC Security Monitor授权问题漏洞",
+    "cnvd": "CNVD-2026-07563",
+    "publish": "2026-01-28",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Siemens SINEC Security Monitor <V4.10.0\"]",
+    "cve": "CVE-2025-40830",
+    "description": "Siemens SINEC Security Monitor是德国西门子（Siemens）公司的一个工业安防监控器。Siemens SINEC Security Monitor存在授权问题漏洞，该漏洞源于ssmctl-client命令中file_transfer功能缺少授权检查，攻击者可利用该漏洞导致任意文件读写。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-882673.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-882673.html",
+    "patch": "Siemens SINEC Security Monitor授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-15",
+    "open_time": "2026-01-27",
+    "update_time": "2026-01-27",
+    "data_summary": "c62db24ddbaeb6d77517cab8c5c8a55b"
+}

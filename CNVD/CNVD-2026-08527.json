@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:31:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-08527",
+    "spider_time": 1770107476289,
+    "name": "Job Portal /process.php跨站脚本漏洞",
+    "cnvd": "CNVD-2026-08527",
+    "publish": "2026-01-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"Job Portal Job Portal\"]",
+    "cve": "CVE-2024-8471",
+    "description": "Job Portal是一个招聘求职网站系统。Job Portal存在跨站脚本漏洞，该漏洞源于/jobportal/process.php中的JOBID和USERNAME参数。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.incibe.es/en/incibe-cert/notices/aviso/multiple-vulnerabilities-job-portal\nhttps://cxsecurity.com/cveshow/CVE-2024-8471/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-09-10",
+    "open_time": "2026-01-28",
+    "update_time": "2026-01-28",
+    "data_summary": "d2d49e7f9befce74355762861a1c2c89"
+}

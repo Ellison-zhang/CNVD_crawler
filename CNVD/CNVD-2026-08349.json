@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:19:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-08349",
+    "spider_time": 1770106798696,
+    "name": "Google Android权限提升漏洞（CNVD-2026-08349）",
+    "cnvd": "CNVD-2026-08349",
+    "publish": "2026-01-29",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Android 14.0\", \"Google Android 13.0\"]",
+    "cve": "CVE-2025-26444",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在权限提升漏洞，该漏洞是由于VoiceInteractionManagerService.java中onHandleForceStop函数中的逻辑错误，攻击者可利用该漏洞在系统上获得更高的权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/c439c7e75e73056e6201fa4f4fe340e715196182",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-05-01",
+    "patch": "Google Android权限提升漏洞（CNVD-2026-08349）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2026-01-28",
+    "update_time": "2026-01-28",
+    "data_summary": "1bce7124ccfb3841db48c621ca7911e5"
+}

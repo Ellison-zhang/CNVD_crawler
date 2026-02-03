@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:28:32",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-07566",
+    "spider_time": 1770107312241,
+    "name": "Siemens SINEMA Remote Connect Server安全绕过漏洞",
+    "cnvd": "CNVD-2026-07566",
+    "publish": "2026-01-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"SIEMENS SINEMA Remote Connect Server <V3.2 SP4\"]",
+    "cve": "CVE-2025-40819",
+    "description": "Siemens SINEMA Remote Connect Server是德国西门子（Siemens）公司的一套远程网络管理平台。该平台主要用于远程访问、维护、控制和诊断底层网络。Siemens SINEMA Remote Connect Server存在安全绕过漏洞，该漏洞是由于授权错误造成的。攻击者可利用该漏洞绕过安全限制。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-626856.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-626856.html",
+    "patch": "Siemens SINEMA Remote Connect Server安全绕过漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-15",
+    "open_time": "2026-01-27",
+    "update_time": "2026-01-27",
+    "data_summary": "929a8c0c9b5d657dee13841d80c32821"
+}

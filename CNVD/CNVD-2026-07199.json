@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:41:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-07199",
+    "spider_time": 1770108085988,
+    "name": "Microsoft Office Click-To-Run代码执行漏洞",
+    "cnvd": "CNVD-2026-07199",
+    "publish": "2026-01-27",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Microsoft Office 2016\", \"Microsoft SharePoint Enterprise Server 2016\", \"Microsoft SharePoint Server 2019\", \"Microsoft SharePoint Server Subscription Edition\", \"Microsoft Office Deployment Tool\"]",
+    "cve": "CVE-2026-20943",
+    "description": "Microsoft Office是美国微软（Microsoft）公司的一款办公软件套件产品。该产品常用组件包括Word、Excel、Access、Powerpoint、FrontPage等。Microsoft Office Click-To-Run存在代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20943",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20943",
+    "patch": "Microsoft Office Click-To-Run代码执行漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-19",
+    "open_time": "2026-01-26",
+    "update_time": "2026-01-26",
+    "data_summary": "907fb359f98b173001c46a360874d338"
+}

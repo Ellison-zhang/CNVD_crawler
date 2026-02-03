@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:21:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-08197",
+    "spider_time": 1770106900702,
+    "name": "北京凯特伟业科技有限公司JEPasS云平台存在SQL注入漏洞",
+    "cnvd": "CNVD-2026-08197",
+    "publish": "2026-01-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:N/A:N",
+    "product": "[\"北京凯特伟业科技有限公司 JEPasS云平台\"]",
+    "cve": null,
+    "description": "北京凯特伟业科技有限公司是一家专门从事企业管理咨询和企业信息化落地服务的信息技术企业。北京凯特伟业科技有限公司JEPasS云平台存在SQL注入漏洞，攻击者可利用漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布补丁修复漏洞，请广大用户及时下载更新：\n升级包下载：\nhttps://pan.baidu.com/s/1Vo4pnuEtOu9kGxRPsJON4A 提取码: rtpe\n最新开发版地址：\nhttps://gitee.com/ketr/jepaas-release.git\n绿色版：\nhttps://pan.baidu.com/s/1Ua0feF2t38OnkIUUxHUdEw 提取码: ie3z",
+    "patch": "北京凯特伟业科技有限公司JEPasS云平台存在SQL注入漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-10-23",
+    "open_time": "2026-01-27",
+    "update_time": "2026-01-28",
+    "data_summary": "e4b5847573e701423f86f60f588e8fd5"
+}

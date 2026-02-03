@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 15:51:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-06567",
+    "spider_time": 1770105106668,
+    "name": "中科方德软件有限公司方德桌面操作系统存在本地提权漏洞",
+    "cnvd": "CNVD-2026-06567",
+    "publish": "2026-01-31",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"中科方德软件有限公司 方德桌面操作系统 V5.0\"]",
+    "cve": null,
+    "description": "方德桌面操作系统是由中科方德软件有限公司开发的国产操作系统。中科方德软件有限公司方德桌面操作系统存在本地提权漏洞，攻击者可利用漏洞进行权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布nfs-security-1.0.1-m61版本修复漏洞，请广大用户及时下载更新：\nhttps://repos.os.nfschina.com/deb/nfs/tiger-security/pool/main/n/nfs-security/nfs-security_1.0.1-m61+1nfs5_amd64.deb;\nhttps://repos.os.nfschina.com/deb/nfs/tiger-security/pool/main/n/nfs-security/libfsc-defender_1.0.1-m61+1nfs5_amd64.deb;\nhttps://repos.os.nfschina.com/deb/nfs/tiger-security/pool/main/n/nfs-security/nfs-security_1.0.1-m61+1nfs5_arm64.deb;\nhttps://repos.os.nfschina.com/deb/nfs/tiger-security/pool/main/n/nfs-security/libfsc-defender_1.0.1-m61+1nfs5_arm64.deb;",
+    "patch": "中科方德软件有限公司方德桌面操作系统存在本地提权漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-12-25",
+    "open_time": "2026-01-22",
+    "update_time": "2026-01-23",
+    "data_summary": "02e26fde5f60f16fd43b9a1596de77ad"
+}

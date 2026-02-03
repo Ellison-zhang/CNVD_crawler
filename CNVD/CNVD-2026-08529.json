@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:31:33",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-08529",
+    "spider_time": 1770107493672,
+    "name": "Job Portal SQL注入漏洞",
+    "cnvd": "CNVD-2026-08529",
+    "publish": "2026-01-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Job Portal Job Portal 1.0\"]",
+    "cve": "CVE-2024-8467",
+    "description": "Job Portal是一个招聘求职网站系统。Job Portal存在SQL注入漏洞，该漏洞源于/jobportal/admin/category/index.php中的id参数。目前没有详细的漏洞细节提供",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.incibe.es/en/incibe-cert/notices/aviso/multiple-vulnerabilities-job-portal\nhttps://cxsecurity.com/cveshow/CVE-2024-8467/",
+    "solution": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2024-09-10",
+    "open_time": "2026-01-28",
+    "update_time": "2026-01-28",
+    "data_summary": "b52597bad89c406ce62ff8ada605f5a5"
+}

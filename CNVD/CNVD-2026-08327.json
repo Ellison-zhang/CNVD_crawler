@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 15:56:24",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-08327",
+    "spider_time": 1770105384086,
+    "name": "Tenda AX1803堆栈溢出漏洞",
+    "cnvd": "CNVD-2026-08327",
+    "publish": "2026-01-29",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda AX1803 V1.0.0.1\"]",
+    "cve": "CVE-2025-70651",
+    "description": "Tenda AX1803是一款中国腾达（Tenda）公司的一款无线路由器。Tenda AX1803存在堆栈溢出漏洞，该漏洞是由于form_fast_setting_wifi_set函数中的边界检查不正确造成的，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-70651",
+    "solution": "目前没有详细的解决方案提供:\nhttps://www.tendacn.com/",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2026-01-26",
+    "open_time": "2026-01-28",
+    "update_time": "2026-01-28",
+    "data_summary": "53605a7cebef227461e4d553d7912312"
+}

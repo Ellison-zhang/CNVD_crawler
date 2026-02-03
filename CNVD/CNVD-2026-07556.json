@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:24:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-07556",
+    "spider_time": 1770107096081,
+    "name": "WordPress插件Export WP Page to Static HTML & PDF信息泄露漏洞",
+    "cnvd": "CNVD-2026-07556",
+    "publish": "2026-01-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"WordPress Export WP Page to Static HTML & PDF plugin <=4.3.4\"]",
+    "cve": "CVE-2025-11693",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件Export WP Page to Static HTML & PDF存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&old=3388166%40export-wp-page-to-static-html&new=3388166%40export-wp-page-to-static-html&sfp_email=&sfph_mail=",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/export-wp-page-to-static-html",
+    "patch": "WordPress插件Export WP Page to Static HTML & PDF信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-22",
+    "open_time": "2026-01-27",
+    "update_time": "2026-01-27",
+    "data_summary": "a867280486608a431a04da28581fae06"
+}

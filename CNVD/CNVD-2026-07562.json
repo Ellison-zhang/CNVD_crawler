@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:27:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-07562",
+    "spider_time": 1770107269723,
+    "name": "Siemens SIMATIC CN 4100信息泄露漏洞（CNVD-2026-07562）",
+    "cnvd": "CNVD-2026-07562",
+    "publish": "2026-01-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"Siemens SIMATIC CN 4100 <V4.0.1\"]",
+    "cve": "CVE-2025-40941",
+    "description": "Siemens SIMATIC CN 4100是德国西门子（Siemens）公司的一个通信节点。Siemens SIMATIC CN 4100存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-416652.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.industry.siemens.com/cs/document/109814144/communication-node-simatic-cn-4100-v4-0-1?lc=en-ww",
+    "patch": "Siemens SIMATIC CN 4100信息泄露漏洞（CNVD-2026-07562）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-15",
+    "open_time": "2026-01-27",
+    "update_time": "2026-01-27",
+    "data_summary": "c163e345c8ef3b6c0d5526e1e122a49b"
+}

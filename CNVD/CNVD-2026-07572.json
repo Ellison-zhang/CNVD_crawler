@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:29:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-07572",
+    "spider_time": 1770107376544,
+    "name": "Siemens Spectrum Power 4关键资源权限分配错误漏洞",
+    "cnvd": "CNVD-2026-07572",
+    "publish": "2026-01-28",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Siemens Spectrum Power <V4.70 SP12 Update 2\"]",
+    "cve": "CVE-2024-32010",
+    "description": "Siemens Spectrum Power 4是一款为电网监控与控制系统提供核心组件的高级电网管理软件平台。Siemens Spectrum Power 4存在关键资源权限分配错误漏洞，攻击者可利用该漏洞以特权用户身份连接数据库并执行系统命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-339694.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-339694.html",
+    "patch": "Siemens Spectrum Power 4关键资源权限分配错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2026-01-27",
+    "update_time": "2026-01-27",
+    "data_summary": "bd4b2959b1ff34a8cb36a94b8059fb40"
+}

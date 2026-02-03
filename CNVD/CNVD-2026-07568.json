@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:28:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-07568",
+    "spider_time": 1770107333037,
+    "name": "Siemens Altair Grid Engine信息泄露漏洞",
+    "cnvd": "CNVD-2026-07568",
+    "publish": "2026-01-28",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"SIEMENS Altair Grid Engine <v2026.0.0\"]",
+    "cve": "CVE-2025-40760",
+    "description": "Siemens Altair Grid Engine是美国Siemens公司的一个分布式资源管理系统。Siemens Altair Grid Engine存在信息泄露漏洞，该漏洞源于错误处理不当，攻击者可利用该漏洞提取特权账户的密码哈希值。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-514895.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-514895.html",
+    "patch": "Siemens Altair Grid Engine信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2026-01-27",
+    "update_time": "2026-01-27",
+    "data_summary": "7123a316e6c65b86db6d8c065e08269d"
+}

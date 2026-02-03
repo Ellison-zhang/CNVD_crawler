@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:29:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-07569",
+    "spider_time": 1770107343076,
+    "name": "Siemens Software Center和Siemens Solid Edge SE2025代码问题漏洞",
+    "cnvd": "CNVD-2026-07569",
+    "publish": "2026-01-28",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"SIEMENS Software Center <V3.5\", \"Siemens Solid Edge SE2025 <V225.0 Update 10\"]",
+    "cve": "CVE-2025-40827",
+    "description": "Siemens Software Center是一款产品。提供了一个简单、统一的工具，使客户能够管理软件交付和实施。Siemens Solid Edge SE2025是德国西门子（Siemens）公司的一款开发软件。Siemens Software Center和Siemens Solid Edge SE2025存在代码问题漏洞，攻击者可利用该漏洞通过在系统上放置特制的DLL文件来执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://cert-portal.siemens.com/productcert/html/ssa-365596.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-365596.html",
+    "patch": "Siemens Software Center和Siemens Solid Edge SE2025代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-11-14",
+    "open_time": "2026-01-27",
+    "update_time": "2026-01-27",
+    "data_summary": "f477688e2238dc8ac071047b1f281321"
+}

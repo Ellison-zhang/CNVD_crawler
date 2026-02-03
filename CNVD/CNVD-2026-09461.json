@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 15:50:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-09461",
+    "spider_time": 1770105003810,
+    "name": "WordPress插件AWP Classifieds信息泄露漏洞",
+    "cnvd": "CNVD-2026-09461",
+    "publish": "2026-02-02",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"WordPress AWP Classifieds plugin <=4.4.3\"]",
+    "cve": "CVE-2026-24593",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件AWP Classifieds存在信息泄露漏洞，该漏洞源于向未授权控制范围暴露敏感系统信息，攻击者可利用该漏洞导致检索嵌入的敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://patchstack.com/database/Wordpress/Plugin/another-wordpress-classifieds-plugin/vulnerability/wordpress-awp-classifieds-plugin-4-4-3-sensitive-data-exposure-vulnerability?_s_id=cve",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://patchstack.com/database/Wordpress/Plugin/another-wordpress-classifieds-plugin/vulnerability/wordpress-awp-classifieds-plugin-4-4-3-sensitive-data-exposure-vulnerability?_s_id=cve",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-30",
+    "open_time": "2026-02-03",
+    "update_time": "2026-02-03",
+    "data_summary": "0dfce6a3ad6597b27178b143e1205fcf"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:42:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-08430",
+    "spider_time": 1770108171551,
+    "name": "iccDEV CIccXform::Create函数释放后重用漏洞",
+    "cnvd": "CNVD-2026-08430",
+    "publish": "2026-01-27",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"iccDEV iccDEV <=2.3.1\"]",
+    "cve": "CVE-2026-21675",
+    "description": "iccDEV提供了一套用于处理ICC颜色管理配置文件的库和工具。iccDEV存在释放后重用漏洞，该漏洞源于CIccXform::Create函数负责释放内存的指令发生混乱。攻击者可利用该漏洞导致程序崩溃，任意代码执行等。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/InternationalColorConsortium/iccDEV/commit/510baf58fa48e00ebbb5dd577f0db4af8876bb31",
+    "solution": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://github.com/InternationalColorConsortium/iccDEV/releases",
+    "patch": "iccDEV CIccXform::Create函数释放后重用漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-19",
+    "open_time": "2026-01-28",
+    "update_time": "2026-01-28",
+    "data_summary": "0fa8240d4c84fa61c83b78e0b00885ae"
+}

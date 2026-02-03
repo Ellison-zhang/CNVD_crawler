@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 15:51:37",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-06411",
+    "spider_time": 1770105097452,
+    "name": "杭州飞致云信息科技有限公司SQLBot存在命令执行漏洞",
+    "cnvd": "CNVD-2026-06411",
+    "publish": "2026-02-01",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"杭州飞致云信息科技有限公司 SQLBot\"]",
+    "cve": null,
+    "description": "SQLBot是一款基于大模型和RAG的智能问数系统。杭州飞致云信息科技有限公司SQLBot存在命令执行漏洞，攻击者可利用漏洞远程执行命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布最新版本v1.5.0修复漏洞，请广大用户及时下载更新：\nhttps://sqlbot.org/",
+    "patch": "杭州飞致云信息科技有限公司SQLBot存在命令执行漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-12-24",
+    "open_time": "2026-01-22",
+    "update_time": "2026-01-23",
+    "data_summary": "739db3c694bb2f500ae6f7eecd4ba9ee"
+}

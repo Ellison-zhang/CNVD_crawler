@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:24:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-07553",
+    "spider_time": 1770107070332,
+    "name": "WordPress插件EventPrime信息泄露漏洞",
+    "cnvd": "CNVD-2026-07553",
+    "publish": "2026-01-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"WordPress EventPrime plugin <=4.2.7.0\"]",
+    "cve": "CVE-2025-14507",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件EventPrime存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://plugins.trac.wordpress.org/browser/eventprime-event-calendar-management/trunk/includes/class-eventprime-rest-api.php#L447",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/eventprime-event-calendar-management",
+    "patch": "WordPress插件EventPrime信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-19",
+    "open_time": "2026-01-27",
+    "update_time": "2026-01-27",
+    "data_summary": "64b213f1dfb445d8cfb8d7c8567054f6"
+}

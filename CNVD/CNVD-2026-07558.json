@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:25:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-07558",
+    "spider_time": 1770107113407,
+    "name": "WordPress插件Ultimate Auction信息泄露漏洞",
+    "cnvd": "CNVD-2026-07558",
+    "publish": "2026-01-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"WordPress Ultimate Auction plugin <=4.3.2\"]",
+    "cve": "CVE-2025-66125",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件Ultimate Auction存在信息泄露漏洞，该漏洞源于插入敏感信息到发送数据中，攻击者可利用该漏洞导致检索嵌入的敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/ultimate-auction/vulnerability/wordpress-ultimate-auction-plugin-4-3-2-sensitive-data-exposure-vulnerability?_s_id=cve",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://vdp.patchstack.com/database/Wordpress/Plugin/ultimate-auction/vulnerability/wordpress-ultimate-auction-plugin-4-3-2-sensitive-data-exposure-vulnerability?_s_id=cve",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-22",
+    "open_time": "2026-01-27",
+    "update_time": "2026-01-27",
+    "data_summary": "7c407aa99dd5f5d90a3e28545a490bb8"
+}

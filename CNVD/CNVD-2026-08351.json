@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:20:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-08351",
+    "spider_time": 1770106811376,
+    "name": "Google Android信息泄露漏洞（CNVD-2026-08351）",
+    "cnvd": "CNVD-2026-08351",
+    "publish": "2026-01-29",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"Google Android 15.0\"]",
+    "cve": "CVE-2025-26424",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在信息泄露漏洞，该漏洞是由于VpnManager.java中多个函数的代码中的逻辑错误可能导致的跨用户数据泄漏造成的。攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://android.googlesource.com/platform/frameworks/base/+/1b4ee554c8234d1ac16105c92fee2ea0803b8a39",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-05-01",
+    "patch": "Google Android信息泄露漏洞（CNVD-2026-08351）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-08",
+    "open_time": "2026-01-28",
+    "update_time": "2026-01-28",
+    "data_summary": "9a15a75cfad89ad24bd8033ab7250303"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:24:46",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-07555",
+    "spider_time": 1770107086342,
+    "name": "WordPress插件eRoom信息泄露漏洞",
+    "cnvd": "CNVD-2026-07555",
+    "publish": "2026-01-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:P/I:P/A:P",
+    "product": "[\"WordPress eRoom plugin <=1.5.6\"]",
+    "cve": "CVE-2025-49919",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件eRoom存在信息泄露漏洞，该漏洞源于敏感信息嵌入发送数据，攻击者可利用该漏洞导致检索嵌入式敏感数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/eroom-zoom-meetings-webinar/vulnerability/wordpress-eroom-plugin-1-5-6-sensitive-data-exposure-vulnerability?_s_id=cve",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/eroom-zoom-meetings-webinar/",
+    "patch": "WordPress插件eRoom信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-25",
+    "open_time": "2026-01-27",
+    "update_time": "2026-01-27",
+    "data_summary": "6dbcd0b524beddd22d25d600bbfc74a9"
+}

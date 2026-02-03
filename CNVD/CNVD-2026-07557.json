@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:25:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-07557",
+    "spider_time": 1770107103698,
+    "name": "WordPress插件SendPulse Email Marketing Newsletter信息泄露漏洞",
+    "cnvd": "CNVD-2026-07557",
+    "publish": "2026-01-28",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"WordPress SendPulse Email Marketing Newsletter plugin <=2.2.1\"]",
+    "cve": "CVE-2025-67948",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件SendPulse Email Marketing Newsletter存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vdp.patchstack.com/database/Wordpress/Plugin/sendpulse-email-marketing-newsletter/vulnerability/wordpress-sendpulse-email-marketing-newsletter-plugin-2-2-1-sensitive-data-exposure-vulnerability?_s_id=cve",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/sendpulse-email-marketing-newsletter/",
+    "patch": "WordPress插件SendPulse Email Marketing Newsletter信息泄露漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-22",
+    "open_time": "2026-01-27",
+    "update_time": "2026-01-27",
+    "data_summary": "919916b92fd441e565c6f53f4b707a82"
+}

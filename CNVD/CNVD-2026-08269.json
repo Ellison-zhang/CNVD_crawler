@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-03 16:21:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-08269",
+    "spider_time": 1770106894271,
+    "name": "新华三技术有限公司H3C Magic AX3001存在信息泄露漏洞",
+    "cnvd": "CNVD-2026-08269",
+    "publish": "2026-01-28",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"新华三技术有限公司 H3C Magic AX3001 V1.0.2\"]",
+    "cve": null,
+    "description": "H3C Magic AX3001是一款家用千兆Wi-Fi 6无线路由器。新华三技术有限公司H3C Magic AX3001存在信息泄露漏洞，攻击者可利用漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布补丁修复漏洞，请广大用户及时下载更新：\nhttps://www.h3c.com/",
+    "patch": "新华三技术有限公司H3C Magic AX3001存在信息泄露漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-09-02",
+    "open_time": "2026-01-27",
+    "update_time": "2026-01-28",
+    "data_summary": "c421fcd10aab922f7ca7908ed5ade725"
+}
