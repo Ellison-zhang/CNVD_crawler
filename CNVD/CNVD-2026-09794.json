@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-04 15:36:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-09794",
+    "spider_time": 1770190598700,
+    "name": "Apache bRPC远程命令注入漏洞",
+    "cnvd": "CNVD-2026-09794",
+    "publish": "2026-01-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apache Apache bRPC >=1.11.0，<1.15.0\"]",
+    "cve": "CVE-2025-60021",
+    "description": "Apache bRPC是美国阿帕奇软件基金会的一套开源的RPC框架。Apache bRPC存在远程命令注入漏洞。攻击者可利用该漏洞执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "http://www.openwall.com/lists/oss-security/2026/01/16/4\nhttps://lists.apache.org/thread/xy51d2fx6drzhfp92xptsx5845q7b37m",
+    "solution": "目前厂商已发布升级补丁以修复漏洞。补丁获取链接：\nhttp://www.openwall.com/lists/oss-security/2026/01/16/4",
+    "patch": "Apache bRPC远程命令注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-29",
+    "open_time": "2026-02-04",
+    "update_time": "2026-02-04",
+    "data_summary": "d5324921858c32b2a0c4b164c00579a8"
+}

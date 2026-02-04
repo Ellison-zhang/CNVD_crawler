@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-04 15:28:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-09798",
+    "spider_time": 1770190127400,
+    "name": "Apache NiFi代码问题漏洞（CNVD-2026-09798）",
+    "cnvd": "CNVD-2026-09798",
+    "publish": "2026-02-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Apache Nifi >=1.20.0，<=2.6.0\"]",
+    "cve": "CVE-2025-66524",
+    "description": "Apache NiFi是美国阿帕奇（Apache）基金会的一套数据处理和分发系统。该系统主要用于数据路由、转换和系统中介逻辑。Apache NiFi存在代码问题漏洞，该漏洞源于GetAsanaObject Processor使用未过滤的Java对象反序列化，攻击者可利用该漏洞导致执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lists.apache.org/thread/k9h004ydjg7opdvxr0nfywtzf33z60d7\nhttp://www.openwall.com/lists/oss-security/2025/12/18/2\nhttps://access.redhat.com/security/cve/cve-2025-66524",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://nifi.apache.org/download/",
+    "patch": "Apache NiFi代码问题漏洞（CNVD-2026-09798）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-14",
+    "open_time": "2026-02-04",
+    "update_time": "2026-02-04",
+    "data_summary": "dd0b000b8601fce6bb1ef9abdaaa5a5b"
+}

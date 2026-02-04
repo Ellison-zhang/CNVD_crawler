@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-04 15:28:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-09795",
+    "spider_time": 1770190111717,
+    "name": "Apache NimBLE代码问题漏洞",
+    "cnvd": "CNVD-2026-09795",
+    "publish": "2026-02-04",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Apache NimBLE <1.9.0\"]",
+    "cve": "CVE-2025-53477",
+    "description": "Apache NimBLE是美国阿帕奇（Apache）基金会的一个开源蓝牙5.4堆栈（主机和控制器），完全取代Nordic芯片组上的专有SoftDevice。它是Apache Mynewt项目的一部分。Apache NimBLE 1.8.0及之前版本存在代码问题漏洞，该漏洞源于缺少对HCI连接完成或HCI命令TX缓冲区的验证，攻击者可利用该漏洞导致空指针取消引用。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/apache/mynewt-nimble/commit/0caf9baeb271ede85fcc5237ab87ddbf938600da",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://mynewt.apache.org/",
+    "patch": "Apache NimBLE代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-19",
+    "open_time": "2026-02-04",
+    "update_time": "2026-02-04",
+    "data_summary": "211ea6f5c2c762893ea064f1a4b54a97"
+}

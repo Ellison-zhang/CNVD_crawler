@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-04 15:40:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-08240",
+    "spider_time": 1770190826786,
+    "name": "上海居亦科技发展有限公司vigor 3900和vigor 2960存在命令执行漏洞",
+    "cnvd": "CNVD-2026-08240",
+    "publish": "2026-01-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"上海居亦科技发展有限公司 vigor 3900\", \"上海居亦科技发展有限公司 vigor 2960\"]",
+    "cve": null,
+    "description": "上海居亦科技发展有限公司专注于网络软硬件产品、软件研发、物联网等领域，是专业的系统集成服务商。上海居亦科技发展有限公司vigor 3900和vigor 2960存在命令执行漏洞，攻击者可利用漏洞远程执行命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布补丁修复漏洞，请广大用户及时下载更新：\nhttps://www.draytek.com.cn/",
+    "patch": "上海居亦科技发展有限公司vigor 3900和vigor 2960存在命令执行漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-10-22",
+    "open_time": "2026-01-27",
+    "update_time": "2026-01-28",
+    "data_summary": "c8016565b2269f2b9b6e93f6bcf9d0ee"
+}

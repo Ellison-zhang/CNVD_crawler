@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-04 15:32:04",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-09630",
+    "spider_time": 1770190324077,
+    "name": "MedDream PACS Premium modifyHL7App功能跨站脚本漏洞",
+    "cnvd": "CNVD-2026-09630",
+    "publish": "2026-02-03",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"MedDream PACS Premium 7.3.6.870\"]",
+    "cve": "CVE-2025-58080",
+    "description": "MedDream PACS Premium是MedDream公司的一款企业级图像存储与管理服务器套件。MedDream PACS Premium modifyHL7App功能存在跨站脚本漏洞，攻击者可利用该漏洞导致执行任意javascript代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://talosintelligence.com/vulnerability_reports/TALOS-2025-2264",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://meddream.com/products/meddream-pacs-server/",
+    "patch": "MedDream PACS Premium modifyHL7App功能跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-30",
+    "open_time": "2026-02-03",
+    "update_time": "2026-02-03",
+    "data_summary": "166acd950f4b75ae797c6fb0fba6f355"
+}

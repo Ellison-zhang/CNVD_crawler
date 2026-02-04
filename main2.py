@@ -355,6 +355,65 @@ def read_cnvd_from_csv(csv_file):
         return []
 
 
+def load_cnvd_list(list_file):
+    with open(list_file, "r", encoding="utf-8") as f:
+        items = json.load(f)
+    print(f'[{get_current_time()}][+] 已加载 {len(items)} 条记录')
+    return items
+
+
+def fetch_cnvd_list_page(client, num=100):
+    import time
+    list_url = f"https://www.cnvd.org.cn/flaw/list?numPerPage={num}&offset=0&max={num}"
+    client.page.goto(list_url, timeout=60000)
+    max_checks = 30
+    list_loaded = False
+    for check_idx in range(max_checks):
+        try:
+            if client.page.query_selector("table.tlist"):
+                print(f'[{get_current_time()}][+] 成功检测到列表数据表格！')
+                client.page.wait_for_timeout(3000)
+                list_loaded = True
+                break
+            title = client.page.title()
+            content = client.page.content()
+            if "验证码" in title or "安全检查" in title or "请输入验证码" in content or "疑似攻击" in content or "403 Forbidden" in title:
+                print(f'[{get_current_time()}][!] 检测到验证码或疑似攻击 (第 {check_idx+1} 次检查)，尝试处理...')
+                if client.solve_captcha():
+                    print(f'[{get_current_time()}][+] 验证码已提交，等待页面跳转...')
+                    client.page.wait_for_timeout(3000)
+                else:
+                    print(f'[{get_current_time()}][!] 自动识别步骤失败，刷新验证码...')
+                    client.refresh_captcha()
+                    time.sleep(2)
+                continue
+            print(f'[{get_current_time()}][.] 页面加载中或状态未知，等待 2 秒... Title: {title}')
+            time.sleep(2)
+        except Exception as e:
+            print(f'[{get_current_time()}][!] 检查页面状态时出错: {e}')
+            time.sleep(2)
+    if not list_loaded:
+        print(f'[{get_current_time()}][!] 无法加载列表页或验证码一直无法通过，保存当前页面调试...')
+        with open("list_page_fail.html", "w", encoding="utf-8") as f:
+            f.write(client.page.content())
+        return []
+    client.page.wait_for_load_state("domcontentloaded")
+    list_content = client.page.content()
+    with open("list_page_debug.html", "w", encoding="utf-8") as f:
+        f.write(list_content)
+    print(f'[{get_current_time()}][+] 已保存列表页HTML到 list_page_debug.html')
+    cnvd_items = parse_cnvd_list(list_content)
+    print(f'[{get_current_time()}][+] 获取到 {len(cnvd_items)} 条记录')
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    list_save_file = f"cnvd_list_{timestamp}.json"
+    try:
+        with open(list_save_file, "w", encoding="utf-8") as f:
+            json.dump(cnvd_items, f, ensure_ascii=False, indent=4)
+        print(f'[{get_current_time()}][+] 已保存CNVD列表到本地: {list_save_file}')
+    except Exception as e:
+        print(f'[{get_current_time()}][!] 保存列表文件失败: {e}')
+    return cnvd_items
+
 def download_cnvd_detail(cnvd_id, client, output_dir='CNVD'):
     """下载单个CNVD详情"""
     import time
@@ -714,12 +773,16 @@ def crawl_todays_cnvds(db_url, output_dir='CNVD'):
     client.start()
     
     try:
-        # 跳过列表抓取，直接加载本地列表文件
-        print(f'[{get_current_time()}][+] 跳过列表抓取，直接加载本地列表文件...')
-        list_file = "cnvd_list_20260203_155354.json"
-        with open(list_file, "r", encoding="utf-8") as f:
-            cnvd_items = json.load(f)
-        print(f'[{get_current_time()}][+] 已加载 {len(cnvd_items)} 条记录')
+        # 1. 访问首页预热
+        print(f'[{get_current_time()}][+] 步骤1: 访问首页预热...')
+        try:
+            client.ensure_clearance()
+        except Exception as e:
+            print(f'[{get_current_time()}][!] 预热过程出错 (可能已通过或超时): {e}')
+
+        # 2. 获取列表
+        print(f'[{get_current_time()}][+] 步骤2: 获取最新列表...')
+        cnvd_items = fetch_cnvd_list_page(client)
         
         # 3. 直接获取所有记录 (不再筛选日期)
         target_cnvds = [item['cnvd_id'] for item in cnvd_items]

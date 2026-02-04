@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-04 15:40:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-08212",
+    "spider_time": 1770190818518,
+    "name": "湖南强智科技发展有限公司强智科技教务系统存在SQL注入漏洞",
+    "cnvd": "CNVD-2026-08212",
+    "publish": "2026-01-28",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"湖南强智科技发展有限公司 强智科技教务系统\"]",
+    "cve": null,
+    "description": "强智科技教务系统是一套面向高校的数字化教学与管理平台。湖南强智科技发展有限公司强智科技教务系统存在SQL注入漏洞，攻击者可利用漏洞获取数据库敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布补丁修复漏洞，请广大用户及时下载更新：\nhttp://www.qzdatasoft.com/",
+    "patch": "湖南强智科技发展有限公司强智科技教务系统存在SQL注入漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-10-23",
+    "open_time": "2026-01-27",
+    "update_time": "2026-01-28",
+    "data_summary": "ca014ad90a40605d1e35384ab79a96b4"
+}

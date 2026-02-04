@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-04 15:35:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-09789",
+    "spider_time": 1770190549150,
+    "name": "Apache Hadoop HDFS越界写入漏洞",
+    "cnvd": "CNVD-2026-09789",
+    "publish": "2026-01-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"Apache Hadoop >=3.2.0，<3.4.2\"]",
+    "cve": "CVE-2025-27821",
+    "description": "Apache Hadoop是一套用于在由通用硬件构建的大型集群上运行应用程序的框架。它实现了Map/Reduce编程范型，计算任务会被分割成小块（多次）运行在不同的节点上。Apache Hadoop存在越界写入漏洞。该漏洞是由于程序未对用户输入的URI进行严格的边界检查。攻击者可利用该漏洞通过远程发送特制的恶意代码，引发客户端崩溃、数据损坏或执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-27821",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新:\nhttps://issues.apache.org/jira/browse/HDFS-17754",
+    "patch": "Apache Hadoop HDFS越界写入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-30",
+    "open_time": "2026-02-04",
+    "update_time": "2026-02-04",
+    "data_summary": "b08d42c0ae4e99b1a0753bdf5818455d"
+}

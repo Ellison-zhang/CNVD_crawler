@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-04 15:36:31",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-09793",
+    "spider_time": 1770190591174,
+    "name": "Apache Solr输入验证错误漏洞",
+    "cnvd": "CNVD-2026-09793",
+    "publish": "2026-01-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:P/A:N",
+    "product": "[\"Apache Solr >=5.3.0，<9.10.1\"]",
+    "cve": "CVE-2026-22022",
+    "description": "Apache Solr是美国阿帕奇（Apache）基金会的一款基于Lucene（一款全文搜索引擎）的搜索服务器。该产品支持层面搜索、垂直搜索、高亮显示搜索结果等。Apache Solr存在输入验证错误漏洞，该漏洞源于基于规则的授权插件输入验证不足，攻击者可利用该漏洞导致对某些Solr API的未授权访问。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lists.apache.org/thread/d59hqbgo7p62myq7mgfpz7or8n1j7wbn",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://solr.apache.org/",
+    "patch": "Apache Solr输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-30",
+    "open_time": "2026-02-04",
+    "update_time": "2026-02-04",
+    "data_summary": "9d07f8e785d565d5da2e56a43b96abb3"
+}

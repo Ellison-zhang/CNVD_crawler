@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-04 15:36:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-09799",
+    "spider_time": 1770190609910,
+    "name": "Adobe InCopy缓冲区溢出漏洞（CNVD-2026-09799）",
+    "cnvd": "CNVD-2026-09799",
+    "publish": "2026-01-30",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe InCopy <=19.5.5\", \"Adobe InCopy <=21.0\"]",
+    "cve": "CVE-2026-21281",
+    "description": "Adobe InCopy是美国奥多比（Adobe）公司的一款用于创作的文本编辑软件。Adobe InCopy存在缓冲区溢出漏洞，该漏洞源于程序未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2026-21281",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/incopy/apsb26-04.html",
+    "patch": "Adobe InCopy缓冲区溢出漏洞（CNVD-2026-09799）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-19",
+    "open_time": "2026-02-04",
+    "update_time": "2026-02-04",
+    "data_summary": "bc69bb7033d0b0c9dd08193ab7de2271"
+}

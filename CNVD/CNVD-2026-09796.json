@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-04 15:36:59",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-09796",
+    "spider_time": 1770190619715,
+    "name": "Apache Uniffle信任管理问题漏洞",
+    "cnvd": "CNVD-2026-09796",
+    "publish": "2026-01-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:N",
+    "product": "[\"Apache Uniffle <0.10.0\"]",
+    "cve": "CVE-2025-68637",
+    "description": "Apache Uniffle是Apache基金会的一个远程混洗服务。Apache Uniffle存在信任管理问题漏洞，该漏洞源于HTTP客户端配置不安全，信任所有SSL证书并禁用主机名验证，攻击者可利用该漏洞导致中间人攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://lists.apache.org/thread/trvdd11hmpbjno3t8rc9okr4t036ox2v",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://uniffle.apache.org/",
+    "patch": "Apache Uniffle信任管理问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-19",
+    "open_time": "2026-02-04",
+    "update_time": "2026-02-04",
+    "data_summary": "559006617e998580cf24c2cd77aff3c2"
+}

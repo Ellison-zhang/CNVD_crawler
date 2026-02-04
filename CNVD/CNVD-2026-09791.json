@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-04 15:36:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-09791",
+    "spider_time": 1770190577441,
+    "name": "Apache Linkis授权问题漏洞",
+    "cnvd": "CNVD-2026-09791",
+    "publish": "2026-01-30",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Apache linkis >=1.3.0，<1.8.0\"]",
+    "cve": "CVE-2025-29847",
+    "description": "Apache Linkis是美国阿帕奇（Apache）基金会的一款中间件产品，可以在上层应用和底层数据引擎之间建立起有效的连接。Apache Linkis存在授权问题漏洞，该漏洞源于前端配置的URL参数经过多轮URL编码可能绕过系统检查，攻击者可利用该漏洞导致通过JDBC参数未经授权访问系统文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-29847",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://linkis.apache.org/",
+    "patch": "Apache Linkis授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-30",
+    "open_time": "2026-02-04",
+    "update_time": "2026-02-04",
+    "data_summary": "83bc25e2ce84e3b12a265b2b94bdd35b"
+}
