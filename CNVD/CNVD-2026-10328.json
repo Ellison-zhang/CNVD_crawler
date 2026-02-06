@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-06 16:48:28",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10328",
+    "spider_time": 1770367708291,
+    "name": "Google Pixel gxp_fence_manager.cc文件输入验证错误漏洞",
+    "cnvd": "CNVD-2026-10328",
+    "publish": "2026-02-06",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Google Pixel\"]",
+    "cve": "CVE-2025-36929",
+    "description": "Google Pixel是美国谷歌（Google）公司的一款智能手机。Google Pixel存在输入验证错误漏洞，该漏洞源于gxp_fence_manager.cc中的AreFencesRegistered输入验证不当，攻击者可利用该漏洞导致本地信息泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36929",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/pixel/2025-12-01",
+    "patch": "Google Pixel gxp_fence_manager.cc文件输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-18",
+    "open_time": "2026-02-06",
+    "update_time": "2026-02-06",
+    "data_summary": "2ec615cf09b39a550ceb905a60ffd08b"
+}

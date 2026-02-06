@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-06 16:50:17",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10355",
+    "spider_time": 1770367817346,
+    "name": "D-Link DIR-860L命令注入漏洞",
+    "cnvd": "CNVD-2026-10355",
+    "publish": "2026-02-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"D-Link DIR-860L 2.04.B04\"]",
+    "cve": "CVE-2025-9026",
+    "description": "D-Link DIR-860L是中国友讯（D-Link）公司的一款无线路由器。D-Link DIR-860L存在命令注入漏洞，该漏洞是由于组件简单服务发现协议的htdocs/cgibin文件的函数ssdpcgi_main中的缺陷引起的。攻击者可利用该漏洞在系统上执行任意操作系统命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-9026",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/i-Corner/cve/issues/17",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-08-26",
+    "open_time": "2026-02-06",
+    "update_time": "2026-02-06",
+    "data_summary": "380706debf82bec209afb086036421ac"
+}

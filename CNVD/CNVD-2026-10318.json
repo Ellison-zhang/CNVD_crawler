@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-06 16:49:40",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10318",
+    "spider_time": 1770367780090,
+    "name": "Tenda AX1806 fromSetSysTime函数堆栈溢出漏洞",
+    "cnvd": "CNVD-2026-10318",
+    "publish": "2026-02-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Tenda AX1806 v1.0.0.1\"]",
+    "cve": "CVE-2025-70746",
+    "description": "Tenda AX1806是中国腾达（Tenda）公司的一个WiFi6无线路由器。Tenda AX1806 fromSetSysTime函数存在堆栈溢出漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-70746",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.tenda.com.cn/download/detail-3421.html",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2026-01-30",
+    "open_time": "2026-02-06",
+    "update_time": "2026-02-06",
+    "data_summary": "9e84324dd2d9f626eed5c418e6fade2b"
+}

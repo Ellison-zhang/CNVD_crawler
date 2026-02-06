@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-06 16:47:41",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10323",
+    "spider_time": 1770367661934,
+    "name": "Google Pixel gxp_buffer.h文件缓冲区溢出漏洞",
+    "cnvd": "CNVD-2026-10323",
+    "publish": "2026-02-06",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google Pixel\"]",
+    "cve": "CVE-2025-36931",
+    "description": "Google Pixel是美国谷歌（Google）公司的一款智能手机。Google Pixel存在缓冲区溢出漏洞，该漏洞源于gxp_buffer.h中的GetHostAddress缺少边界检查，攻击者可利用该漏洞导致本地权限提升。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-36931",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/pixel/2025-12-01",
+    "patch": "Google Pixel gxp_buffer.h文件缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-18",
+    "open_time": "2026-02-06",
+    "update_time": "2026-02-06",
+    "data_summary": "d8dd1da08aea06591decbd8dd7bcbb4a"
+}

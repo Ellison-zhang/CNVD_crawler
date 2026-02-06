@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-06 16:49:16",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10312",
+    "spider_time": 1770367756535,
+    "name": "Oracle MySQL Server存在未明漏洞（CNVD-2026-10312）",
+    "cnvd": "CNVD-2026-10312",
+    "publish": "2026-02-05",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:N/I:N/A:C",
+    "product": "[\"Oracle MySQL Server >=9.0.0，<=9.5.0\"]",
+    "cve": "CVE-2026-21952",
+    "description": "Oracle MySQL Server是美国甲骨文（Oracle）公司的一款关系型数据库。Oracle MySQL Server存在安全漏洞，攻击者可利用该漏洞导致数据库挂起或频繁崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://access.redhat.com/security/cve/cve-2026-21952",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpujan2026.html",
+    "patch": "Oracle MySQL Server存在未明漏洞（CNVD-2026-10312）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-30",
+    "open_time": "2026-02-06",
+    "update_time": "2026-02-06",
+    "data_summary": "dd9fcecda4402d53f3d0996e84810129"
+}

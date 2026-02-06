@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-06 16:50:08",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10358",
+    "spider_time": 1770367808629,
+    "name": "Digilent DASYLab越界写入漏洞（CNVD-2026-10358）",
+    "cnvd": "CNVD-2026-10358",
+    "publish": "2026-02-05",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Digilent DASYLab\"]",
+    "cve": "CVE-2025-57776",
+    "description": "Digilent DASYLab是Digilent公司的一款图形化数据采集应用开发平台。Digilent DASYLab存在越界写入漏洞，该漏洞源于解析DSB文件时边界检查不当，攻击者可利用该漏洞导致执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-57776",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.ni.com/en/support/security/available-critical-and-security-updates-for-ni-software/memory-corruption-vulnerabilities-in-digilent-dasylab.html",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-09-04",
+    "open_time": "2026-02-06",
+    "update_time": "2026-02-06",
+    "data_summary": "a680238e8b8bfd05902ccf1b92fa38a3"
+}

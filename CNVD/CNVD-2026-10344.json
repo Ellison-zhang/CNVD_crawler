@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-06 16:48:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10344",
+    "spider_time": 1770367719387,
+    "name": "Siemens RUGGEDCOM输入验证错误漏洞",
+    "cnvd": "CNVD-2026-10344",
+    "publish": "2026-02-06",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:N/A:P",
+    "product": "[\"SIEMENS RUGGEDCOM RMC8388 V5.X <V5.10.1\", \"SIEMENS RUGGEDCOM RS416Pv2 V5.X <V5.10.1\", \"SIEMENS RUGGEDCOM RS416v2 V5.X <V5.10.1\", \"SIEMENS RUGGEDCOM RS900 (32M) V5.X <V5.10.1\", \"SIEMENS RUGGEDCOM RS900G (32M) V5.X <V5.10.1\", \"SIEMENS RUGGEDCOM RSG2100 (32M) V5.X <V5.10.1\", \"SIEMENS RUGGEDCOM RSG2100P (32M) V5.X <V5.10.1\", \"SIEMENS RUGGEDCOM RSG2288 V5.X <V5.10.1\", \"SIEMENS RUGGEDCOM RSG2300 V5.X <V5.10.1\", \"SIEMENS RUGGEDCOM RSG2300P V5.X <V5.10.1\", \"SIEMENS RUGGEDCOM RSG2488 V5.X <V5.10.1\", \"Siemens RUGGEDCOM RSG907R <V5.10.1\", \"Siemens RUGGEDCOM RSG908C <V5.10.1\", \"Siemens RUGGEDCOM RSG909R <V5.10.1\", \"Siemens RUGGEDCOM RSG910C <V5.10.1\", \"SIEMENS RUGGEDCOM RSG920P V5.X <V5.10.1\", \"Siemens RUGGEDCOM RSL910 <V5.10.1\", \"Siemens RUGGEDCOM RST2228 <V5.10.1\", \"Siemens RUGGEDCOM RST2228P <V5.10.1\", \"Siemens RUGGEDCOM RST916C <V5.10.1\", \"Siemens RUGGEDCOM RST916P <V5.10.1\"]",
+    "cve": "CVE-2025-40935",
+    "description": "Siemens RUGGEDCOM是德国西门子（Siemens）公司的一个通信设备。为电力，交通，石油和天然气及其他行业提供快速可靠的通信。Siemens RUGGEDCOM存在输入验证错误漏洞，该漏洞源于TLS证书上传过程中输入验证不足，攻击者可利用该漏洞导致设备崩溃和重启。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-40935",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-763474.html",
+    "patch": "Siemens RUGGEDCOM输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-15",
+    "open_time": "2026-02-06",
+    "update_time": "2026-02-06",
+    "data_summary": "462a5e6890aacd6dcd982123c307f68b"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-06 16:49:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10343",
+    "spider_time": 1770367787616,
+    "name": "D-Link DAP-1325访问控制错误漏洞",
+    "cnvd": "CNVD-2026-10343",
+    "publish": "2026-02-05",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"D-Link DAP-1325 1.01\"]",
+    "cve": "CVE-2023-53896",
+    "description": "D-Link DAP-1325是中国友讯（D-Link）公司的一款无线接入点/桥接器，主要用于提供无线网络覆盖，并具备桥接功能，可以将有线网络转换为无线网络或将两个无线网络连接起来。D-Link DAP-1325在访问控制错误漏洞，攻击者可利用该漏洞下载设备配置设置。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-53896",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dlink.com/hr/hr/products/dap-1325-n300-wifi-range-extender",
+    "patch": "D-Link DAP-1325访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-25",
+    "open_time": "2026-02-06",
+    "update_time": "2026-02-06",
+    "data_summary": "f532bee0afa8eb748e7cc3bc26bad7df"
+}

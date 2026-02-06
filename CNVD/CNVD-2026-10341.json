@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-06 16:48:48",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10341",
+    "spider_time": 1770367728897,
+    "name": "Rockwell Automation FactoryTalk Services Platform授权问题漏洞",
+    "cnvd": "CNVD-2026-10341",
+    "publish": "2026-02-06",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:N/I:N/A:C",
+    "product": "[\"Rockwell Automation FactoryTalk Services Platform 6.11.0\"]",
+    "cve": "CVE-2023-2638",
+    "description": "Rockwell Automation FactoryTalk Services Platform是美国罗克韦尔（Rockwell Automation）公司的一套由多个产品组成的服务平台，它为应用程序提供常规服务，如诊断信息、健康监视和实时数据访问等。Rockwell Automation FactoryTalk Services Platform存在安全漏洞，该漏洞源于不会验证备份配置存档是否受密码保护，可能会导致加载恶意配置存档，经过身份验证的攻击者可利用该漏洞制作恶意的备份存档。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2023-2638",
+    "solution": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1139683",
+    "patch": "Rockwell Automation FactoryTalk Services Platform授权问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2023-06-19",
+    "open_time": "2026-02-06",
+    "update_time": "2026-02-06",
+    "data_summary": "b7d679df18298f636f13cfda6115ec9e"
+}
