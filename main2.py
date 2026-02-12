@@ -769,7 +769,7 @@ def crawl_todays_cnvds(db_url, output_dir='CNVD'):
     print(f'\n[{get_current_time()}][+] ========== 开始获取当天CNVD数据 ==========\n')
     
     # 初始化浏览器
-    client = CNVDBrowserClient(headless=False, proxy="192.168.110.12:11111")
+    client = CNVDBrowserClient(headless=False)
     client.start()
     
     try:
@@ -804,8 +804,14 @@ def crawl_todays_cnvds(db_url, output_dir='CNVD'):
                 success, reason = download_cnvd_detail(cnvd_id, client, output_dir)
                 
                 if not success and reason == "IP被拦截":
-                    print(f'[{get_current_time()}][!] IP被拦截，休眠2分钟...')
-                    time.sleep(120)
+                    print(f'[{get_current_time()}][!] IP被拦截，准备休眠10分钟 (按 Ctrl+C 可跳过等待)')
+                    try:
+                        for remaining in range(600, 0, -1):
+                            print(f"\r[{get_current_time()}][!] 倒计时: {remaining} 秒   ", end="", flush=True)
+                            time.sleep(1)
+                        print() # 换行
+                    except KeyboardInterrupt:
+                        print(f'\n[{get_current_time()}][!] 用户手动跳过等待，继续执行...')
                     continue
                     
                 if success:

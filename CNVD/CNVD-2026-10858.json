@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:38:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10858",
+    "spider_time": 1770885518757,
+    "name": "Adobe Substance 3D Modeler越界写入漏洞（CNVD-2026-10858）",
+    "cnvd": "CNVD-2026-10858",
+    "publish": "2026-02-12",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Adobe Substance3D Modeler <=1.22.4\"]",
+    "cve": "CVE-2026-21299",
+    "description": "Adobe Substance 3D Modeler是一款专注于3D雕刻的软件，允许用户在桌面和VR环境中使用数字黏土般直观的工具创建3D模型.。Adobe Substance 3D Modeler存在越界写入漏洞，攻击者可利用该漏洞在系统上执行代码，或导致应用程序崩溃。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/substance3d-modeler/apsb26-08.html",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttps://helpx.adobe.com/security/products/substance3d-modeler/apsb26-08.html",
+    "patch": "Adobe Substance 3D Modeler越界写入漏洞（CNVD-2026-10858）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-19",
+    "open_time": "2026-02-10",
+    "update_time": "2026-02-10",
+    "data_summary": "8095ede23aad2d04a48a6ab0b86973fa"
+}

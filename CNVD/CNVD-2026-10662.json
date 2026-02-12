@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:45:49",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10662",
+    "spider_time": 1770885949450,
+    "name": "IBM Concert信息泄露漏洞（CNVD-2026-10662）",
+    "cnvd": "CNVD-2026-10662",
+    "publish": "2026-02-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:N/C:C/I:N/A:N",
+    "product": "[\"IBM Concert >=1.0.0，<2.1.0\"]",
+    "cve": "CVE-2025-1719",
+    "description": "IBM Concert是美国国际商业机器（IBM）公司的一种新工具。使用生成式AI来帮助管理复杂的云原生应用程序。IBM Concert存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.ibm.com/support/pages/node/7257006",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/products/concert",
+    "patch": "IBM Concert信息泄露漏洞（CNVD-2026-10662）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-30",
+    "open_time": "2026-02-09",
+    "update_time": "2026-02-09",
+    "data_summary": "83e718b11423bb7f28866dabbc187759"
+}

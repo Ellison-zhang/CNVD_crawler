@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:38:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-06390",
+    "spider_time": 1770885537383,
+    "name": "北京星网锐捷网络技术有限公司RG-EST350 V2存在命令执行漏洞",
+    "cnvd": "CNVD-2026-06390",
+    "publish": "2026-02-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"北京星网锐捷网络技术有限公司 RG-EST350 V2 V3.0\"]",
+    "cve": null,
+    "description": "Ruijie EST350-V2是锐捷睿易针对塔吊、厂房、景区、园区、种植基地,鱼塘养殖基地、工地等场景下的监控视频回传或数据无线远传等业务,推出的一款支持802.11ac协议的无线室外网桥产品。北京星网锐捷网络技术有限公司RG-EST350 V2存在命令执行漏洞，攻击者可利用漏洞远程执行命令，获取服务器权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": null,
+    "solution": "厂商已发布补丁修复漏洞，请广大用户及时下载更新：\nhttps://www.ruijie.com.cn/fw/rj/290843/",
+    "patch": "北京星网锐捷网络技术有限公司RG-EST350 V2存在命令执行漏洞的补丁",
+    "verify": "已验证",
+    "submit_time": "2025-12-30",
+    "open_time": "2026-01-22",
+    "update_time": "2026-01-23",
+    "data_summary": "ed91354b37f096083d2773edbdae8cee"
+}

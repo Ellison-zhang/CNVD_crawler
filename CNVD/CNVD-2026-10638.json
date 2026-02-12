@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:48:56",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10638",
+    "spider_time": 1770886136851,
+    "name": "Tenda AX1803缓冲区溢出漏洞（CNVD-2026-10638）",
+    "cnvd": "CNVD-2026-10638",
+    "publish": "2026-02-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda AX1803 1.0.0.1\"]",
+    "cve": "CVE-2026-1329",
+    "description": "Tenda AX1803是中国腾达（Tenda）公司的一款双频千兆WIFI6路由器。Tenda AX1803存在缓冲区溢出漏洞，该漏洞是由于/goform/WifiGuestSet文件的GetWifiGuestBasic函数的边界检查不正确造成的。攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2026-1329",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://river-brow-763.notion.site/Tenda-AX1803-Buffer-Overflow-in-fromGetWifiGusetBasic-2e3a595a7aef80a78225db34317daa40#2e3a595a7aef801ab517e4af5631227a",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-30",
+    "open_time": "2026-02-09",
+    "update_time": "2026-02-09",
+    "data_summary": "4510b4a55f2e18da3ed899f7558fe47d"
+}

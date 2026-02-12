@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:41:23",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10656",
+    "spider_time": 1770885683773,
+    "name": "IBM ApplinX跨站请求伪造漏洞（CNVD-2026-10656）",
+    "cnvd": "CNVD-2026-10656",
+    "publish": "2026-02-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+    "product": "[\"IBM ApplinX 11.1\"]",
+    "cve": "CVE-2025-36411",
+    "description": "IBM ApplinX是美国国际商业机器（IBM）公司的一个专注于将绿屏界面转换为基于Web的现代应用程序。IBM ApplinX存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户，攻击者可利用该漏洞导致执行恶意和未经授权的操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.ibm.com/support/pages/node/7257446",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7257446",
+    "patch": "IBM ApplinX跨站请求伪造漏洞（CNVD-2026-10656）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-30",
+    "open_time": "2026-02-09",
+    "update_time": "2026-02-09",
+    "data_summary": "bcbe9052eae2102a6ff0b340d26cf5b7"
+}

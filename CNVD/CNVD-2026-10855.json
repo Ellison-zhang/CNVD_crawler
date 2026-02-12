@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:46:57",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10855",
+    "spider_time": 1770886017111,
+    "name": "Rockwell Automation CompactLogix 5370拒绝服务漏洞",
+    "cnvd": "CNVD-2026-10855",
+    "publish": "2026-02-10",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Rockwell Automation CompactLogix 5370 <=34.013\", \"Rockwell Automation CompactLogix 5370 <=35.012\", \"Rockwell Automation CompactLogix 5370 <=36.011\"]",
+    "cve": "CVE-2025-11743",
+    "description": "Rockwell Automation CompactLogix 5370是美国罗克韦尔（Rockwell Automation）公司的一款可编程逻辑控制器。Rockwell Automation CompactLogix 5370存在拒绝服务漏洞，该漏洞源于发送格式错误的CIP forward open消息，攻击者可利用该漏洞导致重大不可恢复故障，需要重启才能恢复。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1770.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1770.html",
+    "patch": "Rockwell Automation CompactLogix 5370拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-30",
+    "open_time": "2026-02-10",
+    "update_time": "2026-02-10",
+    "data_summary": "072fa6a39c9dee9006f7b7054db00c48"
+}

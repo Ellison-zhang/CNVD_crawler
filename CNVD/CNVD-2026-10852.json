@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:46:43",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10852",
+    "spider_time": 1770886003484,
+    "name": "Rockwell Automation ArmorStart LT拒绝服务漏洞（CNVD-2026-10852）",
+    "cnvd": "CNVD-2026-10852",
+    "publish": "2026-02-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Rockwell Automation ArmorStart LT <=V2.002\"]",
+    "cve": "CVE-2025-9283",
+    "description": "Rockwell Automation ArmorStart LT是美国罗克韦尔（Rockwell Automation）公司的一款分布式电机控制器。Rockwell Automation ArmorStart LT存在拒绝服务漏洞，该漏洞源于执行Achilles EtherNet/IP Step Limits Storms测试时设备意外重启，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1768.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1768.html",
+    "patch": "Rockwell Automation ArmorStart LT拒绝服务漏洞（CNVD-2026-10852）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-30",
+    "open_time": "2026-02-10",
+    "update_time": "2026-02-10",
+    "data_summary": "1d72f2898b586cc08420475fabfdcf8e"
+}

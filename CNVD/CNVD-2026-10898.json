@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:47:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10898",
+    "spider_time": 1770886032735,
+    "name": "Adobe Creative Cloud Desktop Application拒绝服务漏洞（CNVD-2026-10898）",
+    "cnvd": "CNVD-2026-10898",
+    "publish": "2026-02-10",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"Adobe Creative Cloud Desktop Application <=6.4.0.361\"]",
+    "cve": "CVE-2025-64896",
+    "description": "Adobe Creative Cloud Desktop Application是美国奥多比（Adobe）公司的一套用于在Creative云会员管理中心管理应用程序和服务的应用程序。该程序支持同步和共享文件、管理字体以及访问商业摄影和设计的资产库。Adobe Creative Cloud Desktop Application存在拒绝服务漏洞，该漏洞是由于在目录中创建了具有不正确权限的临时文件造成的，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://helpx.adobe.com/security/products/creative-cloud/apsb25-120.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/download-install/apps/download-install-apps/creative-cloud-apps/download-creative-cloud-desktop-app-from-web.html",
+    "patch": "Adobe Creative Cloud Desktop Application拒绝服务漏洞（CNVD-2026-10898）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-12-15",
+    "open_time": "2026-02-10",
+    "update_time": "2026-02-10",
+    "data_summary": "064caf40300377ff81d536146c172b52"
+}

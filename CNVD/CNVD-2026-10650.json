@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:48:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10650",
+    "spider_time": 1770886098404,
+    "name": "Google Go代码执行漏洞（CNVD-2026-10650）",
+    "cnvd": "CNVD-2026-10650",
+    "publish": "2026-02-09",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Google GO >=1.25.0，<1.25.6\", \"Google GO <1.24.12\"]",
+    "cve": "CVE-2025-68119",
+    "description": "Google Go是美国谷歌（Google）公司的一种静态强类型、编译型、并发型，并具有垃圾回收功能的编程语言。Google Go存在代码执行漏洞，该漏洞是由于在处理cmd/Go包中不受信任的模块源或恶意版本字符串时，外部VCS命令的不安全构造造成的。攻击者可利用该漏洞在系统上执行任意代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2025-68119",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://go.dev/dl/",
+    "patch": "Google Go代码执行漏洞（CNVD-2026-10650）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-02-05",
+    "open_time": "2026-02-09",
+    "update_time": "2026-02-09",
+    "data_summary": "dba312a0f92b1800f505771b6ededf5f"
+}

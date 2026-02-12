@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:39:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10856",
+    "spider_time": 1770885547065,
+    "name": "Rockwell Automation FactoryTalk Linx权限提升漏洞",
+    "cnvd": "CNVD-2026-10856",
+    "publish": "2026-02-12",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Rockwell Automation FactoryTalk Linx <=6.40\"]",
+    "cve": "CVE-2025-9067",
+    "description": "Rockwell Automation FactoryTalk Linx是美国罗克韦尔（Rockwell Automation）公司的一套工业通信解决方案。该产品主要用于小型应用程序与大型自动化系统等通信。Rockwell Automation FactoryTalk Linx存在权限提升漏洞，该漏洞是由于x86 Microsoft Installer File（MSI）中的缺陷引起的。攻击者可利用该漏洞启动修复并劫持由此产生的控制台窗口。导致以SYSTEM权限运行命令提示符并获得完全系统访问权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1754.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1754.html",
+    "patch": "Rockwell Automation FactoryTalk Linx权限提升漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-10-17",
+    "open_time": "2026-02-10",
+    "update_time": "2026-02-10",
+    "data_summary": "453ef08e4a2d133b30c0ac2332ca82fa"
+}

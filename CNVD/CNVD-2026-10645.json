@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:48:26",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10645",
+    "spider_time": 1770886106674,
+    "name": "Google Chrome信息泄露漏洞（CNVD-2026-10645）",
+    "cnvd": "CNVD-2026-10645",
+    "publish": "2026-02-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"Google Chrome <144.0.7559.110\"]",
+    "cve": "CVE-2026-1504",
+    "description": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。Google Chrome存在信息泄露漏洞，该漏洞是由于后台获取AP中的不当实现造成的。攻击者可利用该漏洞泄露跨源数据。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_27.html",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_27.html",
+    "patch": "Google Chrome信息泄露漏洞（CNVD-2026-10645）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-02-05",
+    "open_time": "2026-02-09",
+    "update_time": "2026-02-09",
+    "data_summary": "ed3a2a4e6fc6a302682b1a3039734683"
+}

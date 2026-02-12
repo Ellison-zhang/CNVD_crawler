@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:49:15",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10640",
+    "spider_time": 1770886155433,
+    "name": "D-Link DNS-343 ShareCenter命令执行漏洞",
+    "cnvd": "CNVD-2026-10640",
+    "publish": "2026-02-09",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"D-Link DNS-343 ShareCenter <=1.05\"]",
+    "cve": "CVE-2018-25120",
+    "description": "D-Link DNS-343 ShareCenter是中国友讯（D-Link）公司的一个网络存储设备。D-Link DNS-343 ShareCenter存在命令执行漏洞，该漏洞源于Mail Test功能中对输入验证不足，攻击者可利用该漏洞在系统上执行任意命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2018-25120",
+    "solution": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttp://sharecenter.dlink.com/products/DNS-343",
+    "patch": "(无补丁信息)",
+    "verify": "已验证",
+    "submit_time": "2025-11-05",
+    "open_time": "2026-02-09",
+    "update_time": "2026-02-09",
+    "data_summary": "920b4bc1b504a845711879ed79d7845a"
+}

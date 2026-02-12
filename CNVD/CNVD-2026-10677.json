@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:37:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10677",
+    "spider_time": 1770885471546,
+    "name": "Microsoft Windows SMB Server权限提升漏洞（CNVD-2026-10677）",
+    "cnvd": "CNVD-2026-10677",
+    "publish": "2026-02-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:C/I:C/A:C",
+    "product": "[\"Microsoft Window 10 22H2\", \"Microsoft Window 10 21H2\", \"Microsoft Window 10 1809\", \"Microsoft Window 10 1607\", \"Microsoft Window 11 23H2\", \"Microsoft Window 11 24H2\", \"Microsoft Window 11 25H2\", \"Microsoft Windows Server 2025\", \"Microsoft Windows Server 2016\", \"Microsoft Windows Server 2019\", \"Microsoft Windows Server 2022\", \"Microsoft Windows Server 2012\", \"Microsoft Windows Server 2008\", \"Microsoft Windows Server 2012 R2\", \"Microsoft Windows Server 2008 R2\"]",
+    "cve": "CVE-2026-20921",
+    "description": "Microsoft Windows SMB Server是美国微软（Microsoft）公司的一个网络文件共享协议。它允许计算机上的应用程序读取和写入文件以及从计算机网络中的服务器程序请求服务。Microsoft Windows SMB Server存在权限提升漏洞，该漏洞是由于在SMB服务器中使用具有不正确同步的共享资源（“竞争条件”）并发执行造成的。攻击者可利用该漏洞在系统上获得更高的权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20921",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20921",
+    "patch": "Microsoft Windows SMB Server权限提升漏洞（CNVD-2026-10677）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-19",
+    "open_time": "2026-02-09",
+    "update_time": "2026-02-09",
+    "data_summary": "95ae01da6a8e12b7f7d9a7d10feca8da"
+}

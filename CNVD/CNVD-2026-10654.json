@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:41:12",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10654",
+    "spider_time": 1770885672223,
+    "name": "IBM ApplinX未授权访问漏洞",
+    "cnvd": "CNVD-2026-10654",
+    "publish": "2026-02-10",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:N/I:P/A:N",
+    "product": "[\"IBM ApplinX 11.1\"]",
+    "cve": "CVE-2025-36410",
+    "description": "IBM ApplinX是美国国际商业机器（IBM）公司的一个专注于将绿屏界面转换为基于Web的现代应用程序。IBM ApplinX存在未授权访问漏洞，该漏洞源于服务器端对客户端安全性的强制执行不足，攻击者可利用该漏洞导致执行未经授权的管理操作。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.ibm.com/support/pages/node/7257446",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7257446",
+    "patch": "IBM ApplinX未授权访问漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-30",
+    "open_time": "2026-02-09",
+    "update_time": "2026-02-09",
+    "data_summary": "20b85a5ec9c8963973a6c48a25267346"
+}

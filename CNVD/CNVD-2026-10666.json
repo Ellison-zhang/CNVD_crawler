@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:39:30",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10666",
+    "spider_time": 1770885570153,
+    "name": "MedDream PACS Premium任意文件读取漏洞",
+    "cnvd": "CNVD-2026-10666",
+    "publish": "2026-02-11",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:N",
+    "product": "[\"MedDream PACS Premium 7.3.6.870\"]",
+    "cve": "CVE-2025-53912",
+    "description": "MedDream PACS Premium是MedDream公司的一款企业级图像存储与管理服务器套件。MedDream PACS Premium存在任意文件读取漏洞，攻击者可利用该漏洞导致读取任意文件。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://talosintelligence.com/vulnerability_reports/TALOS-2025-2273",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://meddream.com/products/meddream-pacs-server/",
+    "patch": "MedDream PACS Premium任意文件读取漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-30",
+    "open_time": "2026-02-09",
+    "update_time": "2026-02-09",
+    "data_summary": "ba8e8e4f90d96870425c1e25204e1b9c"
+}

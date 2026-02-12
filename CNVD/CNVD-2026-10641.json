@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:48:44",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10641",
+    "spider_time": 1770886124292,
+    "name": "Google Android信息泄露漏洞（CNVD-2026-10641）",
+    "cnvd": "CNVD-2026-10641",
+    "publish": "2026-02-09",
+    "severity": "中",
+    "cvss_vector": "AV:A/AC:L/Au:N/C:C/I:P/A:N",
+    "product": "[\"Google Android\", \"Google Android\"]",
+    "cve": "CVE-2025-36911",
+    "description": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。Google Android存在信息泄露漏洞，该漏洞源于基于密钥配对逻辑错误，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://source.android.com/security/bulletin/pixel/2026-01-01",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/docs/security/overview/acknowledgements",
+    "patch": "Google Android信息泄露漏洞（CNVD-2026-10641）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-02-05",
+    "open_time": "2026-02-09",
+    "update_time": "2026-02-09",
+    "data_summary": "f3a8e20ef893e0d78fdaff96f03df748"
+}

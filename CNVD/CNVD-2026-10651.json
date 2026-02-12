@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:48:36",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10651",
+    "spider_time": 1770886116094,
+    "name": "Google SentencePiece缓冲区溢出漏洞",
+    "cnvd": "CNVD-2026-10651",
+    "publish": "2026-02-09",
+    "severity": "高",
+    "cvss_vector": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"Google SentencePiece <0.2.1\"]",
+    "cve": "CVE-2026-1260",
+    "description": "Google SentencePiece是美国谷歌（Google）公司的一款用于基于神经网络的文本生成的无监督文本分词器。Google SentencePiece存在缓冲区溢出漏洞，该漏洞源于使用非正常训练过程创建的易受攻击模型文件时存在无效内存访问。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/google/sentencepiece/releases/tag/v0.2.1",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/google/sentencepiece/releases",
+    "patch": "Google SentencePiece缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-02-05",
+    "open_time": "2026-02-09",
+    "update_time": "2026-02-09",
+    "data_summary": "6b95d7ef914a089b1f43944c06271572"
+}

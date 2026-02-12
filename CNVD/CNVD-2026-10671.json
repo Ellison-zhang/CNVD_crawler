@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:40:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10671",
+    "spider_time": 1770885658311,
+    "name": "MedDream PACS Premium跨站脚本漏洞（CNVD-2026-10671）",
+    "cnvd": "CNVD-2026-10671",
+    "publish": "2026-02-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"MedDream PACS Premium 7.3.5.860\"]",
+    "cve": "CVE-2025-32731",
+    "description": "MedDream PACS Premium是MedDream公司的一款企业级图像存储与管理服务器套件。MedDream PACS Premium存在跨站脚本漏洞，该漏洞是由于radiationDoseReport.php功能对用户提供的输入验证不当造成的。目前没有详细的漏洞细节提供。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://talosintelligence.com/vulnerability_reports/TALOS-2025-2176",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://talosintelligence.com/vulnerability_reports/TALOS-2025-2176",
+    "patch": "MedDream PACS Premium跨站脚本漏洞（CNVD-2026-10671）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2025-07-30",
+    "open_time": "2026-02-09",
+    "update_time": "2026-02-09",
+    "data_summary": "08c245c3d7394f587e8765630a2d2b0f"
+}

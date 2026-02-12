@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:38:29",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10682",
+    "spider_time": 1770885509435,
+    "name": "Microsoft Windows SMB Server拒绝服务漏洞",
+    "cnvd": "CNVD-2026-10682",
+    "publish": "2026-02-12",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:H/Au:S/C:N/I:N/A:C",
+    "product": "[\"Microsoft Windows Server 2008\", \"Microsoft Windows Server 2012 R2\", \"Microsoft Windows Server 2016\", \"Microsoft Windows Server 2019\", \"Microsoft Windows Server 2008 R2\", \"Microsoft Windows Server 2012\", \"Microsoft Windows Server 2022\", \"Microsoft Window 10 22H2\", \"Microsoft Window 10 21H2\", \"Microsoft Window 10 1809\", \"Microsoft Window 10 1607\", \"Microsoft Window 11 23H2\", \"Microsoft Window 11 24H2\", \"Microsoft Windows Server 2025\", \"Microsoft Window 11 25H2\"]",
+    "cve": "CVE-2026-20927",
+    "description": "Microsoft Windows SMB Server是美国微软（Microsoft）公司的一个网络文件共享协议。它允许计算机上的应用程序读取和写入文件以及从计算机网络中的服务器程序请求服务。Microsoft Windows SMB Server存在拒绝服务漏洞，该漏洞是由于在SMB服务器中使用共享资源进行并发执行时同步不正确（“竞争条件”）造成的。攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20927",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20927",
+    "patch": "Microsoft Windows SMB Server拒绝服务漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-19",
+    "open_time": "2026-02-09",
+    "update_time": "2026-02-09",
+    "data_summary": "caf5186673289a34b4bb4afbb21b63e7"
+}

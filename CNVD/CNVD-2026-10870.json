@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:37:34",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10870",
+    "spider_time": 1770885454108,
+    "name": "WordPress插件Simple User Registration访问控制错误漏洞",
+    "cnvd": "CNVD-2026-10870",
+    "publish": "2026-02-12",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"WordPress Simple User Registration <=6.7\"]",
+    "cve": "CVE-2026-0844",
+    "description": "WordPress是一套使用PHP语言开发的博客平台，该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能，WordPress plugin是一个应用插件。WordPress插件Simple User Registration存在访问控制错误漏洞，该漏洞源于对profile_save_field函数限制不足，攻击者可利用该漏洞在配置文件更新期间通过提供“wp_capabilities”参数来修改其用户角色。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2026-0844",
+    "solution": "用户可联系供应商获得补丁信息：\nhttps://wordpress.org/plugins/wp-registration",
+    "patch": "WordPress插件Simple User Registration访问控制错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-02-04",
+    "open_time": "2026-02-10",
+    "update_time": "2026-02-10",
+    "data_summary": "5aba164825da03ccb820f300dbb88772"
+}

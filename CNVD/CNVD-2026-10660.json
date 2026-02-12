@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:47:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10660",
+    "spider_time": 1770886025345,
+    "name": "IBM ApplinX数据伪造问题漏洞",
+    "cnvd": "CNVD-2026-10660",
+    "publish": "2026-02-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+    "product": "[\"IBM ApplinX 11.1\"]",
+    "cve": "CVE-2025-36418",
+    "description": "IBM ApplinX是美国国际商业机器（IBM）公司的一个专注于将绿屏界面转换为基于 Web 的现代应用程序。IBM ApplinX存在数据伪造问题漏洞，该漏洞源于JWT令牌验证不当，攻击者可利用该漏洞提升权限。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.ibm.com/support/pages/node/7257446",
+    "solution": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttps://www.ibm.com/support/pages/node/7257446",
+    "patch": "IBM ApplinX数据伪造问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-26",
+    "open_time": "2026-02-09",
+    "update_time": "2026-02-09",
+    "data_summary": "13112b363ec62cfe5663f6ab735013ab"
+}

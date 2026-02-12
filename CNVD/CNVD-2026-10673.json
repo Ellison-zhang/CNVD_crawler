@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:40:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10673",
+    "spider_time": 1770885625003,
+    "name": "Microsoft Windows File Explorer信息泄露漏洞（CNVD-2026-10673）",
+    "cnvd": "CNVD-2026-10673",
+    "publish": "2026-02-11",
+    "severity": "中",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Microsoft Windows Server 2016\", \"Microsoft Windows Server 2019\", \"Microsoft Windows Server 2022\", \"Microsoft Window 10 22H2\", \"Microsoft Window 10 21H2\", \"Microsoft Window 10 1809\", \"Microsoft Window 10 1607\", \"Microsoft Window 11 23H2\", \"Microsoft Window 11 24H2\", \"Microsoft Windows Server 2025\", \"Microsoft Window 11 25H2\"]",
+    "cve": "CVE-2026-20932",
+    "description": "Microsoft Windows File Explorer是美国微软（Microsoft）公司的一个文件管理器应用程序。Microsoft Windows File Explorer存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20932",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20932",
+    "patch": "Microsoft Windows File Explorer信息泄露漏洞（CNVD-2026-10673）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-19",
+    "open_time": "2026-02-09",
+    "update_time": "2026-02-09",
+    "data_summary": "1a2c50ae18381227ddad3b5c666b5109"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:41:05",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10653",
+    "spider_time": 1770885665632,
+    "name": "IBM ApplinX信息泄露漏洞（CNVD-2026-10653）",
+    "cnvd": "CNVD-2026-10653",
+    "publish": "2026-02-10",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+    "product": "[\"IBM ApplinX 11.1\"]",
+    "cve": "CVE-2025-36419",
+    "description": "IBM ApplinX是美国国际商业机器（IBM）公司的一个专注于将绿屏界面转换为基于Web的现代应用程序。IBM ApplinX存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.ibm.com/support/pages/node/7257446",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7257446",
+    "patch": "IBM ApplinX信息泄露漏洞（CNVD-2026-10653）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-30",
+    "open_time": "2026-02-09",
+    "update_time": "2026-02-09",
+    "data_summary": "33f1edef508d12951beeaa71eeac142c"
+}

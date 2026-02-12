@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:45:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10663",
+    "spider_time": 1770885958854,
+    "name": "IBM Concert代码问题漏洞",
+    "cnvd": "CNVD-2026-10663",
+    "publish": "2026-02-10",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+    "product": "[\"IBM Concert >=1.0.0，<2.1.0\"]",
+    "cve": "CVE-2025-33015",
+    "description": "IBM Concert是美国国际商业机器（IBM）公司的一种新工具。使用生成式AI来帮助管理复杂的云原生应用程序。IBM Concert存在代码问题漏洞，该漏洞源于未验证上传到Web界面的文件内容，攻击者可利用该漏洞导致恶意文件上传。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.ibm.com/support/pages/node/7257006",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/products/concert",
+    "patch": "IBM Concert代码问题漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-30",
+    "open_time": "2026-02-09",
+    "update_time": "2026-02-09",
+    "data_summary": "45ec7045730c02c383d2ce184154ee7f"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-02-12 16:39:22",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-10665",
+    "spider_time": 1770885562914,
+    "name": "MedDream PACS Premium跨站脚本漏洞",
+    "cnvd": "CNVD-2026-10665",
+    "publish": "2026-02-11",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"MedDream PACS Premium 7.3.6.870\"]",
+    "cve": "CVE-2025-44000",
+    "description": "MedDream PACS Premium是MedDream公司的一款企业级图像存储与管理服务器套件。MedDream PACS Premium存在跨站脚本漏洞，该漏洞由于sendOruReport功能对用户提供的输入验证不当造成的。攻击者可利用该漏洞导致执行任意JavaScript代码。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://talosintelligence.com/vulnerability_reports/TALOS-2025-2270",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://meddream.com/products/meddream-pacs-server/",
+    "patch": "MedDream PACS Premium跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-01-30",
+    "open_time": "2026-02-09",
+    "update_time": "2026-02-09",
+    "data_summary": "84f2b2c073c6e21a971861c4dff9d7aa"
+}
