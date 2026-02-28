@@ -1,10 +1,2 @@
-HTTPSConnectionPool(host='www.cnvd.org.cn', port=443): Max retries exceeded with url: /flaw/show/CNVD-2025-28820 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
-
-2025/12/31 11:10:58 - HTTPSConnectionPool(host='www.cnvd.org.cn', port=443): Max retries exceeded with url: /flaw/show/CNVD-2024-26328 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
-
-2025/12/31 13:46:49 - HTTPSConnectionPool(host='www.cnvd.org.cn', port=443): Max retries exceeded with url: /flaw/show/CNVD-2025-16959 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
-
-2025/12/31 17:08:48 - HTTPSConnectionPool(host='www.cnvd.org.cn', port=443): Max retries exceeded with url: /flaw/list?flag=True&numPerPage=100&offset=0&max=100 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
-
-2026/01/04 16:01:49 - HTTPSConnectionPool(host='www.cnvd.org.cn', port=443): Max retries exceeded with url: /flaw/list?flag=True&numPerPage=100&offset=0&max=100 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+HTTPSConnectionPool(host='www.cnvd.org.cn', port=443): Max retries exceeded with url: /flaw/list?flag=True&numPerPage=100&offset=0&max=100 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1017)')))
 
