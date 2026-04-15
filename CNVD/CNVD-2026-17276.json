@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-04-15 09:33:13",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-17276",
+    "spider_time": 1776245593924,
+    "name": "Tenda F451 SetIpBind fromSetIpBind page参数栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2026-17276",
+    "publish": "2026-04-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"Tenda F451 1.0.0.7_cn_svn7958\"]",
+    "cve": "CVE-2026-6135",
+    "description": "Tenda F451是一款无线路由器产品，它主要提供网络连接和无线覆盖功能。Tenda F451存在栈缓冲区溢出漏洞。该漏洞源于/goform/SetIpBind中的fromSetIpBind函数未能正确处理page参数，攻击者可利用该漏洞通过远程发送恶意数据触发栈溢出。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2026-6135",
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://vuldb.com/vuln/356999",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-04-13",
+    "open_time": "2026-04-15",
+    "update_time": "2026-04-15",
+    "data_summary": "c21f674aad4febca44fa2796c74584d3"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-04-15 09:33:11",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-17275",
+    "spider_time": 1776245591071,
+    "name": "FFmpeg av_bprint_finalize()函数堆缓冲区溢出漏洞",
+    "cnvd": "CNVD-2026-17275",
+    "publish": "2026-04-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:N/A:C",
+    "product": "[\"FFmpeg Ffmpeg 8.0.1\"]",
+    "cve": "CVE-2026-30999",
+    "description": "FFmpeg是一款用于处理多媒体数据的开源软件库。FFmpeg存在堆缓冲区溢出漏洞。该漏洞源于av_bprint_finalize()函数未能正确处理特制输入，攻击者可利用该漏洞导致拒绝服务。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2026-30999",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/FFmpeg/FFmpeg/blob/master/tools/zmqsend.c",
+    "patch": "FFmpeg av_bprint_finalize()函数堆缓冲区溢出漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-04-14",
+    "open_time": "2026-04-15",
+    "update_time": "2026-04-15",
+    "data_summary": "86252ba2edc08e9e1e1a7bdfe337c4b1"
+}

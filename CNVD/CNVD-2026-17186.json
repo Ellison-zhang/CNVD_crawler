@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-04-15 09:33:38",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-17186",
+    "spider_time": 1776245618609,
+    "name": "OpenClaw存在未明漏洞（CNVD-2026-17186）",
+    "cnvd": "CNVD-2026-17186",
+    "publish": "2026-04-15",
+    "severity": "低",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"OpenClaw OpenClaw <2026.3.11\"]",
+    "cve": "CVE-2026-32970",
+    "description": "OpenClaw是OpenClaw开源的一个智能人工助理。OpenClaw存在安全漏洞，该漏洞源于凭据回退问题，攻击者可利用该漏洞绕过本地身份验证边界。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/openclaw/openclaw/security/advisories/GHSA-qvr7-g57c-mrc7",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/openclaw/openclaw/releases",
+    "patch": "OpenClaw存在未明漏洞（CNVD-2026-17186）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-04-10",
+    "open_time": "2026-04-14",
+    "update_time": "2026-04-14",
+    "data_summary": "1dc1c7849c1f2a8c28dc8f3f98fff37e"
+}

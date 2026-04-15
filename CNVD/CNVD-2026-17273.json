@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-04-15 09:32:58",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-17273",
+    "spider_time": 1776245578566,
+    "name": "Totolink A3002MU formWlanSetup文件wan-url参数栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2026-17273",
+    "publish": "2026-04-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A3002MU B20211125.1046\"]",
+    "cve": "CVE-2026-6194",
+    "description": "Totolink A3002MU是一款无线路由器产品，它提供网络连接和无线接入功能。Totolink A3002MU存在栈缓冲区溢出漏洞。该漏洞源于HTTP请求处理组件中对wan-url参数未能正确处理，攻击者可利用该漏洞通过发送特制请求触发栈溢出实现远程代码执行。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2026-6194",
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://vuldb.com/vuln/357116",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-04-14",
+    "open_time": "2026-04-15",
+    "update_time": "2026-04-15",
+    "data_summary": "5ae44b4742ebbfc91fc47790ca68520b"
+}

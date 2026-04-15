@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-04-15 09:34:18",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-17257",
+    "spider_time": 1776245658958,
+    "name": "Discourse信息泄露漏洞（CNVD-2026-17257）",
+    "cnvd": "CNVD-2026-17257",
+    "publish": "2026-04-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:N/A:N",
+    "product": "[\"Discourse Discourse <2026.3.0\", \"Discourse Discourse <2026.1.3\", \"Discourse Discourse <2026.2.2\"]",
+    "cve": "CVE-2026-32143",
+    "description": "Discourse是Discourse开源的一套开源的社区讨论平台。该平台包括社区、电子邮件和聊天室等功能。Discourse存在信息泄露漏洞，攻击者可利用该漏洞导致敏感操作数据泄露。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/discourse/discourse/commit/727029a2983a14b50bce19439fbf9840db8372aa",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/discourse/discourse/tags",
+    "patch": "Discourse信息泄露漏洞（CNVD-2026-17257）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-04-10",
+    "open_time": "2026-04-15",
+    "update_time": "2026-04-15",
+    "data_summary": "d068c60396e9937cd9c0dcf88f271c07"
+}

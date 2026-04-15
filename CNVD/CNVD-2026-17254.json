@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-04-15 09:34:07",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-17254",
+    "spider_time": 1776245647129,
+    "name": "Discourse授权问题漏洞（CNVD-2026-17254）",
+    "cnvd": "CNVD-2026-17254",
+    "publish": "2026-04-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:N/I:P/A:N",
+    "product": "[\"Discourse Discourse <2026.3.0\", \"Discourse Discourse <2026.1.3\", \"Discourse Discourse <2026.2.2\"]",
+    "cve": "CVE-2026-33074",
+    "description": "Discourse是Discourse开源的一套开源的社区讨论平台。该平台包括社区、电子邮件和聊天室等功能。Discourse存在授权问题漏洞，攻击者可利用该漏洞导致用户购买低层级订阅但获得高层级订阅的权益。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/discourse/discourse/commit/c34f2aac8dcd1ae2886fa84256f607bc003f9d80",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/discourse/discourse/tags",
+    "patch": "Discourse授权问题漏洞（CNVD-2026-17254）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-04-10",
+    "open_time": "2026-04-15",
+    "update_time": "2026-04-15",
+    "data_summary": "611e151081cd4133901aebda66f9cad6"
+}

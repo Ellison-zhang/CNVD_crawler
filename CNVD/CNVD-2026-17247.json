@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-04-15 09:33:06",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-17247",
+    "spider_time": 1776245586707,
+    "name": "WordPress插件Product Filter for WooCommerce by WBW存在未明漏洞",
+    "cnvd": "CNVD-2026-17247",
+    "publish": "2026-04-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:C/I:N/A:N",
+    "product": "[\"WordPress Product Filter for WooCommerce by WBW <3.1.3\"]",
+    "cve": "CVE-2026-3830",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件Product Filter for WooCommerce by WBW存在安全漏洞，该漏洞源于清理和转义不足，攻击者可利用该漏洞导致SQL注入攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://wpscan.com/vulnerability/768014fd-0403-4182-b19e-3d46c92d8755/",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wpscan.com/vulnerability/768014fd-0403-4182-b19e-3d46c92d8755/",
+    "patch": "WordPress插件Product Filter for WooCommerce by WBW存在未明漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-04-14",
+    "open_time": "2026-04-15",
+    "update_time": "2026-04-15",
+    "data_summary": "aa1ebbb1b42f807997a1c2bb5eb54976"
+}

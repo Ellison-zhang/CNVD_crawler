@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-04-15 09:34:25",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-17188",
+    "spider_time": 1776245665041,
+    "name": "AnythingLLM SQL注入漏洞",
+    "cnvd": "CNVD-2026-17188",
+    "publish": "2026-04-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"AnythingLLM AnythingLLM <=1.11.1\"]",
+    "cve": "CVE-2026-32628",
+    "description": "AnythingLLM是Mintplex开源的一个一体化AI应用程序。AnythingLLM存在SQL注入漏洞，该漏洞源于内置SQL代理插件中getTableSchemaSql方法的table_name参数缺少对外部输入SQL语句的验证，攻击者可利用该漏洞对连接的数据库执行任意SQL命令。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/Mintplex-Labs/anything-llm/commit/334ce052f063b53a4275518cbed3bab357695d7e",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/Mintplex-Labs/anything-llm/releases",
+    "patch": "AnythingLLM SQL注入漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-03-19",
+    "open_time": "2026-04-14",
+    "update_time": "2026-04-14",
+    "data_summary": "48ca3da911160ae62b0ad4ccd46440a4"
+}

@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-04-15 09:32:53",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-17246",
+    "spider_time": 1776245573422,
+    "name": "WordPress插件User Registration & Membership输入验证错误漏洞",
+    "cnvd": "CNVD-2026-17246",
+    "publish": "2026-04-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "product": "[\"WordPress User Registration & Membership <=5.1.4\"]",
+    "cve": "CVE-2026-6203",
+    "description": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。WordPress插件User Registration & Membership存在输入验证错误漏洞，该漏洞源于对redirect_to_on_logout GET参数验证不足，攻击者可利用该漏洞导致开放重定向攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://www.wordfence.com/threat-intel/vulnerabilities/id/020bed37-9544-49b7-941d-3b7f509fdfdf?source=cve",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/020bed37-9544-49b7-941d-3b7f509fdfdf?source=cve",
+    "patch": "WordPress插件User Registration & Membership输入验证错误漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-04-14",
+    "open_time": "2026-04-15",
+    "update_time": "2026-04-15",
+    "data_summary": "fc2550731c313d04e3624cd2a4253b56"
+}

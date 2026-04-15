@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-04-15 09:33:47",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-17248",
+    "spider_time": 1776245627823,
+    "name": "Discourse跨站脚本漏洞",
+    "cnvd": "CNVD-2026-17248",
+    "publish": "2026-04-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+    "product": "[\"Discourse Discourse <2026.3.0\", \"Discourse Discourse <2026.1.3\", \"Discourse Discourse <2026.2.2\"]",
+    "cve": "CVE-2026-32273",
+    "description": "Discourse是Discourse开源的一套开源的社区讨论平台。该平台包括社区、电子邮件和聊天室等功能。Discourse存在跨站脚本漏洞，该漏洞源于API更新分类描述时未清理描述字符串，攻击者可利用该漏洞导致XSS攻击。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/discourse/discourse/commit/05e3da2a670cfd499649128b6c955b552451240b",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/discourse/discourse/tags",
+    "patch": "Discourse跨站脚本漏洞的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-04-10",
+    "open_time": "2026-04-15",
+    "update_time": "2026-04-15",
+    "data_summary": "1212738e02570dc5d9bad7f42c841b35"
+}

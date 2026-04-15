@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-04-15 09:33:03",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-17274",
+    "spider_time": 1776245583656,
+    "name": "TOTOLINK A7000R cstecgi.cgi setWiFiEasyGuestCfg函数ssid5g参数栈缓冲区溢出漏洞",
+    "cnvd": "CNVD-2026-17274",
+    "publish": "2026-04-15",
+    "severity": "高",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+    "product": "[\"TOTOLINK A7000R 9.1.0u.6115\"]",
+    "cve": "CVE-2026-6168",
+    "description": "TOTOLINK A7000R是一款无线路由器产品，主要用于提供网络连接和Wi-Fi接入服务。TOTOLINK A7000R存在栈缓冲区溢出漏洞。该漏洞源于/cgi-bin/cstecgi.cgi文件中的setWiFiEasyGuestCfg函数未能正确处理ssid5g参数，攻击者可利用该漏洞通过远程发送特制数据触发栈溢出。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://vuldb.com/vuln/357056",
+    "solution": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://vuldb.com/vuln/357056",
+    "patch": "(无补丁信息)",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-04-14",
+    "open_time": "2026-04-15",
+    "update_time": "2026-04-15",
+    "data_summary": "cad479107b09a790f6303baa21131521"
+}

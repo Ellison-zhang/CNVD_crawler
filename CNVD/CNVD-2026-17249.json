@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-04-15 09:33:51",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-17249",
+    "spider_time": 1776245631858,
+    "name": "Discourse信息泄露漏洞（CNVD-2026-17249）",
+    "cnvd": "CNVD-2026-17249",
+    "publish": "2026-04-15",
+    "severity": "低",
+    "cvss_vector": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+    "product": "[\"Discourse Discourse <2026.3.0\", \"Discourse Discourse <2026.1.3\", \"Discourse Discourse <2026.2.2\"]",
+    "cve": "CVE-2026-32951",
+    "description": "Discourse是Discourse开源的一套开源的社区讨论平台。该平台包括社区、电子邮件和聊天室等功能。Discourse存在信息泄露漏洞。该漏洞源于经过身份验证的用户可通过发送带有匹配共享草稿分类的category_id参数的内联onebox请求来获取共享草稿主题标题，攻击者可利用该漏洞获取敏感信息。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://github.com/discourse/discourse/commit/0b4e6ff170362823d1cfe2a1a096785d0d77ee83",
+    "solution": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/discourse/discourse/tags",
+    "patch": "Discourse信息泄露漏洞（CNVD-2026-17249）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-04-10",
+    "open_time": "2026-04-15",
+    "update_time": "2026-04-15",
+    "data_summary": "612a55acdabd29175b65aaff7b56230d"
+}

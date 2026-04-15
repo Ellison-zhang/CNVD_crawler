@@ -1,0 +1,22 @@
+{
+    "parse_time": "2026-04-15 09:34:39",
+    "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-17191",
+    "spider_time": 1776245679512,
+    "name": "AnythingLLM存在未明漏洞（CNVD-2026-17191）",
+    "cnvd": "CNVD-2026-17191",
+    "publish": "2026-04-15",
+    "severity": "中",
+    "cvss_vector": "AV:N/AC:L/Au:M/C:P/I:P/A:N",
+    "product": "[\"AnythingLLM AnythingLLM <=1.11.1\"]",
+    "cve": "CVE-2026-32715",
+    "description": "AnythingLLM是Mintplex开源的一个一体化AI应用程序。AnythingLLM存在安全漏洞，该漏洞源于两个通用系统偏好设置端点允许管理器角色访问，攻击者可利用该漏洞导致管理器读取明文SQL数据库凭据并覆盖仅限管理员访问的全局设置。",
+    "flaw_type": "通用型漏洞",
+    "reference": "https://nvd.nist.gov/vuln/detail/CVE-2026-32715",
+    "solution": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://github.com/Mintplex-Labs/anything-llm/releases",
+    "patch": "AnythingLLM存在未明漏洞（CNVD-2026-17191）的补丁",
+    "verify": "(暂无验证信息)",
+    "submit_time": "2026-03-18",
+    "open_time": "2026-04-14",
+    "update_time": "2026-04-14",
+    "data_summary": "c707328efb3e909f2d91a82db0f8ca33"
+}
