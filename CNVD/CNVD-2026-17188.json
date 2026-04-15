@@ -1,7 +1,7 @@
 {
-    "parse_time": "2026-04-15 11:22:52",
+    "parse_time": "2026-04-15 12:21:20",
     "path": "https://www.cnvd.org.cn/flaw/show/CNVD-2026-17188",
-    "spider_time": 1776252172534,
+    "spider_time": 1776255680623,
     "name": "AnythingLLM SQL注入漏洞",
     "cnvd": "CNVD-2026-17188",
     "publish": "2026-04-15",
